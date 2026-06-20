@@ -1,4 +1,4 @@
-{
+window.KALLRUMMET_NEWS_CACHE = {
   "updatedAt": "2026-06-20T19:26:54.293Z",
   "feedCount": 12,
   "sourceCount": 12,
@@ -5184,4 +5184,4 @@
       "timestamp": 1780659900000
     }
   ]
-}
+};
