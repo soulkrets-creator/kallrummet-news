@@ -1,8 +1,508 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-04T09:08:57.253Z",
+  "updatedAt": "2026-07-04T15:45:48.550Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Massiv skogsbrand",
+      "description": "Video: Tusentals beordras stanna inne i svenskparadiset",
+      "link": "https://www.expressen.se/tv/nyheter/massiv-skogsbrand-i-spanska-semesterparadiset-en-gripen/",
+      "guid": "https://www.expressen.se/tv/nyheter/massiv-skogsbrand-i-spanska-semesterparadiset-en-gripen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783179547000
+    },
+    {
+      "title": "Varnar för skyfall",
+      "description": "Risken: 50 millimeter i Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dd64df36-ab10-458f-87e7-ed3ba24bbd83",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dd64df36-ab10-458f-87e7-ed3ba24bbd83",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783179438000
+    },
+    {
+      "title": "Strejkhot på SAS och Norwegian i Norge",
+      "description": "Anställda hos SAS och Norwegian i Norge kan gå ut i strejk, rapporterar norska TV2. Parterna har till midnatt på lördag att enas – annars riskerar flygtrafiken att drabbas redan från söndag.",
+      "link": "https://www.expressen.se/nyheter/varlden/strejkhot-pa-sas-och-norwegian-i-norge-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/strejkhot-pa-sas-och-norwegian-i-norge-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783178391000
+    },
+    {
+      "title": "Den största schismen på 150 år skakar katolska kyrkan efter vigningar i Schweiz",
+      "description": "Efter en irreguljär biskopsvigning tidigare i veckan har påven gjort det klart att såväl präster som lekmän i SSPX måste välja om de vill vara katoliker eller schismatiker.",
+      "link": "https://yle.fi/a/7-10101645?origin=rss",
+      "guid": "https://yle.fi/a/7-10101645",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783178225000
+    },
+    {
+      "title": "Kommentar: Ruisrock visar varför Finland är bäst på att vara udda",
+      "description": "Ruisrock har firats i Åbo sedan 1970. Festivalen lyckas nå unga med inhemska toppartister.",
+      "link": "https://yle.fi/a/7-10101469?origin=rss",
+      "guid": "https://yle.fi/a/7-10101469",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783178179000
+    },
+    {
+      "title": "Bet polis på Kastrup",
+      "description": "Amerikan ilsknade till",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3198bfe-7af3-49e3-b7cb-197dfa9acdbe",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3198bfe-7af3-49e3-b7cb-197dfa9acdbe",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783177558000
+    },
+    {
+      "title": "Hur bra drönarpilot är du?",
+      "description": "Dagens flygfråga Tidigare idag skrev vi om en drönarskola i Ukraina och jag tänkte att vi därför kunde kolla hur ni läsare anser att era drönarskills är. Svara gärna på vår enkät nedan. Vill ni snacka mer om drönare, drönarflygning eller något annat som känns relevant kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/hur-bra-dronarpilot-ar-du/493723/ L&auml;s mer om Drönare , Ukraina , Drönarskola , Drönarflygning",
+      "link": "https://feber.se/hur-bra-dronarpilot-ar-du/493723/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/hur-bra-dronarpilot-ar-du/493723/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783177200000
+    },
+    {
+      "title": "”Gui Minhai måste släppas”",
+      "description": "Svenska kravet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cd04c2df-9d34-4acf-9347-b1680f96511e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cd04c2df-9d34-4acf-9347-b1680f96511e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783175718000
+    },
+    {
+      "title": "Publikinformation: Återstarten mot Elfsborg",
+      "description": "På söndagen drar Allsvenskan igång igen när Bajen ställs mot Elfsborg på bortaplan. Matchen sparkas igång 16.30 på Borås Arena och här är samlad publikinformation för dig som ska stötta Bajen på plats",
+      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-aterstarten-mot-elfsborg",
+      "guid": "d14982f4-9905-4686-91ef-562675279f01",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/ac66b0768ab3eab3f612fac52f374738b68a2ddd-1256x837.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1783175400000
+    },
+    {
+      "title": "Så ska kreditkorten vinna de kapitalstarka",
+      "description": "American Express och Chase tar striden om kunderna ut från flygplatserna. Nu är det events, sport och kunder med kapital som gäller. American Express och Chase för en intensiv kamp om att vinna välbärgade kunder, som betalar höga årsavgifter och, framför allt, spenderar betydligt mer med sina kreditkort. Lounger är ett klassiskt vapen. Nu blir […]",
+      "link": "https://www.dagensps.se/privatekonomi/sa-ska-kreditkorten-vinna-de-kapitalstarka/",
+      "guid": "https://www.dagensps.se/?p=1653145",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlgudxvawncxu-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783175025000
+    },
+    {
+      "title": "Häng med på en åktur i en 4D-berg-och-dalbana",
+      "description": "Ser ut att vara en fruktansvärd upplevelse Här är ett klipp som visar hur en åktur i Dinoconda, en 4D-berg-och-dalbanan på det kinesiska nöjesfältet China Dinosaurs Park, går till. Att berg-och-dalbanan klassas som \"4D\" beror på att dess säten kan rotera 360 grader samtidigt som tåget åker framåt på rälsen. I dagsläget finns det bara tre stycken 4D-berg-och-dalbanor i världen. Förutom Dinoconda räknas även X2 på Six Flags Magic Mountain i Kalifornien och Eejanaika på Fuji-Q Highland i japanska Yamanashi som äkta 4D-berg-och-dalbanor. Det kan tilläggas att det även finns ett femtontal berg-och-dalbanor i världen som klassas som \"4D Free Spin\"-modeller. Även där kan sätena rotera 360 grader men det sköts då av tyngdkraft istället för mekanik som i de äkta 4D-berg-och-dalbanorna. Första minuten av klippet ovan visar hur berg-och-dalbane-tåget tar sig upp för banans första uppförsbacke, något som kan skippas om ni har bråttom. L&auml;s vidare och kommentera: https://tjock.se/sinnet/hang-med-pa-en-aktur-i-en-4d-berg-och-dalbana/493725/ L&auml;s mer om Dinoconda , China Dinosaurs Park , X2 , Six Flags , Eejanaika , Fuji-Q Highland",
+      "link": "https://tjock.se/sinnet/hang-med-pa-en-aktur-i-en-4d-berg-och-dalbana/493725/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/sinnet/hang-med-pa-en-aktur-i-en-4d-berg-och-dalbana/493725/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783173600000
+    },
+    {
+      "title": "Zelenskyj: Oljeterminal i S:t Petersburg träffad",
+      "description": "Ukrainas president Volodymyr Zelenskyj bekräftar på X att landet anfallit oljeinfrastruktur i S:t Petersburg med långdistansvapen. Attackerna, som skedde under fredagskvällen, har även rapporterats i ryska mediekanaler på Telegram, enligt The Kyiv Independent.",
+      "link": "https://www.expressen.se/nyheter/varlden/zelenskyj-oljeterminal-i-st-petersburg-traffad/",
+      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyj-oljeterminal-i-st-petersburg-traffad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783172233000
+    },
+    {
+      "title": "Barn skadat",
+      "description": "Påbackat av bil",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=753b92d7-932f-4ac9-be37-85fc1b805858",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=753b92d7-932f-4ac9-be37-85fc1b805858",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783171866000
+    },
+    {
+      "title": "16 barn hittade i ”skräckhus”: ”Ren ondska”",
+      "description": "16 barn har hittats instängda i ett mardrömshus täckt av sopor och avföring. Enligt myndigheter kan vanvården ha pågått i flera år. Nu är föräldrarna gripna.",
+      "link": "https://www.expressen.se/nyheter/varlden/16-barn-hittade-i-skrackhus-ren-ondska/",
+      "guid": "https://www.expressen.se/nyheter/varlden/16-barn-hittade-i-skrackhus-ren-ondska/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783170717000
+    },
+    {
+      "title": "Svensk volontär skadad i Ukraina",
+      "description": "En svensk volontär har skadats lindrigt i en drönarattack i Ukraina. Gruppen befann sig vid en bensinstation när attacken slog till. – Det är fruktansvärt när det händer, säger Kristina Leivik, medgrundare till gruppen ”Skicka vidare till Ukraina”.",
+      "link": "https://www.expressen.se/nyheter/varlden/svensk-volontar-skadad-i-ukraina/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svensk-volontar-skadad-i-ukraina/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783170105000
+    },
+    {
+      "title": "Nya regler ska göra svenska fotbollsmatcher snabbare",
+      "description": "Slut med såsandet på planen Nu drar allsvenskan i fotboll igång igen och i samband med det introduceras nya regler för svensk elitfotboll, regler som förhoppningsvis ska leda till mindre maskning och lite högre tempo i matcherna. Det handlar om samma regler som används i det pågående fotbolls-VM vilket bland annat inkluderar att inkast, insparkar och byten måste gå snabbare samt att skadade spelare måste lämna planen. Reglerna infördes för allsvenskan, superettan, damallsvenskan och elitettan den 1 juli och kommer att introduceras i övriga serier under 2027. I faktarutan kan ni läsa mer i detalj om vad regelförändringarna innebär. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-regler-ska-gora-svenska-fotbollsmatcher-snabbare/493724/ L&auml;s mer om Allsvenskan , Superettan , Damallsvenskan , Elitettan , Fotboll , maskning",
+      "link": "https://feber.se/samhalle/nya-regler-ska-gora-svenska-fotbollsmatcher-snabbare/493724/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/nya-regler-ska-gora-svenska-fotbollsmatcher-snabbare/493724/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783170000000
+    },
+    {
+      "title": "Oväntat: Vägarbetet som blev klart för snabbt",
+      "description": "Vägarbetet på E4 nära Jönköping är snart klart. Och faktum är att Trafikverket bryter alla mönster och är klart en vecka före utsatt tid. Du vet hur man brukar klaga och gnälla över vägarbeten. ”Hur länge ska det hålla på?” ”Blir de aldrig klara?” ”Nu är det försenat igen”. Här är väg- och underhållsarbetet som […]",
+      "link": "https://www.dagensps.se/motor/ovantat-vagarbetet-som-blev-klart-for-snabbt/",
+      "guid": "https://www.dagensps.se/?p=1653131",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlw0fpvofh6-8-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783169135000
+    },
+    {
+      "title": "LISTA: Här blir det musik under bar himmel",
+      "description": "Många konserter under bar himmel på Stockholms sommarscener under juli, augusti och september: Mitt i guidar till spelningar utomhus i sommar. Debaser Pontonen gör nysatsning.",
+      "link": "https://www.mitti.se/nyheter/lista-har-blir-det-musik-under-bar-himmel-6.3.368576.506d99da2b",
+      "guid": "https://www.mitti.se/nyheter/lista-har-blir-det-musik-under-bar-himmel-6.3.368576.506d99da2b",
+      "image": "https://www.mitti.se/image-3.373796.297228.20260704131514.1.b8ea1d0b97?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783169100000
+    },
+    {
+      "title": "Lördagens oväder: Ruisrock förvandlades till gyttjefest och bibliotek svämmade över i Helsingfors",
+      "description": "Ovädret ledde till att räddningsverket fick flera uppdrag på olika håll i landet. På endast en halvtimme regnade det nästan tjugo millimeter vid Helsingfors–Vanda.",
+      "link": "https://yle.fi/a/7-10101639?origin=rss",
+      "guid": "https://yle.fi/a/7-10101639",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783168813000
+    },
+    {
+      "title": "Så länge dröjer det innan sommarvärmen är tillbaka",
+      "description": "Efter flera dagar med svalare temperaturer och regn ser sommarvärmen nu ut att vara på väg tillbaka. Men först väntar några dagar då regnjackan fortfarande kan behövas nära till hands.",
+      "link": "https://www.expressen.se/nyheter/vader/sa-lange-drojer-det-innan-sommarvarmen-ar-tillbaka/",
+      "guid": "https://www.expressen.se/nyheter/vader/sa-lange-drojer-det-innan-sommarvarmen-ar-tillbaka/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783168281000
+    },
+    {
+      "title": "Vändningen: Bussarna kör till färjan i Värtahamnen",
+      "description": "Buss 76 trafikerar nu Värtahamnens färjeterminal, efter kritik från Tallink Silja Line och efter dialog med Stockholm Hamnar.",
+      "link": "https://www.mitti.se/nyheter/vandningen-bussarna-kor-till-farjan-i-vartahamnen-6.3.374003.39ea9778be",
+      "guid": "https://www.mitti.se/nyheter/vandningen-bussarna-kor-till-farjan-i-vartahamnen-6.3.374003.39ea9778be",
+      "image": "https://www.mitti.se/image-3.362504.299647.20260704130013.1.5ea5105e41?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783168200000
+    },
+    {
+      "title": "USA fyller 250 år: Så blev amerikanerna världens hopp – och skräck",
+      "description": "Sedan de förklarade sig självständiga 1776 har amerikanerna firat stora triumfer. Deras nation har vuxit till en supermakt, men allt har inte gått enligt planerna. Här får du USA:s historia i bilder – både de minnesvärda och de som amerikanerna helst vill glömma.",
+      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/usa-fyller-250-ar-sa-blev-amerikanerna-varldens-hopp-och-skrack",
+      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/usa-fyller-250-ar-sa-blev-amerikanerna-varldens-hopp-och-skrack",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1783166434000
+    },
+    {
+      "title": "Sibbos dolda pärla för den som vill vandra",
+      "description": "Molnträsk i Sibbo bjuder på mer än bad, det finns även en vandringsled och en naturstig runt träsket. Miljön består av både berg, skog och vatten.",
+      "link": "https://yle.fi/a/7-10100016?origin=rss",
+      "guid": "https://yle.fi/a/7-10100016",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783166413000
+    },
+    {
+      "title": "Isaac 1 kan röja upp i ditt hem",
+      "description": "Robot som kan vika kläder och bädda sängar Det amerikanska startup-företaget Weave Robotics har visat upp roboten Isaac 1, en robot med humanoid överkropp som förflyttar sig på ett rullande höj- och sänkbart chassi. Isaac 1 är tänkt att användas som en hjälpreda i hemmet och ska enligt Weave kunna hjälpa till med uppgifter som att plocka upp kläder och vika ihop dessa, förflytta tvättkorgar, samla ihop och plocka upp leksaker från golvet samt bädda sängar. Roboten har en batteritid på cirka 8 timmar och styrs via en tillhörande app på mobilen. En Isaac 1 kostar cirka 8000 dollar (ca 77.000 kr), men går även att hyra för 450 dollar (ca 4350 kr) i månaden. Weave kommer att börja sälja de första enheterna i höst och planerar en bredare utrullning i USA under 2027. I videoklippet nedan kan ni kolla in hur det ser ut när Isaac 1 arbetar. L&auml;s vidare och kommentera: https://feber.se/pryl/isaac-1-kan-roja-upp-i-ditt-hem/493703/ L&auml;s mer om Weave Robotics , Isaac , Robot , Humanoid , Hemhjälp , halvhumanoid",
+      "link": "https://feber.se/pryl/isaac-1-kan-roja-upp-i-ditt-hem/493703/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/isaac-1-kan-roja-upp-i-ditt-hem/493703/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783166400000
+    },
+    {
+      "title": "Nu ska parkleken få getter igen",
+      "description": "Efter fjolårets djurbrist får Starrmyrans parklek i Hökarängen två nya dvärggetter. Nu kan man skicka in namnförslag till killingarna inför flytten i höst.",
+      "link": "https://www.mitti.se/nyheter/nu-ska-parkleken-fa-getter-igen-6.3.374018.d1660e7e5e",
+      "guid": "https://www.mitti.se/nyheter/nu-ska-parkleken-fa-getter-igen-6.3.374018.d1660e7e5e",
+      "image": "https://www.mitti.se/image-3.375979.299488.20260704123014.1.010c536210?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783166400000
+    },
+    {
+      "title": "Irans ayatolla Ali Khamenei begravs – en veckas propagandafest har inletts",
+      "description": "De sörjande iranierna är upproriska och kräver hämnd för sin största martyr. Statsledningen varnar väst för att blanda sig i förvaltningen i Hormuzsundet.",
+      "link": "https://yle.fi/a/7-10101636?origin=rss",
+      "guid": "https://yle.fi/a/7-10101636",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783166333000
+    },
+    {
+      "title": "Rekordvecka: 13 bolag leder stekhet Stockholmsbörs",
+      "description": "Stockholmsbörsen avslutade veckan med att skriva historia. OMXSPI stängde på ny högstanivå, 1 123, och passerade det tidigare rekordet på 1 118 från 17 april. Bredden i uppgången var slående. Inte mindre än 13 bolag nådde all time high under veckan, och bakom siffrorna döljer sig en rad starka affärer och strategiska drag. OMXS30 steg […]",
+      "link": "https://www.dagensps.se/bors-finans/rekordvecka-13-bolag-som-leder-stockholmsborsens-rally/",
+      "guid": "https://www.dagensps.se/?p=1653122",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/image-13-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783166280000
+    },
+    {
+      "title": "Perfekt start på F1-helgen för Kimi Antonelli, utökade sin ledning i VM-serien",
+      "description": "Kimi Antonelli är bara 19 år gammal, men han kör som en gammal räv. En mogen och kontrollerad insats gav italienaren segern i sprinttävlingen på Silverstone.",
+      "link": "https://yle.fi/a/7-10101640?origin=rss",
+      "guid": "https://yle.fi/a/7-10101640",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783166064000
+    },
+    {
+      "title": "Kritiken mot Sverige: Pengar till oligarker – råvaror till kriget",
+      "description": "Sverige och Irland är hem för ryska företag inom aluminium. Det ger råvaror till Rysslands krig och miljoner till krigskassan. Ryska Rusal är världens näst största aluminiumtillverkare, grundat av ryske oligarken Oleg Deripaska. I dag tillverkar Rusal aluminium även utanför Ryssland – bland annat i irländska Limerick och i Sundsvall. Dagens PS skrev förra året […]",
+      "link": "https://www.dagensps.se/varlden/kritiken-mot-sverige-pengar-till-oligarker-ravaror-till-kriget/",
+      "guid": "https://www.dagensps.se/?p=1653109",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl2b-93mef6mq-nh-300x300.webp",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783165156000
+    },
+    {
+      "title": "Svensk skadad i Ukraina",
+      "description": "Volontär utsatt för drönarattack",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e416cacf-efea-43bf-9618-941b948c8ca1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e416cacf-efea-43bf-9618-941b948c8ca1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783164758000
+    },
+    {
+      "title": "Kafékedjan i konkurs",
+      "description": "Driver 58 kaféer i Sverige",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=65645614-68c8-49ca-bc18-9de05dfcd67b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65645614-68c8-49ca-bc18-9de05dfcd67b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783163959000
+    },
+    {
+      "title": "Brand på sjöräddningsbåt",
+      "description": "Inväntar hjälp vid Ekerö",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=634c7209-ebe0-4d26-a95f-4c0c99738ac7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=634c7209-ebe0-4d26-a95f-4c0c99738ac7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783163567000
+    },
+    {
+      "title": "Professor: Direktkontakt med Ryssland är en idé som Europa kan utreda",
+      "description": "Då våld och krig tar över är det svårt att tro på diplomatiska lösningar. Men europeisk diplomati har efterlysts.",
+      "link": "https://yle.fi/a/7-10101613?origin=rss",
+      "guid": "https://yle.fi/a/7-10101613",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783163457000
+    },
+    {
+      "title": "Thailand vill locka rikare turister",
+      "description": "Turistmyndigheten fokuserar nu på att marknadsföra Thailand till resenärer som är intresserade av sjukvård, hälsoresor, retreats, konserter och festivaler. Även nischer som golf, maratonlopp och andra sportevenemang prioriteras, eftersom dessa besökare ofta stannar längre och gör av med mer pengar. Svenskarnas semesterfavorit Thailand har slutat jaga turistrekord. Efter årtionden då målet varit stigande besökssiffror är […]",
+      "link": "https://www.dagensps.se/weekend/resor/thailand-vill-locka-rikare-turister/",
+      "guid": "https://www.dagensps.se/?p=1653093",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/thailands-regering-har-som-mal-att-locka.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783162988000
+    },
+    {
+      "title": "Svensk kaféjätte i konkurs",
+      "description": "Det är franchisegivaren Wayne’s Coffee Sweden AB som försatts i konkurs. När flera kaféer inte har kunnat betala sina hyror har franchisegivaren tagit på sig kostnader och skulder, förklarar bolagets största ägare, Henrik Mattsson, för tidningen. Den svenska kafékedjan Wayne’s Coffee har gått i konkurs. Bakom konkursen ligger växande hyresskulder, rapporterar Di. Det är franchisegivaren […]",
+      "link": "https://www.dagensps.se/foretag/svensk-kafejatte-i-konkurs/",
+      "guid": "https://www.dagensps.se/?p=1653085",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/en-kaffe-latte-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783162886000
+    },
+    {
+      "title": "Kolla in en ukrainsk drönarskola",
+      "description": "Besök Killhouse Academy Ukraina är sannolikt det land som för tillfället är bäst i världen på att använda drönare i krigsföring, något som man tvingats bli efter Rysslands invasion av landet. Business Insider har besökt ett träningscentra för drönarpiloter som kallas \"Killhouse Academy\". Träningscentret drivs av den ukrainska armén och tränar upp drönarpiloter för att dessa ska bli så effektiva som möjligt i striderna mot de ryska styrkorna. Bland studenterna på drönarakademien finns både ukrainare och utlänningar som vill lära sig flyga drönare. Att gå den sex dagar långa utbildningen på Killhouse Academy kostar motsvarande cirka 1700 kronor för ukrainare och ungefär dubbelt så mycket för utlänningar. Åldersspannet på de över 7000 personer som redan gått utbildningen ligger mellan 15 år och över 60 år. Killhouse Academy uppger att man för diskussioner om att öppna upp liknande utbildningscentrum i andra länder som vill ta del av Ukrainas unika erfarenheter av drönarkrigsföring. Ni kan kolla in Business Insiders inslag om Killhouse Academy ovan och läsa mer om drönarskolan på länken nedan. L&auml;s vidare och kommentera: https://feber.se/samhalle/kolla-in-en-ukrainsk-dronarskola/493715/ L&auml;s mer om Ukraina , Ryssland , Business Insider , Killhouse Academy , Drönare",
+      "link": "https://feber.se/samhalle/kolla-in-en-ukrainsk-dronarskola/493715/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/kolla-in-en-ukrainsk-dronarskola/493715/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783162800000
+    },
+    {
+      "title": "Ukrainas kritik mot svenska fregattsatsningen: ”Har ni alls följt vårt krig?”",
+      "description": "Ukraina har gjort drönare till ett avgörande vapen i kriget och utmanar synen på traditionell sjöstrid. Samtidigt satsar Sverige 40 miljarder kronor på stridsfartyg. – Har ni alls följt vårt krig?, säger en ukrainsk operatör till SvD när han får höra om beslutet.",
+      "link": "https://www.expressen.se/nyheter/sverige/ukrainas-kritik-mot-svenska-fregattsatsningen-har-ni-alls-foljt-vart-krig/",
+      "guid": "https://www.expressen.se/nyheter/sverige/ukrainas-kritik-mot-svenska-fregattsatsningen-har-ni-alls-foljt-vart-krig/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783161230000
+    },
+    {
+      "title": "HTV: \"Kommer att trivas här!\" | Intervju med Waylon",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-kommer-att-trivas-haer-intervju-med-waylon",
+      "guid": "eb4c6719-5099-4a4e-8c8f-33b681caf290",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/5770298d05e1cf065ad799461cf1252408b4d9bd-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1783161000000
+    },
+    {
+      "title": "Larmet inför Trumps fest: ”En katastrof”",
+      "description": "Donald Trump slår på stort i helgen i Washington när USA firar 250 år. Men nu tvingas arrangörerna till ändringar i sista stund – och experter larmar att en katastrof väntar i huvudstaden.",
+      "link": "https://www.expressen.se/nyheter/varlden/larmet-infor-trumps-fest-en-katastrof/",
+      "guid": "https://www.expressen.se/nyheter/varlden/larmet-infor-trumps-fest-en-katastrof/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783160439000
+    },
+    {
+      "title": "Världens första flytande bro med spårvagn",
+      "description": "Vågar du testa? Efter flera år av tester är den invigd. Det handlar om världens första flytande bro med spårvagn i trafik. Man har testat i flera år, men nu är den invigd. Den första flytbron i världen med spårvägstrafik, går längs Interstate 90-bron över Lake Washington i Seattle. Den sju mil långa Crosslake Connection […]",
+      "link": "https://www.dagensps.se/varlden/varldens-forsta-flytande-bro-med-sparvagn/",
+      "guid": "https://www.dagensps.se/?p=1653095",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/20250908-crosslake-livewire-pb-0012-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783160305000
+    },
+    {
+      "title": "Waylon Renecke till Hammarby",
+      "description": "Hammarby förstärker backlinjen med vänsterfotade mittbacken Waylon Renecke. Han kommer närmast från FC Köpenhamn som Hammarby nått en överenskommelse med, och avtalet som nu är påskrivet med Renecke s",
+      "link": "https://www.hammarbyfotboll.se/nyheter/waylon-renecke-till-hammarby",
+      "guid": "e80a565c-cc37-42fd-a029-49ea7b9824b6",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/31bf2bec79feca6929034d0eb86c6dfc2cdaeb45-2114x1412.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1783159680000
+    },
+    {
+      "title": "Nasa ska försöka rädda rymdteleskopet Swift",
+      "description": "Avancerat räddningsuppdrag lämnade jorden igår Igår skickade Nasa en farkost till rymden vars uppdrag är att rädda Swiftteleskopet (Neil Gehrels Swift Observatory) från att brinna upp i jordens atmosfär. Teleskopet skickades upp till rymden 2004 och har sedan dess observerat över 1000 gammablixtar (GRB), något som kan ge astronomer inblick i det tidiga universum. Sedan 2004 har Swiftteleskopets omloppsbana runt jorden sjunkit från cirka 600 km till 360 km. För att undvika att teleskopet når jordens atmosfär kommer räddningsfarkosten LINK, som utvecklats av det amerikanska företaget Katalyst Space Technologies, att med hjälp av sina tre robotarmar försöka fånga in Swift. Tanken är sedan att LINK ska använda sina raketmotorer för att under de kommande två till tre månaderna förflytta Swift till sin ursprungliga omloppsbana på cirka 600 km ovanför jorden. I videoklippet ovan berättar Nasa lite mer om räddningsuppdraget för Swiftteleskopet. L&auml;s vidare och kommentera: https://feber.se/vetenskap/nasa-ska-forsoka-radda-rymdteleskopet-swift/493719/ L&auml;s mer om Nasa , Swift , Neil Gehrels , LINK , Katalyst Space Technologies , teleskop , räddningsuppdrag",
+      "link": "https://feber.se/vetenskap/nasa-ska-forsoka-radda-rymdteleskopet-swift/493719/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vetenskap/nasa-ska-forsoka-radda-rymdteleskopet-swift/493719/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1783159200000
+    },
+    {
+      "title": "Kontroversiell hockeytransfer: Tidigare svensk landslagsman ska spela för storklubb i Ryssland",
+      "description": "För första gången sedan kriget utbröt i Ukraina 2022 går en svensk spelare direkt från SHL till KHL. Linus Weissbach byter Frölunda mot spel i S:t Petersburg.",
+      "link": "https://yle.fi/a/7-10101638?origin=rss",
+      "guid": "https://yle.fi/a/7-10101638",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783158589000
+    },
+    {
+      "title": "Nya attacker mot oljehamnen i S:t Petersburg",
+      "description": "Ukraina har genomfört en drönarattack mot mål i S:t Petersburg under natten mot lördagen.",
+      "link": "https://yle.fi/a/7-10101635?origin=rss",
+      "guid": "https://yle.fi/a/7-10101635",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783158273000
+    },
+    {
+      "title": "Ukraina: Så används stulna svenska bilar i kriget",
+      "description": "Stulna svenska bilar av ett specifikt märke hamnar i Ryssland. Sedan används de i kriget mot Ukraina. Så här går det till. Ligan misstänks ha stulit minst 300 premiumbilar i Sverige, värderade totalt till mer än en halv miljard kronor. Dagens PS har skrivit om hur polisen avslöjat och rullat upp stöldligan, efter att ha […]",
+      "link": "https://www.dagensps.se/varlden/ukraina-sa-anvands-stulna-svenska-bilar-i-kriget/",
+      "guid": "https://www.dagensps.se/?p=1653080",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/2738f8f8-87ad-4c5d-83a8-78ff5fa9e84e-300x300.webp",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1783157580000
+    },
+    {
+      "title": "Sonen blev gängkriminell – mamman om miljonsatsningen",
+      "description": "Svenska kommuner satsar miljoner på att få unga att lämna gängen – med intensiv familjeterapi. Expressen har träffat en mamma som gått genom programmet, och tackar det för att hennes son lever. – Jag var alltid livrädd att få det där samtalet, att polisen skulle knacka på och säga: ”han är död”, säger hon.",
+      "link": "https://www.expressen.se/nyheter/politik/sonen-blev-gangkriminell--mamman-om-miljonsatsningen/",
+      "guid": "https://www.expressen.se/nyheter/politik/sonen-blev-gangkriminell--mamman-om-miljonsatsningen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783157078000
+    },
+    {
+      "title": "Tunisiens trista VM-sorti: Åtta spelare fick dopningspreparat i kroppen från mexikanskt kött",
+      "description": "Noll poäng, tre förluster, tolv insläppta mål. Och som slutknorr åtta spelare med spår av dopningsmedel i kroppen. Nej, Tunisiens VM gick inte enligt planerna.",
+      "link": "https://yle.fi/a/7-10101637?origin=rss",
+      "guid": "https://yle.fi/a/7-10101637",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1783157038000
+    },
+    {
+      "title": "Efter våldtäkten mot Meya – FN ändrar regler om utvisning",
+      "description": "Mannen som våldtog Meya dömdes till fängelse – men inte till utvisning. Nu ändrar FN sina riktlinjer efter påtryckningar från Sveriges migrationsminister, rapporterar SVT.",
+      "link": "https://www.expressen.se/nyheter/sverige/efter-valdtakten-mot-meya-fn-andrar-regler-om-utvisning/",
+      "guid": "https://www.expressen.se/nyheter/sverige/efter-valdtakten-mot-meya-fn-andrar-regler-om-utvisning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1783156339000
+    },
+    {
+      "title": "Bästa besöksmålet: Strandpromenadens däck toppar listan",
+      "description": "Strandpromenadens trädäck Sigtunas bästa besöksmål enligt Google maps.",
+      "link": "https://www.mitti.se/nyheter/basta-besoksmalet-strandpromenadens-dack-toppar-listan-6.3.374149.48b35a6c22",
+      "guid": "https://www.mitti.se/nyheter/basta-besoksmalet-strandpromenadens-dack-toppar-listan-6.3.374149.48b35a6c22",
+      "image": "https://www.mitti.se/image-3.376114.299664.20260704093754.1.82627131f8?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783156020000
+    },
+    {
+      "title": "250 kilometer lång jätte, som följer ett märkligt mönster, har upptäckts under jordens yta",
+      "description": "När forskarna tittade på den stora datamängden var det något märkligt som fångade deras uppmärksamhet.",
+      "link": "https://illvet.se/naturen/250-kilometer-lang-jatte-som-foljer-ett-markligt-monster-har-upptackts-under-jordens-yta",
+      "guid": "https://illvet.se/naturen/250-kilometer-lang-jatte-som-foljer-ett-markligt-monster-har-upptackts-under-jordens-yta",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1783155615000
+    },
     {
       "title": "ESO anser att 100.000 satelliter räcker",
       "description": "Fler kan få förödande konsekvenser för astronomin I en ny studie från Europeiska sydobservatoriet (ESO) slår man fast att antalet satelliter runt jorden bör som högst vara 100.000 för att inte orsaka \"förödande konsekvenser för astronomin\". I dagsläget finns det cirka 14.000 satelliter i omloppsbana runt jorden, som även de orsakar en del ljusföroreningar som påverkar astronomiska observationer. Det finns dock planer på att skjuta upp betydligt mycket fler satelliter de kommande åren. I sin rapport nämner ESO bland annat att SpaceX ansökt om tillstånd att få skjuta upp en miljon datacenter-satelliter . Man skriver även att det amerikanska företaget Reflect Orbital har planer på att skjuta upp 50.000 extremt ljusstarka spegelsatelliter som ska reflektera solljus till jorden, något som skulle kunna leda till att natthimlen ser ut som på den högra bilden nedan enligt ESO:s beräkningar. Enligt ESO:s prognos skulle det i framtiden, oklart exakt när, kunna finnas 1,7 miljoner satelliter i omloppsbana runt jorden. Att man föreslår just 100.000 som ett övre tak beror på att dessa sammantaget skulle kunna påverka astronomiska observationer ungefär lika mycket som utrustningsfel. Olivier Hainaut, som varit astronom på ESO i över 30 år och varit med och utarbetat rekommendationen, säger i en pressrelease: \"Detta är inte en skarp siffra, som att 99 999 är bra och 100 001 är dåligt: jag skulle helt klart föredra 50 000. Men 100 000 orsakar förluster på ungefär samma nivå som andra tekniska förluster, såsom utrustningsfel.\" L&auml;s vidare och kommentera: https://feber.se/vetenskap/eso-anser-att-100000-satelliter-racker/493718/ L&auml;s mer om ESO , SpaceX , Reflect Orbital , Astronomi , Satelliter , Ljusföroreningar",
@@ -54,27 +554,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783154319000
     },
     {
-      "title": "Lågor i S:t Petersburg",
-      "description": "Ännu en ukrainsk attack • Se lågorna i hamnen",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/oljeterminal-i-st-petersburg-i-lagor/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/oljeterminal-i-st-petersburg-i-lagor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783154295000
-    },
-    {
-      "title": "Flyg krockade med fåglar",
-      "description": "Tvingades landa på Landvetter",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a475de77-5f9a-439f-92d2-1354cd9b54d3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a475de77-5f9a-439f-92d2-1354cd9b54d3",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783153487000
-    },
-    {
-      "title": "Expert: Bränslepriserna går tillfälligt ned, men stiger till hösten igen",
+      "title": "Expert: Så här kommer bränslepriserna att se ut i höst",
       "description": "Råoljepriset har sjunkit kraftigt under den senaste tiden efter att fartyg har börjat passera Hormuzsundet igen.",
       "link": "https://yle.fi/a/7-10100034?origin=rss",
       "guid": "https://yle.fi/a/7-10100034",
@@ -82,16 +562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1783152137000
-    },
-    {
-      "title": "Trumps ord om USA",
-      "description": "Galna hyllningen • ”Mest exceptionella landet, någonsin”",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/usa-250-ar-trump-aldsta-nagonsin/",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/usa-250-ar-trump-aldsta-nagonsin/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783152040000
     },
     {
       "title": "UD tar bort avrådan från turistresor till länder i Mellanöstern",
@@ -154,26 +624,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783148400000
     },
     {
-      "title": "Forskning: Chefer som slumpas fram presterar bättre än de som sökt jobbet",
-      "description": "Den som aktivt söker chefsrollen är ofta sämst lämpad att leda. Det visar en stor internationell studie publicerad i Quarterly Journal of Economics, där slumpmässigt utsedda chefer konsekvent levererade bättre resultat. Driv, vinnarskalle och en stark vilja att klättra uppåt. Det kan verka som självklara chefsegenskaper. Men en internationell studie publicerad i Quarterly Journal of […]",
-      "link": "https://www.dagensps.se/foretag/forskning-chefer-som-slumpas-fram-presterar-battre-an-de-som-sokt-jobbet/",
-      "guid": "https://www.dagensps.se/?p=1653056",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/pexels-a-darmel-8133887.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783148062000
-    },
-    {
-      "title": "Kvinna våldtagen",
-      "description": "Insats i centrala Uppsala",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a44bae65-7dd9-4e12-8494-86468fb9bf85",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a44bae65-7dd9-4e12-8494-86468fb9bf85",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783147753000
-    },
-    {
       "title": "Besked efter fem timmar av kaos och ryktesspridning: Åttondelsfinalerna flyttas inte",
       "description": "Två dagar innan match ville Fifa flytta starten för åttondelen Mexico–England med sex timmar. Men efter hetsiga diskussioner håller det ursprungliga programmet.",
       "link": "https://yle.fi/a/7-10101632?origin=rss",
@@ -182,16 +632,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1783147672000
-    },
-    {
-      "title": "Investeringar: Trygga hamnar inte lika trygga längre",
-      "description": "De traditionella trygga hamnar investeringar och kapital söker sig till beter sig inte som förr. Det här är vad som har förändrats. Amerikanska statsobligationer, japanska yen och framför allt guld, är traditionella tillgångar som setts som trygga hamnar när sådana behövs. Men nu överskuggas den vanliga flykten dit av sådant som inflationsoro, högre realräntor, oro […]",
-      "link": "https://www.dagensps.se/bors-finans/investeringar-trygga-hamnar-inte-lika-trygga-langre/",
-      "guid": "https://www.dagensps.se/?p=1653042",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl4skmei63so4-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783147268000
     },
     {
       "title": "Snart ska 850-åringen Botkyrka kyrka firas",
@@ -212,16 +652,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1783145555000
-    },
-    {
-      "title": "Trumps hån mot Swift – mitt under bröllopet",
-      "description": "Taylor Swift fick sin Travis Kelce och orsakade enorm bröllopsyra. Då kunde Donald Trump – som sagt att han hatar Taylor Swift – inte hålla igen.",
-      "link": "https://www.expressen.se/noje/trumps-han-mot-swift-mitt-under-brollopet/",
-      "guid": "https://www.expressen.se/noje/trumps-han-mot-swift-mitt-under-brollopet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783145382000
     },
     {
       "title": "Marknaden för sommarstugor lever sitt eget liv – generationsskifte pågår",
@@ -254,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783144800000
     },
     {
-      "title": "Högre krav på dricksvatten – risk att bli lurad",
-      "description": "För att minska hälsorisker har gränsvärden sänkts för flera ämnen som kan finnas i vårt dricksvatten. I Sverige gäller nu även skärpta värden för exempelvis arsenik och bly. Skärpta gränsvärden för dricksvattnet gör att fler nu kollar sitt vatten. Men det gäller att se upp så man inte köper dyr dricksvattenrening i onödan. För att […]",
-      "link": "https://www.dagensps.se/privatekonomi/bostad/hogre-krav-pa-dricksvatten-risk-att-bli-lurad/",
-      "guid": "https://www.dagensps.se/?p=1653037",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/nya-skarpta-gransvarden-for-dricksvattne.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783143373000
-    },
-    {
       "title": "Det här är VM:s verkliga svarta häst: Colombia tog sista platsen i åttondelsfinal efter att ha nollat Ghana",
       "description": "Colombia fortsätter att imponera i VM. I turneringens sista sextondelsfinal lyckades Ghana inte skapa ett enda skott på mål. Det blev colombiansk seger med 1–0.",
       "link": "https://yle.fi/a/7-10101631?origin=rss",
@@ -272,26 +692,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1783143228000
-    },
-    {
-      "title": "Toppekonomer: Trump är själva bubblan på börsen",
-      "description": "Trumps inkomster nådde 2,2 miljarder dollar 2025. Huvuddelen kom från krypto. Ekonomer varnar nu för att den amerikanska marknaden inte längre styrs av fundamenta utan av en enda persons beslut. Donald Trumps senaste ekonomiska redovisning visar personliga inkomster på 2,2 miljarder dollar under 2025. Cirka 1,4 miljarder kom från kryptotillgångar kopplade till familjen Trump, enligt […]",
-      "link": "https://www.dagensps.se/bors-finans/toppekonomer-trump-ar-sjalva-bubblan-pa-borsen/",
-      "guid": "https://www.dagensps.se/?p=1653035",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-alex-brandon-aptt-8ade96c8.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783143202000
-    },
-    {
-      "title": "Microsoft satsar 24 miljarder – pekar ut Sverige som nyckelmarknad",
-      "description": "Microsoft vill lösa problemet som plågar hela AI-branschen: att företag investerar enorma summor i artificiell intelligens utan att se motsvarande resultat på sista raden. Och toppchef pekar ut Sverige som nyckelmarknad. Nu lanseras Microsoft Frontier Company, en ny operativ verksamhet med en investering på 2,5 miljarder dollar, motsvarande cirka 24 miljarder kronor. Runt 6 000 […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/microsoft-satsar-24-miljarder-pekar-ut-sverige-som-nyckelmarknad/",
-      "guid": "https://www.dagensps.se/?p=1653004",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/microsoft-frontier-company.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783142280000
     },
     {
       "title": "Från finska pinnar till hett utflyktsmål",
@@ -314,16 +714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783141828000
     },
     {
-      "title": "Dina gamla IKEA-möbler kan vara dyrgripar",
-      "description": "Den slitna stolen på vinden eller i källaren är kanske inte skräp, den kan vara värd en mindre förmögenhet. Intresset för äldre Ikea-möbler bara ökar. Möbler som en gång kostade en spottstyver säljs i dag för tiotusentals kronor. Hur mycket IKEA finns i ditt hem? Eller i källaren, utforslat på landet eller medskickat när barnen […]",
-      "link": "https://www.dagensps.se/privatekonomi/dina-gamla-ikea-mobler-kan-vara-dyrgripar/",
-      "guid": "https://www.dagensps.se/?p=1652983",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/auctionnet-ikea-tvbord-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783141500000
-    },
-    {
       "title": "Ángels dementa mamma försvann från äldreboende",
       "description": "Ángel Rojas dementa mamma försvann från Nytorps äldreboende i Tureberg.",
       "link": "https://www.mitti.se/nyheter/angels-dementa-mamma-forsvann-fran-aldreboende-6.3.373155.843681d7c1",
@@ -332,6 +722,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783141380000
+    },
+    {
+      "title": "Miljontals lider av osynligt tillstånd, som kan driva en aggressiv form av cancer, visar ny studie",
+      "description": "Ett dolt tillstånd i kroppen kan utlösa en av de dödligaste formerna av cancer. Nu kan en grupp forskare ha hittat ett sätt att utveckla en behandling med potential att rädda hundratusentals människoliv.",
+      "link": "https://illvet.se/halsa/miljontals-lider-av-osynligt-tillstand-som-kan-driva-en-aggressiv-form-av-cancer-visar-ny-studie",
+      "guid": "https://illvet.se/halsa/miljontals-lider-av-osynligt-tillstand-som-kan-driva-en-aggressiv-form-av-cancer-visar-ny-studie",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1783141226000
     },
     {
       "title": "USA fyller 250 år och begraver ännu en tidskapsel – här är 8 av historiens mest spektakulära",
@@ -384,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783140871000
     },
     {
-      "title": "Khameneis begravning officiellt inledd",
-      "description": "Tusentals människor har tagit sig till det religiösa komplex där begravningsceremonin för Irans tidigare högste ledare Ali Khamenei ska hållas, uppger en AFP-journalist. Ceremonin har nu officiellt inletts, enligt iransk statlig tv.",
-      "link": "https://www.expressen.se/nyheter/varlden/khameneis-begravning-officiellt-inledd/",
-      "guid": "https://www.expressen.se/nyheter/varlden/khameneis-begravning-officiellt-inledd/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783140345000
-    },
-    {
       "title": "Stora skillander i klimakterievården",
       "description": "Nu presenterar Vänsterpartiet i Region Stockholm och i Stockholms stad förslag för att vården för klimakteriebesvär ska bli mer jämlik.",
       "link": "https://www.mitti.se/nyheter/stora-skillander-i-klimakterievarden-6.3.374156.746531a990",
@@ -424,136 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783137600000
     },
     {
-      "title": "Taylor Swift och Travis Kelce är gifta",
-      "description": "Världens mest omtalade par just nu vigdes av komikern Adam Sandler på Madison Square Garden i New York.",
-      "link": "https://yle.fi/a/7-10101628?origin=rss",
-      "guid": "https://yle.fi/a/7-10101628",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783136415000
-    },
-    {
-      "title": "Största delen av finländarna jobbar för pengarnas skull",
-      "description": "I de äldre generationerna är det vanligare att se jobbet som ett viktigt livsinnehåll.",
-      "link": "https://yle.fi/a/7-10101624?origin=rss",
-      "guid": "https://yle.fi/a/7-10101624",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783135815000
-    },
-    {
-      "title": "USA fyller 250 år: Sju amerikaner om landet de älskar och oroar sig för",
-      "description": "Vi frågade amerikaner vad de tycker om sitt land. Svaren visar en nation som älskar sin frihet men är oense om framtiden.",
-      "link": "https://yle.fi/a/7-10101426?origin=rss",
-      "guid": "https://yle.fi/a/7-10101426",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783134614000
-    },
-    {
-      "title": "Hagnös hemliga affär avslöjad: Villa för 120 miljoner",
-      "description": "Försäljningen av villa Baidara har varit en av de stora snackisarna på Marstrand. Spotify-miljardären Felix Hagnö har hemlighålligt vad han betalat – men Expressens granskning visar säljarnas mångmiljonvinster. Nu totalrenoverar Hagnö huset. – Vi har skrivit på sekretessavtal och kan inte säga något, säger en hantverkare.",
-      "link": "https://www.expressen.se/nyheter/sverige/hagnos-hemliga-affar-avslojad-villa-for-120-miljoner/",
-      "guid": "https://www.expressen.se/nyheter/sverige/hagnos-hemliga-affar-avslojad-villa-for-120-miljoner/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783134000000
-    },
-    {
-      "title": "Putin: Massiva attackerna ”måste fortsätta”",
-      "description": "Minst 30 personer dödades och över 90 skadades i Rysslands massiva attacker mot Kiev natten till torsdag. Nu säger ryska presidenten Vladimir Putin att robotattackerna ”måste fortsätta”.",
-      "link": "https://www.expressen.se/nyheter/varlden/putin-massiva-attackerna-maste-fortsatta/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putin-massiva-attackerna-maste-fortsatta/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783127516000
-    },
-    {
-      "title": "Sonen deltar inte i ayatollans begravning – måltavla",
-      "description": "Miljoner iranier deltar i den döde ledaren ayatolla Ali Khameneis begravning, som pågår i sju dagar. Alla är där – utom hans son och efterträdare Mojtaba Khamenei som inte har framträtt offentligt sedan han utnämndes till högste ledare i mars. Pappan dödades i USA:s och Israels attack i februari – och sonen skadades svårt samma dag.",
-      "link": "https://www.expressen.se/nyheter/varlden/sonen-deltar-inte-i-ayatollans-begravning-maltavla/",
-      "guid": "https://www.expressen.se/nyheter/varlden/sonen-deltar-inte-i-ayatollans-begravning-maltavla/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783120627000
-    },
-    {
-      "title": "Skjutning i galleria",
-      "description": "Video: Kaosartade scener i Michigan • Flera döda",
-      "link": "https://www.expressen.se/tv/nyheter/tva-doda-efter-skottlossning-i-kopcentrum/",
-      "guid": "https://www.expressen.se/tv/nyheter/tva-doda-efter-skottlossning-i-kopcentrum/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783115770000
-    },
-    {
-      "title": "Getyogan spårar ut – oväntat bajskaos",
-      "description": "Det som inte får hända sker",
-      "link": "https://www.expressen.se/tv/nyheter/getyogan-sparar-ut-ovantat-bajskaos/",
-      "guid": "https://www.expressen.se/tv/nyheter/getyogan-sparar-ut-ovantat-bajskaos/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783114625000
-    },
-    {
-      "title": "Egypten klart för åttondelsfinal efter straffdrama mot Australien",
-      "description": "Den sista omgången av sextondelsfinalerna är igång. Egypten nappade den tredje sista åttondelsplatsen.",
-      "link": "https://yle.fi/a/7-10101619?origin=rss",
-      "guid": "https://yle.fi/a/7-10101619",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783113110000
-    },
-    {
-      "title": "Hon pekas ut för bombdådet",
-      "description": "Monacobombaren pekas nu ut av polisen. Efter flera dagars intensiv jakt efterlyser nu Interpol den 39-åriga ukrainskan Anastasija Berezovska, skriver AP.",
-      "link": "https://www.expressen.se/nyheter/varlden/hon-pekas-ut-for-bombdadet-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/hon-pekas-ut-for-bombdadet-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783113087000
-    },
-    {
-      "title": "En död i olycka",
-      "description": "Bilar krockade",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=46f8296d-348c-4d56-aebb-d88bd5eba765",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=46f8296d-348c-4d56-aebb-d88bd5eba765",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783113067000
-    },
-    {
-      "title": "Statist dog i polisövning – ingen åtalas",
-      "description": "Polisövningen i Motala slutade med att en statist dog. En distraktionsgranat hamnade under honom och exploderade. Nu läggs utredningen ner – men åklagaren har sett flera brister. – Ingen ska behöva omkomma i en övningssituation. Det är ett ganska självklart konstaterande, säger Lars Morand, chefsåklagare.",
-      "link": "https://www.expressen.se/nyheter/sverige/statist-dog-i-polisovning-ingen-atalas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/statist-dog-i-polisovning-ingen-atalas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783112867000
-    },
-    {
-      "title": "Gjorde hakkors i skolan – försvaret: ”Solsymbol”",
-      "description": "Pojke åtalas efter slöjdlektionen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8c6b9605-9232-4f2c-afea-71ea32275014",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8c6b9605-9232-4f2c-afea-71ea32275014",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783109763000
-    },
-    {
       "title": "Mykonos Four Seasons Luxury Hotel",
       "description": "",
       "link": "https://uncrate.com/mykonos-four-seasons-luxury-hotel/",
@@ -562,16 +822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1783108800000
-    },
-    {
-      "title": "Slut på öl mitt under VM: ”Kom in i matchen, Systembolaget”",
-      "description": "Fotbolls-VM och sommarhelg – och slut på öl i hela staden. Det råder extrem torka på Systembolaget i Boden där ölhyllorna ser ut som en öken. – Kom in i matchen, Systembolaget! Jag ser massor av besvikna kunder i butiken, säger Jimmy Bystedt som kom till butiken för att köpa vin.",
-      "link": "https://www.expressen.se/nyheter/slut-pa-ol-mitt-under-vm-kom-in-i-matchen-systembolaget/",
-      "guid": "https://www.expressen.se/nyheter/slut-pa-ol-mitt-under-vm-kom-in-i-matchen-systembolaget/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783107953000
     },
     {
       "title": "Nixon Oco 44 Watch",
@@ -604,16 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783105200000
     },
     {
-      "title": "Rektor våldtog 16-åring – fängelse för 50 våldtäkter",
-      "description": "Svea hovrätt skärper straffet mot den rektor som i smyg inledde en relation med en av sina elever – en familjehemsplacerad 16-årig flicka som han var stödperson åt. Mannen, som är i 50-årsåldern, döms till fängelse i fem år och nio månader för 50 våldtäkter.",
-      "link": "https://www.expressen.se/nyheter/sverige/rektor-valdtog-16-aring-fangelse-for-50-valdtakter/",
-      "guid": "https://www.expressen.se/nyheter/sverige/rektor-valdtog-16-aring-fangelse-for-50-valdtakter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783104826000
-    },
-    {
       "title": "Kjell Nilsson död",
       "description": "Spelade Lord Humungus i Mad Max: The Road Warrior Familjen till den svenske skådespelaren och tyngdlyftaren Kjell Nilsson meddelade idag att han dött efter att under flera år levt med en dödlig njursjukdom. Nilsson flyttade till Australien 1980 för att träna upp tyngdlyftare som skulle delta i OS i Moskva samma år. I Australien träffade han sin blivande fru Kate Ferguson som övertalade honom att testa lyckan i den australiensiska filmindustrin. Genom det fick han rollen som den klassiske filmskurken Lord Humungus i Mad Max: The Road Warrior (1981), en film som idag räknas som en av de bästa actionfilmerna som någonsin gjorts. Han hade även biroller i The Pirate Movie (1982), Man of Letters (1984) och The Edge of Power (1987). Kjell Nilsson blev 76 år gammal. I klippet längst ner kan ni se honom som Lord Humungus. L&auml;s vidare och kommentera: https://feber.se/film/kjell-nilsson-dod/493722/ L&auml;s mer om Kjell Nilsson , Mad Max , Lord Humungus , Skådespelare , Tyngdlyftning , Kate Ferguson , dödsfall , hejdå",
       "link": "https://feber.se/film/kjell-nilsson-dod/493722/?utm_source=rss&utm_medium=feed",
@@ -632,26 +872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1783103400000
-    },
-    {
-      "title": "Flera insamlingar till Christian Zedigs familj",
-      "description": "Flera insamlingar har startats till polisen Christian Zedigs familj. Nu är de uppe i flera hundra tusen. – Det minsta jag kan göra är en insamling så familjen kan få pengar och inte behöver oroa sig ekonomiskt, Oskar Persson, initiativtagare.",
-      "link": "https://www.expressen.se/nyheter/sverige/flera-insamlingar-till-christian-zedigs-familj/",
-      "guid": "https://www.expressen.se/nyheter/sverige/flera-insamlingar-till-christian-zedigs-familj/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1783102409000
-    },
-    {
-      "title": "Basketfesten i Helsingfors fick ett lyckligt slut – Finland tog sin fjärde seger på raken i VM-kvalet",
-      "description": "I herrarnas VM-kval i basket blev det en seger för Finland under fredagen. Finland vann över Ungern med 85–77.",
-      "link": "https://yle.fi/a/7-10101621?origin=rss",
-      "guid": "https://yle.fi/a/7-10101621",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783102277000
     },
     {
       "title": "Muterade hajar invaderar äventyrsbad i ny film",
@@ -684,16 +904,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783101600000
     },
     {
-      "title": "Friidrottsförbundet ser regeringens stöd på 10 miljoner till EM i Helsingfors som välinvesterade pengar",
-      "description": "Friidrottsförbundet får tio miljoner av regeringen om Helsingfors får ordna EM 2030. Ordförande Riikka Pakarinen säger att statens stöd är avgörande.",
-      "link": "https://yle.fi/a/7-10101615?origin=rss",
-      "guid": "https://yle.fi/a/7-10101615",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783101323000
-    },
-    {
       "title": "Nya iPad Pro-modeller planeras till våren 2027",
       "description": "Kan få M6 eller M7-chipp Enligt uppgifter från Bloomberg planerar Apple att lansera nya 11- och 13-tumsmodeller av iPad Pro under våren 2027. Det ryktas dock inte handla om några större designförändringar, fokus ligger istället på interna uppgraderingar. Vilket chipp surfplattorna kommer att utrustas med beror på hur det går för Apple de kommande månaderna. Valet står mellan det kommande M6-chippet och M7, som kommer ännu senare. Båda kretsarna bygger på en ny 2-nanometersprocess, men M7 ska till skillnad från M6 bjuda på fler AI-optimeringar. Om tidsplanen för våren 2027 håller kan de nya iPad Pro-modellerna komma att presenteras tillsammans med flera andra produkter som iPhone 18e, iPhone 18 och andra generationens iPhone Air. L&auml;s vidare och kommentera: https://feber.se/mobil/nya-ipad-pro-modeller-planeras-till-varen-2027/493710/ L&auml;s mer om Bloomberg , iPad Pro , M6 , M7 , iPhone , AI",
       "link": "https://feber.se/mobil/nya-ipad-pro-modeller-planeras-till-varen-2027/493710/?utm_source=rss&utm_medium=feed",
@@ -712,16 +922,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1783099800000
-    },
-    {
-      "title": "Isac Elliot har fått barn: ”Jag kommer direkt från förlossningen”",
-      "description": "När Yle möter popstjärnan på Ruisrock berättar han att han har blivit pappa.",
-      "link": "https://yle.fi/a/7-10101626?origin=rss",
-      "guid": "https://yle.fi/a/7-10101626",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783098796000
     },
     {
       "title": "Anthropic kan utveckla egna AI-chipp",
@@ -754,16 +954,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783098000000
     },
     {
-      "title": "Junimånad var den varmaste i mäthistorien i Frankrike",
-      "description": "Medeltemperaturen under den värmebölja som pinade Frankrike i juni var 3,8 grader över det normala.",
-      "link": "https://yle.fi/a/7-10101625?origin=rss",
-      "guid": "https://yle.fi/a/7-10101625",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783097274000
-    },
-    {
       "title": "iPhone 18 Pro kan få två olika modem igen",
       "description": "Apples eget modem för alla modeller i Europa Dataintrånget hos Apples leverantör Tata Electronics har avslöjat att den kommande iPhone 18 Pro kan komma att utrustas med olika 5G-modem beroende på var i världen den säljs. Enligt analyser av de stulna dokumenten kommer modeller som säljs i USA att behålla modem från Qualcomm för att behålla stödet för det supersnabba 5G-nätet mmWave, som är standard hos flera amerikanska operatörer. I resten av världen, inklusive Europa, väntas telefonerna istället få Apples egenutvecklade C2-modem. Apples egna modem anses generellt vara mer energieffektiva än Qualcomms motsvarigheter. Det innebär att konsumenter som köper sin iPhone 18 Pro utanför USA potentiellt kan få en enhet med bättre batteritid, om vi även blir utan fysiskt SIM-kort denna gång. L&auml;s vidare och kommentera: https://feber.se/mobil/iphone-18-pro-kan-fa-tva-olika-modem-igen/493705/ L&auml;s mer om Tata Electronics , Qualcomm , 5G , mmWave , C2-modem",
       "link": "https://feber.se/mobil/iphone-18-pro-kan-fa-tva-olika-modem-igen/493705/?utm_source=rss&utm_medium=feed",
@@ -782,26 +972,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783096200000
-    },
-    {
-      "title": "Sibbo ändrar linje: Skolpersonal får tillgång till övervakningskameror",
-      "description": "Sibbo skaffar 43 nya övervakningskameror till Nickby hjärta och Sipoonlahden koulu. Samtidigt lättar kommunen på reglerna kring vem som får se på materialet.",
-      "link": "https://yle.fi/a/7-10101523?origin=rss",
-      "guid": "https://yle.fi/a/7-10101523",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783095636000
-    },
-    {
-      "title": "Femhundra onyktra förare åkte fast i västra Nyland",
-      "description": "Alkohol och andra rusmedel är ungefär lika vanliga orsaker till rattfylleri. Polisen i Västnyland har satsat mer på trafikövervakning än tidigare.",
-      "link": "https://yle.fi/a/7-10101589?origin=rss",
-      "guid": "https://yle.fi/a/7-10101589",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1783095032000
     },
     {
       "title": "Forskare har lyckats göra en förkolnad papyrusrulle läsbar i sin helhet efter mer än 250 år",
@@ -824,16 +994,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783094400000
     },
     {
-      "title": "Tusentals i protest mot Mercedes-Benz sparplaner",
-      "description": "Protesterna, som organiserats av fackförbundet IG Metall, hölls mot de möjliga sparförslag som Mercedes aviserat. Tusentals anställda demonstrerade på fredagen utanför fordonsjätten Mercedes-Benz fabriker i Tyskland. Protesterna, som organiserats av fackförbundet IG Metall, hölls mot de möjliga sparförslag som Mercedes aviserat. Enligt fackförbundet deltog fler än 33 000 arbetare över hela landet i protesterna. Mercedes-Benz uppgav […]",
-      "link": "https://www.dagensps.se/motor/tusentals-i-protest-mot-mercedes-benz-sparplaner/",
-      "guid": "https://www.dagensps.se/?p=1653026",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/anstallda-vid-mercedes-benz-demonstrerad.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783094335000
-    },
-    {
       "title": "Akila Apollo Sunglasses",
       "description": "",
       "link": "https://uncrate.com/akila-apollo-sunglasses/",
@@ -842,16 +1002,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1783094280000
-    },
-    {
-      "title": "Detta händer med din pension om AI-bubblan spricker",
-      "description": "Runt 5,8 miljoner svenskar sparar i statliga AP7. Färre vet att aktiedelen är belånad och tungt viktad mot samma amerikanska teknikjättar som experterna nu varnar för befinner sig i en bubbla som kan spricka. Dagens PS har följt hur även gigantiska fonder anses sårbara för ett AI-fall. AP7 Aktiefond, som utgör hela aktiedelen fram till […]",
-      "link": "https://www.dagensps.se/privatekonomi/pension/detta-hander-med-din-pension-om-ai-bubblan-spricker/",
-      "guid": "https://www.dagensps.se/?p=1653025",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/maskininlarning-i-hedgefonder-1-4.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1783093755000
     },
     {
       "title": "Proton släpper ny version av Lumo",
@@ -1224,16 +1374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783069920000
     },
     {
-      "title": "Ny modell från Xpeng som tar sikte på Model Y",
-      "description": "Kommer till Sverige Nu visar Xpeng bilder på den nya modellen L03 som är en SUV-coupé. Såna behöver vi ju fler av såklart. Bilen kommer att ha sin världspremiär den 16 juli klockan 14:00 i München. L03 kommer att säljas på 64 marknader och Sverige finns med här. Den kommer gå att få som elbil eller i en version med bensindriven räckviddsförlängare. Bilen baseras på Xpengs senaste AI-baserade mobilitetsplattform och man säger att den är utvecklad med europeiska förare och körförhållanden i åtanke. Den mäter 4,65 meter på längden, 1,92 på bredden, 1,6 på höjden och har en hjulbas på 2,85 meter. Man ska få in 539 liter där bak och ytterligare 102 liter i frunken. På eventet om två veckor kommer man att avslöja alla tekniska specifikationer, utrustningsspecifikationerna, drivlinealternativ, lanseringsplan och de svenska priserna. L&auml;s vidare och kommentera: https://feber.se/bil/ny-modell-fran-xpeng-som-tar-sikte-pa-model-y/493689/ L&auml;s mer om L03 , elbil , räckviddsförlängare , SUV-coupé , Kina , bilder",
-      "link": "https://feber.se/bil/ny-modell-fran-xpeng-som-tar-sikte-pa-model-y/493689/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/ny-modell-fran-xpeng-som-tar-sikte-pa-model-y/493689/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783069200000
-    },
-    {
       "title": "Rusning till nya gymnasiet i Slakthusområdet",
       "description": "Många har sökt till Slakthusområdets gymnasium som öppnar i höst – nästan 500 står på reservlistan.",
       "link": "https://www.mitti.se/nyheter/rusning-till-nya-gymnasiet-i-slakthusomradet-6.3.374132.0c64aa3eb1",
@@ -1264,36 +1404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783068127000
     },
     {
-      "title": "USA vill häva 53 år gammalt förbud mot överljudsflyg",
-      "description": "Sätter ny ljudgräns Den amerikanska luftfartsmyndigheten FAA har lagt fram ett förslag om att ta bort det 53 år gamla förbudet mot kommersiella överljudsflygningar över amerikanskt fastland. Förbudet infördes 1973 för att stoppa de så kallade sonic booms som uppstår när flygplan spränger ljudvallen. På den tiden var det Concorde som drabbades av förbudet. Men FAA vill nu införa en ny temporär lag där övertrycket som når marken inte får överstiga 0,11 pund per kvadratfot, en gräns som bland annat baseras på tester med startup-bolaget Boom Supersonics experimentplan XB-1. Experter ger dock det nya förslaget kritik och menar att mätmetoden inte tar hänsyn till hur ljudet faktiskt upplevs eller hur störande det är för allmänheten. Och även om en ny lag skulle vara på plats till mitten av 2027 återstår fortfarande den riktigt svåra delen för nya överljudsplan för passagerare med stora ekonomiska och tekniska utmaningar. Att utveckla planen kostar ju en hel del, vilket nyligen fick Boom Supersonic att bredda sin affärsverksamhet till att tillverka gasturbiner för AI-datacenter för att kunna finansiera utvecklingen av sitt kommande passagerarplan Overture. L&auml;s vidare och kommentera: https://feber.se/samhalle/usa-vill-hava-53-ar-gammalt-forbud-mot-overljudsflyg/493694/ L&auml;s mer om FAA , Boom Supersonic , XB-1 , Overture , Flyg , Teknik , Luftfart",
-      "link": "https://feber.se/samhalle/usa-vill-hava-53-ar-gammalt-forbud-mot-overljudsflyg/493694/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/usa-vill-hava-53-ar-gammalt-forbud-mot-overljudsflyg/493694/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783067400000
-    },
-    {
-      "title": "Meta släpper app för att skapa egna AI-upplevelser",
-      "description": "Gör \"Gizmos\" med Pocket Meta har tagit fram en ny mobilapp som kallas Pocket med vilken det verkar tänkt att användarna ska kunna skapa egna interaktiva upplevelser med hjälp av AI. Meta kallar det som skapas i Pocket för \"Gizmos\", eller \"Prylar\" på svenska, och dessa ska gå att skapa genom att användaren beskriver för Pocket vad de vill att \"gizmon\" ska innehålla och göra. Jag antar att det kan handla om interaktiva berättelser, enklare spel och liknande saker. Meta skriver på en hjälpsida om Pocket: Det finns ett par sätt att leka med en gizmo beroende på typen av aktivitet, som att * Tryck, svep eller dra objekt på skärmen. * Vinkla eller skaka din mobila enhet för att kontrollera rörelse i redskapet. * Lyssna på musik och ljudeffekter medan du interagerar. * Använda kameran (om du har gett Pocket åtkomst till kameran). Du kan välja att spara foton från vissa redskap på din telefon. * Med mikrofonen, så att du kan prata (om du har gett Pocket åtkomst till din mikrofon). Pocket finns listad på Google Play men går inte att ladda ner än så länge. L&auml;s vidare och kommentera: https://feber.se/mobil/meta-slapper-app-for-att-skapa-egna-ai-upplevelser/493692/ L&auml;s mer om Meta , Pocket , Gizmos , AI , Google Play",
-      "link": "https://feber.se/mobil/meta-slapper-app-for-att-skapa-egna-ai-upplevelser/493692/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/meta-slapper-app-for-att-skapa-egna-ai-upplevelser/493692/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783065600000
-    },
-    {
-      "title": "Så tillverkas ett iPhone-batteri",
-      "description": "iFixit har varit på besök i fabrik I en ny video tar iFixit med oss in i en kinesisk batterifabrik för att visa hur tillverkningen av ett iPhone-batteri faktiskt går till. Under besöket får iFixits Shahram Mokhtari själv montera ett av företagets ersättningsbatterier. Videon går igenom hur man förvandlar en ren battericell till en färdig produkt redo för installation. Det gäller allt från att programmera och löda fast övervakningssystemet BMS (Battery Management System), göra kvalitetskontroller och sätta dit självhäftande tejp. L&auml;s vidare och kommentera: https://feber.se/mobil/sa-tillverkas-ett-iphone-batteri/493693/ L&auml;s mer om iFixit , iPhone , Shahram Mokhtari , Batteri , BMS , Tillverkning",
-      "link": "https://feber.se/mobil/sa-tillverkas-ett-iphone-batteri/493693/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/sa-tillverkas-ett-iphone-batteri/493693/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783063800000
-    },
-    {
       "title": "Sumpanlaget bäst i landet på lacrosse – igen",
       "description": "Guld i SM till Sundbyberg Lacrosse.",
       "link": "https://www.mitti.se/nyheter/sumpanlaget-bast-i-landet-pa-lacrosse--igen-6.3.373978.bc79dda13a",
@@ -1302,16 +1412,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783063400000
-    },
-    {
-      "title": "Här är trailern för Star Wars: Visions Presents - The Ninth Jedi",
-      "description": "Ny animeserie från Lucasfilm Igår släppte Lucasfilm trailern för Star Wars: Visions Presents - The Ninth Jedi , en spinoffserie från Star Wars Visions , antologiserien från Lucasfilm som består av animefilmer i kortfilmsformat. The Ninth Jedi är en hel serie baserad på de två kortfilmerna The Ninth Jedi och The Ninth Jedi - Child of Hope som ingick i de två säsonger av Star Wars Visions som producerats hittills. I serien kommer tittarna att få följa den unga Lah Kara som blir upplärd av jeditränaren Margrave Juro för att sedan försöka hitta och rädda hennes far. Star Wars: Visions Presents - The Ninth Jedi börjar visas på Disney+ den 5 augusti. Ni hittar trailern för serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/har-ar-trailern-for-star-wars-visions-presents---the-ninth-jedi/493691/ L&auml;s mer om Lucasfilm , Star Wars Visions , The Ninth Jedi , Anime , Lah Kara , Margrave Juro , Disney+",
-      "link": "https://feber.se/film/har-ar-trailern-for-star-wars-visions-presents---the-ninth-jedi/493691/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/har-ar-trailern-for-star-wars-visions-presents---the-ninth-jedi/493691/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783062000000
     },
     {
       "title": "Microsoft satsar 2,5 miljarder dollar på bolag som ska hjälpa företag använda AI",
@@ -1342,16 +1442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783061967000
-    },
-    {
-      "title": "Det här är produktionsversionen av McMurtry Spéirling",
-      "description": "Har 95 procent nya komponenter 2022 satte McMurtry sin fläktförsedda elbil med sjukt marktryck på kartan då en prototyp av den smulade rekordet på Goodwood. Sedan dess har bilen utvecklats ytterligare och vi har bland annat fått se den köra upp-och-ner. Nu är det äntligen dags att presentera produktionsversionen av Spéirling och mycket har förändrats under åren. Det som är nytt är bland annat att batteripacket har ökat från 60 till 100 kWh vilket i sin tur har gjort att hela bilen har vuxit lite. Den mäter 3,81 meter på längden, 1,79 på bredden och är precis över en meter hög. Hjulbasen har ökat från två till 2,2 meter. Vikten anges till 1350 kilo. Även elmotorerna är nya och det finns ett nytt och bättre kylsystem för alla prylar under skalet. Dessa ger tillsammans 1014 hästar som skickas till bakhjulen. 0-96 km/h tar 1,55 sekunder och fortsätter du gasa är det roliga slut först vid 306 km/h. De två fläktarna som suger fast åket mot marken och som skapar marktryck på två ton har även fått nya fläktblad och motorer som styr dessa. Frigångshöjden har ökat med 20 procent men det finns adaptiva stötdämpare på tillvalslistan om du vill justera detta själv. Däcken från Michelin har blivit fetare och det finns en F1-inspirerad hydraulisk rattstång. Fram sitter kolfiberkeramiska bromsskivor med sexkolvsok från Brembo som mäter 390 millimeter. Utseendemässigt har bilen fått riktiga strålkastare, varningsblinkers och bromsljus. Hela karossen som är i kolfiber är ny och så även monocoquen man sitter i. Dörröppningen har gjorts bredare och sikten ska nu vara bättre då man har flyttat lite på A-stolpen. Spéirling har som ni säkert redan vet bara plats för en person och varje exemplar får en stol som gjuts av efter köparen. Personer på upp till 2,01 meter ska kunna få plats i bilen. Frånpriset ligger på 1,15 miljoner euro innan lokal skatt och leveranskostnad. Får bara köras på bana så det här blir tyvärr inget du kan stila med mellan rödljusen. Tillverkningen sker för hand i en ny fabrik i Cotswolds i England och endast 100 exemplar kommer att bli till. De första leveranserna till kund ska ske senare i år. Roger kollade in prototypen på The Aurora, bilder på denna ser ni nedan. Han säger att bilen känns ännu mindre och ännu fetare i verkligheten. L&auml;s vidare och kommentera: https://feber.se/bil/det-har-ar-produktionsversionen-av-mcmurtry-speirling/493685/ L&auml;s mer om McMurtry , McMurtry Spéirling Pure , produktionsversion , fläktbil , elbil , Spéirling Pure , Spéirling",
-      "link": "https://feber.se/bil/det-har-ar-produktionsversionen-av-mcmurtry-speirling/493685/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/det-har-ar-produktionsversionen-av-mcmurtry-speirling/493685/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1783060200000
     },
     {
       "title": "Pojkar byggde sin drömkoja – nu ska den bort",
@@ -1918,7 +2008,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Så hanterar polisen fotbolls-VM i Stockholm med förlängda öppettider på barer och storbildsskärm",
       "link": "https://www.mitti.se/nyheter/polisen-om-vmsommaren-i-stockholm-god-stamning-6.3.374077.9182e35033",
       "guid": "https://www.mitti.se/nyheter/polisen-om-vmsommaren-i-stockholm-god-stamning-6.3.374077.9182e35033",
-      "image": "https://www.mitti.se/image-3.375988.299543.20260703120251.1.18ff337b3c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.375988.299543.20260704103932.1.fc5591459e?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782983896000
@@ -2374,16 +2464,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782912599000
     },
     {
-      "title": "Ny studie: En viss faktor kan kanske förutsäga din risk att få demens, flera årtionden innan den allvarliga sjukdomen drabbar",
-      "description": "Hjärnan har i regel redan skadats när de första symtomen uppträder, vilket är anledningen till att forskare arbetar hårt med att tidigt identifiera de personer som löper ökad risk – och nu kan en internationell grupp ha gjort en viktig upptäckt.",
-      "link": "https://illvet.se/halsa/ny-studie-en-viss-faktor-kan-kanske-forutsaga-din-risk-att-fa-demens-flera-artionden-innan-den-allvarliga-sjukdomen-drabbar",
-      "guid": "https://illvet.se/halsa/ny-studie-en-viss-faktor-kan-kanske-forutsaga-din-risk-att-fa-demens-flera-artionden-innan-den-allvarliga-sjukdomen-drabbar",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1782912229000
-    },
-    {
       "title": "Stadsdelen i Stockholm där skolresultaten ökar allra mest",
       "description": "Järvas skolresultat ökar kraftigt – mest i hela Stockholm. Mitt i den politiska debatten om Järvas skolresultat så ökar gymnasiebehörigheten på Järvas grundskolor mest i hela Stockholm. Både Hjulsta grundskola och Husbygårdsskolan ökar dessutom sina skolresultat bland de mesta i hela staden, enligt de preliminära siffrorna. Juni 2026.",
       "link": "https://www.mitti.se/nyheter/stadsdelen-i-stockholm-dar-skolresultaten-okar-allra-mest-6.3.373183.ebd4ee1a43",
@@ -2422,16 +2502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782911153000
-    },
-    {
-      "title": "Var redo när det händer: Enorma röda blixtar delar himlen",
-      "description": "För att se dem behöver du hålla koll på en viss detalj i väderprognosen.",
-      "link": "https://illvet.se/naturen/vadret/blixtar/titta-uppat-enorma-roda-blixtar-intar-himlen",
-      "guid": "https://illvet.se/naturen/vadret/blixtar/titta-uppat-enorma-roda-blixtar-intar-himlen",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1782910800000
     },
     {
       "title": "Anthropic återställer tillgången till Claude Fable 5 och Mythos 5",
@@ -2574,16 +2644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782896710000
     },
     {
-      "title": "Hammarby - Anderlecht: Förköp för medlemmar klockan 12.00",
-      "description": "Den 23 juli spelas det första mötet i kvalomgång 2 av UEFA Europa League där Hammarby ställs mot Anderlecht. I måndags släpptes biljetterna till hemmamötet för säsongskortsinnehavare och upp mot 8000",
-      "link": "https://www.hammarbyfotboll.se/nyheter/hammarby-anderlecht-forkop-for-medlemmar-klockan-12-00",
-      "guid": "90867d7b-5309-41d8-854f-e16ba476a8aa",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/6e48be1512c8daec48b76779c9baa2ff7f647a5a-1583x1055.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1782896400000
-    },
-    {
       "title": "Senaste versionen av Kali Linux bjuder på 9 nya verktyg",
       "description": "Många säkerhetsforskare, IT-forensiker, penetrationstestare och hackare använder sig av Kali Linux, ett operativsystem som baseras på Debian och innehåller en lång rad användbara verktyg. Nu är det dags för version 2026.2 av Kali Linux och det stora dragplåstret den här gången är nio nya verktyg, däribland analysverktyget Oletools och AI-verktyget Shell-GPT. Enligt Bleeping Computer bjuds vi även på uppdaterade paket och bibliotek. Mer information om den nya versionen av Kali Linux finns på den officiella bloggen .",
       "link": "https://computersweden.se/article/4191501/senaste-versionen-av-kali-linux-bjuder-pa-9-nya-verktyg.html",
@@ -2654,16 +2714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782892316000
     },
     {
-      "title": "HTV: Nahir om återstarten och inför Elfsborg borta",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-nahir-om-aterstarten-och-infoer-elfsborg-borta",
-      "guid": "90058ef3-bc67-4313-86e7-7a06612bb88e",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/4531a195883783eb09d1df1a84e5d3bd3d276f26-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1782891576000
-    },
-    {
       "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
       "description": "What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today's leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors ideas psychoanalysis has explored for more than a century.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
@@ -2684,21 +2734,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782888430000
     },
     {
-      "title": "De sätter ljus på havsbotten – vill få in tips",
-      "description": "Värmdö kommun och Skärgårdsstiftelsen inventerar havsbotten i Hjälmö-Lådna. Målet är restaurering och skötselplan för marina miljöer – och nu efterlyses tips från öbor.",
-      "link": "https://www.mitti.se/nyheter/de-satter-ljus-pa-havsbotten--vill-fa-in-tips-6.3.372926.15b41e30b2",
-      "guid": "https://www.mitti.se/nyheter/de-satter-ljus-pa-havsbotten--vill-fa-in-tips-6.3.372926.15b41e30b2",
-      "image": "https://www.mitti.se/image-3.375579.299050.20260701063045.0707147349?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782885600000
-    },
-    {
       "title": "20 anställda sägs upp från Nackas bibliotek",
       "description": "Nacka upphandlar alla sex bibliotek inför 2027. Axiell lämnar driften, säger upp ett 20-tal anställda och kommunen väljer ny aktör utifrån kvalitet i stället för pris.",
       "link": "https://www.mitti.se/nyheter/20-anstallda-sags-upp-fran-nackas-bibliotek-6.3.373903.3c6c468ae2",
       "guid": "https://www.mitti.se/nyheter/20-anstallda-sags-upp-fran-nackas-bibliotek-6.3.373903.3c6c468ae2",
       "image": "https://www.mitti.se/image-3.375870.299353.20260701063045.1.e19ef6852a?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782885600000
+    },
+    {
+      "title": "De sätter ljus på havsbotten – vill få in tips",
+      "description": "Värmdö kommun och Skärgårdsstiftelsen inventerar havsbotten i Hjälmö-Lådna. Målet är restaurering och skötselplan för marina miljöer – och nu efterlyses tips från öbor.",
+      "link": "https://www.mitti.se/nyheter/de-satter-ljus-pa-havsbotten--vill-fa-in-tips-6.3.372926.15b41e30b2",
+      "guid": "https://www.mitti.se/nyheter/de-satter-ljus-pa-havsbotten--vill-fa-in-tips-6.3.372926.15b41e30b2",
+      "image": "https://www.mitti.se/image-3.375579.299050.20260701063045.0707147349?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782885600000
@@ -2764,11 +2814,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782882000000
     },
     {
-      "title": "17-åriga Livia blir chef på Historiska museet i sommar",
-      "description": "Livia Beijer från Kungsholmsskolan blir ny chef på Historiska museet.",
-      "link": "https://www.mitti.se/nyheter/17ariga-livia-blir-chef-pa-historiska-museet-i-sommar-6.3.371961.ba9c581bc8",
-      "guid": "https://www.mitti.se/nyheter/17ariga-livia-blir-chef-pa-historiska-museet-i-sommar-6.3.371961.ba9c581bc8",
-      "image": "https://www.mitti.se/image-3.374918.298086.20260701053045.233d467bf8?format=jpeg",
+      "title": "Sommarjobbare fixar fika på Alby friluftsgård",
+      "description": "484 ungdomar sommarjobbar i Tyresö kommun 2025. På Alby friluftsgård bakar, serverar och säljer Tyler, Ella, Mira och Vanessa fika till badgäster och besökare.",
+      "link": "https://www.mitti.se/nyheter/sommarjobbare-fixar-fika-pa-alby-friluftsgard-6.3.373191.d472150d72",
+      "guid": "https://www.mitti.se/nyheter/sommarjobbare-fixar-fika-pa-alby-friluftsgard-6.3.373191.d472150d72",
+      "image": "https://www.mitti.se/image-3.375597.299066.20260701053045.60b7a4073d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782882000000
@@ -2784,11 +2834,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782882000000
     },
     {
-      "title": "Sommarjobbare fixar fika på Alby friluftsgård",
-      "description": "484 ungdomar sommarjobbar i Tyresö kommun 2025. På Alby friluftsgård bakar, serverar och säljer Tyler, Ella, Mira och Vanessa fika till badgäster och besökare.",
-      "link": "https://www.mitti.se/nyheter/sommarjobbare-fixar-fika-pa-alby-friluftsgard-6.3.373191.d472150d72",
-      "guid": "https://www.mitti.se/nyheter/sommarjobbare-fixar-fika-pa-alby-friluftsgard-6.3.373191.d472150d72",
-      "image": "https://www.mitti.se/image-3.375597.299066.20260701053045.60b7a4073d?format=jpeg",
+      "title": "17-åriga Livia blir chef på Historiska museet i sommar",
+      "description": "Livia Beijer från Kungsholmsskolan blir ny chef på Historiska museet.",
+      "link": "https://www.mitti.se/nyheter/17ariga-livia-blir-chef-pa-historiska-museet-i-sommar-6.3.371961.ba9c581bc8",
+      "guid": "https://www.mitti.se/nyheter/17ariga-livia-blir-chef-pa-historiska-museet-i-sommar-6.3.371961.ba9c581bc8",
+      "image": "https://www.mitti.se/image-3.374918.298086.20260701053045.233d467bf8?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782882000000
@@ -3034,16 +3084,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782820226000
     },
     {
-      "title": "Biljettsläpp till bortamatchen mot BP",
-      "description": "I dag klockan 13.00 släpps biljetterna till herrarnas bortamöte med BP som spelas den 26 juli klockan 14.00 på Grimsta IP.BP - Hammarby | Söndag 26 juli klockan 14.00, Grimsta IPKöp biljetter på Hamma",
-      "link": "https://www.hammarbyfotboll.se/nyheter/biljettslapp-till-bortamatchen-mot-bp",
-      "guid": "69bee0a6-38ed-4008-adb9-b29d48c72046",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/49388628074930c904134fd5e26a5c343aa9ca1d-1960x1307.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1782816300000
-    },
-    {
       "title": "Därför fastnar Liljeholmsbron i upprätt läge",
       "description": "Liljeholmsbron har fastnat i upprätt läge ett tiotal gånger i år. Trafikkontoret pekar ut fel i pulsgivarna och hoppas att nya delar från Tyskland ska lösa problemet.",
       "link": "https://www.mitti.se/nyheter/darfor-fastnar-liljeholmsbron-i-uppratt-lage-6.3.373985.fa0bc60b62",
@@ -3134,21 +3174,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782809057000
     },
     {
-      "title": "Här är Österåkers gömda badpärla",
-      "description": "Upptäck Österåkers bästa badplatser – från avskilda Valsjön till populära Breviksbadet. Här finns tips, service och aktuell info om badtemperatur och vattenkvalitet.",
-      "link": "https://www.mitti.se/nyheter/har-ar-osterakers-gomda-badparla-6.3.373170.77a51f45de",
-      "guid": "https://www.mitti.se/nyheter/har-ar-osterakers-gomda-badparla-6.3.373170.77a51f45de",
-      "image": "https://www.mitti.se/image-3.375551.299014.20260630083124.0b9d2ea571?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782806400000
-    },
-    {
       "title": "Solnas krogliv och stadsdelar på tapeten",
       "description": "Solna hembygdsförening arrangerar vandringar",
       "link": "https://www.mitti.se/nyheter/solnas-krogliv-och-stadsdelar-pa-tapeten-6.3.371365.15840f946a",
       "guid": "https://www.mitti.se/nyheter/solnas-krogliv-och-stadsdelar-pa-tapeten-6.3.371365.15840f946a",
       "image": "https://www.mitti.se/image-3.374473.297317.20260630083124.51f56b3922?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782806400000
+    },
+    {
+      "title": "Här är Österåkers gömda badpärla",
+      "description": "Upptäck Österåkers bästa badplatser – från avskilda Valsjön till populära Breviksbadet. Här finns tips, service och aktuell info om badtemperatur och vattenkvalitet.",
+      "link": "https://www.mitti.se/nyheter/har-ar-osterakers-gomda-badparla-6.3.373170.77a51f45de",
+      "guid": "https://www.mitti.se/nyheter/har-ar-osterakers-gomda-badparla-6.3.373170.77a51f45de",
+      "image": "https://www.mitti.se/image-3.375551.299014.20260630083124.0b9d2ea571?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782806400000
@@ -3362,16 +3402,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1782786871000
-    },
-    {
-      "title": "Podd: Hon förtrollade kungen och förändrade England för alltid",
-      "description": "Den unga hovdamen vägrar att bli kungens älskarinna. ”Er hustru, om ni så vill”, svarar hon, väl medveten om att ingen engelsk kung någonsin har skiljt sig. Lär känna den charmiga Anne Boleyn, som bidrog till att England vände katolicismen ryggen.",
-      "link": "https://varldenshistoria.se/samhalle/kungar-och-drottningar/podd-hon-fortrollade-kungen-och-forandrade-england-for-alltid",
-      "guid": "https://varldenshistoria.se/samhalle/kungar-och-drottningar/podd-hon-fortrollade-kungen-och-forandrade-england-for-alltid",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1782765034000
     },
     {
       "title": "Scientists discover an unexpected way to make pancreatic cancer cells self-destruct",
@@ -3784,21 +3814,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782666000000
     },
     {
-      "title": "3 385 kronor för ett snittbesök på Grönan",
-      "description": "Så mycket kostar snittbesöket på Grönan",
-      "link": "https://www.mitti.se/nyheter/3-385-kronor-for-ett-snittbesok-pa-gronan-6.3.372742.ba2bf63174",
-      "guid": "https://www.mitti.se/nyheter/3-385-kronor-for-ett-snittbesok-pa-gronan-6.3.372742.ba2bf63174",
-      "image": "https://www.mitti.se/image-3.375521.298970.20260628170012.1.ef8139a841?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782664200000
-    },
-    {
       "title": "Kärrtorpsparet firade Eurovision-vinsten i tvättstugan",
       "description": "Iker Cederblom Herrera och Lisa Högström från Kärrtorp dansade med Dara som vann Eurovision för Bulgarien.",
       "link": "https://www.mitti.se/nyheter/karrtorpsparet-firade-eurovisionvinsten-i-tvattstugan-6.3.371595.2cc742e3fd",
       "guid": "https://www.mitti.se/nyheter/karrtorpsparet-firade-eurovisionvinsten-i-tvattstugan-6.3.371595.2cc742e3fd",
       "image": "https://www.mitti.se/image-3.374768.298219.20260628170012.1.5843dde4f5?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782664200000
+    },
+    {
+      "title": "3 385 kronor för ett snittbesök på Grönan",
+      "description": "Så mycket kostar snittbesöket på Grönan",
+      "link": "https://www.mitti.se/nyheter/3-385-kronor-for-ett-snittbesok-pa-gronan-6.3.372742.ba2bf63174",
+      "guid": "https://www.mitti.se/nyheter/3-385-kronor-for-ett-snittbesok-pa-gronan-6.3.372742.ba2bf63174",
+      "image": "https://www.mitti.se/image-3.375521.298970.20260628170012.1.ef8139a841?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782664200000
@@ -3844,21 +3874,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782648000000
     },
     {
-      "title": "Nya ballongkonsten i sjön engagerar",
-      "description": "Tre nya offentliga konstverk har invigts – och väckt reaktioner – i Nacka kommun.",
-      "link": "https://www.mitti.se/nyheter/nya-ballongkonsten-i-sjon-engagerar-6.3.372635.1ff23583b7",
-      "guid": "https://www.mitti.se/nyheter/nya-ballongkonsten-i-sjon-engagerar-6.3.372635.1ff23583b7",
-      "image": "https://www.mitti.se/image-3.375220.298327.20260628113131.1.e2413973cb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782644400000
-    },
-    {
       "title": "Grand Hotels paviljonger kan bli permanenta",
       "description": "De gröna paviljongerna utanför Burmanska huset på Blasieholmen där Grand Hotel har verksamhet kan bli permanenta.",
       "link": "https://www.mitti.se/nyheter/grand-hotels-paviljonger-kan-bli-permanenta-6.3.370427.880a026d19",
       "guid": "https://www.mitti.se/nyheter/grand-hotels-paviljonger-kan-bli-permanenta-6.3.370427.880a026d19",
       "image": "https://www.mitti.se/image-3.374920.298088.20260628113131.1.071733cd48?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782644400000
+    },
+    {
+      "title": "Nya ballongkonsten i sjön engagerar",
+      "description": "Tre nya offentliga konstverk har invigts – och väckt reaktioner – i Nacka kommun.",
+      "link": "https://www.mitti.se/nyheter/nya-ballongkonsten-i-sjon-engagerar-6.3.372635.1ff23583b7",
+      "guid": "https://www.mitti.se/nyheter/nya-ballongkonsten-i-sjon-engagerar-6.3.372635.1ff23583b7",
+      "image": "https://www.mitti.se/image-3.375220.298327.20260628113131.1.e2413973cb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782644400000
@@ -3894,6 +3924,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782628200000
     },
     {
+      "title": "Nästan hälften av alla Hesa Fredrik på plats",
+      "description": "Österåker har gått från 3 till 13 Hesa Fredrik-sändare. Utbyggnaden av VMA-systemet fortsätter till 2027 för att stärka varningsberedskapen vid kris och krig.",
+      "link": "https://www.mitti.se/nyheter/nastan-halften-av-alla-hesa-fredrik-pa-plats-6.3.371274.aef6da6cde",
+      "guid": "https://www.mitti.se/nyheter/nastan-halften-av-alla-hesa-fredrik-pa-plats-6.3.371274.aef6da6cde",
+      "image": "https://www.mitti.se/image-3.92848.297243.20260628103547.151dacc034?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782626400000
+    },
+    {
+      "title": "Bibblan bjuder in till sommarhäng",
+      "description": "Skärholmens bibliotek har Sommarhäng i Öppna förskolan Familjens hus den 1 juli 2026.",
+      "link": "https://www.mitti.se/nyheter/bibblan-bjuder-in-till-sommarhang-6.3.371360.3898881535",
+      "guid": "https://www.mitti.se/nyheter/bibblan-bjuder-in-till-sommarhang-6.3.371360.3898881535",
+      "image": "https://www.mitti.se/image-3.259328.297301.20260630062934.9d462b8814?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782626400000
+    },
+    {
       "title": "Nu ska arbetet med Campus Haninge starta",
       "description": "Haninge samlar gymnasie- och vuxenutbildning i Campus Haninge vid Fredrika Bremergymnasiet. Renoveringen kostar 190 miljoner och lokalerna ska stå klara till höstterminen 2028.",
       "link": "https://www.mitti.se/nyheter/nu-ska-arbetet-med-campus-haninge-starta-6.3.372613.cbf93d0257",
@@ -3914,31 +3964,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782626400000
     },
     {
-      "title": "Bibblan bjuder in till sommarhäng",
-      "description": "Skärholmens bibliotek har Sommarhäng i Öppna förskolan Familjens hus den 1 juli 2026.",
-      "link": "https://www.mitti.se/nyheter/bibblan-bjuder-in-till-sommarhang-6.3.371360.3898881535",
-      "guid": "https://www.mitti.se/nyheter/bibblan-bjuder-in-till-sommarhang-6.3.371360.3898881535",
-      "image": "https://www.mitti.se/image-3.259328.297301.20260630062934.9d462b8814?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782626400000
-    },
-    {
       "title": "Tyresö kan få ny frisbeegolfbana",
       "description": "Tyresö kommun vill bygga en ny frisbeegolfbana vid Prästängen söder om Krusboda. Kostnaden beräknas till minst 300 000 kronor och syftet är att minska trycket på Albybanan.",
       "link": "https://www.mitti.se/nyheter/tyreso-kan-fa-ny-frisbeegolfbana-6.3.371675.987c535c3c",
       "guid": "https://www.mitti.se/nyheter/tyreso-kan-fa-ny-frisbeegolfbana-6.3.371675.987c535c3c",
       "image": "https://www.mitti.se/image-3.326447.298427.20260628063120.8598678731?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782626400000
-    },
-    {
-      "title": "Nästan hälften av alla Hesa Fredrik på plats",
-      "description": "Österåker har gått från 3 till 13 Hesa Fredrik-sändare. Utbyggnaden av VMA-systemet fortsätter till 2027 för att stärka varningsberedskapen vid kris och krig.",
-      "link": "https://www.mitti.se/nyheter/nastan-halften-av-alla-hesa-fredrik-pa-plats-6.3.371274.aef6da6cde",
-      "guid": "https://www.mitti.se/nyheter/nastan-halften-av-alla-hesa-fredrik-pa-plats-6.3.371274.aef6da6cde",
-      "image": "https://www.mitti.se/image-3.92848.297243.20260628103547.151dacc034?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782626400000
@@ -3954,21 +3984,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782622800000
     },
     {
-      "title": "Då öppnar Årsta holmar för säsongen",
-      "description": "Gratis båt och färja går till Årsta holmar från Tanto och Södermalm med start augusti 2026-",
-      "link": "https://www.mitti.se/nyheter/da-oppnar-arsta-holmar-for-sasongen-6.3.372758.9cf427bf5c",
-      "guid": "https://www.mitti.se/nyheter/da-oppnar-arsta-holmar-for-sasongen-6.3.372758.9cf427bf5c",
-      "image": "https://www.mitti.se/image-3.336316.298646.20260628053119.bfd507a290?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782622800000
-    },
-    {
       "title": "Väsbyborna vill ha tillbaka närakuten på Löwet",
       "description": "Väsbybor kräver tillbaka närakuten på Löwet – S vallöfte ännu inte infriat.",
       "link": "https://www.mitti.se/nyheter/vasbyborna-vill-ha-tillbaka-narakuten-pa-lowet-6.3.369948.cc199a82c9",
       "guid": "https://www.mitti.se/nyheter/vasbyborna-vill-ha-tillbaka-narakuten-pa-lowet-6.3.369948.cc199a82c9",
       "image": "https://www.mitti.se/image-3.374977.298084.20260628053119.9d5ada26a1?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782622800000
+    },
+    {
+      "title": "Då öppnar Årsta holmar för säsongen",
+      "description": "Gratis båt och färja går till Årsta holmar från Tanto och Södermalm med start augusti 2026-",
+      "link": "https://www.mitti.se/nyheter/da-oppnar-arsta-holmar-for-sasongen-6.3.372758.9cf427bf5c",
+      "guid": "https://www.mitti.se/nyheter/da-oppnar-arsta-holmar-for-sasongen-6.3.372758.9cf427bf5c",
+      "image": "https://www.mitti.se/image-3.336316.298646.20260628053119.bfd507a290?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782622800000
@@ -4114,6 +4144,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782557280000
     },
     {
+      "title": "Två års fängelse efter knivattack i Bro",
+      "description": "Man med kniv i Bro döms till fängelse",
+      "link": "https://www.mitti.se/nyheter/tva-ars-fangelse-efter-knivattack-i-bro-6.3.373206.468205873b",
+      "guid": "https://www.mitti.se/nyheter/tva-ars-fangelse-efter-knivattack-i-bro-6.3.373206.468205873b",
+      "image": "https://www.mitti.se/image-3.301474.299069.20260703121922.1.368ac7db6b?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782550800000
+    },
+    {
       "title": "Svårt med sommarjobb i Täby",
       "description": "Nya SCB-siffror visar att bara 34 procent av gymnasieungdomarna i Täby sommarjobbar. Få feriejobb, hård konkurrens och lägre inkomster än rikssnittet pekas ut som orsaker.",
       "link": "https://www.mitti.se/nyheter/svart-med-sommarjobb-i-taby-6.3.371945.265d474444",
@@ -4129,16 +4169,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/osteraker-forst-med-att-bjuda-pa-baltrosvaccin-6.3.373098.9ae0f1e897",
       "guid": "https://www.mitti.se/nyheter/osteraker-forst-med-att-bjuda-pa-baltrosvaccin-6.3.373098.9ae0f1e897",
       "image": "https://www.mitti.se/image-3.217274.298913.20260627093027.eb22498e78?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782550800000
-    },
-    {
-      "title": "Två års fängelse efter knivattack i Bro",
-      "description": "Man med kniv i Bro döms till fängelse",
-      "link": "https://www.mitti.se/nyheter/tva-ars-fangelse-efter-knivattack-i-bro-6.3.373206.468205873b",
-      "guid": "https://www.mitti.se/nyheter/tva-ars-fangelse-efter-knivattack-i-bro-6.3.373206.468205873b",
-      "image": "https://www.mitti.se/image-3.301474.299069.20260703121922.1.368ac7db6b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782550800000
@@ -4194,21 +4224,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1782540377000
     },
     {
-      "title": "Höga betyg för Tyresös badplatser",
-      "description": "Tio av elva bad har utmärkt vattenkvalitet. Fler sommarjobbare städar stränderna i år. Bad, badplatser, Tyresö",
-      "link": "https://www.mitti.se/nyheter/hoga-betyg-for-tyresos-badplatser-6.3.371674.c6485190a6",
-      "guid": "https://www.mitti.se/nyheter/hoga-betyg-for-tyresos-badplatser-6.3.371674.c6485190a6",
-      "image": "https://www.mitti.se/image-3.374983.298181.20260627063021.4936d9e625?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1782540000000
-    },
-    {
       "title": "Blåstrio gästar parkleken i Sätra",
       "description": "Parkteatern gästar Sätra med föreställningen ”Parkleksmagi med fri luft”, den 1 juli.",
       "link": "https://www.mitti.se/nyheter/blastrio-gastar-parkleken-i-satra-6.3.372802.09307b8fdc",
       "guid": "https://www.mitti.se/nyheter/blastrio-gastar-parkleken-i-satra-6.3.372802.09307b8fdc",
       "image": "https://www.mitti.se/image-3.375267.298547.20260627063021.38944f3b8d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1782540000000
+    },
+    {
+      "title": "Höga betyg för Tyresös badplatser",
+      "description": "Tio av elva bad har utmärkt vattenkvalitet. Fler sommarjobbare städar stränderna i år. Bad, badplatser, Tyresö",
+      "link": "https://www.mitti.se/nyheter/hoga-betyg-for-tyresos-badplatser-6.3.371674.c6485190a6",
+      "guid": "https://www.mitti.se/nyheter/hoga-betyg-for-tyresos-badplatser-6.3.371674.c6485190a6",
+      "image": "https://www.mitti.se/image-3.374983.298181.20260627063021.4936d9e625?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1782540000000
