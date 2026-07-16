@@ -1,37 +1,877 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-16T00:11:40.460Z",
+  "updatedAt": "2026-07-16T10:24:03.058Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Rekord i nya aktiekonton bland unga: Så undviker du de vanligaste misstagen",
+      "description": "Allt fler unga vågar äntligen ta steget in på börsen. Men fortfarande låter alltför många rädslan för att förlora pengar stå i vägen. Här är tre vanliga misstag som stoppar unga svenskar från att skaffa aktiekonton. Och vad vi kan göra åt det. Bättre sent än aldrig gäller sällan så väl som när det kommer […]",
+      "link": "https://www.dagensps.se/bors-finans/aktier/rekord-i-nya-aktiekonton-bland-unga-sa-undviker-du-de-vanligaste-misstagen/",
+      "guid": "https://www.dagensps.se/?p=1656438",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/aktiekonton.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784196963000
+    },
+    {
+      "title": "Microsoft stoppar uppdatering för vissa Dell-datorer",
+      "description": "I tisdags rullade Microsoft ut den kumulativa uppdateringen KB5101650 till användare av Windows 11 24H2 och 25H2. Det dröjde emellertid inte länge innan det rapporterades att uppdateringen orsakade strul och krascher på vissa datormodeller från Dell. Enligt uppgift beror problemen på en konflikt mellan Microsofts nya gränssnitt för usb-c och en viktig drivrutin från Intel som kallas för IPF Processor Participant. I väntan på en buggfix har Microsoft bestämt sig för att pausa utrullningen av KB5101650 till berörda modeller, rapporterar Bleeping Computer .",
+      "link": "https://computersweden.se/article/4197715/microsoft-stoppar-uppdatering-for-vissa-dell-datorer.html",
+      "guid": "https://computersweden.se/article/4197715/microsoft-stoppar-uppdatering-for-vissa-dell-datorer.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4197715-0-32200600-1784197043-dell-laptop-logo-100937234-orig.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784196955000
+    },
+    {
+      "title": "Helgrillad laxsida med green goddess-dressing",
+      "description": "En helgrillad laxsida är både festlig och lättlagad, perfekt att ställa mitt på bordet och låta gästerna ta för sig. Tillsammans med en fräsch och örtig green goddess-dressing får den milda laxen en krämig och smakrik följeslagare som lyfter rätten till nya höjder.",
+      "link": "https://alltommat.expressen.se/recept/helgrillad-laxsida-med-green-goddess-dressing/",
+      "guid": "https://alltommat.expressen.se/recept/helgrillad-laxsida-med-green-goddess-dressing/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784196754000
+    },
+    {
+      "title": "Irankriget blir dyrt för världen – tullar kan spridas till nya länder",
+      "description": "En ny slags tullar har dykt upp för den globala handeln. Kostnaderna skenar för rederier som försöker hålla igång varuflödena. Avgifterna som tas ut i Hormuzsundet kan även sprida sig till andra känsliga passager. Analytiker varnar för att Donald Trumps USA är på väg att fastna i ytterligare ett ”evighetskrig” i konflikten med Iran. Kriget […]",
+      "link": "https://www.dagensps.se/varlden/irankriget-blir-dyrt-for-varlden-tullar-kan-spridas-till-nya-lander/",
+      "guid": "https://www.dagensps.se/?p=1656392",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdludcaifc77fo-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784196683000
+    },
+    {
+      "title": "Nya Trump-tullar mot Brasilien: ”Orättvisa handelsmetoder”",
+      "description": "USA inför 25-procentiga tullar på merparten av varor från Brasilien från och med nästa vecka, efter att en ett år lång utredning kommit fram till att landet tillämpar vad Washington beskriver som orättvisa handelsmetoder. Tullarna införs med stöd av Section 301 i den amerikanska handelslagen från 1974 och omfattar de flesta brasilianska importvaror. Vissa produkter […]",
+      "link": "https://www.dagensps.se/bors-finans/makro/nya-trump-tullar-mot-brasilien-orattvisa-handelsmetoder/",
+      "guid": "https://www.dagensps.se/?p=1656434",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/lulatrump2.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784196599000
+    },
+    {
+      "title": "Myndighet: Invånarna i Ingå kyrkby ska fortsätta koka vattnet",
+      "description": "Vattnet måste ännu kokas i fem minuter innan det dricks eller används i matlagning. Resultaten från nya vattenprover ska komma på fredagen.",
+      "link": "https://yle.fi/a/7-10102249?origin=rss",
+      "guid": "https://yle.fi/a/7-10102249",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784196481000
+    },
+    {
+      "title": "Protester efter att Ukrainas försvarsminister fått lämna",
+      "description": "Ukrainas president Volodymyr Zelenskyjs beslut att sparka landets försvarsminister Mychajlo Fedorov väcker kritik. Demonstranter har samlats runtom i landet i protest mot presidentens beslut, rapporterar Pravda . – Skäms, skanderar demonstranterna.",
+      "link": "https://www.expressen.se/nyheter/varlden/protester-efter-att-ukrainas-forsvarsminister-fatt-lamna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/protester-efter-att-ukrainas-forsvarsminister-fatt-lamna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784196389000
+    },
+    {
+      "title": "Polisen utreder om skönhetsföretag har använt otillåtna läkemedel",
+      "description": "Några personer misstänks för läkemedelsbrott och olovligt utövande av ett yrke inom hälso- och sjukvården. Det är oklart om någon skadats av substanserna som använts.",
+      "link": "https://yle.fi/a/7-10102231?origin=rss",
+      "guid": "https://yle.fi/a/7-10102231",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784196313000
+    },
+    {
+      "title": "Inte nog aggressiva: Ska kolla testosteronet hos alla soldater",
+      "description": "Nu ska aggressiviteten upp på rätt nivå igen. USA inför ett obligatoriskt testosteron-test för alla soldater över 30 år. Testosteron är ett könshormon. Brist på testosteron ”ger ofta diffusa symtom”, skriver Doktorn.com. ”De vanligaste tecknen är minskad sexlust, svagare erektioner (särskilt uteblivna morgonerektioner), extrem trötthet och humörsvängningar.” Det stannar inte där, utan testosteronbrist kan även […]",
+      "link": "https://www.dagensps.se/varlden/inte-nog-aggressiva-ska-kolla-testosteronet-hos-alla-soldater/",
+      "guid": "https://www.dagensps.se/?p=1656429",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl2qtlyp3zf1i-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784196062000
+    },
+    {
+      "title": "Napalm Death kör en liten kontorskonsert",
+      "description": "Men kör på bra ändå! Grindcore-pionjärerna i Napalm Death har besökt NPR:s Tiny Desk-scen för att ge oss en liten konsert därifrån. Det är något ljuvligt absurt med detta och blir ju inte sämre av att klassiker som You Suffer, Scum och Instinct of Survival spelas. L&auml;s vidare och kommentera: https://tjock.se/sinnet/napalm-death-kor-en-liten-kontorskonsert/494125/ L&auml;s mer om Napalm Death , NPR , Tiny Desk , Grindcore , You Suffer , Scum , Instinct of Survival",
+      "link": "https://tjock.se/sinnet/napalm-death-kor-en-liten-kontorskonsert/494125/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/sinnet/napalm-death-kor-en-liten-kontorskonsert/494125/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784196000000
+    },
+    {
+      "title": "New York sätter stopp för nya AI-datacenter",
+      "description": "USA:s president Donald Trump riktar skarp kritik mot New Yorks guvernör Kathy Hochul efter att delstatens beslutat att tillfälligt stoppa byggandet av vissa stora AI-datacenter, rapporterar CNBC . Det nya beslutet innebär att byggandet av datacenter med en effektförbrukning på 50 megawatt eller mer kan stoppas i upp till ett år. New York är den första amerikanska delstaten att införa en sådan regel. Kathy Hochul motiverar beslutet med att delstaten behöver utreda hur den snabba utbyggnaden påverkar elnät, vattenresurser och konsumenter. Hon menar att de samhällen som förser AI-industrin med energi också ska få ta del av de ekonomiska vinsterna. I ett inlägg på Truth Social uppmanar Trump delstaten att omedelbart ändra beslutet och beskriver datacenter som en viktig framtidsbransch som skapar jobb och ekonomisk tillväxt. Trump skriver samtidigt att datacenter själva bör stå för kostnaderna för sin el- och vattenförbrukning, och att eventuella överskott ska gå tillbaka till delstaten.",
+      "link": "https://computersweden.se/article/4197679/new-york-satter-stopp-for-nya-ai-datacenter.html",
+      "guid": "https://computersweden.se/article/4197679/new-york-satter-stopp-for-nya-ai-datacenter.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4197679-0-20284700-1784196251-shutterstock_1696920283.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784196000000
+    },
+    {
+      "title": "Kritisk sårbarhet upptäckt i Zoom",
+      "description": "Använder du dig av videokonferenstjänsten Zoom bör du så snart som möjligt uppdatera till den senaste versionen. I äldre versioner finns det nämligen en kritisk sårbarhet med beteckningen CVE-2026-53412 som kan utnyttjas av hackare för att ta över ditt konto. Sårbarheten finns både i skrivbordsklienten Zoom Workplace, Zoom VDI och utvecklarverktyget Zoom Meeting SDK, rapporterar Bleeping Computer . Utöver CVE-2026-53412 täpper de senaste uppdateringarna till tre andra sårbarheter, närmare bestämt CVE-2026-53410, CVE-2026-53409 och CVE-2026-53411.",
+      "link": "https://computersweden.se/article/1286576/sarbarhet-i-zoom.html",
+      "guid": "https://computersweden.se/article/1286576/sarbarhet-i-zoom.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/1286576-0-79546000-1784195479-shutterstock_1362429107.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784195414000
+    },
+    {
+      "title": "Bolaget ghostade sina anställda – har inte fått lön på ett år",
+      "description": "De fick ingen lön. Jobbmejlen stängdes och sjukförsäkringen försvann. Ändå fick de anställda aldrig något besked om att de hade blivit uppsagda. ”Min tid på Triller är den märkligaste och mest obegripliga upplevelse jag har varit med om”, säger en medarbetare. Nu berättar flera tidigare medarbetare om kaoset på Triller – bolaget som en gång […]",
+      "link": "https://www.dagensps.se/foretag/bolaget-ghostade-sina-anstallda-har-inte-fatt-lon-pa-ett-ar/",
+      "guid": "https://www.dagensps.se/?p=1656425",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/solen-feyissa-x2wco515nf4-unsplash-1.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784195131000
+    },
+    {
+      "title": "Aktiebolaget bakom EIF-fotbollen presenterar ny styrelse, ny organisation och ny sportchef",
+      "description": "Lucas Forsten-Kaufmann blir ny sportchef för EIF-fotboll. Han kommer också att ingå i aktiebolagets nya styrelse som presenterades på torsdagen.",
+      "link": "https://yle.fi/a/7-10102122?origin=rss",
+      "guid": "https://yle.fi/a/7-10102122",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784195081000
+    },
+    {
+      "title": "One Plus lämnar Europa och USA",
+      "description": "Befintliga kunder får byta operativsystem Det har under en tid kommit rykten om att OnePlus kommer att dra sig tillbaka från Europa och USA och istället fokusera på den kinesiska marknaden, något som bekräftas idag, skriver The Verge. Det här innebär att de OnePlus-mobiler som sålts på den amerikanska och europeiska marknaden inte längre kommer att få uppdateringar till operativsystemet OxygenOS. Istället planerar Oppo, OnePlus moderföretag, att låta dessa mobiler gå över till ColorOS, operativsystemet som idag rullar på Oppos telefoner. Det här kommer att ske inom några månader enligt Oppos europachef Elvis Zhou. Det finns även uppgifter om att OnePlus planerar att lämna Indien och alla andra marknader utanför Kina. Detta har dock inte bekräftats än. L&auml;s vidare och kommentera: https://feber.se/mobil/one-plus-lamnar-europa-och-usa/494139/ L&auml;s mer om Oppo , The Verge , OxygenOS , ColorOS , Elvis Zhou",
+      "link": "https://feber.se/mobil/one-plus-lamnar-europa-och-usa/494139/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/one-plus-lamnar-europa-och-usa/494139/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784194800000
+    },
+    {
+      "title": "Tropisk natt på flera håll – fler att vänta",
+      "description": "Värmen ligger kvar över Sverige och natten mot torsdagen har varit tropisk på flera håll.",
+      "link": "https://www.expressen.se/nyheter/vader/tropisk-natt-pa-flera-hall-fler-att-vanta/",
+      "guid": "https://www.expressen.se/nyheter/vader/tropisk-natt-pa-flera-hall-fler-att-vanta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784194590000
+    },
+    {
+      "title": "Så ska Apple bli mindre beroende av Nvidias AI-chipp",
+      "description": "I likhet med de flesta andra teknikföretag använder sig Apple av AI-chipp från Nvidia i sina datacenter, något som kostar stora summor pengar. För att minska beroendet av Nvidia filar Apple på Baltra, ett nytt AI-chipp som drabbats av otaliga förseningar. Senaste nytt är att Apple sägs vara villiga att köpa upp ett eller flera företag som ägnar sig åt tillverkning av AI-chipp, rapporterar The Information . Apple har för vana att köpa upp mindre företag med spetskompetens, så räkna med att det blir samma sak även denna gång.",
+      "link": "https://computersweden.se/article/4197694/sa-ska-apple-bli-mindre-beroende-av-nvidias-ai-chipp.html",
+      "guid": "https://computersweden.se/article/4197694/sa-ska-apple-bli-mindre-beroende-av-nvidias-ai-chipp.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4197694-0-90872100-1784194262-apple-silicon-wafer.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784194251000
+    },
+    {
+      "title": "Lamborghini har gjort två skräddarsydda Temerario",
+      "description": "Har fått ny kostym Om man har stålar att slanta upp för en Lamborghini och sedan har mer pengar över så kan man fläska på med tillval, unika färger och annat i deras Ad Personam-program. Det har man kunnat göra i 20 år, programmet började på Gallardo-tiden. Nu har man visat upp två Temerario som är lite extra unika. Bilarna är inte inspirerade av serietidningar utan strecken på bilen och inredningen är istället inspirerade av något mycket mer italienskt, nämligen den skräddarsydda kostymen. L&auml;s vidare och kommentera: https://feber.se/bil/lamborghini-har-gjort-tva-skraddarsydda-temerario/494123/ L&auml;s mer om Ad Personam , Gallardo , Temerario , Bilar , Design , Italien",
+      "link": "https://feber.se/bil/lamborghini-har-gjort-tva-skraddarsydda-temerario/494123/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/lamborghini-har-gjort-tva-skraddarsydda-temerario/494123/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784194200000
+    },
+    {
+      "title": "Hund dödad av hund",
+      "description": "Polisen larmad i Gävle",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=705d4db4-de31-442f-8c83-f074bfa87469",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=705d4db4-de31-442f-8c83-f074bfa87469",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784194124000
+    },
+    {
+      "title": "Atlas Copco rusar – halvledarlyft i orderboken",
+      "description": "Atlas Copcos aktie rusar uppåt med drygt 6 procent efter kvartalssiffrorna. Verkstadskoncernen Atlas Copco går bättre än väntat. Och orderingången – inte minst från halvledarindustrin – lyfter rejält i andra kvartalet. På börsen blir det tummen upp. Atlas Copcos aktie rusar uppåt med drygt 6 procent efter kvartalssiffrorna. ”Efterfrågan på Atlas Copco Groups utrustning och […]",
+      "link": "https://www.dagensps.se/bors-finans/atlas-copco-rusar-halvledarlyft-i-orderboken/",
+      "guid": "https://www.dagensps.se/?p=1656413",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/delarssiffror-fran-atlas-copco-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784194026000
+    },
+    {
+      "title": "Massflykt till billigare boränta – överger bundet",
+      "description": "Låga 2 procent av statliga bolånebanken SBAB:s kunder valde i juni att binda hela eller delar av sina bolån. Det kan jämföras med hur det såg ut i mars i år. Då var det rekordmånga som valde bundet för sina bolån. Banken tror att den radikala förändringen beror på minskad ränteoro hos hushållen, men även […]",
+      "link": "https://www.dagensps.se/privatekonomi/bostad/massflykt-till-billigare-boranta-overger-bundet/",
+      "guid": "https://www.dagensps.se/?p=1656334",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sbabekonom.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784194000000
+    },
+    {
+      "title": "M/S Roope kommer snart och samlar in skärgårdens skrot",
+      "description": "Skärgårdens skrotinsamling fortsätter i augusti. Insamlingsfartyget M/S Roope pajade i juni, vilket satt tillfälligt stopp för insamlingen.",
+      "link": "https://yle.fi/a/7-10102243?origin=rss",
+      "guid": "https://yle.fi/a/7-10102243",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784193738000
+    },
+    {
+      "title": "SpaceX-aktien rasar under introduktionskursen: Värre att vänta i augusti?",
+      "description": "SpaceX-aktien har fallit under introduktionskursen efter den rekordstora börsnoteringen i juni. Nu varnar analytiker för ännu större kurssvängningar när miljarder tidigare låsta aktier successivt blir möjliga att sälja från och med augusti. När den noterades på Nasdaq i juni stod SpaceX-aktien på 135 dollar per aktie. Det var den största börsintroduktionen någonsin, som drog in […]",
+      "link": "https://www.dagensps.se/bors-finans/aktier/spacex-aktien-rasar-under-introduktionskursen-varre-att-vanta-i-augusti/",
+      "guid": "https://www.dagensps.se/?p=1656386",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/space-x.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784193489000
+    },
+    {
+      "title": "Näridrottsplatsen i Tessjö förnyas och blir mångsidigare under hösten",
+      "description": "Efter renoveringen blir det möjligt att utöva fler grenar på området.",
+      "link": "https://yle.fi/a/7-10102207?origin=rss",
+      "guid": "https://yle.fi/a/7-10102207",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784193433000
+    },
+    {
+      "title": "Wall Street-chefen avslöjar sitt bästa karriärknep: ”En superkraft”",
+      "description": "Toppbetyg och ett prestigefyllt universitet kan förvisso öppna dörren till finansvärlden. Men enligt en av Wall Streets mäktigaste chefer är det något helt annat som avgör vem som tar sig vidare. Jon Gray, vd och operativ chef på kapitaljätten Blackstone, hade ett budskap när han talade till företagets nya kull av analytiker. Framgång handlar inte […]",
+      "link": "https://www.dagensps.se/karriar/wall-street-chefen-avslojar-sitt-basta-karriarknep-en-superkraft/",
+      "guid": "https://www.dagensps.se/?p=1656405",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlqgfteeo5ors-normalhires.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784193193000
+    },
+    {
+      "title": "Man frikänns från våldtäkt av barn i Vitabergsparken",
+      "description": "En man frikänns för våldtäkt mot barn i Vitabergsparken.",
+      "link": "https://www.mitti.se/nyheter/man-frikanns-fran-valdtakt-av-barn-i-vitabergsparken-6.3.375982.d00aea3692",
+      "guid": "https://www.mitti.se/nyheter/man-frikanns-fran-valdtakt-av-barn-i-vitabergsparken-6.3.375982.d00aea3692",
+      "image": "https://www.mitti.se/image-3.367833.300599.20260716095217.2e68a63ec8?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784193168000
+    },
+    {
+      "title": "Putins lyxyacht – 34 mil från svenska gränsen",
+      "description": "Vladimir Putin har flyttat sin lyxyacht från Kaliningrad till Kolahalvön. Orsaken är att säkra den mot ukrainska drönare. Severomorsk är en stängd rysk stad på Kolahalvöns nordkust. Staden har cirka 50 000 invånare och är högkvarter för den ryska flottans norra enhet. I stadens närområden finns dessutom flera stora flygbaser för marinflyget – Severomorsk 1, 2 […]",
+      "link": "https://www.dagensps.se/varlden/putins-lyxyacht-34-mil-fran-svenska-gransen/",
+      "guid": "https://www.dagensps.se/?p=1656393",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdly6fcfw0fuhm-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784193164000
+    },
+    {
+      "title": "Allvarlig psykisk störning hos misstänkt spion",
+      "description": "Den 34-årige man som är åtalad för försök till spioneri för Rysslands räkning bedöms lida av en allvarlig psykisk störning.",
+      "link": "https://www.expressen.se/nyheter/sverige/allvarlig-psykisk-storning-hos-misstankt-spion/",
+      "guid": "https://www.expressen.se/nyheter/sverige/allvarlig-psykisk-storning-hos-misstankt-spion/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784193094000
+    },
+    {
+      "title": "Kiev attackerat",
+      "description": "Putins anfall – timmar före premiärministerns besök",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/kiev-attackerat-timmar-fore-starmers-besok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/kiev-attackerat-timmar-fore-starmers-besok",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784192986000
+    },
+    {
+      "title": "Statsvetare Göran Djupsund om Orpos försvar: ”En mycket dålig förklaring”",
+      "description": "Göran Djupsund säger att statsminister Petteri Orpo (Saml) inte längre framstår som en partiledare som för sitt parti till seger i riksdagsvalet.",
+      "link": "https://yle.fi/a/7-10102234?origin=rss",
+      "guid": "https://yle.fi/a/7-10102234",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784192593000
+    },
+    {
+      "title": "Disponent kritiserar Borgå stad för balkongförbud",
+      "description": "Borgå har förbjudit användningen av balkonger på 75 fastigheter på grund av olycksrisk. Nu kritiseras förbudet för att ha varit för omfattande.",
+      "link": "https://yle.fi/a/7-10101349?origin=rss",
+      "guid": "https://yle.fi/a/7-10101349",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784192418000
+    },
+    {
+      "title": "Bläckfisken använder sina sugkoppar till en massa olika saker",
+      "description": "De påminner väldigt mycket om en vanlig gummisugkopp – men de används till något helt annat.",
+      "link": "https://illvet.se/naturen/blackfisken-anvander-sina-sugkoppar-till-en-massa-olika-saker",
+      "guid": "https://illvet.se/naturen/blackfisken-anvander-sina-sugkoppar-till-en-massa-olika-saker",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784192407000
+    },
+    {
+      "title": "Första Volvo EX60 har levererats till kund",
+      "description": "Ut på roadtrip! Nya Volvo EX60 presenterades i januari och redan nu har de första exemplaren levererats till kund. Bra jobbat Volvo! Det betyder att det alltså är ett gäng kunder som nu fått en riktigt fin sommarbil. – Det här är en viktig milstolpe för oss och för våra kunder. Efter tusentals timmar och många mil av utveckling och tester känns det fantastiskt att se de första kunderna ta emot sin egen EX60. säger Erik Severinson, Chief Commercial Officer på Volvo Cars. Om du beställer en Volvo EX60 idag kan du räkna med minst 5-6 månaders väntetid. Versionen som heter P12, den med absolut längst räckvidd, har en leveranstid på 11-12 månader. L&auml;s vidare och kommentera: https://feber.se/bil/forsta-volvo-ex60-har-levererats-till-kund/494136/ L&auml;s mer om EX60 , Erik Severinson , Elbil , Fordon , Bilindustri",
+      "link": "https://feber.se/bil/forsta-volvo-ex60-har-levererats-till-kund/494136/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/forsta-volvo-ex60-har-levererats-till-kund/494136/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784192400000
+    },
+    {
+      "title": "Nu händer det: Oppositionspartierna kräver att riksdagen sammankallas på grund av Garden Helsinki-härvan",
+      "description": "Tidigare på torsdagen sa riksdagens talman att det kan bli aktuellt att sammankalla riksdagen.",
+      "link": "https://yle.fi/a/7-10102241?origin=rss",
+      "guid": "https://yle.fi/a/7-10102241",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784192081000
+    },
+    {
+      "title": "Nvidia inleder AI-samarbeten med japanska robotjättar",
+      "description": "Nvidia meddelar att de nu fördjupar sitt samarbete med den japanska industrin genom nya partnerskap med flera ledande robotföretag. Bland dessa syns Fanuc och Yaskawa Electric samt Fujitsu och Kawasaki Heavy Industries. Syftet är att påskynda utvecklingen av robotik och AI för industriella tillämpningar. – Med AI kommer robotar att bli smarta, lättanpassade och tillgängliga, sa Nvidias vd Jensen Huang vid ett medieevenemang i Tokyo, rapporterar Reuters . Jensen Huang befinner sig just nu på en rundresa i Japan, där han också har träffat företrädare för flera nyckelbolag i landets halvledarindustri. Bland annat Kioxia och Tokyo Electron.",
+      "link": "https://computersweden.se/article/4197671/nvidia-inleder-ai-samarbeten-med-japanska-robotjattar.html",
+      "guid": "https://computersweden.se/article/4197671/nvidia-inleder-ai-samarbeten-med-japanska-robotjattar.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4197671-0-43037500-1784191322-DH1L4415-HDR-20220527-r5.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784191311000
+    },
+    {
+      "title": "Spädbarn hittat dött",
+      "description": "Man gripen i Bergen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e330948b-3111-4e13-90bf-da4bb298bb5f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e330948b-3111-4e13-90bf-da4bb298bb5f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784191294000
+    },
+    {
+      "title": "Man med gevär gick på restaurang i Vasa",
+      "description": "Vapnet i fråga var ett airsoftgevär som liknade ett gammalt klassiskt ryskt stormgevär. Kunderna i restaurangen avväpnade mannen.",
+      "link": "https://yle.fi/a/7-10102242?origin=rss",
+      "guid": "https://yle.fi/a/7-10102242",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784190969000
+    },
+    {
+      "title": "Pixel 11 får LED-notifikationer på baksidan",
+      "description": "Som kallas för Pixel Glow? Tidigare i år dök det upp uppgifter om att Google skulle introducera något som man kallade för \"Pixel Glow\" på nästa generationens Pixel-mobiler. Nu verkar det ha blivit något klarare om vad detta faktiskt innebär. I amerikanska Google Store visas nu en teaser för den kommande Pixel 11 som försetts med en LED-indikator i mobilens kamera-ö som pulserar i olika färger. Tanken bakom den nya indikatorn tros vara att den ska kunna informera användaren om olika notifikationer från mobilen, något som känns som en smidig funktion för dem som har mobilen liggande med baksidan uppåt. Den 12 augusti kommer Google att presentera Pixel 11 och då kommer vi antagligen få veta mer om Pixel Glow, eller vad den nya indikatorn nu kommer att kallas. L&auml;s vidare och kommentera: https://feber.se/mobil/pixel-11-far-led-notifikationer-pa-baksidan/494121/ L&auml;s mer om Pixel , Pixel Glow , LED-indikator , mobil , kamera",
+      "link": "https://feber.se/mobil/pixel-11-far-led-notifikationer-pa-baksidan/494121/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/pixel-11-far-led-notifikationer-pa-baksidan/494121/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784190600000
+    },
+    {
+      "title": "Emil Appel missade finalen i U18-EM – sjukamparen Alisa Launonen inledde sin guldjakt",
+      "description": "Det blev ingen finalplats för höjdhopparen Emil Appel i U18-EM. Appel rev ut sig på 2,01 i kvalet.",
+      "link": "https://yle.fi/a/7-10102236?origin=rss",
+      "guid": "https://yle.fi/a/7-10102236",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784190291000
+    },
+    {
+      "title": "Halla-aho till Yle om Garden Helsinki: Kan bli aktuellt att sammankalla riksdagen",
+      "description": "Riksdagens talman Jussi Halla-aho säger till Yle att han inte har fått någon officiell begäran om att sammankalla riksdagen.",
+      "link": "https://yle.fi/a/7-10102233?origin=rss",
+      "guid": "https://yle.fi/a/7-10102233",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784190281000
+    },
+    {
+      "title": "Serhii Koretskyj är Ukrainas nya premiärminister – stora protester ordnas efter att populära försvarsministern sparkats",
+      "description": "President Volodymyr Zelenskyj får hård kritik från folket, de egna kollegorna och försvarsmakten. De vill att försvarsministern Mychailo Fedorov återvänder till sin post.",
+      "link": "https://yle.fi/a/7-10102232?origin=rss",
+      "guid": "https://yle.fi/a/7-10102232",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784190025000
+    },
+    {
+      "title": "Uber köper upp Foodora",
+      "description": "Vill bli större på matleveranser Uber köper upp Delivery Hero, den tyska matleveransjätten som bland annat äger Foodora, för 13 miljarder euro, skriver Delivery Hero i ett pressmeddelande. Uber erbjuder Delivery Heros aktieägare 41,50 euro per aktie, något som kan jämföras med Delivery Heros stängningskurs i går på cirka 38 euro. För att affären ska gå igenom måste den godkännas av en majoritet av Delivery Heros aktieägare samt konkurrensmyndigheter på de berörda marknaderna. Om Uber, som redan levererar mat med tjänsten Uber Eats i Europa, planerar att fimpa Foodoras varumärke efter köpet av Delivery Hero finns det än så länge inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/samhalle/uber-koper-upp-foodora/494133/ L&auml;s mer om Uber , Delivery Hero , Foodora , Uber Eats",
+      "link": "https://feber.se/samhalle/uber-koper-upp-foodora/494133/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/uber-koper-upp-foodora/494133/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784190000000
+    },
+    {
+      "title": "Invånarna i Virginia vann kampen mot datacentren och vill nu varna också oss",
+      "description": "I USA stoppade invånare bygget av världens största datacenter. Samtidigt investerar techjättar miljarder i liknande anläggningar i Finland.",
+      "link": "https://yle.fi/a/7-10101863?origin=rss",
+      "guid": "https://yle.fi/a/7-10101863",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784189144000
+    },
+    {
+      "title": "Ny lag ska stoppa gängens rekrytering av unga",
+      "description": "Plattformar måste radera våldsinnehåll inom en timme Från och med i går finns det en ny lag i Sverige som ska göra det svårare för gäng att värva barn och unga via sociala medier. Polisen i Sverige har länge varnat för hur gäng utnyttjar plattformar som TikTok och Snapchat för att rekrytera minderåriga till grova våldsdåd. Regeringen har skyndat på lagförslaget efter att ha fått godkänt från EU. Den nya lagstiftningen ger nu polisen befogenhet att kräva att sociala mediejättar raderar inlägg och annonser om våldsuppdrag omedelbart. Om plattformarna inte tar bort innehållet inom en timme riskerar de miljonbelopp i böter. Enligt polisen är syftet främst att skydda unga från att dras in i gänglivet. Även om hotet om sanktioner finns, hoppas myndigheterna att de nya reglerna ska leda till ett tätare samarbete med teknikföretagen. L&auml;s vidare och kommentera: https://feber.se/samhalle/ny-lag-ska-stoppa-gangens-rekrytering-av-unga/494119/ L&auml;s mer om Sverige , Polisen , Tiktok , Snapchat , EU , Regeringen , Gängkriminalitet",
+      "link": "https://feber.se/samhalle/ny-lag-ska-stoppa-gangens-rekrytering-av-unga/494119/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/ny-lag-ska-stoppa-gangens-rekrytering-av-unga/494119/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784188800000
+    },
+    {
+      "title": "Gratis på sommarlovet: 12 roliga saker att göra med barnen i sommar",
+      "description": "Tips på 12 roliga och gratis sommaraktiviteter för barnfamiljer – från naturbingo och 4H-gård till tältning, experiment, bakduell och insektshotell.",
+      "link": "https://www.mitti.se/nyheter/gratis-pa-sommarlovet-12-roliga-saker-att-gora-med-barnen-i-sommar-6.3.367317.74bfd0bb81",
+      "guid": "https://www.mitti.se/nyheter/gratis-pa-sommarlovet-12-roliga-saker-att-gora-med-barnen-i-sommar-6.3.367317.74bfd0bb81",
+      "image": "https://www.mitti.se/image-3.371925.294195.20260716083058.1.bdcef52aab?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784188800000
+    },
+    {
+      "title": "Gamla Läktaren stängd till bortamatchen mot BP",
+      "description": "BP har fått besked från Stockholms Stad att den Gamla Läktaren på Grimsta IP kommer att hållas stängd under resterande del av säsongen 2026. Detta innebär att den stängs till Hammarbys bortamöte med B",
+      "link": "https://www.hammarbyfotboll.se/nyheter/gamla-laektaren-staengd-till-bortamatchen-mot-bp",
+      "guid": "7acb74a6-b35a-4d48-9679-2152c2a151c7",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/b599337ad24728bff0e7d331b19a3abefa11bf36-1099x733.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784188800000
+    },
+    {
+      "title": "Eurovision-vinnaren klar för Stockholm Pride",
+      "description": "Stockholm Pride laddar för 2026 med nytt festivalområde i Slakthusområdet, parad genom city och en hemlig Eurovision-vinnare på scenen.",
+      "link": "https://www.mitti.se/nyheter/eurovisionvinnaren-klar-for-stockholm-pride-6.3.375848.9f0555995a",
+      "guid": "https://www.mitti.se/nyheter/eurovisionvinnaren-klar-for-stockholm-pride-6.3.375848.9f0555995a",
+      "image": "https://www.mitti.se/image-3.291385.300499.20260716091757.1.7f7e0e597c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784188677000
+    },
+    {
+      "title": "Skottlossning efter bråk i bensinkö i Ryssland – man förd till sjukhus",
+      "description": "En fordonsförare ska ha skjutit en annan förare i samband med ett bråk i kön till en bensinstation i Ryssland, rapporterar Meduza med hänvisning till lokala medier. Offret fördes till sjukhus och skytten flydde platsen. Han kunde senare gripas av polis.",
+      "link": "https://www.expressen.se/nyheter/varlden/skottlossning-efter-brak-i-bensinko-i-ryssland-man-ford-till-sjukhus-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skottlossning-efter-brak-i-bensinko-i-ryssland-man-ford-till-sjukhus-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784188057000
+    },
+    {
+      "title": "Trafikverket: ”Ett utmanade dygn framför oss”",
+      "description": "Det forsätter vara varmt runtom i Sverige. Och värmen fortsätter ställa till det i sommartrafiken. – Vi har ett utmanade dygn framför oss, säger Trafikverkets presskommunikatör Peter Jonsson till TT.",
+      "link": "https://www.expressen.se/nyheter/sverige/trafikverket-ett-utmanade-dygn-framfor-oss/",
+      "guid": "https://www.expressen.se/nyheter/sverige/trafikverket-ett-utmanade-dygn-framfor-oss/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784187663000
+    },
+    {
+      "title": "Thinking Machines Lab släpper sin första öppna AI-modell – Inkling",
+      "description": "AI-bolaget Thinking Machines Lab, grundat av den tidigare Open AI-chefen Mira Murati, har nu presenterat Inkling , företagets första egenutvecklade AI-modell. Inkling är en så kallad öppen modell vilket innebär att utvecklare och företag kan ladda ner modellens vikter och anpassa den för egna behov, rapporterar Techcrunch . Modellen består av totalt 975 miljarder parametrar och använder omkring 41 miljarder parametrar samtidigt vid varje uppgift. Den har tränats på 45 biljoner tokens från text, bilder, ljud och video och kan resonera över alla dessa format. Inkling kan i dagsläget endast genererar text, kod och strukturerad data och Thinking Machines konstaterar att den inte är marknadens mest kraftfulla AI-modell. Istället lyfter företaget fram effektivitet, anpassningsbarhet och möjligheten att justera hur mycket “tänkande” modellen ska lägga på en uppgift för att balansera hastighet och kvalitet. Företaget uppger också att Inkling når samma kodningsprestanda som Nvidias öppna Nemotron 3 Ultra med ungefär en tredjedel så många tokens.",
+      "link": "https://computersweden.se/article/4197631/thinking-machines-lab-slapper-sin-forsta-oppna-ai-modell-inkling.html",
+      "guid": "https://computersweden.se/article/4197631/thinking-machines-lab-slapper-sin-forsta-oppna-ai-modell-inkling.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4197631-0-01457600-1784187166-Thinking-Machine-Labs-Inkling.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784187105000
+    },
+    {
+      "title": "Samsung visar upp nya modeller",
+      "description": "I teaser för Spider-Man: Brand New Day Nästa vecka är det dags för ett nytt Samsung Galaxy Unpacked och då kommer det bland annat att visas upp en ny version av den vikbara modellen Galaxy Z Fold. Redan nu ser det dock ut att vara klart att Galaxy Z Fold 8 kommer att få en lite annorlunda form än sina föregångare. I en reklamfilm från Samsung med Spider-Man-tema teasas Galaxy Z Fold 8 men vi får inte se den i sin helhet, bara veta att det handlar om en \"new shape\". Förutom vad som tros vara den nya Galaxy Z Fold 8 visas även Galaxy Watch Ultra 2, Galaxy Z Flip 8 och Galaxy Z Fold 8 Ultra (bilden ovan) i reklamfilmen. Den 22 juli är det dags för nästa Galaxy Unpacked. Spider-Man: Brand New Day går upp på biograferna den 29 juli och ni hittar Samsungs teaser med Spider-Man-tema nedan. L&auml;s vidare och kommentera: https://feber.se/mobil/samsung-visar-upp-nya-modeller/494117/ L&auml;s mer om Galaxy , Z Flip , Z Fold , Watch Ultra , Spider-Man",
+      "link": "https://feber.se/mobil/samsung-visar-upp-nya-modeller/494117/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/samsung-visar-upp-nya-modeller/494117/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784187000000
+    },
+    {
+      "title": "USA inför obligatoriska testosteronprover för soldater",
+      "description": "Pentagon vill ha mer krut i krigarna Nu ska det bli ordning bland de amerikanska soldaterna, åtminstone rent hormonellt. USA:s försvarsminister Pete Hegseth har nämligen rullat ut en plan för att se till att landets soldater inte tappar stinget med åren. Från och med nu ska alla soldater som passerat 30-strecket genomgå en årlig besiktning av sina testosteronnivåer. Tanken är enkel: om hormonerna börjar dala ska försvaret kliva in och erbjuda en skjuts i rätt riktning. De yngre förmågorna under 30 slipper obligatoriska prov, men är välkomna att anmäla sig frivilligt till kontrollen om de känner att de saknar den rätta glöden. Visar det sig att mätaren står på rött erbjuds behandling för att återställa balansen till en riktigt macho man igen. L&auml;s vidare och kommentera: https://feber.se/samhalle/usa-infor-obligatoriska-testosteronprover-for-soldater/494124/ L&auml;s mer om USA , Pete Hegseth , Försvaret , Testosteron , Hormoner , Soldater , Hälsa",
+      "link": "https://feber.se/samhalle/usa-infor-obligatoriska-testosteronprover-for-soldater/494124/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/usa-infor-obligatoriska-testosteronprover-for-soldater/494124/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784186400000
+    },
+    {
+      "title": "Nya anfall i natt: ”Går riktigt bra”",
+      "description": "Trump om bomberna: Borde gjorts tidigare",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-om-bomberna-borde-gjorts-tidigare",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-om-bomberna-borde-gjorts-tidigare",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784186356000
+    },
+    {
+      "title": "Pete Hegseth: Testa soldaternas testosteron",
+      "description": "USA ska börja testa sina soldaters testosteronnivåer, meddelar försvarsminister Pete Hegseth. Testerna ska bli obligatoriska för ”krigare” från 30 års ålder, men erbjudas även yngre.",
+      "link": "https://www.expressen.se/nyheter/varlden/pete-hegseth-testa-soldaternas-testosteron/",
+      "guid": "https://www.expressen.se/nyheter/varlden/pete-hegseth-testa-soldaternas-testosteron/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784186293000
+    },
+    {
+      "title": "Bränslepriserna stiger efter oroligheter",
+      "description": "När USA och Iran bråkar ökas priset på diesel och bensin Den senaste tidens eskalerande konflikt i Mellanöstern har snabbt sett till att priset vid bränslepumparna har snurrat uppåt igen. Bara på ett par dagar har priset på diesel ökat med runt 1,50 kronor per liter. Bensinpriset har också stigit, men mer måttfullt med drygt 50 öre litern. De nya prisnivåerna innebär att en liter diesel nu kostar omkring 18,60 kronor, medan bensinen ligger på strax över 15 kronor. Det är det lite smått spända läget mellan USA och Iran som har skapat oro för störningar i oljetransporterna genom Hormuzsundet som gjort att priset på råolja har ökat igen. Men trots prisökningarna är bränslet fortfarande billigare än tidigare under året. Något som delvis beror på sänkningen av drivmedelsskatten som regeringen genomförde vid halvårsskiftet. L&auml;s vidare och kommentera: https://feber.se/samhalle/branslepriserna-stiger-efter-oroligheter/494118/ L&auml;s mer om Mellanöstern , USA , Iran , Hormuzsundet , Diesel , Bensin , Drivmedelsskatt",
+      "link": "https://feber.se/samhalle/branslepriserna-stiger-efter-oroligheter/494118/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/branslepriserna-stiger-efter-oroligheter/494118/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784185200000
+    },
+    {
+      "title": "Polisen söker ögonvittne till allvarlig trafikolycka i Raseborg",
+      "description": "Olyckan inträffade på riksväg 25 i Horsbäck i juni. Polisen söker en person som inte misstänks för något utan som kan ha sett vad som hände.",
+      "link": "https://yle.fi/a/7-10102228?origin=rss",
+      "guid": "https://yle.fi/a/7-10102228",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784184906000
+    },
+    {
+      "title": "Stockholmarna trotsar avrådan – badar ändå",
+      "description": "Trots dåligt vatten i flera år • ”Behövde det här”",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/stockholmarna-trotsar-avradan-badar-anda",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/stockholmarna-trotsar-avradan-badar-anda",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784183643000
+    },
+    {
+      "title": "Särskilt unga riskerar att missa skatteåterbäring i augusti",
+      "description": "Tiotusentals finländare riskerar försenad skatteåterbäring eftersom de inte anmält sina kontonummer till Skatteförvaltningen.",
+      "link": "https://yle.fi/a/7-10102226?origin=rss",
+      "guid": "https://yle.fi/a/7-10102226",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784183470000
+    },
+    {
+      "title": "Bankomat AB förlorar tvist mot Google",
+      "description": "Blir av med rätten till sitt företagsnamn Bankomat AB har förlorat en rättslig tvist mot Google som inleddes för två år sedan då Bankomat stämde Google för varumärkesintrång efter att ordet \"bankomat\" användes för att översätta de engelska orden \"ATM\" och \"cash machine\" till \"bankomat\" i Googles översättningstjänst. Patent- och marknadsdomstolen har nu gett Google rätt och häver i samband med det delvis Bankomats varumärkesregistrering och företagsnamnet i helhet. Bankomat är inte nöjda med beslutet och har redan bestämt sig för att överklaga. I ett pressmeddelande säger Lena Gredenhag, vd för Bankomat AB: – Vi vidtar nu de åtgärder som krävs för att överklaga. Under tiden kan våra kunder känna sig trygga med att de kan nyttja våra insättnings- och uttagsautomater precis som vanligt. Förutom att Bankomat AB:s varumärkesregistrering delvis hävts och att de blir av rätten till sitt företagsnamn kommer Bankomat även att få betala Googles rättegångskostnader som landar på 7,6 miljoner kronor, skriver Expressen. L&auml;s vidare och kommentera: https://feber.se/samhalle/bankomat-ab-forlorar-tvist-mot-google/494115/ L&auml;s mer om Bankomat , Google , Patent- och marknadsdomstolen , Lena Gredenhag , varumärken , företagsnamn",
+      "link": "https://feber.se/samhalle/bankomat-ab-forlorar-tvist-mot-google/494115/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/bankomat-ab-forlorar-tvist-mot-google/494115/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784183400000
+    },
+    {
+      "title": "Kan \"larven från helvetet\" nå Stockholm?",
+      "description": "Stockholms stad är redo för Ekprocessionsspinnaren, \"Larven från helvetet\".",
+      "link": "https://www.mitti.se/nyheter/kan-larven-fran-helvetet-na-stockholm-6.3.375797.ec106bb2db",
+      "guid": "https://www.mitti.se/nyheter/kan-larven-fran-helvetet-na-stockholm-6.3.375797.ec106bb2db",
+      "image": "https://www.mitti.se/image-3.376654.300411.20260716093140.2941926500?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784183400000
+    },
+    {
+      "title": "Morgonens nyheter i Stockholm",
+      "description": "Morgonens nyheter i Stockholm.",
+      "link": "https://www.mitti.se/nyheter/morgonens-nyheter-i-stockholm-6.3.375950.60ae45f200",
+      "guid": "https://www.mitti.se/nyheter/morgonens-nyheter-i-stockholm-6.3.375950.60ae45f200",
+      "image": "https://www.mitti.se/image-3.376616.300569.20260716065023.2c9323025f?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784182771000
+    },
+    {
+      "title": "Lionel Messis positionsbyte blev Argentinas nyckel: ”Styrde matchen under sista kvarten”",
+      "description": "Lionel Messi spelade fram till båda målen för Argentina i VM-semifinalen mot England. Och det var när Messi flyttade ut på kanten som Argentina hittade ett sätt att vända matchen.",
+      "link": "https://yle.fi/a/7-10102225?origin=rss",
+      "guid": "https://yle.fi/a/7-10102225",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784182463000
+    },
+    {
+      "title": "Bedragare döms – lurade äldre på miljoner",
+      "description": "En bedragare döms för flera fall av bedrägerier.",
+      "link": "https://www.mitti.se/nyheter/bedragare-doms--lurade-aldre-pa-miljoner-6.3.375923.ae31f3a121",
+      "guid": "https://www.mitti.se/nyheter/bedragare-doms--lurade-aldre-pa-miljoner-6.3.375923.ae31f3a121",
+      "image": "https://www.mitti.se/image-3.348076.300547.20260716064423.1.e612579298?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784182444000
+    },
+    {
+      "title": "Pendeltågsstation fick utrymmas efter tekniskt fel",
+      "description": "Pendel fick utrymmas efter automatisk larm.",
+      "link": "https://www.mitti.se/nyheter/pendeltagsstation-fick-utrymmas-efter-tekniskt-fel-6.3.375949.9d850c12e7",
+      "guid": "https://www.mitti.se/nyheter/pendeltagsstation-fick-utrymmas-efter-tekniskt-fel-6.3.375949.9d850c12e7",
+      "image": "https://www.mitti.se/image-3.319965.300568.20260716065107.1.39d9030c34?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784182146000
+    },
+    {
+      "title": "En man har blivit knivhuggen vid Järnvägsstationen i Helsingfors",
+      "description": "",
+      "link": "https://yle.fi/a/7-10102223?origin=rss",
+      "guid": "https://yle.fi/a/7-10102223",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784181738000
+    },
+    {
+      "title": "Range Rover Sport blir också elektrisk",
+      "description": "Första lilla provkörningen är gjord Range Rover i elektrisk version har varit på gång ett bra tag nu, åratal faktiskt. Men senare i år verkar den faktiskt komma. Då kommer den att följas av Range Rover Sport i en elektrisk version. Den eldrivna varianten av Sport visades upp på Goodwood Festival of Speed för ett gäng utvalda journalister. Men det var inte bara en statisk visning, utan folk fick faktiskt provköra bilen. Dessutom utfördes lite utmaningar, som att köra upp för en trappa. Bilen ska få två motorer som tillsammans levererar 550 hästar. Batteriet kommer att vara på 118 kWh, laddningen ska ligga på 350 kW och plattformen ska vara på 800V. Prislappen väntas börja på 100.000 pund, någonstans runt 1,3 miljoner kronor. L&auml;s vidare och kommentera: https://feber.se/bil/range-rover-sport-blir-ocksa-elektrisk/494114/ L&auml;s mer om Range Rover , Sport , Elbil , Goodwood , Fordon",
+      "link": "https://feber.se/bil/range-rover-sport-blir-ocksa-elektrisk/494114/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/range-rover-sport-blir-ocksa-elektrisk/494114/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784181600000
+    },
+    {
+      "title": "Stickskadad man i Sköndal avliden",
+      "description": "Man avliden efter stickskador i sköndal. Polisen utreder mord.",
+      "link": "https://www.mitti.se/nyheter/stickskadad-man-i-skondal-avliden-6.3.375948.90ae6ed773",
+      "guid": "https://www.mitti.se/nyheter/stickskadad-man-i-skondal-avliden-6.3.375948.90ae6ed773",
+      "image": "https://www.mitti.se/image-3.248411.300566.20260716092751.1.a1910f83a3?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784181185000
+    },
+    {
+      "title": "Nordea övergår till halvårsutdelning",
+      "description": "Förvaltat kapital nådde rekordnivån 505 miljarder euro. En halvårsutdelning betalas till aktieägare i augusti.",
+      "link": "https://yle.fi/a/7-10102219?origin=rss",
+      "guid": "https://yle.fi/a/7-10102219",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784180813000
+    },
+    {
+      "title": "Scientists finally solved how a common gut bacterium triggers colon cancer",
+      "description": "Researchers solved a long-standing mystery behind how a bacterial toxin associated with colorectal cancer damages the colon. The toxin first binds to a receptor called claudin-4, giving it access to attack the cells' protective barrier. After identifying this weak point, the team designed a decoy protein that successfully blocked the toxin in mice. The discovery could pave the way for new therapies to prevent inflammation and colon tumors.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084910.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260713084910.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784180241000
+    },
+    {
+      "title": "Bankomat förlorar utdragen tvist mot Google – överklagar",
+      "description": "Företaget Bankomat AB förlorade rätten till sitt namn efter en tvist med Google. Nu överklagar de domen. – Bankomat anser att domen är felaktig i flera centrala hänseenden, säger vd Lena Gredenhag i ett pressmeddelande.",
+      "link": "https://www.expressen.se/nyheter/sverige/bankomat-forlorar-utdragen-tvist-mot-google-overklagar/",
+      "guid": "https://www.expressen.se/nyheter/sverige/bankomat-forlorar-utdragen-tvist-mot-google-overklagar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784179105000
+    },
+    {
+      "title": "Kycklingschnitzel med citron- och dragonyoghurt",
+      "description": "Fräscht och gott med mycket citron vilket passar både till kyckling och den lite söta blomkålen. Finns det färsk dragon hemma kan den torkade dragonen ersättas med 1 msk hackad.",
+      "link": "https://alltommat.expressen.se/recept/kycklingschnitzel-med-citron--och-dragonyoghurt/",
+      "guid": "https://alltommat.expressen.se/recept/kycklingschnitzel-med-citron--och-dragonyoghurt/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784179080000
+    },
+    {
+      "title": "Över 500 befaras ha dött i två förlisningar utanför Myanmar",
+      "description": "Inbördeskriget i Myanmar tvingar allt fler människor på flykt.",
+      "link": "https://yle.fi/a/7-10102216?origin=rss",
+      "guid": "https://yle.fi/a/7-10102216",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784178980000
+    },
+    {
+      "title": "Amerikanska baser attackerade",
+      "description": "Iran slår tillbaka efter anfall mot kommandocentraler",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8493da4c-3c75-442f-895c-8fdc7367e2ad",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8493da4c-3c75-442f-895c-8fdc7367e2ad",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784178751000
+    },
+    {
+      "title": "Uppgifter: Halvtidsshowen i VM-finalen sväller – Fifa bryter mot sina egna regler",
+      "description": "Enligt regelverket ska en halvtidspaus vara 15 minuter lång. I söndagens VM-final kommer Fifa att bryta mot sina egna regler, och pausen kan bli upp till 30 minuter.",
+      "link": "https://yle.fi/a/7-10102217?origin=rss",
+      "guid": "https://yle.fi/a/7-10102217",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784178669000
+    },
+    {
+      "title": "Sommar i P1: Elaf Ali står för en bedrift – men jag hade hoppats på mer",
+      "description": "ALBIN JULIN: Så många [geting] får Elaf Alis sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-elaf-ali-star-for-en-bedrift-men-jag-hade-hoppats-pa-mer/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-elaf-ali-star-for-en-bedrift-men-jag-hade-hoppats-pa-mer/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Därför har SL byggt om i Mörby centrum",
+      "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
+      "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
+      "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
+      "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Överfallsvåldtäkt i park i Malmö – man gripen",
+      "description": "En kvinna har utsatts för en misstänkt överfallsvåldtäkt i Öresundsparken i Malmö under onsdagskvällen. En man i 35-årsåldern är gripen. – Enligt de initiala uppgifterna så är den här mannen okänd för kvinnan, säger polisens presstalesperson Katarina Rusin.",
+      "link": "https://www.expressen.se/nyheter/sverige/overfallsvaldtakt-i-park-i-malmo-man-gripen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/overfallsvaldtakt-i-park-i-malmo-man-gripen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784176208000
+    },
+    {
+      "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
+      "description": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone with symptoms to seek medical care.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784175905000
+    },
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "description": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784175408000
+    },
+    {
       "title": "Våldtäkt i park",
-      "description": "Misstänkt man gripen i Malmö",
+      "description": "Man gripen Malmö i natt",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba350a4f-e531-46a1-8a83-32a93f2fe688",
       "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba350a4f-e531-46a1-8a83-32a93f2fe688",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784159859000
+      "timestamp": 1784175203000
     },
     {
-      "title": "Tumult under VM-visning",
-      "description": "Vittnet: ”Fullständig kalabalik”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2590f3e6-8735-459b-8f6f-54dea412e05d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2590f3e6-8735-459b-8f6f-54dea412e05d",
+      "title": "Så minskar du risken för att drabbas av badklåda",
+      "description": "Med högsommarvärme och långa dagar på stranden kommer också rapporter om badare som fått kliande utslag. Det kan vara parasiter som varit i farten – men risken att få dem under skinnet går att minska.",
+      "link": "https://www.expressen.se/nyheter/sverige/sa-minskar-du-risken-for-att-drabbas-av-badklada/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sa-minskar-du-risken-for-att-drabbas-av-badklada/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784159398000
+      "timestamp": 1784175093000
     },
     {
-      "title": "Trumptoppen vill testa soldaters testosteron",
-      "description": "USA:s militär ska testa testosteron-nivåerna på anställda soldater. Det säger försvarsministern Pete Hegseth i ett inlägg på X . – Detta säkerställer att du har rätt testosteronnivå för att leverera ditt allra bästa, säger Hegseth.",
-      "link": "https://www.expressen.se/nyheter/varlden/trumptoppen-vill-testa-soldaters-testosteron/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumptoppen-vill-testa-soldaters-testosteron/",
+      "title": "Arbetsförmedlingen: Färre varslas om uppsägning",
+      "description": "Fler får jobb, färre skrivs in som arbetslösa och varslen om uppsägningar minskar. Förändringarna på jobbmarknaden är små men går åt det ljusare hållet.",
+      "link": "https://www.expressen.se/nyheter/sverige/arbetsformedlingen-farre-varslas-om-uppsagning/",
+      "guid": "https://www.expressen.se/nyheter/sverige/arbetsformedlingen-farre-varslas-om-uppsagning/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784159382000
+      "timestamp": 1784174701000
+    },
+    {
+      "title": "Ryska spioner jagar vapenteknik i Japan",
+      "description": "Ryska spioner som har utvisats från västvärlden har etablerat sig i Japan. Där har de kunnat komma över avancerad vapenteknik till kriget i Ukraina, skriver The New York Times.",
+      "link": "https://www.expressen.se/nyheter/varlden/ryska-spioner-jagar-vapenteknik-i-japan/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryska-spioner-jagar-vapenteknik-i-japan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784173769000
+    },
+    {
+      "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+      "description": "NASA's James Webb Space Telescope has revealed new details about the blistering lava planet 55 Cancri e, where temperatures are high enough to melt rock. The data indicate the planet likely has a hydrogen-rich atmosphere shaped by gases escaping from its molten interior, with signs that volcanic outgassing may even create temporary clouds.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784171990000
+    },
+    {
+      "title": "JD Vances erkännande om Epstein",
+      "description": "USA:s vicepresident JD Vance anser att administrationens misskötte utredningen om sexbrottslingen Jeffrey Epstein. – Vi klantade verkligen till kommunikationen kring det, säger han. Uttalandet är den tydligaste offentliga kritiken från Vita huset.",
+      "link": "https://www.expressen.se/nyheter/varlden/jd-vances-erkannande-om-epstein/",
+      "guid": "https://www.expressen.se/nyheter/varlden/jd-vances-erkannande-om-epstein/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784169203000
+    },
+    {
+      "title": "Common constipation drug may help clear depression brain fog",
+      "description": "An existing constipation drug may have an unexpected new use: helping clear the \"brain fog\" that often lingers after depression. In a small clinical trial, people with a history of depression who took the medication prucalopride for about a week performed better on tests of memory, attention, and thinking speed than those who received a placebo. The drug targets a serotonin receptor found in both the gut and the brain, and researchers saw no significant side effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784162949000
     },
     {
       "title": "Seiko Luxe 1970 Heritage Save The Ocean SE Dive Watch",
@@ -64,34 +904,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784154600000
     },
     {
-      "title": "Konspirationer kring Trumps väns död",
-      "description": "Den Trump-allierade Lindsey Graham avled på söndagen. Hans död har gett upphov till olika konspirationsteorier – där bland annat Ryssland pekas ut. – Jag vet att det finns alla möjliga konspirationsteorier, men jag tycker att FBI slösar bort sin tid på att utreda det här, säger Trump till CBS News .",
-      "link": "https://www.expressen.se/nyheter/varlden/konspirationer-kring-trumps-vans-dod/",
-      "guid": "https://www.expressen.se/nyheter/varlden/konspirationer-kring-trumps-vans-dod/",
+      "title": "Psykolog: Sociala medier är skadliga för ditt barns hjärna – den här regeln har jag för mina egna tonåringar",
+      "description": "Barn är extra känsliga för många av funktionerna på sociala medier. Forskaren berättar hur han själv gör som förälder.",
+      "link": "https://illvet.se/manniskan/psykolog-sociala-medier-ar-skadliga-for-ditt-barns-hjarna-den-har-regeln-har-jag-for-mina-egna-tonaringar",
+      "guid": "https://illvet.se/manniskan/psykolog-sociala-medier-ar-skadliga-for-ditt-barns-hjarna-den-har-regeln-har-jag-for-mina-egna-tonaringar",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784154470000
-    },
-    {
-      "title": "Trump rasande efter de läckta uppgifterna",
-      "description": "Donald Trump bytte flygplan på väg hem från Nato-toppmötet i slutet av juni. Enligt uppgifter berodde bytet på säkerhetsbrister. De läckta uppgifterna gjorde presidenten rasande – och utlöste en intensiv jakt på källan, rapporterar CNN.",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-rasande-efter-de-lackta-uppgifterna/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-rasande-efter-de-lackta-uppgifterna/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784154170000
-    },
-    {
-      "title": "Skott mot fönster",
-      "description": "Skott mot fönster – misstänkt mordförsök",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ddce7120-6895-4965-8759-100680e13fe0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ddce7120-6895-4965-8759-100680e13fe0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784153497000
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784152858000
     },
     {
       "title": "Oysters: A Celebration in the Raw",
@@ -104,36 +924,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784152800000
     },
     {
-      "title": "Släpper Trumpmynt",
-      "description": "Lanseras i höst",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f77003f6-33e0-4f55-8544-83b14a6f7152",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f77003f6-33e0-4f55-8544-83b14a6f7152",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784151939000
-    },
-    {
-      "title": "Joan sköts ihjäl av ICE – pappan: ”Han hade en stark framtidstro”",
-      "description": "Joan Sebastian Guerrero sköts ihjäl av ICE-agenter när han färdades i en bil med sin familj. Nu berättar Guerreros pappa Omar Duran om sonen. – Han hade en stark framtidstro och många drömmar som han ville förverkliga, säger Omar Duran till den colombianska nyhetssajten Noticias Caracol.",
-      "link": "https://www.expressen.se/nyheter/varlden/joan-skots-ihjal-av-ice-pappan-han-hade-en-stark-framtidstro/",
-      "guid": "https://www.expressen.se/nyheter/varlden/joan-skots-ihjal-av-ice-pappan-han-hade-en-stark-framtidstro/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784151908000
-    },
-    {
-      "title": "Se sanslösa scenerna när Argentina vände VM-semifinalen – sänkte Englands gulddröm på stopptid",
-      "description": "Fyra slutspelsmatcher – fyra draman. Nu är Argentina klart för en ny VM-final. I semifinalen vände allt på några minuter i slutskedet av matchen.",
-      "link": "https://yle.fi/a/7-10102210?origin=rss",
-      "guid": "https://yle.fi/a/7-10102210",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784149858000
-    },
-    {
       "title": "Everyday Carry: Grounded",
       "description": "",
       "link": "https://uncrate.com/everyday-carry-grounded/",
@@ -142,36 +932,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784149314000
-    },
-    {
-      "title": "Efter dödsmisshandeln – det vet vi om de häktade",
-      "description": "En 47-årig man avled efter en misshandel på en badplats i Mölnlycke. Två män har häktats. En av dem är tidigare dömd för flera brott.",
-      "link": "https://www.expressen.se/nyheter/sverige/efter-dodsmisshandeln-det-vet-vi-om-de-haktade/",
-      "guid": "https://www.expressen.se/nyheter/sverige/efter-dodsmisshandeln-det-vet-vi-om-de-haktade/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784149276000
-    },
-    {
-      "title": "Rökutveckling på T-centralen",
-      "description": "Pendeltågsstation utryms",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e520fd3e-f3b8-4ec1-9719-867ea4b21f44",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e520fd3e-f3b8-4ec1-9719-867ea4b21f44",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784147892000
-    },
-    {
-      "title": "Bråk på camping",
-      "description": "En till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a834e6a-cc50-4804-8347-69b9f120cbc0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a834e6a-cc50-4804-8347-69b9f120cbc0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784147675000
     },
     {
       "title": "Världens äldsta bevis på barnmisshandel? Arkeologer har hittat ben som berättar en tragisk historia",
@@ -214,38 +974,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784143803000
     },
     {
-      "title": "Tre döda efter ryska anfall",
-      "description": "Putins senaste drag mot Ukraina",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/tre-doda-efter-ryska-anfall-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/tre-doda-efter-ryska-anfall-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784143734000
-    },
-    {
-      "title": "Ramarna för NHL-säsongen är utstakade: För tredje gången i historien spelas 84 omgångar i grundserien",
-      "description": "För NHL-älskaren finns det goda nyheter: nästa säsong spelas fler NHL-matcher och dessutom inleds säsongen tidigare.",
-      "link": "https://yle.fi/a/7-10102211?origin=rss",
-      "guid": "https://yle.fi/a/7-10102211",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784143689000
-    },
-    {
-      "title": "Man vaknade på sjukhus – utan minne: ”Svart hål”",
-      "description": "Efter en utekväll förra veckan vaknade en 30-årig man upp utan minne. – Det ett svart hål. Han minns ingenting, berättar mannens pappa för Ystad Allehanda. Nu utreder polisen vad som kan ha hänt.",
-      "link": "https://www.expressen.se/nyheter/sverige/man-vaknade-pa-sjukhus-utan-minne-svart-hal/",
-      "guid": "https://www.expressen.se/nyheter/sverige/man-vaknade-pa-sjukhus-utan-minne-svart-hal/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784143113000
-    },
-    {
       "title": "ID. Cross är en biffigare Polo",
-      "description": "Perfekt för många svenskar? Volkswagen-koncernen är på gång med en massa mindre elbilar. Cupra Raval har redan kommit och Skoda är på gång med Epiq. Volkswagen själva är på gång med ID. Polo, men för svensk del tror jag att den som kommer att vara intressantast är ID. Cross. Vi säger ju att vi är ett kombi-land, men vi är egentligen ett SUV-land och framförallt så har vi något emot småbilar. Volkswagen har verkligen lyckats göra ett gäng olika bilar som bygger på samma bas, men ändå har egna karaktärer. Och så är det också med ID. Cross, det är en helt annan bil jämfört med ID. Polo. Eller åtminstone känns det så. På många sätt är det här en vinnare, om vi kan svälja prislappen. Det kommer en instegsversion med tiden som kommer att kosta 355.900 kronor. Men då får man nöja sig med elmotor på 85 kW och räckvidd på 30 mil. Versionen som man kan köpa idag har en roligare räckvidd på 436 kilometer och elmotor på 155 kW, men då kostar det också betydligt mer. Billigaste utrustningspaketet Life kostar 461.900 kronor, vill man ha flådigare Style kostar det 486.900 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/id-cross-ar-en-biffigare-polo/494100/ L&auml;s mer om",
+      "description": "Perfekt för många svenskar? Volkswagen-koncernen är på gång med en massa mindre elbilar. Cupra Raval har redan kommit och Skoda är på gång med Epiq. Volkswagen själva är på gång med ID. Polo, men för svensk del tror jag att den som kommer att vara intressantast är ID. Cross. Vi säger ju att vi är ett kombi-land, men vi är egentligen ett SUV-land och framförallt så har vi något emot småbilar. Volkswagen har verkligen lyckats göra ett gäng olika bilar som bygger på samma bas, men ändå har egna karaktärer. Och så är det också med ID. Cross, det är en helt annan bil jämfört med ID. Polo. Eller åtminstone känns det så. På många sätt är det här en vinnare, om vi kan svälja prislappen. Det kommer en instegsversion med tiden som kommer att kosta 355.900 kronor. Men då får man nöja sig med elmotor på 85 kW och räckvidd på 30 mil. Versionen som man kan köpa idag har en roligare räckvidd på 436 kilometer och elmotor på 155 kW, men då kostar det också betydligt mer. Billigaste utrustningspaketet Life kostar 461.900 kronor, vill man ha flådigare Style kostar det 486.900 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/id-cross-ar-en-biffigare-polo/494100/ L&auml;s mer om Volkswagen , Cupra , Skoda , ID. Cross , ID. Polo , Epiq , Raval",
       "link": "https://feber.se/bil/id-cross-ar-en-biffigare-polo/494100/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/bil/id-cross-ar-en-biffigare-polo/494100/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -284,16 +1014,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784141400000
     },
     {
-      "title": "Kraftigt åskoväder i Italien – turister varnas",
-      "description": "I stora delar av Italien väntas temperaturer över 40-sträcket. Men i norr dundrar åskan. Nu varnas turister för ett kraftigt åskoväder – med risk för hagel.",
-      "link": "https://www.expressen.se/nyheter/varlden/kraftigt-askovader-i-italien-turister-varnas/",
-      "guid": "https://www.expressen.se/nyheter/varlden/kraftigt-askovader-i-italien-turister-varnas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784140490000
-    },
-    {
       "title": "Har du blivit fästingbiten?",
       "description": "Dagens jobbiga fråga Nu är fästingsäsongen igång och jag tänkte att vi kunde kolla om ni läsare någonsin blivit bitna av en fästing. Svara gärna på vår enkät nedan. Vill ni snacka mer om fästingar, fästingbett, TBE eller något annat som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-blivit-fastingbiten/494106/ L&auml;s mer om Fästingar , Fästingbett , TBE , Djurfeber , insekter",
       "link": "https://feber.se/har-du-blivit-fastingbiten/494106/?utm_source=rss&utm_medium=feed",
@@ -302,26 +1022,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784140200000
-    },
-    {
-      "title": "Petteri Orpo om Garden Helsinki: Jan Vapaavuoris påverkansförsök var osakliga",
-      "description": "Regeringen ville ge 35 miljoner till ett arenaprojekt som drivs av samlingspartister. Nu säger Orpo att projektet knappast får hela summan.",
-      "link": "https://yle.fi/a/7-10102188?origin=rss",
-      "guid": "https://yle.fi/a/7-10102188",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784139570000
-    },
-    {
-      "title": "LA Galaxy får finländsk förstärkning: Robert Taylor ansluter till klubben",
-      "description": "LA Galaxy är en av de mest framgångsrika klubbarna i nordamerikanska MLS. Klubben har vunnit mästerskapet sex gånger, senast 2024.",
-      "link": "https://yle.fi/a/7-10102209?origin=rss",
-      "guid": "https://yle.fi/a/7-10102209",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784139335000
     },
     {
       "title": "Starlink släpper ny satellitmottagare",
@@ -344,36 +1044,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784138220000
     },
     {
-      "title": "Vändningen efter 17-åringens död utanför Marbella",
-      "description": "17-åriga Nikoline Høie dog efter att ha blivit påkörd i spanska Mijas Costa utanför Marbella. I måndags greps en man i 40-årsåldern misstänkt i fallet – men nu meddelar polisen att mannen har släppts och inte längre är misstänkt, skriver Aftenposten.",
-      "link": "https://www.expressen.se/nyheter/varlden/vandningen-efter-17-aringens-dod-i-marbella/",
-      "guid": "https://www.expressen.se/nyheter/varlden/vandningen-efter-17-aringens-dod-i-marbella/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784137664000
-    },
-    {
-      "title": "Alva, 26, är radioaktiv – får inte träffa andra",
-      "description": "Först upptäckte en främling hennes cancer. Sen blev 26-åriga Alva Haudaghl radioaktiv under behandlingen. Nu får hon snart träffa andra – efter att ha suttit helt isolerad.",
-      "link": "https://www.expressen.se/nyheter/sverige/alva-26-ar-radioaktiv-far-inte-traffa-andra/",
-      "guid": "https://www.expressen.se/nyheter/sverige/alva-26-ar-radioaktiv-far-inte-traffa-andra/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784137493000
-    },
-    {
-      "title": "Brand på skärgårdsö",
-      "description": "Helikoptrar vattenbombar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e6c45b6f-0cb5-4dc0-b21c-cfda57bdc340",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e6c45b6f-0cb5-4dc0-b21c-cfda57bdc340",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784137057000
-    },
-    {
       "title": "Yaamava' Resort & Casino",
       "description": "",
       "link": "https://uncrate.com/yaamava-resort-casino/",
@@ -392,36 +1062,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784136600000
-    },
-    {
-      "title": "Tysklands utrikesminister i Finland: ”Ryssland utmanar oss dagligen”",
-      "description": "Johann Wadephul säger att ryska cyberattacker, GPS-störningar och sabotage av kritisk infrastruktur är pusselbitar i en ny verklighet.",
-      "link": "https://yle.fi/a/7-10102208?origin=rss",
-      "guid": "https://yle.fi/a/7-10102208",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784135644000
-    },
-    {
-      "title": "Kvinna påkörd på E22",
-      "description": "Skadeläget oklart • Vägen avstängd",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f8c4b23-ca52-428f-af6a-44dae7bcc11b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f8c4b23-ca52-428f-af6a-44dae7bcc11b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784135019000
-    },
-    {
-      "title": "Skatteverkets kebablunch kostade en kvarts miljon",
-      "description": "Tre gånger åt de utsända från Skatteverket lunch på restaurangen. Nu kostar det stället en kvarts miljon kronor i böter. Snabbmatsrestaurangen i Kristianstad råkade ut för Skatteverket i form av dess hemliga utsända. Personal från Skatteverket beställde mat och återkom flera gånger. De betalade kontant och sade nej tack till att få kvitto. I Skatteverkets […]",
-      "link": "https://www.dagensps.se/foretag/skatteverkets-kebablunch-kostade-en-kvarts-miljon/",
-      "guid": "https://www.dagensps.se/?p=1656182",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlydflukqli3s-nh-300x300.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784134840000
     },
     {
       "title": "Exklusiv utgåva av Game of Thrones kostar över 20.000 kronor",
@@ -454,26 +1094,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784133000000
     },
     {
-      "title": "Tabben som får ryska soldaten att flyga",
-      "description": "Nära att döda instruktören",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/tabben-som-far-ryska-soldaten-att-flyga",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/tabben-som-far-ryska-soldaten-att-flyga",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784132891000
-    },
-    {
-      "title": "Häcklöparen Hilla Uusimäki strävar efter ännu snabbare tider – ska göra något som ingen i Finland gjort tidigare",
-      "description": "Efter att ha noterats för nytt finländskt rekord på 400 meter häck under söndagen, övar Hilla Uusimäki in en ny stegrytm som världseliten använder.",
-      "link": "https://yle.fi/a/7-10102205?origin=rss",
-      "guid": "https://yle.fi/a/7-10102205",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784132784000
-    },
-    {
       "title": "Filmmedier har åsikter om The Odyssey",
       "description": "Som har premiär på fredag Snart är det dags för Christopher Nolans efterlängtade tolkning av Odysséen med filmen The Odyssey. Alldeles nyligen började det dyka upp recensioner för filmen och de kan man kolla in ovan samt nedan. Generellt verkar kritiker hylla filmen som ett visuellt häpnadsväckande och storslaget IMAX-epos med fantastiska skådespelarinsatser, skicklig klippning och ett enastående soundtrack av Ludwig Göransson. De anser att filmen lyckas kombinera spektakulär action med djup psykologi och existentiell moralisk komplexitet. Däremot kritiseras filmen för att stundtals sakna en känslomässig kärna, kännas ojämn och långdragen, samt för att det nedtonade mytologiska fokuset vilket kanske kan göra vissa fans av originaltexten besvikna. Länkar till fler recensioner kan hittas via länken nedan. L&auml;s vidare och kommentera: https://feber.se/film/filmmedier-har-asikter-om-the-odyssey/494110/ L&auml;s mer om Christopher Nolan , The Odyssey , IMAX , Ludwig Göransson , Film",
       "link": "https://feber.se/film/filmmedier-har-asikter-om-the-odyssey/494110/?utm_source=rss&utm_medium=feed",
@@ -484,16 +1104,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784131800000
     },
     {
-      "title": "Brand vid egnahemshus i Sibbo",
-      "description": "Eldsvådan uppstod i samarbete med eldarbeten på husets tak.",
-      "link": "https://yle.fi/a/7-10102204?origin=rss",
-      "guid": "https://yle.fi/a/7-10102204",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784131514000
-    },
-    {
       "title": "Ny studie från Oxford: Hannibals otroliga marsch genom Alperna kan ha drivits av elefanternas behov",
       "description": "Ett forskarpar har använt alternativa metoder i ett försök att lösa ett av historiens största krigsmysterier – var och varför korsade Hannibal och hans armé Alperna för 2 200 år sedan?",
       "link": "https://varldenshistoria.se/krig/hannibals-marsch-over-alperna-kan-ha-drivits-av-elefanternas-behov",
@@ -502,26 +1112,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1784131236000
-    },
-    {
-      "title": "Recension: Äntligen en rejäl svärdfilm, men The Odyssey har för få gudar och för lite magi",
-      "description": "Christopher Nolan levererar årets hittills bästa äventyrsfilm med en säker men grå tolkning av antikens mest berömda verk, Odysséen.",
-      "link": "https://yle.fi/a/7-10102127?origin=rss",
-      "guid": "https://yle.fi/a/7-10102127",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784131214000
-    },
-    {
-      "title": "Massiva slaget mot Putin – kan införa 100-procentliga tullar",
-      "description": "Ett amerikanskt sanktionspaket mot Ryssland kan införas redan denna vecka. Tullarna kan vara ett massivt slag mot Putin. Länder som köper in rysk gas och olja kan straffas med 100-procentliga tullar, skriver Wall Street Journal .",
-      "link": "https://www.expressen.se/nyheter/varlden/massiva-slaget-mot-putin-kan-infora-100-procentliga-tullar/",
-      "guid": "https://www.expressen.se/nyheter/varlden/massiva-slaget-mot-putin-kan-infora-100-procentliga-tullar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784131207000
     },
     {
       "title": "Monsterverse-attraktion öppnar på nöjesfält",
@@ -554,16 +1144,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784131200000
     },
     {
-      "title": "Helsings ”galna” värdering väcker oro för bubbla",
-      "description": "Den höga värderingen av Helsing, stöttat av Saab och Daniel Ek, väcker oro i Tyskland för en bubbla inom försvarsteknik. Dokument från Helsings senaste kapitalanskaffning, en med volymen 1,8 miljarder dollar, visar att Helsings värdering innebar en betydligt högre värderingsmultipel, än vad som gällt många liknande amerikanska och europeiska företag inom försvarsteknik. Baserat på en […]",
-      "link": "https://www.dagensps.se/bors-finans/helsings-galna-vardering-vacker-oro-for-bubbla/",
-      "guid": "https://www.dagensps.se/?p=1656166",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlp8jjxhbtncy-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784130178000
-    },
-    {
       "title": "Fler upplever diskriminering i vården",
       "description": "Antalet ärenden där patienter upplever sig diskriminerade i vården har ökat kraftigt i Region Stockholm.",
       "link": "https://www.mitti.se/nyheter/fler-upplever-diskriminering-i-varden-6.3.374176.54b90c14fb",
@@ -594,26 +1174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784129400000
     },
     {
-      "title": "Rädslan för kritik – så minskar du den",
-      "description": "Synlig framgång väcker rädslan för kritik, på flera plan. Här förklarar tipsar Nina Jansdotter, beteendevetare och karriärcoach varför. Många drömmer om större ansvar, chefsroller eller att synas som entreprenör, men backar när risken för negativa reaktioner blir tydlig. Vi människor söker tillhörighet och då kan kritik uppfattas som ett hot mot vår sociala trygghet och […]",
-      "link": "https://www.dagensps.se/varlden/radslan-for-kritik-sa-minskar-du-den/",
-      "guid": "https://www.dagensps.se/?p=1656027",
-      "image": "https://images.dagensps.se/app/uploads/2025/09/Namnlos-design-2025-09-18T113835.081.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784128590000
-    },
-    {
-      "title": "Därför är bensinen så mycket billigare i Sverige",
-      "description": "För tillfället är bensinet i Sverige nästan en tredjedel billigare än i Finland. Svenska staten stöder bränslena med skatterea. Finländska staten har inte råd.",
-      "link": "https://yle.fi/a/7-10102179?origin=rss",
-      "guid": "https://yle.fi/a/7-10102179",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784127614000
-    },
-    {
       "title": "Flera stora bokförlag stämmer Google",
       "description": "För att de använt förlagens böcker för att träna AI-modeller Efter att flera företag de senaste åren stämts av bokförläggare har nu några förlag tagit sikte på Google. De tre förlagen Hachette Book Group, Cengage Learning och Elsevier, samt författaren Scott Turow, stämmer nu Google då de anser att förlagens böcker olovligen har använts för att träna upp Googles AI-modeller i Gemini-familjen. Förlagen har tidigare låtit Google använda deras böcker i tjänster som Google Books, Google Play Books och Google Scholar. I stämningen uppger dock förlagen att man inte gett Google tillåtelse att använda böckerna för att träna upp AI-modeller. Hachette Book Group, Cengage Learning, Elsevier och Turow stämde tidigare i år även Meta för upphovsrättsbrott. L&auml;s vidare och kommentera: https://feber.se/internet/flera-stora-bokforlag-stammer-google/494096/ L&auml;s mer om Hachette , Cengage , Elsevier , Scott Turow , Meta , AI , Upphovsrätt",
       "link": "https://feber.se/internet/flera-stora-bokforlag-stammer-google/494096/?utm_source=rss&utm_medium=feed",
@@ -632,46 +1192,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784127600000
-    },
-    {
-      "title": "Efter den uteblivna säsongsinledningen: Reetta Hurske står över Kalevaspelen",
-      "description": "Kalevaspelen tappar två kvinnliga namn. Varken häcklöparen Reetta Hurske eller längdhopparen Jessica Kähärä ställer upp.",
-      "link": "https://yle.fi/a/7-10102203?origin=rss",
-      "guid": "https://yle.fi/a/7-10102203",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784127057000
-    },
-    {
-      "title": "Sebastian Tynkkynen vägras inresetillstånd till Storbritannien",
-      "description": "Även Päivi Räsänen har fått back på inresa till öriket, och avbokade en planerad mellanlandning i London.",
-      "link": "https://yle.fi/a/7-10102201?origin=rss",
-      "guid": "https://yle.fi/a/7-10102201",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784126844000
-    },
-    {
-      "title": "Känner du dig utbränd? Här är några tips från medeltiden",
-      "description": "Det är lätt att tro att utbrändhet tillhör den moderna världen. Men redan på medeltiden beskrev munkar symtom som är slående lika dagens problem. Här får du några tips som man den gången gav till utmattade människor. Och mycket av det håller fortfarande. Känslan av att inget spelar roll, att man vill fly sin plats […]",
-      "link": "https://www.dagensps.se/halsa/kanner-du-dig-utbrand-har-ar-nagra-tips-fran-medeltiden/",
-      "guid": "https://www.dagensps.se/?p=1656146",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/utbrandhet.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784126625000
-    },
-    {
-      "title": "Analys: Kina kan driva nästa rally i oljepriset",
-      "description": "Kinas rekordstora oljelager har blivit en ny maktfaktor på den globala marknaden som kan bli lika viktig som Opecs produktionsmål för oljepriset. Oljepriset har stigit de senaste dagarna efter att kriget mellan USA och Iran blossat upp igen med fokus på Hormuzsundet. Men kaoset i Mellanöstern i all ära – det är någon annanstans man […]",
-      "link": "https://www.dagensps.se/bors-finans/ravaror/analys-kina-kan-driva-nasta-rally-i-oljepriset/",
-      "guid": "https://www.dagensps.se/?p=1656159",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/oilkina.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784126601000
     },
     {
       "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
@@ -694,16 +1214,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784125800000
     },
     {
-      "title": "Snart kan tidsskillnaden mellan Sverige och USA bli mindre",
-      "description": "USA är på väg att slopa sommar- och vintertid och istället köra på samma tid året runt. Det skulle även påverka tidsskillnaderna till resten av världen. Representanthuset i USA har röstat för att göra sommartiden permanent genom att anta det så kallade Sunshine Protection Act. Förslaget fick brett stöd över partigränserna och innebär att amerikaner […]",
-      "link": "https://www.dagensps.se/varlden/snart-kan-tidsskillnaden-mellan-sverige-och-usa-bli-mindre/",
-      "guid": "https://www.dagensps.se/?p=1656156",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlw4ir46ih4pu-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784125644000
-    },
-    {
       "title": "En trailer för hur Sylvester Stallone blev Rocky Balboa",
       "description": "Anthony Ippolito axlar rollen som en ung Sylvester Stallone Här har vi trailern för filmen I Play Rocky där vi får följa en då relativt okänd och kämpande Sylvester Stallone som bär på ett manus han vägrar sälja så länge han själv inte får spela huvudrollen. I filmen får vi följa hans orubbliga tro på att han var född att spela rollen som Rocky, och hur han mot alla odds lyckades övertala filmbolagen att satsa på en främling. I Play Rocky regisseras av Peter Farrelly och har premiär i november någon gång. L&auml;s vidare och kommentera: https://feber.se/film/en-trailer-for-hur-sylvester-stallone-blev-rocky-balboa/494109/ L&auml;s mer om I Play Rocky , Sylvester Stallone , Rocky , Peter Farrelly",
       "link": "https://feber.se/film/en-trailer-for-hur-sylvester-stallone-blev-rocky-balboa/494109/?utm_source=rss&utm_medium=feed",
@@ -724,16 +1234,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784124899000
     },
     {
-      "title": "Ny skatt bärgad från skepp fyllt av silver, guld och smaragder",
-      "description": "En tio kilo tung silvertacka som legat på havets botten sedan 1622 har bärgats utanför Floridas kust. Det är första gången på nästan tre decennier som ett sådant fynd görs på den legendariska vrakplatsen. Det var dykare från bärgningsbolaget Mel Fisher’s Shipwreck Expeditions som bärgade silvertackan från vraket efter den spanska galeonen Nuestra Señora de […]",
-      "link": "https://www.dagensps.se/varlden/ny-skatt-bargad-fran-skepp-fyllt-av-silver-guld-och-smaragder/",
-      "guid": "https://www.dagensps.se/?p=1656096",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/maskininlarning-i-hedgefonder-2-10.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784124761000
-    },
-    {
       "title": "Fyra män döms efter organiserade BMW-stölder",
       "description": "Fyra män döms till fängelse och utvisning efter organiserade stölder av BMW-delar i Stockholmsområdet. Totalt stals delar från 72 bilar till ett värde av över 700 000 kronor.",
       "link": "https://www.mitti.se/nyheter/fyra-man-doms-efter-organiserade-bmwstolder-6.3.375943.fd142171f4",
@@ -744,26 +1244,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784124463000
     },
     {
-      "title": "Ryanairplan tvingades nödlanda – på väg mot solsemestern i Spanien",
-      "description": "En morgonflygning med ett Ryanairplan mot Alicante fick avbrytas efter att besättningen utlyst nödläge över Frankrike. Planet styrde om och landade säkert på flygplatsen Paris Beauvais. Oväntad kursändring över Frankrike När ett Ryanairplan befann sig på cirka 11 300 meters höjd över norra Frankrike deklarerade besättningen nödläge. Därefter lämnade flygplanet sin ordinarie rutt och påbörjade […]",
-      "link": "https://www.dagensps.se/weekend/resor/ryanairplan-tvingades-nodlanda-pa-vag-mot-solsemestern-i-spanien/",
-      "guid": "https://www.dagensps.se/?p=1656145",
-      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/07/sdludcaifc77fo-nh.jpg?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784124401000
-    },
-    {
-      "title": "Sjundeå kollar: Hur mycket kostar konstgräs med eller utan värme?",
-      "description": "Sjundeå kommun har tagit ett steg till när det gäller byggandet av en konstgräsplan. Projektplanen är nu godkänd.",
-      "link": "https://yle.fi/a/7-10102165?origin=rss",
-      "guid": "https://yle.fi/a/7-10102165",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784124231000
-    },
-    {
       "title": "Enorm Lego-fotboll ska byggas på Gothia Cup",
       "description": "Kids bygger tillsammans Nu pågår Gothia Cup i Göteborg, världens största fotbollsturnering för barn och unga. Kids från 78 länder är här och under veckan kommer de att tillsammans bygga Nordens största fotboll i LEGO. Bollen är cirka 4,5 meter hög och väger närmare 10 ton totalt. Den kommer att bestå av drygt 250.000 Lego-bitar. Bygget är ett samarbete mellan Gothia Cup, Lego och Sporttouchen. De senare pratar om sport för barn och unga och har 450.000 följare på TikTok och 150.000 prenumeranter på YouTube och Instagram . L&auml;s vidare och kommentera: https://feber.se/pryl/enorm-lego-fotboll-ska-byggas-pa-gothia-cup/494086/ L&auml;s mer om Gothia Cup , Göteborg , Sporttouchen , TikTok , YouTube , Instagram",
       "link": "https://feber.se/pryl/enorm-lego-fotboll-ska-byggas-pa-gothia-cup/494086/?utm_source=rss&utm_medium=feed",
@@ -772,36 +1252,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784124000000
-    },
-    {
-      "title": "Polisen ber om iakttagelser om grovt rån som skedde vid rastplats i Nystad",
-      "description": "Polisen i sydvästra Finland utreder ett misstänkt grovt rån som inträffade i Nystad på tisdagen, där pengar togs av en taxichaufför under hot med vapen.",
-      "link": "https://yle.fi/a/7-10102200?origin=rss",
-      "guid": "https://yle.fi/a/7-10102200",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784123937000
-    },
-    {
-      "title": "Novo Nordisk drar ifrån Eli Lilly i kampen om fetmapiller",
-      "description": "Novo Nordisk har tagit ett tydligt grepp om den amerikanska marknaden för fetmapiller och leder i dagsläget klart före Eli Lilly. Det visar de senaste försäljningssiffrorna, trots att många bedömare inför lanseringen väntade sig att Lilly skulle dominera även tablettsegmentet efter framgångarna med bolagets fetmaläkemedel i injektionsform, rapporterar Wall Street Journal. Novo Nordisks tablettversion av […]",
-      "link": "https://www.dagensps.se/life-science/novo-nordisk-drar-ifran-eli-lilly-i-kampen-om-fetmapiller/",
-      "guid": "https://www.dagensps.se/?p=1656134",
-      "image": "https://images.dagensps.se/app/uploads/2026/04/wegovy-gpt-ca-2025-large-copy.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784123408000
-    },
-    {
-      "title": "Cancerpatienter betalade en halv miljon för behandlingar som marknadsfördes på sociala medier",
-      "description": "Tio irländska cancerpatienter betalade motsvarande omkring 330 000–550 000 kronor var för avancerade cellbehandlingar som marknadsfördes via Facebook och Instagram. Nu har företaget bakom upplägget dömts – inte för att behandlingarna i sig bedömdes skadliga, utan för att de marknadsfördes och erbjöds utan de tillstånd som krävs enligt irländsk lag. Fallet har väckt stor uppmärksamhet […]",
-      "link": "https://www.dagensps.se/halsa/cancerpatienter-betalade-en-halv-miljon-for-behandlingar-som-marknadsfordes-pa-sociala-medier/",
-      "guid": "https://www.dagensps.se/?p=1656007",
-      "image": "https://images.dagensps.se/app/uploads/2025/06/national-cancer-institute-tV-RX0beDp8-unsplash.jpg?height=350",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784123340000
     },
     {
       "title": "This pet gecko could help scientists unlock the secrets of cancer",
@@ -844,16 +1294,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784121000000
     },
     {
-      "title": "Läkare slår hål på fem virala myter om solkräm",
-      "description": "”Tanmaxing” har blivit en trend på sociala medier. Samtidigt sprids gamla och nya påståenden om solkräm. Men vad stämmer egentligen?",
-      "link": "https://yle.fi/a/7-10102106?origin=rss",
-      "guid": "https://yle.fi/a/7-10102106",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784120901000
-    },
-    {
       "title": "Mandalorian och Grogu landar snart i ditt vardagsrum",
       "description": "Med en del specialmaterial Snart kommer Stjärnornas krig-filmen The Mandalorian and Grogu till digitala plattformar, vilket innebär att du kan se den hemma. Det digitala släppet sker den 21 juli och för alla som föredrar fysiska utgåvor landar filmen i butikshyllorna den 25 augusti. Den digitala utgåvan av filmen kommer att komma med flera dokumentärer som visar hur filmen gjordes. Utöver det ingår även ett kommentatorsspår med Jon Favreau som regisserade filmen. L&auml;s vidare och kommentera: https://feber.se/film/mandalorian-och-grogu-landar-snart-i-ditt-vardagsrum/494091/ L&auml;s mer om The Mandalorian , Grogu , Jon Favreau",
       "link": "https://feber.se/film/mandalorian-och-grogu-landar-snart-i-ditt-vardagsrum/494091/?utm_source=rss&utm_medium=feed",
@@ -872,16 +1312,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784119896000
-    },
-    {
-      "title": "Medlem i frivilliga brandkåren erkände att han tänt på historisk skog i Frankrike",
-      "description": "Franska räddningsmyndigheter och frivilliga brandkårer har uttryckt chock över att en man som är med i en frivillig brandkår ska ha anlagt en av bränderna.",
-      "link": "https://yle.fi/a/7-10102193?origin=rss",
-      "guid": "https://yle.fi/a/7-10102193",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784119597000
     },
     {
       "title": "Sommarrean i PlayStation-affären har startat",
@@ -904,16 +1334,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784118071000
     },
     {
-      "title": "Ordpyramiden har förnyats! Vi svarar på era frågor",
-      "description": "Ordpyramiden har uppdaterats med nytt utseende och lite kul statistik. Dessutom kan du dela ditt resultat enklare.",
-      "link": "https://yle.fi/a/7-10102176?origin=rss",
-      "guid": "https://yle.fi/a/7-10102176",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784116910000
-    },
-    {
       "title": "Efter att forskarna undersökt fossilet var de säkra på sin sak – det rörde sig om en förhistorisk jätte som vi aldrig har sett förut",
       "description": "Ett speciellt fossil dök upp under en forskargrupps utgrävningar. Nu kan de avslöja att det kommer från en helt ny art.",
       "link": "https://illvet.se/naturen/efter-att-forskarna-undersokt-fossilet-var-de-sakra-pa-sin-sak-det-rorde-sig-om-en-forhistorisk-jatte-som-vi-aldrig-har-sett-forut",
@@ -934,46 +1354,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784116816000
     },
     {
-      "title": "Kör massor av bussar i Bus Simulator 27",
-      "description": "Ride the sunshine Bus Simulator 27 är på gång och kommer att släppas i september. Den nya versionen har naturligtvis mer bussar och funktioner än tidigare. 45 bussar från 13 tillverkare. Spelet utspelar sig i städerna Alcaztelar och Mequina, som är påhittade städer inspirerade av spanska och portugisiska städer. Där finns 20 olika distrikt att köra omkring i. Det finns tre olika spellägen, story, career och sandbox. Det går att lira själv eller tillsammans med upp till fyra vänner. L&auml;s vidare och kommentera: https://feber.se/spel/kor-massor-av-bussar-i-bus-simulator-27/494068/ L&auml;s mer om Bus Simulator , Alcaztelar , Mequina , Spel , Bussar",
-      "link": "https://feber.se/spel/kor-massor-av-bussar-i-bus-simulator-27/494068/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/kor-massor-av-bussar-i-bus-simulator-27/494068/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784116800000
-    },
-    {
-      "title": "Skärpt straff i hovrätten för pojke som anlade skolbrand i Esbo",
-      "description": "Helsingfors hovrätt har dömt en pojke till tre månaders villkorligt fängelse för den brand han anlade i en tom skolbyggnad i Esbo våren 2024.",
-      "link": "https://yle.fi/a/7-10102190?origin=rss",
-      "guid": "https://yle.fi/a/7-10102190",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784116432000
-    },
-    {
-      "title": "Det blir 30 minuters paus i VM-finalen",
-      "description": "Halvtidsvilan blir lång så alla artister får plats För ett tag sedan rapporterade vi om att finalen i årets fotbolls-VM skulle ha halvtidsshow med artister som Justin Bieber, Madonna, Shakira, BTS, Burna Boy, Gustavo Dudamel och Coldplay. Då ställde vi frågan hur de skulle hinna med det på en kvart och svaret på den funderingen har vi nu fått. Halvtidsvilan kommer nämligen inte vara en kvart utan istället 30 minuter, trots att det internationella regelverket säger att det max får vara 15 minuters vila. Man kan väl säkert räkna med att TV4 hinner slänga in lite extra reklam då med så grattis TV4 och alla andra reklamkanaler som visar finalen. Finalen spelas mellan Spanien och England eller Argentina nu på söndag klockan 21:00. L&auml;s vidare och kommentera: https://feber.se/samhalle/det-blir-30-minuters-paus-i-vm-finalen/494102/ L&auml;s mer om Justin Bieber , Madonna , Shakira , BTS , Burna Boy , Gustavo Dudamel , Coldplay",
-      "link": "https://feber.se/samhalle/det-blir-30-minuters-paus-i-vm-finalen/494102/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/det-blir-30-minuters-paus-i-vm-finalen/494102/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784116200000
-    },
-    {
-      "title": "Tryck 8 gånger för att starta din Volvo",
-      "description": "Tråkig bugg Google i bilar är riktigt bra, och ännu bättre blir det om man loggar in på sitt Google-konto. Men om man inte vill det utan bara vill köra bilen till sin destination så verkar nya Volvo XC90 ha en irriterande lösning/bugg. Man måste nämligen trycka bort en skärm om att man ska logga in, men den försvinner inte. Åtta gånger måste användaren trycka bort skärmen. Volvo säger så klart att så här ska det inte vara. Att såna här buggar kan släppas ut, även om det bara råkar drabba några få, är dock otroligt pinsamt. L&auml;s vidare och kommentera: https://feber.se/bil/tryck-8-ganger-for-att-starta-din-volvo/494083/ L&auml;s mer om Google , Bil , Mjukvara , Bugg , Teknik , Fordon",
-      "link": "https://feber.se/bil/tryck-8-ganger-for-att-starta-din-volvo/494083/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/tryck-8-ganger-for-att-starta-din-volvo/494083/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784115000000
-    },
-    {
       "title": "Barn bitet av hund i Hagaparken",
       "description": "Ung person biten av hund",
       "link": "https://www.mitti.se/nyheter/barn-bitet-av-hund-i-hagaparken-6.3.375934.a1c5e9298e",
@@ -982,16 +1362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784114589000
-    },
-    {
-      "title": "Samuli Samuelsson missar hela säsongen – tävlingsmanagern tiger om orsaken",
-      "description": "Nästan ett år har gått sedan rekordinnehavaren Samuli Samuelssons senaste tävling.",
-      "link": "https://yle.fi/a/7-10102192?origin=rss",
-      "guid": "https://yle.fi/a/7-10102192",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784113896000
     },
     {
       "title": "Drunkningslarm vid Liljeholmsbron – stort räddningspådrag",
@@ -1024,16 +1394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784113442000
     },
     {
-      "title": "Googles bildsök görs om till ett visuellt flöde",
-      "description": "Startsidan blir mer lik Pinterest och får inbyggd AI för bildgenerering I samband med att Google bildsök fyller 25 år gör man nu en förändring som förvandlar startsidan till ett mer visuellt flöde, vilket gör det mer likt plattformar som Pinterest. Istället för att vänta på att du ska skriva in ett sökord, kommer Google nu att proaktivt rekommendera bilder baserat på vad algoritmerna tror att du är intresserad av. Företaget beskriver det som ett ”dynamiskt och uppslukande galleri” som uppdateras i realtid. Likt Pinterest ska man som användare också enklare kunna spara ner bilder man gillar i samlingar via bildflödet. Det är inte bara utseendet som förändras; även intelligensen bakom tjänsten ska uppdateras. Det innebär att Googles AI-översikter i sökresultaten nu också kommer kunna generera helt nya bilder med hjälp av Nano Banana 2 Lite. Tanken är att användare ska kunna få hjälp att visualisera idéer direkt i webbläsaren. Så om man nu föredrog det enkla, minimalistiska och den faktiska anledningen till att man använde tjänsten så är nog detta kanske inte det roligaste man kunde läsa i dag. Den nya startsidan för Google Bilder börjar rullas ut under de kommande veckorna. Inledningsvis gäller detta för inloggade användare på desktop i USA, men funktionen förväntas bli mer tillgänglig globalt på sikt. L&auml;s vidare och kommentera: https://feber.se/internet/googles-bildsok-gors-om-till-ett-visuellt-flode/494090/ L&auml;s mer om Pinterest , Imgur , Nano Banana , AI , Bildsök , Webbläsare",
-      "link": "https://feber.se/internet/googles-bildsok-gors-om-till-ett-visuellt-flode/494090/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/googles-bildsok-gors-om-till-ett-visuellt-flode/494090/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784113200000
-    },
-    {
       "title": "Macanvändare varnas för Crashstealer",
       "description": "Forskare på säkerhetsföretaget Jamf varnar Macanvändare för Crashstealer, ett nytt skadeprogram som utger sig för att vara Apple-verktyget Crashreporter. Genom att använda sig av en godkänd signering kan Crashstealer kringgå Gatekeeper, det inbyggda säkerhetsprogrammet i Mac OS. Syftet med Crashstealer är att stjäla inloggningsuppgifter, lösenord, filer och kryptoplånböcker, rapporterar Bleeping Computer . Det bästa sättet att skydda sig mot den här sortens skadeprogram är att inte ladda ner mjukvara från osäkra källor.",
       "link": "https://computersweden.se/article/4197301/macanvandare-varnas-for-crashstealer.html",
@@ -1054,16 +1414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784112879000
     },
     {
-      "title": "Storbritannien vill införa nattspärr för unga på sociala medier",
-      "description": "Tonåringar ska inte kunna skrolla på Tiktok under natten, föreslår Storbritanniens regering. Syftet är att förbättra ungas sömn och fokus. Frågan är aktuell också i Finland.",
-      "link": "https://yle.fi/a/7-10102169?origin=rss",
-      "guid": "https://yle.fi/a/7-10102169",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784112754000
-    },
-    {
       "title": "Passkeys blir förvald lösning på Microsoft Entra ID",
       "description": "Nu står det klart att passkeys (det vill säga ansiktsigenkänning, fingeravtryck eller pinkoder) blir den förvalda lösningen på Microsoft Entra ID, autentiseringstjänsten som tidigare hette Microsoft Azure Active Directory. – Genom att göra passkeys till standard minskar risken för stulna inloggningsuppgifter och nätfiske, säger en talesperson för Microsoft i en kommentar. Ändringen genomförs den 1 september och från och med den 1 februari 2027 kommer det inte längre vara möjligt att använda sms-koder för autentisering, rapporterar Bleeping Computer .",
       "link": "https://computersweden.se/article/4197287/passkeys-blir-forvald-losning-pa-microsoft-entra-id.html",
@@ -1072,26 +1422,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784111614000
-    },
-    {
-      "title": "Man gick till attack mot självkörande Waymo",
-      "description": "Symboliserar en växande klyfta mellan människa och teknik? En barbröstad man gick bärsärkagång mot en av Waymos självkörande bilar i Los Angeles. Mannen klättrade upp på en förarlös Waymo-taxi och gick loss på fordonet med bara händerna. Videoklipp från händelsen visar hur mannen, efter att ha krossat vindrutan, sliter loss en vindrutetorkare och skriker mot bilens takmonterade sensorer. Polis tillkallades snabbt till platsen och mannen greps för skadegörelse. L&auml;s vidare och kommentera: https://feber.se/fordon/man-gick-till-attack-mot-sjalvkorande-waymo/494084/ L&auml;s mer om Waymo , Los Angeles , skadegörelse , polis , fordon , sensorer",
-      "link": "https://feber.se/fordon/man-gick-till-attack-mot-sjalvkorande-waymo/494084/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/man-gick-till-attack-mot-sjalvkorande-waymo/494084/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784111400000
-    },
-    {
-      "title": "Vasa stadsorkester flyttar utomhus – bjuder på gratiskonserter fyra kvällar i rad",
-      "description": "Den här juliveckan spelar Vasa stadsorkester på verandan vid Strömsö och framför stadshuset.",
-      "link": "https://yle.fi/a/7-10102137?origin=rss",
-      "guid": "https://yle.fi/a/7-10102137",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784110768000
     },
     {
       "title": "Skadliga filer sprids via Github-repon",
@@ -1112,46 +1442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784109989000
-    },
-    {
-      "title": "Vi har testat Husqvarna 230iB",
-      "description": "Lövblås som blåser på bra, så länge batteriet räcker Att kratta löv är sällan den roligaste sysslan på att göra-listan, men med rätt maskin i näven kan det faktiskt bli ganska skoj. Att jiddra med en sladd som fastnar i varenda buske är dock rena mardrömmen, och en tung bensinmotor känns ofta som total overkill om man bara har en helt vanlig trädgård. Under våren och sommaren har Husqvarnas batteridrivna lövblås 230iB fått bekänna färg i sommarstugan. Den har fått ta hand om allt från gamla, sega vinterlöv till allmänt trädgårdsstök. Ingen klen leksak Det märks direkt när man trycker på knappen att det här inte är någon billig pryl från stormarknaden. Trots att den körs helt på batteri levererar den ett bra blås på upp till 19,6 Newton i blåskraft. I praktiken innebär det att du utan problem kan fösa undan vanliga löv och annat stök som letat sig till gräsmattan eller garageuppfarten. Den funkar faktiskt helt okej även med lite blötare löv, men börjar det handla om riktigt tjocka lövtäcken tvingas du fläska på med turboläget direkt men då töms batteriet illa kvickt. Står du inför ett gigantiskt, jättetjockt täcke av löv är det ärligt talat fortfarande bäst att plocka fram den analoga krattan först. Husqvarna har också petat in en farthållare. Det är en riktigt skön funktion som gör att du kan låsa luftströmmen i ett fast läge och slipper krampa med fingret på avtryckaren under längre sessioner. En annan detalj som jag snabbt skänkte en tacksam tanke till är att den är i princip helt vibrationsfri. Den fick min gamla Viking-blåsare att framstå som en AMR26. Man slipper helt den där obehagliga, surrande domningen i händerna som man annars brukar dras med efteråt. Dessutom är den ganska tyst, vilket gör att man kan städa av uppfarten utan att väcka hela grannskapet allt för mycket. Skrapan i änden av blåsröret är också en sådan där smart detalj som är bra när man behöver krafsa loss fastklibbade löv från marken. L&auml;s vidare och kommentera: https://feber.se/pryl/vi-har-testat-husqvarna-230ib/493941/ L&auml;s mer om Husqvarna , 230iB , lövblås , trädgård , batteri , Viking , ergonomi",
-      "link": "https://feber.se/pryl/vi-har-testat-husqvarna-230ib/493941/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/vi-har-testat-husqvarna-230ib/493941/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784109600000
-    },
-    {
-      "title": "Titan ska ta bort veck på vikbar Samsung",
-      "description": "Ser lovande ut I veckan har det dykt upp en video på vad som sägs vara Samsungs nästa vikbara telefon. Grejen med videon är att det inte finns något veck på telefonen skärm, men om det verkligen är nästa Samsung-telefon eller inte återstår att se. Nu berättar dock Samsung om en ny skärmteknik som de kallar för Flex Titanium, som ska komma i årets vikbara lurar. Skärmstrukturen använder två titankomponenter, en titanlegeringsfilm som ligger direkt under själva OLED-panelen coh ersätter den tidigare polymerfilmen. Under den finns en titanplatta som ska ge skärmen extra stöd i utfällt läge. Jämfört med polymer ska detta ge 20 gånger högre mekanisk styvhet, samtidigt som den är väldigt tunn (en tredjedel av ett mänskligt hårstrå). Resultatet ska bli en skärm som har betydligt mindre veck, men som också ska kännas mer som en vanligt skärm att använda. Vikbara skärmar kan ju idag kännas lite plastiga. L&auml;s vidare och kommentera: https://feber.se/mobil/titan-ska-ta-bort-veck-pa-vikbar-samsung-/494081/ L&auml;s mer om Flex Titanium , OLED , Titan , Skärmteknik , Vikbar telefon",
-      "link": "https://feber.se/mobil/titan-ska-ta-bort-veck-pa-vikbar-samsung-/494081/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/titan-ska-ta-bort-veck-pa-vikbar-samsung-/494081/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784107800000
-    },
-    {
-      "title": "EU vill ta bort moms på elbilar",
-      "description": "Dags att bli fossilfria Att vara beroende av fossila bränslen är inte bara ohållbart, det är en ekonomisk risk. Det har vi först sett med kriget i Ukraina och nu i Iran. Det är en av anledningarna till att EU vill att unionen ska växla över till eldrift och ha kommit en betydande bit på vägen till 2040. För att klara detta måste man få folk att inte bara välja elbilar utan även välja exempelvis värmepumpar istället för andra alternativ. Men för att det ska bli verklighet måste priset vara rätt. I ett nytt förslag säger man sig vilja införa krav på värmepumpar i offentliga byggnader, krav på att upphandlade fordon ska vara eldrivna och så vill man införa lägre moms på elbilar och hembatterier. Men det är upp till varje land att själva bestämma hur man ska göra, så att en lägre moms på elbilar skulle bli verklighet i Sverige är inte säkert. L&auml;s vidare och kommentera: https://feber.se/bil/eu-vill-ta-bort-moms-pa-elbilar/494098/ L&auml;s mer om EU , Ukraina , Iran , Värmepumpar , Hembatterier , Sverige",
-      "link": "https://feber.se/bil/eu-vill-ta-bort-moms-pa-elbilar/494098/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/eu-vill-ta-bort-moms-pa-elbilar/494098/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784107200000
-    },
-    {
-      "title": "Pixel Watch 5 kommer i dessa fyra färger",
-      "description": "Google läcker som ett såll Igår postade vi alla färger på nya Pixel-telefonerna, och idag är det Pixel Watch som läcker. Det är nummer fem i ordningen och den kommer i fyra olika färger på själva klockan. De fyra kallas för mörk antracit, naturligt silver, pyrit och varmt guld. Den senare är den enda av de fyra som visas i 41 mm-versionen, de andra tre färgerna visas i 45 mm. De nya klockorna väntas lanseras i augusti tillsammans med Pixel 11-telefonerna. L&auml;s vidare och kommentera: https://feber.se/mobil/pixel-watch-5-kommer-i-dessa-fyra-farger/494066/ L&auml;s mer om Pixel , Pixel Watch , Smartklocka , Teknik , Wearables",
-      "link": "https://feber.se/mobil/pixel-watch-5-kommer-i-dessa-fyra-farger/494066/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/pixel-watch-5-kommer-i-dessa-fyra-farger/494066/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784106000000
     },
     {
       "title": "EU lättar på batterikrav för smarta glasögon",
@@ -1182,16 +1472,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784104350000
-    },
-    {
-      "title": "Mexiko är inte nöjda med Sonys digitala planer",
-      "description": "Anser att det hotar konkurrensen och andrahandsmarknaden Mexiko verkar inte helt nöjda med att Sony planerar att sluta med att släppa spel på fysiska skivor i januari 2028, vilket mexikanska politiker nu anser vara både konkurrenshämmande och fientligt mot konsumenterna. Det är parlamentsledamoten Iraís Reyes och senatorn Luis Donaldo Colosio som nu förbereder en formell anmälan till Mexikos nationella konkurrenskommission. De menar att Sony i praktiken försöker skapa ett monopol där spelare tvingas handla exklusivt i företagets egen digitala butik. Om de fysiska skivorna försvinner raderas även möjligheten för återförsäljare att priskonkurrera, och den omfattande andrahandsmarknaden riskerar att dö ut helt. Kritikerna lyfter även fram att en helt digital spelmarknad exkluderar alla som bor i områden med bristfällig infrastruktur. Utan tillgång till snabbt bredband blir det i praktiken omöjligt att ta del av framtida spel då dessa ju ofta är på en väldans många gigabyte. L&auml;s vidare och kommentera: https://feber.se/spel/mexiko-ar-inte-nojda-med-sonys-digitala-planer/494057/ L&auml;s mer om Mexico , Iraís Reyes , Luis Donaldo Colosio , spel , monopol , digitalisering , konsumenträtt",
-      "link": "https://feber.se/spel/mexiko-ar-inte-nojda-med-sonys-digitala-planer/494057/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/mexiko-ar-inte-nojda-med-sonys-digitala-planer/494057/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784104200000
     },
     {
       "title": "Open AI uppges utveckla skärmlös AI-högtalare",
@@ -1234,26 +1514,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784101382000
     },
     {
-      "title": "Jaguar E-Type i Lego-form blev riktigt ful",
-      "description": "Modell inte värdig modellen Att Lego gör byggsatser av bilar är sedan gammalt, och det finns något charmigt med att de inte är perfekta utan verkligen ser ut att vara byggda av Lego. Nu har man släppt en byggsats med klassiska och väldigt vackra Jaguar E-Type. Men den här gången blev det inte riktigt bra va? De fina Jaguar-formerna är inte där, puckeln på motorhuven känns helt fel och lyktorna ska vi inte prata om. Det här hade varit helt okej om någon glad amatör hade byggt, men nu vill Lego ha 1800 kronor för den. L&auml;s vidare och kommentera: https://feber.se/pryl/jaguar-e-type-i-lego-form-blev-riktigt-ful/494065/ L&auml;s mer om Jaguar , E-type , Byggsats , Bil , Design , Kritik",
-      "link": "https://feber.se/pryl/jaguar-e-type-i-lego-form-blev-riktigt-ful/494065/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/jaguar-e-type-i-lego-form-blev-riktigt-ful/494065/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784100600000
-    },
-    {
-      "title": "USA pudlar kring tullavgift i Hormuzsundet",
-      "description": "Satsar istället på nya handelsavtal Tidigare i veckan meddelade den amerikanske presidenten att USA skulle ta en avgift på 20 procent på alla som ville passera säkert genom Hormuzsundet. Det förslaget möttes inte helt oväntat av en hel del kritik och har nu lett till att man slopat förslaget för att istället satsa på storskaliga investeringar från Gulfstaterna. USAs president säger att det har förts mycket produktiva samtal med ledare i Mellanöstern som ligger bakom pudlandet. Istället för en direkt avgift för sjöfartsskydd siktar USA nu på omfattande ekonomiska samarbeten med nationer som Saudiarabien, Förenade arabemiraten, Qatar, Bahrain och Kuwait. Vid en presskonferens förklarade presidenten att han egentligen inte gillade idén om att ta ut avgifter för passage i sundet. Samtidigt betonade han att det är orimligt att USA ensamt ska garantera säkerheten för världshandeln utan att få något tillbaka. Enligt honom så är Hormuzsundet nu helt öppet för internationell handel, med undantaget då för alla fartyg och laster som kan kopplas till Iran. L&auml;s vidare och kommentera: https://feber.se/samhalle/usa-pudlar-kring-tullavgift-i-hormuzsundet/494082/ L&auml;s mer om USA , Hormuzsundet , Saudiarabien , Förenade arabemiraten , Qatar , Bahrain , Kuwait",
-      "link": "https://feber.se/samhalle/usa-pudlar-kring-tullavgift-i-hormuzsundet/494082/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/usa-pudlar-kring-tullavgift-i-hormuzsundet/494082/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784099400000
-    },
-    {
       "title": "Astronomers just found four hidden white dwarf stars near Earth",
       "description": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations finally revealed the long-hidden stellar remnants, including one just 25 light-years away that took nearly three decades to confirm. The findings match long-standing predictions and suggest our corner of the galaxy may contain many more undiscovered white dwarf binaries.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
@@ -1262,16 +1522,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784097025000
-    },
-    {
-      "title": "Morgonens nyheter i Stockholm",
-      "description": "Missa inte dagens viktigaste nyheter och snackisar från hela länet.",
-      "link": "https://www.mitti.se/nyheter/morgonens-nyheter-i-stockholm-6.3.375887.cb8e588894",
-      "guid": "https://www.mitti.se/nyheter/morgonens-nyheter-i-stockholm-6.3.375887.cb8e588894",
-      "image": "https://www.mitti.se/image-3.376382.300514.20260715062926.1.0401e5e776?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784096789000
     },
     {
       "title": "Person hittats avliden vid Råstasjön i Solna",
@@ -2054,36 +2304,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783935578000
     },
     {
-      "title": "Microsoft slopar supporten för 15 produkter",
-      "description": "Sajten Windows Latest uppmärksammar att Microsoft slopar supporten för 15 produkter, varav vissa redan den här veckan. Den 14 juli upphör supporten för följande produkter: Infopath 2013, Project Server 2016, Project Server 2019, Sharepoint Designer 2013, Sharepoint Server 2016, Sharepoint Server 2019, SQL Server 2016 och Visual Studio 2022 LTSC (version 17.12). I oktober slopas supporten för Microsoft Publisher, Office 2021, Windows 11 SE, Windows 11 24H2, Windows Server 2012, Exchange Server 2016 och Exchange Server 2019. Användarna uppmanas därför att så snart som möjligt uppgradera till nyare versioner av ovannämnda produkter.",
-      "link": "https://computersweden.se/article/4196046/microsoft-slopar-supporten-for-15-produkter.html",
-      "guid": "https://computersweden.se/article/4196046/microsoft-slopar-supporten-for-15-produkter.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4196046-0-37512600-1783934764-shutterstock_1555135388.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783934752000
-    },
-    {
-      "title": "Underskott av vissa ämnen bevarar lik i tiotusentals år",
-      "description": "En speciell process är anledningen till att man på vissa platser kan hitta forntida lik med intakt hud, hår och maginnehåll.",
-      "link": "https://illvet.se/manniskan/underskott-av-vissa-amnen-bevarar-lik-i-tiotusentals-ar",
-      "guid": "https://illvet.se/manniskan/underskott-av-vissa-amnen-bevarar-lik-i-tiotusentals-ar",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1783933209000
-    },
-    {
-      "title": "Meta backar om AI-funktion i Instagram efter kritik",
-      "description": "Meta har dragit tillbaka en ny AI-funktion i Instagram bara dagar efter lanseringen. Beslutet kommer efter kritik mot hur verktyget hanterade offentligt publicerade bilder. Funktionen ingick i den nya AI-bildgeneratorn Muse Image och gjorde det möjligt att skapa AI-genererade bilder med hjälp av innehåll från offentliga Instagram-konton. Genom att ange ett offentligt konto med ett @-omnämnande kunde användare låta AI-modellen använda personens bilder som referens, utan att kontoinnehavaren informerades. Lanseringen väckte snabbt frågor om integritet och risken för missbruk. Kritiker menade att funktionen kunde användas för att skapa manipulerade eller kränkande bilder baserade på andra personers offentliga innehåll. Enligt Meta var målet att ge användare ett kreativt verktyg där de själva kunde bestämma om deras offentliga innehåll skulle kunna användas. Meta säger att de tagit bort funktionen efter feedbacken och att funktionen inte levde upp till förväntningarna.",
-      "link": "https://computersweden.se/article/4196002/meta-backar-om-ai-funktion-i-instagram-efter-kritik.html",
-      "guid": "https://computersweden.se/article/4196002/meta-backar-om-ai-funktion-i-instagram-efter-kritik.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4196002-0-58665800-1783933567-shutterstock_2303237423.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783933200000
-    },
-    {
       "title": "Öppna träningar vecka 29",
       "description": "Här är veckans öppna träningar. Herrlaget tränar på Årsta IP. Damlaget tränar på Hammarby IP.Med reservation för ändringar med kort varsel.Herrlagets öppna träningar vecka 29Onsdag 15 juli10.00-11.30T",
       "link": "https://www.hammarbyfotboll.se/nyheter/oeppna-traeningar-vecka-292026",
@@ -2114,16 +2334,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783930767000
     },
     {
-      "title": "Kina är nu det andra landet i världen med återanvändningsbara raketer",
-      "description": "Kina har som andra land i världen lyckats återta en raketbooster efter uppskjutning. Det rapporterar statliga CCTV, via Engadget , som även publicerat en video på hur raketsteget från en Long March 10B fångas upp i ett nät till havs. Raketen har utvecklats av statliga China Academy of Launch Vehicle Technology (CALT). Enligt bolaget markerar bedriften ett genombrott för Kinas satsning på återanvändbar rymdteknik. Raketsteget ska ha klarat sig oskadat och planeras nu att återanvändas i en ny uppskjutning senare i år. Utvecklingen kan komma att öka konkurrensen för raketuppskjutningar på den globala marknaden. Kina ligger samtidigt fortfarande efter USA vad gäller uppskjutningstakt. Under förra året genomfördes 193 omloppsuppskjutningar i USA – varav 165 av Spacex – jämfört med 92 försök i Kina.",
-      "link": "https://computersweden.se/article/4195986/kina-ar-nu-det-andra-landet-i-varlden-med-ateranvandningsbara-raketer.html",
-      "guid": "https://computersweden.se/article/4195986/kina-ar-nu-det-andra-landet-i-varlden-med-ateranvandningsbara-raketer.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4195986-0-73852500-1783930468-wu-yi-GGCP6vshpPY-unsplash.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783930457000
-    },
-    {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
       "description": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
@@ -2132,16 +2342,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1783927328000
-    },
-    {
-      "title": "Apple anklagar Open AI för att ha stulit företagshemligheter",
-      "description": "Apple har lämnat in en stämningsansökan mot Open AI i en federal domstol i Kalifornien. I den anklagar företaget AI-bolaget för stöld av företagshemligheter och kontraktsbrott, rapporterar Techcrunch . Enligt stämningen ska Open AI:s ledning, däribland hårdvaruchefen Tang Tan – tidigare toppchef på Apple – ha uppmuntrat rekryter att ta med sig interna Apple-komponenter och hemlig information till anställningsintervjuer. Tan anklagas även för att ha använt interna projektnamn och coachat anställda i hur de kan kringgå Apples säkerhetsrutiner. Apple pekar också ut en tidigare ingenjör som ska ha behållit en företagsdator efter att ha gått över till Open AI och laddat ner hemliga dokument. Open AI har avfärdat Apples anklagelser i ett uttalande och säger att de fokuserar på att utveckla egen teknik. Chat GPT-utvecklaren har sedan tidigare bekräftat att de jobbar på egen hårdvara.",
-      "link": "https://computersweden.se/article/4195941/apple-anklagar-open-ai-for-att-ha-stulit-foretagshemligheter.html",
-      "guid": "https://computersweden.se/article/4195941/apple-anklagar-open-ai-for-att-ha-stulit-foretagshemligheter.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4195941-0-10726700-1783926532-shutterstock_215339035.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783926518000
     },
     {
       "title": "Här kan Stockholms nya lyxhotell byggas",
@@ -2194,16 +2394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783921938000
     },
     {
-      "title": "Forskare har hittat något som kan förändra vårt dna – och som kan utgöra ett nytt möjligt hot mot fertiliteten",
-      "description": "Den nya misstänkte avviker drastiskt från de riskfaktorer vi vanligtvis förknippar med minskad fertilitet.",
-      "link": "https://illvet.se/halsa/forskare-har-upptackt-en-osynlig-fiende-i-vardagen-som-paverkar-ditt-dna-och-som-kan-bli-stort-hot-mot-var-formaga-att-fa-barn",
-      "guid": "https://illvet.se/halsa/forskare-har-upptackt-en-osynlig-fiende-i-vardagen-som-paverkar-ditt-dna-och-som-kan-bli-stort-hot-mot-var-formaga-att-fa-barn",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1783918843000
-    },
-    {
       "title": "Forskare återskapar 500 år gamla guldörhängen från Mingdynastin – och löser mysteriet kring en bortglömd teknik",
       "description": "Guldörhängena med den speciella räfflade ytan var under Mingdynastin mycket populära bland Kinas adelsmän. Men hur Kinas guldsmeder skapade de små detaljerna har hittills varit en gåta för forskarna.",
       "link": "https://varldenshistoria.se/civilisationer/det-gamla-kina/forskare-aterskapar-500-ar-gamla-guldorhangen-fran-mingdynastin-och-loser-mysteriet-kring-en-bortglomd-teknik",
@@ -2224,21 +2414,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783918800000
     },
     {
-      "title": "Ny permanent gågata och cykellekpark vid Nytorget",
-      "description": "Sofiagatan blir gågata – 1,2 km promenadstråk vid Nytorget, Södermalm",
-      "link": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
-      "guid": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
-      "image": "https://www.mitti.se/image-3.376569.300354.20260713053039.46b98934fa?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783918800000
-    },
-    {
       "title": "C: Fixa stopp för Djurgårdsfärjan vid Fotografiska",
       "description": "Djurgårdsfärjan kan få nytt stopp vid Fotografiska museet vid Stadsgårdskajen på Södermalm",
       "link": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
       "guid": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
       "image": "https://www.mitti.se/image-3.376106.299614.20260713073501.28d05ea4eb?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783918800000
+    },
+    {
+      "title": "Ny permanent gågata och cykellekpark vid Nytorget",
+      "description": "Sofiagatan blir gågata – 1,2 km promenadstråk vid Nytorget, Södermalm",
+      "link": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
+      "guid": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
+      "image": "https://www.mitti.se/image-3.376569.300354.20260713053039.46b98934fa?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783918800000
@@ -2444,16 +2634,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783839600000
     },
     {
-      "title": "Melopita – grekisk honungspaj",
-      "description": "Melopita är en regional specialitet från den grekiska ön Sifnos i ögruppen Kykladerna. Namnet har sitt ursprung från två ord, ”meli” som betyder honung och ”pita” som betyder paj. Efterrätten är enkel att tillaga och perfekt för sommarens middagar, serverad med jordgubbar och så klart solmogen vattenmelon.",
-      "link": "https://alltommat.expressen.se/recept/melopita-grekisk-honungspaj-baejf/",
-      "guid": "https://alltommat.expressen.se/recept/melopita-grekisk-honungspaj-baejf/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1783838940000
-    },
-    {
       "title": "Matchdag: Avspark 14.00 hemma mot KFF",
       "description": "Herrarna är tillbaka på 3Arena och ställs mot Kalmar FF i den tolfte omgången av Allsvenskan. Upp mot 26 000 är sålda, matchen sparkas igång 14.00 och här hittar du samlad information inför dagen. All",
       "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-avspark-14-00-hemma-mot-kff",
@@ -2462,26 +2642,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1783837800000
-    },
-    {
-      "title": "Cuban grilled sandwich",
-      "description": "En varm, nygrillad pressad macka med rötter i det kubanska köket – fylld med pulled pork, rökt skinka, ost och saltgurka. Kombinationen av sälta, sötma och syra gör den till en riktig lunchfavorit. Använd färdig pulled pork eller pulled chicken för en snabb variant. Yellow mustard går att byta ut mot annan senap.",
-      "link": "https://alltommat.expressen.se/recept/cuban-grilled-sandwich/",
-      "guid": "https://alltommat.expressen.se/recept/cuban-grilled-sandwich/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1783837200000
-    },
-    {
-      "title": "Här kan lägenheter byggas i villakvarter",
-      "description": "Tre fyravåningshus med 45 bostadsrätter planeras i Backlura i Hässelby. Grannar protesterar mot byggplanerna vid en populär pulkabacke och skogsdunge.",
-      "link": "https://www.mitti.se/nyheter/har-kan-lagenheter-byggas-i-villakvarter-6.3.373924.3a2fa0f138",
-      "guid": "https://www.mitti.se/nyheter/har-kan-lagenheter-byggas-i-villakvarter-6.3.373924.3a2fa0f138",
-      "image": "https://www.mitti.se/image-3.375898.299382.20260713083411.1.bba6968bed?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783836000000
     },
     {
       "title": "Populära skördefesten tillbaka i Danderyd",
@@ -2499,6 +2659,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/matsafarin-vaxer--och-ny-matmarknad-startar-6.3.374805.24585061f8",
       "guid": "https://www.mitti.se/nyheter/matsafarin-vaxer--och-ny-matmarknad-startar-6.3.374805.24585061f8",
       "image": "https://www.mitti.se/image-3.376309.299857.20260712063012.fd4e15953d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783836000000
+    },
+    {
+      "title": "Här kan lägenheter byggas i villakvarter",
+      "description": "Tre fyravåningshus med 45 bostadsrätter planeras i Backlura i Hässelby. Grannar protesterar mot byggplanerna vid en populär pulkabacke och skogsdunge.",
+      "link": "https://www.mitti.se/nyheter/har-kan-lagenheter-byggas-i-villakvarter-6.3.373924.3a2fa0f138",
+      "guid": "https://www.mitti.se/nyheter/har-kan-lagenheter-byggas-i-villakvarter-6.3.373924.3a2fa0f138",
+      "image": "https://www.mitti.se/image-3.375898.299382.20260713083411.1.bba6968bed?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783836000000
@@ -2572,26 +2742,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1783821974000
-    },
-    {
-      "title": "Common blood pressure drug could make cancer therapy far more powerful",
-      "description": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and anticancer effects in preclinical studies.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783813335000
-    },
-    {
-      "title": "Publikinformation: Hemmamötet med KFF",
-      "description": "Det är äntligen dags för hemmamatch igen och Hammarby tar emot Kalmar FF på 3Arena. Här hittar du som ser matchen på plats samlad publikinformation – avspark sker 14.00. Vi vill be dig som ser matchen",
-      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamotet-med-kff",
-      "guid": "8dbedb0b-87c2-4dae-9fc6-4ddf20a9b989",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/82e30b1587f75b220c76ab7c1b81e789b81d89f9-1913x1275.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1783785784000
     },
     {
       "title": "Högt gräs i stället för lek för barnen",
@@ -2734,26 +2884,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783742362000
     },
     {
-      "title": "Why the human body has so many design flaws",
-      "description": "Many of the body's biggest flaws are the result of evolution building on old designs instead of starting over. Our spine, eyes, teeth, pelvis, and even certain nerves all reveal compromises that worked well enough for survival but still leave us prone to pain, injury, and disease. Structures like the appendix and ear muscles also remain because they were never harmful enough for evolution to eliminate. Together, these features tell the story of a body shaped by history rather than perfection.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783737302000
-    },
-    {
-      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
-      "description": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary history than once believed.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783735034000
-    },
-    {
       "title": "Europe just unveiled a new rival to SpaceX’s Starship",
       "description": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260710003526.htm",
@@ -2814,16 +2944,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783686567000
     },
     {
-      "title": "This common pesticide may be quietly wiping out future bumblebees",
-      "description": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially in tissues involved in reproduction, raising concerns about long-term impacts on bee populations. Because pollinators are essential for about one-third of the world's food production, finding ways to protect them while controlling pests has become increasingly important.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783684701000
-    },
-    {
       "title": "Färre antagna till universiteten – fast fler sökte",
       "description": "Färre blev antagna fastän fler sökte till universitets- och högskoleutbildningarna i år.",
       "link": "https://www.mitti.se/nyheter/farre-antagna-till-universiteten--fast-fler-sokte-6.3.375731.b28330d449",
@@ -2852,26 +2972,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783682033000
-    },
-    {
-      "title": "Ny AI-tjänst används för att stjäla Microsoft 365-konton",
-      "description": "Forskare på säkerhetsföretaget Zero BEC varnar för Forg 365, en AI-baserad nätfisketjänst som bland annat används för att stjäla Microsoft 365-konton. Enligt forskarna påminner Forg 365 en del om liknande tjänster som Kali 365 och Sneaky 2FA, men är aningen mer avancerad. Till exempel används seriösa tjänster som Amazon SES och Cloudflare Pages i upplägget, något som bidrar till att hackarna kan kringgå autentiseringsprocessen för Microsoft 365. IT-administratörer uppmanas sålunda att hålla koll på loggarna för att se om det finns några misstänkta aktiviteter, rapporterar Bleeping Computer .",
-      "link": "https://computersweden.se/article/4195578/ny-ai-tjanst-anvands-for-att-stjala-microsoft-365-konton.html",
-      "guid": "https://computersweden.se/article/4195578/ny-ai-tjanst-anvands-for-att-stjala-microsoft-365-konton.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4195578-0-01174300-1783681476-Beruchtigte-Ransomware-Bande-hat-neuen-Malware-Favoriten.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783681465000
-    },
-    {
-      "title": "AI-verktyg ska hjälpa Microsoft att hitta fler sårbarheter i Windows",
-      "description": "Microsoft-höjdaren Pavan Davuluri låter meddela att företaget har börjat använda sig av en rad nya AI-verktyg i syfte att hitta och täppa till sårbarheter i Windows 11. – Genom att tillämpa AI inom säkerhetsanalyser kan vi identifiera mönster snabbare, prioritera risker och skala upp upptäckten av sårbarheter i hela Windows-kodbasen. Detta bidrar till att minska tiden mellan upptäckt och kundskydd, skriver Pavan Davuluri i ett inlägg på den officiella Windows-bloggen . Alla potentiella sårbarheter som upptäcks av AI-verktygen ska emellertid granskas av utvecklare innan säkerhetsfixar skickas ut till allmänheten.",
-      "link": "https://computersweden.se/article/4195529/ai-verktyg-ska-hjalpa-microsoft-att-hitta-fler-sarbarheter-i-windows.html",
-      "guid": "https://computersweden.se/article/4195529/ai-verktyg-ska-hjalpa-microsoft-att-hitta-fler-sarbarheter-i-windows.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4195529-0-00785200-1783677908-windows-ai-web-browser.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1783677896000
     },
     {
       "title": "Två män döms för grov människoexploatering",
@@ -3002,16 +3102,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783656000000
-    },
-    {
-      "title": "Physicists created a tiny universe where time emerged without a clock",
-      "description": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783640803000
     },
     {
       "title": "This alien planet never has sunrise or sunset. It may support life",
@@ -3154,16 +3244,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783577160000
     },
     {
-      "title": "Ny strandpromenad öppnad vid Järlasjön",
-      "description": "Del av nya Kyrkviksparken. Promenera längs vattnet. Nacka, Järla, Kyrkviken, Kyrkviksparken",
-      "link": "https://www.mitti.se/nyheter/ny-strandpromenad-oppnad-vid-jarlasjon-6.3.375000.4393d82f5e",
-      "guid": "https://www.mitti.se/nyheter/ny-strandpromenad-oppnad-vid-jarlasjon-6.3.375000.4393d82f5e",
-      "image": "https://www.mitti.se/image-3.376417.300108.20260709063113.2815eca835?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783576800000
-    },
-    {
       "title": "Löftet: Ingen bilväg genom Bagisskogen",
       "description": "Ett steg närmare naturreservat. Oppositionen reserverade sig. Söderort, Bagarmossen, Bagarmossenskogen, Bagisskogen, trafik, bilväg",
       "link": "https://www.mitti.se/nyheter/loftet-ingen-bilvag-genom-bagisskogen-6.3.375017.018b1994f7",
@@ -3174,14 +3254,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783576800000
     },
     {
-      "title": "Nytt forskningscentrum ska minska drunkningsolyckor",
-      "description": "Centrum för drunkningsforskning ska minska drunkningsolyckorna i Sverige.",
-      "link": "https://www.mitti.se/nyheter/nytt-forskningscentrum-ska-minska-drunkningsolyckor-6.3.374899.82f27fb7f6",
-      "guid": "https://www.mitti.se/nyheter/nytt-forskningscentrum-ska-minska-drunkningsolyckor-6.3.374899.82f27fb7f6",
-      "image": "https://www.mitti.se/image-3.152305.299991.20260709053114.1.15f9f30693?format=jpeg",
+      "title": "Ny strandpromenad öppnad vid Järlasjön",
+      "description": "Del av nya Kyrkviksparken. Promenera längs vattnet. Nacka, Järla, Kyrkviken, Kyrkviksparken",
+      "link": "https://www.mitti.se/nyheter/ny-strandpromenad-oppnad-vid-jarlasjon-6.3.375000.4393d82f5e",
+      "guid": "https://www.mitti.se/nyheter/ny-strandpromenad-oppnad-vid-jarlasjon-6.3.375000.4393d82f5e",
+      "image": "https://www.mitti.se/image-3.376417.300108.20260709063113.2815eca835?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783573200000
+      "timestamp": 1783576800000
     },
     {
       "title": "Möjlighet att rösta hemma igen – trots svalt intresse",
@@ -3189,6 +3269,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/mojlighet-att-rosta-hemma-igen--trots-svalt-intresse-6.3.367631.b774f64988",
       "guid": "https://www.mitti.se/nyheter/mojlighet-att-rosta-hemma-igen--trots-svalt-intresse-6.3.367631.b774f64988",
       "image": "https://www.mitti.se/image-3.127178.294924.20260709053114.acc828f25d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783573200000
+    },
+    {
+      "title": "Nytt forskningscentrum ska minska drunkningsolyckor",
+      "description": "Centrum för drunkningsforskning ska minska drunkningsolyckorna i Sverige.",
+      "link": "https://www.mitti.se/nyheter/nytt-forskningscentrum-ska-minska-drunkningsolyckor-6.3.374899.82f27fb7f6",
+      "guid": "https://www.mitti.se/nyheter/nytt-forskningscentrum-ska-minska-drunkningsolyckor-6.3.374899.82f27fb7f6",
+      "image": "https://www.mitti.se/image-3.152305.299991.20260709053114.1.15f9f30693?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783573200000
