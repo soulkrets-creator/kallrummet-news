@@ -1,8 +1,258 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-18T15:32:13.516Z",
+  "updatedAt": "2026-07-18T20:32:11.615Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Forskare bakom nytt genombrott om ”mänsklighetens vagga”: Alla döda i mystisk grotta var kvinnor",
+      "description": "En ny metod gör det möjligt att extrahera biologiska spår ur fossiler utan dna – och den första stora studien gav ett resultat som ingen hade förväntat sig. Forskaren bakom det nya genombrottet: Därför rymmer den gåtfulla Rising Star-grottan fortfarande mysterier",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/forskare-bakom-nytt-genombrott-om-mansklighetens-vagga-alla-doda-i-mystisk-grotta-var-kvinnor",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/forskare-bakom-nytt-genombrott-om-mansklighetens-vagga-alla-doda-i-mystisk-grotta-var-kvinnor",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784406649000
+    },
+    {
+      "title": "A-traktor körde på gående",
+      "description": "Man till sjukhus med ambulans",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b74306a2-e070-438a-b5fd-3dc3b9b5dd01",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b74306a2-e070-438a-b5fd-3dc3b9b5dd01",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784405596000
+    },
+    {
+      "title": "Fotbolls-VM live: Tröstpriset står på spel – England och Frankrike gör upp om bronset",
+      "description": "Yle Sporten bevakar bronsmatchen i fotbolls-VM. Matchen sänds på MTV:s kanaler.",
+      "link": "https://yle.fi/a/7-10102362?origin=rss",
+      "guid": "https://yle.fi/a/7-10102362",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784404822000
+    },
+    {
+      "title": "Hel camping översvämmad: ”Blött överallt”",
+      "description": "Regnet vräker ner i södra Sverige. I Lidköping har Kronocamping svämmats över. – Det är blött överallt, säger en person som jobbar på campingen.",
+      "link": "https://www.expressen.se/nyheter/sverige/camping-oversvammas-blott-overallt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/camping-oversvammas-blott-overallt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784403506000
+    },
+    {
+      "title": "Tonårspojke tvingades äta hundbajs – tre jämngamla döms",
+      "description": "En pojke tvingades äta hundbajs på skolgården – efter bråk om en tjej. Nu döms tre jämngamla pojkar för grov misshandel. – Jag försvarade mig så bra jag kunde, säger den misshandlade pojken.",
+      "link": "https://www.expressen.se/nyheter/sverige/tonarspojke-tvingades-ata-hundbajs-tre-jamngamla-doms/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tonarspojke-tvingades-ata-hundbajs-tre-jamngamla-doms/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784403118000
+    },
+    {
+      "title": "Vi måste tänka på robotar på ett helt nytt sätt: Nu blir de flytande och kryper in i kroppen",
+      "description": "Inga fler stela, ryckiga rörelser. Snart ska mjuka robotar kunna ta sig igenom vad som helst – till och med din kropp.",
+      "link": "https://illvet.se/teknik/vi-maste-tanka-pa-robotar-pa-ett-helt-nytt-satt-nu-blir-de-flytande-och-kryper-in-i-kroppen",
+      "guid": "https://illvet.se/teknik/vi-maste-tanka-pa-robotar-pa-ett-helt-nytt-satt-nu-blir-de-flytande-och-kryper-in-i-kroppen",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784403024000
+    },
+    {
+      "title": "Stora succén i estniska skogarna: Sami Pajari mot första segern i rally-VM",
+      "description": "Sami Pajari har karriärens bästa rallyhelg på gaffeln. Om han inte gör bort sig under sista dagen tar han karriärens första seger i VM-serien.",
+      "link": "https://yle.fi/a/7-10102361?origin=rss",
+      "guid": "https://yle.fi/a/7-10102361",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784402233000
+    },
+    {
+      "title": "Minibuss i olycka – sju inblandade",
+      "description": "Minibuss i olycka på E45",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b0c830b2-9a88-4cfa-a350-2771cfbf3668",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b0c830b2-9a88-4cfa-a350-2771cfbf3668",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784401746000
+    },
+    {
+      "title": "Föräldralös pojke från Grönland förråddes i USA: Forskare hade en obarmhärtig plan",
+      "description": "Hittills hade Miniks värld bestått av 234 människor, men nu var han i New York tillsammans med fem andra grönländare. De vuxna dog i tuberkulos, men den unge pojken överlevde.",
+      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/foraldralost-barn-fran-gronland-forraddes-i-usa",
+      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/foraldralost-barn-fran-gronland-forraddes-i-usa",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784401202000
+    },
+    {
+      "title": "Flygplan fick vända – efter motorfel",
+      "description": "Tekniskt fel på planet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d254c14a-3d16-4222-9533-888a472619e8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d254c14a-3d16-4222-9533-888a472619e8",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784400193000
+    },
+    {
+      "title": "De väntar barn – nu är allt de äger borta",
+      "description": "DRAMMEN. Kristian hade ett krav när han och Ine skulle köpa hus. Det var att barnet de väntar skulle växa upp där han hade gjort. Men branden förstörde den drömmen.",
+      "link": "https://www.expressen.se/nyheter/varlden/de-vantar-barn-nu-ar-allt-de-ager-borta/",
+      "guid": "https://www.expressen.se/nyheter/varlden/de-vantar-barn-nu-ar-allt-de-ager-borta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784400156000
+    },
+    {
+      "title": "Från sjua till guld i sista omgången – dramatiska kurvan perfekt när Pyry Heiskanen blev Europamästare",
+      "description": "Sällan ser man en sådan scenförändring som den Pyry Heiskanen bjöd på i U18-EM. Hans nya rekord i längdhopp lyfte honom hela vägen till guld.",
+      "link": "https://yle.fi/a/7-10102358?origin=rss",
+      "guid": "https://yle.fi/a/7-10102358",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784398070000
+    },
+    {
+      "title": "Putins kris växer – dödsfall i bensinköer",
+      "description": "Ukraina stryper Putins olja. Bensinköerna växer och kaoset ökar vid pumparna. Nu har tre män dött i väntan på att få tanka.",
+      "link": "https://www.expressen.se/nyheter/varlden/putins-kris-okar-dodsfall-i-bensinkoer/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-kris-okar-dodsfall-i-bensinkoer/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784396207000
+    },
+    {
+      "title": "Ayatollan hånar Trump",
+      "description": "Kritik i uttalande: ”Opålitlig”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d1b0616a-bf66-46e6-b10e-fa781e6d1e20",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d1b0616a-bf66-46e6-b10e-fa781e6d1e20",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784394804000
+    },
+    {
+      "title": "Gasflaskor till grillar spädde på branden i Drammen",
+      "description": "Polisen ber allmänheten om tips om hur branden startade.",
+      "link": "https://yle.fi/a/7-10102353?origin=rss",
+      "guid": "https://yle.fi/a/7-10102353",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784394034000
+    },
+    {
+      "title": "Ungerns president måste avgå efter grundlagsändring",
+      "description": "Ungerns president har undertecknat en grundlagsändring som avslutar hans ämbetsperiod omedelbar.",
+      "link": "https://yle.fi/a/7-10102357?origin=rss",
+      "guid": "https://yle.fi/a/7-10102357",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784393656000
+    },
+    {
+      "title": "Helsingfors vill ha Garden Helsinki – kan ge rabatt på tomten",
+      "description": "Helsingforsarenan är för gammalmodig för att locka världsstjärnor, säger Silja Borgarsdóttir Sandelin.",
+      "link": "https://yle.fi/a/7-10102323?origin=rss",
+      "guid": "https://yle.fi/a/7-10102323",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784393076000
+    },
+    {
+      "title": "Mänskliga kvarlevor hittade",
+      "description": "Låg i krypgrund • Misstänks vara mänskliga",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=08ef2e02-ae85-4d3b-98a8-0aae6ff77ad6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=08ef2e02-ae85-4d3b-98a8-0aae6ff77ad6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784392800000
+    },
+    {
+      "title": "Ny förlust för Ekenäs IF: ”Läget är knepigt”",
+      "description": "EIF:s fotbollsmannar åkte på en ny förlust i näst högsta serien ligaettan. Träskändalaget JäPS for iväg med seriepoängen från Ekenäs på lördag eftermiddag.",
+      "link": "https://yle.fi/a/7-10102355?origin=rss",
+      "guid": "https://yle.fi/a/7-10102355",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784392669000
+    },
+    {
+      "title": "Utklassningen i F1-kvalet: Kimi Antonelli tog pole position med flera tiondelar",
+      "description": "VM-ledaren Kimi Antonelli är kvalkung så här långt under F1-säsongen. I söndagens tävling i Belgien kommer han att starta från pole position för sjätte gången i år.",
+      "link": "https://yle.fi/a/7-10102356?origin=rss",
+      "guid": "https://yle.fi/a/7-10102356",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784392174000
+    },
+    {
+      "title": "Har kostat 187 miljoner – sålt för en tia",
+      "description": "Kokainfartyget MV Matthews har sålts för motsvarande en tia efter att ha kostat staten drygt 187 miljoner. Nu kan det lämna Cork och Irland. Det handlar om det kokainfartyg som stod och står i centrum för Irlands största narkotikabeslag någonsin. Bulkfartyget MV Matthews på 28 000 ton och registrerat i Panama, beslagtogs 26 juni 2023. Det […]",
+      "link": "https://www.dagensps.se/foretag/har-kostat-187-miljoner-salt-for-en-tia/",
+      "guid": "https://www.dagensps.se/?p=1657052",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl24yghz0qxgi-nh-300x300.webp",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784391553000
+    },
+    {
+      "title": "Vibeke och Björn har kvar sitt hem: ”Kan inte ta in”",
+      "description": "Vibeke och Björn Tore Evju har haft tur. Huset de bott i sedan 30 år tillbaka står kvar. Men deras tillvaro i norska Krokstadelva har rubbats för alltid. – Det är helt absurt, säger Vibeke.",
+      "link": "https://www.expressen.se/nyheter/varlden/vibeke-och-bjorn-har-kvar-sitt-hem-kan-inte-ta-in/",
+      "guid": "https://www.expressen.se/nyheter/varlden/vibeke-och-bjorn-har-kvar-sitt-hem-kan-inte-ta-in/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784391354000
+    },
+    {
+      "title": "Magiska slutpunkten i Diamond League: Josh Kerr löpte nytt världsrekord",
+      "description": "Publiken i London fick valuta för pengarna när Diamond League avslutades. Josh Kerr knäckte en 27 år gammal notering när han slog världsrekord.",
+      "link": "https://yle.fi/a/7-10102354?origin=rss",
+      "guid": "https://yle.fi/a/7-10102354",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784391101000
+    },
+    {
+      "title": "Forskare fann historiens äldsta bevis på våld mellan människor",
+      "description": "Ett internationellt forskarteam har analyserat ett 100 000 år gammalt skelett som hittats djupt inne i en israelisk grotta – och har kommit fram till en banbrytande slutsats.",
+      "link": "https://varldenshistoria.se/stenalder/forskare-fann-historiens-aldsta-bevis-pa-vald-mellan-manniskor",
+      "guid": "https://varldenshistoria.se/stenalder/forskare-fann-historiens-aldsta-bevis-pa-vald-mellan-manniskor",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784390415000
+    },
+    {
+      "title": "Kommentar: För mycket begärt att Finland skulle vara Fifas obehagliga nagel i ögat någon gång?",
+      "description": "Summeringen av VM? Det gick strålande, tycker Gianni Infantino. För Finland gick det sämre – vi har ett räddhågset förbund som inte vågar markera och protestera.",
+      "link": "https://yle.fi/a/7-10102352?origin=rss",
+      "guid": "https://yle.fi/a/7-10102352",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784389702000
+    },
     {
       "title": "EU slösar energi: Nu ska batterier klara krisen",
       "description": "EU:s första avtal kring energilagring fokuserar på att batterier ska lyckas ta tillvara mer av den sol- och vindkraft som i dag förslösas. I slutet av juni var det klart. Ett avtal slöts där EU-kommissionen, energiministrar från 22 medlemsländer, företag inom lagring och förnybar energi, energiintensiv industri och Europeiska investeringsbanken deltog. De var överens om […]",
@@ -52,16 +302,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784386800000
-    },
-    {
-      "title": "Mänskliga kvarlevor hittade",
-      "description": "Låg i krypgrund • Misstänks vara mänskliga",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=08ef2e02-ae85-4d3b-98a8-0aae6ff77ad6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=08ef2e02-ae85-4d3b-98a8-0aae6ff77ad6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784385029000
     },
     {
       "title": "VPS-tränarens besvikelse i Helsingfors: ”HJK tvingas försvara så mycket men vi står ändå lottlösa”",
@@ -174,16 +414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784379600000
     },
     {
-      "title": "Regnoväder drar in – SMHI varnar för skyfall",
-      "description": "Det regnar och åskar för fullt. SMHI har utfärdat flera skyfallsvarningar – bland annat en orange i Östergötland. – Chansa inte att köra ner i större vattenmängder, säger Pia-Maria Nautras vid räddningstjänsten.",
-      "link": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
-      "guid": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784378870000
-    },
-    {
       "title": "Jättedyra däck stulna",
       "description": "Polisen söker vittnen i Värnamo",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=da986bab-2de5-42cc-be48-a47de5eb45a2",
@@ -235,7 +465,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Publikinformation: Hemmamatchen mot Degerfors",
-      "description": "Det är dags för ännu en hemmamatch när Hammarby tar emot Degefors IF på 3Arena. Här hittar du som ser mötet på plats samlad publikinformation – avspark sker 16.30 på söndagen. Vi vill be dig som ser m",
+      "description": "Det är dags för ännu en hemmamatch när Hammarby tar emot Degerfors IF på 3Arena. Här hittar du som ser mötet på plats samlad publikinformation – avspark sker 16.30 på söndagen. Vi vill be dig som ser",
       "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamatchen-mot-degerfors",
       "guid": "5975b616-08a4-48c6-bf24-44e372ffb7ef",
       "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e397775a89ee9c147572e372e6b9b9919f3996b7-1807x1205.jpg?w=1000&amp;auto=format&amp;q=80",
@@ -414,16 +644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784369409000
     },
     {
-      "title": "Regnet piskar och åskan dundrar – blixten slog ner i kyrktorn i Tammerfors",
-      "description": "Det soliga vädret har bytts ut mot regn och åska på många håll i södra och västra Finland under lördagens lopp. I Tammerfors slog blixten ned i ortodoxa kyrkan.",
-      "link": "https://yle.fi/a/7-10102343?origin=rss",
-      "guid": "https://yle.fi/a/7-10102343",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784369190000
-    },
-    {
       "title": "Dags för elbilsladdarna att tänka om",
       "description": "Det gamla rådet att tanka elbilen på natten är inte gångbart längre, i alla fall inte på sommarhalvåret. Elen är regelmässigt betydligt billigare mitt på dagen. Orsak: Då lyser solen och kapar pristopparna. Laddar du bilen nattetid, i tron att det är billigare? Det är dags att tänka om. Det är oftast halva priset mitt […]",
       "link": "https://www.dagensps.se/motor/dags-for-elbilsladdarna-att-tanka-om/",
@@ -484,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784367077000
     },
     {
-      "title": "Nvidias vd:s läderjacka såldes för nästan en miljon dollar",
-      "description": "Köpet av Jensen Huangs karakteristiska läderjacka är ett av de största någonsin.",
-      "link": "https://yle.fi/a/7-10102340?origin=rss",
-      "guid": "https://yle.fi/a/7-10102340",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784366104000
-    },
-    {
       "title": "VM-finalen hotad av rök – Trump skyller på Kanada och höjer tullar",
       "description": "USA:s president Donald Trump hotar att höja tullarna mot Kanada och hänvisar till den omfattande skogsbrandsrök som den senaste veckan spridits över stora delar av USA. Rök från skogsbränder hotar att bli ett problem under VM-finalen i New York på söndagen. ”USA invaderas” Det får USA:s president Donald Trump att gå i taket. I ett […]",
       "link": "https://www.dagensps.se/varlden/vm-finalen-hotad-av-rok-trump-skyller-pa-kanada-och-hojer-tullar/",
@@ -514,66 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784365200000
     },
     {
-      "title": "Nvidia-chefens skinnjacka såld för 10 miljoner",
-      "description": "En av de svarta jackor som Nvidias vd Jensen Huang setts bära under sina framträdanden har nu gått under klubban till rekordpris. Den ikoniska skinnjackan från modedesignern och filmregissören Tom Ford såldes på en auktion på Sotheby’s för nästan 1 miljon dollar, nära på 10 miljoner kronor. Pengarna från auktionen kommer gå till välgörenhet med […]",
-      "link": "https://www.dagensps.se/bors-finans/nvidia-chefens-skinnjacka-sald-for-10-miljoner/",
-      "guid": "https://www.dagensps.se/?p=1656967",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/skinnjacka.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784365004000
-    },
-    {
-      "title": "Gianni Infantino stod och skrattade när Donald Trump sågade det engelska landslaget: ”Gjorde ett misstag”",
-      "description": "Donald Trump och Gianni Infantino hyllade VM under en presskonferens i New York. Den amerikanska presidenten passade också på att kritisera Englands taktik.",
-      "link": "https://yle.fi/a/7-10102341?origin=rss",
-      "guid": "https://yle.fi/a/7-10102341",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784364815000
-    },
-    {
-      "title": "Stort slagsmål under Gothia Cup – lag byter boende",
-      "description": "Två Gothia cup-lag hamnade i slagsmål under fredagskvällen. Ett lag valde att byta boende efter händelsen. – För att det inte skulle bli några mer konfrontationer, säger Fredrik Beckman, pressansvarig på Gothia cup.",
-      "link": "https://www.expressen.se/nyheter/sverige/stort-slagsmal-under-gothia-cup-lag-byter-boende/",
-      "guid": "https://www.expressen.se/nyheter/sverige/stort-slagsmal-under-gothia-cup-lag-byter-boende/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784364478000
-    },
-    {
-      "title": "Taket har rasat på köpcentret Torp i Uddevalla",
-      "description": "En stor del av taket har rasat in på köpcentret Torp i Uddevalla. Delar av gallerian har svämmats över och ingen tillåts komma in. Raset beror sannolikt på ovädret, skriver Bohusläningen.",
-      "link": "https://www.expressen.se/nyheter/sverige/taket-har-rasat-pa-kopcentret-torp-i-uddevalla/",
-      "guid": "https://www.expressen.se/nyheter/sverige/taket-har-rasat-pa-kopcentret-torp-i-uddevalla/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784363022000
-    },
-    {
-      "title": "Traditionen med allmogebåtar hålls vid liv i en lada på Kråkö",
-      "description": "Östnylands allmogebåtsförening fyller 40 år. I ladan visas historien upp, men i verkstaden ovanför renoveras båtar som snart kan se böljan den blå.",
-      "link": "https://yle.fi/a/7-10102115?origin=rss",
-      "guid": "https://yle.fi/a/7-10102115",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784361617000
-    },
-    {
-      "title": "Artisten Maja Mannila är trött på influerarkraven som ställs på musiker",
-      "description": "Om Maja Mannila får välja skulle det inte finnas några sociala medier alls. Många andra musiker väljer också musiken framför innehållsskapandet.",
-      "link": "https://yle.fi/a/7-10101687?origin=rss",
-      "guid": "https://yle.fi/a/7-10101687",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784361613000
-    },
-    {
       "title": "Det blir nu dyrare att streama musik via Apple",
       "description": "Apple Music höjer nämligen priset Apple meddelade nyligen att de har justerat sina priser för Apple Music i flertalet länder. Inte helt oväntat när det gäller priser så justeras de uppåt och justeringen verkar gälla samtliga abonnemangstyper. Prisökningen rullas ut globalt och för ett standardabonnemang rör det sig om en höjning på ungefär en dollar i månaden. Familjeabonnemangen ser en något större prisökning. Förutom musiklyssning kommer Apple även att höja priset på några Apple One-paket. Enligt Apple själva beror höjningen främst på ökade kostnader för musiklicenser. Även om man ska ha höjt priset i flera europeiska länder så verkar det svenska priset, i skrivandets stund, fortfarande ligga kvar på 119 kronor i månaden här i Sverige. Så det återstår att se om även vi får ta del av denna justering inom kort. L&auml;s vidare och kommentera: https://feber.se/mac/det-blir-nu-dyrare-att-streama-musik-via-apple/494187/ L&auml;s mer om Apple , Apple Music , Apple One , Musiklicenser , Streaming , Abonnemang",
       "link": "https://feber.se/mac/det-blir-nu-dyrare-att-streama-musik-via-apple/494187/?utm_source=rss&utm_medium=feed",
@@ -582,46 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784361600000
-    },
-    {
-      "title": "Flera katter saknas i Drammen-branden: ”Svåra att fånga”",
-      "description": "När människorna flydde lågorna i Krokstadelva var det andra som blev kvar. Nu letar många boende förtvivlat efter sina husdjur.",
-      "link": "https://www.expressen.se/nyheter/varlden/flera-katter-saknas-i-drammen-branden-svara-att-fanga/",
-      "guid": "https://www.expressen.se/nyheter/varlden/flera-katter-saknas-i-drammen-branden-svara-att-fanga/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784361336000
-    },
-    {
-      "title": "Reaktioner efter att frätande vätska hälldes över barn i Vasa: ”En stark känsla av otrygghet”",
-      "description": "Det chockerande fallet i stadsdelen Korsnäståget i Vasa har gett upphov till oro.",
-      "link": "https://yle.fi/a/7-10102339?origin=rss",
-      "guid": "https://yle.fi/a/7-10102339",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784360236000
-    },
-    {
-      "title": "Ruth Bertlin blev trött på att köpa jord och började göra egen: ”Det bästa jag gjort i hela mitt liv”",
-      "description": "Vill man ha riktigt näringsrik jord ska man göra den själv. Det mottot lever Ruth Bertlin enligt, och ger sina bästa tips för hur man lyckas med en jordfabrik.",
-      "link": "https://yle.fi/a/7-10101488?origin=rss",
-      "guid": "https://yle.fi/a/7-10101488",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784359814000
-    },
-    {
-      "title": "Ole Markussen i Drammen såg på bilder på nätet att hans hus brunnit ned",
-      "description": "Över 100 bostäder har brunnit upp i den största branden i Norge i modern tid.",
-      "link": "https://yle.fi/a/7-10102336?origin=rss",
-      "guid": "https://yle.fi/a/7-10102336",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784359170000
     },
     {
       "title": "Regeringen godkänner tre nya vindkraftsparker",
@@ -634,36 +744,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784358000000
     },
     {
-      "title": "Tak har rasat in på köpcentrum",
-      "description": "Personalen har utrymts, enligt Bohusläningen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc6d00b5-f289-4a6d-b0a8-f1a696fa662b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc6d00b5-f289-4a6d-b0a8-f1a696fa662b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784357423000
-    },
-    {
-      "title": "Orange varning",
-      "description": "SMHI: ”Kraftiga och ihållande skurar”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a703fed7-2ef3-4f1f-ae0d-1d695f36138a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a703fed7-2ef3-4f1f-ae0d-1d695f36138a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784356255000
-    },
-    {
-      "title": "Tonåringarna delar ut vatten till brandmännen",
-      "description": "Stöttar brandmännen: ”För att vara snälla”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/tonaringarna-delar-ut-vatten-till-brandmannen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/tonaringarna-delar-ut-vatten-till-brandmannen",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784356030000
-    },
-    {
       "title": "Stockholm binds samman av miljonkonst",
       "description": "Från Sergels torg och Slussen till Vårberg: offentlig konst för miljoner engagerar, fascinerar och delar opinionen. Här är stockholmarnas syn och listan över de dyraste verken.",
       "link": "https://www.mitti.se/nyheter/stockholm-binds-samman-av-miljonkonst-6.3.373994.a094d8edbe",
@@ -672,16 +752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784355300000
-    },
-    {
-      "title": "Alexander Ginlunds verk sträcker sig över hela Kimitoön – Finlands största solsystem invigs",
-      "description": "Att färdigställa konstverket tog elva år. Nu sträcker sig Alexander Ginlunds skalenliga solsystem ända från solen vid Engelsby verk till Pluto på Bengtskär.",
-      "link": "https://yle.fi/a/7-10102177?origin=rss",
-      "guid": "https://yle.fi/a/7-10102177",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784354675000
     },
     {
       "title": "Top Gun dyker upp i Battlefield 6",
@@ -694,16 +764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784354400000
     },
     {
-      "title": "Teaterräv intygar: Sommarteater är sant i en värld full av AI och internet",
-      "description": "När man kommer till en pjäs och bänkar sig på läktaren vet man att det är på riktigt. Därför boomar den finlandssvenska amatörteatern.",
-      "link": "https://yle.fi/a/7-10102116?origin=rss",
-      "guid": "https://yle.fi/a/7-10102116",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784354161000
-    },
-    {
       "title": "Skumbananpannacotta – enkel och god efterrätt",
       "description": "Sugen på en festlig efterrätt du kokar ihop av bara två ingredienser? Som dessutom smakar skumbanan! Gör då Maria Culhas pannacotta. – Resultatet blir en lekfull dessert som går hem hos både barn och vuxna, enligt receptmakaren.",
       "link": "https://alltommat.expressen.se/artiklar/skumbananpannacotta-enkel-och-god-efterratt/",
@@ -712,16 +772,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784352600000
-    },
-    {
-      "title": "Kvinna föll från balkong",
-      "description": "Misstänkt mordförsök i Stockholm",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0349de7e-27b2-4d25-bb6c-80eff6a02641",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0349de7e-27b2-4d25-bb6c-80eff6a02641",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784352373000
     },
     {
       "title": "Fullkornsplättar med rårörda blåbär",
@@ -742,16 +792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784351880000
-    },
-    {
-      "title": "Storbråk – flera gripna",
-      "description": "En till sjukhus i Göteborg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77bcfab4-543a-4f1d-b897-aaa65ed9e28a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77bcfab4-543a-4f1d-b897-aaa65ed9e28a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784351717000
     },
     {
       "title": "Blipp, blipp och iväg: Här kan du ö-hoppa på SL-kortet",
@@ -832,6 +872,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784322000000
+    },
+    {
+      "title": "Centerline Athletics Cross-Sport Collection",
+      "description": "",
+      "link": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
+      "guid": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
+      "image": "https://uncrate.com/assets_c/2026/06/centerline-athletics-4-thumb-960xauto-191740.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784320203000
     },
     {
       "title": "Vacheron Constantin Overseas 34.5mm Watch",
@@ -1512,16 +1562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784239200000
-    },
-    {
-      "title": "Garb: Cliffside",
-      "description": "",
-      "link": "https://uncrate.com/garb-cliffside/",
-      "guid": "https://uncrate.com/garb-cliffside/",
-      "image": "https://uncrate.com/assets_c/2026/07/garb-cliffside-darkened-thumb-960xauto-192124.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784235600000
     },
     {
       "title": "Simskolan tvingas lämna badet efter parasitangrepp",
@@ -2334,16 +2374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784049300000
     },
     {
-      "title": "Egyptiska arkeologer gräver fram en ovanligt välbevarad stad från antiken",
-      "description": "För arkeologer kan vardagliga städer ofta berätta mer om det förflutna än stora tempel – nu har man hittat en riktig guldgruva i Egypten som innehåller båda delarna.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/egyptiska-arkeologer-graver-fram-en-ovanligt-valbevarad-stad-fran-antiken",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/egyptiska-arkeologer-graver-fram-en-ovanligt-valbevarad-stad-fran-antiken",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784044849000
-    },
-    {
       "title": "S lovar gratis konserter för barn och unga på loven",
       "description": "Löfte inför valet från S: gratis inträde för barn och unga på Konserthuset i Stockholm.",
       "link": "https://www.mitti.se/nyheter/s-lovar-gratis-konserter-for-barn-och-unga-pa-loven-6.3.375094.a4484a56a9",
@@ -2392,16 +2422,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784034252000
-    },
-    {
-      "title": "Långt in i en grotta på en ensligt belägen ö har forskare gjort ett uppseendeväckande fynd, som skriver om historien om en mystisk människoart",
-      "description": "De första upptäckterna visade att det rörde sig om en ny art. Nu förändrar ett nytt fynd allt.",
-      "link": "https://illvet.se/manniskan/langt-in-i-en-grotta-pa-en-ensligt-belagen-o-har-forskare-gjort-ett-uppseendevackande-fynd-som-skriver-om-historien-om-en-mystisk-manniskoart",
-      "guid": "https://illvet.se/manniskan/langt-in-i-en-grotta-pa-en-ensligt-belagen-o-har-forskare-gjort-ett-uppseendevackande-fynd-som-skriver-om-historien-om-en-mystisk-manniskoart",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784030455000
     },
     {
       "title": "A 37-year soil experiment revealed a hidden climate threat",
@@ -2684,16 +2704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783990053000
     },
     {
-      "title": "Hon hittades på nedre kanondäcket. Under många år trodde forskarna att Gertrud var Gustav",
-      "description": "Historiker har tvingats byta namn på en person som omkom på krigsfartyget Vasa. Personen har hittills kallats Gustav.",
-      "link": "https://varldenshistoria.se/samhalle/katastrofer/hon-hittades-pa-nedre-kanondacket-under-manga-ar-trodde-forskarna-att-gertrud-var-gustav",
-      "guid": "https://varldenshistoria.se/samhalle/katastrofer/hon-hittades-pa-nedre-kanondacket-under-manga-ar-trodde-forskarna-att-gertrud-var-gustav",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1783974632000
-    },
-    {
       "title": "1 av 4 stockholmare tror att husdjuret kan ärva en",
       "description": "Enligt en undersökning tror en av fyra stockholmare att husdjur juridiskt kan ärva ens pengar.",
       "link": "https://www.mitti.se/nyheter/1-av-4-stockholmare-tror-att-husdjuret-kan-arva-en-6.3.375825.d6d10f4b51",
@@ -2712,16 +2722,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783960200000
-    },
-    {
-      "title": "Fynd i djup grotta avslöjar: Neandertalare och Homo sapiens hade gemensam kultur",
-      "description": "Grottan beboddes vid olika tidpunkter av både neandertalare och moderna människor. Men forskarna hade inte förväntat sig att de spår som de två arterna lämnade efter sig skulle vara så förvånansvärt lika.",
-      "link": "https://varldenshistoria.se/stenalder/fynd-i-djup-grotta-avslojar-neandertalare-och-homo-sapiens-hade-gemensam-kultur",
-      "guid": "https://varldenshistoria.se/stenalder/fynd-i-djup-grotta-avslojar-neandertalare-och-homo-sapiens-hade-gemensam-kultur",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1783958414000
     },
     {
       "title": "Nej till bastuflotte i Kristineberg",
