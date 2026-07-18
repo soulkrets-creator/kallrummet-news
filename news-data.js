@@ -1,8 +1,368 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-17T23:37:53.670Z",
+  "updatedAt": "2026-07-18T07:10:25.415Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Regeringen godkänner tre nya vindkraftsparker",
+      "description": "Två till havs och en på land Regeringen har nyligen beviljat tillstånd för två stora vindkraftsparker. De nya tillstånden gäller havsprojekten Fyrskeppet i Bottenhavet och det flytande projektet Vidar i Skagerrak. Tillsammans ska de kunna producera upp till 19 terawattimmar el per år. Dessutom har en landbaserad park utanför Piteå fått ja. Det råder dock delade meningar om huruvida parkerna faktiskt kommer att byggas. De inblandade bolagen, bland annat Vattenfall, menar att det i dagsläget saknas ekonomiska förutsättningar för att gå vidare. De efterfrågar statliga garantier eller förmånliga lån, liknande de villkor som föreslagits för kärnkraften. Miljö- och klimatminister Romina Pourmokhtari håller dock inte med om behovet av subventioner. Hon menar att företagens ansökningar i sig är ett bevis på att det finns en kommersiell potential och menar att kärnkraften får stöd just för att den är planerbar, till skillnad från vindkraften. – Att man skickar in en ansökan om att bygga menar jag visar på att det finns en ekonomisk potential som inte bygger på skattemedel rakt ut. Elva andra ansökningar om havsbaserad vindkraft har avslagits, då de anses störa Försvarsmaktens verksamhet. För att undvika alla dessa avslag framöver och skapa mer ordning i framtida satsningar planerar regeringen att skrota det nuvarande systemet där bolagen själva pekar ut platser. I stället ska staten genom ett auktionssystem välja ut lämpliga områden som tar hänsyn till både miljö, fiske och försvar. Tanken är att aktörerna sedan får buda om rätten att bygga, vilket regeringen hoppas ska leda till en mer effektiv och förutsägbar utbyggnad av elnätet. L&auml;s vidare och kommentera: https://feber.se/samhalle/regeringen-godkanner-tre-nya-vindkraftsparker/494185/ L&auml;s mer om Vindkraft , Fyrskeppet , Vidar , Piteå , Vattenfall , Romina Pourmokhtari , Försvarsmakten",
+      "link": "https://feber.se/samhalle/regeringen-godkanner-tre-nya-vindkraftsparker/494185/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/regeringen-godkanner-tre-nya-vindkraftsparker/494185/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784358000000
+    },
+    {
+      "title": "Tak har rasat in på köpcentrum",
+      "description": "Personalen har utrymts, enligt Bohusläningen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc6d00b5-f289-4a6d-b0a8-f1a696fa662b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc6d00b5-f289-4a6d-b0a8-f1a696fa662b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784357423000
+    },
+    {
+      "title": "Oljedepå i lågor",
+      "description": "Hundratals drönare över Moskva i natt",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/hundratals-dronare-over-moskva-oljedepa-i-lagor",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/hundratals-dronare-over-moskva-oljedepa-i-lagor",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784356730000
+    },
+    {
+      "title": "Börsveckan i USA slutade i moll på ökad AI-panik",
+      "description": "En Kina-nyhet som ger Deep Seek-vibbar utlöste på nytt tunga kursras i halvledarföretag i USA på fredagen. Det var avslöjandet om en kinesisk modell från en startup för AI, artificiell intelligens, som skickade ner aktiemarknaden på Wall Street i New York i går. Den kinesiska uppstickaren Moonshot AI uppgav att deras Kimi K3-modell kan konkurrera […]",
+      "link": "https://www.dagensps.se/bors-finans/borsveckan-i-usa-slutade-i-moll-pa-okad-ai-panik/",
+      "guid": "https://www.dagensps.se/?p=1656928",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/wssurt.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784356532000
+    },
+    {
+      "title": "Orange varning",
+      "description": "SMHI: ”Kraftiga och ihållande skurar”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a703fed7-2ef3-4f1f-ae0d-1d695f36138a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a703fed7-2ef3-4f1f-ae0d-1d695f36138a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784356255000
+    },
+    {
+      "title": "Tonåringarna delar ut vatten till brandmännen",
+      "description": "Stöttar brandmännen: \"Istället för att sitta stilla\"",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/tonaringarna-delar-ut-vatten-till-brandmannen",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/tonaringarna-delar-ut-vatten-till-brandmannen",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784356030000
+    },
+    {
+      "title": "Regnoväder drar in – SMHI varnar för skyfall",
+      "description": "Snart vräker regnet ner. SMHI har utfärdat flera skyfallsvarningar – bland annat en orange i Östergötland. – När det kommer mycket regn på kort tid kan det leda till översvämningar, säger SMHI:s meteorolog Sandra Fyrstedt.",
+      "link": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
+      "guid": "https://www.expressen.se/nyheter/vader/regnovader-drar-in-smhi-varnar-for-skyfall/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784355806000
+    },
+    {
+      "title": "Stockholm binds samman av miljonkonst",
+      "description": "Från Sergels torg och Slussen till Vårberg: offentlig konst för miljoner engagerar, fascinerar och delar opinionen. Här är stockholmarnas syn och listan över de dyraste verken.",
+      "link": "https://www.mitti.se/nyheter/stockholm-binds-samman-av-miljonkonst-6.3.373994.a094d8edbe",
+      "guid": "https://www.mitti.se/nyheter/stockholm-binds-samman-av-miljonkonst-6.3.373994.a094d8edbe",
+      "image": "https://www.mitti.se/image-3.376292.299833.20260718064526.7668a9fbb2?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784355300000
+    },
+    {
+      "title": "Alexander Ginlunds verk sträcker sig över hela Kimitoön – Finlands största solsystem invigs",
+      "description": "Att färdigställa konstverket tog elva år. Nu sträcker sig Alexander Ginlunds skalenliga solsystem ända från solen vid Engelsby verk till Pluto på Bengtskär.",
+      "link": "https://yle.fi/a/7-10102177?origin=rss",
+      "guid": "https://yle.fi/a/7-10102177",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784354675000
+    },
+    {
+      "title": "Top Gun dyker upp i Battlefield 6",
+      "description": "Så du kan flyga F-14 Tomcat och F-18 Super Hornet Den kommande fjärde säsongen av Battlefield 6 påstås bli spelets största uppdatering sedan lanseringen. Som bekant kommer säsongen att introducera Tsuru Reef, vilket ska vara den största kartan i spelets historia. Men säsongen kommer även att innehålla ett samarbete med Paramount för att slänga in lite Top Gun i spelet. Från och med den 18 augusti kan spelare sätta sig bakom spakarna på de klassiska planen F-14 Tomcat samt F-18 Super Hornet. För att göra det lite mer Top Gun kommer skådespelarna Miles Teller, Lewis Pullman och Charles Parnell att låna ut sina röster till sina respektive karaktärer i spelet. Utöver nya utseenden och kosmetiska föremål introduceras även det nya spelläget Carrier Strike, där målet är att sänka motståndarlagets hangarfartyg i en kombination av sjö-, luft- samt markstrid. L&auml;s vidare och kommentera: https://feber.se/spel/top-gun-dyker-upp-i-battlefield-6/494184/ L&auml;s mer om Battlefield , Tsuru Reef , Paramount , Top Gun , Miles Teller , Lewis Pullman , Charles Parnell",
+      "link": "https://feber.se/spel/top-gun-dyker-upp-i-battlefield-6/494184/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/top-gun-dyker-upp-i-battlefield-6/494184/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784354400000
+    },
+    {
+      "title": "Teaterräv intygar: Sommarteater är sant i en värld full av AI och internet",
+      "description": "När man kommer till en pjäs och bänkar sig på läktaren vet man att det är på riktigt. Därför boomar den finlandssvenska amatörteatern.",
+      "link": "https://yle.fi/a/7-10102116?origin=rss",
+      "guid": "https://yle.fi/a/7-10102116",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784354161000
+    },
+    {
+      "title": "Venezuela tar ut 346 miljoner dollar för återuppbyggnad – samtidigt har dödssiffran stigit till 5 000",
+      "description": "IMF bekräftar att landet har tagit ut hundratals miljoner dollar för att bygga upp allt som skadades i jordbävningarna den 24 juni.",
+      "link": "https://yle.fi/a/7-10102334?origin=rss",
+      "guid": "https://yle.fi/a/7-10102334",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784353991000
+    },
+    {
+      "title": "Skumbananpannacotta – enkel och god efterrätt",
+      "description": "Sugen på en festlig efterrätt du kokar ihop av bara två ingredienser? Som dessutom smakar skumbanan! Gör då Maria Culhas pannacotta. – Resultatet blir en lekfull dessert som går hem hos både barn och vuxna, enligt receptmakaren.",
+      "link": "https://alltommat.expressen.se/artiklar/skumbananpannacotta-enkel-och-god-efterratt/",
+      "guid": "https://alltommat.expressen.se/artiklar/skumbananpannacotta-enkel-och-god-efterratt/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784352600000
+    },
+    {
+      "title": "Bryson DeChambeau bröt mot reglerna och hotade lämna The Open: ”Självklart besviken”",
+      "description": "Bryson DeChambeau bröt mot reglerna under The Open. Nu straffas den amerikanske stjärnan med dubbla pliktslag. Finländaren Sami Välimäki har spelat klart.",
+      "link": "https://yle.fi/a/7-10102335?origin=rss",
+      "guid": "https://yle.fi/a/7-10102335",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784352466000
+    },
+    {
+      "title": "Kvinna föll från balkong",
+      "description": "Misstänkt mordförsök i Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0349de7e-27b2-4d25-bb6c-80eff6a02641",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0349de7e-27b2-4d25-bb6c-80eff6a02641",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784352373000
+    },
+    {
+      "title": "Fullkornsplättar med rårörda blåbär",
+      "description": "Fullkornsmjöl gör plättarna lite mer matiga. Låt smeten svälla i ca 30 min för att mjölet ska suga åt sig vätskan – då håller plättarna lättare ihop vid stekning.",
+      "link": "https://alltommat.expressen.se/recept/fullkornsplattar-med-rarorda-blabar/",
+      "guid": "https://alltommat.expressen.se/recept/fullkornsplattar-med-rarorda-blabar/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784351880000
+    },
+    {
+      "title": "Tikka masala med linser och naanbröd",
+      "description": "Nytt på såshyllan är indiska såser som har en kryddblandning i locket på burken. Rätterna får en genuin indisk smak, oavsett om de lagas med kyckling eller som här i en vegetarisk rätt med linser.",
+      "link": "https://alltommat.expressen.se/recept/tikka-masala-med-linser-och-naanbrod/",
+      "guid": "https://alltommat.expressen.se/recept/tikka-masala-med-linser-och-naanbrod/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784351880000
+    },
+    {
+      "title": "Storbråk – flera gripna",
+      "description": "En till sjukhus i Göteborg",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77bcfab4-543a-4f1d-b897-aaa65ed9e28a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77bcfab4-543a-4f1d-b897-aaa65ed9e28a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784351717000
+    },
+    {
+      "title": "Blipp, blipp och iväg: Här kan du ö-hoppa på SL-kortet",
+      "description": "SL-kortet gäller inte bara på pendelbåtarna utan också för resor till 44 bryggor i Waxholmsbolagets trafik.",
+      "link": "https://www.mitti.se/nyheter/blipp-blipp-och-ivag-har-kan-du-ohoppa-pa-slkortet-6.3.369008.cd38e983ad",
+      "guid": "https://www.mitti.se/nyheter/blipp-blipp-och-ivag-har-kan-du-ohoppa-pa-slkortet-6.3.369008.cd38e983ad",
+      "image": "https://www.mitti.se/image-3.373263.295975.20260718054524.1.c6f0e4ed83?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784351700000
+    },
+    {
+      "title": "Diabetesforskare: En omständighet ökar din risk markant – detta kan du själv göra för att hålla sjukdomen borta",
+      "description": "En förbisedd faktor ökar risken att utveckla diabetes, visar ny studie. Forskare pekar ut en specifik sak du kan göra för att undvika den vanliga sjukdomen.",
+      "link": "https://illvet.se/halsa/miljontals-drabbas-av-diabetes-nu-har-forskare-hittat-nagot-som-kan-minska-din-risk-att-utveckla-sjukdomen",
+      "guid": "https://illvet.se/halsa/miljontals-drabbas-av-diabetes-nu-har-forskare-hittat-nagot-som-kan-minska-din-risk-att-utveckla-sjukdomen",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784350812000
+    },
+    {
+      "title": "”All häxkonst har sitt ursprung i köttslig lust, som hos kvinnor är omättlig”: 10 citat från historiens fruktansvärda häxförföljelser",
+      "description": "Rädsla, vidskepelse och tron på Djävulen drev på Europas häxprocesser. Här är de ord som tände bålen – och de som till slut bidrog till att släcka dem.",
+      "link": "https://varldenshistoria.se/samhalle/medeltiden/10-citat-fran-historiens-fruktansvarda-haxforfoljelser",
+      "guid": "https://varldenshistoria.se/samhalle/medeltiden/10-citat-fran-historiens-fruktansvarda-haxforfoljelser",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784350812000
+    },
+    {
+      "title": "Sommar i P1: Jan Rippe måste skämta med oss – det är ofattbart",
+      "description": "ALBIN JULIN: Så många [geting] får Jan Rippes sommarprat",
+      "link": "https://www.expressen.se/noje/sommar-i-p1-jan-rippe-maste-skamta-med-oss--det-ar-ofattbart/",
+      "guid": "https://www.expressen.se/noje/sommar-i-p1-jan-rippe-maste-skamta-med-oss--det-ar-ofattbart/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784350800000
+    },
+    {
+      "title": "Experten: Därför spred sig branden så fort i Drammen",
+      "description": "Några timmar efter det första larmet hade över hundra hem brunnit ned i norska Drammen. Flera olyckliga förhållanden fick elden att spridas snabbt, menar brandexperter. – Utomhus är förhållandena förmodligen de värsta tänkbara just nu, säger brandexperten Ruben Dobler Strand till VG .",
+      "link": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/experten-darfor-spred-sig-branden-sa-fort-i-drammen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784350277000
+    },
+    {
+      "title": "Snyltgäster, övernattning i bil och festbryggor – Så minns vi 2000-talets Hangöregatta och Popkalas",
+      "description": "Svettiga, bakfulla morgnar i bilen och söt, halvljummen cider på stranden präglade somrarna i Ekenäs och Hangö för 20 år sedan.",
+      "link": "https://yle.fi/a/7-10100552?origin=rss",
+      "guid": "https://yle.fi/a/7-10100552",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784349073000
+    },
+    {
+      "title": "Nya attacker mellan USA och Iran – sjunde natten",
+      "description": "USA:s militär uppger att den attackerat iranska vapenlager och militär infrastruktur – Iran säger sig ha anfallit amerikanska baser. För sjunde natten i rad har länderna nu riktat anfall mot varandra.",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-attacker-mellan-usa-och-iran-sjunde-natten/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-attacker-mellan-usa-och-iran-sjunde-natten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784348896000
+    },
+    {
+      "title": "Nvidias vd:s jacka såld för jättesumma",
+      "description": "En svart skinnjacka som burits av Nvidias vd Jensen Huang har sålts för 960 000 dollar på en auktion i New York under fredagen – långt över det förväntade slutpriset.",
+      "link": "https://www.expressen.se/ekonomi/tech/nvidias-vds-jacka-sald-for-jattesumma/",
+      "guid": "https://www.expressen.se/ekonomi/tech/nvidias-vds-jacka-sald-for-jattesumma/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784348214000
+    },
+    {
+      "title": "Det här irriterar er på sociala medier: Inga bara tår, döda djur och svampar, tack!",
+      "description": "Relationspodden undrade vad som irriterar er på sociala medier under sommaren, och ni sparade inte på krutet. Men varför blir man så provocerad?",
+      "link": "https://yle.fi/a/7-10102222?origin=rss",
+      "guid": "https://yle.fi/a/7-10102222",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784348160000
+    },
+    {
+      "title": "USA attackerade Iran för sjunde natten i rad",
+      "description": "Enligt Iran ska två oljefartyg ha exploderat i Hormuzsundet, vilket USA förnekar.",
+      "link": "https://yle.fi/a/7-10102333?origin=rss",
+      "guid": "https://yle.fi/a/7-10102333",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784348039000
+    },
+    {
+      "title": "Patrick Ekwall om hatet: ”De värsta är kvinnorna”",
+      "description": "Patrick Ekwall har gått från sportjournalist på TV4 till världsmästare i gåfotboll, deckarförfattare och spelmakare. Nu berättar han om livet efter tv-karriären, oväntade vänskaper i vildmarken – och varför han gärna skulle tacka ja till ”Förrädarna” om frågan äntligen kom. Och varför han just nu låter bli att prata om Hannah.",
+      "link": "https://www.expressen.se/nyheter/sverige/patrick-ekwall-om-hatet-de-varsta-ar-kvinnorna/",
+      "guid": "https://www.expressen.se/nyheter/sverige/patrick-ekwall-om-hatet-de-varsta-ar-kvinnorna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784347200000
+    },
+    {
+      "title": "Branden i Drammen inte under kontroll – regn och åska på väg",
+      "description": "Tidigt på lördagsmorgonen rasar branden fortfarande i norska Drammen. Men vid 09-tiden på morgonen har man fått kontroll på den, rapporterar NRK. Samtidigt hotar ett väderfenomen släckningsarbetet, rapporterar Dagbladet.",
+      "link": "https://www.expressen.se/nyheter/varlden/over-100-bostader-totalforstorda-i-drammen-branden/",
+      "guid": "https://www.expressen.se/nyheter/varlden/over-100-bostader-totalforstorda-i-drammen-branden/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784345801000
+    },
+    {
+      "title": "Så tänker finlandssvensk vingård i franska Provence överleva vinkrisen",
+      "description": "Klimatförändring och minskande efterfrågan får många franska vingårdar att gå under. En gård med nordiska ägare försöker i stället anpassa sig för att överleva.",
+      "link": "https://yle.fi/a/7-10099577?origin=rss",
+      "guid": "https://yle.fi/a/7-10099577",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784344711000
+    },
+    {
+      "title": "Din adress avgör om du får gratis p-piller",
+      "description": "Gratis preventivmedel erbjuds till unga i Finland, men villkoren varierar mellan välfärdsområden. Både åldergräns och stödets längd skiljer sig åt.",
+      "link": "https://yle.fi/a/7-10101094?origin=rss",
+      "guid": "https://yle.fi/a/7-10101094",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784343816000
+    },
+    {
+      "title": "Sanningen om hemliga koderna på campingen",
+      "description": "Vill man ha rajtantajtan med andra campinggäster knyter man ett rött band på förtältet. Det är väl sen gammalt – eller? – Alla platser har sina oskrivna regler, säger campingforskaren Hege Høyer Leivestad. ✓ Sexnätverkaren: Lyckligt ovetande. ✓ Därför älskar man den livsstilen.",
+      "link": "https://www.expressen.se/ekonomi/sanningen-om-hemliga-koderna-pa-campingen/",
+      "guid": "https://www.expressen.se/ekonomi/sanningen-om-hemliga-koderna-pa-campingen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784343600000
+    },
+    {
+      "title": "Ryska lyckan efter Zelenskyjs drag",
+      "description": "Omfattande protester har brutit ut i Ukraina efter att försvarsministern fått sparken. Men i Ryssland är glädjen stor över att Mikhail Fedorov tvingats avgå. ”Federov är alldeles för smart och effektiv som fiende”, skriver en pro-rysk bloggare.",
+      "link": "https://www.expressen.se/nyheter/varlden/ryska-lyckan-efter-zelenskyjs-drag/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryska-lyckan-efter-zelenskyjs-drag/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784342165000
+    },
+    {
+      "title": "Förväxlades som bebisar – fick veta 38 år senare",
+      "description": "I 35 år levde amerikanerna Kyle Bylin och Jeremy Morrison helt separata liv. Genom en slump upptäckte de att de växt upp med varandras biologiska familjer. Nu stämmer de sjukhuset som de misstänker förväxlade dem som bebisar. – Jag känner mig bestulen på det liv jag borde ha haft med min biologiska son, säger mamman Evelyn Newton till AP .",
+      "link": "https://www.expressen.se/nyheter/varlden/forvaxlades-som-bebisar-fick-veta-38-ar-senare/",
+      "guid": "https://www.expressen.se/nyheter/varlden/forvaxlades-som-bebisar-fick-veta-38-ar-senare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784337237000
+    },
+    {
+      "title": "Dog i båtolyckan: ”Vi är förkrossade”",
+      "description": "Två har bekräftats döda och två saknas fortfarande efter båtolyckan i San Fransisco. ”Vi är förkrossade över förlusten av vår älskade mor, dotter, syster och moster”, skriver familjen om Tondra Madruga, 58, som dog.",
+      "link": "https://www.expressen.se/nyheter/varlden/dog-i-batolyckan-vi-ar-forkrossade/",
+      "guid": "https://www.expressen.se/nyheter/varlden/dog-i-batolyckan-vi-ar-forkrossade/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784332176000
+    },
     {
       "title": "CIA: Ryska soldater dör efter 30 minuter",
       "description": "Ryska soldater dör efter 30 minuter på slagfältet. Det visar amerikanska underrättelser, enligt CIA-chefen John Ratcliffe – Underrättelseuppgifterna stämmer överens med vissa öppna källor, säger han enligt Bloomberg .",
@@ -22,16 +382,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784329847000
-    },
-    {
-      "title": "En död på Disneyland",
-      "description": "Dödsfall i nöjesparken i Florida",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=efba1c07-6587-4aab-b36c-e5a483c65caf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=efba1c07-6587-4aab-b36c-e5a483c65caf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784329733000
     },
     {
       "title": "Var på flykt i 20 år – gripen för sexbrott",
@@ -54,26 +404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784329200000
     },
     {
-      "title": "Båt på E4",
-      "description": "Norr om Stockholm • ”Flera samtal”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab2cb0c4-f81f-4b00-a8f5-e4785bf88b57",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ab2cb0c4-f81f-4b00-a8f5-e4785bf88b57",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784326794000
-    },
-    {
-      "title": "Fyrhjulingsolycka i södra Östergötland",
-      "description": "En till sjukhus i Kinda",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2fec0744-9741-4c9a-b45a-7a1059c8884b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2fec0744-9741-4c9a-b45a-7a1059c8884b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784326750000
-    },
-    {
       "title": "Golfing the British Isles",
       "description": "",
       "link": "https://uncrate.com/golfing-the-british-isles/",
@@ -82,36 +412,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784325600000
-    },
-    {
-      "title": "Dog efter förgiftade drinkar – åtalet väcker ilska",
-      "description": "Sex turister dog efter att ha druckit förgiftade drinkar på ett vandrarhem i Laos för två år sedan. Nu väcks åtal – men beskedet väcker stark ilska hos de anhöriga. – Jag har inga ord för den avsky jag känner, säger pappan till ett av offren till ABC.",
-      "link": "https://www.expressen.se/nyheter/varlden/dog-efter-forgiftade-drinkar-atalet-vacker-ilska-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/dog-efter-forgiftade-drinkar-atalet-vacker-ilska-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784323897000
-    },
-    {
-      "title": "Stort slagsmål i Mölndal",
-      "description": "Storbråk under Gothia Cup",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0cf3afa2-f974-484c-a5b2-3cf71a4ddd4d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0cf3afa2-f974-484c-a5b2-3cf71a4ddd4d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784322938000
-    },
-    {
-      "title": "Malariautbrott på flygplats",
-      "description": "Malaria i Frankfurt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8ef6651-5a27-4bbc-95fb-52570b938bfb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8ef6651-5a27-4bbc-95fb-52570b938bfb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784322798000
     },
     {
       "title": "Penfold x Uncrate Heart & Spade Golf Balls",
@@ -134,16 +434,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784320798000
     },
     {
-      "title": "Person fast i hiss",
-      "description": "Räddningsinsats i Norrköping",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a6e6bc99-cba5-4ae6-8998-26ca2bad46d8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a6e6bc99-cba5-4ae6-8998-26ca2bad46d8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784320481000
-    },
-    {
       "title": "Vacheron Constantin Overseas 34.5mm Watch",
       "description": "",
       "link": "https://uncrate.com/vacheron-constantin-overseas-345mm-watch/",
@@ -152,26 +442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784318400000
-    },
-    {
-      "title": "Trump hotar Kanada med strafftullar – efter skogsbränder",
-      "description": "Rök från Kanadas skogsbränder drabbar USA. Nu rasar president Donald Trump – och hotar med strafftullar mot Kanada. ”Jag kommer att ringa premiärministern under dagen för att ta reda på vad de tänker göra åt detta”, skriver han på Truth social.",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-hotar-kanada-med-strafftullar-efter-skogsbrander/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-hotar-kanada-med-strafftullar-efter-skogsbrander/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784318118000
-    },
-    {
-      "title": "Nödläge på grekiska öarna – vattnet på väg att ta slut",
-      "description": "Sju grekiska öar har utlyst nödläge på grund av vattenbrist och torka. Samtidigt når turistsäsongen sin topp och vattenförbrukningen mångdubblas, rapporterar Independent.",
-      "link": "https://www.expressen.se/nyheter/varlden/nodlage-pa-grekiska-oarna-vattnet-pa-vag-att-ta-slut/",
-      "guid": "https://www.expressen.se/nyheter/varlden/nodlage-pa-grekiska-oarna-vattnet-pa-vag-att-ta-slut/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784318110000
     },
     {
       "title": "Hisense 65\" Class U6 Series Smart Fire TV",
@@ -234,16 +504,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784313000000
     },
     {
-      "title": "Man död efter drunkningslarm i Söderköping",
-      "description": "Man drogs upp ur vattnet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=98b21a15-c365-4e9d-a8d2-1507e15a4643",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=98b21a15-c365-4e9d-a8d2-1507e15a4643",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784312489000
-    },
-    {
       "title": "Över 100 bostäder förstörda i storbrand i Drammen i Norge",
       "description": "En häftig brand bröt ut i kommunen Drammen i Norge under fredagseftermiddagen. Över 100 bostäder har förstörts och branden härjade fortfarande sent på kvällen.",
       "link": "https://yle.fi/a/7-10102325?origin=rss",
@@ -292,16 +552,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784311092000
-    },
-    {
-      "title": "Väderkaos i Sverige – dubbla stormar ställer till det",
-      "description": "På lördag kommer kylan och regnet. Men redan under fredagskvällen stormar det i Skåne och Dalarna. – Personal med motorsågar hjälper till att göra körbanan fri igen, säger Henrik Eriksson vid räddningstjänsten.",
-      "link": "https://www.expressen.se/nyheter/sverige/vaderkaos-i-sverige-dubbla-stormar-staller-till-det/",
-      "guid": "https://www.expressen.se/nyheter/sverige/vaderkaos-i-sverige-dubbla-stormar-staller-till-det/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784310847000
     },
     {
       "title": "Två dog i frontalkrock med sopbil – barn allvarligt skadade",
@@ -362,26 +612,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784309353000
-    },
-    {
-      "title": "Det droppar ur Gretas näsa – ingen vet varför",
-      "description": "Greta, 25, har ett problem. Det droppar vätska från hennes näsa – och läkarna vet inte varför.",
-      "link": "https://www.expressen.se/nyheter/sverige/det-droppar-ur-gretas-nasa-ingen-vet-varfor/",
-      "guid": "https://www.expressen.se/nyheter/sverige/det-droppar-ur-gretas-nasa-ingen-vet-varfor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784309090000
-    },
-    {
-      "title": "Forsell efter utvisade knivmannens återvändo: ”Fullständigt bisarrt”",
-      "description": "En man som utvisats från Sverige efter en dom för grov misshandel kunde återvända till Sverige utan att stoppas i någon gränskontroll. Nu riktar migrationsminister Johan Forsell (M), skarp kritik mot systemet. – Det är fullständigt bisarrt, säger Forsell.",
-      "link": "https://www.expressen.se/nyheter/sverige/forsell-efter-utvisade-knivmannens-atervando-fullstandigt-bisarrt-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/forsell-efter-utvisade-knivmannens-atervando-fullstandigt-bisarrt-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784308098000
     },
     {
       "title": "Googles bildsök firar 25 år",
@@ -452,36 +682,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784305800000
-    },
-    {
-      "title": "Översvämningar i södra Sverige",
-      "description": "Plötsliga skyfall över Skåne",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=79e16202-5671-4adf-9fba-857126862c7c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=79e16202-5671-4adf-9fba-857126862c7c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784305371000
-    },
-    {
-      "title": "Trump vill tjäna pengar på sina utspel",
-      "description": "Långa haranger med plötsliga versaler – och gott om skiljetecken. Donald Trump har gjort Truth Social till sin megafon. Nu vill han tjäna pengar på utspelen.",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-vill-tjana-pengar-pa-sina-utspel/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-vill-tjana-pengar-pa-sina-utspel/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784304829000
-    },
-    {
-      "title": "Experten om Trump efter talet: ”Han är mycket orolig”",
-      "description": "En del av ett tydligt mönster. Så förklarar Dag Blanck, USA-expert, Trumps nya påståenden om valpåverkan. – Om han eller hans parti förlorar ett val, då menar han att något är fel.",
-      "link": "https://www.expressen.se/nyheter/varlden/experten-om-trump-efter-talet-han-ar-mycket-orolig/",
-      "guid": "https://www.expressen.se/nyheter/varlden/experten-om-trump-efter-talet-han-ar-mycket-orolig/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784304627000
     },
     {
       "title": "Konfigurera din BMW med ChatGPT",
@@ -654,16 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784295827000
     },
     {
-      "title": "S stoppar nya partier: Vägrar lämna ut portkoder",
-      "description": "Socialdemokraterna i Umeå vill inte ha fler partier i kommunfullmäktige. En metod är att inte ge portkoder till hyreshus till alla partier. Socialdemokraterna och Miljöpartiet styr Umeå i minoritet. I vissa budgetfrågor och annat samarbetar man med Vänsterpartiet och får då majoritet. Det har man uppenbarligen tänkt fortsätta med, att styra Umeå kommun alltså. Då […]",
-      "link": "https://www.dagensps.se/varlden/s-stoppar-nya-partier-lamnar-inte-ut-portkoder/",
-      "guid": "https://www.dagensps.se/?p=1656853",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/https-wwwbostadenumea-se-wp-content-uplo-1-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784295687000
-    },
-    {
       "title": "Nu kan du göra selfievideor med Google Vids",
       "description": "Med hjälp av AI-modellen Omni Google har integrerat sin senaste text-till-video-modell Omni i sin videotjänst Google Vids vilket gör det enkelt att skapa och redigera korta videoklipp genom att mata in text och bilder i Google Vids. Med Omni i Google Vids blir det även möjligt att lägga in en digital avatar på sig själv som man sedan kan använda i videoklippen. Ni kan se ett exempel på det här nedanför. De nya möjligheterna att skapa och redigera videoklipp i Google Vids med Omni samt avatarfunktionen är tillgängliga för Google AI Pro- och Ultra-användare samt Google Workspace företagskunder. I vissa regioner måste man vara över 18 år för att använda avatarfunktionen. I videosnurran nedan hittas två videoklipp där Google visar hur man skapar och redigerar videoklipp med Omni i Google Vids. L&auml;s vidare och kommentera: https://feber.se/internet/nu-kan-du-gora-selfievideor-med-google-vids/494170/ L&auml;s mer om Omni , Vids , AI , Workspace , Avatar , Video",
       "link": "https://feber.se/internet/nu-kan-du-gora-selfievideor-med-google-vids/494170/?utm_source=rss&utm_medium=feed",
@@ -684,26 +874,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784294800000
     },
     {
-      "title": "Korruptionsmisstankar, miljonstöd och statsministerns roll – 5 punkter om Garden Helsinki",
-      "description": "Ordparet Garden Helsinki har dominerat i rubrikerna de senaste veckorna. Om du har svårt att hänga med i turerna – här är affären förklarad i fem punkter.",
-      "link": "https://yle.fi/a/7-10102310?origin=rss",
-      "guid": "https://yle.fi/a/7-10102310",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784293747000
-    },
-    {
-      "title": "Man försvunnen i Karleby – polisen ber om iakttagelser",
-      "description": "Polisinrättningen i Österbotten söker en man född 1995 som försvann i Karleby natten till onsdagen.",
-      "link": "https://yle.fi/a/7-10102322?origin=rss",
-      "guid": "https://yle.fi/a/7-10102322",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784293252000
-    },
-    {
       "title": "Tesla börjar sälja barncykel",
       "description": "Har varken pedaler eller motor Tesla har börjat sälja ytterligare en produkt för dem som inte har åldern inne att glida fram i en av företagets bilar. Den här gången handlar det om en balanscykel för barn mellan 3-5 år som är avsedd för barn att få upp balansen innan de börjar cykla på en cykel med pedaler. Teslas \"Balance Bike for Kids\" riktar sig till barn som väger upp till 35 kg och har en benlängd på minst 35 centimeter. Cykelsadeln går att justera i fem olika lägen. Teslas balanscykel för barn kostar 225 dollar, motsvarande närmare 2200 kronor, och ska börja levereras i slutet av augusti. L&auml;s vidare och kommentera: https://feber.se/fordon/tesla-borjar-salja-barncykel/494179/ L&auml;s mer om Tesla , Barn , Balans , Fordon , Leksaker",
       "link": "https://feber.se/fordon/tesla-borjar-salja-barncykel/494179/?utm_source=rss&utm_medium=feed",
@@ -714,36 +884,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784293200000
     },
     {
-      "title": "Fenomenal start av Sami Pajari i Estlands VM-rally: ”Kan rekommendera den här känslan”",
-      "description": "Allt har gått perfekt för Sami Pajari under inledningen av VM-rallyt i Estland. Pajari var snabbast samtliga specialsträckor under fredagen.",
-      "link": "https://yle.fi/a/7-10102321?origin=rss",
-      "guid": "https://yle.fi/a/7-10102321",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784293107000
-    },
-    {
-      "title": "Skottlossning i Ålborg: Två personer har skadats och en dött",
-      "description": "Tre personer träffades av skott i en skottväxling i Nørresundby norr om Ålborg under fredag eftermiddag.",
-      "link": "https://yle.fi/a/7-10102320?origin=rss",
-      "guid": "https://yle.fi/a/7-10102320",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784292990000
-    },
-    {
-      "title": "Orpo anmäld för eventuellt jäv i räddning av Valmets bilfabrik",
-      "description": "Klagomålen handlar om att statsminister Petteri Orpo inte anmälde sig jävig då staten satsade 120 miljoner euro i Valmets bilfabrik i höstas.",
-      "link": "https://yle.fi/a/7-10102315?origin=rss",
-      "guid": "https://yle.fi/a/7-10102315",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784291660000
-    },
-    {
       "title": "Snart kan du pratar med Fortnite-karaktärer",
       "description": "NPC-karaktärer får liv med AI Epic Games introducerar nu AI-drivna röster och personligheter i Fortnite. Det innebär att du snart kommer kunna ha samtal i realtid med figurer i spelet. AI:n är baserad på Gemini och initialt är det 36 klassiska Fortnite-karaktärer som kommer få tekniken, bland annat Fishstick och Cuddle Team Leader. Målet är att de ska låta och bete sig precis som fansen förväntar sig, men hur det blir med det återstår väl att se. Från och med den 30 juli blir verktyget tillgängligt för alla som skapar egna öar i spelet. Sen lär det väl dyka upp i det vanliga spelet vid ett senare tillfälle. Epic Games säger att röstmodellerna är framtagna i samarbete med professionella röstskådespelare som gett sitt medgivande till att de används med AI. L&auml;s vidare och kommentera: https://feber.se/spel/snart-kan-du-pratar-med-fortnite-karaktarer/494169/ L&auml;s mer om Epic Games , Fortnite , AI , Gemini , Fishstick , Cuddle Team Leader",
       "link": "https://feber.se/spel/snart-kan-du-pratar-med-fortnite-karaktarer/494169/?utm_source=rss&utm_medium=feed",
@@ -752,16 +892,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784291400000
-    },
-    {
-      "title": "Man i Ingå fifflade med skatterna när han renoverade sitt hus",
-      "description": "En man i 40-årsåldern renoverade sitt hus med företagets pengar och undvek därmed tusentals euro i skatt. Nu döms mannen till villkorligt fängelse.",
-      "link": "https://yle.fi/a/7-10100281?origin=rss",
-      "guid": "https://yle.fi/a/7-10100281",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784290626000
     },
     {
       "title": "Djupt inne i en grotta har forskare gjort en fasansfull upptäckt, som avslöjar dramatisk händelse för 145 000 år sedan",
@@ -782,36 +912,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784289600000
-    },
-    {
-      "title": "Kan man få borrelia av en broms? Anders blev biten och sedan blev han sjuk",
-      "description": "Anders Blomberg blev biten av en broms, och insjuknade i borrelia. Extremt osannolikt, säger expert. Sambandet är svårt att bevisa medicinskt.",
-      "link": "https://yle.fi/a/7-10102265?origin=rss",
-      "guid": "https://yle.fi/a/7-10102265",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784289379000
-    },
-    {
-      "title": "Det går bra att simma vid Sundets badstrand i Kyrkslätt igen",
-      "description": "Under början av veckan uppmättes förhöjda nivåer E.coli och enterokocker vid Sundets badstrand, men nya prover visar att vattnet återgått till normalläge.",
-      "link": "https://yle.fi/a/7-10102299?origin=rss",
-      "guid": "https://yle.fi/a/7-10102299",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784288666000
-    },
-    {
-      "title": "Regerande mästaren Toni Keränen tvingas stå över säsongen: ”Irriterande att bara titta på”",
-      "description": "Spjutkastaren Toni Keränen lider av en trilskande armbåge. Det kan hända att han måste lägga sig på operationsbordet – igen.",
-      "link": "https://yle.fi/a/7-10102313?origin=rss",
-      "guid": "https://yle.fi/a/7-10102313",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784288334000
     },
     {
       "title": "Claude kan nu logga in åt dig via 1Password",
@@ -1124,16 +1224,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784268297000
     },
     {
-      "title": "Andrew Garfield leder folkligt uppror i nytt historiskt drama",
-      "description": "Här är trailern för The Uprising Den 11 september har filmen The Uprising premiär. I den filmen spelar Andrew Garfield en upprorsledare som vägrar att böja sig för kung Rickard II:s hårda styre. Berättelsen följer hur en armé av vanliga medborgare tvingas gå samman för att utmana monarkins makt i en desperat kamp för både rättvisa och sin egen överlevnad. Filmen är regisserad av Paul Greengrass som gjort filmer som Green Zone och en del Bourne-filmer. The Uprising har premiär den 11 september. L&auml;s vidare och kommentera: https://feber.se/film/andrew-garfield-leder-folkligt-uppror-i-nytt-historiskt-drama/494151/ L&auml;s mer om The Uprising , Andrew Garfield , Rickard II , Paul Greengrass , Green Zone , Bourne",
-      "link": "https://feber.se/film/andrew-garfield-leder-folkligt-uppror-i-nytt-historiskt-drama/494151/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/andrew-garfield-leder-folkligt-uppror-i-nytt-historiskt-drama/494151/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784268000000
-    },
-    {
       "title": "Sommarens bästa boxviner: ”Utmärkt”",
       "description": "Det finns ett stort antal boxviner att välja på och här tipsar vinexperten om de tio bästa sommaren 2026 – rött, vitt och rosé.",
       "link": "https://alltommat.expressen.se/dryck/vin/sommarens-basta-boxviner-utmarkt/",
@@ -1252,16 +1342,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784239200000
-    },
-    {
-      "title": "Kort liten trailer för Marvel’s Wolverine",
-      "description": "Som exklusivt till PlayStation 5 den 15 september Här har vi en ny trailer för Insomniacs kommande spel Marvel's Wolverine som är på gång för PlayStation 5. Trailern visar bland annat upp spelets version av Lady Deathstrike som leder en armé av röda ninjor. Marvel’s Wolverine släpps den 15 september. L&auml;s vidare och kommentera: https://feber.se/spel/kort-liten-trailer-for-marvels-wolverine/494152/ L&auml;s mer om Insomniac , Marvel , Wolverine , PlayStation",
-      "link": "https://feber.se/spel/kort-liten-trailer-for-marvels-wolverine/494152/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/kort-liten-trailer-for-marvels-wolverine/494152/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784238060000
     },
     {
       "title": "Garb: Cliffside",
@@ -1564,21 +1644,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784179080000
     },
     {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
       "title": "Därför har SL byggt om i Mörby centrum",
       "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
       "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784178000000
@@ -2454,16 +2534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783974632000
     },
     {
-      "title": "Mängder av paleontologer medger misstag: Nytt fynd sår tvivel om 25 års forskning om Tyrannosaurus rex",
-      "description": "Lindsay Zanno har forskat om rovdinosaurier i årtionden, men inget slår det fossil som hon nyligen undersökte. ”Dess betydelse är svår att överskatta”, säger hon – och hon överdriver inte. Hennes banbrytande upptäckt vänder nämligen upp och ner på 25 års forskning om Tyrannosaurus rex.",
-      "link": "https://illvet.se/forntiden/dinosaurier/mangder-av-paleontologer-medger-misstag-nytt-fynd-sar-tvivel-om-25-ars-forskning-om-tyrannosaurus-rex",
-      "guid": "https://illvet.se/forntiden/dinosaurier/mangder-av-paleontologer-medger-misstag-nytt-fynd-sar-tvivel-om-25-ars-forskning-om-tyrannosaurus-rex",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1783971029000
-    },
-    {
       "title": "1 av 4 stockholmare tror att husdjuret kan ärva en",
       "description": "Enligt en undersökning tror en av fyra stockholmare att husdjur juridiskt kan ärva ens pengar.",
       "link": "https://www.mitti.se/nyheter/1-av-4-stockholmare-tror-att-husdjuret-kan-arva-en-6.3.375825.d6d10f4b51",
@@ -2624,26 +2694,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1783937021000
     },
     {
-      "title": "Parmesangratinerad crostini med mascarpone",
-      "description": "Lyxigt enkelt och fulladdat med smak. Dessa parmesangratinerade crostini, med mascarpone och ugnsbakade tomater är perfekta som tilltugg. Kombinationen av krämig mascarpone, sötsyrliga tomater och krispiga ostflarn gör varje tugga oemotståndlig.",
-      "link": "https://alltommat.expressen.se/recept/parmesangratinerad-crostini-med-mascarpone/",
-      "guid": "https://alltommat.expressen.se/recept/parmesangratinerad-crostini-med-mascarpone/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1783936982000
-    },
-    {
-      "title": "Lättbakat nattjäst bröd i långpanna",
-      "description": "Brödet kalljäser under natten, bara att ta fram och grädda.",
-      "link": "https://alltommat.expressen.se/recept/lattbakat-nattjast-brod-i-langpanna/",
-      "guid": "https://alltommat.expressen.se/recept/lattbakat-nattjast-brod-i-langpanna/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1783935578000
-    },
-    {
       "title": "Öppna träningar vecka 29",
       "description": "Här är veckans öppna träningar. Herrlaget tränar på Årsta IP. Damlaget tränar på Hammarby IP.Med reservation för ändringar med kort varsel.Herrlagets öppna träningar vecka 29Onsdag 15 juli10.00-11.30T",
       "link": "https://www.hammarbyfotboll.se/nyheter/oeppna-traeningar-vecka-292026",
@@ -2662,16 +2712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783931116000
-    },
-    {
-      "title": "Sommardrink med jordgubbar, granatäpple och apelsin",
-      "description": "Fräsch sommardrink med en lite bitter ton av Campari och granatäpple. Se till att använda riktigt mogna jordgubbar så bidrar de med en liten fin sötma.",
-      "link": "https://alltommat.expressen.se/recept/sommardrink-med-jordgubbar-granatapple-och-apelsin/",
-      "guid": "https://alltommat.expressen.se/recept/sommardrink-med-jordgubbar-granatapple-och-apelsin/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1783930767000
     },
     {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
@@ -2712,16 +2752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1783921938000
-    },
-    {
-      "title": "Forskare återskapar 500 år gamla guldörhängen från Mingdynastin – och löser mysteriet kring en bortglömd teknik",
-      "description": "Guldörhängena med den speciella räfflade ytan var under Mingdynastin mycket populära bland Kinas adelsmän. Men hur Kinas guldsmeder skapade de små detaljerna har hittills varit en gåta för forskarna.",
-      "link": "https://varldenshistoria.se/civilisationer/det-gamla-kina/forskare-aterskapar-500-ar-gamla-guldorhangen-fran-mingdynastin-och-loser-mysteriet-kring-en-bortglomd-teknik",
-      "guid": "https://varldenshistoria.se/civilisationer/det-gamla-kina/forskare-aterskapar-500-ar-gamla-guldorhangen-fran-mingdynastin-och-loser-mysteriet-kring-en-bortglomd-teknik",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1783918813000
     },
     {
       "title": "Ny permanent gågata och cykellekpark vid Nytorget",
