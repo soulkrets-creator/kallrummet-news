@@ -1,8 +1,358 @@
 {
-  "updatedAt": "2026-07-19T07:49:49.097Z",
+  "updatedAt": "2026-07-19T12:06:15.943Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Ny tävling hyllar disketten",
+      "description": "Spelutveckling på 1,44 MB Den sydkoreanska spelsajten 2P_Game_Arcade har dragit igång en rätt så kul tävling där utvecklare ska skapa ett spel som får plats på en diskett, det vill säga 1,44 MB. Allt från spelmotor till grafik och ljud måste rymmas på det klassiska diskettformatet. Det är inte tillåtet att använda webbläsare eller strömma data från nätet; spelet måste vara helt fristående. Syftet med utmaningen är att tvinga utvecklare att tänka kreativt och hitta kärnan i vad som faktiskt gör ett spel roligt, utan att förlita sig på enorma filstorlekar. Tävlingen är öppen för alla och i prispotten hittar man totalt 1,14 miljoner koreanska won, vilket motsvarar ungefär 7 500 svenska kronor. Även om summan inte är enorm, handlar tävlingen främst om äran och hantverket i att koda effektivt. Deltagarna har fram till den 4 september på sig att skicka in sina bidrag. L&auml;s vidare och kommentera: https://feber.se/pc/ny-tavling-hyllar-disketten/494201/ L&auml;s mer om 2P_Game_Arcade , Spelutveckling , Diskett , Programmering , Speltävling",
+      "link": "https://feber.se/pc/ny-tavling-hyllar-disketten/494201/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/ny-tavling-hyllar-disketten/494201/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784462400000
+    },
+    {
+      "title": "Radhus evakuerat",
+      "description": "Brand i Botkyrka",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=55ee829b-c144-49c9-9d98-92be3f2e1ce6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=55ee829b-c144-49c9-9d98-92be3f2e1ce6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784461315000
+    },
+    {
+      "title": "Bill Pultes skräck inför talet: Hade utsatt tjänstemän för livsfara",
+      "description": "Bill Pulte uppmanade Trump att namnge tjänstemän som anklagats för att ha mörkat valpåverkan, enligt källor till Politico Sedan ångrade han sig tvärt. – Pulte blev livrädd av hela grejen och backade, säger en högt uppsatt källa till tidningen.",
+      "link": "https://www.expressen.se/nyheter/varlden/bill-pultes-skrack-infor-talet-hade-utsatt-tjansteman-for-livsfara/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bill-pultes-skrack-infor-talet-hade-utsatt-tjansteman-for-livsfara/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784461124000
+    },
+    {
+      "title": "Sami Pajari höll nerverna i styr och tog karriärens första VM-rallyseger – dominerade i de estniska skogarna",
+      "description": "Sami Pajari gick inte att stoppa i det estniska VM-rallyt. Med karriärens första seger blev han den 17:e finländaren att vinna en deltävling i VM-serien.",
+      "link": "https://yle.fi/a/7-10102373?origin=rss",
+      "guid": "https://yle.fi/a/7-10102373",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784459879000
+    },
+    {
+      "title": "Fästingarna frodas i det varmfuktiga vädret – rekordmånga observationer i huvudstadsregionen",
+      "description": "Det finns fler fästingar i år än vanligt, rapporterar Åbo universitet.",
+      "link": "https://yle.fi/a/7-10102375?origin=rss",
+      "guid": "https://yle.fi/a/7-10102375",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784459792000
+    },
+    {
+      "title": "Presidentval: Tillgänglig men ”inte redo”",
+      "description": "Presidentval i Frankrike om ett år. Splittring bland de demokratiska partierna som utmanas från höger. Nu lanseras en oväntad kandidat. Europeiska centralbanken har en avgående chef i Christine Lagarde, som i sin tur har en bakgrund som fransk regeringsmedlem med ansvar för ekonomi och handel. Den bakgrunden och hennes starka ställning som person, gör att […]",
+      "link": "https://www.dagensps.se/varlden/presidentval-tillganglig-men-inte-redo/",
+      "guid": "https://www.dagensps.se/?p=1657133",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlmiyrxbva9d4-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784458992000
+    },
+    {
+      "title": "Googles 3D-emojis blir öppen källkod",
+      "description": "Så du kan använda dem i dina egna 3D-projekt I samband med World Emoji Day har Google släppt sin samling av 3D-emojis (Noto Emoji 3D) som öppen källkod. Det innebär att man kan få tillgång till filerna i .OBJ-format för att använda dem som 3D-modeller i sina egna projekt. Genom att göra materialet fritt hoppas Google att fler människor ska använda det i sina egna projekt. När dessa nya 3D-emojis visades upp tidigare i år fick de ett blandat mottagande, men det återstår väl att se om communityn nu anammar dem mer när de blir fria att använda. L&auml;s vidare och kommentera: https://feber.se/internet/googles-3d-emojis-blir-oppen-kallkod/494203/ L&auml;s mer om Google , Noto Emoji , 3D , Open Source , Design",
+      "link": "https://feber.se/internet/googles-3d-emojis-blir-oppen-kallkod/494203/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/googles-3d-emojis-blir-oppen-kallkod/494203/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784458800000
+    },
+    {
+      "title": "Skrattet i halsen på konkurrenterna – Nissan Qashqai firar fyra miljoner sålda i Europa",
+      "description": "Nissan Qashqai har nått en historisk milstolpe. Sedan modellen lanserades 2006 har över fyra miljoner exemplar sålts i Europa, vilket gör den till en av de mest framgångsrika familjebilarna i modern tid. Populär i Europa Nissan har blivit populärt av flera orsaker, särskilt i Europa och Norden. En viktig anledning är att Nissan länge har […]",
+      "link": "https://www.dagensps.se/motor/skrattet-i-halsen-pa-konkurrenterna-nissan-qashqai-firar-fyra-miljoner-salda-i-europa/",
+      "guid": "https://www.dagensps.se/?p=1657132",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlym4kkeodqp0-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784458730000
+    },
+    {
+      "title": "Teorin: Så startade branden",
+      "description": "Samlar in bilder och filmer från misstänkta platsen i Drammen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9328f5f5-f1d6-40cd-ae6f-05227ee90fb7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9328f5f5-f1d6-40cd-ae6f-05227ee90fb7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784457865000
+    },
+    {
+      "title": "Sköldpadda hittad",
+      "description": "Låg under traktor – ägaren har inte identifierats",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f2b2b2f9-542e-477d-8271-e95c36a247ed",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f2b2b2f9-542e-477d-8271-e95c36a247ed",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784457670000
+    },
+    {
+      "title": "Jon Ragnar fick ett ovanligt bett: ”Intensiv smärta”",
+      "description": "Aj! När Jon Ragnar Skotte klippte gräset kände han ett skarpt bett i fotleden – från en ovanlig insekt. – Sen fick jag en stor, stor blåsa med vätska i, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/jon-ragnar-fick-ett-ovanligt-bett-intensiv-smarta/",
+      "guid": "https://www.expressen.se/nyheter/varlden/jon-ragnar-fick-ett-ovanligt-bett-intensiv-smarta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784457315000
+    },
+    {
+      "title": "Apple begränsar annonser i Kartor för att slippa rörmokare",
+      "description": "Satsar på tips om caféer istället för hushållstjänster När Apple inom kort introducerar annonser i sin kartapp kommer de att gå en annan väg än konkurrenterna. Enligt företagets senaste riktlinjer kommer vissa typer av lokala tjänster att portas helt från plattformen för att istället ge plats åt upplevelser och sevärdheter. Det kanske mest anmärkningsvärda i de nya reglerna är förbudet mot annonser för hushållstjänster. Det innebär att användare inte kommer att mötas av reklam för exempelvis rörmokare, elektriker, låssmeder eller takläggare när de navigerar i Apple Kartor. Apple motiverar beslutet med att de vill att Apple Kartor ska vara en plats för upptäckande. Istället för praktiska hushållstjänster vill de lyfta fram caféer, restauranger och butiker, det vill säga platser som, enligt Apple, inspirerar användaren att ge sig ut. Utöver hantverkstjänster förbjuds även reklam för kryptovalutaautomater, politiska budskap och generellt vilseledande innehåll. Genom att vara selektiva hoppas Apple att annonserna ska kännas mindre störande och mer som relevanta tips för den som vill utforska sin omgivning. Annonser i Apple Kartor förväntas rullas ut i USA och Kanada under sommaren. När de når den europeiska marknaden återstår dock att se. L&auml;s vidare och kommentera: https://feber.se/mac/apple-begransar-annonser-i-kartor-for-att-slippa-rormokare/494204/ L&auml;s mer om Apple , Maps , reklam , annonser , teknik , tjänster , marknadsföring",
+      "link": "https://feber.se/mac/apple-begransar-annonser-i-kartor-for-att-slippa-rormokare/494204/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mac/apple-begransar-annonser-i-kartor-for-att-slippa-rormokare/494204/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784455200000
+    },
+    {
+      "title": "Omtvistad förskola kan bli årets byggnad i Sundbyberg",
+      "description": "Dags att utse Årets byggnad i Sundbyberg – Västra Brotorp förskola en av de nominerade.",
+      "link": "https://www.mitti.se/nyheter/omtvistad-forskola-kan-bli-arets-byggnad-i-sundbyberg-6.3.375016.344179bbb8",
+      "guid": "https://www.mitti.se/nyheter/omtvistad-forskola-kan-bli-arets-byggnad-i-sundbyberg-6.3.375016.344179bbb8",
+      "image": "https://www.mitti.se/image-3.376438.300178.20260719103004.155ca6d607?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784455200000
+    },
+    {
+      "title": "Bostadsmarknaden ser ljus ut framöver i Sverige – tempot ökar",
+      "description": "Efter flera år av osäkerhet börjar den svenska bostadsmarknaden visa tydliga tecken på stabilisering. Marknaden verkar ha landat i en säkerhet där tempot kommer vridas upp under hösten. Bara en marginell nedgång syns i framtidstron på bostadspriserna, och bara ett fåtal tror på fallande priser, som Dagens PS berättat. När det gäller räntorna finns det […]",
+      "link": "https://www.dagensps.se/privatekonomi/bostadsmarknaden-ser-ljus-ut-framover-i-sverige-tempot-okar/",
+      "guid": "https://www.dagensps.se/?p=1657101",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlp3ismlcnucq-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784454993000
+    },
+    {
+      "title": "Förlorar mångmiljard-tvist i rysk domstol",
+      "description": "Euroclear har förlorat ett överklagande i rysk domstol, kring frysta ryska tillgångar på motsvarande 2 200 miljarder. Det handlar om de drygt 200 miljarder euro, motsvarande 2 200 miljarder svenska kronor, som fryst i väst. Euroclear, en Bryssel-baserad leverantör av finansiella tjänster, hanterar något motvilligt dessa tillgångar och har därmed blivit part i en rysk domstol. Efter […]",
+      "link": "https://www.dagensps.se/varlden/forlorar-mangmiljard-tvist-i-rysk-domstol/",
+      "guid": "https://www.dagensps.se/?p=1657118",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlctyszwv3tea-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784454710000
+    },
+    {
+      "title": "Bergöfärjan stod stilla igen – men fortsätter trafikera",
+      "description": "Ett tips kom in till Yle om att problemen med Bergöfärjan har fortsatt under söndagen.",
+      "link": "https://yle.fi/a/7-10102374?origin=rss",
+      "guid": "https://yle.fi/a/7-10102374",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784454057000
+    },
+    {
+      "title": "Ryktet: Mellovinnaren Felicia hemlig gäst i Kisa",
+      "description": "Är Mellovinnaren Felicia den hemliga gästen på allsång i Kisa? Arrangören har varit nedringd i veckor. – Det är en lite olustig situation, säger allsångsgeneralen Anders Nilsson till Corren .",
+      "link": "https://www.expressen.se/noje/musik/ryktet-mellovinnaren-felicia-hemlig-gast-i-kisa/",
+      "guid": "https://www.expressen.se/noje/musik/ryktet-mellovinnaren-felicia-hemlig-gast-i-kisa/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784453044000
+    },
+    {
+      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+      "description": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784452753000
+    },
+    {
+      "title": "Dr Doom spår ljus och banbrytande framtid med AI",
+      "description": "Den profilerade domedagsprofeten Nouriel Roubini, känd som Dr Doom, har blivit mer optimistisk på sistone. När det gäller artificiell intelligens, AI, som många utmålar ett skräckscenario kring, tror Dr Doom att den nya tekniken kommer att revolutionera arbetsmarknaden i positiv mening. Han pratar om vikten av en universell basinkomst med anledning av det, alternativt ”någon […]",
+      "link": "https://www.dagensps.se/bors-finans/dr-doom-spar-ljus-och-banbrytande-framtid-med-ai/",
+      "guid": "https://www.dagensps.se/?p=1657110",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/drdoom.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784452592000
+    },
+    {
+      "title": "”Jag är extremt taggad” – Ekenäsbon Jakob Gottberg får chansen i Stockholmsklubben AIK",
+      "description": "Jakob Gottberg från Ekenäs står inför ett stort äventyr. Han får chansen att bli en del av Stockholmsklubben AIK:s juniorverksamhet.",
+      "link": "https://yle.fi/a/7-10102370?origin=rss",
+      "guid": "https://yle.fi/a/7-10102370",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784452233000
+    },
+    {
+      "title": "Så vill Kina styra Ryssland efter Putin",
+      "description": "Putin var Xi Jinpings förebild. Nu styr Xi honom. Kina förbereder redan tiden efter Putin och hur Ryssland ska styras av Kina. Fyra år av krig och ekonomisk isolering i ett nät av sanktioner, har förvandlat Ryssland och Vladimir Putin till en part som måste be om tjänster av Kina. Det är en relation som […]",
+      "link": "https://www.dagensps.se/varlden/sa-vill-kina-styra-ryssland-efter-putin/",
+      "guid": "https://www.dagensps.se/?p=1657102",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlg-33qx5uiee-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784452108000
+    },
+    {
+      "title": "Ukraina: Största robotangreppet sedan kriget började",
+      "description": "Ryssland har genomfört den största attacken med ballistiska robotar sedan kriget i Ukraina började, skriver Ukrainas utrikesminister Andrij Sybiha på X. Minst en person har dödats och flera har skadats.",
+      "link": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784452091000
+    },
+    {
+      "title": "Microsoft släpper källkoden till Comic Chat",
+      "description": "Chattklienten som gav oss Comic Sans finns nu på Github Microsoft har nu släppt källkoden för 90-talschattklassikern Comic Chat. Denna ganska unika chattklient förvandlade enkla IRC-chattrader till illustrerade serierutor i realtid, vilket kunde bli rätt skoj då programmet var smart nog att automatiskt generera både pratbubblor och ansiktsuttryck baserat på vad man skrev. En extra legendarisk grej som programmet förknippas med är dock typsnittet Comic Sans. Typsnittet skapades ursprungligen för Microsoft Bob, men kom att användas som standardtypsnitt i Comic Chat. Källkoden har lagts upp på GitHub och har uppdaterats för att fungera på moderna system. Du hittar allt via länken nedan. Bonusklipp nedan. L&auml;s vidare och kommentera: https://feber.se/pc/microsoft-slapper-kallkoden-till-comic-chat/494200/ L&auml;s mer om Microsoft , Comic Chat , IRC , Comic Sans , GitHub",
+      "link": "https://feber.se/pc/microsoft-slapper-kallkoden-till-comic-chat/494200/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/microsoft-slapper-kallkoden-till-comic-chat/494200/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784451600000
+    },
+    {
+      "title": "Kylian Mbappé blev alla tiders VM-målskytt – bad förbundskaptenen om ursäkt efter kollapsen: ”Vi svek honom”",
+      "description": "I förbundskaptenen Didier Deschamps sista match var Frankrike urusla i första halvlek. Trots en mäktig upphämtning räckte det inte hela vägen i bronsmatchen.",
+      "link": "https://yle.fi/a/7-10102371?origin=rss",
+      "guid": "https://yle.fi/a/7-10102371",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784451563000
+    },
+    {
+      "title": "Volvo Cars blickar mot nya marknader och modeller – när försäljningen dyker",
+      "description": "Volvo Cars kvartalsrapport blev dyster och omsättningen sjunker rejält. Försäljningen i Kina fortsätter att rasa så tillverkaren förlitar sig nu på nya marknader och modeller. Volvo Cars har släpat efter med sina elbilar i Kina ett bra tag nu, redan för ett år sedan kraschade försäljningen. Den senaste rapporten är heller ingen munter läsning. Aktien […]",
+      "link": "https://www.dagensps.se/motor/volvo-cars-blickar-mot-nya-marknader-och-modeller-nar-forsaljningen-stortdyker/",
+      "guid": "https://www.dagensps.se/?p=1657092",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlqh72kswby-k-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784450787000
+    },
+    {
+      "title": "AI-reklam sparar pengar, men priset kan bli förlorat förtroende",
+      "description": "Det finns många etiska frågor kring AI-genererad reklam. EU-lagen AI Act kommer att påverka industrin i viss grad.",
+      "link": "https://yle.fi/a/7-10100661?origin=rss",
+      "guid": "https://yle.fi/a/7-10100661",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784450713000
+    },
+    {
+      "title": "Bank avslöjar miljonlöner till Foodora-bud",
+      "description": "Nu slår banken i Norge larm om gig-ekonomins baksida — social dumpning i nordiskt matbud. ”Får det inte att gå ihop.” ”Vi såg flera bud med intäkter i Bergen-området. Ett bud från Foodora drog in över tre miljoner kronor”, berättar Karolina Marring på Sparbanken Norges i Bergen för norska Bergens Tidende. Banken har en avdelning […]",
+      "link": "https://www.dagensps.se/foretag/bank-avslojar-miljonloner-till-foodora-bud/",
+      "guid": "https://www.dagensps.se/?p=1657093",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/foodora-1.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784450308000
+    },
+    {
+      "title": "SMHI: Kraftiga regnskurar och risk för översvämningar",
+      "description": "Regnet fortsätter vräka ned. Under söndagen har SMHI utfärdat gula varningar för skyfallsliknande regn i delar av södra Sverige. – Det kan vara av och till, det kan dyka upp de här kraftigare skurarna ända in på måndagen, säger Sandra Fyrstedt, meteorolog på SMHI.",
+      "link": "https://www.expressen.se/nyheter/vader/smhi-kraftiga-regnskurar-och-risk-for-oversvamningar/",
+      "guid": "https://www.expressen.se/nyheter/vader/smhi-kraftiga-regnskurar-och-risk-for-oversvamningar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784449830000
+    },
+    {
+      "title": "Ryssland utförde krigets hittills största robotattack mot Kiev under natten",
+      "description": "President Zelenskyj uppmanar Ukrainas allierade att skicka luftvärnsrobotar.",
+      "link": "https://yle.fi/a/7-10102367?origin=rss",
+      "guid": "https://yle.fi/a/7-10102367",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784449229000
+    },
+    {
+      "title": "Grillad pluma med panderapotatis och örtaioli",
+      "description": "Pluma är ett mycket mört kött som grillas snabbt. Finns det inte i butiken kan den ersättas med fläskkarré, men se till att köpa kött av bra kvalitet. Panderapotatis är en spansk potatisrätt där den ugnsrostade potatisen får smak av vitt vin.",
+      "link": "https://alltommat.expressen.se/recept/grillad-pluma-med-panderapotatis-och-ortaioli/",
+      "guid": "https://alltommat.expressen.se/recept/grillad-pluma-med-panderapotatis-och-ortaioli/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784449167000
+    },
+    {
+      "title": "Rory McIlroy sågar amerikanska stjärnan efter fusket – så här är läget inför sista rundan av The Open",
+      "description": "Flera toppnamn har tätkänning inför söndagens avslutning av The Open. Stjärnan Rory McIlroy riktar en känga mot Bryson DeChambeau efter fredagens kontrovers.",
+      "link": "https://yle.fi/a/7-10102369?origin=rss",
+      "guid": "https://yle.fi/a/7-10102369",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784448731000
+    },
+    {
+      "title": "Flera skadade när hagelstorm avbröt Bad Bunnys konsert i Milano",
+      "description": "Konsertens cirka 80 000 åskådare evakuerades på grund av ovädret.",
+      "link": "https://yle.fi/a/7-10102365?origin=rss",
+      "guid": "https://yle.fi/a/7-10102365",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784448178000
+    },
+    {
+      "title": "Problem med Facebook",
+      "description": "Användare kan inte komma in, enligt Downdetector",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=34026dcb-5ff2-45bc-b93f-87b2a99b5c92",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=34026dcb-5ff2-45bc-b93f-87b2a99b5c92",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784448057000
+    },
+    {
+      "title": "EU vill förenkla bankernas regelverk",
+      "description": "Målet är en starkare marknad och smidigare kapitalflöden inom unionen I ett försök att stärka de europeiska bankernas ställning på världsmarknaden planerar EU-kommissionen att se över och förenkla det nuvarande regelverket för banker. Tanken är att förenklingen ska leda till att eventuella hinder mellan medlemsländerna minskas, vilket gör det lättare för bankkoncerner att flytta kapital och likviditet mellan olika EU-länder där behoven är som störst. Man hoppas också att det ska skapa en bankmarknad som bättre kan finansiera framtidens innovationer och gröna omställning, men också göra bankerna mer konkurrenskraftiga i en global miljö. Dessutom ska regelbördan minskas. Genom att standardisera rapporteringskrav och anpassa reglerna efter bankernas storlek hoppas man frigöra resurser som istället kan användas till utlåning till hushåll samt företag. Man planerar även att presentera en ny, effektivare modell för en gemensam insättningsgaranti för att öka tryggheten för spararna. Kommissionen bjuder nu in till dialog med berörda parter och planerar att lägga fram ett färdigt lagförslag i början av 2027. Svenska Bankföreningen ser positivt på planerna och menar att en översyn är välkommen. L&auml;s vidare och kommentera: https://feber.se/samhalle/eu-vill-forenkla-bankernas-regelverk/494198/ L&auml;s mer om EU-kommissionen , Bank , Ekonomi , Bankföreningen , Finans , Regelverk",
+      "link": "https://feber.se/samhalle/eu-vill-forenkla-bankernas-regelverk/494198/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/eu-vill-forenkla-bankernas-regelverk/494198/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784448000000
+    },
+    {
+      "title": "Hundratals liter olja har runnit ut i Pedersöre",
+      "description": "Oljan har runnit ut på en tomt i Edsevö. Räddningsverket var på plats och utförde bekämpningsåtgärder.",
+      "link": "https://yle.fi/a/7-10102372?origin=rss",
+      "guid": "https://yle.fi/a/7-10102372",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784447843000
+    },
     {
       "title": "Nya protester: Zelenskyj lovar att agera",
       "description": "Tredje dagen av protester i Kyiv och resten av Ukraina. Nu säger Volodymyr Zelenskyj att förändringar är på gång. Under lördagen fortsatte, för tredje dagen, demonstrationer och protester runt om i Ukraina om att president Volodymyr Zelenskyj sparkat försvarsministern Mychailo Fedorov. På gatorna i Kyiv samlades tusentals demonstranter. Protester genomfördes även ibland annat Odessa, Lviv, […]",
@@ -54,16 +404,6 @@
       "timestamp": 1784444606000
     },
     {
-      "title": "95-årige Warren Buffett: Jag är lyckligt lottad",
-      "description": "Den mångårige och legendariske superinvesteraren Warren Buffett, som närmar sig 100 år, utesluter inte att han är en av de tio lyckligaste människorna på jorden. 95-årige Warren Buffett förklarar att han känner sig välsignad och menar att han tar tur som lever och är frisk. Börsnestorn, som ger en sällsynt intervju i CNBC, säger också […]",
-      "link": "https://www.dagensps.se/bors-finans/95-arige-warren-buffett-jag-ar-lyckligt-lottad/",
-      "guid": "https://www.dagensps.se/?p=1657066",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/lyckabuffett.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784444496000
-    },
-    {
       "title": "USA häver förbudet mot TikTok på tjänstemobiler",
       "description": "Myndigheter tillåter appen igen efter omstrukturering Efter år av strikta restriktioner häver det amerikanska justitiedepartementet nu förbudet mot TikTok på federala tjänstetelefoner. Beslutet kommer efter att appens amerikanska verksamhet genomgått en omfattande omstrukturering för att kapa banden till Kina. Bakgrunden till det tidigare förbudet, som infördes 2022, var en oro för den nationella säkerheten. Amerikanska myndigheter fruktade då att användardata skulle kunna hamna i händerna på den kinesiska staten via det kinesiska moderbolaget ByteDance. Men nu när TikTok har flyttat sin amerikanska verksamhet till det nya, amerikanska, dotterbolaget TikTok USDS och samarbetar med amerikanska Oracle har man lättat på restriktionerna. Enligt justitiedepartementet uppfyller den nya versionen av appen de säkerhetskrav som ställts. All data från amerikanska användare lagras nu i Oracles molntjänster i USA, och de algoritmer som rekommenderar innehåll har programmerats om för att garantera säkerheten samt förhindra utländsk påverkan. Trots att det federala totalförbudet lyfts är det fortfarande upp till varje enskild myndighet att sätta sina egna regler om TikTok får finnas på myndighetens telefoner eller inte. L&auml;s vidare och kommentera: https://feber.se/internet/usa-haver-forbudet-mot-tiktok-pa-tjanstemobiler/494197/ L&auml;s mer om TikTok , ByteDance , Oracle , USA , Kina , IT-säkerhet",
       "link": "https://feber.se/internet/usa-haver-forbudet-mot-tiktok-pa-tjanstemobiler/494197/?utm_source=rss&utm_medium=feed",
@@ -74,16 +414,6 @@
       "timestamp": 1784444400000
     },
     {
-      "title": "Bolånen viker – här är bankernas nya vinstmotor",
-      "description": "De svenska storbankerna har släppt sina kvartalsrapporter i veckan. Vinsterna är starkt stabila, men bankdirektörerna knorrar lite över de pressade vinstmarginalerna på bolån. Storbankerna tjänar just nu mindre på kundernas bolån. Det tar de igen på sparandet. Sparandet verkar vara en vinstmotor för bankerna för tillfället, säger Maria Landeborn, börsstrateg på Danske Bank. De svenska […]",
-      "link": "https://www.dagensps.se/bors-finans/aktier/bolanen-viker-har-ar-bankernas-nya-vinstmotor/",
-      "guid": "https://www.dagensps.se/?p=1657064",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/bankerna-tjanar-alltmer-pa-svenskarnas-s.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784443592000
-    },
-    {
       "title": "Stadsborna svalkar sig på Karl Knutssons strand i sommar – men vågar de ta sig ett dopp?",
       "description": "Karl Knutssons strand är en urban oas dit man kan komma spontant utan stora förberedelser.",
       "link": "https://yle.fi/a/7-10101395?origin=rss",
@@ -92,16 +422,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784442833000
-    },
-    {
-      "title": "Ukraina: Största robotangreppet sedan kriget började",
-      "description": "Ryssland har genomfört den största attacken med ballistiska robotar sedan kriget i Ukraina började, skriver Ukrainas utrikesminister Andrij Sybiha på X. Minst en person har dödats och flera har skadats.",
-      "link": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
-      "guid": "https://www.expressen.se/nyheter/varlden/ukraina-storsta-robotangreppet-sedan-kriget-borjade/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784442732000
     },
     {
       "title": "Gator med nazistnamn döps om efter kvinnor i Salzburg",
@@ -192,16 +512,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784438290000
-    },
-    {
-      "title": "Bröderna Andrew och Tristan Tate gripna i Miami",
-      "description": "Andrew och Tristan Tate har gripits i Miami, enligt AP:s uppgifter. De misstänks för flera grova brott. Storbritannien har begärt att få dem utlämnade.",
-      "link": "https://www.expressen.se/nyheter/varlden/tate-broderna-gripna/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tate-broderna-gripna/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784438149000
     },
     {
       "title": "Är du naturbarnet, den påpälsade eller någonstans mittemellan?",
@@ -354,76 +664,6 @@
       "timestamp": 1784426133000
     },
     {
-      "title": "Putins drag efter stora bakslagen",
-      "description": "Putins skuggflotta beskrivs som avgörande i att finansiera kriget. Att flera av fartygen attackerats har blivit en hård smäll – nu agerar Ryssland. ”Rubicon”-enheten kommer förflyttas.",
-      "link": "https://www.expressen.se/nyheter/varlden/putins-drag-efter-stora-bakslagen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-drag-efter-stora-bakslagen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784425011000
-    },
-    {
-      "title": "Vill att Netanyahu grips – i New York",
-      "description": "Internationella brottmåldomstolen vill åtala Benjamin Netanyahu. New Yorks borgmästare Zohran Mamdani vill ge dem chansen. – Jag anser att premiärminister Netanyahu hör hemma i Haag, säger han till NYT.",
-      "link": "https://www.expressen.se/nyheter/varlden/vill-att-netanyahu-grips-i-new-york/",
-      "guid": "https://www.expressen.se/nyheter/varlden/vill-att-netanyahu-grips-i-new-york/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784424752000
-    },
-    {
-      "title": "England bröt 60-åriga torkan efter alla tiders galnaste bronsmatch – Frankrike nära osannolik comeback",
-      "description": "Missade du bronsmatchen? Dåliga nyheter. England säkrade till slut sitt historiska VM-brons – men först efter att Frankrike varit nära en otrolig upphämtning.",
-      "link": "https://yle.fi/a/7-10102360?origin=rss",
-      "guid": "https://yle.fi/a/7-10102360",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784418910000
-    },
-    {
-      "title": "Turiststaden rasar – mot Trumptopp",
-      "description": "Den Trumpallierade ambassadören i Italien, Tilman Fertitta, har lagt till i Venedig med sin lyxjakt. Nu rasar lokalbona och demonstrerar med plakaten ”Venedig är inte till salu”, skriver CNN . – Det är en skam, säger en sekreterare till en fackförening.",
-      "link": "https://www.expressen.se/nyheter/varlden/turiststaden-rasar-mot-trumptopp/",
-      "guid": "https://www.expressen.se/nyheter/varlden/turiststaden-rasar-mot-trumptopp/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784418855000
-    },
-    {
-      "title": "”Gothia-tåg” satt i fem timmar – med trasiga toaletter",
-      "description": "Flera tåg tag satt fast i timmar Hallsberg på lördagskvällen. Ett av dem var fullt med ungdomar som spelat Gothia cup i Göteborg. – Det är väldigt många ungdomar och för få vuxna, säger tränaren Zandra Eriksson.",
-      "link": "https://www.expressen.se/nyheter/sverige/gothia-tag-fast-i-tre-timmar-toaletter-trasiga/",
-      "guid": "https://www.expressen.se/nyheter/sverige/gothia-tag-fast-i-tre-timmar-toaletter-trasiga/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784415169000
-    },
-    {
-      "title": "40 ungdomar ”brottas”",
-      "description": "På Avenyn i Göteborg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=904cb360-b474-4fbd-9a6d-535b8fa2995d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=904cb360-b474-4fbd-9a6d-535b8fa2995d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784413937000
-    },
-    {
-      "title": "Lågor syns i Drammen",
-      "description": "Branden ännu inte under kontroll",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=26da96f6-a91e-4390-9164-777d9aaaa2f6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=26da96f6-a91e-4390-9164-777d9aaaa2f6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784412204000
-    },
-    {
       "title": "Särskilda aktiviteter kan bromsa åldrandet, visar studie av 1 900 personer",
       "description": "Forskaren kan till och med berätta hur lite som krävs för att aktiviteterna ska ge en föryngrande effekt.",
       "link": "https://illvet.se/halsa/sarskilda-aktiviteter-i-vardagen-kan-fa-kroppen-att-aldras-langsammare-visar-ny-studie-av-1-900-personer",
@@ -432,16 +672,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784412021000
-    },
-    {
-      "title": "Läkaren höll kvar sina barn i Gaza – riskerar bli av legitimationen",
-      "description": "En man, som arbetar som läkare, tog med sina två barn till Gaza och vägrade komma tillbaka hem. När han till slut gjorde det förlorade han vårdnaden och dömdes för brott. Nu riskerar han också att bli av med läkarlegget.",
-      "link": "https://www.expressen.se/nyheter/sverige/lakaren-holl-kvar-sina-barn-i-gaza-riskerar-bli-av-legitimationen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/lakaren-holl-kvar-sina-barn-i-gaza-riskerar-bli-av-legitimationen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784409237000
     },
     {
       "title": "Forskare bakom nytt genombrott om ”mänsklighetens vagga”: Alla döda i mystisk grotta var kvinnor",
@@ -454,16 +684,6 @@
       "timestamp": 1784406649000
     },
     {
-      "title": "Fotbolls-VM live: England tar historiskt brons – Frankrike nära osannolik upphämtning",
-      "description": "Yle Sporten bevakar VM-bronsmatchen mellan England och Frankrike. Matchen sänds på MTV:s kanaler.",
-      "link": "https://yle.fi/a/7-10102362?origin=rss",
-      "guid": "https://yle.fi/a/7-10102362",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784404822000
-    },
-    {
       "title": "Vi måste tänka på robotar på ett helt nytt sätt: Nu blir de flytande och kryper in i kroppen",
       "description": "Inga fler stela, ryckiga rörelser. Snart ska mjuka robotar kunna ta sig igenom vad som helst – till och med din kropp.",
       "link": "https://illvet.se/teknik/vi-maste-tanka-pa-robotar-pa-ett-helt-nytt-satt-nu-blir-de-flytande-och-kryper-in-i-kroppen",
@@ -472,16 +692,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784403024000
-    },
-    {
-      "title": "Stora succén i estniska skogarna: Sami Pajari mot första segern i rally-VM",
-      "description": "Sami Pajari har karriärens bästa rallyhelg på gaffeln. Om han inte gör bort sig under sista dagen tar han karriärens första seger i VM-serien.",
-      "link": "https://yle.fi/a/7-10102361?origin=rss",
-      "guid": "https://yle.fi/a/7-10102361",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784402233000
     },
     {
       "title": "Föräldralös pojke från Grönland förråddes i USA: Forskare hade en obarmhärtig plan",
@@ -494,86 +704,6 @@
       "timestamp": 1784401202000
     },
     {
-      "title": "Från sjua till guld i sista omgången – dramatiska kurvan perfekt när Pyry Heiskanen blev Europamästare",
-      "description": "Sällan ser man en sådan scenförändring som den Pyry Heiskanen bjöd på i U18-EM. Hans nya rekord i längdhopp lyfte honom hela vägen till guld.",
-      "link": "https://yle.fi/a/7-10102358?origin=rss",
-      "guid": "https://yle.fi/a/7-10102358",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784398070000
-    },
-    {
-      "title": "Gasflaskor till grillar spädde på branden i Drammen",
-      "description": "Polisen ber allmänheten om tips om hur branden startade.",
-      "link": "https://yle.fi/a/7-10102353?origin=rss",
-      "guid": "https://yle.fi/a/7-10102353",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784394034000
-    },
-    {
-      "title": "Ungerns president måste avgå efter grundlagsändring",
-      "description": "Ungerns president har undertecknat en grundlagsändring som avslutar hans ämbetsperiod omedelbar.",
-      "link": "https://yle.fi/a/7-10102357?origin=rss",
-      "guid": "https://yle.fi/a/7-10102357",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784393656000
-    },
-    {
-      "title": "Helsingfors vill ha Garden Helsinki – kan ge rabatt på tomten",
-      "description": "Helsingforsarenan är för gammalmodig för att locka världsstjärnor, säger Silja Borgarsdóttir Sandelin.",
-      "link": "https://yle.fi/a/7-10102323?origin=rss",
-      "guid": "https://yle.fi/a/7-10102323",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784393076000
-    },
-    {
-      "title": "Ny förlust för Ekenäs IF: ”Läget är knepigt”",
-      "description": "EIF:s fotbollsmannar åkte på en ny förlust i näst högsta serien ligaettan. Träskändalaget JäPS for iväg med seriepoängen från Ekenäs på lördag eftermiddag.",
-      "link": "https://yle.fi/a/7-10102355?origin=rss",
-      "guid": "https://yle.fi/a/7-10102355",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784392669000
-    },
-    {
-      "title": "Utklassningen i F1-kvalet: Kimi Antonelli tog pole position med flera tiondelar",
-      "description": "VM-ledaren Kimi Antonelli är kvalkung så här långt under F1-säsongen. I söndagens tävling i Belgien kommer han att starta från pole position för sjätte gången i år.",
-      "link": "https://yle.fi/a/7-10102356?origin=rss",
-      "guid": "https://yle.fi/a/7-10102356",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784392174000
-    },
-    {
-      "title": "Har kostat 187 miljoner – sålt för en tia",
-      "description": "Kokainfartyget MV Matthews har sålts för motsvarande en tia efter att ha kostat staten drygt 187 miljoner. Nu kan det lämna Cork och Irland. Det handlar om det kokainfartyg som stod och står i centrum för Irlands största narkotikabeslag någonsin. Bulkfartyget MV Matthews på 28 000 ton och registrerat i Panama, beslagtogs 26 juni 2023. Det […]",
-      "link": "https://www.dagensps.se/foretag/har-kostat-187-miljoner-salt-for-en-tia/",
-      "guid": "https://www.dagensps.se/?p=1657052",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl24yghz0qxgi-nh-300x300.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784391553000
-    },
-    {
-      "title": "Magiska slutpunkten i Diamond League: Josh Kerr löpte nytt världsrekord",
-      "description": "Publiken i London fick valuta för pengarna när Diamond League avslutades. Josh Kerr knäckte en 27 år gammal notering när han slog världsrekord.",
-      "link": "https://yle.fi/a/7-10102354?origin=rss",
-      "guid": "https://yle.fi/a/7-10102354",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784391101000
-    },
-    {
       "title": "Forskare fann historiens äldsta bevis på våld mellan människor",
       "description": "Ett internationellt forskarteam har analyserat ett 100 000 år gammalt skelett som hittats djupt inne i en israelisk grotta – och har kommit fram till en banbrytande slutsats.",
       "link": "https://varldenshistoria.se/stenalder/forskare-fann-historiens-aldsta-bevis-pa-vald-mellan-manniskor",
@@ -582,16 +712,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1784390415000
-    },
-    {
-      "title": "EU slösar energi: Nu ska batterier klara krisen",
-      "description": "EU:s första avtal kring energilagring fokuserar på att batterier ska lyckas ta tillvara mer av den sol- och vindkraft som i dag förslösas. I slutet av juni var det klart. Ett avtal slöts där EU-kommissionen, energiministrar från 22 medlemsländer, företag inom lagring och förnybar energi, energiintensiv industri och Europeiska investeringsbanken deltog. De var överens om […]",
-      "link": "https://www.dagensps.se/bors-finans/eu-slosar-energi-nu-ska-batterier-klara-krisen/",
-      "guid": "https://www.dagensps.se/?p=1657041",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdla0ycq3rf5gy-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784388426000
     },
     {
       "title": "Allt fler unga sysslar med fågelskådning",
@@ -622,16 +742,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784382957000
-    },
-    {
-      "title": "En svindyr Teams-tabbe, solförmörkelse och Abba-Björns imperium",
-      "description": "En chef i Spanien glömmer stänga ner Teams och det kostade 3,7 miljoner. Pensionärer ångrar sitt sparande. Biltjuvar i Frankrike har hittat ett nytt favoritbyte. Och utanför Florida har dykare plockat upp en silvertacka som legat på havsbotten i 400 år. Det här är veckans mest lästa nyheter: Chefen som glömde stänga Teams Det finns […]",
-      "link": "https://www.dagensps.se/foretag/en-riktig-teams-tabbe-solformorkelse-och-abba-bjorns-imperium/",
-      "guid": "https://www.dagensps.se/?p=1657029",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/image-26-300x300.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784382700000
     },
     {
       "title": "HTV: Warner - \"Vi jobbar riktigt hårt tillsammans\"",
@@ -672,16 +782,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784378163000
-    },
-    {
-      "title": "Drömhuset – som klarar stökiga gäster",
-      "description": "Boytan är 475 kvadratmeter men det finns mer att ta till. I källaren finns arrestlokalerna kvar sedan länsman bodde här. ”Unik” är ett missbrukat ord, men inför det här huset är det lätt att det slinker fram. Vad sägs om 475 kvadratmeter boyta, tolv rum och minst åtta sovrum vid sidan av generösa sällskapsytor i […]",
-      "link": "https://www.dagensps.se/privatekonomi/dromhuset-som-klarar-stokiga-gaster/",
-      "guid": "https://www.dagensps.se/?p=1657017",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/smedjebacken2-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784377841000
     },
     {
       "title": "Publikinformation: Hemmamatchen mot Degerfors",
@@ -734,16 +834,6 @@
       "timestamp": 1784375973000
     },
     {
-      "title": "Hönsen som är ett säkerhetshot",
-      "description": "Den brittiska regeringen ska satsa på att få fjäderfäsektorn att växa starkt. Nu varnar kritiker för att det hotar brittisk säkerhet. Den brittiska regeringens satsning på livsmedelstrygghet och ökad självförsörjning, anses vara beroende av import av djurfoder. Därmed blir tillväxtplanen en risk för den nationella säkerheten, menar kritiker. Tidigare i juli sade miljöminister Emma Reynolds […]",
-      "link": "https://www.dagensps.se/varlden/honsen-som-ar-ett-sakerhetshot/",
-      "guid": "https://www.dagensps.se/?p=1657005",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdll0jvfz9lrng-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784373009000
-    },
-    {
       "title": "Biobesök och konsert är bra för hälsan",
       "description": "Enligt ny japansk forskning En ny forskningsrapport från Japan visar att regelbundna kulturaktiviteter kan vara bra för hälsan. Forskare vid Tokyos vetenskapsinstitut granskade nämligen 2 000 personer i Storbritannien. Genom att undersöka fysiska faktorer som blodtryck och rörlighet upptäckte man att de kulturintresserade deltagarna hade en kroppslig status som motsvarade en tre år yngre person, jämfört med de som sällan tog del av kultur. Enligt Ingmar Skoog, seniorforskare vid Göteborgs universitet, lindrar kultur stress och motverkar även ensamhet. För när vi möter andra människor och stimuleras intellektuellt påverkas vår hälsa positivt på flera plan, vilket i slutändan kan leda till ett längre samt friskare liv. L&auml;s vidare och kommentera: https://feber.se/vetenskap/biobesok-och-konsert-ar-bra-for-halsan/494190/ L&auml;s mer om Japan , Storbritannien , Tokyos vetenskapsinstitut , Ingmar Skoog , Göteborgs universitet , kultur , hälsa",
       "link": "https://feber.se/vetenskap/biobesok-och-konsert-ar-bra-for-halsan/494190/?utm_source=rss&utm_medium=feed",
@@ -772,16 +862,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784371148000
-    },
-    {
-      "title": "Paraply? ”För fjolligt och för franskt”",
-      "description": "Regn och du fäller upp ditt paraply. Det hade du inte gjort förr. Då var paraplyet fjolligt, franskt – och dåligt för affärerna. I början av 1750-talet började engelsmannen Jonas Hanway, då hemkommen från Frankrike, bära paraply på Londons ofta regniga gator. Folk blev upprörda. Människor han mötte hånade och skrek åt honom. Paraply var […]",
-      "link": "https://www.dagensps.se/foretag/paraply-for-fjolligt-och-for-franskt/",
-      "guid": "https://www.dagensps.se/?p=1656991",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/da4c22c0-4cbf-42cb-b8b5-5379aa2a5dd2-jon-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784369409000
     },
     {
       "title": "xAI fick nog av snuskiga promptar",
@@ -1264,16 +1344,6 @@
       "timestamp": 1784293200000
     },
     {
-      "title": "Snart kan du pratar med Fortnite-karaktärer",
-      "description": "NPC-karaktärer får liv med AI Epic Games introducerar nu AI-drivna röster och personligheter i Fortnite. Det innebär att du snart kommer kunna ha samtal i realtid med figurer i spelet. AI:n är baserad på Gemini och initialt är det 36 klassiska Fortnite-karaktärer som kommer få tekniken, bland annat Fishstick och Cuddle Team Leader. Målet är att de ska låta och bete sig precis som fansen förväntar sig, men hur det blir med det återstår väl att se. Från och med den 30 juli blir verktyget tillgängligt för alla som skapar egna öar i spelet. Sen lär det väl dyka upp i det vanliga spelet vid ett senare tillfälle. Epic Games säger att röstmodellerna är framtagna i samarbete med professionella röstskådespelare som gett sitt medgivande till att de används med AI. L&auml;s vidare och kommentera: https://feber.se/spel/snart-kan-du-pratar-med-fortnite-karaktarer/494169/ L&auml;s mer om Epic Games , Fortnite , AI , Gemini , Fishstick , Cuddle Team Leader",
-      "link": "https://feber.se/spel/snart-kan-du-pratar-med-fortnite-karaktarer/494169/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/snart-kan-du-pratar-med-fortnite-karaktarer/494169/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784291400000
-    },
-    {
       "title": "Your fingers may hold a secret of human brain evolution",
       "description": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
@@ -1292,26 +1362,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784289643000
-    },
-    {
-      "title": "Googles NotebookLM får ett vettigare namn",
-      "description": "AI-driven anteckningsbok heter nu Gemini Notebook Google meddelade igår att NotebookLM, deras tjänst för att sammanfatta och generera nytt material baserat på användarens egna källor, byter namn. Från och med nu kommer NotebookLM (\"Notebook Language Model\") att heta Gemini Notebook, något som antagligen gör det mer klart för användare att det handlar om en AI-tjänst från Google. Google skriver vidare om namnbytet: \"Today, we’re renaming NotebookLM to Gemini Notebook. It remains a standalone product focused on being your premier research tool, but it will now do more across the Google ecosystem, including inside the Gemini app and Google Search.\" I samband med namnbytet introducerar Google även en ny funktion som ger Gemini Notebook tillgång till en molndator där användare kan skapa och exekvera kod, något som Google säger ska ge större möjlighet att göra mer avancerade dataanalyser utifrån de källor som matas in i Gemini Notebook. Google har även släppt ett nytt videoklipp där man visar exempel på vad som går att göra med Gemini Notebook, något ni kan kolla in nedan. L&auml;s vidare och kommentera: https://feber.se/internet/googles-notebooklm-far-ett-vettigare-namn/494167/ L&auml;s mer om NotebookLM , Gemini Notebook , AI , Dataanalys , Kod , Forskning",
-      "link": "https://feber.se/internet/googles-notebooklm-far-ett-vettigare-namn/494167/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/googles-notebooklm-far-ett-vettigare-namn/494167/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784289600000
-    },
-    {
-      "title": "Claude kan nu logga in åt dig via 1Password",
-      "description": "Men vill man det? Att låta en AI sköta bokningar eller administrera konton har tidigare inneburit ständiga avbrott för att användaren ska logga in på olika tjänster. Men det kan det bli ändring på då Anthropic och 1Password nu har inlett ett samarbete som gör det möjligt för Claude att automatisera inloggningar. Genom denna integration kan chatbotten utföra komplexa ärenden åt användaren utan att man manuellt behöver mata in sina inloggningsuppgifter. Nu tänker man nog direkt att en stor utmaning med detta är att låta en AI hantera känslig data. För att lugna folk har 1Password utvecklat ett ramverk som gör att Claude kan slänga in rätt inloggningsuppgifter i inloggningsfält via en säker kanal, men utan att AI-modellen faktiskt kan se eller läsa informationen. Inte ens engångskoder för tvåfaktorsautentisering ska vara synliga för assistenten. För att förhindra att information läcker skannas webbsidan automatiskt efter varje ifyllning, och 1Password låser omedelbart ner resten av valvet så att AI:n endast får åtkomst till precis det konto som behövs för stunden. Även om processen blir mer automatiserad ska man som användare fortfarande kunna ha sista ordet. Varje gång Claude behöver komma åt inloggningsuppgifter måste användaren godkänna begäran, exempelvis med ett fingeravtryck via biometrisk inloggning. I dagsläget är funktionen tillgänglig för Mac-användare som har 1Password. Tjänsten stöder hantering av allt från vanliga lösenord och passkeys till finansiell information samt API-nycklar, vilket öppnar upp för att Claude ska kunna sköta betydligt mer avancerade digitala assistentuppgifter i framtiden. L&auml;s vidare och kommentera: https://feber.se/internet/claude-kan-nu-logga-in-at-dig-via-1password/494162/ L&auml;s mer om 1Password , Claude , AI , Säkerhet , Lösenord , Mac , Automatisering",
-      "link": "https://feber.se/internet/claude-kan-nu-logga-in-at-dig-via-1password/494162/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/claude-kan-nu-logga-in-at-dig-via-1password/494162/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784287800000
     },
     {
       "title": "Man misstänks ha fotograferat skyddsobjekt från bil",
@@ -1334,16 +1384,6 @@
       "timestamp": 1784286021000
     },
     {
-      "title": "Nu kan du beställa billiga ID. Polo!",
-      "description": "25.000 euro i Europa, 320.900 kronor i Sverige När Volkswagen presenterade ID. Polo var ett av säljargumenten att den skulle kosta från 25.000 euro i Europa. Lysande ju! Men de modeller som först gick att beställa kostade långt mer än så. I Sverige har det gått att beställa Life-versionen för närmare 400.000 kronor. Inga 25.000 euro där alltså. Men nu börjar det röra på sig! I Tyskland har man börjat sälja Trend-versionen för 24.995 euro, rakt översatt till svenska kronor är det 275.000 kronor. Men vi har lite annan moms och andra krav här i Sverige (hej skärtvärme!) så den svenska bilen är lite mer utrustad och därmed dyrare, från 320.900 kronor. Det är ändå en av de absolut billigaste elbilarna på svenska marknaden just nu . När jag var och kollade in ID. Polo blev jag imponerad över att de lyckats göra även den billigaste versionen riktigt trevlig, så även om den är billigast kändes den inte snålbillig. Här i Sverige går modellen att beställa från återförsäljarna, men den har ännu inte dykt upp i konfiguratorn . L&auml;s vidare och kommentera: https://feber.se/bil/nu-kan-du-bestalla-billiga-id-polo/494175/ L&auml;s mer om ID. Polo , trend , life",
-      "link": "https://feber.se/bil/nu-kan-du-bestalla-billiga-id-polo/494175/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nu-kan-du-bestalla-billiga-id-polo/494175/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784286000000
-    },
-    {
       "title": "DNA-tjänst får betala miljoner efter gigantisk dataläcka",
       "description": "För tre år sedan utsattes den amerikanska dna-tjänsten 23andme för en omfattande cyberattack, något som ledde till att känsliga uppgifter om 6,9 miljoner kunder hamnade i hackarnas händer. Nu rapporterar Bleeping Computer att tjänstens ägarbolag har gått med på att betala ett skadestånd på 18 miljoner dollar (motsvarande 174 miljoner kronor) med anledning av de bristfälliga säkerhetsrutinerna. I mars 2025 ansökte 23andme om konkursskydd, vilket slutade med att företaget köptes upp av TTAM Research Institute för 305 miljoner dollar.",
       "link": "https://computersweden.se/article/3523335/dna-sajt-gar-med-pa-forlikning-efter-gigantisk-datalacka.html",
@@ -1352,16 +1392,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784284944000
-    },
-    {
-      "title": "Det här är Volvos modeller som säljer sämst",
-      "description": "En sålde bara 100 bilar på ett kvartal Det går sådär för Volvo just nu, men det verkar vara stormen före lugnet. Eller vad man ska säga. Bolaget har ju precis börjat leverera de första exemplaren av nya Volvo EX60, och de syns ännu inte i kvartalsrapporten eftersom de ju inte levererades under kvartal två. Vad som däremot syns är tappet för Volvo XC60, det verkar som att många helt enkelt slutat köpa denna för att vänta in EX60. Totalt är fokuset i Sverige stort på elbilarna, men det är (just nu) bara 25 procent av försäljningen totalt sett. I kvartalsrapporten spaltade Volvo upp hur de respektive modellerna säljer, och det är verkligen högt och lågt. Vissa modeller säljer riktigt bra, medan andra knappt säljer alls. Man kan verkligen fråga sig varför Volvo har lanserat vissa modeller och varför de fortsätter att tillverkas. Vi börjar med elbilarna. Elbilar 3 mån 2026 3 mån 2025 12 mån 2026 12 mån 2025 EX30 22.4 18.6 83.4 78.6 EX40 13.0 10.8 49.5 44.0 EC40 2.5 3.3 10.1 11.8 EX90 3.9 5.0 14.4 16.3 ES90 1.1 2.8 0.3 EX60 0.2 0.2 EM90 0.1 0.1 0.7 0.8 L&auml;s vidare och kommentera: https://feber.se/bil/det-har-ar-volvos-modeller-som-saljer-samst/494173/ L&auml;s mer om EX30 , EX40 , EC40 , EX90 , XC60 , XC90 , Elbilar",
-      "link": "https://feber.se/bil/det-har-ar-volvos-modeller-som-saljer-samst/494173/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/det-har-ar-volvos-modeller-som-saljer-samst/494173/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784284800000
     },
     {
       "title": "Brand i villaområde i Järfälla – spridningsrisk till naturreservat",
@@ -2624,16 +2654,6 @@
       "timestamp": 1784008800000
     },
     {
-      "title": "Potatissallad med makrill och senapskräm",
-      "description": "Den här goda salladen är perfekt – lätt att laga, full av smak och kan serveras ljummen eller kyld. Makrillen kan ersättas av tonfisk eller sardiner.",
-      "link": "https://alltommat.expressen.se/recept/potatissallad-med-makrill-och-senapskram/",
-      "guid": "https://alltommat.expressen.se/recept/potatissallad-med-makrill-och-senapskram/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784007840000
-    },
-    {
       "title": "Taxi Stockholm har drabbats av driftstörningar",
       "description": "Taxi Stockholm har driftstörningar.",
       "link": "https://www.mitti.se/nyheter/taxi-stockholm-har-drabbats-av-driftstorningar-6.3.375841.282748fa8b",
@@ -2854,16 +2874,6 @@
       "timestamp": 1783939303000
     },
     {
-      "title": "Where you live could shape your dementia risk, massive study finds",
-      "description": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783937021000
-    },
-    {
       "title": "Tågtrafiken i gång mellan Rönninge och Tumba igen",
       "description": "Pendeltåget går återigen mellan Rönninge och Tumba.",
       "link": "https://www.mitti.se/nyheter/tagtrafiken-i-gang-mellan-ronninge-och-tumba-igen-6.3.375793.2bd7cdd605",
@@ -2914,21 +2924,21 @@
       "timestamp": 1783921938000
     },
     {
-      "title": "C: Fixa stopp för Djurgårdsfärjan vid Fotografiska",
-      "description": "Djurgårdsfärjan kan få nytt stopp vid Fotografiska museet vid Stadsgårdskajen på Södermalm",
-      "link": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
-      "guid": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
-      "image": "https://www.mitti.se/image-3.376106.299614.20260713073501.28d05ea4eb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783918800000
-    },
-    {
       "title": "Ny permanent gågata och cykellekpark vid Nytorget",
       "description": "Sofiagatan blir gågata – 1,2 km promenadstråk vid Nytorget, Södermalm",
       "link": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
       "guid": "https://www.mitti.se/nyheter/ny-permanent-gagata-och-cykellekpark-vid-nytorget-6.3.375752.13a03dbc70",
       "image": "https://www.mitti.se/image-3.376569.300354.20260713053039.46b98934fa?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1783918800000
+    },
+    {
+      "title": "C: Fixa stopp för Djurgårdsfärjan vid Fotografiska",
+      "description": "Djurgårdsfärjan kan få nytt stopp vid Fotografiska museet vid Stadsgårdskajen på Södermalm",
+      "link": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
+      "guid": "https://www.mitti.se/nyheter/c-fixa-stopp-for-djurgardsfarjan-vid-fotografiska-6.3.374107.bf426dab3c",
+      "image": "https://www.mitti.se/image-3.376106.299614.20260713073501.28d05ea4eb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1783918800000
@@ -2954,14 +2964,14 @@
       "timestamp": 1783916400000
     },
     {
-      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
-      "description": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
+      "title": "Where you live could shape your dementia risk, massive study finds",
+      "description": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
       "image": "",
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1783900187000
+      "timestamp": 1783915673000
     },
     {
       "title": "Småbarn flyttas till förskolegrupp med 22 barn",
