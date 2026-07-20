@@ -1,8 +1,78 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-20T20:12:47.104Z",
+  "updatedAt": "2026-07-20T21:54:24.087Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "BareBones Forest Lantern",
+      "description": "",
+      "link": "https://uncrate.com/barebones-forest-lantern/",
+      "guid": "https://uncrate.com/barebones-forest-lantern/",
+      "image": "https://uncrate.com/assets_c/2026/07/barebones-forest-lantern-1-thumb-960xauto-192183.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784584800000
+    },
+    {
+      "title": "Bil har kraschat in i gym i Sundsvall",
+      "description": "En personbil har kraschat in på Nordic Wellness i Sundsvall. Skadeläget är oklart.",
+      "link": "https://www.expressen.se/nyheter/sverige/bil-har-kraschat-in-i-gym-i-sundsvall/",
+      "guid": "https://www.expressen.se/nyheter/sverige/bil-har-kraschat-in-i-gym-i-sundsvall/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784584327000
+    },
+    {
+      "title": "Krasch in i Nordic Wellness",
+      "description": "Bilen rammade glasvägg",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c49228d-af40-4f45-9715-28d594598ce2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c49228d-af40-4f45-9715-28d594598ce2",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784583860000
+    },
+    {
+      "title": "Trump inför 50-procentiga tullar på Kanada",
+      "description": "Inför höga tullar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fb65499c-f657-4f09-912d-18ba92f2d163",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fb65499c-f657-4f09-912d-18ba92f2d163",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784583126000
+    },
+    {
+      "title": "Australisk kvinna har fött identiska fyrlingar",
+      "description": "En australisk kvinna har fött identiska fyrlingar. Det är otroligt ovanligt och graviditeten beskrivs som ”extremt riskfylld”.",
+      "link": "https://www.expressen.se/nyheter/varlden/australisk-kvinna-har-fott-identiska-fyrlingar-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/australisk-kvinna-har-fott-identiska-fyrlingar-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784582836000
+    },
+    {
+      "title": "Kraftiga översvämningar – 20 döda",
+      "description": "Minst 100 saknas i Afghanistan",
+      "link": "https://www.expressen.se/tv/nyheter/kraftiga-oversvamningar-i-afghanistan",
+      "guid": "https://www.expressen.se/tv/nyheter/kraftiga-oversvamningar-i-afghanistan",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784581587000
+    },
+    {
+      "title": "USA bombar Iran igen",
+      "description": "Ny attackvåg inleddes under kvällen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=69b87d60-581e-4f68-9661-b7f087ec2e09",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=69b87d60-581e-4f68-9661-b7f087ec2e09",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784581412000
+    },
     {
       "title": "Garb: Commuter",
       "description": "",
@@ -12,6 +82,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784581200000
+    },
+    {
+      "title": "Bojor i barnstorlek avslöjar ett mörkt kapitel i kelternas historia",
+      "description": "Romarna är kända för att ha byggt upp ett samhälle som byggde på miljontals slavar – nu visar nya fynd att deras gamla fiender, kelterna, inte skilde sig särskilt mycket från dem.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/bojor-i-barnstorlek-avslojar-ett-morkt-kapitel-i-kelternas-historia",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/bojor-i-barnstorlek-avslojar-ett-morkt-kapitel-i-kelternas-historia",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784579434000
     },
     {
       "title": "Cuker Agency",
@@ -604,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784555364000
     },
     {
-      "title": "Flicka döms för dåd mot socialsekreterare – var hämnd",
-      "description": "En tonårsflicka som tände eld på en socialsekreterares dörr döms för mordbrand. En 19-årig man som gav henne uppdraget får 14 års fängelse, rapporterar P4 Kristianstad .",
-      "link": "https://www.expressen.se/nyheter/sverige/flicka-doms-for-dad-mot-socialsekreterare-var-hamnd/",
-      "guid": "https://www.expressen.se/nyheter/sverige/flicka-doms-for-dad-mot-socialsekreterare-var-hamnd/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784555232000
-    },
-    {
       "title": "Scientists detect hidden skin damage before it becomes visible",
       "description": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized molecular “handedness” can collapse even while the tissue still appears structurally intact and contains the same amount of collagen. This suggests that skin may begin deteriorating at a much deeper level long before conventional imaging can detect a problem.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
@@ -724,36 +794,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784552400000
     },
     {
-      "title": "Ryanairs förklaring",
-      "description": "Passagerare nära att sugas ut genom fönstret",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=869c7cda-9356-4720-8b20-42a0cece2073",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=869c7cda-9356-4720-8b20-42a0cece2073",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784552151000
-    },
-    {
-      "title": "Nya premiärministerns ord",
-      "description": "”Inte varit tillräckligt bra”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/andy-burnham-ny-premiarminister-i-storbritannien/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/andy-burnham-ny-premiarminister-i-storbritannien/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784551986000
-    },
-    {
-      "title": "SD-toppen: ”Man ska få varna för pedofiler”",
-      "description": "Kommenterar Expressens artikel",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=33915c7c-3ca4-468c-9f0e-806411f0b1cb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=33915c7c-3ca4-468c-9f0e-806411f0b1cb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784551572000
-    },
-    {
       "title": "Säkerhetshål i Age of Empires II är nu lagat",
       "description": "Spelinbjudan kunde vara en digital trojansk häst Att det trevliga spelet Age of Empires II: Definitive Edition skulle vara en stor säkerhetsrisk för ens dator kan kanske vara svårt att tro. Men tydligen hade spelet en liten bugg som gjorde att illvilliga personer kunde skicka en manipulerad spelinbjudan som då kunde smyga in skadliga filer på mottagarens dator och med dem ta över kontrollen på distans. Microsoft har nu täppt till detta säkerhetshål, vilket innebär att man nu återigen borde kunna spela med främlingar utan att vara orolig för eventuella virus. L&auml;s vidare och kommentera: https://feber.se/spel/sakerhetshal-i-age-of-empires-ii-ar-nu-lagat/494218/ L&auml;s mer om Age of Empires , Microsoft , Säkerhet , Bugg , Virus , Spel",
       "link": "https://feber.se/spel/sakerhetshal-i-age-of-empires-ii-ar-nu-lagat/494218/?utm_source=rss&utm_medium=feed",
@@ -812,26 +852,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784548800000
-    },
-    {
-      "title": "Hyllades som hjälte – har själv bränt bil",
-      "description": "Under påskupploppen 2022 hyllades han som en hjälte efter att ha räddat bilar undan lågorna. Fyra år senare greps Malmöbon för att själv ha tänt eld på en bil. Nu döms 24-åringen till tre års fängelse för mordbrand.",
-      "link": "https://www.expressen.se/nyheter/sverige/hyllades-som-hjalte-har-sjalv-brant-bil/",
-      "guid": "https://www.expressen.se/nyheter/sverige/hyllades-som-hjalte-har-sjalv-brant-bil/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784548736000
-    },
-    {
-      "title": "Premiärministerns första tal till nationen: ”Vi kommer att bli bättre”",
-      "description": "Andy Burnham har tillträtt som Storbritanniens nya premiärminister efter Keir Starmer. Nu har han hållit sitt första tal till nationen. – Vi behöver bli bättre, och vi kommer att bli bättre, säger Andy Burnham framför 10 Downing Street.",
-      "link": "https://www.expressen.se/nyheter/varlden/premiarministerns-forsta-tal-till-nationen-vi-kommer-att-bli-battre/",
-      "guid": "https://www.expressen.se/nyheter/varlden/premiarministerns-forsta-tal-till-nationen-vi-kommer-att-bli-battre/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784548637000
     },
     {
       "title": "VG: Tar tio dagar att släcka branden i Drammen",
@@ -1135,7 +1155,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Tron 2 får en robotarm",
-      "description": "Som gör roboten lite mer användbar Det kinesiska robotföretaget LimX Dynamics har visat upp ett tillbehör till Tron 2, den modulära roboten som släpptes upp i slutet av förra året. TRON 2 Autonomous Mobile Manipulation Kit är en robotarm som går att montera på Tron 2:s chassi med ben med fötter eller hjul. Armen kan sedan användas för att utföra olika uppgifter varav några visas upp i videoklippet ovan. Basversionen av Tron 2 går att köpa nu för cirka 7000 dollar, motsvarande cirka 67.500 kronor. När LimX Dynamics kommer att börja sälja den tillhörande robotarmen och vad den kommer att kosta har vi inte hittat några uppgifter om ännu. Nedan hittas ett bonusklipp från LimX Dynamics monter på World Artificial Intelligence Conference (WAIC) 2026, en AI- och robotmässa som arrangerades i Shanghai i helgen som gick. L&auml;s vidare och kommentera: https://feber.se/pryl/tron-2-far-en-robotarm/494211/ L&auml;s mer om LimX Dynamics , Tron 2 , Robotarm",
+      "description": "Som gör roboten lite mer användbar Det kinesiska robotföretaget LimX Dynamics har visat upp ett tillbehör till Tron 2, den modulära roboten som släpptes i slutet av förra året. TRON 2 Autonomous Mobile Manipulation Kit är en robotarm som går att montera på Tron 2:s chassi med ben med fötter eller hjul. Armen kan sedan användas för att utföra olika uppgifter varav några visas upp i videoklippet ovan. Basversionen av Tron 2 går att köpa nu för cirka 7000 dollar, motsvarande cirka 67.500 kronor. När LimX Dynamics kommer att börja sälja den tillhörande robotarmen och vad den kommer att kosta har vi inte hittat några uppgifter om ännu. Nedan hittas ett bonusklipp från LimX Dynamics monter på World Artificial Intelligence Conference (WAIC) 2026, en AI- och robotmässa som arrangerades i Shanghai i helgen som gick. L&auml;s vidare och kommentera: https://feber.se/pryl/tron-2-far-en-robotarm/494211/ L&auml;s mer om LimX Dynamics , Tron 2 , Robotarm",
       "link": "https://feber.se/pryl/tron-2-far-en-robotarm/494211/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/pryl/tron-2-far-en-robotarm/494211/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -1754,16 +1774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784318400000
     },
     {
-      "title": "Hisense 65\" Class U6 Series Smart Fire TV",
-      "description": "",
-      "link": "https://uncrate.com/hisense-65-class-u6-series-smart-fire-tv/",
-      "guid": "https://uncrate.com/hisense-65-class-u6-series-smart-fire-tv/",
-      "image": "https://uncrate.com/assets_c/2026/06/living-room-v-1-thumb-960xauto-191774.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784316632000
-    },
-    {
       "title": "Stammiskrogen Grodhavet stänger efter konkurs",
       "description": "Efter 14 år vid Ulvsundasjön i Huvudsta tvingas Restaurang Grodhavet stänga efter konkurs. Ägaren Tobias Strede riktar kritik mot Skatteverket och beskriver sorgen.",
       "link": "https://www.mitti.se/nyheter/stammiskrogen-grodhavet-stanger-efter-konkurs-6.3.375850.ddf5a2bc41",
@@ -2042,16 +2052,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784265480000
-    },
-    {
-      "title": "”Vem i hela världen är det jag tittar på?”: 1 600 år gammal romersk skyddsande låg gömd under kasernens golv",
-      "description": "Nu visar det sig att stenen föreställer en romersk skyddsande som har varit knuten till det berömda romerska fortet Vindolanda nära Hadrianus mur.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/vem-i-hela-varlden-ar-det-jag-tittar-pa-1-600-ar-gammal-romersk-skyddsande-lag-gomd-under-kasernens-golv",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/vem-i-hela-varlden-ar-det-jag-tittar-pa-1-600-ar-gammal-romersk-skyddsande-lag-gomd-under-kasernens-golv",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784264440000
     },
     {
       "title": "Här är stans nya kajbad – och snart öppnar nästa",
