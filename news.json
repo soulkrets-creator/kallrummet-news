@@ -1,8 +1,138 @@
 {
-  "updatedAt": "2026-07-21T19:02:35.371Z",
+  "updatedAt": "2026-07-21T21:54:06.015Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Udda ö till salu i Belgien – hårda kraven på köparen",
+      "description": "En naturskön ö är till salu i Belgien – för en miljon kronor. Men allt som glimmar är inte guld.",
+      "link": "https://www.expressen.se/nyheter/varlden/udda-o-till-salu-i-belgien-harda-kraven-pa-koparen-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/udda-o-till-salu-i-belgien-harda-kraven-pa-koparen-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784668026000
+    },
+    {
+      "title": "Zelenskyj byter ut försvarschefen",
+      "description": "",
+      "link": "https://yle.fi/a/7-10102496?origin=rss",
+      "guid": "https://yle.fi/a/7-10102496",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784667797000
+    },
+    {
+      "title": "Tågkrock norr om Arlanda",
+      "description": "”Har kört på något”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=053547c2-ef39-4771-87e6-5abf8947457b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=053547c2-ef39-4771-87e6-5abf8947457b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784667728000
+    },
+    {
+      "title": "Volodymyr Zelenskyj byter ut överbefälhavare",
+      "description": "Zelenskyj möblerar om efter protesterna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7d508a38-a9c7-4b85-a0fa-0a64b584eabe",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7d508a38-a9c7-4b85-a0fa-0a64b584eabe",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784667294000
+    },
+    {
+      "title": "Knivhuggen i ryggen",
+      "description": "Förd med ambulanshelikopter till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9a76624f-dc91-4157-b19b-2897df64e9dd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9a76624f-dc91-4157-b19b-2897df64e9dd",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784665418000
+    },
+    {
+      "title": "Lag om att förbjuda sociala medier för barn under 15 röstades igenom i Frankrike",
+      "description": "Snart stängs de franska barnens Tiktok-konton.",
+      "link": "https://yle.fi/a/7-10102495?origin=rss",
+      "guid": "https://yle.fi/a/7-10102495",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784664839000
+    },
+    {
+      "title": "LEGO Porsche 911 GT3 R REXY AO Race Car",
+      "description": "",
+      "link": "https://uncrate.com/lego-porsche-911-gt3-r-rexy-ao-race-car/",
+      "guid": "https://uncrate.com/lego-porsche-911-gt3-r-rexy-ao-race-car/",
+      "image": "https://uncrate.com/assets_c/2026/07/lego-porsche-911-gt3-r-rexy-ao-race-car-1-thumb-960xauto-192197.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784664000000
+    },
+    {
+      "title": "Brickell Renewing Face Scrub",
+      "description": "",
+      "link": "https://uncrate.com/brickell-renewing-face-scrub/",
+      "guid": "https://uncrate.com/brickell-renewing-face-scrub/",
+      "image": "https://uncrate.com/assets_c/2026/07/brickell-renewing-face-scrub-1-thumb-960xauto-192213.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784662200000
+    },
+    {
+      "title": "Trumps nya hån mot landet",
+      "description": "”Skulle inte överleva”",
+      "link": "https://www.expressen.se/tv/nyheter/trumps-nya-han-mot-landet-skulle-inte-overleva",
+      "guid": "https://www.expressen.se/tv/nyheter/trumps-nya-han-mot-landet-skulle-inte-overleva",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784660944000
+    },
+    {
+      "title": "Svarar på Trumps tullhot: ”Kan lamslå USA”",
+      "description": "Ilskan är stor i Kanada. Nu reagerar Ontarios försteminister Doug Ford på Donald Trumps tullhot och hotar om att ”lamslå” grannlandet. – Jag tappar tålamodet, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/svarar-pa-trumps-tullhot-kan-lamsla-usa-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svarar-pa-trumps-tullhot-kan-lamsla-usa-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784660730000
+    },
+    {
+      "title": "Ratsits vd död i trafikolycka på Mallorca",
+      "description": "Ratsits vd Thony Wissmar är död. Han blev påkörd av en misstänkt rattfyllerist på Mallorca i helgen.",
+      "link": "https://www.expressen.se/nyheter/sverige/ratsits-vd-dod-i-trafikolycka-pa-mallorca/",
+      "guid": "https://www.expressen.se/nyheter/sverige/ratsits-vd-dod-i-trafikolycka-pa-mallorca/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784660597000
+    },
+    {
+      "title": "Har du en surfingbräda?",
+      "description": "Dagens hobbyfråga Tidigare idag skrev vi om en säl som låg och solade på en surfingbräda så jag tänkte att vi kunde kolla om ni läsare har någon sådan. En surfbräda alltså, inte en säl. Svara gärna på vår enkät nedan. Vill ni snacka mer om surfbrädor eller något som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-en-surfingbrada/494280/ L&auml;s mer om Surfbräda , Surfing , Enkät , Hav , Sport , Fritid",
+      "link": "https://feber.se/har-du-en-surfingbrada/494280/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/har-du-en-surfingbrada/494280/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784660400000
+    },
+    {
+      "title": "1969 De Tomaso Mangusta",
+      "description": "",
+      "link": "https://uncrate.com/1969-de-tomaso-mangusta/",
+      "guid": "https://uncrate.com/1969-de-tomaso-mangusta/",
+      "image": "https://uncrate.com/assets_c/2026/07/1969-detomaso-mangusta-1-thumb-960xauto-192194.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784660400000
+    },
     {
       "title": "Kvinna allvarligt skadad i frontalkrock",
       "description": "Kvinna allvarligt skadad",
@@ -45,7 +175,7 @@
     },
     {
       "title": "Efter nio timmars debatt: Orpo och regeringen fick som väntat riksdagens förtroende",
-      "description": "Regeringen behåller förtroendet trots hård kritik för sitt beslut om Garden Helsinki-stödet.",
+      "description": "Regeringen behåller förtroendet trots hård kritik för sitt löfte om stöd till arenaprojektet Garden Helsinki.",
       "link": "https://yle.fi/a/7-10102491?origin=rss",
       "guid": "https://yle.fi/a/7-10102491",
       "image": "",
@@ -72,16 +202,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784658186000
-    },
-    {
-      "title": "Trumps nya hån mot landet",
-      "description": "”Skulle inte överleva”",
-      "link": "https://www.expressen.se/tv/nyheter/trumps-nya-han-mot-landet-skulle-inte-overleva",
-      "guid": "https://www.expressen.se/tv/nyheter/trumps-nya-han-mot-landet-skulle-inte-overleva",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784657674000
     },
     {
       "title": "Robotkläder klär på dig automatiskt",
@@ -724,16 +844,6 @@
       "timestamp": 1784637518000
     },
     {
-      "title": "Kustbevakningen hittade surfande säl",
-      "description": "Uppmaningen från Kustbevakningen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f01def5-f8c3-458c-b151-b6924c5f9024",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f01def5-f8c3-458c-b151-b6924c5f9024",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784637182000
-    },
-    {
       "title": "Adobe uppdaterar kameraappen Project Indigo",
       "description": "Med nya AI-funktioner För ett år sedan släppte Adobe kameraappen Project Indigo till iPhone, en app som man då uppgav skulle ge iPhone-fotografier ett \"mer naturligt utseende\". Nu släpper man dock en uppdatering till appen där man lagt in flera AI-funktioner som är avsedda för att modifiera och redigera foton så att de antagligen ser mindre naturliga ut. Med det som Adobe kallar \"AI Playground\" går det att använda olika verktyg för generativ AI för att modifiera bilderna i olika stilar (\"Styles\"), redigera bilder för att ta bort olika objekt på fotografiet (\"Object Editing\") samt en funktion där användaren mer i detalj kan beskriva vad som ska ändras i bilden (\"Custom Edit\"). Dessutom finns verktyget \"Photo Guidance\" som kan analysera användarens bild för att ge tips om hur de skulle kunna fotografera om bilden för att göra den bättre samt ge förslag på olika redigeringar som kan göras i bilden. AI Playground till Project Indigo kommer att erbjudas slumpmässigt till ett litet antal användare som laddar ner den senaste versionen av appen. Adobe uppger att verktygen för tillfället är gratis, men att man förväntar sig att de kommer att bli så populära att man i framtiden planerar att ta betalt för dem. Ni hittar Project Indigo till iPhone i App Store här . Adobe uppgav i samband med att appen släpptes förra året att en Android-version var på gång, men än så länge har någon sådan inte dykt upp. Nedan hittas några exempel där bilder modifierats och redigerats med Project Indigo. L&auml;s vidare och kommentera: https://feber.se/mobil/adobe-uppdaterar-kameraappen-project-indigo/494266/ L&auml;s mer om Adobe , Project Indigo , AI , iPhone , Fotoredigering , Generativ AI",
       "link": "https://feber.se/mobil/adobe-uppdaterar-kameraappen-project-indigo/494266/?utm_source=rss&utm_medium=feed",
@@ -742,26 +852,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784637000000
-    },
-    {
-      "title": "Ett massivt träd rasade vid Lilltorget i Åbo centrum",
-      "description": "Trädet var en parklind från 1800-talet.",
-      "link": "https://yle.fi/a/7-10102468?origin=rss",
-      "guid": "https://yle.fi/a/7-10102468",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784636590000
-    },
-    {
-      "title": "Folkdansande nordiska ungdomar och barn fyller Ekenäs i en vecka",
-      "description": "Den nordiska folkdans- och musikstämman Barnlek ordnas i år i Ekenäs. Över 300 unga deltar och uppträder runtom i centrum.",
-      "link": "https://yle.fi/a/7-10102221?origin=rss",
-      "guid": "https://yle.fi/a/7-10102221",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784635941000
     },
     {
       "title": "Poddarna för kunskap och insikter i hängmattan",
@@ -792,26 +882,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784635200000
-    },
-    {
-      "title": "Barn satt i bilen",
-      "description": "Kraschade in i gym i Sundsvall",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=adcea2c7-1229-48a1-a4ee-de59fbf1492c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=adcea2c7-1229-48a1-a4ee-de59fbf1492c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784634690000
-    },
-    {
-      "title": "Fullt på Gröna Lund – folk rasande",
-      "description": "Det är fullt inne på Gröna Lund och biljettförsäljningen har stoppats. Något som upprör rejält bland de som köat till nöjesparken. Enligt uppgifter har ordningsvakter tvingats gripa in när personalen blivit hotad av arga besökare. – Folk är rasande, säger en besökare.",
-      "link": "https://www.expressen.se/nyheter/sverige/fullt-pa-grona-lund-folk-rasande/",
-      "guid": "https://www.expressen.se/nyheter/sverige/fullt-pa-grona-lund-folk-rasande/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784633564000
     },
     {
       "title": "Anduril och Archer visar upp ny VTOL-farkost",
@@ -874,16 +944,6 @@
       "timestamp": 1784629800000
     },
     {
-      "title": "En död i brand",
-      "description": "Flerfamiljshus började brinna – mordutredning",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=24c86614-11a3-491b-bef0-c6b90fe8e227",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=24c86614-11a3-491b-bef0-c6b90fe8e227",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784628626000
-    },
-    {
       "title": "USA vill stoppa försäljning av maskerade DJI-drönare",
       "description": "Myndigheten granskar nio bolag som misstänks kringgå importförbudet USA har länge betraktat drönarjätten DJI som en säkerhetsrisk, vilket har lett till omfattande importförbud. Men det har varit relativt lätt att skapa nya företag som då säljer maskerade DJI-produkter för att kringgå landets nationella säkerhetslagar. Men nu planerar den amerikanska telemyndigheten FCC att sätta stopp för detta genom att bannlysa flera företag som misstänks sälja drönare från DJI under andra varumärken. FCC sneglar nu på nio specifika bolag därborta, bland annat Cogito, Skyhigh Tech och WaveGo. FCC har nu öppnat en 30-dagarsperiod där allmänheten och experter kan lämna in bevis och kommentarer innan det slutgiltiga beslutet om ett totalförbud fattas. FCC har befogenhet att dra in tillstånd även för prylar som redan finns på marknaden. Så om allt det här går igenom blir det första gången myndigheten använder sin makt för att bannlysa produkter retroaktivt. DJI har å sin sida uttryckt stor besvikelse över myndighetens agerande. Företaget menar att anklagelserna om säkerhetsbrister saknar grund och att USA:s agerande snarare handlar om att skydda den inhemska marknaden än om faktisk nationell säkerhet. L&auml;s vidare och kommentera: https://feber.se/pryl/usa-vill-stoppa-forsaljning-av-maskerade-dji-dronare/494259/ L&auml;s mer om DJI , FCC , USA , drönare , Cogito , Skyhigh Tech , WaveGo",
       "link": "https://feber.se/pryl/usa-vill-stoppa-forsaljning-av-maskerade-dji-dronare/494259/?utm_source=rss&utm_medium=feed",
@@ -912,16 +972,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784627953000
-    },
-    {
-      "title": "Då kommer veckans soltopp – ”behagligt semesterväder”",
-      "description": "Värmeböljan har övergått i mer klassisk svensk sommar – på många håll kan det nästan kännas höstlikt. Men det finns ett solfönster för hoppfulla semesterfirare. – På torsdagen kan det spricka upp på många håll, säger Kristin Hallberg, meteorolog på SMHI.",
-      "link": "https://www.expressen.se/nyheter/sverige/da-kommer-veckans-soltopp-behagligt-semestervader/",
-      "guid": "https://www.expressen.se/nyheter/sverige/da-kommer-veckans-soltopp-behagligt-semestervader/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784627464000
     },
     {
       "title": "Mikropatch täpper till sårbarheten Legacy Hive",
@@ -1294,16 +1344,6 @@
       "timestamp": 1784575859000
     },
     {
-      "title": "Är det skönt med lite svalka?",
-      "description": "Dagens heta fråga Efter att ha varit varmt ett tag har det blivit lite svalare. Semester med kyla och regn är ju generellt sett inte att föredra, men det är inte alla som gillar värmen. Därför undrar vi hur du ställer dig till värme och kyla. L&auml;s vidare och kommentera: https://feber.se/ar-det-skont-med-lite-svalka/494241/ L&auml;s mer om Väder , Semester , Värme , Kyla , Regn , dagens fråga",
-      "link": "https://feber.se/ar-det-skont-med-lite-svalka/494241/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/ar-det-skont-med-lite-svalka/494241/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784574000000
-    },
-    {
       "title": "XGIMI Elfin Flip 4K",
       "description": "",
       "link": "https://uncrate.com/xgimi-elfin-flip-4k/",
@@ -1314,16 +1354,6 @@
       "timestamp": 1784574000000
     },
     {
-      "title": "Tim Burton on The Batmobile Framed Print",
-      "description": "",
-      "link": "https://uncrate.com/tim-burton-on-the-batmobile-framed-print/",
-      "guid": "https://uncrate.com/tim-burton-on-the-batmobile-framed-print/",
-      "image": "https://uncrate.com/assets_c/2025/10/burton-batmobile1-darkened-thumb-960xauto-186158.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784570400000
-    },
-    {
       "title": "HTV: Söderstadion kokar! | Inför Anderlecht hemma",
       "description": "Bajen behöver ditt stöd hemma mot Anderlecht i Europa League-kvalet på torsdag! Säkra din biljett och var med och skapa stämningen.Köp biljett till hemmamötet med Anderlecht torsdag 23 juli här.",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-soederstadion-kokar-or-infoer-anderlecht-hemma",
@@ -1332,26 +1362,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784570257000
-    },
-    {
-      "title": "Narwal Flow 2 Robot Vacuum",
-      "description": "",
-      "link": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "guid": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "image": "https://uncrate.com/assets_c/2026/07/narwal-robot-vacuum-2-thumb-960xauto-192163.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784568632000
-    },
-    {
-      "title": "Timex x NASA Q Chronograph Watch",
-      "description": "",
-      "link": "https://uncrate.com/timex-x-nasa-q-chronograph-watch/",
-      "guid": "https://uncrate.com/timex-x-nasa-q-chronograph-watch/",
-      "image": "https://uncrate.com/assets_c/2026/05/timex-x-nasa-q-chronograph-watch-1-thumb-960xauto-190702.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784566800000
     },
     {
       "title": "Satsning: Lyfta kvinnliga tränare inom fotboll",
