@@ -1,8 +1,218 @@
 {
-  "updatedAt": "2026-07-21T10:55:49.489Z",
+  "updatedAt": "2026-07-21T13:14:52.329Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Misstänkt för jättebrand",
+      "description": "En person pekas ut för eldinfernot i Drammen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93e1936c-f26b-4239-a526-be9802c34437",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93e1936c-f26b-4239-a526-be9802c34437",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784638950000
+    },
+    {
+      "title": "Nu finns en mikrovågsugn med airfryer",
+      "description": "Kombinationernas kombination? Ninja har en lite udda Airfryer som man kallar för Crispi , i den lägger man maten i en glasskål och så airfryar den från toppen. Nu har man byggt ihop denna med en mikrovågsugn. Tanken är att du ska kunna göra vanliga saker som du gör i en mikrovågsugn, som att värma Billys panpizza, eller i en airfryer. Men du ska också kunna kombinera dessa två. Då börjar maskinen med att mikra maten, och så avslutar den med att köra airfryern så att maten blir krispig och härlig. Mikro och airfryer är ju två maskiner som man vill ha, men som man inte vill ska ta plats i köket. Om två maskiner blir en blir det en maskin mindre. Tyvärr är denna inte så vacker, vilket är tråkigt. Prislappen ligger i USA på 450 dollar. Något svenskt pris finns inte ännu. L&auml;s vidare och kommentera: https://feber.se/pryl/nu-finns-en-mikrovagsugn-med-airfryer/494267/ L&auml;s mer om Ninja , Crispi , Airfryer , Mikrovågsugn , Kök , Matlagning",
+      "link": "https://feber.se/pryl/nu-finns-en-mikrovagsugn-med-airfryer/494267/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/nu-finns-en-mikrovagsugn-med-airfryer/494267/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784638800000
+    },
+    {
+      "title": "Nya tullar: Nu går Trump till attack igen",
+      "description": "Efter att ha blivit irriterad på rök från kanadensiska skogsbränder, inför nu Donald Trump tullar mot Kanada på 50 procent. USA:s president Donald Trump förklarade häromdagen sin antipati mot den rök som vällde in över gränsen, från kanadensiska skogsbränder och hotade med åtgärder. Nu kommer de i form av nya tullar på 50 procent på […]",
+      "link": "https://www.dagensps.se/bors-finans/nya-tullar-nu-gar-trump-till-attack-igen/",
+      "guid": "https://www.dagensps.se/?p=1657811",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl2yjp7cs-u2m-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784638569000
+    },
+    {
+      "title": "Hungern minskar i världen men riskerna kvarstår",
+      "description": "Afrika har den största hungrande befolkningen med 309 miljoner människor – en av fem afrikaner.",
+      "link": "https://yle.fi/a/7-10102466?origin=rss",
+      "guid": "https://yle.fi/a/7-10102466",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784637817000
+    },
+    {
+      "title": "Polisen ryter till om (o)nödiga brottet: \"Öppna inte gylfen\"",
+      "description": "Polisen ertappar och bötfäller ibland personer som kissar på offentlig plats.",
+      "link": "https://www.mitti.se/nyheter/polisen-ryter-till-om-onodiga-brottet-oppna-inte-gylfen-6.3.376563.a64cb1a84a",
+      "guid": "https://www.mitti.se/nyheter/polisen-ryter-till-om-onodiga-brottet-oppna-inte-gylfen-6.3.376563.a64cb1a84a",
+      "image": "https://www.mitti.se/image-3.376817.300705.20260721131229.0d3653dd68?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784637559000
+    },
+    {
+      "title": "Nya ägaren avslöjar inte sin plan för Nederkirjala fritidsområde",
+      "description": "Yle Åboland nådde den nya ägaren för att fråga om fritidsområdets framtid men fick inga svar.",
+      "link": "https://yle.fi/a/7-10102462?origin=rss",
+      "guid": "https://yle.fi/a/7-10102462",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784637518000
+    },
+    {
+      "title": "Kustbevakningen hittade surfande säl",
+      "description": "Uppmaningen från Kustbevakningen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f01def5-f8c3-458c-b151-b6924c5f9024",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f01def5-f8c3-458c-b151-b6924c5f9024",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784637182000
+    },
+    {
+      "title": "Adobe uppdaterar kameraappen Project Indigo",
+      "description": "Med nya AI-funktioner För ett år sedan släppte Adobe kameraappen Project Indigo till iPhone, en app som man då uppgav skulle ge iPhone-fotografier ett \"mer naturligt utseende\". Nu släpper man dock en uppdatering till appen där man lagt in flera AI-funktioner som är avsedda för att modifiera och redigera foton så att de antagligen ser mindre naturliga ut. Med det som Adobe kallar \"AI Playground\" går det att använda olika verktyg för generativ AI för att modifiera bilderna i olika stilar (\"Styles\"), redigera bilder för att ta bort olika objekt på fotografiet (\"Object Editing\") samt en funktion där användaren mer i detalj kan beskriva vad som ska ändras i bilden (\"Custom Edit\"). Dessutom finns verktyget \"Photo Guidance\" som kan analysera användarens bild för att ge tips om hur de skulle kunna fotografera om bilden för att göra den bättre samt ge förslag på olika redigeringar som kan göras i bilden. AI Playground till Project Indigo kommer att erbjudas slumpmässigt till ett litet antal användare som laddar ner den senaste versionen av appen. Adobe uppger att verktygen för tillfället är gratis, men att man förväntar sig att de kommer att bli så populära att man i framtiden planerar att ta betalt för dem. Ni hittar Project Indigo till iPhone i App Store här . Adobe uppgav i samband med att appen släpptes förra året att en Android-version var på gång, men än så länge har någon sådan inte dykt upp. Nedan hittas några exempel där bilder modifierats och redigerats med Project Indigo. L&auml;s vidare och kommentera: https://feber.se/mobil/adobe-uppdaterar-kameraappen-project-indigo/494266/ L&auml;s mer om Adobe , Project Indigo , AI , iPhone , Fotoredigering , Generativ AI",
+      "link": "https://feber.se/mobil/adobe-uppdaterar-kameraappen-project-indigo/494266/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/adobe-uppdaterar-kameraappen-project-indigo/494266/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784637000000
+    },
+    {
+      "title": "Ett massivt träd rasade vid Lilltorget i Åbo centrum",
+      "description": "Trädet var en parklind från 1800-talet.",
+      "link": "https://yle.fi/a/7-10102468?origin=rss",
+      "guid": "https://yle.fi/a/7-10102468",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784636590000
+    },
+    {
+      "title": "Novo Nordisk drar Eli Lilly inför domstol",
+      "description": "Novo Nordisk stämmer Eli Lilly och hävdar att konkurrenten ägnar sig åt vilseledande marknadsföring. Kravet är att det stoppas. Novo Nordisk har nu väckt talan i domstol mot Eli Lilly. Orsaken är konkurrentens reklamkampanjer för sina storsäljande läkemedel mot fetma och diabetes. Reklamen är utformad för att vilseledande konsumenter om läkemedlens effekt, jämfört med Novo […]",
+      "link": "https://www.dagensps.se/bors-finans/novo-nordisk-drar-eli-lilly-infor-domstol/",
+      "guid": "https://www.dagensps.se/?p=1657798",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl0dkfkdp0ozc-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784636420000
+    },
+    {
+      "title": "Folkdansande nordiska ungdomar och barn fyller Ekenäs i en vecka",
+      "description": "Den nordiska folkdans- och musikstämman Barnlek ordnas i år i Ekenäs. Över 300 unga deltar och uppträder runtom i centrum.",
+      "link": "https://yle.fi/a/7-10102221?origin=rss",
+      "guid": "https://yle.fi/a/7-10102221",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784635941000
+    },
+    {
+      "title": "Boeing mot Airbus: Leveranstakten avgör vinnaren på börsen",
+      "description": "Boeing och Airbus har börjat positionera sig för nästa generation smalkroppsflygplan, arvtagarna till 737 Max och A320neo. Men innan den striden börjar måste båda leverera på de ordrar som redan finns. Dagens PS har följt maktkampen länge, senast när Boeing slog Airbus på leveranser för första gången på sju år. Slaget avgörs numera av vem […]",
+      "link": "https://www.dagensps.se/bors-finans/boeing-mot-airbus-leveranstakten-avgor-vinnaren-pa-borsen/",
+      "guid": "https://www.dagensps.se/?p=1657775",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/maskininlarning-i-hedgefonder-1-23.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784635429000
+    },
+    {
+      "title": "Poddarna för kunskap och insikter i hängmattan",
+      "description": "Listan på bra poddtips för hängmattan i sommar.",
+      "link": "https://www.mitti.se/nyheter/poddarna-for-kunskap-och-insikter-i-hangmattan-6.3.371691.a3eb839f57",
+      "guid": "https://www.mitti.se/nyheter/poddarna-for-kunskap-och-insikter-i-hangmattan-6.3.371691.a3eb839f57",
+      "image": "https://www.mitti.se/image-3.374699.297780.20260721123209.d430683301?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784635260000
+    },
+    {
+      "title": "YouTube stoppar annonser för AI-slop",
+      "description": "För klipp som massproduceras utan kreativ höjd YouTube verkar nu skärpa tonen ännu mer mot den våg av AI-slop som svämmat över plattformen på senare tid. I ett nytt förtydligande av sina regler skriver de att videor som ofta är skapade med minimal ansträngning för att locka till klick kommer att nekas annonsintäkter. Enligt YouTube handlar det främst om tre typer av innehåll. 1. Massproducerat och enformigt innehåll: Videor som saknar kreativ höjd och bara upprepar samma mönster. 2. Känslomässigt manipulativt material: Innehåll som upplevs som obehagligt eller som exploaterar tragiska situationer (exempelvis videor på djur i nöd) för att väcka starka reaktioner. 3. AI-personligheter: Syntetiska karaktärer som används för att producera innehåll på löpande band. YouTube säger att de inte är AI som verktyg som är problemet utan mer när det används för att massproducera innehåll där målet är kvantitet snarare än kvalitet och där en tydlig röd tråd saknas. L&auml;s vidare och kommentera: https://feber.se/internet/youtube-stoppar-annonser-for-ai-slop/494261/ L&auml;s mer om YouTube , AI , Innehåll , Annonser , Regler , Plattform , Digitalt",
+      "link": "https://feber.se/internet/youtube-stoppar-annonser-for-ai-slop/494261/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/youtube-stoppar-annonser-for-ai-slop/494261/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784635200000
+    },
+    {
+      "title": "Barn satt i bilen",
+      "description": "Kraschade in i gym i Sundsvall",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=adcea2c7-1229-48a1-a4ee-de59fbf1492c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=adcea2c7-1229-48a1-a4ee-de59fbf1492c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784634690000
+    },
+    {
+      "title": "Iran: ”Vi har attackerat Amazon i Bahrain”",
+      "description": "Iran uppger att man ”attackerat och förstört” Amazons datainfrastruktur i Bahrain. USA fortsätter anfalla Iran och oljepriset stiger. Kriget mellan USA och Iran fortsätter. Irans revolutionsgarde rapporterar att man attackerat Amazons datainfrastruktur i Bahrain. Tisdag morgon meddelade revolutionsgardet att Iran ”attackerat det amerikanska företaget Amazons centrala datainfrastruktur i Bahrain med flera kryssningsrobotar och förstört den”. […]",
+      "link": "https://www.dagensps.se/varlden/iran-vi-har-attackerat-amazon-i-bahrain/",
+      "guid": "https://www.dagensps.se/?p=1657780",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlyrbsp-iedsg-nh-1-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784634493000
+    },
+    {
+      "title": "Fullt på Gröna Lund – folk rasande",
+      "description": "Det är fullt inne på Gröna Lund och biljettförsäljningen har stoppats. Något som upprör rejält bland de som köat till nöjesparken. Enligt uppgifter har ordningsvakter tvingats gripa in när personalen blivit hotad av arga besökare. – Folk är rasande, säger en besökare.",
+      "link": "https://www.expressen.se/nyheter/sverige/fullt-pa-grona-lund-folk-rasande/",
+      "guid": "https://www.expressen.se/nyheter/sverige/fullt-pa-grona-lund-folk-rasande/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784633564000
+    },
+    {
+      "title": "Anduril och Archer visar upp ny VTOL-farkost",
+      "description": "För militärt och civilt bruk Anduril, Oculus-grundaren Palmer Luckeys försvarsföretag, har tillsammans med Archer Aviation presenterat VTOL-farkosten Thunder som är avsedd att bli en helt autonom rotorfarkost som ska kunna utföra uppdrag tillsammans med bemannade flygfarkoster, ett koncept som kallas för \"Loyal Wingman\". Till skillnad från Archers tidigare eldrivna VTOL-farkoster är Thunder en hybridlösning, något som kommer att ge farkosten längre räckvidd. Den kommer att kunna starta och landa vertikalt, precis som en helikopter och är tänkt att kunna utföra uppdrag tillsammans med till exempel bemannade Apache-helikoptrar. Anduril och Archer har än så länge inte släppt några exakta specifikationer för räckvidd, lastkapacitet och toppfart. Archer Aviation planerar att släppa en civil version av Thunder som man kallar för Halo vilken är tänkt att användas som flygtaxi. Någon gång under 2027 uppger Archer och Anduril att man kommer att göra den första testflygningen med Thunder. Här nedanför hittas ett videoklipp från Anduril där man visar upp Thunder samt en bild på Halo, den civila versionen av farkosten. L&auml;s vidare och kommentera: https://feber.se/fordon/anduril-och-archer-visar-upp-ny-vtol-farkost/494255/ L&auml;s mer om Anduril , Palmer Luckey , Archer Aviation , Thunder , Loyal Wingman , Halo , Flygtaxi",
+      "link": "https://feber.se/fordon/anduril-och-archer-visar-upp-ny-vtol-farkost/494255/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/anduril-och-archer-visar-upp-ny-vtol-farkost/494255/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784633400000
+    },
+    {
+      "title": "Lekplats avspärrad – höga halter av bly i marken",
+      "description": "En lekplats i Östberga har fått stänga på obestämd tid – på grund av markföroreningar.",
+      "link": "https://www.mitti.se/nyheter/lekplats-avsparrad--hoga-halter-av-bly-i-marken-6.3.368625.b0f65393dc",
+      "guid": "https://www.mitti.se/nyheter/lekplats-avsparrad--hoga-halter-av-bly-i-marken-6.3.368625.b0f65393dc",
+      "image": "https://www.mitti.se/image-3.375972.299506.20260721124347.abf984894d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784632735000
+    },
+    {
+      "title": "E6 avstängd efter olycka med husvagn",
+      "description": "E6 avstängd • Ambulanshelikopter till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4012dc1c-8e3e-416f-87b3-9223d84f7532",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4012dc1c-8e3e-416f-87b3-9223d84f7532",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784631884000
+    },
+    {
+      "title": "Regeringen tillsätter utredning om studiestödssystemet",
+      "description": "Kanske kan leda till ändring av fribeloppet Regeringen meddelade idag att man tillsätter en utredning av studiemedelssystemet med syfte att undersöka om det är anpassat till dagens förutsättningar. Man vill bland annat titta på att göra förändringar i fribeloppet, den inkomst som studenter kan få från arbete utan att det påverkar nivåerna på studiemedlen. Bland annat föreslås att inkom­ster under sommarledighet undantas från inkomst­prövningen. Finansminister Elisabeth Svantesson säger: – Det finns anledning att se över reglerna gällande fribeloppet för CSN då det kan upplevas som både orättvist och kontraproduktivt att minska studiemedlen för t.ex. sjuksköterskestudenter som väljer att arbeta inom vården när ordinarie personal är på sommarsemester. Sommarjobb ger dessutom studenter en första kontakt med arbetsmarknaden vilket ökar möjligheten att få jobb efter studierna. Andra syften med utredningen av studiemedelssystemet är bland annat att bedöma om dagens studiemedelssystem är ändamålsenligt utformat i förhållande till målen för studiestödet samt att bedöma om systemet ger tillräckliga incitament för individer och grupper att studera och vid behov föreslå förändringar. Utredningen om studiemedelssystemet ska vara klar senast 29 oktober 2027. L&auml;s vidare och kommentera: https://feber.se/samhalle/regeringen-tillsatter-utredning-om-studiestodssystemet/494274/ L&auml;s mer om Regeringen , CSN , Elisabeth Svantesson , studiemedel , fribelopp , arbetsmarknad",
+      "link": "https://feber.se/samhalle/regeringen-tillsatter-utredning-om-studiestodssystemet/494274/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/regeringen-tillsatter-utredning-om-studiestodssystemet/494274/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784631600000
+    },
     {
       "title": "Tävlingar i discgolf stänger området kring Pumpviken i Karis",
       "description": "Som bäst spelas det en turnering i discgolf i området kring Pumpviken i Karis. Turneringen gör att parken delvis är stängd för allmänheten fram till söndag.",
@@ -35,7 +245,7 @@
     },
     {
       "title": "TSMC höjer priserna på chip",
-      "description": "Världens största chiptillverkare sägs höja priserna med upp till tio procent Taiwanesiska TSMC är världens ledande chiptillverkare och enligt nya uppgifter kommer de att börja höja sina priser inom en snar framtid. Det är Nikkei Asia som rapporterar om att det handlar om prisjusteringar på upp till tio procent som förväntas träda i kraft vid nästa årsskifte. TSMC levererar komponenter till jättar som Apple och NVIDIA så det kan bli ännu dyrare produkter att se fram emot under nästa år. Några officiella kommentarer kring detta har TSMC ännu inte gjort. L&auml;s vidare och kommentera: https://feber.se/pryl/tsmc-hojer-priserna-pa-chip/494276/ L&auml;s mer om TSMC , Nikkei Asia , Apple , NVIDIA , halvledare , teknik , chip",
+      "description": "Sägs höja priserna med upp till tio procent Taiwanesiska TSMC är världens ledande chiptillverkare och enligt nya uppgifter kommer de att börja höja sina priser inom en snar framtid. Det är Nikkei Asia som rapporterar om att det handlar om prisjusteringar på upp till tio procent som förväntas träda i kraft vid nästa årsskifte. TSMC levererar komponenter till jättar som Apple och NVIDIA så det kan bli ännu dyrare produkter att se fram emot under nästa år. Några officiella kommentarer kring detta har TSMC ännu inte gjort. L&auml;s vidare och kommentera: https://feber.se/pryl/tsmc-hojer-priserna-pa-chip/494276/ L&auml;s mer om TSMC , Nikkei Asia , Apple , NVIDIA , halvledare , teknik , chip",
       "link": "https://feber.se/pryl/tsmc-hojer-priserna-pa-chip/494276/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/pryl/tsmc-hojer-priserna-pa-chip/494276/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -54,8 +264,8 @@
       "timestamp": 1784629671000
     },
     {
-      "title": "Yles uppgifter: Räddningsskärmen utlöstes inte i flygolyckan i Hyvinge",
-      "description": "En person dog då ett småflygplan kraschade i Hyvinge.",
+      "title": "Flygolyckan i Hyvinge: Personen som dog var en 71-årig man",
+      "description": "Den andra som befann sig i planet är en 48-årig man. Han skadades allvarligt.",
       "link": "https://yle.fi/a/7-10102458?origin=rss",
       "guid": "https://yle.fi/a/7-10102458",
       "image": "",
@@ -224,16 +434,6 @@
       "timestamp": 1784625924000
     },
     {
-      "title": "Space X: Den stora utmaningen som avgör",
-      "description": "Space X får sig en läxa. Det handlar om konsekvenserna av en börsnotering när produkten ännu är på experimentstadiet. I torsdag tvingades Elon Musks Space X ställa in det senaste försöket att skjuta upp den enorma rymdfarkosten Starship. Enligt Musk själv var det flera motorer som inte startade. Nu ser flera analytiker det som en […]",
-      "link": "https://www.dagensps.se/bors-finans/space-x-den-stora-utmaningen-som-avgor/",
-      "guid": "https://www.dagensps.se/?p=1657716",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl5pdshlassi0-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784625892000
-    },
-    {
       "title": "Två våldtäktsfall under Gothia Cup",
       "description": "Två misstänkta fall utreds",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3e10463a-f53c-49e1-868f-482c15704c10",
@@ -242,16 +442,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784625468000
-    },
-    {
-      "title": "Därför föds färre barn – Nobelpristagaren skyller på männen",
-      "description": "Fler bidrag, särskilda bonusar och politiska kampanjer ska få kvinnor att föda fler barn. Men Nobelpristagaren Claudia Goldin menar att politikerna missar halva ekvationen. ”Ju tydligare män kan visa att de kommer att vara pålitliga pappor och inte en besvikelse, desto större är sannolikheten att högutbildade kvinnor skaffar barn”, skriver hon. Födelsetalen har sjunkit kraftigt […]",
-      "link": "https://www.dagensps.se/varlden/darfor-fods-farre-barn-nobelpristagaren-skyller-pa-mannen/",
-      "guid": "https://www.dagensps.se/?p=1657711",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlqxe2ddindqi-normalhires.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784625368000
     },
     {
       "title": "Uppgifter: Trumpadministrationen överväger begränsningar mot kinesiska AI-modeller",
@@ -302,26 +492,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784623200000
-    },
-    {
-      "title": "Här är Europas mest skuldsatta hushåll – Sverige sticker ut",
-      "description": "Svenska hushåll hör till de mest skuldsatta i hela Europa. Bara danskar och nederländare har större skulder i förhållande till landets ekonomi. Bilden av ett sparsamt Nordeuropa och ett mer skuldtyngt Sydeuropa får sig en törn i ny statistik från Eurostat. I själva verket är det hushållen i Europas rika nordliga och västliga länder som […]",
-      "link": "https://www.dagensps.se/privatekonomi/har-ar-europas-mest-skuldsatta-hushall-sverige-sticker-ut/",
-      "guid": "https://www.dagensps.se/?p=1657693",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlgpsvuvfscuo-normalhires.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784622906000
-    },
-    {
-      "title": "Ryanair lovar ”Det är inget fel på våra plan”: Men här är lite tips",
-      "description": "Efter att en 61-årig man delvis sögs ut genom ett trasigt kabinfönster på ett Ryanair-plan försäkrar flygbolaget att deras flygplan är säkra. Men hur vanligt är den här typen av händelser egentligen – och vad kan du som passagerare faktiskt göra för att minska risken? Vi skrev i förra veckan om Ryanair/Malta Air-flygningen från Thessaloniki […]",
-      "link": "https://www.dagensps.se/varlden/ryanair-lovar-det-ar-inget-fel-pa-vara-plan-men-har-ar-lite-tips/",
-      "guid": "https://www.dagensps.se/?p=1657684",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/ryanair.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784622853000
     },
     {
       "title": "Google jobbar på nytt AI-chipp som ska göra Gemini mer effektivt",
@@ -434,7 +604,7 @@
       "timestamp": 1784619000000
     },
     {
-      "title": "Massiv folkfest i Madrid efter VM-guldet",
+      "title": "Massiv folkfest i Madrid efter VM-guldet – över en miljon människor på gatorna",
       "description": "Spanska landslaget fick ett storslaget mottagande efter VM-guldet. Över en miljon uppskattas ha firat på gatorna i Madrid.",
       "link": "https://yle.fi/a/7-10102442?origin=rss",
       "guid": "https://yle.fi/a/7-10102442",
@@ -548,7 +718,7 @@
       "description": "Solna tingsrätt dömer tre pojkar för människorov och misshandel efter att de filmat ett brutalt överfall på en jämnårig i Kista. De tvingade offret till en jordkällare.",
       "link": "https://www.mitti.se/nyheter/pojkar-tvingade-ner-jamnarig-i-jordkallare--filmade-misshandel-6.3.376552.b96e0cae70",
       "guid": "https://www.mitti.se/nyheter/pojkar-tvingade-ner-jamnarig-i-jordkallare--filmade-misshandel-6.3.376552.b96e0cae70",
-      "image": "https://www.mitti.se/image-3.250258.300689.20260721085029.6155dec56d?format=jpeg",
+      "image": "https://www.mitti.se/image-3.250258.300689.20260721121841.b7547503fb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784614367000
@@ -594,16 +764,6 @@
       "timestamp": 1784612700000
     },
     {
-      "title": "Egnahemshus i Kristinestad förstördes delvis i brand",
-      "description": "Nio enheter från fyra brandstationer ryckte ut för att släcka branden strax före midnatt på måndag.",
-      "link": "https://yle.fi/a/7-10102435?origin=rss",
-      "guid": "https://yle.fi/a/7-10102435",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784611837000
-    },
-    {
       "title": "Proffskocken: Det är vanligaste misstaget när folk grillar",
       "description": "Han är köksmästaren som älskar att grilla. Inte minst fisk och skaldjur – en självklarhet när man är från Västkusten! Här delar Alexander Stärnerz med sig av tolv tips till dig som grillar i sommar.",
       "link": "https://alltommat.expressen.se/artiklar/proffskocken-det-ar-vanligaste-misstaget-nar-folk-grillar/",
@@ -612,16 +772,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784611800000
-    },
-    {
-      "title": "Fifa granskar Argentinas agerande efter slutvisslan",
-      "description": "Efter förlusten mot Spanien attackerade argentinska spelare sina motståndare. Nu meddelar Fifa att de har inlett en utredning om händelserna.",
-      "link": "https://yle.fi/a/7-10102432?origin=rss",
-      "guid": "https://yle.fi/a/7-10102432",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784611073000
     },
     {
       "title": "Kvinna misshandlade flicka",
@@ -644,16 +794,6 @@
       "timestamp": 1784610303000
     },
     {
-      "title": "Kasmir tappade håret som 18-åring och hans manlighetsideal formades av serien Sex and the City",
-      "description": "Popartisten Kasmir slog igenom år 2014 med hitten Vadelmavene. Man kunde lätt tro att bakom fanns en glad och självsäker man. Det kunde inte vara längre ifrån sanningen.",
-      "link": "https://yle.fi/a/7-10099269?origin=rss",
-      "guid": "https://yle.fi/a/7-10099269",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784610013000
-    },
-    {
       "title": "Sommar i P1: Maria Sid om relationen som bröt ner henne",
       "description": "ALBIN JULIN: Så många [geting] får Maria Sids sommarprat",
       "link": "https://www.expressen.se/noje/sommar-i-p1-maria-sid-om-relationen-som-brot-ner-henne/",
@@ -662,16 +802,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784610000000
-    },
-    {
-      "title": "Beväring dog på Karelska brigaden",
-      "description": "Polisen misstänker inte brott, skriver STT.",
-      "link": "https://yle.fi/a/7-10102431?origin=rss",
-      "guid": "https://yle.fi/a/7-10102431",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784607774000
     },
     {
       "title": "D4vd misstänks för mordet på Celeste",
@@ -702,46 +832,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784602800000
-    },
-    {
-      "title": "Flera attacker",
-      "description": "Tankerfartyg träffat i Hormuzsundet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f20ee7e2-8e4a-4d6a-bec3-8d3b9803ec00",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f20ee7e2-8e4a-4d6a-bec3-8d3b9803ec00",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784602060000
-    },
-    {
-      "title": "Bil har kraschat in i gym i Sundsvall",
-      "description": "En personbil har kraschat in på Nordic Wellness i Sundsvall. Två personer har förts till sjukhus. – Det small som om det vore en bomb, säger vittnet Henry Nyman.",
-      "link": "https://www.expressen.se/nyheter/sverige/bil-har-kraschat-in-i-gym-i-sundsvall/",
-      "guid": "https://www.expressen.se/nyheter/sverige/bil-har-kraschat-in-i-gym-i-sundsvall/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784598091000
-    },
-    {
-      "title": "FBI-chefen planerar resa till Ryssland",
-      "description": "FBI-chefen kan snart göra ett ”ovanligt” och ”känsligt” besök till Ryssland. Det är oklart om Kash Patel ska träffa Vladimir Putin – och även vad syftet med resan är, skriver Politico .",
-      "link": "https://www.expressen.se/nyheter/varlden/fbi-chefen-till-ryssland/",
-      "guid": "https://www.expressen.se/nyheter/varlden/fbi-chefen-till-ryssland/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784593471000
-    },
-    {
-      "title": "Minst 27 döda",
-      "description": "Efter färjeolycka vid Guyanas kust",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2014b0bb-7ba0-4211-a6fb-5634661aa134",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2014b0bb-7ba0-4211-a6fb-5634661aa134",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784590291000
     },
     {
       "title": "Puffer Inflatable Tent",
@@ -1124,16 +1214,6 @@
       "timestamp": 1784552400000
     },
     {
-      "title": "Säkerhetshål i Age of Empires II är nu lagat",
-      "description": "Spelinbjudan kunde vara en digital trojansk häst Att det trevliga spelet Age of Empires II: Definitive Edition skulle vara en stor säkerhetsrisk för ens dator kan kanske vara svårt att tro. Men tydligen hade spelet en liten bugg som gjorde att illvilliga personer kunde skicka en manipulerad spelinbjudan som då kunde smyga in skadliga filer på mottagarens dator och med dem ta över kontrollen på distans. Microsoft har nu täppt till detta säkerhetshål, vilket innebär att man nu återigen borde kunna spela med främlingar utan att vara orolig för eventuella virus. L&auml;s vidare och kommentera: https://feber.se/spel/sakerhetshal-i-age-of-empires-ii-ar-nu-lagat/494218/ L&auml;s mer om Age of Empires , Microsoft , Säkerhet , Bugg , Virus , Spel",
-      "link": "https://feber.se/spel/sakerhetshal-i-age-of-empires-ii-ar-nu-lagat/494218/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/sakerhetshal-i-age-of-empires-ii-ar-nu-lagat/494218/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784550600000
-    },
-    {
       "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
       "description": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
@@ -1174,26 +1254,6 @@
       "timestamp": 1784548811000
     },
     {
-      "title": "Australien reglerar AI och datacenter",
-      "description": "Ny myndighet ska skydda upphovsrätten och ställa krav på energi Den australiska regeringen har nu lagt fram en plan för att reglera den snabba AI-utvecklingen i landet. Huvudfokus ligger på att skydda landets författare, musiker och konstnärer från att få sina verk utnyttjade av techbolag utan tillstånd eller ersättning. Som en del av satsningen inrättas nu en särskild AI-myndighet som ska övervaka sektorn och se till att upphovsrätten moderniseras för dagens AI-tidsålder. Utöver de etiska frågorna kring upphovsrätt tar regeringen även sikte på den fysiska infrastrukturen bakom AI. Nya, strikta regler införs för byggandet av datacenter. Dessa anläggningar ska inte få konkurrera med bostadsmarknaden om mark, och de får inte leda till höjda elpriser för vanliga hushåll. Kraven innebär bland annat att datacentren själva måste stå för kostnaderna för sin elanslutning och att de ska bidra med lika mycket förnybar energi till elnätet som de förbrukar. Även vattenanvändning och energieffektivitet ska optimeras för att minska miljöpåverkan. Inte helt oväntat välkomnades dessa regler av kultursektorn, medan röster inom näringslivet varnar för att regelverken inte får bli så krångliga att de skrämmer bort investeringar från landet. Hur som helst förväntas den nya lagstiftningen vara på plats i början av nästa år. L&auml;s vidare och kommentera: https://feber.se/samhalle/australien-reglerar-ai-och-datacenter/494221/ L&auml;s mer om Australien , AI , Upphovsrätt , Datacenter , Miljö , Lagstiftning , Kultursektorn",
-      "link": "https://feber.se/samhalle/australien-reglerar-ai-och-datacenter/494221/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/australien-reglerar-ai-och-datacenter/494221/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784548800000
-    },
-    {
-      "title": "Qiji T1000 är en robothäst som du kan rida på",
-      "description": "Ska kunna lastas med ett ton material I helgen arrangerades AI- och robotmässan WAIC 2026 (World Artificial Intelligence Conference) i kinesiska Shanghai och då visade företaget Dax Robotics upp en slags robothäst som är tänkt att användas för både material- och persontransporter. Den fyrbenta roboten Qiji T1000 uppges kunna lastas med upp till 1000 kg och ha en topphastighet på cirka 18 km/h. Fördelen med robothästar jämfört med fyrhjulsdrivna motorcyklar är att de kan ta sig fram i terräng där motorcyklar inte kan köra. Dax Robotics planerar att börja sälja Qiji T1000 till företag snart. Det uppges dock inte vad den kommer att kosta. Japanska Kawasaki visade upp en liknande skapelse förra året som man kallar Corleo, den kommer dock inte att börja tillverkas förrän 2030 uppgav företaget då. L&auml;s vidare och kommentera: https://feber.se/pryl/qiji-t1000-ar-en-robothast-som-du-kan-rida-pa/494225/ L&auml;s mer om WAIC , Shanghai , Dax Robotics , Qiji , Kawazaki , Corleo",
-      "link": "https://feber.se/pryl/qiji-t1000-ar-en-robothast-som-du-kan-rida-pa/494225/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/qiji-t1000-ar-en-robothast-som-du-kan-rida-pa/494225/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784547000000
-    },
-    {
       "title": "Äntligen slipper skyltarna på Ekerövägen vara igentejpade",
       "description": "Bussfilen på Ekerövägen kommer från 22 juli gå hela vägen mellan Tappström och Drottningholm.",
       "link": "https://www.mitti.se/nyheter/antligen-slipper-skyltarna-pa-ekerovagen-vara-igentejpade-6.3.376551.bcfdc20749",
@@ -1212,26 +1272,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784545954000
-    },
-    {
-      "title": "Luke Skywalkers ljussabel såld för miljonbelopp",
-      "description": "Gick för 36 miljoner kronor En bit filmhistoria har precis blivit den dyraste Stjärnornas krig-rekvisitan någonsin. Luke Skywalkers ikoniska ljussabel och en tillhörande handprotes från Rymdimperiet slår tillbaka har nämligen nyligen auktionerats ut för nästan 36 miljoner kronor. Försäljningen, som skedde via Heritage Auctions, innebär att det tidigare rekordet för såld Stjärnornas krig-rekvisita har slagits. Det gamla rekordet hölls av Darth Vaders ljussabel, som förra året gick för omkring 34 miljoner kronor. L&auml;s vidare och kommentera: https://feber.se/film/luke-skywalkers-ljussabel-sald-for-miljonbelopp/494214/ L&auml;s mer om Star Wars , Luke Skywalker , Darth Vader , Heritage Auctions , filmhistoria , rekvisita",
-      "link": "https://feber.se/film/luke-skywalkers-ljussabel-sald-for-miljonbelopp/494214/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/luke-skywalkers-ljussabel-sald-for-miljonbelopp/494214/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784545200000
-    },
-    {
-      "title": "Kampen om järntronen dröjer",
-      "description": "Game of Thrones: War for Westeros försenas till 2027 Det lovande RTS-spelet Game of Thrones: War for Westeros har fått sig ett nytt släppdatum. Utvecklaren PlaySide meddelade nämligen under förra veckan att spelet inte kommer att släppas i år utan att det istället kommer att dyka upp under början av 2027 någon gång. Anledningen till förseningen är helt enkelt att man vill göra spelet så bra som möjligt innan det släpps, vilket man väl får se till att snällt respektera. Ett gäng rörliga giffar från spelet kan hittas via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/kampen-om-jarntronen-drojer/494216/ L&auml;s mer om Game of Thrones , War for Westeros , Playside , RTS , Spel",
-      "link": "https://feber.se/spel/kampen-om-jarntronen-drojer/494216/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/kampen-om-jarntronen-drojer/494216/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784543400000
     },
     {
       "title": "Microsoft skickar ut akutfixar för Dell-datorer",
@@ -2414,21 +2454,21 @@
       "timestamp": 1784180241000
     },
     {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
       "title": "Därför har SL byggt om i Mörby centrum",
       "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
       "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784178000000
