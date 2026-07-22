@@ -1,8 +1,238 @@
 {
-  "updatedAt": "2026-07-22T01:28:44.259Z",
+  "updatedAt": "2026-07-22T05:39:11.775Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Här kan det bli stopp för wifi-samtal på flyget",
+      "description": "I likhet med rökförbudet på flygplan kommer telefonsamtal ombord att förbjudas i USA om det nya lagförslaget klubbas. Lagförslaget som förbjuder passagerarna att prata i telefon har lagts fram, vilket välkomnas av flygpersonal. Flygvärdinnor anser att förbudet behövs då det kommer att vara till fördel för såväl besättningen som övriga passagerare ombord. Vissa flygbolag tillåter […]",
+      "link": "https://www.dagensps.se/foretag/har-kan-det-bli-stopp-for-wifi-samtal-pa-flyget/",
+      "guid": "https://www.dagensps.se/?p=1657887",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/wifisamtal.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784698555000
+    },
+    {
+      "title": "En man till sjukhus med helikopter efter knivattack",
+      "description": "Två män överfölls med kniv i Alby, Botkyrka, och en fördes till sjukhus.",
+      "link": "https://www.mitti.se/nyheter/en-man-till-sjukhus-med-helikopter-efter-knivattack-6.3.376727.408737a1cf",
+      "guid": "https://www.mitti.se/nyheter/en-man-till-sjukhus-med-helikopter-efter-knivattack-6.3.376727.408737a1cf",
+      "image": "https://www.mitti.se/image-3.354874.300878.20260722053619.1.d862afb4ec?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784698541000
+    },
+    {
+      "title": "Brand härjar på återvinningsanläggning i Vanda",
+      "description": "Strax före klockan fem fick räddningsverket in ett larm om en brand i östra Vanda. Det är soporna intill en återvinningsanläggning som brinner.",
+      "link": "https://yle.fi/a/7-10102501?origin=rss",
+      "guid": "https://yle.fi/a/7-10102501",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784698039000
+    },
+    {
+      "title": "Frankrike stoppar sociala medier för barn under 15",
+      "description": "Frankrike blir det första EU-landet att förbjuda barn under 15 år från att använda sociala medier. Den nya lagen tvingar plattformar som TikTok, Instagram och Snapchat att stänga ner konton för underåriga. Med böter på upp till 35 miljoner dollar om de misslyckas. Det franska parlamentet röstade på tisdagen igenom ett förbud mot sociala medier […]",
+      "link": "https://www.dagensps.se/varlden/frankrike-stoppar-sociala-medier-for-barn-under-15/",
+      "guid": "https://www.dagensps.se/?p=1657878",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/macron-sociala-medier.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784697962000
+    },
+    {
+      "title": "Tonåring död i mc-olycka",
+      "description": "Krockade med bil på E20",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ca60fe3-e354-497e-b14d-aeaea1e114b5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ca60fe3-e354-497e-b14d-aeaea1e114b5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784697642000
+    },
+    {
+      "title": "Trump inför 100-procentiga tullar på läkemedel",
+      "description": "Först höjs tullavgiften på importerade läkemedel till USA till 100 procent för att sedan utökas till 200 procent, deklarerar president Donald Trump. Läkemedel som importeras till USA kommer under två år att ha nolltullar, men från och med den 1 augusti 2028 gäller 100 procent i tullavgift som ett år senare stiger till 200 procent. […]",
+      "link": "https://www.dagensps.se/varlden/trump-infor-100-procentiga-tullar-pa-lakemedel/",
+      "guid": "https://www.dagensps.se/?p=1657879",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/tullar.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784696792000
+    },
+    {
+      "title": "AI-verktyg hackade konkurrent",
+      "description": "Det var i förra veckan som startup-företaget Hugging Face, som också sysslar med AI, lade märke till att deras system hackats. Open AI:s eget AI-system hackade ett annat företag på eget bevåg, säger företagets vd Sam Altman. Det var i förra veckan som startup-företaget Hugging Face, som också sysslar med AI, lade märke till att […]",
+      "link": "https://www.dagensps.se/teknik/ai-verktyg-hackade-konkurrent/",
+      "guid": "https://www.dagensps.se/?p=1657867",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/open-ai-ligger-bakom-chat-gpt-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784696756000
+    },
+    {
+      "title": "USA: Attacker mot hangarer i Iran",
+      "description": "Under knappt två veckors tid har USA genomfört luftattacker mot mål i framför allt Irans södra delar. Varje natt har Centcom meddelat när attackvågen startat och – några timmar senare – när den slutat. USA har för elfte natten i rad riktat attacker mot Iran. Bland målen fanns flyghangarer och förråd för drönare, uppger militärkommandot […]",
+      "link": "https://www.dagensps.se/varlden/konflikter/usa-attacker-mot-hangarer-i-iran/",
+      "guid": "https://www.dagensps.se/?p=1657873",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/usas-utrikesminister-marco-rubio.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784696689000
+    },
+    {
+      "title": "Kantarellrullar med parmesan och löjrom",
+      "description": "Ett litet, lyxigt snacks med klassiska och salta smaker med kantareller, parmesan och löjrom. Perfekt som start på kräftskivan, enkelt men med mycket smak.",
+      "link": "https://alltommat.expressen.se/recept/kantarellrullar-med-parmesan-och-lojrom/",
+      "guid": "https://alltommat.expressen.se/recept/kantarellrullar-med-parmesan-och-lojrom/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784696580000
+    },
+    {
+      "title": "Cecilia Sahlgren om konsten att våga avvika: Varje samhälle behöver sin byfåne",
+      "description": "Som barn var Cecilia Sahlgrens standardsvar på frågan ”Vad ska du bli när du blir stor?” ett enda ord: byfåne. I dag är hon professor i cellbiologi och studerar det som avviker.",
+      "link": "https://yle.fi/a/7-10098435?origin=rss",
+      "guid": "https://yle.fi/a/7-10098435",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784696413000
+    },
+    {
+      "title": "Sommar i P1: Robin Larmérus berättande imponerar",
+      "description": "ALBIN JULIN: Så många [geting] får Robin Larmérus sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-robin-larmerus-berattande-imponerar/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-robin-larmerus-berattande-imponerar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784696400000
+    },
+    {
+      "title": "Från Post-its till AI-data: 3M hittar ny roll i techboomen",
+      "description": "3M, bolaget bakom Post-it-lappar och Scotch-tejp, förknippas sällan med avancerad teknik. Men nu får det klassiska industribolaget nytt liv genom ett samarbete med Microsoft och starka kvartalssiffror. Och aktien stiger rejält som resultat. 3M och Microsoft meddelade den 15 juli ett strategiskt samarbete kring AI-datacenter, där Microsofts molntjänst Azure blir den första stora molnleverantören att […]",
+      "link": "https://www.dagensps.se/bors-finans/fran-post-its-till-ai-data-3m-hittar-ny-roll-i-techboomen/",
+      "guid": "https://www.dagensps.se/?p=1657875",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/3m-post-its.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784695050000
+    },
+    {
+      "title": "Uppmaningen till Putin: Attackera Natoländer",
+      "description": "Putins ”attackhund” menar att Rysslands invasionskrig mot Ukraina är för ”milt”. Nu hotar den tjetjenska presidenten Natoländer. – Det är dags att öppna eld – så enkelt är det!, skriver Ramzan Kadyrov på Telegram, enligt Moscow Times .",
+      "link": "https://www.expressen.se/nyheter/varlden/uppmaningen-till-putin-attackera-natolander/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppmaningen-till-putin-attackera-natolander/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784693636000
+    },
+    {
+      "title": "Magic mushrooms may reshape the brain long after the trip ends",
+      "description": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in flexible, varied brain activity also reported more personal insight and later improvements in well-being. The findings suggest that the psychedelic experience itself may help people break free from entrenched patterns of thinking.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784693566000
+    },
+    {
+      "title": "Kort jordgubbssäsong överraskar österbottniska odlare",
+      "description": "Skördesäsongen började tidigt, men slutade kort. Från tunnelodlingar och nya planteringar får man fortfarande små mängder bär.",
+      "link": "https://yle.fi/a/7-10102480?origin=rss",
+      "guid": "https://yle.fi/a/7-10102480",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784692450000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10102499?origin=rss",
+      "guid": "https://yle.fi/a/7-10102499",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784691921000
+    },
+    {
+      "title": "Prislappen på USA:s krig mot Iran: 37,5 miljarder dollar",
+      "description": "USA:s anfall mot Iran fortsätter för elfte natten i rad. Samtidigt verkar en ny front ha öppnats då huthirebellerna hotar fartyg i Röda havet.",
+      "link": "https://yle.fi/a/7-10102498?origin=rss",
+      "guid": "https://yle.fi/a/7-10102498",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784691290000
+    },
+    {
+      "title": "Tvingas redovisa sin ekonomi – för BBC",
+      "description": "Donald Trump har tidigare backat från delar av sin stämning mot BBC. Och nu har det som presidenten inte ville skulle hända skett. En federal domare tvingar Trump att redovisa större delar av sin ekonomi för public service-bolaget, enligt Politico .",
+      "link": "https://www.expressen.se/nyheter/varlden/tvingas-redovisa-sin-ekonomi-for-bbc/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tvingas-redovisa-sin-ekonomi-for-bbc/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784690861000
+    },
+    {
+      "title": "När stenkolen tar slut bygger smeden egen kolugn och startar tvålföretag",
+      "description": "Vöråsmeden Niklas Svevar byggde en träkolsugn och fick tjära på köpet. Nu säljer han grillkol i lösvikt och tjärtvål.",
+      "link": "https://yle.fi/a/7-10102195?origin=rss",
+      "guid": "https://yle.fi/a/7-10102195",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784690750000
+    },
+    {
+      "title": "Finland skulle kunna fånga in koldioxid och minska utsläppen – men vad är det som hindrar?",
+      "description": "Finland har möjlighet att fånga in koldioxid från cellulosafabrikernas pipor, men vägen dit är både lång och dyr i dag.",
+      "link": "https://yle.fi/a/7-10101487?origin=rss",
+      "guid": "https://yle.fi/a/7-10101487",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784689735000
+    },
+    {
+      "title": "Pargas FBK tävlar i internationell tävling i Österrike – den största utmaningen är att hålla tyst",
+      "description": "Tävlingen som ordnas 22-26 juli organiseras av den internationella brandkårsorganisationen CTIF som har över 40 medlemsländer.",
+      "link": "https://yle.fi/a/7-10100252?origin=rss",
+      "guid": "https://yle.fi/a/7-10100252",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784689420000
+    },
+    {
+      "title": "Sommaren kan vara tuff för utsatta när mycket är på paus: ”Människors problem har inte sommarlov”",
+      "description": "När skolorna är stängda och hobbyerna har avbrott kan det uppstå ett större behov av stödtjänster för unga och ensamma.",
+      "link": "https://yle.fi/a/7-10102392?origin=rss",
+      "guid": "https://yle.fi/a/7-10102392",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784689218000
+    },
+    {
+      "title": "Janne Josefsson: Jag vill inte bo på Marstrand",
+      "description": "För drygt 30 år sedan satte Janne Josefsson Marstrand på kartan genom ett reportage om ett infekterat kebabbråk. Nu är han tillbaka på societetsön. Han beskriver Marstrand som vackert – men det finns en baksida. – Jag skulle inte vara på rätt plats bland alla stenrika. Dom är sprättar, det gäller inte bara männen utan kvinnorna också, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/janne-josefsson-jag-vill-inte-bo-pa-marstrand/",
+      "guid": "https://www.expressen.se/nyheter/sverige/janne-josefsson-jag-vill-inte-bo-pa-marstrand/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784689200000
+    },
     {
       "title": "Nya attacker mot Iran",
       "description": "Elfte natten i rad",
@@ -11,7 +241,47 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784682844000
+      "timestamp": 1784688614000
+    },
+    {
+      "title": "Svalt väder och sandstränder: Västnyland har potential för ”coolcation”",
+      "description": "Andelen internationella turister i Västnyland är liten i jämförelse med de inhemska, men trenden i Hangö verkar ändras. Svalare väder och unik natur lockar.",
+      "link": "https://yle.fi/a/7-10101919?origin=rss",
+      "guid": "https://yle.fi/a/7-10101919",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784688410000
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "description": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784688214000
+    },
+    {
+      "title": "Tiotusentals jobb hotade inom krisande Volkswagen",
+      "description": "Biltillverkaren Volkswagen försöker hitta vägar ur sina svåra problem, men ledningen och de anställda är på kollisionskurs.",
+      "link": "https://yle.fi/a/7-10102457?origin=rss",
+      "guid": "https://yle.fi/a/7-10102457",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784687456000
+    },
+    {
+      "title": "Från Brasilien till Filippinerna: Barn möts i Borgå för att bygga fred",
+      "description": "I Borgå pågår just nu ett läger där barn från elva olika länder lär sig att förstå varandras kulturer. I fyra veckor skapar de vänskap som räcker livet ut.",
+      "link": "https://yle.fi/a/7-10102497?origin=rss",
+      "guid": "https://yle.fi/a/7-10102497",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784686872000
     },
     {
       "title": "Man död efter mc-olycka",
@@ -21,7 +291,17 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784682200000
+      "timestamp": 1784686173000
+    },
+    {
+      "title": "Coffee may protect your heart but energy drinks could harm it",
+      "description": "For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular black coffee, is generally safe and may even be linked to lower risks of heart disease, stroke, heart failure, and Type 2 diabetes. But the source matters: highly concentrated energy drinks and shots can sharply raise blood pressure and trigger irregular heart rhythms.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1784683830000
     },
     {
       "title": "2026 Ferrari Luce Chassis 0",
@@ -75,7 +355,7 @@
     },
     {
       "title": "Zelenskyj byter ut försvarschefen",
-      "description": "",
+      "description": "Mychailo Drapatyj blir Ukrainas tredje överbefälhavare under det fullskaliga kriget mot Ryssland.",
       "link": "https://yle.fi/a/7-10102496?origin=rss",
       "guid": "https://yle.fi/a/7-10102496",
       "image": "",
@@ -294,16 +574,6 @@
       "timestamp": 1784656800000
     },
     {
-      "title": "Enorm brand vid flygplats",
-      "description": "Två brandmän döda i Frankrike",
-      "link": "https://www.expressen.se/tv/nyheter/enorm-brand-nara-flygplats-avgangar-forsenade",
-      "guid": "https://www.expressen.se/tv/nyheter/enorm-brand-nara-flygplats-avgangar-forsenade",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784656300000
-    },
-    {
       "title": "Jättebrand i Spanien igen – den här gången norr om Madrid",
       "description": "Hundratals brandmän kämpar än en gång mot en massiv brand i Spanien.",
       "link": "https://yle.fi/a/7-10102493?origin=rss",
@@ -384,16 +654,6 @@
       "timestamp": 1784652840000
     },
     {
-      "title": "Tuva, 21, dog plötsligt – läkarna utreder",
-      "description": "Det ringde och ringde, men Tuva Ludvigsson, 21, stängde aldrig av sin väckarklocka Familjen försökte väcka henne men tvingades till slut ringa efter ambulans – och några dagar senare dog hon plötsligt på sjukhus. – Det känns bara hemskt, vi är fruktansvärt ledsna, säger mamman Susanne Eriksson.",
-      "link": "https://www.expressen.se/nyheter/sverige/tuva-21-dog-plotsligt-lakarna-utreder/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tuva-21-dog-plotsligt-lakarna-utreder/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784652200000
-    },
-    {
       "title": "Recension: Ett storslaget slut på berättelsen om Gibat",
       "description": "Den tredje delen i Malin Klingenbergs sagolika trilogi gör inte recensent Lotta Green besviken.",
       "link": "https://yle.fi/a/7-10102129?origin=rss",
@@ -402,16 +662,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784652028000
-    },
-    {
-      "title": "Lastbil körde in i husvagn på E6 – en gripen",
-      "description": "Kvinna allvarligt skadad",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4012dc1c-8e3e-416f-87b3-9223d84f7532",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4012dc1c-8e3e-416f-87b3-9223d84f7532",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784651449000
     },
     {
       "title": "Säl surfade runt i Hanöbukten",
@@ -484,26 +734,6 @@
       "timestamp": 1784649600000
     },
     {
-      "title": "Nicaraguas president Ortega skärper greppet om makten och blockerar val",
-      "description": "Daniel Ortega, som suttit nästan två decennier vid makten, styr landet diktatoriskt.",
-      "link": "https://yle.fi/a/7-10102492?origin=rss",
-      "guid": "https://yle.fi/a/7-10102492",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784649173000
-    },
-    {
-      "title": "Råttbajs i baren – larmet om populära sportbaren",
-      "description": "Råttbajs i köket och baren. Det hittades under en inspektion på O'Learys Vasagatan. Nu kräver Miljö- och hälsonämnden att restaurangen vidtar åtgärder, skriver nyhetsbyrån Siren.",
-      "link": "https://www.expressen.se/nyheter/sverige/rattbajs-i-baren-larmet-om-populara-sportbaren-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/rattbajs-i-baren-larmet-om-populara-sportbaren-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784648261000
-    },
-    {
       "title": "Klimps verk Kyssen finns nu som Lego",
       "description": "Mer konst av bitar Gustav Klimts målning Kyssen är ett av världens mest kända konstverk och Klimts absoluta ikonverk från hans så kallade \"gyllene period\". Nu har Lego gjort ett set av den detaljerade målningen. Bygget är minst sagt detaljerat som tavlan, exakt 4000 bitar finns i kartongen. Det gör också prislappen fet, 3800 kronor. Släppdatum är den 4 augusti och tavlan har inbyggd funktionalitet för att hänga upp den på väggen. Lego har sedan tidigare släppt set med konst från Monet och Van Gogh. L&auml;s vidare och kommentera: https://feber.se/pryl/klimps-verk-kyssen-finns-nu-som-lego/494272/ L&auml;s mer om Gustav Klimt , Kyssen , Konst , Gyllene perioden , Tavla",
       "link": "https://feber.se/pryl/klimps-verk-kyssen-finns-nu-som-lego/494272/?utm_source=rss&utm_medium=feed",
@@ -564,16 +794,6 @@
       "timestamp": 1784646000000
     },
     {
-      "title": "Vill stoppa rökning utomhus",
-      "description": "Spanska stränder kan bli rökfria",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6627349c-1f50-409d-86d9-bc9b02406959",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6627349c-1f50-409d-86d9-bc9b02406959",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784645915000
-    },
-    {
       "title": "Oljepriset över 90 dollar igen – analytiker tror det blir långvarigt",
       "description": "Oljepriset har åter stigit över 90 dollar per fat efter att en kuwaitisk produkttanker träffats av en okänd projektil i Hormuzsundet. Enligt Storbritanniens sjöfartsmyndighet UKMTO tvingades besättningen överge den kuwaitiska produkttankern Kaifan träffats av en okänd projektil i Hormuzsundet utanför Omans kust. Trafiken har minskat kraftigt de senaste dagarna efter upprepade iranska attacker och ingripanden […]",
       "link": "https://www.dagensps.se/bors-finans/ravaror/oljepriset-over-90-dollar-igen-analytiker-tror-det-blir-langvarigt/",
@@ -594,46 +814,6 @@
       "timestamp": 1784645400000
     },
     {
-      "title": "Adlercreutz om Garden Helsinki: ”Viktigt med en gedigen och transparent process”",
-      "description": "SFP:s partiledare menar att processen i sig inte var exceptionell men medger att det skett en miss när det kommer till transparensen i det hela.",
-      "link": "https://yle.fi/a/7-10102484?origin=rss",
-      "guid": "https://yle.fi/a/7-10102484",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784645399000
-    },
-    {
-      "title": "Raseborgs sommarteater fyller 60 år med effektfull rock- och ljusshow",
-      "description": "Västnyländska ungdomsringen firar sommarteaterns 60-årsjubileum med en nattföreställning av musikalen Rock of ages på tisdag (28.7).",
-      "link": "https://yle.fi/a/7-10102485?origin=rss",
-      "guid": "https://yle.fi/a/7-10102485",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784645175000
-    },
-    {
-      "title": "Jamie Dimon: Marknaden underskattar riskerna just nu",
-      "description": "Att ha sina pengar på finansmarknaden kan vara en riskabel idé för tillfället. Det menar JP Morgans vd Jamie Dimon i en ny intervju. JP Morgans vd Jamie Dimon är en tung röst i finansbranschen som ofta kommer med uppmärksammade utspel. Nu varnar han för att finansmarknaden underskattar de ekonomiska och geopolitiska riskerna i världsekonomin. […]",
-      "link": "https://www.dagensps.se/bors-finans/jamie-dimon-marknaden-underskattar-riskerna-just-nu/",
-      "guid": "https://www.dagensps.se/?p=1657844",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlx8h-6ot9zcy-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784645125000
-    },
-    {
-      "title": "Kräftsäsongen i gång – men den inhemska flodkräftan hotas av signalkräfta och kräftpest",
-      "description": "Årets kräftsäsong är i gång, men för vår inhemska flodkräfta är det en kamp på liv och död. Den invasiva signalkräftan, som bär på den dödliga kräftpesten, har nästan utrotat flodkräftan i södra Finland.",
-      "link": "https://yle.fi/a/7-10102443?origin=rss",
-      "guid": "https://yle.fi/a/7-10102443",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784644615000
-    },
-    {
       "title": "Kallskuren biff med gurka och ponzudressing",
       "description": "Tunna skivor av biff möter krispig gurka och en friskt syrlig ponzudressing. En rustik men ändå elegant rätt med japansk touch.",
       "link": "https://alltommat.expressen.se/recept/kallskuren-biff-med-gurka-och-ponzudressing/",
@@ -642,16 +822,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784644396000
-    },
-    {
-      "title": "Också Nederländerna förbjuder varor från Israels bosättarområden",
-      "description": "Kravet växer på att hela EU ska införa restriktioner mot Israel för dess agerande i Gaza och på Västbanken.",
-      "link": "https://yle.fi/a/7-10102490?origin=rss",
-      "guid": "https://yle.fi/a/7-10102490",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784644310000
     },
     {
       "title": "Lego gör VM-pokal för spanjorerna",
@@ -664,16 +834,6 @@
       "timestamp": 1784644200000
     },
     {
-      "title": "Svensk 1940-talskanon skjuter ner Rysslands nyaste robotar",
-      "description": "En svensk luftvärnspjäs ritad i slutet av 1940-talet visar sig kunna fälla Rysslands modernaste vapen. Vi analyserar hur det gynnar de svenska börsbolagen bakom pjäsen. Ukrainas 121:a territorialförsvarsbrigad har skjutit ned ryska kryssningsrobotar av typen S8000 ”Banderol” och Kh-59 med en 40 mm Bofors L70, enligt brigaden. En avancerad luftvärnsrobot kan kosta mellan 30 till […]",
-      "link": "https://www.dagensps.se/bors-finans/svensk-1940-tals-kanon-slar-ned-rysslands-nyaste-robotar/",
-      "guid": "https://www.dagensps.se/?p=1657829",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-1.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784643874000
-    },
-    {
       "title": "Björn om förlängningen – \"Något man drömmer om\"",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/bjorn-om-forlangningen-nagot-man-drommer-om",
@@ -682,36 +842,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784643709000
-    },
-    {
-      "title": "Finansministerns uppgift: Göra marknaden nöjd med vänstersväng",
-      "description": "John Healey heter Storbritanniens nye finansminister sedan tidigare i veckan. Nu har han inlett sin uppgift, och marknaden är på spänn. Den nytillträdde premiärministern Andy Burnham har stuvat om rejält i regeringen. Ny finansminister blir John Healey, och han står inför en svår balansgång, menar experter. Han ska å ena sidan genomföra sin politiska agenda […]",
-      "link": "https://www.dagensps.se/bors-finans/finansministerns-uppgift-gora-marknaden-nojd-med-vanstersvang/",
-      "guid": "https://www.dagensps.se/?p=1657833",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlluv-db6nvbo-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784643501000
-    },
-    {
-      "title": "En person misstänkt efter storbranden i Norge men ingen konkret brottsmisstanke",
-      "description": "Polisen uppger att det kommer ta tid att utreda branden men att det i nuläget inte finns någon konkret brottsmisstanke.",
-      "link": "https://yle.fi/a/7-10102486?origin=rss",
-      "guid": "https://yle.fi/a/7-10102486",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784643473000
-    },
-    {
-      "title": "Risk för höjda bränslepriser om kriget i Iran fortsätter",
-      "description": "Oljebolagen räknar med snabb fred i Iran och sjunkande oljepriser. Om kriget drar ut på tiden stiger priserna.",
-      "link": "https://yle.fi/a/7-10102482?origin=rss",
-      "guid": "https://yle.fi/a/7-10102482",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784642421000
     },
     {
       "title": "Färre dödsolyckor i trafiken globalt",
@@ -724,26 +854,6 @@
       "timestamp": 1784642400000
     },
     {
-      "title": "Saga Vanninen avslutar samarbetet med tränaren Erki Nool: ”Behöver en miljö som känns som hemma”",
-      "description": "Sjukamparen Saga Vanninen har beslutat att byta tränare. Karriären fortsätter i Jarno Koivunens tränarteam.",
-      "link": "https://yle.fi/a/7-10102489?origin=rss",
-      "guid": "https://yle.fi/a/7-10102489",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784642363000
-    },
-    {
-      "title": "Anställda på museer i Venedig hotar med strejk på grund av hettan",
-      "description": "På vissa museer i Venedig har det varit över 30 grader varmt i veckor. Det här påverkar både besökare och anställda.",
-      "link": "https://yle.fi/a/7-10102461?origin=rss",
-      "guid": "https://yle.fi/a/7-10102461",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784641573000
-    },
-    {
       "title": "Samsung drar igång en robotdivision",
       "description": "Som ska utveckla humanoida robotar Det sydkoreanska jätteföretaget Samsung meddelade idag att man kommer att starta upp en division inom företaget med inriktning på robotutveckling. Samsung har genom åren utvecklat en del robotprodukter, till exempel robotdammsugare, och uppgav förra året att man planerade att utveckla en egen humanoid robot. Det arbetet ser nu ut att ske inom den nya RX-divisionen (\"Robot eXperience\") hos Samsung. Samsung RX kommer att ledas av Lee Dongkun som tidigare haft en liknande roll på Hyundai Motor Group där han även ansvarade för Boston Dynamics, Hyundais robotföretag som utvecklar den humanoida roboten Atlas och robothunden Spot. Samsung planerar att starta forskningsanläggningar i Sydkorea, Japan, Kina och USA där företagets framtida robotar ska utvecklas. På bilden ovan syns några robotkoncept som Samsung visade upp 2022. L&auml;s vidare och kommentera: https://feber.se/pryl/samsung-drar-igang-en-robotdivision/494279/ L&auml;s mer om Samsung RX , Lee Dongkun , Hyundai , Boston Dynamics , Atlas , Spot , humanoid robot",
       "link": "https://feber.se/pryl/samsung-drar-igang-en-robotdivision/494279/?utm_source=rss&utm_medium=feed",
@@ -752,36 +862,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784641200000
-    },
-    {
-      "title": "Nio personer döms efter att 50 miljoner kronor tvättades hos SEB",
-      "description": "Södertälje tingsrätt har nu dömt nio personer i en av landets mer omfattande ekobrottshärvor, medan andra frikänns. Med hjälp av SEB kunde de fortsätta sina operationer. Målet kretsar kring falska bolån, mutor och penningtvätt kopplade till fastighetsaffärer i Södertälje. Totalt hade 17 personer stått åtalade, enligt Sveriges Radio, och drygt 50 miljoner kronor ska ha […]",
-      "link": "https://www.dagensps.se/bors-finans/nio-personer-doms-efter-att-50-miljoner-kronor-tvattades-hos-seb/",
-      "guid": "https://www.dagensps.se/?p=1657797",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784641136000
-    },
-    {
-      "title": "Expert: Guld är kraftigt översålt – ny rekorduppgång kan vänta",
-      "description": "Guld är kraftigt översålt och kan stå inför en ny uppgång redan under sensommaren. Det menar Paul Wong, marknadsstrateg och delägare på kapitalförvaltaren Sprott. I en intervju med Kitco News säger Wong att flera tekniska indikatorer visar att guld befinner sig på nivåer som historiskt ofta har sammanfallit med en botten. ”Det blir allt svårare […]",
-      "link": "https://www.dagensps.se/bors-finans/ravaror/expert-guld-ar-kraftigt-oversalt-ny-rekorduppgang-kan-vanta/",
-      "guid": "https://www.dagensps.se/?p=1657826",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/gold.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784641044000
-    },
-    {
-      "title": "Oklart när Sibbo-Vargarnas fotbollshall kan tas i bruk efter stormskadorna: ”Påverkar verksamheten otroligt mycket”",
-      "description": "Fotbollshallen är ur bruk på obestämd framtid tills skadorna har utretts. Det här påverkar både Sibbo-Vargarnas verksamhet och ekonomi.",
-      "link": "https://yle.fi/a/7-10102455?origin=rss",
-      "guid": "https://yle.fi/a/7-10102455",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784640998000
     },
     {
       "title": "Zelda-musik släpps på vinyl",
@@ -824,16 +904,6 @@
       "timestamp": 1784638800000
     },
     {
-      "title": "Nya tullar: Nu går Trump till attack igen",
-      "description": "Efter att ha blivit irriterad på rök från kanadensiska skogsbränder, inför nu Donald Trump tullar mot Kanada på 50 procent. USA:s president Donald Trump förklarade häromdagen sin antipati mot den rök som vällde in över gränsen, från kanadensiska skogsbränder och hotade med åtgärder. Nu kommer de i form av nya tullar på 50 procent på […]",
-      "link": "https://www.dagensps.se/bors-finans/nya-tullar-nu-gar-trump-till-attack-igen/",
-      "guid": "https://www.dagensps.se/?p=1657811",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl2yjp7cs-u2m-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784638569000
-    },
-    {
       "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
       "description": "Ancient sediment reveals that some of K’gari’s deepest lakes vanished around 7,500 years ago, despite unusually heavy rainfall. The surprising discovery suggests changing winds and future climate shifts could threaten the sacred lakes known as the Eyes of K’gari.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719231654.htm",
@@ -842,16 +912,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784638559000
-    },
-    {
-      "title": "Hungern minskar i världen men riskerna kvarstår",
-      "description": "Afrika har den största hungrande befolkningen med 309 miljoner människor – en av fem afrikaner.",
-      "link": "https://yle.fi/a/7-10102466?origin=rss",
-      "guid": "https://yle.fi/a/7-10102466",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784637817000
     },
     {
       "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
@@ -872,16 +932,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784637559000
-    },
-    {
-      "title": "Nya ägaren avslöjar inte sin plan för Nederkirjala fritidsområde",
-      "description": "Yle Åboland nådde den nya ägaren för att fråga om fritidsområdets framtid men fick inga svar.",
-      "link": "https://yle.fi/a/7-10102462?origin=rss",
-      "guid": "https://yle.fi/a/7-10102462",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784637518000
     },
     {
       "title": "Adobe uppdaterar kameraappen Project Indigo",
@@ -2364,16 +2414,6 @@
       "timestamp": 1784268000000
     },
     {
-      "title": "Sparrislasagne med sommarsallad",
-      "description": "Snabblagad lasagne med mycket smak av sparris, dels färsk, dels från färdig soppa. Smörgåskrassen som blir över är god att klippa över frukostmackan eller blanda ner i en kall sås.",
-      "link": "https://alltommat.expressen.se/recept/sparrislasagne-med-sommarsallad-x9fq3/",
-      "guid": "https://alltommat.expressen.se/recept/sparrislasagne-med-sommarsallad-x9fq3/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784265480000
-    },
-    {
       "title": "Här är stans nya kajbad – och snart öppnar nästa",
       "description": "Nya kajbadplatser och bryggor öppnar under 2025 och 2026 i centrala Stockholm. Välkommet tycker Södermalmsborna Mitt i har pratat med.",
       "link": "https://www.mitti.se/nyheter/har-ar-stans-nya-kajbad--och-snart-oppnar-nasta-6.3.375987.e6662371e1",
@@ -2694,16 +2734,6 @@
       "timestamp": 1784123250000
     },
     {
-      "title": "NASA captured the Black Sea turning brilliant turquoise from space",
-      "description": "NASA's PACE satellite captured the Black Sea glowing turquoise during its annual phytoplankton bloom. The vivid color comes from massive numbers of coccolithophores, microscopic organisms whose reflective shells brighten the water enough to be seen from space. An astronaut aboard the International Space Station also photographed the bloom spreading through the Bosphorus, revealing swirling currents.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713084900.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260713084900.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784121698000
-    },
-    {
       "title": "Nya sommarkafét populärt – \"Överträffat förväntningarna\"",
       "description": "Botkyrka har öppnat med hjälp av Restaurang Novie ett sommarkafé ute i Vårstavi.",
       "link": "https://www.mitti.se/nyheter/nya-sommarkafet-populart--overtraffat-forvantningarna-6.3.374975.1bee526636",
@@ -2854,16 +2884,6 @@
       "timestamp": 1784086743000
     },
     {
-      "title": "Chewing bubble gum after beetroot may help lower blood pressure",
-      "description": "A new study found that chewing sugary gum after eating nitrate-rich vegetables or drinking beetroot juice helped the body produce more beneficial nitrite, leading to a temporary drop in blood pressure. Researchers hope the discovery will lead to healthier ways to enhance the cardiovascular and performance benefits of dietary nitrate without relying on sugar.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784075045000
-    },
-    {
       "title": "Eating chili peppers may raise the risk of one deadly cancer",
       "description": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
@@ -2872,16 +2892,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784035641000
-    },
-    {
-      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
-      "description": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784022461000
     }
   ]
 }
