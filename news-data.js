@@ -1,8 +1,408 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-22T13:19:59.619Z",
+  "updatedAt": "2026-07-22T16:13:37.426Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "20 historiska skjutvapen gömdes under kyrkan: Kan härröra från en blodig revolution",
+      "description": "Skjutvapen är kraftigt slitna, men de kan berätta en viktig historia om världens första självständiga, svarta republik.",
+      "link": "https://varldenshistoria.se/krig/revolution/20-historiska-skjutvapen-gomdes-under-kyrkan-kan-harrora-fran-en-blodig-revolution",
+      "guid": "https://varldenshistoria.se/krig/revolution/20-historiska-skjutvapen-gomdes-under-kyrkan-kan-harrora-fran-en-blodig-revolution",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784740182000
+    },
+    {
+      "title": "Teater Klunk gör antisommarteater på tennisplaner: ”Det här är större än Wimbledon”",
+      "description": "Föreställningen Tennis spelas runt om i Svenskfinland mellan den 22 juli och 6 augusti.",
+      "link": "https://yle.fi/a/7-10101544?origin=rss",
+      "guid": "https://yle.fi/a/7-10101544",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784736014000
+    },
+    {
+      "title": "Våghals ska hoppa över flod i The Stunt Driver",
+      "description": "Biografisk film om Ken Carter Här är trailern för The Stunt Driver , en film där den kanadensiske stuntmannen och våghalsen Ken Carter porträtteras inför sitt mest ambitiösa projekt. Filmens fokus ligger på när Carter på 1970-talet planerade att hoppa över Saint Lawrencefloden, en flod som skiljer de östra delarna av Kanada och USA från varandra, i en raketdriven Lincoln Continental. The Stunt Driver går upp på amerikanska biografer den 25 september. När och var vi kan få se filmen i Sverige finns det inga uppgifter om än så länge. Ni hittar trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/vaghals-ska-hoppa-over-flod-i-the-stunt-driver/494286/ L&auml;s mer om Ken Carter , The Stunt Driver , Lincoln Continental , Kanada , Saint Lawrencefloden",
+      "link": "https://feber.se/film/vaghals-ska-hoppa-over-flod-i-the-stunt-driver/494286/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/vaghals-ska-hoppa-over-flod-i-the-stunt-driver/494286/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784736000000
+    },
+    {
+      "title": "Barilla och Ica överens",
+      "description": "Ica överens med matjätten",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee4bd839-9239-452e-bdcf-daebdc1c0aaf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee4bd839-9239-452e-bdcf-daebdc1c0aaf",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784735304000
+    },
+    {
+      "title": "Totalstopp på E20 – lastbil har vält",
+      "description": "Lastbil i olycka",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=db706a58-9c25-4ca9-b37e-1e4f4473b16c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=db706a58-9c25-4ca9-b37e-1e4f4473b16c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784735292000
+    },
+    {
+      "title": "Ekdals svar på kritiken: ”Måste betalas av någon”",
+      "description": "Journalisten Lennart Ekdal har nyligen släppt en dokumentär om ätstörningar på TV3 och Viaplay. Nu får programmet kritik för sin finansiering. Men Ekdal menar att pengarna inte alls är något problem.",
+      "link": "https://www.expressen.se/nyheter/sverige/ekdals-svar-pa-kritiken-maste-betalas-av-nagon/",
+      "guid": "https://www.expressen.se/nyheter/sverige/ekdals-svar-pa-kritiken-maste-betalas-av-nagon/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784734726000
+    },
+    {
+      "title": "FBI griper man efter kryptostölder på Steam",
+      "description": "Tömde kryptoplånböcker via malware i spel FBI har arresterat en 21-årig man i Florida misstänkt för att ha stulit kryptovaluta till ett värde av nästan 2,4 miljoner kronor. Stölderna ska ha genomförts med hjälp av illvillig kod som gömde sig i diverse spel. Genom att slänga in malware i spel på Steam lyckades gruppen komma åt offrens lösenord, information som sedan användes för att tömma personernas digitala plånböcker på kryptovaluta. För att hitta lämpliga offer använde man sig av bottar och sociala medier för att hitta personer som satt på stora kryptotillgångar. FBI lyckades till slut hitta mannen genom att spåra stulna Bitcoin som hade växlats in mot presentkort, vilka i sin tur användes för att betala för stora mängder beställningar via UberEats. Se upp för sloppiga spel på Steam om du sitter på mycket krypto, antar jag. L&auml;s vidare och kommentera: https://feber.se/spel/fbi-griper-man-efter-kryptostolder-pa-steam/494307/ L&auml;s mer om FBI , Florida , Steam , Bitcoin , UberEats",
+      "link": "https://feber.se/spel/fbi-griper-man-efter-kryptostolder-pa-steam/494307/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/fbi-griper-man-efter-kryptostolder-pa-steam/494307/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784734200000
+    },
+    {
+      "title": "Agnetas ilska mot Arla-smöret: ”Feltänkt”",
+      "description": "Arlas smör har väckt stor frustration. Paketet är felkonstruerat, menar Agneta Mossberg, 65. – Antingen är det felinställt någonstans, eller så är det feltänkt, undrar hon. Det visade sig att tusentals personer höll med henne.",
+      "link": "https://www.expressen.se/nyheter/sverige/agnetas-ilska-mot-arla-smoret-feltankt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/agnetas-ilska-mot-arla-smoret-feltankt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784734116000
+    },
+    {
+      "title": "Jutta Rantala fortsätter karriären i Storbritannien – byter från Leicester till Everton",
+      "description": "Flera spelare har lämnat Leicester efter att laget föll ur den högsta divisionen. Jutta Rantala är den sjätte.",
+      "link": "https://yle.fi/a/7-10102540?origin=rss",
+      "guid": "https://yle.fi/a/7-10102540",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784733259000
+    },
+    {
+      "title": "Kaos i turistorten: ”Folk bara skrek”",
+      "description": "Dramatiskt oväder i Albanien och Kroatien",
+      "link": "https://www.expressen.se/tv/nyheter/kraftigt-askovader-i-populara-turistorten-folk-bara-skrek",
+      "guid": "https://www.expressen.se/tv/nyheter/kraftigt-askovader-i-populara-turistorten-folk-bara-skrek",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784732960000
+    },
+    {
+      "title": "Olycksföraren hyllar sin tioåriga dotter: ”En hjälte”",
+      "description": "Olycksföraren hyllar sin tioåriga dotter. Han säger att tack vare hennes insats skadades ingen i den uppmärksammade gymolyckan i Sundsvall. ”Min dotter tog ratten när jag var avsvimmad, hon är en hjälte”, skriver han till Sundsvalls Tidning.",
+      "link": "https://www.expressen.se/nyheter/sverige/olycksforaren-hyllar-sin-tioariga-dotter-en-hjalte/",
+      "guid": "https://www.expressen.se/nyheter/sverige/olycksforaren-hyllar-sin-tioariga-dotter-en-hjalte/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784732874000
+    },
+    {
+      "title": "Dödsfall från balkong var olycka – misstänkta släppta",
+      "description": "Två personer har släppts efter dödsfallet i Hässelby gård. Åklagaren uppger att utredningen visar att mannen som föll från tredje våningen dog i en olycka.",
+      "link": "https://www.mitti.se/nyheter/dodsfall-fran-balkong-var-olycka--misstankta-slappta-6.3.376819.cf2847c283",
+      "guid": "https://www.mitti.se/nyheter/dodsfall-fran-balkong-var-olycka--misstankta-slappta-6.3.376819.cf2847c283",
+      "image": "https://www.mitti.se/image-3.231144.300950.20260722153549.79c55d3a35?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784732714000
+    },
+    {
+      "title": "Raffinaderier stora vinnare – när din bensin blir dyrare",
+      "description": "En ny genomgång från den nederländska konkurrensmyndigheten ACM visar att raffinaderierna är bland de stora vinnarna på oljekrisen och sommarens stigande drivmedelspriser. Myndigheten i Nederländerna har för första gången redovisat hur priset på en liter bensin fördelas mellan råolja, raffinaderier, bensinstationer och skatter. Genomgången visar att raffinaderiernas marginaler har stigit markant sedan spänningarna kring Iran […]",
+      "link": "https://www.dagensps.se/motor/raffinaderier-stora-vinnare-nar-din-bensin-blir-dyrare/",
+      "guid": "https://www.dagensps.se/?p=1658164",
+      "image": "https://images.dagensps.se/app/uploads/2026/02/preemraff.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784732522000
+    },
+    {
+      "title": "Bråk i Ukrainas försvarsledning: Offrades överbefälhavaren för att lugna folket?",
+      "description": "President Zelenskyj hoppas nu att militära ommöbleringar ska blidka demonstranterna på gatorna.",
+      "link": "https://yle.fi/a/7-10102531?origin=rss",
+      "guid": "https://yle.fi/a/7-10102531",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784732493000
+    },
+    {
+      "title": "Fem fiskeberättelser: ”Fisket var det enda stabila i mitt liv”",
+      "description": "Att fiska kan bringa glädje, förväntan och stolthet men också öva upp tålamod och ge stabilitet. Vi ville höra om era fiskeberättelser.",
+      "link": "https://yle.fi/a/7-10102460?origin=rss",
+      "guid": "https://yle.fi/a/7-10102460",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784732418000
+    },
+    {
+      "title": "Första delen i Batman: Knightfall kommer nästa månad",
+      "description": "Ny animerad Batman-film Tidigare i år blev det klart att DC Comics skulle göra en animerad film av Batman: Knightfall , en klassisk Batman-historia som släpptes i som serietidning under 1993–1994. Handlingen i Batman: Knightfall kretsar runt Batmans första möte med den steroidpumpade Bane, något som leder till att Bruce Wayne får ta en paus från sin roll som Batman samtidigt som Bane röjer runt i Gotham tillsammans med andra superskurkar från Arkham Asylum. Den första delen av tre i Batman: Knightfall kommer att släppas digitalt den 25 augusti. Ni hittar en trailer för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/forsta-delen-i-batman-knightfall-kommer-nasta-manad/494300/ L&auml;s mer om Batman: Knightfall , DC Comics , Batman , Bane , Bruce Wayne , Gotham , Animerat",
+      "link": "https://feber.se/film/forsta-delen-i-batman-knightfall-kommer-nasta-manad/494300/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/forsta-delen-i-batman-knightfall-kommer-nasta-manad/494300/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784732400000
+    },
+    {
+      "title": "Nu börjar byggarbetena för barnens trafikpark i Karis",
+      "description": "Trafikparken vann omröstningen i Raseborgs medborgarbudget hösten 2024, men bygget har försenats eftersom den första projektplanen blev för dyr.",
+      "link": "https://yle.fi/a/7-10102516?origin=rss",
+      "guid": "https://yle.fi/a/7-10102516",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784732181000
+    },
+    {
+      "title": "Publikinformation: Hemmamötet med Anderlecht",
+      "description": "På torsdagskvällen spelas det första mötet i kvalomgång 2 av UEFA Europa League där Hammarby ställs mot Anderlecht på 3Arena. Här finns samlad information kring vad som gäller för dig som ser matchen",
+      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamotet-med-anderlecht",
+      "guid": "46c25647-2e30-4721-9d9c-a1967815bbc4",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/2c5aa84b1921d41f7dc02184dc1cca9f2aafa5b9-1492x995.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784731816000
+    },
+    {
+      "title": "HTV: Röster inför hemmamötet med Anderlecht",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-infoer-anderlecht",
+      "guid": "b7f3b62b-4fa3-4d8b-8a7e-ab829cd779c5",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/48a4c5fb50014efedf1556abd4eefa37eeca9d90-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784731671000
+    },
+    {
+      "title": "Gates varnades om Epstein flera gånger – ignorerade",
+      "description": "Bill Gates varnades upprepade gånger för Jeffrey Epstein. Trots det fortsatte kontakten mellan de två i flera år. Samtidigt finns det inga bevis på att Microsoft-grundaren var medveten om de övergrepp som skedde på miljardärens ö, enligt Financial Times .",
+      "link": "https://www.expressen.se/nyheter/varlden/gates-varnades-om-epstein-flera-ganger-ignorerade/",
+      "guid": "https://www.expressen.se/nyheter/varlden/gates-varnades-om-epstein-flera-ganger-ignorerade/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784731338000
+    },
+    {
+      "title": "En person skadades allvarligt i en olycka vid Raumovarvet",
+      "description": "Personen hamnade under en tung lastare på varvsområdet, uppger polisen i ett pressmeddelande.",
+      "link": "https://yle.fi/a/7-10102539?origin=rss",
+      "guid": "https://yle.fi/a/7-10102539",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784731288000
+    },
+    {
+      "title": "Vill du betala 10 miljoner för en eldriven Ferrari?",
+      "description": "Första Luce auktioneras ut När Ferrari Luce dök upp brann internet upp. Alla hade en åsikt om bilen, de flesta ganska så elaka sådana. Men snart är bilen på gång att rulla på gatorna och nu auktionerar man ut bil nummer ett som har chassinummer 0. Bilen i en halvblank vit färg som är unik för Luce. Även interiören är i vitt, och det finns även vissa andra vita detaljer på bilen, som bromsoken. Alla pengar som blir över från försäljningen kommer att skänkas vidare. L&auml;s vidare och kommentera: https://feber.se/bil/vill-du-betala-10-miljoner-for-en-eldriven-ferrari/494325/ L&auml;s mer om Luce , auktion , chassinummer 0 , välgörenhet",
+      "link": "https://feber.se/bil/vill-du-betala-10-miljoner-for-en-eldriven-ferrari/494325/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/vill-du-betala-10-miljoner-for-en-eldriven-ferrari/494325/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784731200000
+    },
+    {
+      "title": "Inte ditt fel – vi är inte gjorda för det här livet",
+      "description": "Det är inte dig det är fel på. Forskare konstaterar att det moderna livet pressar oss på ett sätt vi inte är skapta för. I en ny studie har samhällsvetare från flera institutioner i Singapore granskat tidigare studier och teorier för att formulera en tes. Hur den lyder? ”Vår snabba utveckling som art har gått […]",
+      "link": "https://www.dagensps.se/life-science/inte-ditt-fel-vi-ar-inte-gjorda-for-det-har-livet/",
+      "guid": "https://www.dagensps.se/?p=1658165",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl7txf5tino48-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784730923000
+    },
+    {
+      "title": "Fotbolls-VM blev ingen ekonomisk succé för USA",
+      "description": "FIFA drog in en massa deg dock Trots att Nederländerna åkte ut på straffar redan i åttondelsfnalen så fick ju årets fotbolls-VM ett lyckligt slut ändå. Det nya formatet och de nya reglerna kan man väl för det mesta säga var en succé men för ett av värdländernas del utblev dock det stora löftet om enorma intäkter. Inför fotbolls-VM i målades det, för USA:s del, upp en bild upp av en enorm ekonomisk succé med tusentals nya jobb och miljardintäkter. Fotbollsförbundet FIFA förutspådde ett tillskott på hundratals miljarder kronor till den amerikanska ekonomin och att närmare 200 000 heltidstjänster skulle skapas. Det visade sig dock att landet endast såg en marginell ökning av turismen, och istället för att priserna steg sjönk de på både hotellnätter och flygresor under juni månad. Även antalet anställda inom hotell- och restaurangbranschen sjönk oväntat under mästerskapsmånaden. Analytiker menar dock att det är svårt att mäta exakt vad som beror på VM, men konstaterar att den stora ekonomiska boomen som man förväntade sig uteblev. Men även om USA kanske inte fick ihop sina kalkyler helt och hållet kan man glädjas åt att FIFA åtminstone lyckades plocka hem rekordvinster. Tack vare biljettförsäljningen drog de in cirka 9 miljarder och via lukrativa tv-avtal drog de in ett antal miljarder till. Tanken är att dessa intäkter ska delas ut i hela fotbollsvärlden men ingen skulle väl bli förvånad om en del av det fastnar i några fickor någonstans på vägen. L&auml;s vidare och kommentera: https://feber.se/samhalle/fotbolls-vm-blev-ingen-ekonomisk-succe-for-usa/494316/ L&auml;s mer om Fotbolls-VM , USA , FIFA , turism , ekonomi",
+      "link": "https://feber.se/samhalle/fotbolls-vm-blev-ingen-ekonomisk-succe-for-usa/494316/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/fotbolls-vm-blev-ingen-ekonomisk-succe-for-usa/494316/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784730600000
+    },
+    {
+      "title": "Köp torsdagens matchprogram!",
+      "description": "Europa kallar! Supportrarnas Matchprogram upprätthåller traditionen med tryckta program i Europaspelet. Matchen mot Anderlecht är inget undantag.– Europamatcherna har givetvis en speciell dignitet vil",
+      "link": "https://www.hammarbyfotboll.se/nyheter/kop-torsdagens-matchprogram",
+      "guid": "5f6e0ceb-a588-4d01-a213-f2fd0563cabb",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/5b50cd75970f81fcd196e432354b5d2c02203986-2574x1190.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784730403000
+    },
+    {
+      "title": "Lugnande besked om stavhopparen Armand Duplantis: ”Inga som helst skador”",
+      "description": "Stavhopparen Armand Duplantis tvingades avbryta förra helgens Diamond League-tävling. Nu berättar hans agent att det inte finns något att oroa sig för.",
+      "link": "https://yle.fi/a/7-10102536?origin=rss",
+      "guid": "https://yle.fi/a/7-10102536",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784730337000
+    },
+    {
+      "title": "Storvinst för Equinor – tjänade pengar på Iran-kriget",
+      "description": "Högre energipriser har varit en effekt av kriget i Mellanöstern. Det visar sig nu i kvartalrapporten hos norska jätten Equinor. Equinor redovisar ett kraftigt vinstlyft för det andra kvartalet efter stigande olje- och gaspriser till följd av den förvärrade konflikten mellan USA och Iran. Det statligt kontrollerade energibolaget redovisar ett justerat rörelseresultat på 11,5 miljarder […]",
+      "link": "https://www.dagensps.se/bors-finans/storvinst-for-equinor-tjanar-pengar-pa-iran-kriget/",
+      "guid": "https://www.dagensps.se/?p=1658152",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl6pzlh7ztbcy-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784729400000
+    },
+    {
+      "title": "Efter Garden Helsinki: Professor vill ha straff för dem som slarvar med att redovisa bidrag",
+      "description": "Fallet Garden Helsinki visar att reglerna kring valfinansiering borde bli striktare, tycker professor Markku Jokisipilä.",
+      "link": "https://yle.fi/a/7-10102515?origin=rss",
+      "guid": "https://yle.fi/a/7-10102515",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784728831000
+    },
+    {
+      "title": "Google har släppt tre snabba AI-modeller",
+      "description": "Snabbare och använder färre tokens Det är krig på AI-marknaden, men allt handlar inte om vilken modell som är kraftfullast. Rätt ofta vill man ju göra saker snabbt och billigt, för allt man gör är inte raketforskning. I natt släppte Google tre nya AI-modeller. Den första är 3.6 Flash som är arbetshästen. Den nya versionen ska dra 17 procent mindre tokens för samma typ av uppgift, men i vissa fall ska skillnaden vara ännu större. Google har dessutom sänkt priset till 1,50 dollar per miljon input-tokens och 7 dollar per miljon output-tokens (ner från 1,50 / 9 dollar). 3.5 Flash-Lite är modellen för riktigt snabba svar, som sökning och dokumenthantering. Modellen ska leverera 350 output-tokens per sekund enligt Artificial Analysis. Priset har gått upp lite från 3,1 och ligger nu på 0,3 dollar per miljon input-tokens och 2,5 dollar per miljon output-tokens (upp från 0,25 / 1,5 dollar). Sen har man gjort en specialvariant som man kallar för 3,5 Flash Cyber. Denna är optimerad för att hitta säkerhetsluckor i källkoder tillsammans med Googles verktyg CodeMender. Denna får bara användas av myndigheter och betrodda partners. Vi väntar fortfarande på 3,5 Pro som Google säger ska vara \"på gång\". L&auml;s vidare och kommentera: https://feber.se/internet/google-har-slappt-tre-snabba-ai-modeller/494308/ L&auml;s mer om Gemini 3.6 Flash , Gemini 3.5 Flash-Lite , Gemini 3.5 Flash Cyber , CodeMender , AI-modeller",
+      "link": "https://feber.se/internet/google-har-slappt-tre-snabba-ai-modeller/494308/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/google-har-slappt-tre-snabba-ai-modeller/494308/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784728800000
+    },
+    {
+      "title": "Nytt utspel: Trump vill låta Fifa-basen ta över FN",
+      "description": "Knappt hinner ett spektakulärt fotbolls-VM ta slut, förrän Donald Trump tar de oväntade utspelen till en ny global nivå. FN:s nuvarande António Guterres är inne på sin andra mandatperiod och den löper ut 31 december i år. Processen för att ersätta honom är redan i gång och den kandidat som väljs måste godkännas av säkerhetsrådets […]",
+      "link": "https://www.dagensps.se/varlden/nytt-utspel-trump-vill-lata-fifa-basen-ta-over-fn/",
+      "guid": "https://www.dagensps.se/?p=1658146",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlysqppl8-7i-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784728568000
+    },
+    {
+      "title": "Efter spionageskandalen i kampen om Premier League-plats: Southamptons tränare erkänner skuld",
+      "description": "Southampton FC blev av med sin plats i Premier League-slutspelet efter att ha blivit påkomna med att ha spionerat på motståndarna.",
+      "link": "https://yle.fi/a/7-10102533?origin=rss",
+      "guid": "https://yle.fi/a/7-10102533",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784728052000
+    },
+    {
+      "title": "Musk ska låta Grok göra om Odyssén – hånas på sociala medier",
+      "description": "Elon Musks korståg mot den nya Odyssén-filmen går vidare. Nu hävdar han att Grok kommer att kunna göra en bättre version. Christopher Nolans The Odyssey har blivit en stor framgång både hos kritiker och på biograferna. Men Elon Musk menar att hans AI-verktyg Grok kan göra det bättre. Han säger nu att hans AI-verktyg Grok […]",
+      "link": "https://www.dagensps.se/weekend/noje-underhallning/musk-ska-lata-grok-gora-om-oddyssen-hanas-pa-sociala-medier/",
+      "guid": "https://www.dagensps.se/?p=1658142",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdli29jbragk10-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784727900000
+    },
+    {
+      "title": "Snusbjässen sänker prognosen – valutasmäll",
+      "description": "Den justerade vinsten beräknas nu stanna på 8,26–8,41 dollar per aktie, enligt bolaget. Tidigare prognos låg på 8,46 dollar per aktie. Philip Morris International, med varumärken som Marlboro och Zyn i portföljen, sänker sin vinstprognos. Motvind på valutamarknaden och ökade kostnader till följd av Irankriget anges som orsaker. Den justerade vinsten beräknas nu stanna på […]",
+      "link": "https://www.dagensps.se/bors-finans/snusbjassen-sanker-prognosen-valutasmall/",
+      "guid": "https://www.dagensps.se/?p=1658137",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/valutamotvind-och-hogre-kostnader-far-zy.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784727594000
+    },
+    {
+      "title": "Skärmdumpar av känsliga pdf-filer ska blockeras på Onedrive",
+      "description": "Microsoft testar en ny funktion i molntjänsten Onedrive som ska se till att det inte går att ta skärmdumpar av pdf-filer med känsligt innehåll, till exempel företagshemligheter. För närvarande fungerar blockeringen endast i Microsoft Edge, så om du vill komma runt den är det bara att använda sig av en annan webbläsare. Enligt uppgift kommer emellertid Microsoft att införa blockeringen i fler webbläsare och appar på sikt. Utrullningen av den nya funktionen påbörjas i slutet av augusti, rapporterar Windows Latest .",
+      "link": "https://computersweden.se/article/4200053/skarmdumpar-av-kansliga-pdf-filer-ska-blockeras-pa-onedrive.html",
+      "guid": "https://computersweden.se/article/4200053/skarmdumpar-av-kansliga-pdf-filer-ska-blockeras-pa-onedrive.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4200053-0-82408700-1784727566-shutterstock_editorial_1934605040.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784727557000
+    },
+    {
+      "title": "Youtubers kollar in Samsungs vikbara lurar",
+      "description": "Flippedifold Jag har kollat in Samsungs nya vikbara telefoner, mer om det lite senare. Under tiden kan ni kolla in vad lite härliga youtubers tycker om de nya lurarna. L&auml;s vidare och kommentera: https://feber.se/mobil/youtubers-kollar-in-samsungs-vikbara-lurar/494324/ L&auml;s mer om galaxy , fold8 , flip8 , fold8 ultra",
+      "link": "https://feber.se/mobil/youtubers-kollar-in-samsungs-vikbara-lurar/494324/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/youtubers-kollar-in-samsungs-vikbara-lurar/494324/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784727000000
+    },
+    {
+      "title": "Trump hotar med att bomba broar i Iran",
+      "description": "USA:s president Donald Trump hotar med att bomba en bro eller ett kraftverk i Iran som svar på varje iransk attack mot ett fartyg i Hormuzsundet. Varningen utfärdas på sociala plattformar.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-hotar-med-att-bomba-broar-i-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-hotar-med-att-bomba-broar-i-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784726765000
+    },
+    {
+      "title": "Tumult bröt ut när pojkar skulle skickas hem från kollo",
+      "description": "En grupp bråkiga barn stod för skadegörelse när de skulle skickas hem från kollo.",
+      "link": "https://www.mitti.se/nyheter/tumult-brot-ut-nar-pojkar-skulle-skickas-hem-fran-kollo-6.3.376739.9152d4241f",
+      "guid": "https://www.mitti.se/nyheter/tumult-brot-ut-nar-pojkar-skulle-skickas-hem-fran-kollo-6.3.376739.9152d4241f",
+      "image": "https://www.mitti.se/image-3.152182.300893.20260722135346.1.57c606421c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784726604000
+    },
+    {
+      "title": "Apple täpper till bugg som varit känd i ett års tid",
+      "description": "I juni 2025 avslöjade 404 Media att det finns en allvarlig bugg i Hide My Email, en av de mest populära funktionerna i Apples betaltjänst Icloud Plus. Med hjälp av buggen har det varit möjligt att ta del av de dolda mejladresserna, men det är först nu som en fix har skickats ut. Apples senfärdighet har lett till en gruppstämning mot företaget, detta då påståendet att kundernas mejladresser är skyddade kan betraktas som falsk marknadsföring. Enligt 404 Media är det troligt att samtliga läckta mejladresser finns tillgängliga via loggar från tredje part, så faran är inte över även om den ursprungliga buggen nu har fixats.",
+      "link": "https://computersweden.se/article/4200042/apple-tapper-till-bugg-som-varit-kand-i-ett-ars-tid.html",
+      "guid": "https://computersweden.se/article/4200042/apple-tapper-till-bugg-som-varit-kand-i-ett-ars-tid.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/07/4200042-0-00603100-1784726425-File-Cropped-2026-07-06-at-11.01.09-by-OCGL.jpeg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1784726415000
+    },
+    {
+      "title": "Det här är Samsungs smarta glasögon",
+      "description": "Kommer inte till Sverige På Google I/O visade Google och Samsung upp koncept av sina egna smarta glasögon, och nu har man släppt dem på riktigt. Designen har man inte gjort själva utan där har man fått hjälp av Gentle Monster och Warby Parker. Tanken med glasögonen är att de ska kunna användas under hela dagen, Samsung säger att batteritiden ska vara upp till nio timmar, och det finns upp till sju ytterligare laddningar i fodralet. Kraften står Snapdragon AR1 Gen1 för. Självklart spelar AI och Gemini en stor roll. – Google och Samsung delar en vision om att föra in användbar och kontextmedveten intelligens i vardagen. De intelligenta glasögonen, som bygger på Android XR-plattformen, kombinerar design i världsklass med Geminis avancerade assistans som på ett naturligt sätt reagerar på det du ser och ger handsfree-hjälp hela dagen, säger Sameer Samat, chef för Android Ecosystem på Google. Samsung, och Googles, tanke verkar vara att glasögonen ska kunna hjälpa till med vardagssaker. Det kan vara att översätta en text, sammanfatta långa texter, spara det som användaren ser (eller hör, som mötesanteckningar), hjälpa till att hitta till en plats och så vidare. Man ska även kunna dela vad man ser med någon som man pratar med över videosamtal. Lite coolt faktiskt. Glasögonen kommer bara att säljas på vissa marknader och kommer inte alls till varken Sverige eller Norden. L&auml;s vidare och kommentera: https://feber.se/mobil/det-har-ar-samsungs-smarta-glasogon/494293/ L&auml;s mer om Google , Gemini , Android , Snapdragon , Gentle Monster , Warby Parker",
+      "link": "https://feber.se/mobil/det-har-ar-samsungs-smarta-glasogon/494293/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/det-har-ar-samsungs-smarta-glasogon/494293/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784726400000
+    },
+    {
+      "title": "Översvämning i tunnelbanan efter det kraftiga regnet",
+      "description": "Tunnelbanan har drabbats av översvämning på grund av regnet.",
+      "link": "https://www.mitti.se/nyheter/oversvamning-i-tunnelbanan-efter-det-kraftiga-regnet-6.3.376815.8a23fd7002",
+      "guid": "https://www.mitti.se/nyheter/oversvamning-i-tunnelbanan-efter-det-kraftiga-regnet-6.3.376815.8a23fd7002",
+      "image": "https://www.mitti.se/image-3.376862.300948.20260722135051.1.6f70ef460c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784726385000
+    },
     {
       "title": "Rabatt på att hyra yacht i Medelhavet i sommar",
       "description": "Lyxsemester till sjöss har blivit billigare. Efterfrågan på att hyra yacht i Medelhavets har bromsat in och priserna har fallit med 30 procent. Den som drömmer om en semester på en lyxyacht i Medelhavet kan få ett ovanligt bra läge i sommar. Charterpriserna har fallit med mellan 20 och 30 procent jämfört med i fjol […]",
@@ -55,7 +455,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Därför flyger Norwegian runt i cirklar",
-      "description": "Den som tittade upp mot himlen över Torp i Norge på tisdagsmorgonen kunde få intrycket att något var fel. Ett Norwegian-plan flög varv efter varv över flygplatsen. Men lugn – det var precis tvärtom. Flyger i cirklar av en anledning Planet deltog i en träningsflygning där blivande piloter genomför sina sista moment innan de blir […]",
+      "description": "Den som tittade upp mot himlen över Torp i Norge på tisdagsmorgonen kunde få intrycket att något var fel. Ett Norwegian-plan flög varv efter varv över flygplatsen. Men lugn – det var precis tvärtom. Planet deltog i en träningsflygning där blivande piloter genomför sina sista moment innan de blir godkända. Torps flygplats används regelbundet av […]",
       "link": "https://www.dagensps.se/weekend/resor/darfor-flyger-norwegian-runt-i-cirklar/",
       "guid": "https://www.dagensps.se/?p=1658130",
       "image": "https://www.dagensps.se/images.realtid.se/app/uploads/2026/06/om-1.png?width=1200&#038;quality=75&#038;aspect_ratio=16%3A9",
@@ -92,16 +492,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1784724279000
-    },
-    {
-      "title": "Att resa med autism – så blir semestern lugnare för alla",
-      "description": "Att resa kan vara stressigt för vem som helst. För den som har autism kan ett flygplatskaos med blinkande informationsskärmar, högtalarutrop, köer och sena gatebyten kännas som ett maraton innan semestern ens har börjat. Men med rätt förberedelser går det att göra resan betydligt enklare. Experter och resenärer med egen erfarenhet är överens om en […]",
-      "link": "https://www.dagensps.se/weekend/resor/att-resa-med-autism-sa-blir-semestern-lugnare-for-alla/",
-      "guid": "https://www.dagensps.se/?p=1658124",
-      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/07/1-1107.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784723767000
     },
     {
       "title": "Viktig information inför torsdagens Europakval",
@@ -164,16 +554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784723400000
     },
     {
-      "title": "Lovables lönelyft – tjänar bland de bästa i branschen",
-      "description": "Lovable har expanderat sin personalstyrka i Sverige. Många av dem lär också ha fått påökt jämfört med tidigare, visar en ny kartläggning. AI-bolaget Lovable har hyllats som en raket inom techsfären. Det visar sig också i siffrorna. Det svenska dotterbolaget redovisar stora kostnader och mycket höga personallöner under sitt första verksamhetsår. Det har moderbolaget i […]",
-      "link": "https://www.dagensps.se/bors-finans/lonelyft-pa-lovable-tjanar-bland-de-basta-i-branschen/",
-      "guid": "https://www.dagensps.se/?p=1658121",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/lovable-grundare.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784722967000
-    },
-    {
       "title": "Tonåring döms till 13 års fängelse",
       "description": "Döms efter bombdramat",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5669f3b-c973-4303-8fd1-4c83a9ae1b08",
@@ -224,34 +604,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784721600000
     },
     {
-      "title": "FN: Snart inflation i matpriserna igen",
-      "description": "Matpriserna har fallit tillbaka i Sverige, men lättnaden kan bli kortvarig. FN varnar nu för global prisrusning på grund av krig och kris. De svenska matpriserna har dämpats efter de kraftiga prisökningarna de senaste åren. Enligt Statistiska centralbyrån var livsmedelspriserna i juni 6,8 procent lägre än samma månad i fjol. Men den utvecklingen ser ut […]",
-      "link": "https://www.dagensps.se/bors-finans/ravaror/fn-snart-inflation-i-matpriserna-igen/",
-      "guid": "https://www.dagensps.se/?p=1658110",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/matpriser.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784720531000
-    },
-    {
       "title": "USA:s president vill ha FIFA-boss som FN-boss",
-      "description": "USA:s president vill att Gianni Infantino ska leda FN Borta i USA har den nuvarande regeringen tillsatt en hel del oväntade personer på diverse politiska poster. Linda McMahon som utbildningsminister och JFK Junior som hälsominister är väl ganska tydliga sådana exempel. Nu sägs USA:s president att han vill att posten som FN:s nästa generalsekreterare bör vara FIFA-bossen Gianni Infantino. När nuvarande generalsekreteraren för FN, António Guterres, kommer att lämna sitt uppdrag vid årsskiftet behöver man ju utse en efterträdare. Det är i dagsläget oklart om Infantino själv är intresserad av att byta fotbollsarenan mot den internationella diplomatin, eller hur långt gångna planerna faktiskt är. Presidenten har ju en förmåga att säga många saker varje dag som sen aldrig blir av. Sen är det ju också den lilla detaljen att en ny chef måste först få stöd av FN:s säkerhetsråd för att därefter röstas igenom av generalförsamlingen. Om Infantino kan hamna på samma Wikipedia-sida som folk som Kofi Annan och Boutros Boutros-Ghali är oklart just nu. Men det är dock inte mycket som förvånar mig längre när det gäller sådana här saker så vi får väl se vad som händer med detta framöver. L&auml;s vidare och kommentera: https://feber.se/samhalle/usas-president-vill-ha-fifa-boss-som--fn-boss/494318/ L&auml;s mer om Gianni Infantino , FIFA , FN , Donald Trump , António Guterres , USA , diplomati",
+      "description": "Sägs vilja ha Infantino som generalsekreteraren för FN Borta i USA har den nuvarande regeringen tillsatt en hel del oväntade personer på diverse politiska poster. Linda McMahon som utbildningsminister och JFK Junior som hälsominister är väl ganska tydliga sådana exempel. Nu sägs USA:s president att han vill att posten som FN:s nästa generalsekreterare bör vara FIFA-bossen Gianni Infantino. När nuvarande generalsekreteraren för FN, António Guterres, kommer att lämna sitt uppdrag vid årsskiftet behöver man ju utse en efterträdare. Det är i dagsläget oklart om Infantino själv är intresserad av att byta fotbollsarenan mot den internationella diplomatin, eller hur långt gångna planerna faktiskt är. Presidenten har ju en förmåga att säga många saker varje dag som sen aldrig blir av. Sen är det ju också den lilla detaljen att en ny chef måste först få stöd av FN:s säkerhetsråd för att därefter röstas igenom av generalförsamlingen. Om Infantino kan hamna på samma Wikipedia-sida som folk som Kofi Annan och Boutros Boutros-Ghali är oklart just nu. Men det är dock inte mycket som förvånar mig längre när det gäller sådana här saker så vi får väl se vad som händer med detta framöver. L&auml;s vidare och kommentera: https://feber.se/samhalle/usas-president-vill-ha-fifa-boss-som--fn-boss/494318/ L&auml;s mer om Gianni Infantino , FIFA , FN , Donald Trump , António Guterres , USA , diplomati",
       "link": "https://feber.se/samhalle/usas-president-vill-ha-fifa-boss-som--fn-boss/494318/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/samhalle/usas-president-vill-ha-fifa-boss-som--fn-boss/494318/?utm_source=rss&utm_medium=feed",
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784720400000
-    },
-    {
-      "title": "Turisterna nobbar semesterfavoriterna utan AC – för varmt på Franska rivieran",
-      "description": "Bokningarna till Franska rivieran minskar och det gör de även till ö-favoriten Korsika. Anledningen är att det ofta saknas AC och turisterna väljer då hellre andra destinationer. Det har varit riktigt varmt på sina håll i Europa under sommaren. Det har kommit nya röda värmevarningar i i länder som Frankrike, och en stor mängd dödsfall […]",
-      "link": "https://www.dagensps.se/weekend/resor/turisterna-nobbar-semesterfavoriterna-utan-ac-for-varmt-pa-franska-rivieran/",
-      "guid": "https://www.dagensps.se/?p=1658074",
-      "image": "https://images.dagensps.se/app/uploads/2025/06/4-42.png?height=350",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784720169000
     },
     {
       "title": "Sverige står sig bra i nytt passindex",
@@ -282,26 +642,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784719598000
-    },
-    {
-      "title": "Försvaret: Sverige behöver nya vapen snabbt",
-      "description": "Ny teknik, metoder och vapen – och framför allt att förvandla idéer till skarp förmåga. Nu ska Sverige vässa innovationen inom försvaret. Regeringen har gett Försvarsmakten i uppdrag att samla all försvarsinnovation. Målet är att snabbare hitta, utveckla och införa nya lösningar som gör svenskt försvar vassare på fältet. Arbetet ska i samarbete alla delar […]",
-      "link": "https://www.dagensps.se/varlden/forsvaret-sverige-behover-nya-vapen-snabbt/",
-      "guid": "https://www.dagensps.se/?p=1658085",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/260429-stora-satra-strilab-rattan-hanwin-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784718805000
-    },
-    {
-      "title": "Odysseusresa för 900 000 kronor lockar med Troja, yacht och Sicilien",
-      "description": "Pelorus har lanserat en ny lyxresa inspirerad av storfilmen Odysseus, där antika platser i Turkiet och Italien vävs ihop med privata transporter, historikerledda visningar och en yachtresa genom Medelhavet. Priset ligger på 88 000 euro per person, motsvarande ungefär 900 000 kronor. Från Troja till Sicilien Resan är 14 nätter lång och börjar i Troja, där deltagarna […]",
-      "link": "https://www.dagensps.se/weekend/resor/odysseusresa-for-900-000-kronor-lockar-med-troja-yacht-och-sicilien/",
-      "guid": "https://www.dagensps.se/?p=1658064",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/2-1126-300x300.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784718460000
     },
     {
       "title": "Krogkund misstänks för misshandel i Hangö",
@@ -514,7 +854,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784710686000
     },
     {
-      "title": "Beskedet efter Gaza-skylten på Auschwitz",
+      "title": "Utredning om Gaza-skylten läggs ner",
       "description": "Förundersökningen om hets mot folkgrupp efter den uppmärksammade Palestinademonstrationen i Stockholm har lagts ner. Det finns inte anledning att tro att brott har begåtts, enligt åklagaren.",
       "link": "https://www.expressen.se/nyheter/sverige/beskedet-efter-gaza-skylten-pa-auschwitz/",
       "guid": "https://www.expressen.se/nyheter/sverige/beskedet-efter-gaza-skylten-pa-auschwitz/",
@@ -664,16 +1004,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784703600000
     },
     {
-      "title": "Äldre man och hans barnbarn omkom i en fyrhjulingsolycka i Raseborg",
-      "description": "Olyckan inträffade sent på kvällen på en skogsväg. Båda personerna avled trots återupplivningsförsök.",
-      "link": "https://yle.fi/a/7-10102505?origin=rss",
-      "guid": "https://yle.fi/a/7-10102505",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784702896000
-    },
-    {
       "title": "Lego släpper Arkiv X-byggsats",
       "description": "I want to build Lego har visat upp en ny byggsats som har hämtat inspiration från den klassiska scifi-serien Arkiv X ( The X-Files ). Byggsatsen är resultatet från ett Lego-fans idé från det som kallas \"Lego Ideas\", ett initiativ där Lego-byggare får ta fram egna förslag på byggsatser som andra legobyggare sedan kan rösta på om Lego borde förverkliga som riktiga byggsatser. Med byggsatsen \"The X-Files\" går det att bygga ihop de båda FBI-agenterna Mulder och Scullys underjordiska kontor samt ett tillhörande UFO. Både Mulder och Scully finns med som minifigurer såväl som sex andra minifigurer som ser ut som Arkiv X-karaktärerna Walter Skinner, Mr. X, Alex Krycek, Carl Busch, Flukeman samt en utomjording. Byggsatsen består av 1478 delar och kommer att släppas den 1 augusti till Lego Insiders och till andra den 4 augusti. Den kommer att kosta cirka 2500 kronor. Nedan hittas ett klipp där skådespelaren Gillan Anderson, som spelar rollen som Dana Scully i Arkiv X , gör reklam för Legos nya Arkiv-X-byggsats. Längre finns även ett bildspel med massa bilder på bygget. L&auml;s vidare och kommentera: https://feber.se/pryl/lego-slapper-arkiv-x-byggsats/494287/ L&auml;s mer om Arkiv X , Mulder , Scully , Byggsats , Lego Ideas , scifi , tv-serier",
       "link": "https://feber.se/pryl/lego-slapper-arkiv-x-byggsats/494287/?utm_source=rss&utm_medium=feed",
@@ -684,26 +1014,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784702400000
     },
     {
-      "title": "Jason Robertson och Dallas Stars enades om ettårskontrakt",
-      "description": "Forwarden inkasserar 12 miljoner dollar för nästa säsong. Kontraktet innebär att Dallas slipper den skiljedomsprocess Jason Robertson ansökt om.",
-      "link": "https://yle.fi/a/7-10102504?origin=rss",
-      "guid": "https://yle.fi/a/7-10102504",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784702207000
-    },
-    {
-      "title": "Efter flygplansdramat: ”Han tittade på döden”",
-      "description": "Plötsligt krossades flygplansfönstret. Passageraren Ljubisas huvud och arm slets ut genom fönstret i 600 km/h. Nu berättar 61-åringen om skräckdramat som håller honom vaken om nätterna för The Guardian. – Explosionen är det enda jag minns, säger han.",
-      "link": "https://www.expressen.se/nyheter/varlden/efter-flygplansdramat-han-tittade-pa-doden-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/efter-flygplansdramat-han-tittade-pa-doden-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784702071000
-    },
-    {
       "title": "Det här är Range Rovers första grand tourer",
       "description": "Range Rover GT är märkets femte modell Helt nya modeller från Range Rover kommer inte ofta. Idag har man Range Rover, Range Rover Sport, Velar och Evoque. Fyra modeller som alla är suvar. Men nu kommer det snart en femte modell. I natt visade nämligen bolaget upp Range Rover GT. Som namnet antyder är det en grand tourer som är mer gjord för att åka långt med än ta ut i terrängen. Bilen bygger på EMA-plattformen, samma plattform som Jaguars beryktade kommande elbilar bygger på. Till en början kommer modellen att vara helt elektrisk, vilket känns rimligt, men det kommer även andra drivlinor med tiden. Trots att bilen just nu är maskerad kan man se att det är en Range Rover, men ändå något annat. Känns lovande. På insidan är det extremt avskalat. Nästan lite tråkigt. Man har jobbat hårt på att gömma teknik och funktion, de flesta utblås är till exempel gömda. Så även högtalare. Baksätet verkar vara enormt. Prototyper testas just nu och mer information kommer i höst. L&auml;s vidare och kommentera: https://feber.se/bil/det-har-ar-range-rovers-forsta-grand-tourer/494289/ L&auml;s mer om Range Rover GT , Jaguar , Range Rover Sport , Velar , Evoque",
       "link": "https://feber.se/bil/det-har-ar-range-rovers-forsta-grand-tourer/494289/?utm_source=rss&utm_medium=feed",
@@ -712,36 +1022,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784701800000
-    },
-    {
-      "title": "Tonåring död i mc-olycka",
-      "description": "Krockade med bil på E20",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ca60fe3-e354-497e-b14d-aeaea1e114b5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1ca60fe3-e354-497e-b14d-aeaea1e114b5",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784701616000
-    },
-    {
-      "title": "Flera logistikcenter brinner i Ryssland efter nya ukrainska attacker",
-      "description": "Rysslands motsvarighet till amerikanska Amazon har igen utsatts för nya attacker. Samtidigt ökar trycket kring Krim.",
-      "link": "https://yle.fi/a/7-10102500?origin=rss",
-      "guid": "https://yle.fi/a/7-10102500",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784701505000
-    },
-    {
-      "title": "Två tonåringar knivskadade i Botkyrka – tjej flydde från platsen",
-      "description": "Under natten till tisdagen knivskadades en kille i övre tonåren i Botkyrka och flögs med ambulanshelikopter till sjukhus. Senare kom också uppgifter om att en tonårsflicka skadats i samma område – men flytt.",
-      "link": "https://www.expressen.se/nyheter/sverige/tva-tonaringar-knivskadade-i-botkyrka-tjej-flydde-fran-platsen-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tva-tonaringar-knivskadade-i-botkyrka-tjej-flydde-fran-platsen-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784700220000
     },
     {
       "title": "En sista trailer för Spider-Man: Brand New Day",
@@ -794,16 +1074,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784698864000
     },
     {
-      "title": "Topi Raitanen deltar inte i helgens Kalevaspel: ”Jag är fortfarande helt ofärdig”",
-      "description": "Hinderlöparen har bara tävlat en gång i år på grund av en seg fotledsskada. Nu hoppas han på comeback under sensommaren.",
-      "link": "https://yle.fi/a/7-10102502?origin=rss",
-      "guid": "https://yle.fi/a/7-10102502",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784698775000
-    },
-    {
       "title": "En man till sjukhus med helikopter efter knivattack",
       "description": "Två män överfölls med kniv i Alby, Botkyrka, och en fördes till sjukhus.",
       "link": "https://www.mitti.se/nyheter/en-man-till-sjukhus-med-helikopter-efter-knivattack-6.3.376727.408737a1cf",
@@ -812,16 +1082,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784698541000
-    },
-    {
-      "title": "Brand härjade på återvinningsanläggning i Vanda",
-      "description": "Strax före klockan fem fick räddningsverket in ett larm om en brand i östra Vanda. Det var soporna intill en återvinningsanläggning som brann. Också ett parhus har brunnit i Vanda under morgonen.",
-      "link": "https://yle.fi/a/7-10102501?origin=rss",
-      "guid": "https://yle.fi/a/7-10102501",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784698039000
     },
     {
       "title": "Kantarellrullar med parmesan och löjrom",
@@ -854,36 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784696421000
     },
     {
-      "title": "Cecilia Sahlgren om konsten att våga avvika: Varje samhälle behöver sin byfåne",
-      "description": "Som barn var Cecilia Sahlgrens standardsvar på frågan ”Vad ska du bli när du blir stor?” ett enda ord: byfåne. I dag är hon professor i cellbiologi och studerar det som avviker.",
-      "link": "https://yle.fi/a/7-10098435?origin=rss",
-      "guid": "https://yle.fi/a/7-10098435",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784696413000
-    },
-    {
-      "title": "Sommar i P1: Robin Larmérus berättande imponerar",
-      "description": "ALBIN JULIN: Så många [geting] får Robin Larmérus sommarprat",
-      "link": "https://www.expressen.se/nyheter/sommar-i-p1-robin-larmerus-berattande-imponerar/",
-      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-robin-larmerus-berattande-imponerar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784696400000
-    },
-    {
-      "title": "Uppmaningen till Putin: Attackera Natoländer",
-      "description": "Putins ”attackhund” menar att Rysslands invasionskrig mot Ukraina är för ”milt”. Nu hotar den tjetjenska presidenten Natoländer. – Det är dags att öppna eld – så enkelt är det!, skriver Ramzan Kadyrov på Telegram, enligt Moscow Times .",
-      "link": "https://www.expressen.se/nyheter/varlden/uppmaningen-till-putin-attackera-natolander/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppmaningen-till-putin-attackera-natolander/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784693636000
-    },
-    {
       "title": "Magic mushrooms may reshape the brain long after the trip ends",
       "description": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in flexible, varied brain activity also reported more personal insight and later improvements in well-being. The findings suggest that the psychedelic experience itself may help people break free from entrenched patterns of thinking.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
@@ -892,66 +1122,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784693566000
-    },
-    {
-      "title": "Kort jordgubbssäsong överraskar österbottniska odlare",
-      "description": "Skördesäsongen började tidigt, men blev kort. Från tunnelodlingar och nya planteringar får man fortfarande små mängder bär.",
-      "link": "https://yle.fi/a/7-10102480?origin=rss",
-      "guid": "https://yle.fi/a/7-10102480",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784692450000
-    },
-    {
-      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
-      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
-      "link": "https://yle.fi/a/7-10102499?origin=rss",
-      "guid": "https://yle.fi/a/7-10102499",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784691921000
-    },
-    {
-      "title": "Prislappen på USA:s krig mot Iran: 37,5 miljarder dollar",
-      "description": "USA:s anfall mot Iran fortsätter för elfte natten i rad. Samtidigt verkar en ny front ha öppnats då huthirebellerna hotar fartyg i Röda havet.",
-      "link": "https://yle.fi/a/7-10102498?origin=rss",
-      "guid": "https://yle.fi/a/7-10102498",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784691290000
-    },
-    {
-      "title": "Tvingas redovisa sin ekonomi – för BBC",
-      "description": "Donald Trump har tidigare backat från delar av sin stämning mot BBC. Och nu har det som presidenten inte ville skulle hända skett. En federal domare tvingar Trump att redovisa större delar av sin ekonomi för public service-bolaget, enligt Politico .",
-      "link": "https://www.expressen.se/nyheter/varlden/tvingas-redovisa-sin-ekonomi-for-bbc/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tvingas-redovisa-sin-ekonomi-for-bbc/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784690861000
-    },
-    {
-      "title": "Janne Josefsson: Jag vill inte bo på Marstrand",
-      "description": "För drygt 30 år sedan satte Janne Josefsson Marstrand på kartan genom ett reportage om ett infekterat kebabbråk. Nu är han tillbaka på societetsön. Han beskriver Marstrand som vackert – men det finns en baksida. – Jag skulle inte vara på rätt plats bland alla stenrika. Dom är sprättar, det gäller inte bara männen utan kvinnorna också, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/janne-josefsson-jag-vill-inte-bo-pa-marstrand/",
-      "guid": "https://www.expressen.se/nyheter/sverige/janne-josefsson-jag-vill-inte-bo-pa-marstrand/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784689200000
-    },
-    {
-      "title": "Nya attacker mot Iran",
-      "description": "Elfte natten i rad",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc1504c7-aa86-4634-8a15-475cdb294d8b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc1504c7-aa86-4634-8a15-475cdb294d8b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784688614000
     },
     {
       "title": "New programmable photonic chip can control how fast light moves",
@@ -1124,16 +1294,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784653200000
     },
     {
-      "title": "Säl surfade runt i Hanöbukten",
-      "description": "På upphittad surfbräda Kustbevakningen har lagt ut ett foto på sin Facebooksida där en säl ser ut att ligga och ta det lugnt på en surfbräda någonstans i Hanöbukten öster om det skånska fastlandet. I det något humoristiska inlägget uppmanar Kustbevakningen dock allmänheten att märka upp sina flytvästar och andra flytetyg, till exempel badleksaker och surfbrädor. Om Kustbevakningen har någon att kontakta kan de ringa upp personen och fråga om allt är okej och kanske även slippa dra igång onödiga räddningsinsatser: \"Medan sälen njuter av vågorna vill vi passa på att påminna: märk upp flytvästar och andra flytetyg med namn och telefonnummer. Om de hittas drivande kan vi nämligen ringa upp dig och fråga om allt är okej. Eller berätta att vi misstänker att en säl lånat din bräda. Genom att märka dina grejer minskar risken för onödiga sjöräddningslarm och viktiga resurser kan därmed användas där de verkligen behövs.\" L&auml;s vidare och kommentera: https://feber.se/samhalle/sal-surfade-runt-i-hanobukten/494278/ L&auml;s mer om Kustbevakningen , Facebook , Hanöbukten , Säl , Flytväst , Sjöräddning",
-      "link": "https://feber.se/samhalle/sal-surfade-runt-i-hanobukten/494278/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/sal-surfade-runt-i-hanobukten/494278/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784651400000
-    },
-    {
       "title": "En brittisk kemist upptäckte en enkel process som förekommer överallt i din vardag – och som kan komma att bryta ny mark",
       "description": "Det började som bubblor i ett brittiskt reagensglas för 225 år sedan. Sedan dess har den kemiska processen blivit vanlig inom industrin. I framtiden kan den bana väg för ett grönare samhälle, fritt från beroendet av olja och gas.",
       "link": "https://illvet.se/fysik/en-brittisk-kemist-upptackte-en-enkel-process-som-forekommer-overallt-i-din-vardag-och-som-kan-komma-att-bryta-ny-mark",
@@ -1142,16 +1302,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784649631000
-    },
-    {
-      "title": "Mercedes-Maybach ansiktslyfter GLS",
-      "description": "Mer bling, mer ljus I juni uppdaterade Mercedes sin GLS och nu har den kommit i Maybach-version. Den lyxigare versionen har alla nyheter som den vanliga GLS:en fick, och lite till. Modellbeteckningen är Mercedes-Maybach GLS 680 och under huven finns en elektrifierad V8:a med dubbla turbos som ska leverera 450 kW plus 17 kW elboost, alltså 612 hästar. Vridet ligger på 850 Nm. Mercedes säger att motorn ska påminna om den tidigare V12:an men vara snabbare i responsen och inte vara lika törstig. Fronten är tillfixad och självfallet lyser den Maybach-loggan. I strålkastarna hittar vi detaljer i roséguld och Maybach-loggor. Merca gillar verkligen att trycka loggor överallt. På insidan är det lyxigt, vill man kan man få riktigt exklusivt läder och instegsramperna fälls ut automatiskt. L&auml;s vidare och kommentera: https://feber.se/bil/mercedes-maybach-ansiktslyfter-gls/494273/ L&auml;s mer om Maybach , GLS , V8 , Lyxbil , SUV , Bilnyhet",
-      "link": "https://feber.se/bil/mercedes-maybach-ansiktslyfter-gls/494273/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/mercedes-maybach-ansiktslyfter-gls/494273/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784649600000
     },
     {
       "title": "Royal Enfield x Rough Crafts Shotgun 650 Motorcycle",
@@ -1174,44 +1324,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784649600000
     },
     {
-      "title": "Klimps verk Kyssen finns nu som Lego",
-      "description": "Mer konst av bitar Gustav Klimts målning Kyssen är ett av världens mest kända konstverk och Klimts absoluta ikonverk från hans så kallade \"gyllene period\". Nu har Lego gjort ett set av den detaljerade målningen. Bygget är minst sagt detaljerat som tavlan, exakt 4000 bitar finns i kartongen. Det gör också prislappen fet, 3800 kronor. Släppdatum är den 4 augusti och tavlan har inbyggd funktionalitet för att hänga upp den på väggen. Lego har sedan tidigare släppt set med konst från Monet och Van Gogh. L&auml;s vidare och kommentera: https://feber.se/pryl/klimps-verk-kyssen-finns-nu-som-lego/494272/ L&auml;s mer om Gustav Klimt , Kyssen , Konst , Gyllene perioden , Tavla",
-      "link": "https://feber.se/pryl/klimps-verk-kyssen-finns-nu-som-lego/494272/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/klimps-verk-kyssen-finns-nu-som-lego/494272/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784647800000
-    },
-    {
       "title": "Fullt på Gröna Lund – besökare kom inte in",
       "description": "Gröna Lund stoppade biljettförsäljningen för första gången i år när parken blev full. Besökare utan förköpta biljetter fick vända vid entrén på Djurgården.",
       "link": "https://www.mitti.se/nyheter/fullt-pa-grona-lund--besokare-kom-inte-in-6.3.376719.737877bca2",
       "guid": "https://www.mitti.se/nyheter/fullt-pa-grona-lund--besokare-kom-inte-in-6.3.376719.737877bca2",
-      "image": "https://www.mitti.se/image-3.354023.300875.20260721155444.2f38315948?format=jpeg",
+      "image": "https://www.mitti.se/image-3.354023.300875.20260722142832.425f537dbf?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784647438000
-    },
-    {
-      "title": "Kylian Mbappé blir omslagspojke för FC 27",
-      "description": "Det är han väl värd? I dag avslöjade EA att den franska superstjärnan Kylian Mbappé kommer bli omslagspojke för Ultimate Edition-utgåvan av EA Sports FC 27. Detta är första gången han är på omslaget sedan spelet bytte namn från FIFA till FC. Är man taggad på att få se hur själva spelet ser ut kommer man kunna göra det på torsdag. Då kommer nämligen EA att den första gameplay-trailern för spelet klockan 18.00. L&auml;s vidare och kommentera: https://feber.se/spel/kylian-mbappe-blir-omslagspojke-for-fc-27/494282/ L&auml;s mer om EA , Kylian Mbappé , EA Sports FC , TV-spel , Fotboll",
-      "link": "https://feber.se/spel/kylian-mbappe-blir-omslagspojke-for-fc-27/494282/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/kylian-mbappe-blir-omslagspojke-for-fc-27/494282/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784646600000
-    },
-    {
-      "title": "Köp Samsung Galaxy Z Fold 8 Ultra med Messi-tema",
-      "description": "Kostar över 125.000 kronor I morgon presenteras Samsung Galaxy Z Fold 8, men redan nu har Caviar, det ryska företaget som specialiserat sig på att ta fram exklusiva versioner av olika mobiltelefoner, börjat sälja en Lionel Messi-brandad version av Samsungs vikbara telefon. Galaxy Z Fold 8 med Messi-tema har en bild på fotbollslegendaren inetsad på mobilens baksida där en del av detaljerna är pläterade i 24 karats guld. Telefonen levereras även i en exklusiv box, men förutom det verkar det inte vara något som skiljer Cavias Messi-mobil från den Galaxy Z Fold 8 som kommer att presenteras i morgon, den 22 juli. Samsung Galaxy Z Fold 8 med Messi-tema kommer bara att tillverkas i 19 exemplar. Den går att få med 256GB, 512GB eller 1TB lagringsminne. Den billigaste versionen med 256GB kostar 13.130 dollar (ca 127.000 kronor) medan den dyraste med 1TB minne kostar 13.840 dollar (ca 134.000 kronor). L&auml;s vidare och kommentera: https://feber.se/mobil/kop-samsung-galaxy-z-fold-8-ultra-med-messi-tema/494271/ L&auml;s mer om Caviar , Messi , Galaxy Z Fold , Mobiltelefoner , Guld , Design , Lyx , dyrt",
-      "link": "https://feber.se/mobil/kop-samsung-galaxy-z-fold-8-ultra-med-messi-tema/494271/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/kop-samsung-galaxy-z-fold-8-ultra-med-messi-tema/494271/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784646000000
     },
     {
       "title": "Kodak EC35 Camera",
@@ -1224,16 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784646000000
     },
     {
-      "title": "Spelmedier har åsikter om Splatoon Raiders",
-      "description": "Som släpps den 23 juli På torsdag släpps Splatoon Raiders till Nintendo Switch 2 och om man redan nu vill försöka luska ut om spelet är något för dig eller inte kan man ju kolla in videorecensionerna för spelet ovan samt nedan. Generellt verkar folk vara överens om att Splatoon Raiders lyckas förvandla spelseriens klassiska mekanik till en beroendeframkallande looter shooter, där utforskning, resursinsamling och vapenanpassning står i centrum. Tydligen är det roligt att spela både i enspelararläget och i samarbetsläge med vänner. Det som folk är mindre nöjda med där spelets handling och att uppdragen kan kännas lite enformiga med tiden. Vissa klagar också på att det krävs en del grinding för att kunna ta sig vidare i spelet. Men generellt verkar folk tycka det är en underhållande och fräsch spinoff, speciellt för alla som uppskattar PvE-strider. Länkar till fler recensioner kan hittas via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/spelmedier-har-asikter-om-splatoon-raiders/494281/ L&auml;s mer om Splatoon Raiders , Switch",
-      "link": "https://feber.se/spel/spelmedier-har-asikter-om-splatoon-raiders/494281/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/spelmedier-har-asikter-om-splatoon-raiders/494281/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784645400000
-    },
-    {
       "title": "Kallskuren biff med gurka och ponzudressing",
       "description": "Tunna skivor av biff möter krispig gurka och en friskt syrlig ponzudressing. En rustik men ändå elegant rätt med japansk touch.",
       "link": "https://alltommat.expressen.se/recept/kallskuren-biff-med-gurka-och-ponzudressing/",
@@ -1244,16 +1354,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784644396000
     },
     {
-      "title": "Lego gör VM-pokal för spanjorerna",
-      "description": "¡Enhorabuena por el campeonato! Lego och Fifa har gjort en del saker tillsammans på senare tid, bland annat VM-pokalen. Nu har man fixat till en version som bara kommer att säljas i Spanien och som hyllar den spanska vinsten. Den nya pokalen har några små men viktiga skillnader mot den vanliga pokalen . Dels är förpackningen ny och dels är Spanien inskrivna på plaketten i botten. Men man har också bytt ut den lilla grejen som gömmer sig i toppen av pokalen. Istället för en minifig med pokal finns en grej som förklarar att Spanien vann VM. Den spanska versionen kostar 200 euro, går bara att köpa i Spanien och innehåller 2845 bitar. L&auml;s vidare och kommentera: https://feber.se/pryl/lego-gor-vm-pokal-for-spanjorerna/494263/ L&auml;s mer om Fifa , Spanien , VM-pokal , Fotboll",
-      "link": "https://feber.se/pryl/lego-gor-vm-pokal-for-spanjorerna/494263/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/lego-gor-vm-pokal-for-spanjorerna/494263/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784644200000
-    },
-    {
       "title": "Björn om förlängningen – \"Något man drömmer om\"",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/bjorn-om-forlangningen-nagot-man-drommer-om",
@@ -1262,16 +1362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784643709000
-    },
-    {
-      "title": "Färre dödsolyckor i trafiken globalt",
-      "description": "Dödstalen har sjunkit sedan 2011 trots fler fordon på vägarna Enligt färsk statistik från WHO har antalet dödsolyckor i trafiken minskat med drygt en femtedel sedan 2011. Detta trots att antalet fordon på vägarna har ökat kraftigt och våra resemönster har förändrats, går den globala trenden åt rätt håll. Men många dör fortfarande vilket ju är sällan kul för dem som drabbas. Under det gångna året miste 1,1 miljoner människor livet i trafiken och särskilt hårt drabbade är barn samt unga vuxna i åldern 5 till 29 år. Rapporten visar dock stora regionala klyftor då utvecklingen ser väldigt olika ut beroende på var i världen man befinner sig. I Europa har dödstalen sjunkit med hela 36 procent men på den afrikanska kontinenten har de istället ökat med 17 procent. L&auml;s vidare och kommentera: https://feber.se/fordon/farre-dodsolyckor-i-trafiken-globalt/494270/ L&auml;s mer om WHO , Trafiksäkerhet , Europa , Afrika , Trafikolyckor",
-      "link": "https://feber.se/fordon/farre-dodsolyckor-i-trafiken-globalt/494270/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/farre-dodsolyckor-i-trafiken-globalt/494270/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784642400000
     },
     {
       "title": "Hammarby förlänger med Björn Hedlöf",
@@ -1884,16 +1974,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784535991000
     },
     {
-      "title": "UEL och UECL: Här är klubbarna Hammarby kan lottas mot i Q3",
-      "description": "På torsdag spelas den första av två matcher mot Anderlecht i kvalet till UEFA Europa League, men redan i dag lottas motståndet i följande omgång. Både till UEFA Europa League och till UEFA Europa Conf",
-      "link": "https://www.hammarbyfotboll.se/nyheter/uel-och-uecl-q3-har-ar-klubbarna-hammarby-kan-lottas-mot",
-      "guid": "2cbdc4e9-563f-4f4f-8aa9-d94a8912f7a2",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/0e6140edcf5c652d8ca4559341a59278c5cfc020-1325x884.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784533384000
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "description": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
@@ -1994,16 +2074,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784514681000
     },
     {
-      "title": "HTV: Montader - \"Man måste våga skjuta!\"",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-montader-man-maste-vaga-skjuta",
-      "guid": "e04812cc-a563-44a1-aa0f-7906cba0806b",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/0359700f327cd7ac4023c9b041fefdbf156b1cab-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784483255000
-    },
-    {
       "title": "Paul Svensson: ”Man ska inte vara rädd för att råvaran ska bli för salt”",
       "description": "Med grönsaker och rotfrukter i säsong kompletterat med animaliskt protein som smaksättare blir grillningen mer hållbar. Populära tv-kocken Paul Svensson, som grillar mer som en ”vanlig konsument”, tipsar om hur du kan grilla gott och grönt i sommar.",
       "link": "https://alltommat.expressen.se/artiklar/paul-svensson-man-ska-inte-vara--radd-for-att-ravaran-ska-bli-for-salt/",
@@ -2012,16 +2082,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784480400000
-    },
-    {
-      "title": "Tredje raka segern – 4-0 mot Degerfors",
-      "description": "Hammarby tog tredje raka segern i Allsvenskan genom 4–0 mot Degerfors på hemmaplan. Paulos Abraham bröt dödläget i en trubbigare första halvlek. Tesfaldet Tekie och Montader Madjed blev målskyttar i e",
-      "link": "https://www.hammarbyfotboll.se/nyheter/tredje-raka-segern-4-0-mot-degerfors",
-      "guid": "6f2bee35-0d04-4e4c-9842-1e93bcb31bb0",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/78f57b589c52d8fc86a5771b1034d901f8068e55-1697x1131.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784478220000
     },
     {
       "title": "Ny teori: Forntidens skrift var en statussymbol – även när den var nonsens",
@@ -2222,16 +2282,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784378163000
-    },
-    {
-      "title": "Romerska glasblåsare erövrade världen",
-      "description": "Kort efter Kristi födelse inleder romarna en stor exportsuccé. Imperiets glasblåsare har lärt sig att blåsa glas, och snart strömmar koppar, kannor och skålar i de finaste utformningarna ut i världen – från Norge i norr till Kina i öster.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/romerska-glasblasare-erovrade-varlden",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/romerska-glasblasare-erovrade-varlden",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784376052000
     },
     {
       "title": "Intermittent fasting helped people keep weight off for a year",
@@ -2442,26 +2492,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784284538000
-    },
-    {
-      "title": "Clicklock kan stjäla lösenord till Mac-datorer",
-      "description": "På sistone har vi rapporterat om ett antal nya skadeprogram för Mac, däribland Gaslight och Crashstealer . Nu varnar säkerhetsforskare på Group-IB för Clicklock, ett program som är utformat för att stjäla inloggningsuppgifter, lösenord, autentiseringsdata, webbläsarhistorik och kryptoplånböcker. Clicklock kan även skapa en bakdörr i systemet, vilket ger kontinuerlig tillgång till infekterade datorer. Enligt uppgift har användare i 33 länder drabbats sedan Clicklock började spridas i maj. Det bästa sättet att skydda sig är att inte klistra in okänd kod i terminalen, rapporterar Bleeping Computer .",
-      "link": "https://computersweden.se/article/4198245/clicklock-kan-stjala-losenord-till-mac-datorer.html",
-      "guid": "https://computersweden.se/article/4198245/clicklock-kan-stjala-losenord-till-mac-datorer.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4198245-0-48662500-1784283656-macbook-pro-with-bugs-100939495-orig.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1784283644000
-    },
-    {
-      "title": "Netflix: Runt 300 titlar har använt generativ AI",
-      "description": "Netflix uppger att omkring 300 titlar på streamingtjänsten har använt generativ AI, främst i efterproduktionen. Enligt bolagets kvartalsrapport används tekniken för att kunna leverera innehåll snabbare, till lägre kostnad och med högre kvalitet, rapporterar The Verge . Bland produktionerna som använt AI syns Glory, Brasil 70: A Saga do Tri och The American Experiment. Tekniken har bland annat använts för att skapa mer avancerade scener med större folkmassor, historiska strider och etableringsbilder av fiktiva miljöer. Netflix har successivt ökat AI-satsningarna det senaste året. Tidigare har vd:n Ted Sarandos berättat att sci-fi-serien The Eternaut använde AI för att skapa en effektsekvens. Bolaget har även köpt Ben Afflecks AI-startup, startat en AI-inriktad animationsstudio och använder en AI-genererad version av Gene Wilders röst i realityprogrammet Wonka’s The Golden Ticket.",
-      "link": "https://computersweden.se/article/4198181/netflix-runt-300-titlar-har-anvant-generativ-ai.html",
-      "guid": "https://computersweden.se/article/4198181/netflix-runt-300-titlar-har-anvant-generativ-ai.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4198181-0-23547600-1784282539-netflix-pixabay-Tumisu.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1784282400000
     },
     {
       "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
@@ -2754,21 +2784,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784181185000
     },
     {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
       "title": "Därför har SL byggt om i Mörby centrum",
       "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
       "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784178000000
