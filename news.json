@@ -1,17 +1,37 @@
 {
-  "updatedAt": "2026-07-22T18:56:03.594Z",
+  "updatedAt": "2026-07-22T21:56:08.980Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "När köpte du ett fysiskt spel senast?",
-      "description": "Dagens fråga Nyligen meddelade Sony att de planerar att sluta ge ut spel på fysisk media från och med januari 2028. Den nyheten har mötts av en våg av kritik i sociala medier, där arga användare fyller kommentarsfält i protest mot beslutet. Mat Piscatella, branschanalytiker på Circana, menar dock att protesterna ekar tomt när man ser till den faktiska försäljningen av fysiska spel. Enligt hans data är intresset för fysiska kopior borta i USA nu på rekordlåga nivåer. Under en specifik vecka i juli nådde endast två PlayStation-spel över 10 000 sålda fysiska exemplar i landet, och sett över hela året har bara sju spel lyckats sälja mer än 100 000 fysiska enheter totalt. Nu finns det ju fler länder än USA i världen där kanske bristen på fysisk media slår lite hårdare, men generellt kändes det här som något som skulle hända förr eller senare. Men vi undrar ju då så klart när du köpte någon fysisk kopia av ett spel senast. L&auml;s vidare och kommentera: https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/ L&auml;s mer om Sony , Mat Piscatella , Circana , PlayStation , USA",
-      "link": "https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/?utm_source=rss&utm_medium=feed",
+      "title": "Marantz CD 70 Player",
+      "description": "",
+      "link": "https://uncrate.com/marantz-cd-70-player/",
+      "guid": "https://uncrate.com/marantz-cd-70-player/",
+      "image": "https://uncrate.com/assets_c/2026/07/marantz-model-70-amp-cd-70-player-1-thumb-960xauto-192233.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784757600000
+    },
+    {
+      "title": "Amin Boudri klar för Hammarby",
+      "description": "Strax innan midnatt på onsdagskvällen blev pappersarbetet klart – Hammarby värvar Amin Boudri från Los Angeles FC och spelaren hann med minsta möjliga marginal registreras för kvalet till Europa Leagu",
+      "link": "https://www.hammarbyfotboll.se/nyheter/amin-boudri-klar-for-hammarby",
+      "guid": "a92d3551-bb6e-4295-b0a5-efd82dc8d63e",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/8effbf34dfc76e703e49339bb98fcd369e96e3d3-1831x1353.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784756471000
+    },
+    {
+      "title": "Trump imiterar världsledaren",
+      "description": "Märkliga scenerna under talet",
+      "link": "https://www.expressen.se/tv/nyheter/trumps-markliga-imitation-av-varldsledaren",
+      "guid": "https://www.expressen.se/tv/nyheter/trumps-markliga-imitation-av-varldsledaren",
       "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784745000000
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784756426000
     },
     {
       "title": "Evakueringar på turistön",
@@ -21,7 +41,167 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784744594000
+      "timestamp": 1784756301000
+    },
+    {
+      "title": "Badklåda vid Tanto – därför hamnar parasiterna på människor",
+      "description": "Badklåda har rapporterats vid Tanto badplats i Stockholm. Parasiter orsakar intensiv klåda och röda utslag, men vattnet är inte farligt och inget badförbud gäller.",
+      "link": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
+      "guid": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
+      "image": "https://www.mitti.se/image-3.317058.300894.20260722213341.55d75c9e9f?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784755929000
+    },
+    {
+      "title": "Iran: Attackerat flera amerikanska baser",
+      "description": "Iran: Slog till på flera ställen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cd490f96-0d53-45e5-9f2d-b27c6675f4b7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cd490f96-0d53-45e5-9f2d-b27c6675f4b7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784755792000
+    },
+    {
+      "title": "Uppgifter: Trump planerar attacker mot nytt land",
+      "description": "Donald Trump kan ingripa militärt i ett åttonde land under denna mandatperiod. Vita huset vill slå ut en al-Qaida-kopplad grupp som strider mot Putins legosoldater. – Vi hoppas att andra afrikanska länder noterar Rysslands usla resultat i kampen mot terrorismen, säger en källa från Vita huset till The Independent .",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-planerar-attacker-mot-nytt-land/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-planerar-attacker-mot-nytt-land/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784755257000
+    },
+    {
+      "title": "Regimen: Smooth",
+      "description": "",
+      "link": "https://uncrate.com/regimen-smooth/",
+      "guid": "https://uncrate.com/regimen-smooth/",
+      "image": "https://uncrate.com/assets_c/2026/07/regimen-smooth-darkened-thumb-960xauto-192258.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784754000000
+    },
+    {
+      "title": "Här är fansens drömelva från VM – den 40-åriga målvakten Vozinha får plats i laget",
+      "description": "Supportrarna har fått rösta fram sin drömstartelva från VM 2026.",
+      "link": "https://yle.fi/a/7-10102544?origin=rss",
+      "guid": "https://yle.fi/a/7-10102544",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784751170000
+    },
+    {
+      "title": "Codigo 1530 Kevin O'Leary Tequila Set",
+      "description": "",
+      "link": "https://uncrate.com/codigo-1530-kevin-oleary-tequila-set/",
+      "guid": "https://uncrate.com/codigo-1530-kevin-oleary-tequila-set/",
+      "image": "https://uncrate.com/assets_c/2026/07/codigo-1530-2-thumb-960xauto-192261.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784750400000
+    },
+    {
+      "title": "Succé för svensk glassdiplomati",
+      "description": "Diplomat har alltid varit ett glassigt jobb, men nu tar Sverige det ett steg längre. Emanuel Lundin på svenska ambassaden i Bangkok gör succé i Thailand med sin hyllning till den lokala kokosglassen. ”Thailändsk glass är bäst”, skriver han i ett inlägg på Facebook som har blivit viralt,",
+      "link": "https://www.expressen.se/nyheter/sverige/succe-for-svensk-glassdiplomati/",
+      "guid": "https://www.expressen.se/nyheter/sverige/succe-for-svensk-glassdiplomati/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784749954000
+    },
+    {
+      "title": "Inget beslut om nya sanktioner mot Ryssland",
+      "description": "Oenigheten gäller bland annat frågan om ett förbud mot köp, import eller transport av rysk flytande fossilgas (LNG). Grekland ifrågasätter formuleringar som skulle drabba rederibranschen i landet hårt. EU-ländernas ambassadörer kunde på onsdagen inte enas om ett nytt sanktionspaket mot Ryssland. Oenigheten gäller bland annat frågan om ett förbud mot köp, import eller transport av […]",
+      "link": "https://www.dagensps.se/varlden/konflikter/inget-beslut-om-nya-sanktioner-mot-ryssland/",
+      "guid": "https://www.dagensps.se/?p=1658204",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/eus-hogkvarter-i-bryssel-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784749895000
+    },
+    {
+      "title": "Nocs Provisions Standard Issue 10x25 Waterproof Binoculars",
+      "description": "",
+      "link": "https://uncrate.com/nocs-provisions-standard-issue-10x25-waterproof-binoculars/",
+      "guid": "https://uncrate.com/nocs-provisions-standard-issue-10x25-waterproof-binoculars/",
+      "image": "https://uncrate.com/assets_c/2026/07/nocs-provisions-standard-issue-waterproof-binoculars-1-darkened-thumb-960xauto-192257.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784749200000
+    },
+    {
+      "title": "Man föll från balkong i Rinkeby – polisen utreder mord",
+      "description": "En man har dött efter ett fall från en balkong i Rinkeby. Dödsfallet utreds nu som misstänkt mord. – Två personer har gripits eftersom man inte kan utesluta brott i samband med dödsfallet, säger Anna Lärk, vid polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/man-foll-fran-balkong-i-rinkeby-polisen-utreder-mord/",
+      "guid": "https://www.expressen.se/nyheter/sverige/man-foll-fran-balkong-i-rinkeby-polisen-utreder-mord/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784749092000
+    },
+    {
+      "title": "Vivazen Wellness Shots",
+      "description": "",
+      "link": "https://uncrate.com/vivazen-wellness-shots/",
+      "guid": "https://uncrate.com/vivazen-wellness-shots/",
+      "image": "https://uncrate.com/assets_c/2026/07/viva-zen-drink-11-darkened-thumb-960xauto-192260.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784748638000
+    },
+    {
+      "title": "Död efter balkongfall",
+      "description": "Polisen utreder mord",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5fbd4b49-6db0-4afb-a903-1ae897228237",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5fbd4b49-6db0-4afb-a903-1ae897228237",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784747948000
+    },
+    {
+      "title": "Vi har kollat in Samsung nya vikbara lurar",
+      "description": "Fold8 är mycket lovande! Tidigare idag presenterade Samsung efter mycket hemlighetsmakeri (not) sina nya vikbara lurar. Tre till antalet blev det, där den största nyheten är Fold8 som har ett nytt format. Vecket har i princip försvunnit Men vi börjar med vecket, som numera typ inte längre finns. Samsung har lagt två lager med titan under skärmen vilket gör att den blir stabilare, vilket i sin tur gör att vecket i princip försvinner när man öppnar upp skärmen. Det är faktiskt väldigt imponerande. Vecket finns kvar där, men det syns bara om man håller upp skärmen mot en ljuskälla och verkligen anstränger sig. Vid vanlig användning och när man känner på skärmen finns det i princip inget veck. En anledning till det är att vecket också har blivit lite bredare, och lägre. Det gör att man inte ser det lika tydligt men framförallt känner man det inte. Som sagt, imponerande. Man har även ändrat lite på gångjärnen och hur skärmen öppnar sig. Motståndet är mindre än tidigare och det finns nu magneter som håller skärmen på plats när den är ihopvikt. Resultatet är att Fold8 och Fold8 Ultra känns enklare att öppna. Tre varianter för olika behov Samsungs vikbara kommer numera i tre versioner. Från vänster på bilden ovan har vi Flip8, Fold8 och Fold8 Ultra. Min personliga favorit är Fold8, helt enkelt eftersom det är ett format som faktiskt fyller ett syfte, ur min synvinkel. Visst är Flip lite rolig, men jag tycker inte att den där yttre skärmen har något existensberättigande. Man kan inte göra något vettigt på den, och gör telefonen ömtålig. Fold8 Ultra är i utvikt format inte bra på någonting (om man är elak), men Fold8 är bra på en massa saker! L&auml;s vidare och kommentera: https://feber.se/mobil/vi-har-kollat-in-samsung-nya-vikbara-lurar/494290/ L&auml;s mer om Samsung Galaxy Z Fold8 , Galaxy Z Flip8 , Galaxy Z Fold8 Ultra , titan",
+      "link": "https://feber.se/mobil/vi-har-kollat-in-samsung-nya-vikbara-lurar/494290/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/vi-har-kollat-in-samsung-nya-vikbara-lurar/494290/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784746800000
+    },
+    {
+      "title": "Hugo, 18, placerade bomb vid skola i Rättvik",
+      "description": "Hugo Petersson, 18, byggde en bomb och placerade den vid en gymnasieskola i Rättvik. Han döms till 13 års fängelse. Enligt rätten har han ”haft motiv att döda”.",
+      "link": "https://www.expressen.se/nyheter/sverige/hugo-18-placerade-bomb-vid-skola-i-rattvik/",
+      "guid": "https://www.expressen.se/nyheter/sverige/hugo-18-placerade-bomb-vid-skola-i-rattvik/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784746671000
+    },
+    {
+      "title": "Utbrottet mot polisen – vägrar säga ”hon”",
+      "description": "Använder fel pronomen – urartar i gripande",
+      "link": "https://www.expressen.se/tv/nyheter/ilskan-mot-polisen-anvander-fel-pronomen",
+      "guid": "https://www.expressen.se/tv/nyheter/ilskan-mot-polisen-anvander-fel-pronomen",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784746533000
+    },
+    {
+      "title": "När köpte du ett fysiskt spel senast?",
+      "description": "Dagens fråga Nyligen meddelade Sony att de planerar att sluta ge ut spel på fysisk media från och med januari 2028. Den nyheten har mötts av en våg av kritik i sociala medier, där arga användare fyller kommentarsfält i protest mot beslutet. Mat Piscatella, branschanalytiker på Circana, menar dock att protesterna ekar tomt när man ser till den faktiska försäljningen av fysiska spel. Enligt hans data är intresset för fysiska kopior borta i USA nu på rekordlåga nivåer. Under en specifik vecka i juli nådde endast två PlayStation-spel över 10 000 sålda fysiska exemplar i landet, och sett över hela året har bara sju spel lyckats sälja mer än 100 000 fysiska enheter totalt. Nu finns det ju fler länder än USA i världen där kanske bristen på fysisk media slår lite hårdare, men generellt kändes det här som något som skulle hända förr eller senare. Men vi undrar ju då så klart när du köpte någon fysisk kopia av ett spel senast. L&auml;s vidare och kommentera: https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/ L&auml;s mer om Sony , Mat Piscatella , Circana , PlayStation , USA",
+      "link": "https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/nar-kopte-du-ett-fysiskt-spel-senast/494314/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784745000000
     },
     {
       "title": "Polisen varnar – för svan",
@@ -35,7 +215,7 @@
     },
     {
       "title": "Ingmar Bergmans hushållerska Anita Haglöf död",
-      "description": "Ingmar Bergmans hushållerska Anita Haglöf avled på onsdagen i en ålder av 88 år. Hon arbetade åtta år för regissören. I intervjuer beskrev hon ett svårt och slitsamt slitsamt jobb hos den åldrande världsstjärnan.",
+      "description": "Ingmar Bergmans hushållerska Anita Haglöf avled på onsdagen i en ålder av 88 år. Hon arbetade åtta år för regissören. I intervjuer beskrev hon ett svårt och slitsamt jobb hos den åldrande världsstjärnan.",
       "link": "https://www.expressen.se/nyheter/sverige/ingmar-bergmans-hushallerska-anita-haglofdod/",
       "guid": "https://www.expressen.se/nyheter/sverige/ingmar-bergmans-hushallerska-anita-haglofdod/",
       "image": "",
@@ -51,6 +231,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784743200000
+    },
+    {
+      "title": "Camp Cocktails",
+      "description": "",
+      "link": "https://uncrate.com/camp-cocktails/",
+      "guid": "https://uncrate.com/camp-cocktails/",
+      "image": "https://uncrate.com/assets_c/2026/07/camp-cocktails-book-thumb-960xauto-192256.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784743200000
     },
     {
@@ -102,6 +292,16 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784741400000
+    },
+    {
+      "title": "reMarkable Paper Pure",
+      "description": "",
+      "link": "https://uncrate.com/remarkable-paper-pure/",
+      "guid": "https://uncrate.com/remarkable-paper-pure/",
+      "image": "https://uncrate.com/assets_c/2026/05/remarkable-tablet-2-thumb-960xauto-191058.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784741392000
     },
     {
       "title": "Basketspelaren Mikael Jantunen klar för spel i Real Madrid: ”Klubben behöver inte någon introduktion”",
@@ -161,6 +361,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784739600000
+    },
+    {
+      "title": "Ferrari 849 Testarossa Spider",
+      "description": "",
+      "link": "https://uncrate.com/ferrari-849-testarossa-spider/",
+      "guid": "https://uncrate.com/ferrari-849-testarossa-spider/",
+      "image": "https://uncrate.com/assets_c/2026/07/ferrari-849-testarossa-spider-1-thumb-960xauto-192226.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784739600000
     },
     {
@@ -234,6 +444,16 @@
       "timestamp": 1784736014000
     },
     {
+      "title": "Enorm asteroid dyker upp på himlen – missa inte det spektakulära fenomenet",
+      "description": "Skulle du vilja se en asteroid? I så fall har du chansen nu. Den 250 kilometer långa asteroiden Juno kommer snart att dyka upp på natthimlen. Vi guidar dig till var och när du ska vända blicken uppåt.",
+      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/enorm-asteroid-dyker-upp-pa-himlen-missa-inte-det-spektakulara-fenomenet",
+      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/enorm-asteroid-dyker-upp-pa-himlen-missa-inte-det-spektakulara-fenomenet",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784736002000
+    },
+    {
       "title": "Våghals ska hoppa över flod i The Stunt Driver",
       "description": "Biografisk film om Ken Carter Här är trailern för The Stunt Driver , en film där den kanadensiske stuntmannen och våghalsen Ken Carter porträtteras inför sitt mest ambitiösa projekt. Filmens fokus ligger på när Carter på 1970-talet planerade att hoppa över Saint Lawrencefloden, en flod som skiljer de östra delarna av Kanada och USA från varandra, i en raketdriven Lincoln Continental. The Stunt Driver går upp på amerikanska biografer den 25 september. När och var vi kan få se filmen i Sverige finns det inga uppgifter om än så länge. Ni hittar trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/vaghals-ska-hoppa-over-flod-i-the-stunt-driver/494286/ L&auml;s mer om Ken Carter , The Stunt Driver , Lincoln Continental , Kanada , Saint Lawrencefloden",
       "link": "https://feber.se/film/vaghals-ska-hoppa-over-flod-i-the-stunt-driver/494286/?utm_source=rss&utm_medium=feed",
@@ -244,14 +464,14 @@
       "timestamp": 1784736000000
     },
     {
-      "title": "Barilla och Ica överens",
-      "description": "Ica överens med matjätten",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee4bd839-9239-452e-bdcf-daebdc1c0aaf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee4bd839-9239-452e-bdcf-daebdc1c0aaf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784735304000
+      "title": "Vice Pro Greg Mike Smiley Golf Balls",
+      "description": "",
+      "link": "https://uncrate.com/vice-pro-greg-mike-smiley-golf-balls/",
+      "guid": "https://uncrate.com/vice-pro-greg-mike-smiley-golf-balls/",
+      "image": "https://uncrate.com/assets_c/2026/07/vice-pro-greg-mike-smiley-golf-balls-2-thumb-960xauto-192225.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784736000000
     },
     {
       "title": "Totalstopp på E20 – lastbil har vält",
@@ -281,6 +501,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784734200000
+    },
+    {
+      "title": "1993 Range Rover Classic SV Ultra Restoration",
+      "description": "",
+      "link": "https://uncrate.com/1993-range-rover-classic-sv-ultra-restoration/",
+      "guid": "https://uncrate.com/1993-range-rover-classic-sv-ultra-restoration/",
+      "image": "https://uncrate.com/assets_c/2026/07/range-rover-classic-sv-ultra-1-thumb-960xauto-192222.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784734200000
     },
     {
@@ -371,6 +601,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784732400000
+    },
+    {
+      "title": "Light Flip Phone",
+      "description": "",
+      "link": "https://uncrate.com/light-flip-phone/",
+      "guid": "https://uncrate.com/light-flip-phone/",
+      "image": "https://uncrate.com/assets_c/2026/07/light-flip-phone-1-thumb-960xauto-192223.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784732400000
     },
     {
@@ -564,16 +804,6 @@
       "timestamp": 1784727000000
     },
     {
-      "title": "Trump hotar med att bomba broar i Iran",
-      "description": "USA:s president Donald Trump hotar med att bomba en bro eller ett kraftverk i Iran som svar på varje iransk attack mot ett fartyg i Hormuzsundet. Varningen utfärdas på sociala plattformar.",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-hotar-med-att-bomba-broar-i-iran/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-hotar-med-att-bomba-broar-i-iran/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784726765000
-    },
-    {
       "title": "Tumult bröt ut när pojkar skulle skickas hem från kollo",
       "description": "En grupp bråkiga barn stod för skadegörelse när de skulle skickas hem från kollo.",
       "link": "https://www.mitti.se/nyheter/tumult-brot-ut-nar-pojkar-skulle-skickas-hem-fran-kollo-6.3.376739.9152d4241f",
@@ -654,26 +884,6 @@
       "timestamp": 1784725200000
     },
     {
-      "title": "Regnkaos i tunnelbanan",
-      "description": "Efter att regnet öst ner under onsdagseftermiddagen riskerar många tunnelbaneresenärer att bli rejält blöt om tårna. På flera håll i Stockholms tunnelbanesystem väller nu vattnet in.",
-      "link": "https://www.expressen.se/nyheter/sverige/regnkaos-i-tunnelbanan/",
-      "guid": "https://www.expressen.se/nyheter/sverige/regnkaos-i-tunnelbanan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784725105000
-    },
-    {
-      "title": "Därför flyger Norwegian runt i cirklar",
-      "description": "Den som tittade upp mot himlen över Torp i Norge på tisdagsmorgonen kunde få intrycket att något var fel. Ett Norwegian-plan flög varv efter varv över flygplatsen. Men lugn – det var precis tvärtom. Planet deltog i en träningsflygning där blivande piloter genomför sina sista moment innan de blir godkända. Torps flygplats används regelbundet av […]",
-      "link": "https://www.dagensps.se/weekend/resor/darfor-flyger-norwegian-runt-i-cirklar/",
-      "guid": "https://www.dagensps.se/?p=1658130",
-      "image": "https://www.dagensps.se/images.realtid.se/app/uploads/2026/06/om-1.png?width=1200&#038;quality=75&#038;aspect_ratio=16%3A9",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784724532000
-    },
-    {
       "title": "Colorectal cancer warning signs younger adults should never ignore",
       "description": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narrow stools, unexplained weight loss, and fatigue. These symptoms often have harmless causes, but they should not be dismissed, especially when they are new or ongoing. Early detection can greatly improve treatment outcomes.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
@@ -714,16 +924,6 @@
       "timestamp": 1784723645000
     },
     {
-      "title": "Vattenkaos i tunnelbana",
-      "description": "Översvämning på flera håll",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/oversvamningskaos-i-stockholms-tunnelbana/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/oversvamningskaos-i-stockholms-tunnelbana/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784723482000
-    },
-    {
       "title": "Polisen flyttade in i huset där Hitler föddes",
       "description": "Huset där Adolf Hitler föddes är nu en polisstation. Byggnaden har länge varit ett problem för staden Braunau.",
       "link": "https://yle.fi/a/7-10102481?origin=rss",
@@ -742,16 +942,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784723400000
-    },
-    {
-      "title": "Tonåring döms till 13 års fängelse",
-      "description": "Döms efter bombdramat",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5669f3b-c973-4303-8fd1-4c83a9ae1b08",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5669f3b-c973-4303-8fd1-4c83a9ae1b08",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784722947000
     },
     {
       "title": "Microsoft varnar för ännu en kritisk sårbarhet i Sharepoint",
@@ -814,26 +1004,6 @@
       "timestamp": 1784719800000
     },
     {
-      "title": "Michelinrestaurangen garnerade med myror",
-      "description": "Sydkoreanska Michelinrestaurangen riskerar fängelse",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=69dc0733-e702-491f-945f-70ae52e83c27",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=69dc0733-e702-491f-945f-70ae52e83c27",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784719621000
-    },
-    {
-      "title": "Livlös man låg på parkeringen – två män räddade hans liv",
-      "description": "Den 80-årige mannen hade fallit ihop på Willys parkering – med en kundvagn över sig. Elias Kvist och Marcel Hamade reagerade blixtsnabbt. – Jag släppte kassarna och rusade fram, säger Marcel Hamade.",
-      "link": "https://www.expressen.se/nyheter/sverige/livlos-man-lag-pa-parkeringen-tva-man-raddade-hans-liv/",
-      "guid": "https://www.expressen.se/nyheter/sverige/livlos-man-lag-pa-parkeringen-tva-man-raddade-hans-liv/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784719598000
-    },
-    {
       "title": "Krogkund misstänks för misshandel i Hangö",
       "description": "En man misstänks för misshandel av en annan kund på en restaurang i Hangö. Mannen försökte också skada en ordningsvakt.",
       "link": "https://yle.fi/a/7-10102509?origin=rss",
@@ -872,16 +1042,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784717325000
-    },
-    {
-      "title": "Erica blev biten av fästing – förlamades i ansiktet",
-      "description": "I början av sommaren blev Erica Wall, 46, biten av en fästing. Några veckor senare var hon svårt sjuk i både TBE och borrelia. – Jag mådde jättedåligt, jag hade ont i hela kroppen, säger hon. Hon är fortfarande förlamad i halva ansiktet – fast det är inte det värsta.",
-      "link": "https://www.expressen.se/nyheter/sverige/erica-blev-biten-av-fasting-forlamades-i-ansiktet-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/erica-blev-biten-av-fasting-forlamades-i-ansiktet-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784717043000
     },
     {
       "title": "Chat GPT-skaparen hackade annat företag av misstag: ”Möjligen första fallet av sitt slag”",
@@ -962,16 +1122,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784713153000
-    },
-    {
-      "title": "Franska medier: Epsteins svenska modellscout är död",
-      "description": "Daniel Siad nämns nästan 2 000 gånger i Epsteindokumenten och har varit i Finland.",
-      "link": "https://yle.fi/a/7-10102513?origin=rss",
-      "guid": "https://yle.fi/a/7-10102513",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784712606000
     },
     {
       "title": "Ryan Reynolds bekräftar nya Deadpool-filmer",
@@ -1082,16 +1232,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784703600000
-    },
-    {
-      "title": "Lego släpper Arkiv X-byggsats",
-      "description": "I want to build Lego har visat upp en ny byggsats som har hämtat inspiration från den klassiska scifi-serien Arkiv X ( The X-Files ). Byggsatsen är resultatet från ett Lego-fans idé från det som kallas \"Lego Ideas\", ett initiativ där Lego-byggare får ta fram egna förslag på byggsatser som andra legobyggare sedan kan rösta på om Lego borde förverkliga som riktiga byggsatser. Med byggsatsen \"The X-Files\" går det att bygga ihop de båda FBI-agenterna Mulder och Scullys underjordiska kontor samt ett tillhörande UFO. Både Mulder och Scully finns med som minifigurer såväl som sex andra minifigurer som ser ut som Arkiv X-karaktärerna Walter Skinner, Mr. X, Alex Krycek, Carl Busch, Flukeman samt en utomjording. Byggsatsen består av 1478 delar och kommer att släppas den 1 augusti till Lego Insiders och till andra den 4 augusti. Den kommer att kosta cirka 2500 kronor. Nedan hittas ett klipp där skådespelaren Gillan Anderson, som spelar rollen som Dana Scully i Arkiv X , gör reklam för Legos nya Arkiv-X-byggsats. Längre finns även ett bildspel med massa bilder på bygget. L&auml;s vidare och kommentera: https://feber.se/pryl/lego-slapper-arkiv-x-byggsats/494287/ L&auml;s mer om Arkiv X , Mulder , Scully , Byggsats , Lego Ideas , scifi , tv-serier",
-      "link": "https://feber.se/pryl/lego-slapper-arkiv-x-byggsats/494287/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/lego-slapper-arkiv-x-byggsats/494287/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784702400000
     },
     {
       "title": "Morgonens nyheter i Stockholm",
@@ -1244,66 +1384,6 @@
       "timestamp": 1784665928000
     },
     {
-      "title": "LEGO Porsche 911 GT3 R REXY AO Race Car",
-      "description": "",
-      "link": "https://uncrate.com/lego-porsche-911-gt3-r-rexy-ao-race-car/",
-      "guid": "https://uncrate.com/lego-porsche-911-gt3-r-rexy-ao-race-car/",
-      "image": "https://uncrate.com/assets_c/2026/07/lego-porsche-911-gt3-r-rexy-ao-race-car-1-thumb-960xauto-192197.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784664000000
-    },
-    {
-      "title": "Brickell Renewing Face Scrub",
-      "description": "",
-      "link": "https://uncrate.com/brickell-renewing-face-scrub/",
-      "guid": "https://uncrate.com/brickell-renewing-face-scrub/",
-      "image": "https://uncrate.com/assets_c/2026/07/brickell-renewing-face-scrub-1-thumb-960xauto-192213.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784662200000
-    },
-    {
-      "title": "1969 De Tomaso Mangusta",
-      "description": "",
-      "link": "https://uncrate.com/1969-de-tomaso-mangusta/",
-      "guid": "https://uncrate.com/1969-de-tomaso-mangusta/",
-      "image": "https://uncrate.com/assets_c/2026/07/1969-detomaso-mangusta-1-thumb-960xauto-192194.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784660400000
-    },
-    {
-      "title": "Basquiat: The World of Jean-Michel",
-      "description": "",
-      "link": "https://uncrate.com/basquiat-the-world-of-jean-michel/",
-      "guid": "https://uncrate.com/basquiat-the-world-of-jean-michel/",
-      "image": "https://uncrate.com/assets_c/2026/07/basquiat-world-of-jean-michel-1-thumb-960xauto-192193.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784656800000
-    },
-    {
-      "title": "Tmrw Longevity Powder",
-      "description": "",
-      "link": "https://uncrate.com/tmrw-longevity-powder/",
-      "guid": "https://uncrate.com/tmrw-longevity-powder/",
-      "image": "https://uncrate.com/assets_c/2026/07/tmrw-packet-1-thumb-960xauto-192188.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784654908000
-    },
-    {
-      "title": "King Kennedy Bespoke Duffle",
-      "description": "",
-      "link": "https://uncrate.com/king-kennedy-bespoke-duffle/",
-      "guid": "https://uncrate.com/king-kennedy-bespoke-duffle/",
-      "image": "https://uncrate.com/assets_c/2026/07/king-kennedy-bespoke-duffle-22-thumb-960xauto-192206.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784653200000
-    },
-    {
       "title": "Lista: Här finns de sex minst besökta platserna i länet",
       "description": "Sex helt obesökta platser i Stockholm, enligt Haglöfs kampanj Unvisited Sweden.",
       "link": "https://www.mitti.se/nyheter/lista-har-finns-de-sex-minst-besokta-platserna-i-lanet-6.3.374818.c4dd0ad4ef",
@@ -1324,16 +1404,6 @@
       "timestamp": 1784649631000
     },
     {
-      "title": "Royal Enfield x Rough Crafts Shotgun 650 Motorcycle",
-      "description": "",
-      "link": "https://uncrate.com/royal-enfield-x-rough-crafts-shotgun-650-motorcycle/",
-      "guid": "https://uncrate.com/royal-enfield-x-rough-crafts-shotgun-650-motorcycle/",
-      "image": "https://uncrate.com/assets_c/2026/07/royal-enfield-rough-crafts-shotgun-650-1-thumb-960xauto-192192.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784649600000
-    },
-    {
       "title": "Råttjakt på centralen – över 30 verksamheter kontrollerades",
       "description": "Miljöförvaltningen granskade ett 30-tal butiker och restauranger på Stockholms centralstation efter larm om råttor. Två verksamheter hade spår av skadedjur, varav en restaurang med allvarliga brister.",
       "link": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
@@ -1352,16 +1422,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784647438000
-    },
-    {
-      "title": "Kodak EC35 Camera",
-      "description": "",
-      "link": "https://uncrate.com/kodak-ec35-camera/",
-      "guid": "https://uncrate.com/kodak-ec35-camera/",
-      "image": "https://uncrate.com/assets_c/2026/07/kodak-ec35-1-thumb-960xauto-192191.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784646000000
     },
     {
       "title": "Kallskuren biff med gurka och ponzudressing",
@@ -1684,26 +1744,6 @@
       "timestamp": 1784600639000
     },
     {
-      "title": "Puffer Inflatable Tent",
-      "description": "",
-      "link": "https://uncrate.com/puffer-inflatable-tent/",
-      "guid": "https://uncrate.com/puffer-inflatable-tent/",
-      "image": "https://uncrate.com/assets_c/2026/07/puffer-inflatable-tent-11-thumb-960xauto-192184.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784588400000
-    },
-    {
-      "title": "Cinch Outdoors x Wild Land Wingman Truck Tent",
-      "description": "",
-      "link": "https://uncrate.com/cinch-outdoors-x-wild-land-wingman-truck-tent/",
-      "guid": "https://uncrate.com/cinch-outdoors-x-wild-land-wingman-truck-tent/",
-      "image": "https://uncrate.com/assets_c/2026/07/xgimi-elfin-flip-4k-portable-projector-5-thumb-960xauto-192175.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784586600000
-    },
-    {
       "title": "Hjärtforskare: Jag har förändrat en sak i min vardag efter att ha gjort ett uppseendeväckande fynd",
       "description": "Han råder dig att göra likadant.",
       "link": "https://illvet.se/halsa/hjartforskare-jag-har-forandrat-en-sak-i-min-vardag-efter-att-ha-gjort-ett-uppseendevackande-fynd",
@@ -1712,16 +1752,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784584818000
-    },
-    {
-      "title": "BareBones Forest Lantern",
-      "description": "",
-      "link": "https://uncrate.com/barebones-forest-lantern/",
-      "guid": "https://uncrate.com/barebones-forest-lantern/",
-      "image": "https://uncrate.com/assets_c/2026/07/barebones-forest-lantern-1-thumb-960xauto-192183.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784584800000
     },
     {
       "title": "Bojor i barnstorlek avslöjar ett mörkt kapitel i kelternas historia",
@@ -1902,16 +1932,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784542791000
-    },
-    {
-      "title": "Öppna träningar vecka 30",
-      "description": "Här är veckans öppna träningar. Herrlaget tränar på Årsta IP. Damlaget tränar på Hammarby IP.Med reservation för ändringar med kort varsel.Herrlagets öppna träningar vecka 30Herrlaget tränar på 3Arena",
-      "link": "https://www.hammarbyfotboll.se/nyheter/oeppna-traeningar-vecka-302026",
-      "guid": "5d4826aa-cf4a-42d6-b7b0-2f804e46a9bc",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e045aa999f911f3c005db14fdffd5ea5015e46a9-6000x4000.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784542518000
     },
     {
       "title": "Trångt värre – här har en 25-åring bara råd med 1,9 kvadrat",
@@ -2142,16 +2162,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784462833000
-    },
-    {
-      "title": "Titta noga på detta lilla djur. Det har en förmåga inga andra levande varelser besitter – och nu har forskare äntligen avslöjat dess hemlighet",
-      "description": "År 2020 blev biologer i hela världen djupt förbryllade av en pytteliten gnagare. Nu har de även listat ut hur djuret går till väga.",
-      "link": "https://illvet.se/naturen/titta-noga-pa-detta-lilla-djur-det-har-en-formaga-inga-andra-levande-varelser-besitter-och-nu-har-forskare-antligen-avslojat-dess-hemlighet",
-      "guid": "https://illvet.se/naturen/titta-noga-pa-detta-lilla-djur-det-har-en-formaga-inga-andra-levande-varelser-besitter-och-nu-har-forskare-antligen-avslojat-dess-hemlighet",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784462413000
     },
     {
       "title": "Omtvistad förskola kan bli årets byggnad i Sundbyberg",
@@ -2804,21 +2814,21 @@
       "timestamp": 1784181185000
     },
     {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
       "title": "Därför har SL byggt om i Mörby centrum",
       "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
       "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784178000000
