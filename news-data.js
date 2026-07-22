@@ -1,8 +1,68 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-21T21:54:06.015Z",
+  "updatedAt": "2026-07-22T01:28:44.259Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Nya attacker mot Iran",
+      "description": "Elfte natten i rad",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc1504c7-aa86-4634-8a15-475cdb294d8b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc1504c7-aa86-4634-8a15-475cdb294d8b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784682844000
+    },
+    {
+      "title": "Man död efter mc-olycka",
+      "description": "Uppges ha krockat med älg",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a9fdb0c-8ff9-4b23-a70d-dcd88cb10160",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a9fdb0c-8ff9-4b23-a70d-dcd88cb10160",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784682200000
+    },
+    {
+      "title": "2026 Ferrari Luce Chassis 0",
+      "description": "",
+      "link": "https://uncrate.com/2026-ferrari-luce-chassis-0/",
+      "guid": "https://uncrate.com/2026-ferrari-luce-chassis-0/",
+      "image": "https://uncrate.com/assets_c/2026/07/ferrari-luce-chassis-0-1-thumb-960xauto-192190.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784675700000
+    },
+    {
+      "title": "Anthony All Purpose Facial Moisturizer",
+      "description": "",
+      "link": "https://uncrate.com/anthony-all-purpose-facial-moisturizer/",
+      "guid": "https://uncrate.com/anthony-all-purpose-facial-moisturizer/",
+      "image": "https://uncrate.com/assets_c/2026/07/anthony-all-purpose-facial-moisturizer-1-darkened-thumb-960xauto-192221.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784674500000
+    },
+    {
+      "title": "Trump vill se Infantino som högste FN-chef",
+      "description": "Vänj er vid tanken, näste generalsekreterare i FN heter Gianni Infantino. I alla fall om Donald Trump får som han vill. Presidenten vill se den kontroversielle Fifa-chefen som högste ledare för världsorganisationen.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-vill-se-infantino-som-hogste-fn-chef/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-vill-se-infantino-som-hogste-fn-chef/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784674090000
+    },
+    {
+      "title": "Garb: Faded",
+      "description": "",
+      "link": "https://uncrate.com/garb-faded/",
+      "guid": "https://uncrate.com/garb-faded/",
+      "image": "https://uncrate.com/assets_c/2026/07/Garb-faded-darkened-thumb-960xauto-192219.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784669400000
+    },
     {
       "title": "Udda ö till salu i Belgien – hårda kraven på köparen",
       "description": "En naturskön ö är till salu i Belgien – för en miljon kronor. Men allt som glimmar är inte guld.",
@@ -42,6 +102,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784667294000
+    },
+    {
+      "title": "Hairmax Laser Hair Growth Cap",
+      "description": "",
+      "link": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
+      "guid": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
+      "image": "https://uncrate.com/assets_c/2026/07/hairmax-cap-thumb-960xauto-192207.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784665928000
     },
     {
       "title": "Knivhuggen i ryggen",
@@ -634,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784643473000
     },
     {
-      "title": "Exministern åt lunch – slogs ihjäl med hammare",
-      "description": "Den brittiska högerpolitikern Ann Widdecombe mördades med en hammare. Hon slogs ihjäl med 21 slag när hon åt sin lunch, uppger åklagaren.",
-      "link": "https://www.expressen.se/nyheter/varlden/exministern-at-lunch-slogs-ihjal-med-hammare/",
-      "guid": "https://www.expressen.se/nyheter/varlden/exministern-at-lunch-slogs-ihjal-med-hammare/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784642562000
-    },
-    {
       "title": "Risk för höjda bränslepriser om kriget i Iran fortsätter",
       "description": "Oljebolagen räknar med snabb fred i Iran och sjunkande oljepriser. Om kriget drar ut på tiden stiger priserna.",
       "link": "https://yle.fi/a/7-10102482?origin=rss",
@@ -752,26 +812,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784640564000
-    },
-    {
-      "title": "Person delgiven misstanke efter branden i Drammen",
-      "description": "En person har delgivits misstanke om brott efter branden i Krokstadelva i norska Drammen, rapporterar norska medier.",
-      "link": "https://www.expressen.se/nyheter/varlden/person-delgiven-misstanke-efter-branden-i-drammen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/person-delgiven-misstanke-efter-branden-i-drammen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784639880000
-    },
-    {
-      "title": "Misstänkt för jättebrand",
-      "description": "En person misstänkt efter brandinfernot i Drammen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93e1936c-f26b-4239-a526-be9802c34437",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93e1936c-f26b-4239-a526-be9802c34437",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784638950000
     },
     {
       "title": "Nu finns en mikrovågsugn med airfryer",
@@ -1294,16 +1334,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784584800000
     },
     {
-      "title": "Garb: Commuter",
-      "description": "",
-      "link": "https://uncrate.com/garb-commuter/",
-      "guid": "https://uncrate.com/garb-commuter/",
-      "image": "https://uncrate.com/assets_c/2026/07/Garb-commuter-darkened-thumb-960xauto-192186.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784581200000
-    },
-    {
       "title": "Bojor i barnstorlek avslöjar ett mörkt kapitel i kelternas historia",
       "description": "Romarna är kända för att ha byggt upp ett samhälle som byggde på miljontals slavar – nu visar nya fynd att deras gamla fiender, kelterna, inte skilde sig särskilt mycket från dem.",
       "link": "https://varldenshistoria.se/kultur/arkeologi/bojor-i-barnstorlek-avslojar-ett-morkt-kapitel-i-kelternas-historia",
@@ -1314,26 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784579434000
     },
     {
-      "title": "Cuker Agency",
-      "description": "",
-      "link": "https://uncrate.com/cuker-agency/",
-      "guid": "https://uncrate.com/cuker-agency/",
-      "image": "https://uncrate.com/assets_c/2026/07/cuker-54-thumb-960xauto-191942.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784579120000
-    },
-    {
-      "title": "Kyrö x Game of Thrones: Whisky of Fire",
-      "description": "",
-      "link": "https://uncrate.com/kyro-x-game-of-thrones-whisky-of-fire/",
-      "guid": "https://uncrate.com/kyro-x-game-of-thrones-whisky-of-fire/",
-      "image": "https://uncrate.com/assets_c/2026/07/game-of-thrones-whiskey-of-fire-1-(2)-thumb-960xauto-192185.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784577601000
-    },
-    {
       "title": "Fästingbett eller bältros? Se vilka vacciner som är relevanta för dig – och vilka du inte behöver köpa",
       "description": "Apotek och läkare får in allt fler vacciner på sina hyllor – men dina behov kan variera stort beroende på om du är en man över 50, en yngre kvinna eller en hängiven friluftsmänniska.",
       "link": "https://illvet.se/halsa/fastingbett-eller-baltros-se-vilka-vacciner-som-ar-relevanta-for-dig-och-vilka-du-inte-behover-kopa",
@@ -1342,16 +1352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784575859000
-    },
-    {
-      "title": "XGIMI Elfin Flip 4K",
-      "description": "",
-      "link": "https://uncrate.com/xgimi-elfin-flip-4k/",
-      "guid": "https://uncrate.com/xgimi-elfin-flip-4k/",
-      "image": "https://uncrate.com/assets_c/2026/07/xgimi-elfin-flip-4k-portable-projector-1-thumb-960xauto-192168.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784574000000
     },
     {
       "title": "HTV: Söderstadion kokar! | Inför Anderlecht hemma",
@@ -2604,21 +2604,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784180241000
     },
     {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
       "title": "Därför har SL byggt om i Mörby centrum",
       "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
       "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
       "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784178000000
+    },
+    {
+      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
+      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
+      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
+      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784178000000
@@ -2864,46 +2864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784075045000
     },
     {
-      "title": "Sci-fi och oväntade material ger lysande inredningsidéer",
-      "description": "Innovationer som förändrar designvärlden och byggbranschen. Mycelium, fotosyntes och bakterier.",
-      "link": "https://www.mitti.se/nyheter/scifi-och-ovantade-material-ger-lysande-inredningsideer-6.3.371594.d6481e2fe8",
-      "guid": "https://www.mitti.se/nyheter/scifi-och-ovantade-material-ger-lysande-inredningsideer-6.3.371594.d6481e2fe8",
-      "image": "https://www.mitti.se/image-3.374631.297657.20260714184042.cfe6c8297e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784052600000
-    },
-    {
-      "title": "Tullen gjorde färre beslag i Stockholm i år",
-      "description": "Jämfört med början av förra året minskade tullens beslag i Stockholms län i år.",
-      "link": "https://www.mitti.se/nyheter/tullen-gjorde-farre-beslag-i-stockholm-i-ar-6.3.375844.1a55e5eed3",
-      "guid": "https://www.mitti.se/nyheter/tullen-gjorde-farre-beslag-i-stockholm-i-ar-6.3.375844.1a55e5eed3",
-      "image": "https://www.mitti.se/image-3.376621.300459.20260714174513.1.7487bf9199?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784049300000
-    },
-    {
-      "title": "S lovar gratis konserter för barn och unga på loven",
-      "description": "Löfte inför valet från S: gratis inträde för barn och unga på Konserthuset i Stockholm.",
-      "link": "https://www.mitti.se/nyheter/s-lovar-gratis-konserter-for-barn-och-unga-pa-loven-6.3.375094.a4484a56a9",
-      "guid": "https://www.mitti.se/nyheter/s-lovar-gratis-konserter-for-barn-och-unga-pa-loven-6.3.375094.a4484a56a9",
-      "image": "https://www.mitti.se/image-3.376433.300198.20260714163011.1.82908da177?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784044800000
-    },
-    {
-      "title": "Träd ramlade ner över lekpark – misstänker röta",
-      "description": "Ett träd föll rakt ner över lekplatsen i Hässelby, Oxtungans lekpark. Lekplatsens utrustning förstördes men ska repareras.",
-      "link": "https://www.mitti.se/nyheter/trad-ramlade-ner-over-lekpark--misstanker-rota-6.3.375875.0041dc66d9",
-      "guid": "https://www.mitti.se/nyheter/trad-ramlade-ner-over-lekpark--misstanker-rota-6.3.375875.0041dc66d9",
-      "image": "https://www.mitti.se/image-3.376629.300500.20260714143144.1.d4730a5020?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784037644000
-    },
-    {
       "title": "Eating chili peppers may raise the risk of one deadly cancer",
       "description": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
@@ -2914,36 +2874,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784035641000
     },
     {
-      "title": "Månader av råttproblem på bageri i centrala Stockholm",
-      "description": "Ett bageri i centrala Stockholm hade råttor i kök och kylrum i flera månader. Nu kräver Miljöförvaltningen skärpt rengöring, sanering och uppföljande kontroll.",
-      "link": "https://www.mitti.se/nyheter/manader-av-rattproblem-pa-bageri-i-centrala-stockholm-6.3.375853.24851d789f",
-      "guid": "https://www.mitti.se/nyheter/manader-av-rattproblem-pa-bageri-i-centrala-stockholm-6.3.375853.24851d789f",
-      "image": "https://www.mitti.se/image-3.376624.300463.20260717081916.d38479a099?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784028463000
-    },
-    {
-      "title": "En person till sjukhus med helikopter efter trafikolycka",
-      "description": "Efter en trafikolycka på E18 har en person behövt föras till sjukhus.",
-      "link": "https://www.mitti.se/nyheter/en-person-till-sjukhus-med-helikopter-efter-trafikolycka-6.3.375855.83caf7aed2",
-      "guid": "https://www.mitti.se/nyheter/en-person-till-sjukhus-med-helikopter-efter-trafikolycka-6.3.375855.83caf7aed2",
-      "image": "https://www.mitti.se/image-3.248673.300470.20260714114340.1.7071b76187?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784027562000
-    },
-    {
-      "title": "Död person hittad i vattnet på Lidingö",
-      "description": "En person har hittats död i vattnet på Lidingö.",
-      "link": "https://www.mitti.se/nyheter/dod-person-hittad-i-vattnet-pa-lidingo-6.3.375854.972c371188",
-      "guid": "https://www.mitti.se/nyheter/dod-person-hittad-i-vattnet-pa-lidingo-6.3.375854.972c371188",
-      "image": "https://www.mitti.se/image-3.376142.300468.20260714112839.1.9a5a650c66?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784026642000
-    },
-    {
       "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
       "description": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
@@ -2952,96 +2882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784022461000
-    },
-    {
-      "title": "SMHI utfärdar gul vädervarning – för kort värmebölja",
-      "description": "SMHI utfärdar gul varning för värmebölja under tre dagar.",
-      "link": "https://www.mitti.se/nyheter/smhi-utfardar-gul-vadervarning--for-kort-varmebolja-6.3.375852.885fb77b65",
-      "guid": "https://www.mitti.se/nyheter/smhi-utfardar-gul-vadervarning--for-kort-varmebolja-6.3.375852.885fb77b65",
-      "image": "https://www.mitti.se/image-3.185893.300462.20260714100908.1.af002c7d15?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784021864000
-    },
-    {
-      "title": "Kronprinsessan firas med 21 kanonskott",
-      "description": "Kronprinsessan Victoria firas med 21 kanonskott 2026",
-      "link": "https://www.mitti.se/nyheter/kronprinsessan-firas-med-21-kanonskott-6.3.375849.38b55ca35e",
-      "guid": "https://www.mitti.se/nyheter/kronprinsessan-firas-med-21-kanonskott-6.3.375849.38b55ca35e",
-      "image": "https://www.mitti.se/image-3.93869.300460.20260714091936.1.cee00a60e1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784018952000
-    },
-    {
-      "title": "Badbussen rullar igen – familjen sparar en timmes promenad",
-      "description": "Badbussarna i Upplands-bro uppskattas av de som åker den men det är inte så många resenärer hittills i sommar som har tagit den. Familjen Stenström har kortat sin restid till badplatsen med en timme.",
-      "link": "https://www.mitti.se/nyheter/badbussen-rullar-igen--familjen-sparar-en-timmes-promenad-6.3.375835.182e71fc93",
-      "guid": "https://www.mitti.se/nyheter/badbussen-rullar-igen--familjen-sparar-en-timmes-promenad-6.3.375835.182e71fc93",
-      "image": "https://www.mitti.se/image-3.376614.300442.20260714093807.1.8a2f5ba83f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784016971000
-    },
-    {
-      "title": "Kritik mot bygge av batteristation i Erstavik",
-      "description": "Nackas majoritet säger ja. Oppositionen kritisk: \"Dåligt vald plats\" Nacka, Erstavik, batterianläggning, energi, batterilagring",
-      "link": "https://www.mitti.se/nyheter/kritik-mot-bygge-av-batteristation-i-erstavik-6.3.375150.d63c8b4689",
-      "guid": "https://www.mitti.se/nyheter/kritik-mot-bygge-av-batteristation-i-erstavik-6.3.375150.d63c8b4689",
-      "image": "https://www.mitti.se/image-3.376572.300343.20260714063127.778864aacb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784008800000
-    },
-    {
-      "title": "Taxi Stockholm har drabbats av driftstörningar",
-      "description": "Taxi Stockholm har driftstörningar.",
-      "link": "https://www.mitti.se/nyheter/taxi-stockholm-har-drabbats-av-driftstorningar-6.3.375841.282748fa8b",
-      "guid": "https://www.mitti.se/nyheter/taxi-stockholm-har-drabbats-av-driftstorningar-6.3.375841.282748fa8b",
-      "image": "https://www.mitti.se/image-3.305271.300449.20260714104940.1.4665ca4e67?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784007738000
-    },
-    {
-      "title": "Lankesisk restaurang har öppnat i Vällingby",
-      "description": "Ceylon mat har öppnat i Vällingby och serverar lankesisk streetfood, lunchbuffé och klassiska rätter från Sri Lanka i lokalen där Mätt och glad låg.",
-      "link": "https://www.mitti.se/nyheter/lankesisk-restaurang-har-oppnat-i-vallingby-6.3.374788.8e0fcaaba5",
-      "guid": "https://www.mitti.se/nyheter/lankesisk-restaurang-har-oppnat-i-vallingby-6.3.374788.8e0fcaaba5",
-      "image": "https://www.mitti.se/image-3.376275.299825.20260714114747.a436b5bb8a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784005800000
-    },
-    {
-      "title": "Nej till bastu vid Ekensbergs udde",
-      "description": "Sthlm Sauna fick avslag i Mark- och miljööverdomstolen för bygglovet för en bastu vid Ekensbergs udde. Den strider mot detaljplanen, slår MÖD fast.",
-      "link": "https://www.mitti.se/nyheter/nej-till-bastu-vid-ekensbergs-udde-6.3.374810.31855581f2",
-      "guid": "https://www.mitti.se/nyheter/nej-till-bastu-vid-ekensbergs-udde-6.3.374810.31855581f2",
-      "image": "https://www.mitti.se/image-3.284939.299887.20260714073952.1.5955b9185f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784005620000
-    },
-    {
-      "title": "Städerna rankas: Stockholm får stryk av Köpenhamn",
-      "description": "Stockholm lägre än Köpenhamn på rankning av världens bästa stad.",
-      "link": "https://www.mitti.se/nyheter/staderna-rankas-stockholm-far-stryk-av-kopenhamn-6.3.375176.5bf0147244",
-      "guid": "https://www.mitti.se/nyheter/staderna-rankas-stockholm-far-stryk-av-kopenhamn-6.3.375176.5bf0147244",
-      "image": "https://www.mitti.se/image-3.376589.300370.20260714043557.31649a7714?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784001935000
-    },
-    {
-      "title": "Läxhjälparna slår tillbaka mot kritiken",
-      "description": "Läxhjälparna slår tillbaka mot kritiken. Volontärerna inom läxhjälpen på Vällingby bibliotek anser att avvecklingen av läxhjälpen är orättvis. Man har anklagats för att uppträda respektlöst mot personalen, men ska inte själva ha fått prata med ledningen om detta, menar man. Maj 2026.",
-      "link": "https://www.mitti.se/nyheter/laxhjalparna-slar-tillbaka-mot-kritiken-6.3.368749.0e1d8e32a7",
-      "guid": "https://www.mitti.se/nyheter/laxhjalparna-slar-tillbaka-mot-kritiken-6.3.368749.0e1d8e32a7",
-      "image": "https://www.mitti.se/image-3.372805.295354.20260714033423.f10c1ff31a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1783998240000
     }
   ]
 };
