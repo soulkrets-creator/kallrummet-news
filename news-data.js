@@ -1,8 +1,158 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-23T18:57:49.537Z",
+  "updatedAt": "2026-07-23T21:55:40.788Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trumpadministration backar gentemot tidning",
+      "description": "USA:s justitiedepartement har dragit tillbaka begäran om rättsliga åtgärder mot de reportrar på tidningen The New York Times som rapporterat om säkerhetsproblem på presidentplanet Air Force One.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumpadministration-backar-gentemot-tidning/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumpadministration-backar-gentemot-tidning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784842775000
+    },
+    {
+      "title": "Trump ersätter gamla tullar mot EU",
+      "description": "Slår till mot 60 länder",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=54ff71b0-4716-4363-8b4f-208f588f627f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=54ff71b0-4716-4363-8b4f-208f588f627f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784842405000
+    },
+    {
+      "title": "Trumps ord om framtiden",
+      "description": "Uttalar sig om presidentskapet",
+      "link": "https://www.expressen.se/tv/nyheter/trumps-ord-om-framtiden-",
+      "guid": "https://www.expressen.se/tv/nyheter/trumps-ord-om-framtiden-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784842389000
+    },
+    {
+      "title": "Garb: Program",
+      "description": "",
+      "link": "https://uncrate.com/garb-program/",
+      "guid": "https://uncrate.com/garb-program/",
+      "image": "https://uncrate.com/assets_c/2026/07/garb-program-darkened-thumb-960xauto-192286.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784840400000
+    },
+    {
+      "title": "Oljepriset steg till över 100 dollar per fat",
+      "description": "",
+      "link": "https://yle.fi/a/7-10102602?origin=rss",
+      "guid": "https://yle.fi/a/7-10102602",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784839497000
+    },
+    {
+      "title": "HTV: Röster efter hemmamötet med Anderlecht",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-efter-hemmamoetet-med-anderlecht",
+      "guid": "061134ff-56b8-4751-9931-b3eadc504870",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/7a319b93cc7e9d8d28b774b4b24f441ecd5ebf25-4106x2737.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784837133000
+    },
+    {
+      "title": "RY3 Whiskey Cask Strength Set",
+      "description": "",
+      "link": "https://uncrate.com/ry3-whiskey-cask-strength-set/",
+      "guid": "https://uncrate.com/ry3-whiskey-cask-strength-set/",
+      "image": "https://uncrate.com/assets_c/2026/07/ry3-whiskey-2-thumb-960xauto-192283.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784836740000
+    },
+    {
+      "title": "Trumps mångmiljardavtal med Kina håller på att rasera",
+      "description": "Trumps massiva avtal med Xi Jinping kan fallera. Kina vill nu omförhandla affären – värd flera hundra miljarder. – Just nu tittar folk här på vad som faktiskt har levererats sedan Pekingmötet och blir arga, säger en källa till Politico .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-mangmiljardavtal-med-kina-haller-pa-att-rasera/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-mangmiljardavtal-med-kina-haller-pa-att-rasera/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784836414000
+    },
+    {
+      "title": "Trump: Överväger massiv attack mot Iran",
+      "description": "Donald Trump överväger en ”massiv attack” mot Iran, betydligt större än dem vid krigsutbrottet, säger han till Axios . Samtidigt har anfallen fortsatt, för tolfte dagen i rad.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-overvagen-massiv-attack-mot-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-overvagen-massiv-attack-mot-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784836019000
+    },
+    {
+      "title": "Salt & Stone Natural Skincare Collection",
+      "description": "",
+      "link": "https://uncrate.com/salt-stone-natural-skincare-collection/",
+      "guid": "https://uncrate.com/salt-stone-natural-skincare-collection/",
+      "image": "https://uncrate.com/assets_c/2026/06/bergamot-hinoki-1-thumb-960xauto-191283.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784835117000
+    },
+    {
+      "title": "Största guldskatten någonsin avslöjad: rubiner, pärlor och guld",
+      "description": "Ett skeppsvrak utanför Kroatiens kust har gett arkeologer vad forskarna kallar det största guldfyndet någonsin i ett medelhavsvrak. Smyckena tyder på att någon mycket mäktig fanns ombord när skeppet gick under. Vraket ligger vid ön Mljet i Adriatiska havet och dateras till 600- eller 700-talet. På torsdagen den 23 juli presenterade forskarna för första gången […]",
+      "link": "https://www.dagensps.se/bors-finans/ravaror/storsta-guldskatten-nagonsin-avslojad-rubiner-parlor-och-guld/",
+      "guid": "https://www.dagensps.se/?p=1658600",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-6.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784834845000
+    },
+    {
+      "title": "Åttaåring försvunnen",
+      "description": "Försvann vid sjö",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=597d3942-e7e4-411b-8a83-0f882915a278",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=597d3942-e7e4-411b-8a83-0f882915a278",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784833322000
+    },
+    {
+      "title": "Vi har testat JBL Go 5",
+      "description": "Liten högtalare med stort tryck Under de senaste sommarmånaderna har jag haft JBL:s lilla minsting Go 5 med mig lite överallt. Vid det här laget har man ju sett en hel del kompakta blåtandshögtalare passera och förväntningarna på den här typen av pyttesmå burkar brukar väl ärligt talat vara ganska lagom. Men Go 5 överraskar faktiskt på flera punkter, samtidigt som den bjuder på några klassiska irritationsmoment som man gärna hade sluppit. Vad höjer temperaturen? Om vi börjar med det roliga har ljudkvaliteten fått ett rejält lyft sedan föregångaren Go 4. Den låter betydligt fylligare och mer kraftfull än man kan tro med tanke på det minimala formatet, där både diskant och mellanregister har blivit märkbart klarare. Att den dessutom bjuder på stöd för förlustfritt ljud via USB-C samt en riktigt vass app med en utökad 7-bands EQ är starkt jobbat för denna prisklassen. Designmässigt slinker den lätt ner i fickan eller ryms i handflatan, vilket gör den till en klockren följeslagare att ta med på språng. Dessutom har den uppgraderats till IP68-klassning, vilket betyder att den är helt dammtät och tål att sänkas ner i vatten, utöver att den beskrivs som stöt- och fallsäker. Den har också fått JBL:s AirTouch-funktion vilket gör det busenkelt att parkoppla två enheter så man kan få lite stereoljud genom att bara stöta dem lite lätt mot varandra. Den går självklart också att koppla ihop med andra kompatibla högtalare via Auracast genom ett enkelt knapptryck. Ett sista stort plus är också att JBL för det mesta använt återvunnen plast och tyg i konstruktionen av högtalaren. L&auml;s vidare och kommentera: https://feber.se/pryl/vi-har-testat-jbl-go-5/491318/ L&auml;s mer om JBL , Go 5 , USB-C , IP68 , Auracast",
+      "link": "https://feber.se/pryl/vi-har-testat-jbl-go-5/491318/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/vi-har-testat-jbl-go-5/491318/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784833200000
+    },
+    {
+      "title": "Grass Nuckles Mallet Putter",
+      "description": "",
+      "link": "https://uncrate.com/grass-nuckles-mallet-putter/",
+      "guid": "https://uncrate.com/grass-nuckles-mallet-putter/",
+      "image": "https://uncrate.com/assets_c/2026/07/grass-knuckles-33-thumb-960xauto-192279.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784833200000
+    },
+    {
+      "title": "Oavgjort i det första kvalmötet",
+      "description": "Ett jämnt första kvalmöte med Anderlecht slutade 1-1. Gästerna tog ledningen tidigt genom ett mål på frispark. Ledningen kvarstod till slutminuterna och med en man mer på planen lyckades Hammarby till",
+      "link": "https://www.hammarbyfotboll.se/nyheter/1-1-hemma-mot-anderlecht",
+      "guid": "bb3ec783-3858-40d2-8e5e-c97d6fdb0cf4",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/96d209742910c922ff67952400a950226a152299-1454x969.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784833189000
+    },
     {
       "title": "Wille Rydman följde inte experternas poängsättning när han valde vilken forskning som fick pengar",
       "description": "I ett mejl till Yle skriver Wille Rydman att det är ”fräckt hur universitetens näve roffar åt sig ur skattebetalarens skuldsatta ficka”.",
@@ -62,16 +212,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784829600000
-    },
-    {
-      "title": "Åttaåring försvunnen",
-      "description": "Försvann vid sjö",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=597d3942-e7e4-411b-8a83-0f882915a278",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=597d3942-e7e4-411b-8a83-0f882915a278",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784829496000
     },
     {
       "title": "Medvetslös kvinna hittad",
@@ -288,7 +428,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Så här ställer Hammarby upp i hemmamötet med Anderlecht i kvalomgång 2 av UEFA Europa League. Matchen sparkas igång klockan 19.00 på 3Arena och visas även i Aftonbladet Plus för dig som inte är på pla",
       "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-hemmamoetet-med-anderlecht",
       "guid": "1f5cf55f-5165-4aeb-98be-f038a2767118",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/4b68d4e06fad61c2fb7d9efa170ab09dafd7621a-1410x940.jpg?w=1000&amp;auto=format&amp;q=80",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/114260e78c685bb53e1d1a1ecb2c93449e816de4-1263x842.jpg?w=1000&amp;auto=format&amp;q=80",
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784822100000
@@ -395,7 +535,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Obduktion avslöjade extremt stark drog som inte tidigare påträffats i Finland",
-      "description": "En extremt stark syntetisk opioid hittades när en man i 40-årsåldern obducerades.",
+      "description": "En extremt stark syntetisk opioid hittades när en man i fyrtioårsåldern obducerades.",
       "link": "https://yle.fi/a/7-10102595?origin=rss",
       "guid": "https://yle.fi/a/7-10102595",
       "image": "",
@@ -492,16 +632,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784816486000
-    },
-    {
-      "title": "Köper hela företaget – för att låta en AI bli vd",
-      "description": "En startup i USA planerar att köpa ett helt företag, bara för att sätta en AI som dess vd. Skyfall AI är det mest extrema exemplet hittills i en bredare trend där techbolag experimenterar med AI som chef, allt från Metas Mark Zuckerberg till Amazons lagerarbetare. Startupen Skyfall AI planerar att köpa ett litet mjukvaru- […]",
-      "link": "https://www.dagensps.se/varlden/koper-hela-foretaget-for-att-lata-en-ai-bli-vd/",
-      "guid": "https://www.dagensps.se/?p=1658546",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/robot-ai-chef.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784816281000
     },
     {
       "title": "Oljepriset rusar",
@@ -704,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784811600000
     },
     {
-      "title": "Trump: Saudiarabien måste normalisera med Israel",
-      "description": "Nya kärnavtalet innehåller en hake",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=154ce4f8-43d7-49fd-b9d9-c86c5186fa5c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=154ce4f8-43d7-49fd-b9d9-c86c5186fa5c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784810601000
-    },
-    {
       "title": "Polisen om kritiserade festivalen: \"Ser inga orosmoln\"",
       "description": "Eritreanska kulturfestivalen Eritrea Scandinavia ordnas till Eggeby gård på Järvafältet mellan 23 juli till 26 juli 2026.",
       "link": "https://www.mitti.se/nyheter/polisen-om-kritiserade-festivalen-ser-inga-orosmoln-6.3.376610.9ae652b087",
@@ -774,16 +894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784808000000
     },
     {
-      "title": "Koboltindustrin strider med EU: ”Klart att risken för sjukdomar är noll om användningen omöjliggörs”",
-      "description": "Koboltproducenterna i Karleby säger att EU:s gränsvärden kommer att flytta jobben till Kina. Frågan avgörs i höst.",
-      "link": "https://yle.fi/a/7-10102559?origin=rss",
-      "guid": "https://yle.fi/a/7-10102559",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784807659000
-    },
-    {
       "title": "Regeringen vill förbjuda PFAS i vardagsvaror",
       "description": "Kläder och köksutrustning kan befrias vid 2028 Regeringen vill se ett stopp för skadliga PFAS-kemikalierna som kan hittas i diverse vardagsvaror. Förslaget innebär att produkter som kläder och köksutrustning inte längre ska få innehålla ämnena, med sikte på att reglerna ska börja gälla vid årsskiftet 2027/2028. Klimat- och miljöminister Romina Pourmokhtari betonar att detta blir den mest långtgående nationella lagstiftningen mot PFAS i världen. Det finns dock ett undantag i förslaget då bland annat bekämpningsmedel inom lantbruk inte kommer att omfattas av det nya förbudet. L&auml;s vidare och kommentera: https://feber.se/samhalle/regeringen-vill-forbjuda-pfas-i-vardagsvaror/494349/ L&auml;s mer om Regeringen , PFAS , Romina Pourmokhtari , bekämpningsmedel , kemikalier",
       "link": "https://feber.se/samhalle/regeringen-vill-forbjuda-pfas-i-vardagsvaror/494349/?utm_source=rss&utm_medium=feed",
@@ -824,16 +934,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784802914000
     },
     {
-      "title": "Trump skickar megabombaren",
-      "description": "Långdistansbombaren kan bära sprängladdningar med en vikt upp till 34 ton. Nu har Trump skickat den till Iran och konflikten trappats upp, rapporterar Axios.",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-skickar-megabombaren/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-skickar-megabombaren/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784802644000
-    },
-    {
       "title": "Antarctica may give the world decades to prepare for rising seas",
       "description": "Scientists may be able to reliably forecast Antarctic ice loss through the middle of this century, offering governments a vital head start on sea level rise. After that, unstable ice retreat could accelerate dramatically, making the future much harder to predict.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032123.htm",
@@ -862,16 +962,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784801893000
-    },
-    {
-      "title": "Svenska parets succé i Indien",
-      "description": "Miljonpublik • ”Ser inte alls ut som indier”",
-      "link": "https://www.expressen.se/tv/nyheter/karleksparet-gor-succe-i-indien-ser-inte-alls-ut-som-indier-/",
-      "guid": "https://www.expressen.se/tv/nyheter/karleksparet-gor-succe-i-indien-ser-inte-alls-ut-som-indier-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784801426000
     },
     {
       "title": "Ordningsvakter kan få större befogenheter",
@@ -1072,16 +1162,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784788527000
-    },
-    {
-      "title": "Klassiska Xbox-spel släpps till PC",
-      "description": "Kommer inkluderas i Xbox Game Pass För de som diggar att spela retrospel utökar nu Microsoft möjligheten att spela klassiska Xbox-spel på Windows i något som kallas \"XBOX Backward Compatibility on PC\". Det nya initiativet innebär initialt att Blinx: The Time Sweeper, Conker: Live and Reloaded, Crimson Skies: High Road to Revenge och Fuzion Frenzy , spel som ursprungligen släpptes till den första Xbox-modellen, kommer att bli möjliga att spela på Windows 11. Jason Ronald, chef för Xbox Next Generation, säger: \"This marks the beginning of a broader effort to preserve Xbox games from the past and bring them to PC over time. Xbox Backward Compatibility on PC is another step toward preserving the games from the past and making it easier for you to enjoy and play more of the games you already own across the devices you use every day.\" Windows 11-versionerna av de klassiska spelen har även uppdaterats med bland annat stöd för VSync, olika visningslägen samt olika grafikinställningar som bland annat ger möjlighet till uppskalning av grafiken upp till 4x. Om man redan har en licens för något av Xbox-spelen som släpps till PC går den att använda även till PC-versionen av spelet. Annars går spelen att köpa digitalt och de inkluderas även i alla Xbox Game Pass-abonnemang. L&auml;s vidare och kommentera: https://feber.se/spel/klassiska-xbox-spel-slapps-till-pc/494331/ L&auml;s mer om Microsoft , Xbox , Windows 11 , Retrospel , Blinx , Xbox Game Pass , Bakåtkompatibilitet",
-      "link": "https://feber.se/spel/klassiska-xbox-spel-slapps-till-pc/494331/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/klassiska-xbox-spel-slapps-till-pc/494331/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784788200000
     },
     {
       "title": "Man död efter balkongfall i Rinkeby – två gripna",
@@ -1294,16 +1374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784746843000
     },
     {
-      "title": "Camp Cocktails",
-      "description": "",
-      "link": "https://uncrate.com/camp-cocktails/",
-      "guid": "https://uncrate.com/camp-cocktails/",
-      "image": "https://uncrate.com/assets_c/2026/07/camp-cocktails-book-thumb-960xauto-192256.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784743200000
-    },
-    {
       "title": "Klubben från Botkyrka tog hem 13 medaljer i EM i karate",
       "description": "Botkyrka klubben Shukokai Karate vann 13 medaljer i EM i Leipzig: 5 guld, 6 silver och 2 brons. Nu laddar truppen om inför SM i november och VM i Estland 2027.",
       "link": "https://www.mitti.se/nyheter/klubben-fran-botkyrka-tog-hem-13-medaljer-i-em-i-karate-6.3.376643.c4b29d3c36",
@@ -1312,16 +1382,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784741400000
-    },
-    {
-      "title": "reMarkable Paper Pure",
-      "description": "",
-      "link": "https://uncrate.com/remarkable-paper-pure/",
-      "guid": "https://uncrate.com/remarkable-paper-pure/",
-      "image": "https://uncrate.com/assets_c/2026/05/remarkable-tablet-2-thumb-960xauto-191058.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784741392000
     },
     {
       "title": "20 historiska skjutvapen gömdes under kyrkan: Kan härröra från en blodig revolution",
@@ -1344,16 +1404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784739608000
     },
     {
-      "title": "Ferrari 849 Testarossa Spider",
-      "description": "",
-      "link": "https://uncrate.com/ferrari-849-testarossa-spider/",
-      "guid": "https://uncrate.com/ferrari-849-testarossa-spider/",
-      "image": "https://uncrate.com/assets_c/2026/07/ferrari-849-testarossa-spider-1-thumb-960xauto-192226.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784739600000
-    },
-    {
       "title": "Enorm asteroid dyker upp på himlen – missa inte det spektakulära fenomenet",
       "description": "Skulle du vilja se en asteroid? I så fall har du chansen nu. Den 250 kilometer långa asteroiden Juno kommer snart att dyka upp på natthimlen. Vi guidar dig till var och när du ska vända blicken uppåt.",
       "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/enorm-asteroid-dyker-upp-pa-himlen-missa-inte-det-spektakulara-fenomenet",
@@ -1362,16 +1412,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784736002000
-    },
-    {
-      "title": "Vice Pro Greg Mike Smiley Golf Balls",
-      "description": "",
-      "link": "https://uncrate.com/vice-pro-greg-mike-smiley-golf-balls/",
-      "guid": "https://uncrate.com/vice-pro-greg-mike-smiley-golf-balls/",
-      "image": "https://uncrate.com/assets_c/2026/07/vice-pro-greg-mike-smiley-golf-balls-2-thumb-960xauto-192225.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784736000000
     },
     {
       "title": "Dödsfall från balkong var olycka – misstänkta släppta",
@@ -1758,7 +1798,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Miljöförvaltningen granskade ett 30-tal butiker och restauranger på Stockholms centralstation efter larm om råttor. Två verksamheter hade spår av skadedjur, varav en restaurang med allvarliga brister.",
       "link": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
       "guid": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
-      "image": "https://www.mitti.se/image-3.376841.300779.20260721163044.dc893e58bd?format=jpeg",
+      "image": "https://www.mitti.se/image-3.376841.300779.20260723201044.96183ef7c2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784649600000
@@ -1782,26 +1822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784644396000
-    },
-    {
-      "title": "Björn om förlängningen – \"Något man drömmer om\"",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/bjorn-om-forlangningen-nagot-man-drommer-om",
-      "guid": "cb8a3475-ad09-42e8-b1cf-0e31c83cd9fe",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/142827cfd0d93ace8a641a2a3183f99f8dcf76f3-1000x667.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784643709000
-    },
-    {
-      "title": "Hammarby förlänger med Björn Hedlöf",
-      "description": "Björn Hedlöf har skrivit på ett nytt avtal med Hammarby. Det nya kontraktet med den nyss fyllda 18-åringen sträcker sig över december 2030. – Det har känts väldigt bra under tiden här och det var aldr",
-      "link": "https://www.hammarbyfotboll.se/nyheter/hammarby-forlanger-med-bjorn-hedlof",
-      "guid": "55c4e134-65cf-423b-9f3c-a10a1a34246c",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/26b24aaf192818ccf502efb414a29f2ce1ed5aa7-1000x667.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784640600000
     },
     {
       "title": "Watching too much TV in midlife may shrink the brain",
