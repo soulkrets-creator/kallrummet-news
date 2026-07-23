@@ -1,8 +1,58 @@
 {
-  "updatedAt": "2026-07-22T21:56:08.980Z",
+  "updatedAt": "2026-07-23T01:48:05.247Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Attack i Röda havet",
+      "description": "Trump har beordrat attacker mot Iran för tolfte natten i rad. Samtidigt har ett fartyg träffats i Röda havet. ”Befälhavaren på tankfartyget rapporterar att fartyget har träffats av en okänd projektil”, skriver den brittiska marinens sjöövervakning UKMTO.",
+      "link": "https://www.expressen.se/nyheter/varlden/ny-attack-i-roda-havet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ny-attack-i-roda-havet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784768457000
+    },
+    {
+      "title": "Misstänkt förgiftning på båt vid Fårösund",
+      "description": "Insats utanför Gotland – evakueras med helikopter",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=558774ed-2c68-4bff-a054-8a73958cc111",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=558774ed-2c68-4bff-a054-8a73958cc111",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784767903000
+    },
+    {
+      "title": "Föll från Smögenbryggan",
+      "description": "Förd till sjukhus med ambulanshelikopter",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=facddd64-c2fd-4725-952c-45741f02215d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=facddd64-c2fd-4725-952c-45741f02215d",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784767896000
+    },
+    {
+      "title": "Nya attacker mot Iran",
+      "description": "USA attackerar för tolfte natten i rad",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fee4afe6-871d-4abf-a4a6-ee8e955a7ab7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fee4afe6-871d-4abf-a4a6-ee8e955a7ab7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784766805000
+    },
+    {
+      "title": "Mercedes-Maybach GLS 680 SUV",
+      "description": "",
+      "link": "https://uncrate.com/mercedes-maybach-gls-680-suv/",
+      "guid": "https://uncrate.com/mercedes-maybach-gls-680-suv/",
+      "image": "https://uncrate.com/assets_c/2026/07/mercedes-maybach-gls-680-33-thumb-960xauto-192245.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784761200000
+    },
     {
       "title": "Marantz CD 70 Player",
       "description": "",
@@ -12,6 +62,16 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784757600000
+    },
+    {
+      "title": "HTV: Se första intervjun med Amin Boudri",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-se-foersta-intervjun-med-amin-boudri",
+      "guid": "9bf19f8a-2056-49d3-821a-c85cc3abd090",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/c6a5141fbc6dbabef02e7cd39c917fe0352a09d8-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784757410000
     },
     {
       "title": "Amin Boudri klar för Hammarby",
@@ -48,7 +108,7 @@
       "description": "Badklåda har rapporterats vid Tanto badplats i Stockholm. Parasiter orsakar intensiv klåda och röda utslag, men vattnet är inte farligt och inget badförbud gäller.",
       "link": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
       "guid": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
-      "image": "https://www.mitti.se/image-3.317058.300894.20260722213341.55d75c9e9f?format=jpeg",
+      "image": "https://www.mitti.se/image-3.317058.300894.20260722220329.5432c2ce06?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784755929000
@@ -82,6 +142,16 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784754000000
+    },
+    {
+      "title": "Forskarna skyndar sig: Nya bilder visar att det världsberömda expeditionsfartyget håller på att försvinna",
+      "description": "Med hjälp av den ubåt som man fotograferade Titanic med kan marinarkeologer nu visa ytterligare ett legendariskt fartyg i imponerande detalj. Men forskarna kämpar mot klockan.",
+      "link": "https://varldenshistoria.se/teknik/sjofart/se-video-och-bilder-varldsberomt-expeditionsfartyg-haller-pa-att-forsvinna",
+      "guid": "https://varldenshistoria.se/teknik/sjofart/se-video-och-bilder-varldsberomt-expeditionsfartyg-haller-pa-att-forsvinna",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784752254000
     },
     {
       "title": "Här är fansens drömelva från VM – den 40-åriga målvakten Vozinha får plats i laget",
@@ -162,6 +232,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784747948000
+    },
+    {
+      "title": "Telefonen gav kvinnor jobb för männen dög inte",
+      "description": "Telefonens barndom var full av paradoxer: Uppfinnaren ville inte själv ha en telefon, och i telefonkiosken stod en man redo att hjälpa kunderna.",
+      "link": "https://varldenshistoria.se/teknik/telefonen-gav-kvinnor-jobb-for-mannen-dog-inte",
+      "guid": "https://varldenshistoria.se/teknik/telefonen-gav-kvinnor-jobb-for-mannen-dog-inte",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784746843000
     },
     {
       "title": "Vi har kollat in Samsung nya vikbara lurar",
@@ -474,16 +554,6 @@
       "timestamp": 1784736000000
     },
     {
-      "title": "Totalstopp på E20 – lastbil har vält",
-      "description": "Lastbil i olycka",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=db706a58-9c25-4ca9-b37e-1e4f4473b16c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=db706a58-9c25-4ca9-b37e-1e4f4473b16c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784735292000
-    },
-    {
       "title": "Ekdals svar på kritiken: ”Måste betalas av någon”",
       "description": "Journalisten Lennart Ekdal har nyligen släppt en dokumentär om ätstörningar på TV3 och Viaplay. Nu får programmet kritik för sin finansiering. Men Ekdal menar att pengarna inte alls är något problem.",
       "link": "https://www.expressen.se/nyheter/sverige/ekdals-svar-pa-kritiken-maste-betalas-av-nagon/",
@@ -532,26 +602,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784733259000
-    },
-    {
-      "title": "Kaos i turistorten: ”Folk bara skrek”",
-      "description": "Dramatiskt oväder i Albanien och Kroatien",
-      "link": "https://www.expressen.se/tv/nyheter/kraftigt-askovader-i-populara-turistorten-folk-bara-skrek",
-      "guid": "https://www.expressen.se/tv/nyheter/kraftigt-askovader-i-populara-turistorten-folk-bara-skrek",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784732960000
-    },
-    {
-      "title": "Olycksföraren hyllar sin tioåriga dotter: ”En hjälte”",
-      "description": "Olycksföraren hyllar sin tioåriga dotter. Han säger att tack vare hennes insats skadades ingen i den uppmärksammade gymolyckan i Sundsvall. ”Min dotter tog ratten när jag var avsvimmad, hon är en hjälte”, skriver han till Sundsvalls Tidning.",
-      "link": "https://www.expressen.se/nyheter/sverige/olycksforaren-hyllar-sin-tioariga-dotter-en-hjalte/",
-      "guid": "https://www.expressen.se/nyheter/sverige/olycksforaren-hyllar-sin-tioariga-dotter-en-hjalte/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784732874000
     },
     {
       "title": "Dödsfall från balkong var olycka – misstänkta släppta",
@@ -642,16 +692,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784731671000
-    },
-    {
-      "title": "Gates varnades om Epstein flera gånger – ignorerade",
-      "description": "Bill Gates varnades upprepade gånger för Jeffrey Epstein. Trots det fortsatte kontakten mellan de två i flera år. Samtidigt finns det inga bevis på att Microsoft-grundaren var medveten om de övergrepp som skedde på miljardärens ö, enligt Financial Times .",
-      "link": "https://www.expressen.se/nyheter/varlden/gates-varnades-om-epstein-flera-ganger-ignorerade/",
-      "guid": "https://www.expressen.se/nyheter/varlden/gates-varnades-om-epstein-flera-ganger-ignorerade/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784731338000
     },
     {
       "title": "En person skadades allvarligt i en olycka vid Raumovarvet",
@@ -1374,16 +1414,6 @@
       "timestamp": 1784669400000
     },
     {
-      "title": "Hairmax Laser Hair Growth Cap",
-      "description": "",
-      "link": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
-      "guid": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
-      "image": "https://uncrate.com/assets_c/2026/07/hairmax-cap-thumb-960xauto-192207.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784665928000
-    },
-    {
       "title": "Lista: Här finns de sex minst besökta platserna i länet",
       "description": "Sex helt obesökta platser i Stockholm, enligt Haglöfs kampanj Unvisited Sweden.",
       "link": "https://www.mitti.se/nyheter/lista-har-finns-de-sex-minst-besokta-platserna-i-lanet-6.3.374818.c4dd0ad4ef",
@@ -1874,16 +1904,6 @@
       "timestamp": 1784550578000
     },
     {
-      "title": "UEL och UECL: Hammarbys motstånd i kvalomgång 3",
-      "description": "På torsdag spelas den första av två matcher mot Anderlecht i kvalet till UEFA Europa League, men redan nu har motstånden lottats för följande omgång. Både till UEFA Europa League och till UEFA Europa",
-      "link": "https://www.hammarbyfotboll.se/nyheter/uel-och-uecl-hammarbys-motstand-i-kvalomgang-3",
-      "guid": "59fc134d-e1af-4a52-a004-9ee5da66fc0d",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/dc456442355837e564203e086a6fa52adf65f9a4-1049x699.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784550393000
-    },
-    {
       "title": "Långt ut i rymden har forskare hittat något som även finns i hallon – ”Det var ett oväntat fynd”, säger astronom",
       "description": "Nära Vintergatans mitt har forskare gjort ett uppseendeväckande fynd.",
       "link": "https://illvet.se/universum/langt-ut-i-rymden-har-forskare-hittat-nagot-som-aven-finns-i-hallon-det-var-ett-ovantat-fynd-sager-astronom",
@@ -2262,26 +2282,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1784406649000
-    },
-    {
-      "title": "Föräldralös pojke från Grönland förråddes i USA: Forskare hade en obarmhärtig plan",
-      "description": "Hittills hade Miniks värld bestått av 234 människor, men nu var han i New York tillsammans med fem andra grönländare. De vuxna dog i tuberkulos, men den unge pojken överlevde.",
-      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/foraldralost-barn-fran-gronland-forraddes-i-usa",
-      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/foraldralost-barn-fran-gronland-forraddes-i-usa",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784401202000
-    },
-    {
-      "title": "Forskare fann historiens äldsta bevis på våld mellan människor",
-      "description": "Ett internationellt forskarteam har analyserat ett 100 000 år gammalt skelett som hittats djupt inne i en israelisk grotta – och har kommit fram till en banbrytande slutsats.",
-      "link": "https://varldenshistoria.se/stenalder/forskare-fann-historiens-aldsta-bevis-pa-vald-mellan-manniskor",
-      "guid": "https://varldenshistoria.se/stenalder/forskare-fann-historiens-aldsta-bevis-pa-vald-mellan-manniskor",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784390415000
     },
     {
       "title": "Popular sugar substitutes linked to faster brain aging",
@@ -2854,26 +2854,6 @@
       "timestamp": 1784175408000
     },
     {
-      "title": "Nya lagen fångar osynligt våld – första anmälan i länet",
-      "description": "Ny lag om psykiskt våld från 1 juli. Första anmälan har kommit in till Stockholmspolisen.",
-      "link": "https://www.mitti.se/nyheter/nya-lagen-fangar-osynligt-vald--forsta-anmalan-i-lanet-6.3.375843.6e1fb94935",
-      "guid": "https://www.mitti.se/nyheter/nya-lagen-fangar-osynligt-vald--forsta-anmalan-i-lanet-6.3.375843.6e1fb94935",
-      "image": "https://www.mitti.se/image-3.376627.300457.20260715163014.6607ded86c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784131200000
-    },
-    {
-      "title": "Fler upplever diskriminering i vården",
-      "description": "Antalet ärenden där patienter upplever sig diskriminerade i vården har ökat kraftigt i Region Stockholm.",
-      "link": "https://www.mitti.se/nyheter/fler-upplever-diskriminering-i-varden-6.3.374176.54b90c14fb",
-      "guid": "https://www.mitti.se/nyheter/fler-upplever-diskriminering-i-varden-6.3.374176.54b90c14fb",
-      "image": "https://www.mitti.se/image-3.360664.299697.20260715160614.5c9b4d582f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784129760000
-    },
-    {
       "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
       "description": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
@@ -2884,46 +2864,6 @@
       "timestamp": 1784126279000
     },
     {
-      "title": "Fyra män döms efter organiserade BMW-stölder",
-      "description": "Fyra män döms till fängelse och utvisning efter organiserade stölder av BMW-delar i Stockholmsområdet. Totalt stals delar från 72 bilar till ett värde av över 700 000 kronor.",
-      "link": "https://www.mitti.se/nyheter/fyra-man-doms-efter-organiserade-bmwstolder-6.3.375943.fd142171f4",
-      "guid": "https://www.mitti.se/nyheter/fyra-man-doms-efter-organiserade-bmwstolder-6.3.375943.fd142171f4",
-      "image": "https://www.mitti.se/image-3.351485.300564.20260715143912.2125b4cb89?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784124463000
-    },
-    {
-      "title": "Nya sommarkafét populärt – \"Överträffat förväntningarna\"",
-      "description": "Botkyrka har öppnat med hjälp av Restaurang Novie ett sommarkafé ute i Vårstavi.",
-      "link": "https://www.mitti.se/nyheter/nya-sommarkafet-populart--overtraffat-forvantningarna-6.3.374975.1bee526636",
-      "guid": "https://www.mitti.se/nyheter/nya-sommarkafet-populart--overtraffat-forvantningarna-6.3.374975.1bee526636",
-      "image": "https://www.mitti.se/image-3.376409.300060.20260715132237.4931a9e7ec?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784119896000
-    },
-    {
-      "title": "Barn bitet av hund i Hagaparken",
-      "description": "Ung person biten av hund",
-      "link": "https://www.mitti.se/nyheter/barn-bitet-av-hund-i-hagaparken-6.3.375934.a1c5e9298e",
-      "guid": "https://www.mitti.se/nyheter/barn-bitet-av-hund-i-hagaparken-6.3.375934.a1c5e9298e",
-      "image": "https://www.mitti.se/image-3.119759.300555.20260716130534.eeacad5314?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784114589000
-    },
-    {
-      "title": "Drunkningslarm vid Liljeholmsbron – stort räddningspådrag",
-      "description": "Ett drunkningslarm inkom från Liljeholmsbron.",
-      "link": "https://www.mitti.se/nyheter/drunkningslarm-vid-liljeholmsbron--stort-raddningspadrag-6.3.375932.98c0b3b9ed",
-      "guid": "https://www.mitti.se/nyheter/drunkningslarm-vid-liljeholmsbron--stort-raddningspadrag-6.3.375932.98c0b3b9ed",
-      "image": "https://www.mitti.se/image-3.376650.300552.20260715120602.1.23fa308f2f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784113680000
-    },
-    {
       "title": "Are humans really the ultimate super-predator?",
       "description": "Humans are often described as the planet's ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more alert and spend less time feeding when people pose a real threat, such as hunters or fishers. In contrast, tourists, researchers, and other non-lethal humans trigger far weaker and less predictable reactions.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
@@ -2932,76 +2872,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784113442000
-    },
-    {
-      "title": "En man häktad misstänkt för mord i Sigtuna",
-      "description": "En man häktas misstänkt för mord efter att en man dött i Sigtuna.",
-      "link": "https://www.mitti.se/nyheter/en-man-haktad-misstankt-for-mord-i-sigtuna-6.3.375786.24425a0e05",
-      "guid": "https://www.mitti.se/nyheter/en-man-haktad-misstankt-for-mord-i-sigtuna-6.3.375786.24425a0e05",
-      "image": "https://www.mitti.se/image-3.367832.300378.20260715091508.1.da7e784bfd?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784106000000
-    },
-    {
-      "title": "Misstänkt mordbrand släcktes – brinner igen",
-      "description": "Brandkåren försöker släcka misstänkt mordbrand i Segeltorp.",
-      "link": "https://www.mitti.se/nyheter/misstankt-mordbrand-slacktes--brinner-igen-6.3.375888.a1ae510ba7",
-      "guid": "https://www.mitti.se/nyheter/misstankt-mordbrand-slacktes--brinner-igen-6.3.375888.a1ae510ba7",
-      "image": "https://www.mitti.se/image-3.376643.300518.20260715112754.1.40712e3237?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784101865000
-    },
-    {
-      "title": "Person hittats avliden vid Råstasjön i Solna",
-      "description": "En avliden person har hittats i ett skogsområde nära Råstasjön i Solna. Polisen har inlett en förundersökning om mord, men uppger att inget i nuläget tyder på brott.",
-      "link": "https://www.mitti.se/nyheter/person-hittats-avliden-vid-rastasjon-i-solna-6.3.375886.a995012b93",
-      "guid": "https://www.mitti.se/nyheter/person-hittats-avliden-vid-rastasjon-i-solna-6.3.375886.a995012b93",
-      "image": "https://www.mitti.se/image-3.348195.300513.20260715065224.b6ef4902cb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784096485000
-    },
-    {
-      "title": "Explosion vid port i Vinsta",
-      "description": "En explosion vid en port i Hässelby gård krossade fönster under natten. Polisen utreder grovt olaga hot och brott mot lagen om brandfarliga och explosiva varor.",
-      "link": "https://www.mitti.se/nyheter/explosion-vid-port-i-vinsta-6.3.375885.562cd7393d",
-      "guid": "https://www.mitti.se/nyheter/explosion-vid-port-i-vinsta-6.3.375885.562cd7393d",
-      "image": "https://www.mitti.se/image-3.376642.300512.20260715144112.555e118327?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784095866000
-    },
-    {
-      "title": "Lidingögatan är dyrast i hela Sverige",
-      "description": "Enligt Svensk mäklarstatistik är Albavägen på Lidingö den dyraste i Sverige. Närhet till vattnet är viktigt menar LF Fastighetsförmedling.",
-      "link": "https://www.mitti.se/nyheter/lidingogatan-ar-dyrast-i-hela-sverige-6.3.375862.d4e2df23b2",
-      "guid": "https://www.mitti.se/nyheter/lidingogatan-ar-dyrast-i-hela-sverige-6.3.375862.d4e2df23b2",
-      "image": "https://www.mitti.se/image-3.376628.300486.20260715125005.edb9b7cbcf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784095200000
-    },
-    {
-      "title": "Man gripen efter misstänkt mordförsök i Sköndal",
-      "description": "En man i 45–50-årsåldern har gripits misstänkt för mordförsök i Sköndal sedan en stickskadad man hittats svårt skadad i en lägenhet och förts till sjukhus.",
-      "link": "https://www.mitti.se/nyheter/man-gripen-efter-misstankt-mordforsok-i-skondal-6.3.375884.c877d30743",
-      "guid": "https://www.mitti.se/nyheter/man-gripen-efter-misstankt-mordforsok-i-skondal-6.3.375884.c877d30743",
-      "image": "https://www.mitti.se/image-3.169937.300511.20260715083843.1.c02e545cea?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784095162000
-    },
-    {
-      "title": "Privata elsparkcyklar bakom många dödsolyckor",
-      "description": "Elsparkcykelolyckorna i Stockholm ökade förra året. En ny studie från Chalmers och Trafikverket visar att de flesta som dör i olyckorna har druckit alkohol.",
-      "link": "https://www.mitti.se/nyheter/privata-elsparkcyklar-bakom-manga-dodsolyckor-6.3.374148.108aef81d5",
-      "guid": "https://www.mitti.se/nyheter/privata-elsparkcyklar-bakom-manga-dodsolyckor-6.3.374148.108aef81d5",
-      "image": "https://www.mitti.se/image-3.258461.299688.20260715053123.e7984ad85e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784091600000
     }
   ]
 }
