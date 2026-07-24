@@ -1,8 +1,68 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-23T21:55:40.788Z",
+  "updatedAt": "2026-07-24T01:43:58.437Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Bryter tystnaden – om mordmisstänkt gäst",
+      "description": "En av Joe Rogans tidigare gäster greps kort efter att han hade medverkat i profilens podcast. Nu uttalar sig Rogan för första gången om det misstänkta mordet. – Vi hade en kille i studion som högg av huvudet på en man, säger Rogan, enligt Fox News .",
+      "link": "https://www.expressen.se/nyheter/varlden/bryter-tystnaden-om-mordmisstankt-gast/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bryter-tystnaden-om-mordmisstankt-gast/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784856011000
+    },
+    {
+      "title": "Trump inför nya tullar",
+      "description": "Donald Trump ersätter sina gamla tullar med nya. Tullarna drabbar bland annat EU och flera andra stora handelspartners för USA. – Uppenbart att vi behöver bli mindre beroende av USA, säger Benjamin Dousa (M), biståndsminister.",
+      "link": "https://www.expressen.se/nyheter/sverige/trump-infor-nya-tullar-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/trump-infor-nya-tullar-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784853307000
+    },
+    {
+      "title": "Bilar i brand",
+      "description": "Insats utanför Stockholm • Vittnen hörde explosioner",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f28407d-3444-4e1b-b2ee-49730a0f9a70",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f28407d-3444-4e1b-b2ee-49730a0f9a70",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784853300000
+    },
+    {
+      "title": "Nya attacker mot Iran",
+      "description": "13:e natten i rad • USA: ”Ställa Iran till svars”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d4caa7d3-5146-49ec-a065-6bf62725f211",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d4caa7d3-5146-49ec-a065-6bf62725f211",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784853287000
+    },
+    {
+      "title": "Breitling Top Time DB5 Tribute Watch",
+      "description": "",
+      "link": "https://uncrate.com/breitling-top-time-db5-tribute-watch/",
+      "guid": "https://uncrate.com/breitling-top-time-db5-tribute-watch/",
+      "image": "https://uncrate.com/assets_c/2026/07/breitling-top-time-b01-chronograph-41-db5-1-thumb-960xauto-192282.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784847600000
+    },
+    {
+      "title": "Techmiljardären: ”Jag har klonat mig själv”",
+      "description": "Biohackaren Bryan Johnson har klonat sig själv ”som bebis”. Syftet är att använda klonens organ, skriver han.",
+      "link": "https://www.expressen.se/nyheter/varlden/techmiljardaren-jag-har-klonat-mig-sjalv/",
+      "guid": "https://www.expressen.se/nyheter/varlden/techmiljardaren-jag-har-klonat-mig-sjalv/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784846941000
+    },
     {
       "title": "Trumpadministration backar gentemot tidning",
       "description": "USA:s justitiedepartement har dragit tillbaka begäran om rättsliga åtgärder mot de reportrar på tidningen The New York Times som rapporterat om säkerhetsproblem på presidentplanet Air Force One.",
@@ -11,7 +71,27 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784842775000
+      "timestamp": 1784844406000
+    },
+    {
+      "title": "Aston Martin Vanquish 25",
+      "description": "",
+      "link": "https://uncrate.com/aston-martin-vanquish-25/",
+      "guid": "https://uncrate.com/aston-martin-vanquish-25/",
+      "image": "https://uncrate.com/assets_c/2026/07/aston-martin-vanquish-25-1-thumb-960xauto-192277.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784844000000
+    },
+    {
+      "title": "Pressas av Trump: ”Tålamodet är slut”",
+      "description": "Lagförslaget har fastnat i senaten. Nu har Donald Trump tröttnat och tappat tålamodet med senatens ledare. – Senaten är en plats dit man skickar saker när man vill att de ska dö, säger presidenten, enligt Politico.",
+      "link": "https://www.expressen.se/nyheter/varlden/pressas-av-trump-talamodet-ar-slut/",
+      "guid": "https://www.expressen.se/nyheter/varlden/pressas-av-trump-talamodet-ar-slut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784843658000
     },
     {
       "title": "Trump ersätter gamla tullar mot EU",
@@ -504,16 +584,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784819952000
     },
     {
-      "title": "Flera hus i brand",
-      "description": "”Branden har spridit sig”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9bb755f8-af68-47a6-8bb6-8c074b649f05",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9bb755f8-af68-47a6-8bb6-8c074b649f05",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784819730000
-    },
-    {
       "title": "Använder du AI som dagbok? Då finns risken att den inte är så hemlig",
       "description": "Det finns risk för att det vi delar med oss i dag sparas någonstans och dyker upp som en otrevlig överraskning om tio eller tjugo år.",
       "link": "https://yle.fi/a/7-10102578?origin=rss",
@@ -522,16 +592,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784819714000
-    },
-    {
-      "title": "Chang Frick om SD-utspel: ”Jag har en fot i varje läger”",
-      "description": "SD-toppen Ludvig Asplings uttalande om etniska svenskar har mött kritik – även inom partiet. Högerdebattören Chang Frick förstår båda sidor. – När jag växte upp sågs jag som ”svartskalle”, men i dag tillhör jag lite mer ”pursvenskgänget”, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/chang-frick-om-sd-utspel-jag-har-en-fot-i-varje-lager/",
-      "guid": "https://www.expressen.se/nyheter/sverige/chang-frick-om-sd-utspel-jag-har-en-fot-i-varje-lager/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784819544000
     },
     {
       "title": "Obduktion avslöjade extremt stark drog som inte tidigare påträffats i Finland",
@@ -634,26 +694,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784816486000
     },
     {
-      "title": "Oljepriset rusar",
-      "description": "Börsen faller",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0e3edb9-c1cd-428c-93f7-f3b2abd1301e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0e3edb9-c1cd-428c-93f7-f3b2abd1301e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784816017000
-    },
-    {
-      "title": "”Han slutade inte” – nya vittnesmål om Epstein under strafftiden",
-      "description": "Roza Gilles vittnar nu för första gången öppet om övergreppen hon utsattes för som 18-åring av Jeffery Epstein. Enligt henne skedde det medan han avtjänade sitt straff med fotboja. – Han hade ingen ånger, säger Gilles till CNN.",
-      "link": "https://www.expressen.se/nyheter/varlden/han-slutade-inte-nya-vittnesmal-om-epstein-under-strafftiden/",
-      "guid": "https://www.expressen.se/nyheter/varlden/han-slutade-inte-nya-vittnesmal-om-epstein-under-strafftiden/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784815570000
-    },
-    {
       "title": "Aston Martin firar Vanquish med specialutgåva",
       "description": "Fyller 25 år Gillar man brittiska bilar med V12, då ligger Aston Martin Vanquish en kärt om hjärtat. Modellen visades upp första gången 2001 på Genèvesalongen och det betyder att det nu har gått 25 år sedan dess. Och det måste ju firas! Aston Martin väljer att göra det med en specialutgåva skapad av Q by Aston Martin. Man kommer bara att bygga 50 exemplar, 25 coupéer och 25 Volante, alltså cabbar. Bilarna får en speciallack som heter Q Skye Silver, lite detaljer i rostfritt stål och lite emblem. De smidda fälgarna är på 21 tum. Färgerna på interiören är Onyx Black, Oxford Tan och Phantom Grey. Motorn är samma som vanligt, men det är inte så pjåkigt. Det handlar om en V12:a på 5,2 liter som levererar 835 hästar och 1000 Nm. 0-100 km/h går på 3,3 sekunder och toppfarten är 344 km/h. L&auml;s vidare och kommentera: https://feber.se/bil/aston-martin-firar-vanquish-med-specialutgava/494346/ L&auml;s mer om Vanquish , V12 , Q by Aston Martin , Q Skye Silver , Volante",
       "link": "https://feber.se/bil/aston-martin-firar-vanquish-med-specialutgava/494346/?utm_source=rss&utm_medium=feed",
@@ -692,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784814917000
-    },
-    {
-      "title": "Jackie Arklöv inifrån rättssalen – vill bli fri",
-      "description": "För 27 år sedan sköt Jackie Arklöv ihjäl poliserna Olle Borén och Robert Karlström i Malexander efter ett bankrån och efterföljande biljakt. Sedan dess har han suttit i fängelse – dömd till livstid. I veckans avsnitt av Krimrummet lyssnar vi på hans förhoppningar om att få straffet tidsbestämt. Lyssna på hela avsnittet i spelaren nedan.",
-      "link": "https://www.expressen.se/podcast/krimrummet/jackie-arklov-inifran-rattssalen-vill-bli-fri/",
-      "guid": "https://www.expressen.se/podcast/krimrummet/jackie-arklov-inifran-rattssalen-vill-bli-fri/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784814904000
     },
     {
       "title": "A healthier global diet could cut farm emissions by 85%",
@@ -762,16 +792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784813400000
-    },
-    {
-      "title": "22 döda spädbarn hittade på Irland",
-      "description": "Utgrävningarna av ”skräckens kammare” fortsätter på Irland. Ytterligare 22 döda spädbarn har grävts fram i juli. – De har hittats mycket tätt intill varandra, säger Daniel MacSweeney, forensisk expert.",
-      "link": "https://www.expressen.se/nyheter/varlden/22-doda-spadbarn-hittade-pa-irland-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/22-doda-spadbarn-hittade-pa-irland-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784813298000
     },
     {
       "title": "Norge lämnar in klagomål till Fifa gällande Trumps inblandning i VM",
@@ -1342,26 +1362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784750400000
-    },
-    {
-      "title": "Nocs Provisions Standard Issue 10x25 Waterproof Binoculars",
-      "description": "",
-      "link": "https://uncrate.com/nocs-provisions-standard-issue-10x25-waterproof-binoculars/",
-      "guid": "https://uncrate.com/nocs-provisions-standard-issue-10x25-waterproof-binoculars/",
-      "image": "https://uncrate.com/assets_c/2026/07/nocs-provisions-standard-issue-waterproof-binoculars-1-darkened-thumb-960xauto-192257.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784749200000
-    },
-    {
-      "title": "Vivazen Wellness Shots",
-      "description": "",
-      "link": "https://uncrate.com/vivazen-wellness-shots/",
-      "guid": "https://uncrate.com/vivazen-wellness-shots/",
-      "image": "https://uncrate.com/assets_c/2026/07/viva-zen-drink-11-darkened-thumb-960xauto-192260.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784748638000
     },
     {
       "title": "Telefonen gav kvinnor jobb för männen dög inte",
@@ -2834,46 +2834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784253112000
     },
     {
-      "title": "Simskolan tvingas lämna badet efter parasitangrepp",
-      "description": "Simskolan vid Krokodilbadet har behövt flytta efter att badklådan från fågelparasiter blivit för mycket, berättar Camilla Hansen.",
-      "link": "https://www.mitti.se/nyheter/simskolan-tvingas-lamna-badet-efter-parasitangrepp-6.3.375985.0d3bff9d00",
-      "guid": "https://www.mitti.se/nyheter/simskolan-tvingas-lamna-badet-efter-parasitangrepp-6.3.375985.0d3bff9d00",
-      "image": "https://www.mitti.se/image-3.371722.300616.20260716163111.1.4d4b6e0113?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784217600000
-    },
-    {
-      "title": "Värmen ställer till det: Förseningar och stopp för tågen",
-      "description": "Förseningar och stopp för SL – solkurvor ställer till det.",
-      "link": "https://www.mitti.se/nyheter/varmen-staller-till-det-forseningar-och-stopp-for-tagen-6.3.375993.70c095d565",
-      "guid": "https://www.mitti.se/nyheter/varmen-staller-till-det-forseningar-och-stopp-for-tagen-6.3.375993.70c095d565",
-      "image": "https://www.mitti.se/image-3.369791.300626.20260716154311.1.4b19e28dc3?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784214731000
-    },
-    {
-      "title": "Sju personer till sjukhus efter seriekrock på Södermalm",
-      "description": "Sju personer skadades i en seriekrock på Folkungagatan på Södermalm. En bil körde in i en annan bakifrån som sedan krockade med en polisbil. Polisen utreder vårdslöshet i trafik.",
-      "link": "https://www.mitti.se/nyheter/sju-personer-till-sjukhus-efter-seriekrock-pa-sodermalm-6.3.375994.07b6ae19e9",
-      "guid": "https://www.mitti.se/nyheter/sju-personer-till-sjukhus-efter-seriekrock-pa-sodermalm-6.3.375994.07b6ae19e9",
-      "image": "https://www.mitti.se/image-3.268866.300628.20260716153709.1.7573f4ba24?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784214410000
-    },
-    {
-      "title": "Lagt miljoner på VM – men ingen final på Stadion",
-      "description": "Här visas VM på söndag.",
-      "link": "https://www.mitti.se/nyheter/lagt-miljoner-pa-vm--men-ingen-final-pa-stadion-6.3.375976.a726af611c",
-      "guid": "https://www.mitti.se/nyheter/lagt-miljoner-pa-vm--men-ingen-final-pa-stadion-6.3.375976.a726af611c",
-      "image": "https://www.mitti.se/image-3.376657.300596.20260716151329.1.61849e398b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784212200000
-    },
-    {
       "title": "Sun-like star caught after eating one of its own planets",
       "description": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars confirmed the signal is highly unusual, and scientists think a massive brown dwarf companion may have helped send the planet on its fatal plunge.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
@@ -2882,96 +2842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784199122000
-    },
-    {
-      "title": "Man frikänns från våldtäkt av barn i Vitabergsparken",
-      "description": "En man frikänns för våldtäkt mot barn i Vitabergsparken.",
-      "link": "https://www.mitti.se/nyheter/man-frikanns-fran-valdtakt-av-barn-i-vitabergsparken-6.3.375982.d00aea3692",
-      "guid": "https://www.mitti.se/nyheter/man-frikanns-fran-valdtakt-av-barn-i-vitabergsparken-6.3.375982.d00aea3692",
-      "image": "https://www.mitti.se/image-3.367833.300599.20260716142620.ce174488c0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784193168000
-    },
-    {
-      "title": "Gratis på sommarlovet: 12 roliga saker att göra med barnen i sommar",
-      "description": "Tips på 12 roliga och gratis sommaraktiviteter för barnfamiljer – från naturbingo och 4H-gård till tältning, experiment, bakduell och insektshotell.",
-      "link": "https://www.mitti.se/nyheter/gratis-pa-sommarlovet-12-roliga-saker-att-gora-med-barnen-i-sommar-6.3.367317.74bfd0bb81",
-      "guid": "https://www.mitti.se/nyheter/gratis-pa-sommarlovet-12-roliga-saker-att-gora-med-barnen-i-sommar-6.3.367317.74bfd0bb81",
-      "image": "https://www.mitti.se/image-3.371925.294195.20260716083058.1.bdcef52aab?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784188800000
-    },
-    {
-      "title": "Eurovision-vinnaren klar för Stockholm Pride",
-      "description": "Stockholm Pride laddar för 2026 med nytt festivalområde i Slakthusområdet, parad genom city och en hemlig Eurovision-vinnare på scenen.",
-      "link": "https://www.mitti.se/nyheter/eurovisionvinnaren-klar-for-stockholm-pride-6.3.375848.9f0555995a",
-      "guid": "https://www.mitti.se/nyheter/eurovisionvinnaren-klar-for-stockholm-pride-6.3.375848.9f0555995a",
-      "image": "https://www.mitti.se/image-3.291385.300499.20260716091757.1.7f7e0e597c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784188677000
-    },
-    {
-      "title": "Kan \"larven från helvetet\" nå Stockholm?",
-      "description": "Stockholms stad är redo för Ekprocessionsspinnaren, \"Larven från helvetet\".",
-      "link": "https://www.mitti.se/nyheter/kan-larven-fran-helvetet-na-stockholm-6.3.375797.ec106bb2db",
-      "guid": "https://www.mitti.se/nyheter/kan-larven-fran-helvetet-na-stockholm-6.3.375797.ec106bb2db",
-      "image": "https://www.mitti.se/image-3.376654.300411.20260716093140.2941926500?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784183400000
-    },
-    {
-      "title": "Bedragare döms – lurade äldre på miljoner",
-      "description": "En bedragare döms för flera fall av bedrägerier.",
-      "link": "https://www.mitti.se/nyheter/bedragare-doms--lurade-aldre-pa-miljoner-6.3.375923.ae31f3a121",
-      "guid": "https://www.mitti.se/nyheter/bedragare-doms--lurade-aldre-pa-miljoner-6.3.375923.ae31f3a121",
-      "image": "https://www.mitti.se/image-3.348076.300547.20260716064423.1.e612579298?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784182444000
-    },
-    {
-      "title": "Pendeltågsstation fick utrymmas efter tekniskt fel",
-      "description": "Pendel fick utrymmas efter automatisk larm.",
-      "link": "https://www.mitti.se/nyheter/pendeltagsstation-fick-utrymmas-efter-tekniskt-fel-6.3.375949.9d850c12e7",
-      "guid": "https://www.mitti.se/nyheter/pendeltagsstation-fick-utrymmas-efter-tekniskt-fel-6.3.375949.9d850c12e7",
-      "image": "https://www.mitti.se/image-3.319965.300568.20260716065107.1.39d9030c34?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784182146000
-    },
-    {
-      "title": "Stickskadad man i Sköndal avliden",
-      "description": "Man avliden efter stickskador i sköndal. Polisen utreder mord.",
-      "link": "https://www.mitti.se/nyheter/stickskadad-man-i-skondal-avliden-6.3.375948.90ae6ed773",
-      "guid": "https://www.mitti.se/nyheter/stickskadad-man-i-skondal-avliden-6.3.375948.90ae6ed773",
-      "image": "https://www.mitti.se/image-3.248411.300566.20260716092751.1.a1910f83a3?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784181185000
-    },
-    {
-      "title": "Treorna fick chansen – över 300 gick sommarsimskola",
-      "description": "Stadens sommarsimskola har i år utökats till elever i årskurs 3.",
-      "link": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "guid": "https://www.mitti.se/nyheter/treorna-fick-chansen--over-300-gick-sommarsimskola-6.3.375877.e26695f078",
-      "image": "https://www.mitti.se/image-3.245835.300507.20260716053051.1.b47eedab64?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
-    },
-    {
-      "title": "Därför har SL byggt om i Mörby centrum",
-      "description": "SL har byggt brandgaspartier i Mörby centrum för att minska spridning av brand och rök samt förbättra säker utrymning vid brand i tunnelbanan.",
-      "link": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
-      "guid": "https://www.mitti.se/nyheter/darfor-har-sl-byggt-om-i-morby-centrum-6.3.372967.6bfef729bf",
-      "image": "https://www.mitti.se/image-3.375414.298845.20260716053051.cf6b601756?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784178000000
     }
   ]
 };
