@@ -1,8 +1,118 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-24T19:10:39.051Z",
+  "updatedAt": "2026-07-24T21:54:50.927Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump i ”hämndläge” – tappat tålamodet på Iran",
+      "description": "Trumps tålamod tryter. Kriget mot Iran tar inte slut och missnöjet växer i USA. Nu är han i stället inställd på hämnd, enligt källor till Wall Street Journal .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784928093000
+    },
+    {
+      "title": "Everyday Carry: Atelier",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-atelier/",
+      "guid": "https://uncrate.com/everyday-carry-atelier/",
+      "image": "https://uncrate.com/assets_c/2026/07/edc-atelier-darkened-thumb-960xauto-192324.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784926800000
+    },
+    {
+      "title": "Dödsfall på Barcelonas arena",
+      "description": "54-årig man föll • Första dödsfallet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cb3abb0-9809-47d8-a726-9d74f2b9cf32",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cb3abb0-9809-47d8-a726-9d74f2b9cf32",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784925576000
+    },
+    {
+      "title": "Lastbil med syra i diket",
+      "description": "Totalstopp på riksväg 70",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4fecc98-e60e-4509-ab81-7edc39c64077",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4fecc98-e60e-4509-ab81-7edc39c64077",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784924459000
+    },
+    {
+      "title": "Polisen varnar för bullbedragare",
+      "description": "Polisen: Skett två gånger på kort tid",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d17e202f-ffe6-4db1-84b3-ba9b5590262a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d17e202f-ffe6-4db1-84b3-ba9b5590262a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784923482000
+    },
+    {
+      "title": "BUSY Bar Productivity Device",
+      "description": "",
+      "link": "https://uncrate.com/busy-bar-productivity-device/",
+      "guid": "https://uncrate.com/busy-bar-productivity-device/",
+      "image": "https://uncrate.com/assets_c/2026/07/busy-bar-2-thumb-960xauto-192309.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784923200000
+    },
+    {
+      "title": "SD-utspelet mot S efter våldtäktsdom",
+      "description": "Socialdemokraterna reagerar starkt på Expressens artikel om en våldtäkt på en ung pojke – men SD anklagar S för hyckleri. Teresa Carvalho, rättspolitisk talesperson (S), skriver att ”bestialiska övergrepp ska straffas hårt utan straffrabatter”. – Det är ett hyckleri. S röstar nej till regeringens förslag att avskaffa mängdrabatter, säger Tobias Andersson, riksdagsledamot (SD).",
+      "link": "https://www.expressen.se/nyheter/sd-utspelet-mot-s--efter-valdtaktsdom/",
+      "guid": "https://www.expressen.se/nyheter/sd-utspelet-mot-s--efter-valdtaktsdom/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784922872000
+    },
+    {
+      "title": "Nina Chydenius hade ingen koll på EM-chansen – öppnar nu för OS-satsning",
+      "description": "Nina Chydenius ville visa sina barn gott exempel och vann FM-guldet på 10 000 meter i överlägsen stil. Det kan ge en EM-resa – men framtiden ser hon på maraton.",
+      "link": "https://yle.fi/a/7-10102463?origin=rss",
+      "guid": "https://yle.fi/a/7-10102463",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784922523000
+    },
+    {
+      "title": "En person skadades allvarligt i en lägenhetsbrand i Helsingfors",
+      "description": "Enligt räddningsverket är branden släckt.",
+      "link": "https://yle.fi/a/7-10102652?origin=rss",
+      "guid": "https://yle.fi/a/7-10102652",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784921930000
+    },
+    {
+      "title": "Great Lakes Wellness",
+      "description": "",
+      "link": "https://uncrate.com/great-lakes-wellness/",
+      "guid": "https://uncrate.com/great-lakes-wellness/",
+      "image": "https://uncrate.com/assets_c/2026/07/great-lakes-wellness-collagen-1-thumb-960xauto-192280.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784921432000
+    },
+    {
+      "title": "Våldtog barn fem gånger – vill bli sjuksköterska igen",
+      "description": "En man i 60-årsåldern på Gotland våldtog barn fem gånger och dömdes för hundratals sexualbrott mot barn. Nu ansöker han om att få tillbaka sin sjuksköterskelegitimation – igen. ”Alla kan må dåligt och göra fel i sina liv”, skriver han i ansökan.",
+      "link": "https://www.expressen.se/nyheter/sverige/valdtog-barn-fem-ganger-vill-bli-sjukskoterska-igen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/valdtog-barn-fem-ganger-vill-bli-sjukskoterska-igen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784920646000
+    },
     {
       "title": "Vilken löning är den bästa löningen?",
       "description": "Dagens fråga Idag är det fredag och löning för de flesta, trots att 25:e inte har passerats. Men vilken månad är lönen den bästa? Den i januari när man är fattig efter jul? Eller den i juli som fyller på semesterkassan? Svara på frågan nedan och motivera gärna ditt svar bland kommentarerna! L&auml;s vidare och kommentera: https://feber.se/vilken-loning-ar-den-basta-loningen/494400/ L&auml;s mer om lön , fredag , löning",
@@ -14,8 +124,18 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784919600000
     },
     {
+      "title": "Naval Watch Co. FRXD004 GMT",
+      "description": "",
+      "link": "https://uncrate.com/naval-watch-co-frxd004-gmt/",
+      "guid": "https://uncrate.com/naval-watch-co-frxd004-gmt/",
+      "image": "https://uncrate.com/assets_c/2026/07/naval-watch-co-frxd004-gmt-11-thumb-960xauto-192314.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784919600000
+    },
+    {
       "title": "Jarostjärnan hetsade med allt och alla i störtsköna derbysegern: ”Som man bäddar får man ligga”",
-      "description": "Nu vädrar Jakobstadsfotbollen morgonluft igen. Segern över SJK inför slutsålda läktare innebar att Jaro samtidigt att kvalplatsen bytte ägare mellan lagen.",
+      "description": "Nu vädrar Jakobstadsfotbollen morgonluft igen. Segern över SJK inför slutsålda läktare innebar samtidigt att Jaro förpassade lokalrivalen till kvalplatsen.",
       "link": "https://yle.fi/a/7-10102649?origin=rss",
       "guid": "https://yle.fi/a/7-10102649",
       "image": "",
@@ -24,14 +144,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784919585000
     },
     {
-      "title": "Polisen varnar för bullbedragare",
-      "description": "Polisen: Skett två gånger på kort tid",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d17e202f-ffe6-4db1-84b3-ba9b5590262a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d17e202f-ffe6-4db1-84b3-ba9b5590262a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784919479000
+      "title": "David Bowie in 'The Man Who Fell to Earth'",
+      "description": "",
+      "link": "https://uncrate.com/david-bowie-in-the-man-who-fell-to-earth/",
+      "guid": "https://uncrate.com/david-bowie-in-the-man-who-fell-to-earth/",
+      "image": "https://uncrate.com/assets_c/2026/07/david-bowie-the-man-who-fell-to-earth-11-darkened-thumb-960xauto-192313.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784918400000
     },
     {
       "title": "”Trumpviskarens” vändning om Ukraina: ”Hade fel”",
@@ -94,8 +214,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784916462000
     },
     {
-      "title": "Man skjuten i Hässelby i västra Stockholm",
-      "description": "En man i 25-årsåldern har blivit skjuten utomhus i Hässelby i västra Stockholm. Han har förts till sjukhus med ambulanshelikopter. – Ingen är gripen än så länge, säger Anna Lärk, polisens presstalesperson.",
+      "title": "Man död efter skottlossning i Hässelby – en gripen",
+      "description": "En man i 25-årsåldern har dött i samband med en skottlossning i Hässelby. En man har gripits misstänkt för mord. – Folk skrek och grät högt, säger en granne om insatsen.",
       "link": "https://www.expressen.se/nyheter/sverige/man-skjuten-i-hasselby-i-vastra-stockholm/",
       "guid": "https://www.expressen.se/nyheter/sverige/man-skjuten-i-hasselby-i-vastra-stockholm/",
       "image": "",
@@ -134,6 +254,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784916000000
     },
     {
+      "title": "BrionVega Radiofonografo Record Console",
+      "description": "",
+      "link": "https://uncrate.com/brionvega-radiofonografo-record-console/",
+      "guid": "https://uncrate.com/brionvega-radiofonografo-record-console/",
+      "image": "https://uncrate.com/assets_c/2026/07/brionvega-radiofonografo-record-console-11-darkened-thumb-960xauto-192312.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784916000000
+    },
+    {
       "title": "Här får du parkera i Stockholm",
       "description": "Smart tjänst visar var du får och inte får ställa bilen Att parkera på gatan i Stockholm är sällan roligt. I vissa delar av stan är det mindre roligt än i andra, på en del ställen är det inga som helst problem men på andra är det helt hopplöst. Någon som försökt lösa en del av problemet är Lasse som har utvecklat en tjänst som heter Parkspot. På en karta kan du enkelt se var du får och inte får ställa bilen. Du kan välja om det du vill se ska gälla för idag, imorgon eller någon annan dag. Nu garanterar detta inte att det finns plats, förstås, men om du ska någonstans i Stockholm och helt enkelt vill veta hur det ser ut med parkering kan detta hjälpa. Tjänsten visar även vilken dag eller vilka dagar en gata har städning. L&auml;s vidare och kommentera: https://feber.se/samhalle/har-far-du-parkera-i-stockholm/494393/ L&auml;s mer om Parkspot , Stockholm , parkering , gatuparkering",
       "link": "https://feber.se/samhalle/har-far-du-parkera-i-stockholm/494393/?utm_source=rss&utm_medium=feed",
@@ -142,6 +272,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784914200000
+    },
+    {
+      "title": "Hatch Restore 3 Alarm Clock",
+      "description": "",
+      "link": "https://uncrate.com/hatch-restore-3-alarm-clock/",
+      "guid": "https://uncrate.com/hatch-restore-3-alarm-clock/",
+      "image": "https://uncrate.com/assets_c/2026/05/hatch-alarm-3-11-thumb-960xauto-191110.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784914171000
     },
     {
       "title": "Polisbåt kraschade med bro – fem skadade",
@@ -171,6 +311,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784912400000
+    },
+    {
+      "title": "Lamborghini Revuelto Impavido",
+      "description": "",
+      "link": "https://uncrate.com/lamborghini-revuelto-impavido/",
+      "guid": "https://uncrate.com/lamborghini-revuelto-impavido/",
+      "image": "https://uncrate.com/assets_c/2026/07/lamborghini-revuelto-impavido-1-thumb-960xauto-192308.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784912400000
     },
     {
@@ -474,16 +624,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784900594000
     },
     {
-      "title": "Johan hörde rysk drönarvarning – i P1",
-      "description": "Johan Klinthammar från Katrineholm blev mäkta förvånad när han lyssnade på Lunchekot i P1. Plötsligt bröts nyhetssändningen av ett varningsmeddelande – på ryska.",
-      "link": "https://www.expressen.se/nyheter/sverige/johan-horde-rysk-dronarvarning-i-p1/",
-      "guid": "https://www.expressen.se/nyheter/sverige/johan-horde-rysk-dronarvarning-i-p1/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784900313000
-    },
-    {
       "title": "Scientists discover a compound that could supercharge aging muscle repair",
       "description": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
@@ -542,16 +682,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784898600000
-    },
-    {
-      "title": "Turkiet utlämnar svensk man – kopplas till kriminellt nätverk",
-      "description": "Dömd för grova brott – greps i Turkiet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93d1a904-f78f-4fae-8a08-1359e822ca30",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93d1a904-f78f-4fae-8a08-1359e822ca30",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784898514000
     },
     {
       "title": "Folk flyr bränderna i båtar: ”Katastrofal utveckling”",
@@ -624,14 +754,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784896800000
     },
     {
-      "title": "Elon Musk gör egen AI-version av ”The Odyssey”",
-      "description": "Elon Musk gillar inte biosuccén ”The Odyssey”. Nu vill han i stället göra en egen ”historiskt korrekt” version – med hjälp av AI.",
-      "link": "https://www.expressen.se/noje/film/elon-musk-gor-egen-ai-version-av-the-odyssey/",
-      "guid": "https://www.expressen.se/noje/film/elon-musk-gor-egen-ai-version-av-the-odyssey/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784896701000
+      "title": "Centerline Athletics Cross-Sport Collection",
+      "description": "",
+      "link": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
+      "guid": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
+      "image": "https://uncrate.com/assets_c/2026/06/centerline-athletics-4-thumb-960xauto-191740.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784896203000
     },
     {
       "title": "Det här kommer bli världens största fotbollsstadion",
@@ -704,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784894217000
     },
     {
-      "title": "Försvunna flickan hittad",
-      "description": "Försvann från skola",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ebe0344c-ac9f-4f3d-bb13-003b3cc5f4f8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ebe0344c-ac9f-4f3d-bb13-003b3cc5f4f8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784894096000
-    },
-    {
       "title": "Tågtrafiken på kustbanan börjar igen, men långa sommaravbrott väntar också 2027 och 2028",
       "description": "På måndag börjar tågen trafikera kustbanan igen. Men arbetena är inte klara så nya sommaravbrott behövs också framöver.",
       "link": "https://yle.fi/a/7-10102636?origin=rss",
@@ -772,16 +892,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784892000000
-    },
-    {
-      "title": "Drunkningslarm i hamnen",
-      "description": "En person till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a7a02e7d-4671-4a20-bcd8-fcea42a613e6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a7a02e7d-4671-4a20-bcd8-fcea42a613e6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784891534000
     },
     {
       "title": "Johnny Depp är Ebenezer Scrooge",
@@ -1004,26 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784879262000
     },
     {
-      "title": "Kronprinsessan Victoria och prins Daniel besöker Vasa i augusti",
-      "description": "Kronprinsessan Victoria och prins Daniel kommer till Vasa den 21 augusti 2026 för att fira Vasa hovrätts 250-årsjubileum.",
-      "link": "https://yle.fi/a/7-10102621?origin=rss",
-      "guid": "https://yle.fi/a/7-10102621",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784878453000
-    },
-    {
-      "title": "Yle Sporten sänder: Här är de hetaste kamperna i Kalevaspelen",
-      "description": "FM-tävlingarna i friidrott går av stapeln i Jyväskylä från fredag till söndag. Yle Sporten listar de mest framemotsedda grenarna.",
-      "link": "https://yle.fi/a/7-10102465?origin=rss",
-      "guid": "https://yle.fi/a/7-10102465",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784877984000
-    },
-    {
       "title": "Blåbärsbostock",
       "description": "Ett bakverk som är en blandning mellan french toast och mandelcroissant. Den här är fylld med blåbärskompott och är god ihop med vispad crème fraiche.",
       "link": "https://alltommat.expressen.se/recept/blabarsbostock/",
@@ -1224,26 +1314,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784836740000
     },
     {
-      "title": "Salt & Stone Natural Skincare Collection",
-      "description": "",
-      "link": "https://uncrate.com/salt-stone-natural-skincare-collection/",
-      "guid": "https://uncrate.com/salt-stone-natural-skincare-collection/",
-      "image": "https://uncrate.com/assets_c/2026/06/bergamot-hinoki-1-thumb-960xauto-191283.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784835117000
-    },
-    {
-      "title": "Grass Nuckles Mallet Putter",
-      "description": "",
-      "link": "https://uncrate.com/grass-nuckles-mallet-putter/",
-      "guid": "https://uncrate.com/grass-nuckles-mallet-putter/",
-      "image": "https://uncrate.com/assets_c/2026/07/grass-knuckles-33-thumb-960xauto-192279.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784833200000
-    },
-    {
       "title": "Oavgjort i det första kvalmötet",
       "description": "Ett jämnt första kvalmöte med Anderlecht slutade 1-1. Gästerna tog ledningen tidigt genom ett mål på frispark. Ledningen kvarstod till slutminuterna och med en man mer på planen lyckades Hammarby till",
       "link": "https://www.hammarbyfotboll.se/nyheter/1-1-hemma-mot-anderlecht",
@@ -1254,36 +1324,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784833189000
     },
     {
-      "title": "Ball and Buck x Luminox Automatic Field Watch",
-      "description": "",
-      "link": "https://uncrate.com/ball-and-buck-x-luminox-automatic-field-watch/",
-      "guid": "https://uncrate.com/ball-and-buck-x-luminox-automatic-field-watch/",
-      "image": "https://uncrate.com/assets_c/2026/07/ball-and-buck-luminox-automatic-field-watch-1-thumb-960xauto-192278.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784829600000
-    },
-    {
-      "title": "Warby Parker Sunglasses",
-      "description": "",
-      "link": "https://uncrate.com/warby-parker-sunglasses/",
-      "guid": "https://uncrate.com/warby-parker-sunglasses/",
-      "image": "https://uncrate.com/assets_c/2026/06/warby-parker-1-1-darkened-thumb-960xauto-191620.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784827802000
-    },
-    {
-      "title": "Range Rover GT Prototype",
-      "description": "",
-      "link": "https://uncrate.com/range-rover-gt-prototype/",
-      "guid": "https://uncrate.com/range-rover-gt-prototype/",
-      "image": "https://uncrate.com/assets_c/2026/07/range-rover-gt-prototype-thumb-960xauto-192263.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784826000000
-    },
-    {
       "title": "Bronsmedalj för regnet i stan – tredje kraftigaste på 26 år",
       "description": "I går uppmättes den tredje största mängden regn vid en av Stockholms stads mätstationer på hela 2000-talet.",
       "link": "https://www.mitti.se/nyheter/bronsmedalj-for-regnet-i-stan--tredje-kraftigaste-pa-26-ar-6.3.376851.963099060e",
@@ -1292,16 +1332,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784824200000
-    },
-    {
-      "title": "Vogel Paul Newman Roper Boot",
-      "description": "",
-      "link": "https://uncrate.com/vogel-paul-newman-roper-boot/",
-      "guid": "https://uncrate.com/vogel-paul-newman-roper-boot/",
-      "image": "https://uncrate.com/assets_c/2026/07/vogel-paul-newman-roper-booth-11-thumb-960xauto-192275.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784822400000
     },
     {
       "title": "Startelvan i hemmamötet med Anderlecht",
@@ -1322,16 +1352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784820600000
-    },
-    {
-      "title": "Paul Newman in Venice Framed Print",
-      "description": "",
-      "link": "https://uncrate.com/paul-newman-in-venice-framed-print/",
-      "guid": "https://uncrate.com/paul-newman-in-venice-framed-print/",
-      "image": "https://uncrate.com/assets_c/2026/07/paul-newman-venice-framed-print-darkened-thumb-960xauto-192262.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784818620000
     },
     {
       "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
@@ -1634,16 +1654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784769039000
     },
     {
-      "title": "Mercedes-Maybach GLS 680 SUV",
-      "description": "",
-      "link": "https://uncrate.com/mercedes-maybach-gls-680-suv/",
-      "guid": "https://uncrate.com/mercedes-maybach-gls-680-suv/",
-      "image": "https://uncrate.com/assets_c/2026/07/mercedes-maybach-gls-680-33-thumb-960xauto-192245.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784761200000
-    },
-    {
       "title": "Sömnforskare har en enda regel för sin dotter – och pekar ut de två år, då sömnen är som viktigast för barnet",
       "description": "Det är särskilt i två åldrar som sömnen är extra viktig, förklarar sömnforskaren Isabel Morales-Muñoz.",
       "link": "https://illvet.se/manniskan/somnforskare-bakom-ny-stor-studie-har-en-fast-regel-for-sin-dotter-nu-uppmanar-hon-alla-foraldrar-att-gora-likadant",
@@ -1652,16 +1662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1784757641000
-    },
-    {
-      "title": "Marantz CD 70 Player",
-      "description": "",
-      "link": "https://uncrate.com/marantz-cd-70-player/",
-      "guid": "https://uncrate.com/marantz-cd-70-player/",
-      "image": "https://uncrate.com/assets_c/2026/07/marantz-model-70-amp-cd-70-player-1-thumb-960xauto-192233.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784757600000
     },
     {
       "title": "HTV: Se första intervjun med Amin Boudri",
