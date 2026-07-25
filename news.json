@@ -1,8 +1,108 @@
 {
-  "updatedAt": "2026-07-24T21:54:50.927Z",
+  "updatedAt": "2026-07-25T01:44:01.111Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Melania saknas på korrespondensmiddagen",
+      "description": "Anordnas igen efter mordförsöket i maj",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784941286000
+    },
+    {
+      "title": "Fartyg beskjutet i Omanbukten",
+      "description": "”Inte längre på väg till Iran”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e19daea3-be55-43b0-bed8-617e5ec34b15",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e19daea3-be55-43b0-bed8-617e5ec34b15",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784940819000
+    },
+    {
+      "title": "”Decenniets skilsmässa” klar – skyldig 6 miljarder",
+      "description": "”Decenniets skilsmässa” har just gått igenom. Mångmiljardären Chey Tae-won ska betala sin exfru drygt 6 miljarder kronor.",
+      "link": "https://www.expressen.se/nyheter/varlden/decenniets-skilsmassa-klar-skyldig-6-miljarder/",
+      "guid": "https://www.expressen.se/nyheter/varlden/decenniets-skilsmassa-klar-skyldig-6-miljarder/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784938757000
+    },
+    {
+      "title": "Barron kan tvingas vittna om Tatebröder",
+      "description": "Donald Trumps yngsta son Barron har länge varit en stor beundrare av Andrew Tate. Nu vill en senator utreda om 20-åringen har varit inblandad i något av brotten som Tate är anklagad för.",
+      "link": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
+      "guid": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784937973000
+    },
+    {
+      "title": "BMW R 12 G/S GS Trophy Competition Bike",
+      "description": "",
+      "link": "https://uncrate.com/bmw-r-12-gs-gs-trophy-competition-bike/",
+      "guid": "https://uncrate.com/bmw-r-12-gs-gs-trophy-competition-bike/",
+      "image": "https://uncrate.com/assets_c/2026/07/bmw-r12gs-gs-trophy-competition-bike-1-thumb-960xauto-192320.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784934000000
+    },
+    {
+      "title": "Stanley Adventure Cooler",
+      "description": "",
+      "link": "https://uncrate.com/stanley-adventure-cooler/",
+      "guid": "https://uncrate.com/stanley-adventure-cooler/",
+      "image": "https://uncrate.com/assets_c/2026/07/stanley-adventure-cooler-darkened-thumb-960xauto-192315.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784932200000
+    },
+    {
+      "title": "Paramounts köp av Warner skjuts upp",
+      "description": "Enligt handlingar som Paramount har lämnat in till domstolen väntas förvärvet inte kunna bli klart förrän i juni nästa år. Paramount Skydance meddelar att man gått med på att skjuta upp köpet av Warner Bros Discovery. Anledningen är olika rättsprocesser, rapporterar CNBC. Enligt handlingar som Paramount har lämnat in till domstolen väntas förvärvet inte kunna […]",
+      "link": "https://www.dagensps.se/bors-finans/paramounts-kop-av-warner-skjuts-upp/",
+      "guid": "https://www.dagensps.se/?p=1658903",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/paramount-skydance-kop-av-warner-bros-di.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784930683000
+    },
+    {
+      "title": "Blandat på Wall Street när oljepriset föll",
+      "description": "Vid stängning var Dow Jones industriindex på plus 0,5 procent, breda S&P 500 steg 0,1 procent och tekniktunga Nasdaqs kompositindex sjönk 0,6 procent. De ledande indexen på Wall Street svängde upp och ned på handelsveckans sista dag när oljepriserna föll för första gången på en vecka – och landade till slut i ett blandat utfall. […]",
+      "link": "https://www.dagensps.se/bors-finans/blandat-pa-wall-street-nar-oljepriset-foll/",
+      "guid": "https://www.dagensps.se/?p=1658901",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/bade-uppat-och-nedat-nar-usa-borsen-stan.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784930652000
+    },
+    {
+      "title": "Rezvani Dune Off-Road Supercar",
+      "description": "",
+      "link": "https://uncrate.com/rezvani-dune-off-road-supercar/",
+      "guid": "https://uncrate.com/rezvani-dune-off-road-supercar/",
+      "image": "https://uncrate.com/assets_c/2026/07/rezvani-dune-off-road-supercar-2-thumb-960xauto-192317.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1784930400000
+    },
+    {
+      "title": "Gaslarm utanför Biomedicinskt centrum i Uppsala",
+      "description": "Pådrag vid container",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e1775c5-0a78-40bb-aa8e-4bcd186ffccf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e1775c5-0a78-40bb-aa8e-4bcd186ffccf",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784930316000
+    },
     {
       "title": "Trump i ”hämndläge” – tappat tålamodet på Iran",
       "description": "Trumps tålamod tryter. Kriget mot Iran tar inte slut och missnöjet växer i USA. Nu är han i stället inställd på hämnd, enligt källor till Wall Street Journal .",
@@ -344,16 +444,6 @@
       "timestamp": 1784911980000
     },
     {
-      "title": "Stopp på E20 efter krock",
-      "description": "”Blockerar hela vägen”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f328e77f-d155-4286-8ee1-4e1c14e4f484",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f328e77f-d155-4286-8ee1-4e1c14e4f484",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784911363000
-    },
-    {
       "title": "Den viktiga metallen skulle rusa i pris – experterna fick fel",
       "description": "Det blev ingen prischock för aluminium, åtminstone inte ännu. Flera orsaker har dämpat problemen som ändå har uppstått. Den esskalerande konflikten mellan Iran, USA och Israel fick aluminiumpriset att skjuta upp i början, och en del bedömare trodde att det skulle fortsätta i den stilen. Istället har det fallit tillbaka till nivåer som rådde före […]",
       "link": "https://www.dagensps.se/bors-finans/den-viktiga-metallen-skulle-rusa-i-pris-experterna-fick-fel/",
@@ -434,26 +524,6 @@
       "timestamp": 1784907000000
     },
     {
-      "title": "18-årige ”Chai” pekas ut för 77 brott – inte allvarligt sjuk",
-      "description": "18-årige ”Chai” pekas ut som ledande för nätverken ”The Com” och ”764”. Samtidigt misstänks han för 77 brott, bland annat mordförsök och våldtäkt. Nu är den rättspsykiatriska undersökningen färdig – den visar att mannen inte lider av en allvarlig psykisk störning, enligt uppgifter till Expressen.",
-      "link": "https://www.expressen.se/nyheter/sverige/18-arige-chai-pekas-ut-for--77-brott-inte-allvarligt-sjuk/",
-      "guid": "https://www.expressen.se/nyheter/sverige/18-arige-chai-pekas-ut-for--77-brott-inte-allvarligt-sjuk/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784906566000
-    },
-    {
-      "title": "Flera döda i attack mot vapenmässa i Kiev",
-      "description": "Slog till mot vapenmässa utanför Kiev",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1eb62701-d49b-424e-98b0-362666c822d8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1eb62701-d49b-424e-98b0-362666c822d8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784905777000
-    },
-    {
       "title": "En sista trailer för Coyote vs. Acme",
       "description": "Inför premiären nästa månad Snart är det dags för premiär för den animerade filmen Coyote vs. Acme , en film som var färdiginspelad redan 2022 men som Warner Bros. Discovery då lade på hyllan för att använda produktionskostnaden av filmen som skatteavdrag. Efter protester ändrade sig dock filmbolaget förra året vilket ledde till att filmen nu snart har premiär. I Coyote vs. Acme beslutar sig Wile E. Coyote, karaktären som kallas för \"Gråben\" här i Sverige, att stämma Acme, företaget som har tillverkat explosiva varor och annat som skadat Coyote otaliga gånger när han använt produkterna för att försöka fånga sin nemesis Roadrunner (Hjulben). I rollen som Coyotes advokat syns Will Forte och John Cena spelar rollen som Acmes VD. Coyote vs. Acme går upp på amerikanska biografer den 28 augusti. Svensk premiär för Gråben vs Acme uppges bli den 18 september, skriver Moviezine. Ni hittar den senaste trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/en-sista-trailer-for-coyote-vs-acme/494369/ L&auml;s mer om Coyote vs. Acme , Wile E. Coyote , Gråben , Warner Bros. Discovery , Looney Tunes , Animerad film",
       "link": "https://feber.se/film/en-sista-trailer-for-coyote-vs-acme/494369/?utm_source=rss&utm_medium=feed",
@@ -492,16 +562,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1784903959000
-    },
-    {
-      "title": "Misstanken: Ali Shehabs order till pojken i Gävle",
-      "description": "Foxtrot-toppen Ali Shehab beställde skjutningen i Gävle, enligt misstankarna. En pojke som var på socialtjänstens radar misstänks ha utfört den. Nu har åklagaren väckt bevistalan mot pojken som misstänks för 29 mordförsök – med ett polisvapen.",
-      "link": "https://www.expressen.se/nyheter/sverige/misstanken-ali-shehabs-order-till-pojken-i-gavle/",
-      "guid": "https://www.expressen.se/nyheter/sverige/misstanken-ali-shehabs-order-till-pojken-i-gavle/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784903675000
     },
     {
       "title": "Det här hände under första dagen av Kalevaspelen: Saara Keskitalo vinnare efter dramatik – Nina Chydenius överlägsen",
@@ -562,16 +622,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784901600000
-    },
-    {
-      "title": "Man död i drunkning",
-      "description": "Utreds av polis",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc26b0e2-dc8a-418b-a073-7afba354d207",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc26b0e2-dc8a-418b-a073-7afba354d207",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784901427000
     },
     {
       "title": "Anduril kan få biljonvärdering – branschen exploderar",
@@ -644,16 +694,6 @@
       "timestamp": 1784899800000
     },
     {
-      "title": "Britter vill slippa EU-köerna: ”Sätt press på varje ledare”",
-      "description": "Med start i helgen väntas 2,2 miljoner britter resa utomlands för sommarlovet, rakt in i det omdiskuterade EU-systemet EES som kräver fingeravtryck och ansiktsbilder vid varje gränspassage. Brittiska ledare uppmanar den nya premiärminister Andy Burnham att ringa runt till EU:s ledare för att få systemet pausat. Han har precis kommit till makten, men nu får […]",
-      "link": "https://www.dagensps.se/varlden/politik/britter-vill-slippa-eu-koerna-satt-press-pa-varje-ledare/",
-      "guid": "https://www.dagensps.se/?p=1658837",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/andy-burnham-ees.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784899702000
-    },
-    {
       "title": "A new antiviral could stop measles before an outbreak takes off",
       "description": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
@@ -682,16 +722,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784898600000
-    },
-    {
-      "title": "Folk flyr bränderna i båtar: ”Katastrofal utveckling”",
-      "description": "I sydvästra Frankrike flyr folk i båtar för att undkomma bränderna. Spanien har utlyst nödläge i delar av landet. EU skickar fyra brandbekämpningsplan till Spanien och tre till Frankrike. I sydvästra Frankrike har över 40 000 människor tvingats lämna sina hem, enligt Le Figaro. Under natten har branden nått den turisttäta halvön Cap Ferret vid Atlantkusten. ”Klockan […]",
-      "link": "https://www.dagensps.se/varlden/folk-flyr-branderna-i-batar-katastrofal-utveckling/",
-      "guid": "https://www.dagensps.se/?p=1658841",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-romain-perrocheautt-c4326ca1.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784898477000
     },
     {
       "title": "Då är hettan tillbaka i stan: \"28 grader är inte otroligt\"",
@@ -1274,26 +1304,6 @@
       "timestamp": 1784847600000
     },
     {
-      "title": "Aston Martin Vanquish 25",
-      "description": "",
-      "link": "https://uncrate.com/aston-martin-vanquish-25/",
-      "guid": "https://uncrate.com/aston-martin-vanquish-25/",
-      "image": "https://uncrate.com/assets_c/2026/07/aston-martin-vanquish-25-1-thumb-960xauto-192277.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784844000000
-    },
-    {
-      "title": "Garb: Program",
-      "description": "",
-      "link": "https://uncrate.com/garb-program/",
-      "guid": "https://uncrate.com/garb-program/",
-      "image": "https://uncrate.com/assets_c/2026/07/garb-program-darkened-thumb-960xauto-192286.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784840400000
-    },
-    {
       "title": "HTV: Röster efter hemmamötet med Anderlecht",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-efter-hemmamoetet-med-anderlecht",
@@ -1302,16 +1312,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784837133000
-    },
-    {
-      "title": "RY3 Whiskey Cask Strength Set",
-      "description": "",
-      "link": "https://uncrate.com/ry3-whiskey-cask-strength-set/",
-      "guid": "https://uncrate.com/ry3-whiskey-cask-strength-set/",
-      "image": "https://uncrate.com/assets_c/2026/07/ry3-whiskey-2-thumb-960xauto-192283.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784836740000
     },
     {
       "title": "Oavgjort i det första kvalmötet",
@@ -2794,36 +2794,6 @@
       "timestamp": 1784341454000
     },
     {
-      "title": "Stammiskrogen Grodhavet stänger efter konkurs",
-      "description": "Efter 14 år vid Ulvsundasjön i Huvudsta tvingas Restaurang Grodhavet stänga efter konkurs. Ägaren Tobias Strede riktar kritik mot Skatteverket och beskriver sorgen.",
-      "link": "https://www.mitti.se/nyheter/stammiskrogen-grodhavet-stanger-efter-konkurs-6.3.375850.ddf5a2bc41",
-      "guid": "https://www.mitti.se/nyheter/stammiskrogen-grodhavet-stanger-efter-konkurs-6.3.375850.ddf5a2bc41",
-      "image": "https://www.mitti.se/image-3.376658.300609.20260717163026.1.e52f02921c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784304000000
-    },
-    {
-      "title": "Övergivna grusplanen kan få nytt liv – som tennisbana",
-      "description": "Sayid Zommorodi föreslår att bygga en tennisanläggning på den gamla grusplanen på Glimmervägen i Huddinge. Han hoppas skapa en mötesplats för sportintresserade och unga.",
-      "link": "https://www.mitti.se/nyheter/overgivna-grusplanen-kan-fa-nytt-liv--som-tennisbana-6.3.375108.c4a44d573c",
-      "guid": "https://www.mitti.se/nyheter/overgivna-grusplanen-kan-fa-nytt-liv--som-tennisbana-6.3.375108.c4a44d573c",
-      "image": "https://www.mitti.se/image-3.376583.300365.20260717155125.1.42f29bc191?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784301600000
-    },
-    {
-      "title": "Man häktad för mordet i Sköndal",
-      "description": "En man har häktats för mordet i Sköndal.",
-      "link": "https://www.mitti.se/nyheter/man-haktad-for-mordet-i-skondal-6.3.376522.d674ee9841",
-      "guid": "https://www.mitti.se/nyheter/man-haktad-for-mordet-i-skondal-6.3.376522.d674ee9841",
-      "image": "https://www.mitti.se/image-3.363656.300654.20260717143153.1.3b5ab7216e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784296905000
-    },
-    {
       "title": "Your fingers may hold a secret of human brain evolution",
       "description": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
@@ -2834,66 +2804,6 @@
       "timestamp": 1784289759000
     },
     {
-      "title": "Man misstänks ha fotograferat skyddsobjekt från bil",
-      "description": "Enligt polisen ska mannen, som är utländsk medborgare, ha fotograferat området med hjälp av bilens inbyggda kameror. Efter en kontroll på plats beslutade polisen att gripa mannen och ta bilen i beslag.",
-      "link": "https://www.mitti.se/nyheter/man-misstanks-ha-fotograferat-skyddsobjekt-fran-bil-6.3.376519.b0006d8e52",
-      "guid": "https://www.mitti.se/nyheter/man-misstanks-ha-fotograferat-skyddsobjekt-fran-bil-6.3.376519.b0006d8e52",
-      "image": "https://www.mitti.se/image-3.350712.300648.20260717134622.1.71f95b53eb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784286559000
-    },
-    {
-      "title": "Brand i villaområde i Järfälla – spridningsrisk till naturreservat",
-      "description": "En fullt utvecklad brand i ett garage i Järfälla har spridit sig till två villor. Inga uppgifter om personskador och orsaken till branden är ännu oklar.",
-      "link": "https://www.mitti.se/nyheter/brand-i-villaomrade-i-jarfalla--spridningsrisk-till-naturreservat-6.3.376514.cd4bed8a3b",
-      "guid": "https://www.mitti.se/nyheter/brand-i-villaomrade-i-jarfalla--spridningsrisk-till-naturreservat-6.3.376514.cd4bed8a3b",
-      "image": "https://www.mitti.se/image-3.376723.300647.20260721075929.1.3bf386e678?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784284538000
-    },
-    {
-      "title": "17-åring döms efter skjutning – blev svårt misshandlad",
-      "description": "En 17-åring döms för mordförsök och grovt vapenbrott i Alby vid Södertörns tingsrätt.",
-      "link": "https://www.mitti.se/nyheter/17aring-doms-efter-skjutning--blev-svart-misshandlad-6.3.375748.a93fce808a",
-      "guid": "https://www.mitti.se/nyheter/17aring-doms-efter-skjutning--blev-svart-misshandlad-6.3.375748.a93fce808a",
-      "image": "https://www.mitti.se/image-3.353065.300642.20260717114643.651f909b69?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784280291000
-    },
-    {
-      "title": "Räddningstjänstens vädjan till badgästerna – parkera rätt",
-      "description": "Felparkerade bilar vid stränder kan stoppa brandbilar och fördröja livsviktiga insatser. Räddningstjänsten uppmanar allmänheten: parkera rätt och håll utryckningsvägar fria.",
-      "link": "https://www.mitti.se/nyheter/raddningstjanstens-vadjan-till-badgasterna--parkera-ratt-6.3.373995.ef7749bb80",
-      "guid": "https://www.mitti.se/nyheter/raddningstjanstens-vadjan-till-badgasterna--parkera-ratt-6.3.373995.ef7749bb80",
-      "image": "https://www.mitti.se/image-3.333716.299709.20260717094514.1.d7c38396cb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784279700000
-    },
-    {
-      "title": "Små barn flydde från hotfull man mitt i natten",
-      "description": "Polisen fick larm om två barn med ett tredje barn i famnen som flydde från en hotfull man i ett bostadsområde.",
-      "link": "https://www.mitti.se/nyheter/sma-barn-flydde-fran-hotfull-man-mitt-i-natten-6.3.376497.a91df67746",
-      "guid": "https://www.mitti.se/nyheter/sma-barn-flydde-fran-hotfull-man-mitt-i-natten-6.3.376497.a91df67746",
-      "image": "https://www.mitti.se/image-3.375463.300634.20260717081041.1.3c9c32e715?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784273994000
-    },
-    {
-      "title": "Ny avstängning att se upp för på tvärbanan",
-      "description": "Nästa planerade avstängning av Tvärbanan drar snart i gång.",
-      "link": "https://www.mitti.se/nyheter/ny-avstangning-att-se-upp-for-pa-tvarbanan-6.3.376494.27a9fac2da",
-      "guid": "https://www.mitti.se/nyheter/ny-avstangning-att-se-upp-for-pa-tvarbanan-6.3.376494.27a9fac2da",
-      "image": "https://www.mitti.se/image-3.341088.300630.20260717074259.1.b21a2f5a2a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784268320000
-    },
-    {
       "title": "Scientists built a camera that can track invisible particles in 3D",
       "description": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
@@ -2902,36 +2812,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784268297000
-    },
-    {
-      "title": "Här är stans nya kajbad – och snart öppnar nästa",
-      "description": "Nya kajbadplatser och bryggor öppnar under 2025 och 2026 i centrala Stockholm. Välkommet tycker Södermalmsborna Mitt i har pratat med.",
-      "link": "https://www.mitti.se/nyheter/har-ar-stans-nya-kajbad--och-snart-oppnar-nasta-6.3.375987.e6662371e1",
-      "guid": "https://www.mitti.se/nyheter/har-ar-stans-nya-kajbad--och-snart-oppnar-nasta-6.3.375987.e6662371e1",
-      "image": "https://www.mitti.se/image-3.376665.300620.20260717142635.13e905b18a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784264400000
-    },
-    {
-      "title": "Miljonnota för ny tennishall på Södermalm – staden säger nej",
-      "description": "Hellas tennisklubb: Nej till stöd för ny tennishall i Eriksdal",
-      "link": "https://www.mitti.se/nyheter/miljonnota-for-ny-tennishall-pa-sodermalm--staden-sager-nej-6.3.372779.21f935635e",
-      "guid": "https://www.mitti.se/nyheter/miljonnota-for-ny-tennishall-pa-sodermalm--staden-sager-nej-6.3.372779.21f935635e",
-      "image": "https://www.mitti.se/image-3.375859.298660.20260717070004.e5299cd659?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784264100000
-    },
-    {
-      "title": "Rusning till fritidsklubbarna i Järva",
-      "description": "Andelen 10–13-åringar i Järva som går på fritidsklubb har ökat med 63 procent på ett år. Slopad avgift pekas ut som en viktig orsak bakom ökningen.",
-      "link": "https://www.mitti.se/nyheter/rusning-till-fritidsklubbarna-i-jarva-6.3.374902.475f065cd6",
-      "guid": "https://www.mitti.se/nyheter/rusning-till-fritidsklubbarna-i-jarva-6.3.374902.475f065cd6",
-      "image": "https://www.mitti.se/image-3.376371.299967.20260717051523.1.6f7440be6a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784263500000
     }
   ]
 }
