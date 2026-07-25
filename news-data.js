@@ -1,11 +1,191 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-25T10:20:02.025Z",
+  "updatedAt": "2026-07-25T12:59:12.462Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Sjuksköterska hos 1177 anmäls – efter föräldrarnas samtal: ”Riskerat patientsäkerheten”",
+      "description": "En sjuksköterska hos 1177 har utretts av Ivo – som fann ”allvarliga brister” i en mängd patientfall. Bland annat gavs felaktiga medicinråd för en treåring. Sjuksköterskan själv medger att det finns anledning till kritik.",
+      "link": "https://www.expressen.se/nyheter/sverige/sjukskoterska-hos-1177-anmals-efter-foraldrarnas-samtal-riskerat-patientsakerheten/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sjukskoterska-hos-1177-anmals-efter-foraldrarnas-samtal-riskerat-patientsakerheten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784984002000
+    },
+    {
+      "title": "Jan Emanuel om våldtäktsdomen: ”Stäng särskilda avdelningar”",
+      "description": "Jan Emanuel är näst i ledet att reagera på den uppmärksammade våldtäktsdomen i Dalarna. Han säger att det är fel att den dömda mannen hamnar på en särskild avdelning i fängelset. – Jag tycker det är att skilja på folk och folk, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/jan-emanuel-om-valdtaktsdomen-stang-sarskilda-avdelningar/",
+      "guid": "https://www.expressen.se/nyheter/sverige/jan-emanuel-om-valdtaktsdomen-stang-sarskilda-avdelningar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784982956000
+    },
+    {
+      "title": "Putins bakslag",
+      "description": "Slår till mot viktiga målen – sjätte natten i rad",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-mot-ryska-lagerlokaler-inne-pa-sjatte-natten",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-mot-ryska-lagerlokaler-inne-pa-sjatte-natten",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784982889000
+    },
+    {
+      "title": "Recension: Skulle du vilja bli en chattbot efter din död?",
+      "description": "Döden skiljer oss inte åt är en tankeväckande dokumentär om en familj som gör en AI-klon av sin döende pappa.",
+      "link": "https://yle.fi/a/7-10102587?origin=rss",
+      "guid": "https://yle.fi/a/7-10102587",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784982613000
+    },
+    {
+      "title": "Sverige – ett allt hetare resmål",
+      "description": "57 procent fler har sökt på bokningar i Sverige i juli och augusti på boendejämförelsesajten Trivago i Storbritannien i år jämfört med förra året. För Norge har det ökat med 55 procent och för Danmark med 29 procent jämfört med förra året, skriver Financial Times. När värmeböljor och skogsbränder ökar i södra Europa växer intresset […]",
+      "link": "https://www.dagensps.se/weekend/resor/sverige-ett-allt-hetare-resmal/",
+      "guid": "https://www.dagensps.se/?p=1658974",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/det-svenska-svalare-sommarvadret-lockar.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784982550000
+    },
+    {
+      "title": "Jobbångest i slutet av semestern",
+      "description": "Att känna jobbångest i slutet av semestern är vanligt menar Nina Jansdotter, beteendevetare och karriärcoach. Semestern går mot sitt slut och för många smyger en välbekant känsla på. Tankarna på den överfulla inkorgen, höstens deadlines och annat som stressar, gör att ledigheten inte längre känns lika avkopplande. Jobbångest är en vanlig reaktion Jobbångest efter […]",
+      "link": "https://www.dagensps.se/karriar/jobbangest-i-slutet-av-semestern/",
+      "guid": "https://www.dagensps.se/?p=1658962",
+      "image": "https://images.dagensps.se/app/uploads/2025/07/8-36.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784982480000
+    },
+    {
+      "title": "20 000 väntas fira Stockholm pride 2026 – bästa tipsen för veckan",
+      "description": "Så här kan du fira Stockholm Pride 2026.",
+      "link": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
+      "guid": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
+      "image": "https://www.mitti.se/image-3.247291.301007.20260725124348.e5038bafc4?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784981580000
+    },
+    {
+      "title": "Varnar för bullbedragare",
+      "description": "Fula knepet – slår till i folks hem",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784980848000
+    },
+    {
+      "title": "Kvinna hamnade på akuten efter en av livets lyckligaste dagar – nu har forskare hittat svaret på den märkliga händelsen",
+      "description": "Det låter helt paradoxalt – men det är det faktiskt inte...",
+      "link": "https://illvet.se/manniskan/kvinna-hamnade-pa-akuten-efter-en-av-livets-lyckligaste-dagar-nu-har-forskare-hittat-svaret-pa-den-markliga-handelsen",
+      "guid": "https://illvet.se/manniskan/kvinna-hamnade-pa-akuten-efter-en-av-livets-lyckligaste-dagar-nu-har-forskare-hittat-svaret-pa-den-markliga-handelsen",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784980816000
+    },
+    {
+      "title": "Tomb Raider Catalyst dröjer till 2028",
+      "description": "Amazon Games flyttar fram släppet för att undvika mätta fansen Lara Croft-fans får rusta sig med gnutta tålamod då Tomb Raider: Catalyst inte längre kommer att släppas under 2027 utan det kommer istället att dyka upp under 2028. Enligt Amazon Games vill de ge sina Tomb Raider-spel lite mer andrum på marknaden så folk inte tröttnar allt för fort. Under början av nästa år ska de nämligen släppa Tomb Raider: Legacy of Atlantis vilket är en modern tolkning av originalspelet från 1996. Så genom att flytta fram nästa Tomb Raider-kapitel undviker man att de två spelen konkurrerar med varandra allt för mycket. L&auml;s vidare och kommentera: https://feber.se/spel/tomb-raider-catalyst-drojer-till-2028/494407/ L&auml;s mer om Lara Croft , Tomb Raider: Catalyst , Amazon Games , Tomb Raider: Legacy of Atlantis",
+      "link": "https://feber.se/spel/tomb-raider-catalyst-drojer-till-2028/494407/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/tomb-raider-catalyst-drojer-till-2028/494407/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784980800000
+    },
+    {
+      "title": "Publikinformation: Bortamötet med BP",
+      "description": "På söndagen fortsätter Allsvenskan när herrarna ställs mot BP på Grimsta IP. Här finns samlad information som vi ber dig att ta del av inför ditt besök i Västerort.Arena- och biljettinformationArena:",
+      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-bortamotet-med-bp",
+      "guid": "7722bb4b-7a50-426e-a2e9-89f0d0e1088b",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/d5edcb1cc6c9a2e206be8d2d3d7556d144e3a8fc-1009x672.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784980800000
+    },
+    {
+      "title": "Noah Lyles slog till med världsårsbästa på 100 meter: ”Jag är fortfarande världens snabbaste man”",
+      "description": "USA:s Noah Lyles är ny etta i världen i år på 100 meter. Lyles noterades för tiden 9,79 vilket också gav honom guld i de nationella mästerskapen.",
+      "link": "https://yle.fi/a/7-10102662?origin=rss",
+      "guid": "https://yle.fi/a/7-10102662",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784979213000
+    },
+    {
+      "title": "Wilma skulle på solsemester – hamnade på fel ö",
+      "description": "Wilma Rippert och Antaris Vannar hade tänkt njuta av den grekiska solen. Och grekiskt blev det – men fel ö. Deras plan var på väg mot Karpathos, men kraftiga vindar gjorde att de landade på Rhodos i stället. – Det var så himla obehagligt när piloten avbröt landningen, säger Wilma Rippert.",
+      "link": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784979059000
+    },
+    {
+      "title": "EIF:s P16-pojkar inledde ligaspelet med seger: ”Det här var ett tufft lag”",
+      "description": "Den talrika publiken på Centrumplan i Ekenäs fick se hemmalaget vinna sin första match i fotbollens södra liga i åldersklassen P16.",
+      "link": "https://yle.fi/a/7-10102552?origin=rss",
+      "guid": "https://yle.fi/a/7-10102552",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784978969000
+    },
+    {
+      "title": "I Mörskom kan Johan Savonius provköra sina tolv bilar mitt i natten utan att störa någon",
+      "description": "När pensionen närmar sig väljer många en lättskött bostad. Johan Savonius bytte Sibbo mot ett gammalt hus med ridstall i Mörskom, som han fyllt med tolv bilar.",
+      "link": "https://yle.fi/a/7-10099020?origin=rss",
+      "guid": "https://yle.fi/a/7-10099020",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784977514000
+    },
+    {
+      "title": "Blade Runner 2099 har premiär i november",
+      "description": "Och här är den första trailern Den 25 november är det premiär för Blade Runner-serien Blade Runner 2099 på Prime Video. Handlingen tar vid ett halvsekel efter händelserna i filmen Blade Runner 2049 i ett Los Angeles som inte längre styrs av människor. Serien kretsar kring Cora, en kvinna på flykt som i ett sista desperat försök att bli fri antar identiteten som en Blade Runner. Hon tvingas samarbeta med Olwen (spelad av Michelle Yeoh), en replikant som bara har dagar kvar att leva. Tillsammans jagar de en rymling som bär på en hemlighet som kan få hela staden att kollapsa. I serien hittar vi skådespelare som Michelle Yeoh, Hunter Schafer, Matthew Needham och Tom Burke. L&auml;s vidare och kommentera: https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/ L&auml;s mer om Blade Runner 2099 , Prime Video , Michelle Yeoh , Ridley Scott , Silka Luisa",
+      "link": "https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784977200000
+    },
+    {
+      "title": "HTV: Douglas inför BP - \"Visa bästa versionen av oss själva\"",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-douglas-infoer-bp-visa-baesta-versionen-av-oss-sjaelva",
+      "guid": "14afbf71-bfb9-49b6-953d-f4a20d179488",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/5f8a07f33397ecdeddc11983a8cc9c1e5f9570cd-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1784977075000
+    },
+    {
+      "title": "Indiska kackerlacksrörelsen jublar då undervisningsministern avgår",
+      "description": "Demonstrerande unga indier har krävt undervisningsministerns avgång i flera veckors tid. Nu avgår han och protesterna ska avslutas.",
+      "link": "https://yle.fi/a/7-10102661?origin=rss",
+      "guid": "https://yle.fi/a/7-10102661",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784975510000
+    },
+    {
       "title": "Johanna, 39, fick köttallergi av fästingbett",
-      "description": "I flera år fick Johanna Cagner olika allergisymptom utan att veta varför. Till slut knäckte en specialistläkaren koden. – Över telefon säger han ”jag tror att du är köttallergiker”, varav jag började asgarva för jag var ju vegetarian, säger Johanna Cagner.",
+      "description": "I flera år fick Johanna Cagner olika allergisymptom utan att veta varför. Till slut knäckte en specialistläkaren koden. – Över telefon säger han ”jag tror att du är köttallergiker”, varpå jag började asgarva för jag var ju vegetarian, säger Johanna Cagner.",
       "link": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
       "guid": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
       "image": "",
@@ -32,16 +212,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784973600000
-    },
-    {
-      "title": "Varnar för bullbedragare",
-      "description": "Fula knepet – slår till i folks hem",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784973412000
     },
     {
       "title": "Flera döda i ryska och ukrainska attacker",
@@ -94,6 +264,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784970388000
     },
     {
+      "title": "Ny upptäckt: Din mamma gav dig livet, men hon lämnade även efter sig något annat i din hjärna",
+      "description": "Det kan ha dolt sig djupt inne i ditt huvud och följt med dig genom åren.",
+      "link": "https://illvet.se/manniskan/ny-upptackt-din-mamma-gav-dig-livet-men-hon-lamnade-aven-efter-sig-nagot-annat-i-din-hjarna",
+      "guid": "https://illvet.se/manniskan/ny-upptackt-din-mamma-gav-dig-livet-men-hon-lamnade-aven-efter-sig-nagot-annat-i-din-hjarna",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784970047000
+    },
+    {
       "title": "Nästa God of War-spel är officiellt under utveckling",
       "description": "Cory Barlog bekräftar att Kratos återvänder Under San Diego Comic-Con meddelade Cory Barlog från Santa Monica Studio att utvecklingen av nästa stora God of War-spel är i full gång. Inte helt oväntat är detaljerna kring detta spel fortfarande få, men det bekräftades att Kratos återigen kommer att stå i centrum och att handlingen i det spelet kommer vara starkt kopplat med sidospelet God of War Laufey, som fokuserar på Kratos fru Faye. Kratos har som bekant redan mördat de flesta gudarna i både den grekiska och nordiska mytologin. Det har antytts att han nu kommer ge sig på helt nya mytologier, där bland annat egyptiska och tibetanska gudar har nämnts som möjliga motståndare. I samband med allt det här fick God of War Laufey också ett officiellt släppdatum, vilket är den 16 februari 2027. L&auml;s vidare och kommentera: https://feber.se/spel/nasta-god-of-war-spel-ar-officiellt-under-utveckling/494417/ L&auml;s mer om God of War , Santa Monica Studio , Cory Barlog , Kratos , God of War Laufey , Playstation",
       "link": "https://feber.se/spel/nasta-god-of-war-spel-ar-officiellt-under-utveckling/494417/?utm_source=rss&utm_medium=feed",
@@ -104,7 +284,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784970000000
     },
     {
-      "title": "Över 200 000 evakuerade undan bränderna i Frankrike och Spanien",
+      "title": "Över 270 000 evakuerade undan bränderna i Frankrike och Spanien",
       "description": "Skogsbränderna i Frankrike och Spanien sprider sig och hotar nu storstäderna Bordeaux och Madrid.",
       "link": "https://yle.fi/a/7-10102658?origin=rss",
       "guid": "https://yle.fi/a/7-10102658",
@@ -275,7 +455,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Trumps mystiska besked: Ställer upp igen",
-      "description": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondensmiddag i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval.",
+      "description": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondentmiddagen i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval.",
       "link": "https://www.expressen.se/nyheter/varlden/trumps-skamtsamma-besked-staller-upp-igen/",
       "guid": "https://www.expressen.se/nyheter/varlden/trumps-skamtsamma-besked-staller-upp-igen/",
       "image": "",
@@ -484,16 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784955588000
     },
     {
-      "title": "Trump skarpa angrepp vid pressgalan möttes av tystnad",
-      "description": "President Donald Trump höll ett över en timme långt tal vid den omstartade White House Correspondents’ Dinner på Waldorf Astoria i Washington på fredagskvällen. Kvällen som skulle vara pressfest blev en uppvisning i personangrepp, med skämt som sällan fick publiken att skratta. ”Som jag sa för tre månader sedan, showen måste fortsätta”, inledde Trump inför […]",
-      "link": "https://www.dagensps.se/varlden/politik/trump-skarpa-angrepp-vid-pressgalan-skamten-mottes-av-tystnad/",
-      "guid": "https://www.dagensps.se/?p=1658914",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-mark-schiefelbein-aptt-91e1cd31.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784955211000
-    },
-    {
       "title": "Här är era tankar om nakenhet: ”Jag är stolt över den finländska nakenkulturen”",
       "description": "Rena rama nakenparaden uppstod i relationspoddens brevlåda när vi frågade er om er syn på nakenhet.",
       "link": "https://yle.fi/a/7-10102554?origin=rss",
@@ -512,26 +682,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784953213000
-    },
-    {
-      "title": "Rysk e-handelsjätte i Ukrainas skottlinje",
-      "description": "Efter månader av attacker mot oljedepåer och raffinaderier i Ryssland tycks Ukraina ha breddat sitt fokus. Ukrainska drönare har den senaste veckan attackerat enorma e-handelslager tillhörande den ryska e-handelsjätten Wildberries. Enligt Ukraina är företaget delaktigt i leveranser till den ryska militären. Efter månader av attacker mot oljedepåer och raffinaderier i Ryssland tycks Ukraina ha breddat […]",
-      "link": "https://www.dagensps.se/varlden/konflikter/rysk-e-handelsjatte-i-ukrainas-skottlinje/",
-      "guid": "https://www.dagensps.se/?p=1658909",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/boende-i-elektrostal-utanfor-moskva-fram.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784953184000
-    },
-    {
-      "title": "Fartyg beskjutet i Omanbukten",
-      "description": "”Inte längre på väg till Iran”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e19daea3-be55-43b0-bed8-617e5ec34b15",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e19daea3-be55-43b0-bed8-617e5ec34b15",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784953014000
     },
     {
       "title": "Hopptorn, tågbana och leksaksaffär: Så minns vi barndomens Raseborg",
@@ -584,46 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784950318000
     },
     {
-      "title": "Därför reser en amerikansk professor till Finland för att studera Päivi Räsänen",
-      "description": "Kristdemokraten Päivi Räsänen har blivit så viktig för USA:s kristna höger att professorn Joshua Wilson forskar om henne. Han tror att Räsänen kan vinna sin kamp om religiös yttrandefrihet i Europadomstolen.",
-      "link": "https://yle.fi/a/7-10102517?origin=rss",
-      "guid": "https://yle.fi/a/7-10102517",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784948445000
-    },
-    {
-      "title": "Melania saknas på korrespondensmiddagen",
-      "description": "Anordnas igen efter mordförsöket i maj",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784941286000
-    },
-    {
-      "title": "”Decenniets skilsmässa” klar – skyldig 6 miljarder",
-      "description": "”Decenniets skilsmässa” har just gått igenom. Mångmiljardären Chey Tae-won ska betala sin exfru drygt 6 miljarder kronor.",
-      "link": "https://www.expressen.se/nyheter/varlden/decenniets-skilsmassa-klar-skyldig-6-miljarder/",
-      "guid": "https://www.expressen.se/nyheter/varlden/decenniets-skilsmassa-klar-skyldig-6-miljarder/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784938757000
-    },
-    {
-      "title": "Barron kan tvingas vittna om Tatebröder",
-      "description": "Donald Trumps yngsta son Barron har länge varit en stor beundrare av Andrew Tate. Nu vill en senator utreda om 20-åringen har varit inblandad i något av brotten som Tate är anklagad för. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
-      "link": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
-      "guid": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784937973000
-    },
-    {
       "title": "BMW R 12 G/S GS Trophy Competition Bike",
       "description": "",
       "link": "https://uncrate.com/bmw-r-12-gs-gs-trophy-competition-bike/",
@@ -674,26 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784923200000
     },
     {
-      "title": "Nina Chydenius hade ingen koll på EM-chansen – öppnar nu för OS-satsning",
-      "description": "Nina Chydenius ville visa sina barn gott exempel och vann FM-guldet på 10 000 meter i överlägsen stil. Det kan ge en EM-resa – men framtiden ser hon på maraton.",
-      "link": "https://yle.fi/a/7-10102463?origin=rss",
-      "guid": "https://yle.fi/a/7-10102463",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784922523000
-    },
-    {
-      "title": "En person skadades allvarligt i en lägenhetsbrand i Helsingfors",
-      "description": "Enligt räddningsverket är branden släckt.",
-      "link": "https://yle.fi/a/7-10102652?origin=rss",
-      "guid": "https://yle.fi/a/7-10102652",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784921930000
-    },
-    {
       "title": "Great Lakes Wellness",
       "description": "",
       "link": "https://uncrate.com/great-lakes-wellness/",
@@ -724,16 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784919600000
     },
     {
-      "title": "Jarostjärnan hetsade med allt och alla i störtsköna derbysegern: ”Som man bäddar får man ligga”",
-      "description": "Nu vädrar Jakobstadsfotbollen morgonluft igen. Segern över SJK inför slutsålda läktare innebar samtidigt att Jaro förpassade lokalrivalen till kvalplatsen.",
-      "link": "https://yle.fi/a/7-10102649?origin=rss",
-      "guid": "https://yle.fi/a/7-10102649",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784919585000
-    },
-    {
       "title": "David Bowie in 'The Man Who Fell to Earth'",
       "description": "",
       "link": "https://uncrate.com/david-bowie-in-the-man-who-fell-to-earth/",
@@ -752,16 +832,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784917800000
-    },
-    {
-      "title": "Ryska attacker mot militärt övningsområde intill Kiev och honorärkonsulat i Slovjansk",
-      "description": "Flera personer dödades i ryska attacker mot Ukraina på fredagen. EU kallar upp det ryska sändebudet efter att Lettlands honorärkonsulat attackerades i Slovjansk.",
-      "link": "https://yle.fi/a/7-10102650?origin=rss",
-      "guid": "https://yle.fi/a/7-10102650",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784916807000
     },
     {
       "title": "Ny film med Rolf Lassgård och Lennart Jähkel",
@@ -1122,26 +1192,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784892544000
-    },
-    {
-      "title": "Öppningsfilmen för Marvel Tokon goes full anime!",
-      "description": "Och betan är nu igång Arc System Works har nu dragit igång sin sista beta för Marvel Tokon: Fighting Souls. Denna gång är betan tillgänglig för både PlayStation- och PC-spelare via Steam samt Epic Games Store. Den öppna betan ger spelare möjligheten att provspela sig med 16 av spelets totalt 20 karaktärer. Så vill man provspela det lite innan spelet släpps på riktigt den 6 augusti så är det bara att sätta igång innan betan stängs ner igen på måndag morgon. L&auml;s vidare och kommentera: https://feber.se/spel/oppningsfilmen-for-marvel-tokon-goes-full-anime/494380/ L&auml;s mer om Arc System Works , Marvel Tokon: Fighting Souls , PlayStation , Steam , Epic Games Store",
-      "link": "https://feber.se/spel/oppningsfilmen-for-marvel-tokon-goes-full-anime/494380/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/oppningsfilmen-for-marvel-tokon-goes-full-anime/494380/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784892000000
-    },
-    {
-      "title": "Johnny Depp är Ebenezer Scrooge",
-      "description": "I En julsaga Här har vi den första trailern för filmen Ebenezer där Johnny Depp spelar Ebenezer Scrooge i en version av Charles Dickens klassiska julsaga. Filmen regisseras av Ti West och förutom Depp hittar man skådespelare som Ian McKellen, Daisy Ridley samt Rupert Grint i filmen. Ebenezer har biopremiär den 13 november. L&auml;s vidare och kommentera: https://feber.se/film/johnny-depp-ar-ebenezer-scrooge/494379/ L&auml;s mer om Ebenezer , Johnny Depp , Ti West , Ian McKellen , Daisy Ridley , Rupert Grint",
-      "link": "https://feber.se/film/johnny-depp-ar-ebenezer-scrooge/494379/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/johnny-depp-ar-ebenezer-scrooge/494379/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784890800000
     },
     {
       "title": "Äppelpaj med vit choklad- och getostkräm",
@@ -1864,26 +1914,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784731816000
     },
     {
-      "title": "HTV: Röster inför hemmamötet med Anderlecht",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-infoer-anderlecht",
-      "guid": "b7f3b62b-4fa3-4d8b-8a7e-ab829cd779c5",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/48a4c5fb50014efedf1556abd4eefa37eeca9d90-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784731671000
-    },
-    {
-      "title": "Köp torsdagens matchprogram!",
-      "description": "Europa kallar! Supportrarnas Matchprogram upprätthåller traditionen med tryckta program i Europaspelet. Matchen mot Anderlecht är inget undantag.– Europamatcherna har givetvis en speciell dignitet vil",
-      "link": "https://www.hammarbyfotboll.se/nyheter/kop-torsdagens-matchprogram",
-      "guid": "5f6e0ceb-a588-4d01-a213-f2fd0563cabb",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/5b50cd75970f81fcd196e432354b5d2c02203986-2574x1190.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784730403000
-    },
-    {
       "title": "Skärmdumpar av känsliga pdf-filer ska blockeras på Onedrive",
       "description": "Microsoft testar en ny funktion i molntjänsten Onedrive som ska se till att det inte går att ta skärmdumpar av pdf-filer med känsligt innehåll, till exempel företagshemligheter. För närvarande fungerar blockeringen endast i Microsoft Edge, så om du vill komma runt den är det bara att använda sig av en annan webbläsare. Enligt uppgift kommer emellertid Microsoft att införa blockeringen i fler webbläsare och appar på sikt. Utrullningen av den nya funktionen påbörjas i slutet av augusti, rapporterar Windows Latest .",
       "link": "https://computersweden.se/article/4200053/skarmdumpar-av-kansliga-pdf-filer-ska-blockeras-pa-onedrive.html",
@@ -2054,16 +2084,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784712600000
     },
     {
-      "title": "Så fort förflyttar sig en tsunami",
-      "description": "Vågen kommer fortare än du kan springa.",
-      "link": "https://illvet.se/naturen/sa-fort-forflyttar-sig-en-tsunami",
-      "guid": "https://illvet.se/naturen/sa-fort-forflyttar-sig-en-tsunami",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784710825000
-    },
-    {
       "title": "Fortsatt avspärrat efter villabranden – polisen söker svar",
       "description": "Efter den kraftiga villabranden i Järfälla är platsen fortfarande avspärrad. Branden startade i ett garage och spreds snabbt till två villor. Händelsen utreds som mordbrand.",
       "link": "https://www.mitti.se/nyheter/fortsatt-avsparrat-efter-villabranden--polisen-soker-svar-6.3.376646.4fb766646c",
@@ -2142,16 +2162,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784696580000
-    },
-    {
-      "title": "Djupt inne i den tätbevuxna skogen har forskare gjort en otrolig upptäckt – det handlar om en ny art som vi aldrig har sett tidigare",
-      "description": "Det började med en suddig bild och berättelser från lokalbefolkningen. Nu har forskare sett det med egna ögon.",
-      "link": "https://illvet.se/naturen/djupt-inne-i-den-tatbevuxna-skogen-har-forskare-gjort-en-otrolig-upptackt-det-handlar-om-en-ny-art-som-vi-aldrig-har-sett-tidigare",
-      "guid": "https://illvet.se/naturen/djupt-inne-i-den-tatbevuxna-skogen-har-forskare-gjort-en-otrolig-upptackt-det-handlar-om-en-ny-art-som-vi-aldrig-har-sett-tidigare",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784696434000
     },
     {
       "title": "Historiker avfärdade dem som ”hushållerskor” – ny studie visar att romerska kvinnor tjänade sina egna pengar",
