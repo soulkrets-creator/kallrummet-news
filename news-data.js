@@ -1,8 +1,208 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-25T07:48:59.035Z",
+  "updatedAt": "2026-07-25T10:20:02.025Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Johanna, 39, fick köttallergi av fästingbett",
+      "description": "I flera år fick Johanna Cagner olika allergisymptom utan att veta varför. Till slut knäckte en specialistläkaren koden. – Över telefon säger han ”jag tror att du är köttallergiker”, varav jag började asgarva för jag var ju vegetarian, säger Johanna Cagner.",
+      "link": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
+      "guid": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784974528000
+    },
+    {
+      "title": "Nytt superplan kan flyga över hela jorden – utan mellanlandning",
+      "description": "Airbus A350-1000ULR testas just nu för fullt. Det nya superplanet banar väg för helt nya direktlinjer och väntas förändra hur vi reser över jorden. Airbus har framgångsrikt slutfört de första testfaserna för sin nya modell A350-1000ULR (Ultra Long Range). Flygplanet är specialutvecklat för att klara några av världens längsta kommersiella rutter – helt utan behov […]",
+      "link": "https://www.dagensps.se/teknik/nytt-superplan-kan-flyga-over-hela-jorden-utan-mellanlandning/",
+      "guid": "https://www.dagensps.se/?p=1658973",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/namnlos-design-1.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784974056000
+    },
+    {
+      "title": "AI-boomen driver nu upp priserna även på bilar",
+      "description": "Den globala bristen på RAM-minnen drabbar nu bilindustrin Gizmodo rapporterar om att den globala jakten på RAM-minne, driven av den hetsiga AI-utvecklingen, nu har nått bilindustrin. Folk som velat köpa någon form av dator eller spelkonsol på senare tid har säkert känt av det när de tittat på prislappen redan och nu varnar stora biltillverkare för att nästa prissmäll kommer att drabba fordonsindustrin. Fenomenet, som i folkmun är mer känt som RAMpocalypse, bottnar i att enorma AI-projekt slukar en allt större del av världens minnesproduktion. Datacenter som driver de olika AI-modellerna beräknas lägga beslag på så mycket som 40 procent av den totala tillverkningen av DRAM-minne. Detta har fått stora producenter som Samsung och Micron att prioritera serverhallar framför traditionell konsumentelektronik. General Motors (GM) gick nyligen ut med en varning i sin kvartalsrapport där de flaggar för att de ökade kostnaderna kan kosta företaget mellan 15 och 20 miljarder kronor under året. Som en direkt följd räknar de med att priserna på deras fordon kommer att stiga. För att undvika total komponentbrist har både Ford och GM nyligen tecknat långsiktiga specialavtal med minnestillverkaren Micron så de får en plats i produktionskön innan AI-jättarna lägger beslag på allt tillgängligt utrymme. Kinesiska elbilsjätten BYD har redan behövt höja priserna på vissa tekniska funktioner med hänvisning till de skenande minnespriserna. Samtidigt försöker sydkoreanska Hyundai säkra sina leveranskedjor genom närmare samarbeten med inhemska chiptillverkare. Framtidens bilar beräknas också kräva över 300 GB för att hantera all data, så fram tills dess händer får ju priserna gärna sjunka lite igen trycker man. L&auml;s vidare och kommentera: https://feber.se/fordon/ai-boomen-driver-nu-upp-priserna-aven-pa-bilar/494406/ L&auml;s mer om Gizmodo , General Motors , Ford , BYD , Micron",
+      "link": "https://feber.se/fordon/ai-boomen-driver-nu-upp-priserna-aven-pa-bilar/494406/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/ai-boomen-driver-nu-upp-priserna-aven-pa-bilar/494406/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784973600000
+    },
+    {
+      "title": "Varnar för bullbedragare",
+      "description": "Fula knepet – slår till i folks hem",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784973412000
+    },
+    {
+      "title": "Flera döda i ryska och ukrainska attacker",
+      "description": "Ryssland och Ukraina har under natten riktat flera attacker mot varandra, uppger båda sidor.",
+      "link": "https://www.expressen.se/nyheter/varlden/flera-doda-i-ryska-och-ukrainska-attacker/",
+      "guid": "https://www.expressen.se/nyheter/varlden/flera-doda-i-ryska-och-ukrainska-attacker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784971688000
+    },
+    {
+      "title": "Vattenmelon med smaksatt socker",
+      "description": "Överraska och servera vattenmelonen kyld och tärnad med tre olika smaksatta socker; ett friskt med lime och flingsalt, ett syrligt med sumak och rosépeppar samt ett kryddigt med tajín.",
+      "link": "https://alltommat.expressen.se/recept/vattenmelon-med-smaksatt-socker/",
+      "guid": "https://alltommat.expressen.se/recept/vattenmelon-med-smaksatt-socker/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784971470000
+    },
+    {
+      "title": "Varma vädret som utlovades för början av nästa vecka kan utebli",
+      "description": "Veckoslutets väder är ostadigt och det kan regna också i början av nästa vecka.",
+      "link": "https://yle.fi/a/7-10102660?origin=rss",
+      "guid": "https://yle.fi/a/7-10102660",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784971452000
+    },
+    {
+      "title": "Oro på Europas börser att bli som USA – fåtal bolag driver tillväxten",
+      "description": "Bakom Stoxx Europe 600-indexets uppgång i år döljer sig en växande sårbarhet: Utvecklingen drivs nästan helt av ett fåtal tunga bolag – med halvledarjätten ASML i spetsen. Den europeiska aktiemarknaden har länge betraktats som en trygg hamn med bred spridning, relativt skyddad från de tvära kast som kan uppstå när enstaka sektorer dominerar. Under 2026 […]",
+      "link": "https://www.dagensps.se/bors-finans/oro-pa-europas-borser-att-bli-som-usa-fatal-bolag-driver-tillvaxten/",
+      "guid": "https://www.dagensps.se/?p=1658971",
+      "image": "https://images.dagensps.se/app/uploads/2023/04/System-container-slots-into-a-747.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784971412000
+    },
+    {
+      "title": "Israel förbereder militärinsats på Västbanken",
+      "description": "Fyra palestinier och två israeler har dödats i en skottlossning på Västbanken på fredagen. Nu förbereder Israel en större militär operation på Västbanken. – Befolkningen måste evakueras för deras egen säkerhet, säger Israels finansminister Bezalel Smotrich",
+      "link": "https://www.expressen.se/nyheter/varlden/israel-forbereder-militarinsats-pa-vastbanken/",
+      "guid": "https://www.expressen.se/nyheter/varlden/israel-forbereder-militarinsats-pa-vastbanken/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784970388000
+    },
+    {
+      "title": "Nästa God of War-spel är officiellt under utveckling",
+      "description": "Cory Barlog bekräftar att Kratos återvänder Under San Diego Comic-Con meddelade Cory Barlog från Santa Monica Studio att utvecklingen av nästa stora God of War-spel är i full gång. Inte helt oväntat är detaljerna kring detta spel fortfarande få, men det bekräftades att Kratos återigen kommer att stå i centrum och att handlingen i det spelet kommer vara starkt kopplat med sidospelet God of War Laufey, som fokuserar på Kratos fru Faye. Kratos har som bekant redan mördat de flesta gudarna i både den grekiska och nordiska mytologin. Det har antytts att han nu kommer ge sig på helt nya mytologier, där bland annat egyptiska och tibetanska gudar har nämnts som möjliga motståndare. I samband med allt det här fick God of War Laufey också ett officiellt släppdatum, vilket är den 16 februari 2027. L&auml;s vidare och kommentera: https://feber.se/spel/nasta-god-of-war-spel-ar-officiellt-under-utveckling/494417/ L&auml;s mer om God of War , Santa Monica Studio , Cory Barlog , Kratos , God of War Laufey , Playstation",
+      "link": "https://feber.se/spel/nasta-god-of-war-spel-ar-officiellt-under-utveckling/494417/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/nasta-god-of-war-spel-ar-officiellt-under-utveckling/494417/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784970000000
+    },
+    {
+      "title": "Över 200 000 evakuerade undan bränderna i Frankrike och Spanien",
+      "description": "Skogsbränderna i Frankrike och Spanien sprider sig och hotar nu storstäderna Bordeaux och Madrid.",
+      "link": "https://yle.fi/a/7-10102658?origin=rss",
+      "guid": "https://yle.fi/a/7-10102658",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784969856000
+    },
+    {
+      "title": "Presidentens nya hot: ”Redo”",
+      "description": "Varnar för fler attacker",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-nya-varning-till-iran-laddade-och-klara",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-nya-varning-till-iran-laddade-och-klara",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784969676000
+    },
+    {
+      "title": "Flera VM-medaljer till Ingå i skytte – bröderna Wilkman etta och trea",
+      "description": "Ingåskytten William Wilkman vann sin andra guldmedalj i ungdoms-VM i skytte på fredagen. Också lillebror Wilmer Wilkman fick stiga upp på prispallen.",
+      "link": "https://yle.fi/a/7-10102659?origin=rss",
+      "guid": "https://yle.fi/a/7-10102659",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784967484000
+    },
+    {
+      "title": "Så duckar du en skattesmäll efter sommarjobbet",
+      "description": "Tusentals ungdomar har den senaste månaden hoppat in och kanske tjänat ihop sin första egna lön. Att ha koll på alla detaljer i arbetslivet är dock inte helt självklart, inte heller vad som gäller skattebiten. De första veckorna på sommarjobbet är avklarade och nu väntar belöningen i form av löneutbetalningen. Här är detaljerna du ska […]",
+      "link": "https://www.dagensps.se/privatekonomi/sa-duckar-du-en-skattesmall-efter-sommarjobbet/",
+      "guid": "https://www.dagensps.se/?p=1658920",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/mjukglass-till-forsaljning-i-gamla-stan-.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784967034000
+    },
+    {
+      "title": "Starship gjorde lyckad testflygning",
+      "description": "Mjukaste landningen hittills I natt genomförde SpaceX sin 13:e testflygning av Starship vilket även var den andra flygningen med den tredje versionen av jätteraketen. Flygningen gick i stort sett som planerat och Starship gjorde sin mjukaste landning hittills i Indiska Oceanen, något som innebar att raketen inte exploderade vid nedslaget och nu gör det möjligt för SpaceX att studera farkostens värmesköld och motorer närmare efter flygningen. Under flygningen rymdsattes 20 stycken tredje generationens Starlink-satelliter vilka alla ska ha fungerat under de cirka 20 minuter de befann sig i rymden innan de brann upp i jordens atmosfär. Man gjorde även ett motortest av en av Starships Raptor-motorer när farkosten befann sig i rymden, något som är ett måste för att Starship ska kunna lämna omloppsbanor och ta sig tillbaka till jorden, eller andra himlakroppar, på framtida rymdresor. Det enda som inte gick helt enligt plan var att bara fem av de 13 motorer som var tänkta att starta när startsteget Super Heavy skulle landa i Mexikanska golfen startade. Detta ledde till att Super Heavy gjorde en lite hårdare landning i havet än planerat. Nedan hittas två videoklipp där det första visar starten av Starship och separationen från Super Heavy. I det andra klippet syns hur Starship cirka en timme efter starten från Starbase i Texas landade i Indiska Oceanen. L&auml;s vidare och kommentera: https://feber.se/vetenskap/starship-gjorde-lyckad-testflygning/494419/ L&auml;s mer om SpaceX , Starship , Super Heavy , Raptor , Starlink , Raketer",
+      "link": "https://feber.se/vetenskap/starship-gjorde-lyckad-testflygning/494419/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vetenskap/starship-gjorde-lyckad-testflygning/494419/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784967000000
+    },
+    {
+      "title": "Hollywoodstjärnans oväntade köp: 30 svenska klockor",
+      "description": "Kungsbackabaserade Söner fick en stor beställning på klockor som de trodde var ett bedrägeri. Men det var Hollywoodstjärnan Russell Crowe. Bolaget trodde inte att beställningen, värd omkring 180 000 kronor, var på riktigt. ”Någon skrev och undrade om jag kunde skicka 30 klockor till Spanien innan slutet av månaden, om beställningen lades direkt. Jag har […]",
+      "link": "https://www.dagensps.se/weekend/klockor/hollywoodstjarnans-ovantade-kop-30-svenska-klockor/",
+      "guid": "https://www.dagensps.se/?p=1658957",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/russel-tiktokjpg.webp",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784966826000
+    },
+    {
+      "title": "Allt fler finländare hittar till Montenegro där rekordturismen skapar både tillväxt och problem",
+      "description": "Montenegro har på kort tid blivit en ny favorit bland resenärer. Turismen sätter ändå press på landets ömtåliga kust med hundratals kryssningsfartyg årligen.",
+      "link": "https://yle.fi/a/7-10100783?origin=rss",
+      "guid": "https://yle.fi/a/7-10100783",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784966414000
+    },
+    {
+      "title": "En ny titt på HBO:s Gröna lyktan-serie",
+      "description": "Den 16 augusti har Lanterns premiär Under San Diego Comic-Con visade HBO upp en ny trailer för serien Lanterns där vi får följa veteranen Hal Jordan (Kyle Chandler) och nykomlingen John Stewart (Aaron Pierre) som tvingas samarbeta för att reda ut en serie mord som kan ha kopplingar till Manhunters. Trailern bjuder även på en första titt på den klassiska rivalen Sinestro, spelad av Ulrich Thomsen, som verkar njuta av att skapa splittring mellan de två huvudpersonerna. Bakom produktionen står bland andra Damon Lindelof (Watchmen) och serietidningsförfattaren Tom King. Lanterns har premiär på HBO Max den 16 augusti. L&auml;s vidare och kommentera: https://feber.se/film/en-ny-titt-pa-hbos-grona-lyktan-serie/494411/ L&auml;s mer om San Diego Comic-Con , Lanterns , Hal Jordan , John Stewart , Sinestro",
+      "link": "https://feber.se/film/en-ny-titt-pa-hbos-grona-lyktan-serie/494411/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/en-ny-titt-pa-hbos-grona-lyktan-serie/494411/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784966400000
+    },
+    {
+      "title": "Grillad kungsfisk med morkovcha – koreansk morotssallad",
+      "description": "Morkovcha, en färgstark och smakrik koreansk morotssallad, är ett utmärkt tillbehör till grillad fisk. Här serveras den tillsammans med asiatiskt marinerad kungsfisk eller uer som den också kallas, och lite plock i form av aioli och rostat bröd. Perfekt som en lättare middag. Använd gärna ett fiskhalster så går den lättare att grilla.",
+      "link": "https://alltommat.expressen.se/recept/grillad-kungsfisk-med-morkovcha-koreansk-morotssallad/",
+      "guid": "https://alltommat.expressen.se/recept/grillad-kungsfisk-med-morkovcha-koreansk-morotssallad/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784966100000
+    },
+    {
+      "title": "Finska jätten slår orderrekord",
+      "description": "Finska Wärtsilä redovisar ett starkt kvartal med ökad vinst och framför allt fler beställningar än någonsin tidigare. Finländska industrikoncernen Wärtsilä har en inriktning mot gasmotorer, navigationssystem, drivsystem för fartyg och kompletta kraftverk samt olika former av batterilösningar. Nu redovisar man ett starkt första halvår, där bolaget fått fler beställningar än någonsin tidigare, skriver HBL. Avslöjad: […]",
+      "link": "https://www.dagensps.se/bors-finans/finska-jatten-slar-orderrekord/",
+      "guid": "https://www.dagensps.se/?p=1658947",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlz5h-y5ha1c0-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784966025000
+    },
     {
       "title": "Nu kommer G-klass som cab igen!",
       "description": "Världen håller på och läker En av de onödigaste sakerna man kan ha är en Mercedes G-klass som cab. Det betyder inte att modellen inte är värd att finnas, tvärtom. Det var typ tio år sedan sist, men nu får vi en G-cab igen. Den här gången kommer den dock få fyra dörrar istället för två, som cabben hade tidigare. Cab-versionen verkar bli exklusiv för AMG-versionerna, vilket inte är så konstigt. Premiärdatum är oklart, men mer info kommer med tiden. L&auml;s vidare och kommentera: https://feber.se/bil/nu-kommer-g-klass-som-cab-igen/494416/ L&auml;s mer om Mercedes-AMG , G-Klass , Kab , cab , cabriolet",
@@ -31,7 +231,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784964098000
+      "timestamp": 1784964094000
     },
     {
       "title": "Gränsbevakningen misstänker att tiotals människor smugglats från Belarus till EU via Finland",
@@ -444,26 +644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784932200000
     },
     {
-      "title": "Paramounts köp av Warner skjuts upp",
-      "description": "Enligt handlingar som Paramount har lämnat in till domstolen väntas förvärvet inte kunna bli klart förrän i juni nästa år. Paramount Skydance meddelar att man gått med på att skjuta upp köpet av Warner Bros Discovery. Anledningen är olika rättsprocesser, rapporterar CNBC. Enligt handlingar som Paramount har lämnat in till domstolen väntas förvärvet inte kunna […]",
-      "link": "https://www.dagensps.se/bors-finans/paramounts-kop-av-warner-skjuts-upp/",
-      "guid": "https://www.dagensps.se/?p=1658903",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/paramount-skydance-kop-av-warner-bros-di.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784930683000
-    },
-    {
-      "title": "Blandat på Wall Street när oljepriset föll",
-      "description": "Vid stängning var Dow Jones industriindex på plus 0,5 procent, breda S&P 500 steg 0,1 procent och tekniktunga Nasdaqs kompositindex sjönk 0,6 procent. De ledande indexen på Wall Street svängde upp och ned på handelsveckans sista dag när oljepriserna föll för första gången på en vecka – och landade till slut i ett blandat utfall. […]",
-      "link": "https://www.dagensps.se/bors-finans/blandat-pa-wall-street-nar-oljepriset-foll/",
-      "guid": "https://www.dagensps.se/?p=1658901",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/bade-uppat-och-nedat-nar-usa-borsen-stan.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784930652000
-    },
-    {
       "title": "Rezvani Dune Off-Road Supercar",
       "description": "",
       "link": "https://uncrate.com/rezvani-dune-off-road-supercar/",
@@ -472,26 +652,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784930400000
-    },
-    {
-      "title": "Gaslarm utanför Biomedicinskt centrum i Uppsala",
-      "description": "Pådrag vid container",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e1775c5-0a78-40bb-aa8e-4bcd186ffccf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e1775c5-0a78-40bb-aa8e-4bcd186ffccf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784930316000
-    },
-    {
-      "title": "Trump i ”hämndläge” – tappat tålamodet med Iran",
-      "description": "Trumps tålamod tryter. Kriget mot Iran tar inte slut och missnöjet växer i USA. Nu är han i stället inställd på hämnd, enligt källor till Wall Street Journal .",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-i-hamndlage-tappat-talamodet-pa-iran/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784928093000
     },
     {
       "title": "Everyday Carry: Atelier",
@@ -504,26 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784926800000
     },
     {
-      "title": "Dödsfall på Barcelonas arena",
-      "description": "54-årig man föll • Första dödsfallet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cb3abb0-9809-47d8-a726-9d74f2b9cf32",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cb3abb0-9809-47d8-a726-9d74f2b9cf32",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784925576000
-    },
-    {
-      "title": "Lastbil med syra i diket",
-      "description": "Totalstopp på riksväg 70",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4fecc98-e60e-4509-ab81-7edc39c64077",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4fecc98-e60e-4509-ab81-7edc39c64077",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784924459000
-    },
-    {
       "title": "BUSY Bar Productivity Device",
       "description": "",
       "link": "https://uncrate.com/busy-bar-productivity-device/",
@@ -532,16 +672,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784923200000
-    },
-    {
-      "title": "SD-utspelet mot S efter våldtäktsdom",
-      "description": "Socialdemokraterna reagerar starkt på Expressens artikel om en våldtäkt på en ung pojke – men SD anklagar S för hyckleri. Teresa Carvalho, rättspolitisk talesperson (S), skriver att ”bestialiska övergrepp ska straffas hårt utan straffrabatter”. – Det är ett hyckleri. S röstar nej till regeringens förslag att avskaffa mängdrabatter, säger Tobias Andersson, riksdagsledamot (SD).",
-      "link": "https://www.expressen.se/nyheter/sd-utspelet-mot-s--efter-valdtaktsdom/",
-      "guid": "https://www.expressen.se/nyheter/sd-utspelet-mot-s--efter-valdtaktsdom/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784922872000
     },
     {
       "title": "Nina Chydenius hade ingen koll på EM-chansen – öppnar nu för OS-satsning",
@@ -624,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784917800000
     },
     {
-      "title": "Ukraina: Tackar nej till allt – utom försvarsminister",
-      "description": "Mychailo Fedorov vägrar envist. Det enda som kan få honom tillbaka i Ukrainas regering är att återfå posten som försvarsminister. Nyligen sparkade försvarsministern Mychailo Fedorov har nu återigen förklarat att han inte accepterar något annat erbjudande från president Volodymyr Zelenskyj än en comeback som försvarsminister. Fedorov uttalade sig efter att ha haft flera möten med […]",
-      "link": "https://www.dagensps.se/varlden/ukraina-tackar-nej-till-allt-utom-forsvarsminister/",
-      "guid": "https://www.dagensps.se/?p=1658889",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlblto0kd-og0-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784917226000
-    },
-    {
       "title": "Ryska attacker mot militärt övningsområde intill Kiev och honorärkonsulat i Slovjansk",
       "description": "Flera personer dödades i ryska attacker mot Ukraina på fredagen. EU kallar upp det ryska sändebudet efter att Lettlands honorärkonsulat attackerades i Slovjansk.",
       "link": "https://yle.fi/a/7-10102650?origin=rss",
@@ -642,16 +762,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784916807000
-    },
-    {
-      "title": "Källor: ICC-åklagaren Karim Khan avsatt efter anklagelser om sexuella trakasserier",
-      "description": "Karim Khan har avsatts som åklagare vid Internationella brottmålsdomstolen (ICC) efter omröstning bland medlemsstaterna. Det här uppger diplomatiska källor för Reuters.",
-      "link": "https://yle.fi/a/7-10102651?origin=rss",
-      "guid": "https://yle.fi/a/7-10102651",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784916237000
     },
     {
       "title": "Ny film med Rolf Lassgård och Lennart Jähkel",
@@ -712,26 +822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784912400000
-    },
-    {
-      "title": "Trafik: 75-åring vann i rätten – mot fyra poliser",
-      "description": "En man i 75-årsåldern frias helt av tingsrätten i Lund, trots att han som motståndare i rätten hade fyra poliser. I ena ringhörnan: en 75-årig man. I den andra: fyra poliser. Utgången är given, eller hur? Att poliser har – och ska ha – hög trovärdighet är ingen nyhet. Inte heller att poliser håller ihop […]",
-      "link": "https://www.dagensps.se/motor/trafik-75-aring-vann-i-ratten-mot-fyra-poliser/",
-      "guid": "https://www.dagensps.se/?p=1658875",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlerd8okqi9rq-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784911980000
-    },
-    {
-      "title": "Den viktiga metallen skulle rusa i pris – experterna fick fel",
-      "description": "Det blev ingen prischock för aluminium, åtminstone inte ännu. Flera orsaker har dämpat problemen som ändå har uppstått. Den esskalerande konflikten mellan Iran, USA och Israel fick aluminiumpriset att skjuta upp i början, och en del bedömare trodde att det skulle fortsätta i den stilen. Istället har det fallit tillbaka till nivåer som rådde före […]",
-      "link": "https://www.dagensps.se/bors-finans/den-viktiga-metallen-skulle-rusa-i-pris-experterna-fick-fel/",
-      "guid": "https://www.dagensps.se/?p=1658872",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlhorsnf-wcxk-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784910767000
     },
     {
       "title": "The Light Flip är en halvdum telefon",
@@ -814,16 +904,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784904000000
     },
     {
-      "title": "Det här hände under första dagen av Kalevaspelen: Saara Keskitalo vinnare efter dramatik – Nina Chydenius överlägsen",
-      "description": "Yle Sporten rapporterade från den första tävlingsdagen av Kalevaspelen i friidrott i Jyväskylä.",
-      "link": "https://yle.fi/a/7-10102648?origin=rss",
-      "guid": "https://yle.fi/a/7-10102648",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784903575000
-    },
-    {
       "title": "Universal planerar att göra film av klassiska Atari-spel",
       "description": "Har köpt rättigheterna till bland annat Pong, Asteroids och Berzerk Deadline rapporterar att filmbolaget Universal Pictures har köpt rättigheterna att göra film av tio klassiska Atari-spel som släpptes på 1970- och 1980-talet. Det handlar om spelen Asteroids, Adventure, Berzerk, Breakout, Centipede, Crystal Castles, Millipede, Missile Command, Pong och Yars' Revenge . Ataris ordförande och VD Wade Rosen säger om det nya samarbetet med Universal: \"For more than five decades, Atari has created games and worlds that have remained part of popular culture long after their original release. We are excited to work with Universal and Entertainment 360 to bring the spirit of our iconic brand and games to a new medium.\" Universal ska redan ha beställt manus till en film för en av Atari-titlarna, men det uppges inte vilken det handlar om. När filmer från Universal i ett \"Atari Cinematic Universe\" kan få premiär finns det än så länge inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/film/universal-planerar-att-gora-film-av-klassiska-atari-spel/494388/ L&auml;s mer om Universal Pictures , Atari , Atari Cinematic Universe , Entertainment 360 , filmrättigheter , retrospel",
       "link": "https://feber.se/film/universal-planerar-att-gora-film-av-klassiska-atari-spel/494388/?utm_source=rss&utm_medium=feed",
@@ -872,26 +952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784900683000
-    },
-    {
-      "title": "Inte för sent att få skydd mot TBE i sommar",
-      "description": "Man kan bygga upp ett gott skydd mot fästingburen hjärninflammation i en snabb takt på bara en månad, påminner HUS biträdande överläkare Eeva Ruotsalainen.",
-      "link": "https://yle.fi/a/7-10102620?origin=rss",
-      "guid": "https://yle.fi/a/7-10102620",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784900672000
-    },
-    {
-      "title": "En hel lägerstad har rests i Skogby med allt från lekpark till sjukhus",
-      "description": "Scoutlägret Glänta i Skogby, Ekenäs, har samlat 1 500 scouter från hela Svenskfinland.",
-      "link": "https://yle.fi/a/7-10101780?origin=rss",
-      "guid": "https://yle.fi/a/7-10101780",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784900594000
     },
     {
       "title": "Scientists discover a compound that could supercharge aging muscle repair",
@@ -1084,16 +1144,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784890800000
     },
     {
-      "title": "Spelmedier har åsikter om Halo: Campaign Evolved",
-      "description": "Bra uppdatering men var är flerspelardelen? Nästa vecka släpps Halo: Campaign Evolved till den stora massan men redan nu kan man försöka luska ut om det är något för dig eller inte då recensioner för spelet började släppas under gårdagen. Generellt verkar kritiker vara överens om att det ser riktigt imponerande ut i Unreal Engine 5 och att det har behållit sin spelkänsla. Att det har nya bra uppdrag och nya vapen verkar också vara lyckade tillägg. På minuskontot hamnar dock de utdragna banorna som känns lite föråldrade i dagens samhälle och att det inte finns någon flerspelardel utan bara co-op. Ett gäng videorecensioner kan hittas nedan och länkar till fler recensioner för spelet kan hittas via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/spelmedier-har-asikter-om-halo-campaign-evolved/494376/ L&auml;s mer om Halo: Campaign Evolved , Unreal Engine 5",
-      "link": "https://feber.se/spel/spelmedier-har-asikter-om-halo-campaign-evolved/494376/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/spelmedier-har-asikter-om-halo-campaign-evolved/494376/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784889000000
-    },
-    {
       "title": "Äppelpaj med vit choklad- och getostkräm",
       "description": "Oväntade och riktigt goda smaker tillsammans. Sötsyrliga äpplen möter söt vit choklad och en syrlig, sträv getost.",
       "link": "https://alltommat.expressen.se/recept/appelpaj-med-vit-choklad--och-getostkram/",
@@ -1114,16 +1164,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784888102000
     },
     {
-      "title": "SpaceX gör nytt försök med Starship inatt",
-      "description": "Följ det live här I natt är det dags för SpaceX att försöka skjuta upp Starship igen, något som sker efter att man fick ställa in förra veckans test efter att deras jätteraket fått motorproblem. Nattens uppskjutning kommer att bli den andra med tredje versionen av Starship och den 13:e totalt. SpaceX har gjort en del modifieringar på Starship sedan den senaste uppskjutningen i maj då startraketen Super Heavy inte landade på den utsedda platsen i Mexikanska golfen och en av Starships motorer slutade fungera kort efter uppskjutningen. För första gången kommer Starship även att släppa ut fullt fungerade satelliter till sitt Starlink-nätverk när Starship når rymden. Dessa kommer att testas i cirka 20 minuter för att sedan falla tillbaka i jordatmosfären där de kommer att brinna upp. Uppskjutningsfönstret för Starship öppnar 00:45 svensk tid natten mot lördag. Det går att kolla in uppskjutningen live via SpaceX konto på X eller i den inbäddade livefeeden från The Launchpad som hittas nedan. L&auml;s vidare och kommentera: https://feber.se/vetenskap/spacex-gor-nytt-forsok-med-starship-inatt/494364/ L&auml;s mer om SpaceX , Starship , Super Heavy , Starlink , raketer , satelliter , Elon Musk",
-      "link": "https://feber.se/vetenskap/spacex-gor-nytt-forsok-med-starship-inatt/494364/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/spacex-gor-nytt-forsok-med-starship-inatt/494364/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784887200000
-    },
-    {
       "title": "Man greps i natt – försökte dränka ex-flickvän i damm",
       "description": "En man har gripits misstänkt för mordförsök/grov misshandel efter att ha attackerat sin ex-flickvän vid en damm. Han ska försökt strypa och dränka henne efter ett bråk.",
       "link": "https://www.mitti.se/nyheter/man-greps-i-natt--forsokte-dranka-exflickvan-i-damm-6.3.377375.4b3f252fa5",
@@ -1134,16 +1174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784886674000
     },
     {
-      "title": "Första teasern för Avatar Seven Havens",
-      "description": "Ny serie om en ung jordbändare släpps i höst Här har vi en första teaser för den nya Avatar-serien Avatar: Seven Havens. Serien utspelar sig efter händelserna i Legenden om Korra där vi får följa med till en värld som slagits i spillror av en enorm katastrof. Avataren denna gång är en ung jordbändare som, till skillnad från sina föregångare, inte betraktas som någon frälsare utan snarare som en förövare. Tillsammans med sin försvunne tvilling måste hon nu fly från både mänskliga fiender och andar för att försöka rädda det som finns kvar av civilisationen. Originalskaparna Michael DiMartino och Bryan Konietzko ligger bakom projektet vilket låter lovande. Seriens samtliga 26 avsnitt kommer att släppas på Paramount+ den 9 oktober vilket väl borde innebära att vi får den på SkyShowtime ungefär samma tid. L&auml;s vidare och kommentera: https://feber.se/film/forsta-teasern-for-avatar-seven-havens/494374/ L&auml;s mer om Avatar: Seven Havens , Legenden om Korra , Michael DiMartino , Bryan Konietzko , SkyShowtime",
-      "link": "https://feber.se/film/forsta-teasern-for-avatar-seven-havens/494374/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/forsta-teasern-for-avatar-seven-havens/494374/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784885400000
-    },
-    {
       "title": "EU-kommissionen delar ut nya miljardböter till Google",
       "description": "Under torsdagen delade EU-kommissionen ut nya böter på 890 miljoner euro (motsvarande 9,9 miljarder kronor) till Google. Bakgrunden är att Googles söktjänst anses prioritera reklam för företagets egna produkter och tjänster på konkurrenternas bekostnad, vilket strider mot unionens lagar och regler. Google anses dessutom hindra utvecklare från att sälja sina appar på alternativa appbutiker. Föga förvånande är det upprörda känslor på Google efter EU-kommissionens beslut. – För att följa reglerna måste vi ta bort realtidsfunktioner i söksystemet som européer älskar – som omedelbar prissättning och direkt tillgänglighet för hotell, flyg och restauranger – och avveckla säkerhetsåtgärder på Google Play, säger Kent Walker från Google i en kommentar till nyhetsbyrån Reuters .",
       "link": "https://computersweden.se/article/4052779/eu-kommissionen-delar-ut-nya-miljardboter-till-google.html",
@@ -1152,16 +1182,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784884930000
-    },
-    {
-      "title": "Nya Polestar 4 SUV bredvid en Tesla Model Y",
-      "description": "Två storsäljare bredvid varandra Polestar 4 är den femte mest sålda elbilen i Sverige i år, så svenskarna verkar gilla modellen. Snart kommer den även i kombi-utförande, som Polestar av någon anledning kallar för SUV. Hur som helst, bilen har börjat dyka upp på stan i kamouflerad form. Feber-läsaren Erik hittade den parkerad vid en Tesla Model Y och knäppte en bild. Det tackar vi för! På bilden ser Teslan lite större ut än Polestar 4, men i verkligheten är Polestar 4 just fyra centimeter längre än Model Y. L&auml;s vidare och kommentera: https://feber.se/bil/nya-polestar-4-suv-bredvid-en-tesla-model-y/494378/ L&auml;s mer om Polestar 4 , Tesla Model Y , kombi",
-      "link": "https://feber.se/bil/nya-polestar-4-suv-bredvid-en-tesla-model-y/494378/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nya-polestar-4-suv-bredvid-en-tesla-model-y/494378/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784884200000
     },
     {
       "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
@@ -2374,16 +2394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784612700000
     },
     {
-      "title": "Proffskocken: Det är vanligaste misstaget när folk grillar",
-      "description": "Han är köksmästaren som älskar att grilla. Inte minst fisk och skaldjur – en självklarhet när man är från Västkusten! Här delar Alexander Stärnerz med sig av tolv tips till dig som grillar i sommar.",
-      "link": "https://alltommat.expressen.se/artiklar/proffskocken-det-ar-vanligaste-misstaget-nar-folk-grillar/",
-      "guid": "https://alltommat.expressen.se/artiklar/proffskocken-det-ar-vanligaste-misstaget-nar-folk-grillar/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784611800000
-    },
-    {
       "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
       "description": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
@@ -2502,16 +2512,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784559428000
-    },
-    {
-      "title": "Paj med tomater och bönor",
-      "description": "I den här pajen har vi blandat burkfavoriter som grillad paprika, soltorkade tomater och bönor. De kan varieras med kikärter, oliver, kronärtskockor eller marinerade lökar. Det enda som sätter stopp är fantasin.",
-      "link": "https://alltommat.expressen.se/recept/paj-med-tomater-och-bonor/",
-      "guid": "https://alltommat.expressen.se/recept/paj-med-tomater-och-bonor/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784559256000
     },
     {
       "title": "Some dinosaurs could rise like giants until they grew too big",
