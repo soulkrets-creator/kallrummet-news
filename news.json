@@ -1,8 +1,58 @@
 {
-  "updatedAt": "2026-07-25T18:51:24.255Z",
+  "updatedAt": "2026-07-25T21:43:12.516Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Mopedist påkörd av tåg",
+      "description": "”Ambulanser och ambulanshelikopter på väg”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785013857000
+    },
+    {
+      "title": "Bil har kört in i folkmassa i Berlin – flera skadade",
+      "description": "En bil har kört in i en folkmassa i vid Brandenburg Tor i centrala Berlin, rapporterar tyska medier. En person har dött och flera har skadats, enligt Bild . – Det var väldigt obehagligt, säger svenska Victor Fabricius, 44, som var på plats.",
+      "link": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785012757000
+    },
+    {
+      "title": "Tusentals AI-genererade bilder av Förintelsen sprids. Så här avslöjar du dem",
+      "description": "Två experter ger fem tips på hur du kan se om en bild är genererad av AI. Här går vi igenom tre förfalskningar.",
+      "link": "https://varldenshistoria.se/krig/andra-varldskriget/forintelsen/tusentals-ai-genererade-bilder-av-forintelsen-sprids-sa-avslojar-du-dem",
+      "guid": "https://varldenshistoria.se/krig/andra-varldskriget/forintelsen/tusentals-ai-genererade-bilder-av-forintelsen-sprids-sa-avslojar-du-dem",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785011403000
+    },
+    {
+      "title": "Nya uppgifter om hotet mot Trump – bytte plan",
+      "description": "Donald Trump bytte plötsligt plan efter ett ”trovärdigt hot” från Iran, avslöjar New York Times. Amerikanska tjänstemän bekräftar, enligt tidningen, att detta låg bakom presidentens planbyte under hemresan från Natotoppmötet tidigare i juli. Dessutom litar Vita huset inte på säkerheten i det nya plan Trump fick av Qatar förra året.",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-om-hotet-mot-trump-bytte-plan/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-om-hotet-mot-trump-bytte-plan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785010817000
+    },
+    {
+      "title": "A-traktor körde sönder gräsmatta",
+      "description": "A-traktor med två pojkar stoppad av polis",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7976cf35-45bb-475c-928f-a8c385da4a17",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7976cf35-45bb-475c-928f-a8c385da4a17",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785008850000
+    },
     {
       "title": "Ny expedition ska lösa mysteriet med Mars två omdiskuterade månar",
       "description": "Astronomer har haft hetsiga diskussioner om hur Mars deformerade månar har uppstått. De liknar inte alls det vi normalt förknippar med månar i solsystemet – och nu ska debatten avgöras med en helt ny typ av uppdrag.",
@@ -12,6 +62,46 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785007847000
+    },
+    {
+      "title": "Alma, 13, stoppad på flygplatsen – fullt på planet: ”Oacceptabelt”",
+      "description": "Alma Lindvall, 13, fick inte gå ombord på sitt flyg i München – och tvingades tillbringa sju timmar ensam på storflygplatsen. Personalen vid gaten tog henne åt sidan eftersom flighten var överbokad. – Det är oacceptabelt att behandla ett barn så här. Av alla passagerare lämnade de kvar vår 13-åriga dotter, säger mamman Jennie Lindvall.",
+      "link": "https://www.expressen.se/nyheter/sverige/alma-13-stoppad-pa-flygplatsen-fullt-pa-planet-oacceptabelt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/alma-13-stoppad-pa-flygplatsen-fullt-pa-planet-oacceptabelt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785007520000
+    },
+    {
+      "title": "Saga Andersson osar av kalasform efter blöt FM-final: ”Kroppen kändes helt otroligt bra”",
+      "description": "Saga Andersson har hittat en ny nivå som stavhoppare. Efter FM-medalj nummer åtta i ett regnigt Jyväskylä blickar hon med friskt självförtroende mot EM.",
+      "link": "https://yle.fi/a/7-10102471?origin=rss",
+      "guid": "https://yle.fi/a/7-10102471",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785007444000
+    },
+    {
+      "title": "Två påkörda i Borås",
+      "description": "Skedde i korsning – oklart skadeläge",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b4c0953-cb32-4fdd-8f70-4939e5a86430",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b4c0953-cb32-4fdd-8f70-4939e5a86430",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785006603000
+    },
+    {
+      "title": "Mycket kontroversiellt försök: Falska patienter skakade om psykiatrin",
+      "description": "I slutet av 1960-talet lät en grupp falska patienter sig läggas in på psykiatriska sjukhus i USA. De var alla friska, men fick diagnosen psykisk sjukdom. Och ingenting verkade kunna ändra läkarnas dom.",
+      "link": "https://varldenshistoria.se/vetenskap/medicin/du-ar-frisk-men-lakaren-tror-dig-inte-falska-patienter-skakade-om-psykiatrin",
+      "guid": "https://varldenshistoria.se/vetenskap/medicin/du-ar-frisk-men-lakaren-tror-dig-inte-falska-patienter-skakade-om-psykiatrin",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785006051000
     },
     {
       "title": "Tre års fängelse för våldtäkt i taxibuss",
@@ -35,7 +125,7 @@
     },
     {
       "title": "Man död efter olycka på Gripendygnet i Strängnäs",
-      "description": "En allvarlig olycka inträffade under motortävlingen Gripendygnet i Strängnäs. Han dog sedan på sjukhus, enligt polisen. – Vi är i kontakt med Svemo som är vår krisorganisation som guidar oss, säger tävlingsledaren Tony Hoflin.",
+      "description": "En man i 60-årsåldern har dött efter en allvarlig olycka på motortävlingen Gripendygnet i Strängnäs. Han deltog i tävlingen. – Vet vi inte exakt vad som har hänt då det har hänt utefter banan, säger Tomm Holm vid Svenska Motorsportförbundet.",
       "link": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
       "guid": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
       "image": "",
@@ -142,6 +232,16 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784995780000
+    },
+    {
+      "title": "Överraskande studie avslöjar: Egyptiska prinsessor använde vapen och gick på jakt",
+      "description": "I över 100 år låg dessa kungliga kvinnors gravar gömda, men nu har arkeologer återupptäckt och analyserat lämningarna. Resultaten visar att gravgåvorna var mer än bara symboler.",
+      "link": "https://varldenshistoria.se/civilisationer/egyptier/overraskande-studie-avslojar-egyptiska-prinsessor-anvande-vapen-och-gick-pa-jakt",
+      "guid": "https://varldenshistoria.se/civilisationer/egyptier/overraskande-studie-avslojar-egyptiska-prinsessor-anvande-vapen-och-gick-pa-jakt",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1784995243000
     },
     {
       "title": "Qantas har flugit direkt från Frankrike till Australien",
@@ -254,8 +354,8 @@
       "timestamp": 1784990514000
     },
     {
-      "title": "Kalevaspelen direkt: Jeanine Nygård trotsade krampen och spurtade till skrällbrons – i sitt sista 400-meterslopp på FM",
-      "description": "Yle Sporten följer den andra tävlingsdagen av FM i friidrott i Jyväskylä.",
+      "title": "Det här hände under andra dagen av Kalevaspelen: Jeanine Nygård trotsade krampen och knep skrällbrons – i sitt sista 400-meterslopp på FM",
+      "description": "Yle Sporten följde den andra tävlingsdagen av FM i friidrott i Jyväskylä.",
       "link": "https://yle.fi/a/7-10102669?origin=rss",
       "guid": "https://yle.fi/a/7-10102669",
       "image": "",
@@ -304,16 +404,6 @@
       "timestamp": 1784989202000
     },
     {
-      "title": "Skogsbränder kan ha anlagts – med hjälp av katter",
-      "description": "Inte bara Frankrike och Spanien drabbas av ett eldinferno. Även i Italien kämpar man mot lågorna. Och nu säger lokala myndigheter att bränderna kan ha anlagts – med hjälp av katter.",
-      "link": "https://www.expressen.se/nyheter/varlden/skogsbrander-kan-ha-anlagts--med-hjalp-av-katter/",
-      "guid": "https://www.expressen.se/nyheter/varlden/skogsbrander-kan-ha-anlagts--med-hjalp-av-katter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784988777000
-    },
-    {
       "title": "I nordvästra Kina bjöds på en fantastisk vy av Vintergatan",
       "description": "Många fotografer lockades till regionen Ningxia i nordvästra Kina nyligen, då natthimlen bjöd på en riktigt fin vy av Vintergatan.",
       "link": "https://yle.fi/a/7-10102666?origin=rss",
@@ -354,26 +444,6 @@
       "timestamp": 1784987583000
     },
     {
-      "title": "Svenskarna mitt spanska infernot: ”Luktar så mycket”",
-      "description": "I går kväll flydde Johanna Gunnarsson och barnen bränderna som härjar i Spanien. Och Sebastian Reyes, som bor i Madrid, känner röklukten utanför dörren. – Det luktar camping liksom, och det är ett rökmoln över hela stan, säger han. Nu är en kvarts miljon personer på flykt undan bränderna i Sydeuropa.",
-      "link": "https://www.expressen.se/nyheter/varlden/svenskarna-mitt-spanska--infernot-luktar-sa-mycket/",
-      "guid": "https://www.expressen.se/nyheter/varlden/svenskarna-mitt-spanska--infernot-luktar-sa-mycket/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784986158000
-    },
-    {
-      "title": "Flygplan kraschade i kvarter – en död",
-      "description": "Olycka i bostadsområde i Tyskland – en död",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=71569f81-1b99-431c-9330-b25bc7942873",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=71569f81-1b99-431c-9330-b25bc7942873",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784985610000
-    },
-    {
       "title": "The Universe can outrun light without breaking Einstein’s rules",
       "description": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
@@ -392,26 +462,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784984400000
-    },
-    {
-      "title": "Sjuksköterska hos 1177 anmäls – efter föräldrarnas samtal: ”Riskerat patientsäkerheten”",
-      "description": "En sjuksköterska hos 1177 har utretts av Ivo – som fann ”allvarliga brister” i en mängd patientfall. Bland annat gavs felaktiga medicinråd för en treåring. Sjuksköterskan själv medger att det finns anledning till kritik.",
-      "link": "https://www.expressen.se/nyheter/sverige/sjukskoterska-hos-1177-anmals-efter-foraldrarnas-samtal-riskerat-patientsakerheten/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sjukskoterska-hos-1177-anmals-efter-foraldrarnas-samtal-riskerat-patientsakerheten/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784984002000
-    },
-    {
-      "title": "Jan Emanuel om våldtäktsdomen: ”Stäng särskilda avdelningar”",
-      "description": "Jan Emanuel är näst i ledet att reagera på den uppmärksammade våldtäktsdomen i Dalarna. Han säger att det är fel att den dömda mannen hamnar på en särskild avdelning i fängelset. – Jag tycker det är att skilja på folk och folk, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/jan-emanuel-om-valdtaktsdomen-stang-sarskilda-avdelningar/",
-      "guid": "https://www.expressen.se/nyheter/sverige/jan-emanuel-om-valdtaktsdomen-stang-sarskilda-avdelningar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784982956000
     },
     {
       "title": "Recension: Skulle du vilja bli en chattbot efter din död?",
@@ -512,16 +562,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784979213000
-    },
-    {
-      "title": "Wilma skulle på solsemester – hamnade på fel ö",
-      "description": "Wilma Rippert och Antaris Vannar hade tänkt njuta av den grekiska solen. Och grekiskt blev det – men fel ö. Deras plan var på väg mot Karpathos, men kraftiga vindar gjorde att de landade på Rhodos i stället. – Det var så himla obehagligt när piloten avbröt landningen, säger Wilma Rippert.",
-      "link": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/wilma-skulle-pa-solsemester-hamnade-pa-fel-o-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784979059000
     },
     {
       "title": "EIF:s P16-pojkar inledde ligaspelet med seger: ”Det här var ett tufft lag”",
@@ -752,16 +792,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784963679000
-    },
-    {
-      "title": "Jeanine Nygård var borta i över tusen dagar – nu vill hon se rättvisa EM-val",
-      "description": "Efter en lång frånvaro är Jeanine Nygård tillbaka och siktar på en ny FM-medalj på 400 meter. Och chansen på en mästerskapsdebut som 34-åring.",
-      "link": "https://yle.fi/a/7-10102472?origin=rss",
-      "guid": "https://yle.fi/a/7-10102472",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784963226000
     },
     {
       "title": "Anthropic lanserar Opus 5",
@@ -2564,16 +2594,6 @@
       "timestamp": 1784566680000
     },
     {
-      "title": "1900 år gammal toalett avslöjar nya hemligheter bakom romarnas imponerande betong",
-      "description": "I åratal har forskarna trott att den romerska betongens hållbarhet berodde på en reaktion mellan vulkanaska och kalk. Men det är långt ifrån hela sanningen, visar undersökningar av en uråldrig latrin.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/1900-ar-gammal-toalett-avslojar-nya-hemligheter-bakom-romarnas-imponerande-betong",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/1900-ar-gammal-toalett-avslojar-nya-hemligheter-bakom-romarnas-imponerande-betong",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784563255000
-    },
-    {
       "title": "Pojke sprängde sig själv – överklagan avslås",
       "description": "Svea hovrätt har meddelat domen mot tre inblandade i en sprängning där en 15-årig pojke dog.",
       "link": "https://www.mitti.se/nyheter/pojke-sprangde-sig-sjalv--overklagan-avslas-6.3.376581.a42cb71889",
@@ -2612,16 +2632,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784550578000
-    },
-    {
-      "title": "Huvudpersonen i berömd Hollywoodfilm var manusförfattaren själv",
-      "description": "Filmen var en av de mest sedda på 1980-talet, och även idag väcker uttrycket ”nobody puts Baby in a corner” igenkänning hos de flesta. Men det är få som vet vem som var inspirationen till ”Baby”.",
-      "link": "https://varldenshistoria.se/kultur/film/baby-fran-dirty-dancing-var-en-verklig-person",
-      "guid": "https://varldenshistoria.se/kultur/film/baby-fran-dirty-dancing-var-en-verklig-person",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784548811000
     },
     {
       "title": "Äntligen slipper skyltarna på Ekerövägen vara igentejpade",
@@ -2692,16 +2702,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784525328000
-    },
-    {
-      "title": "Praktfulla gravar avslöjar att romarna hade allierade i Britannien redan före invasionen år 43 e Kr.",
-      "description": "Detta framgår av fynd från mer än 100 kremeringsgravar i östra England, där fem rikt utrustade elitgravar tydligt sticker ut.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/praktfulla-gravar-avslojar-att-romarna-hade-allierade-i-britannien-redan-fore-invasionen-ar-43-e-kr",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/praktfulla-gravar-avslojar-att-romarna-hade-allierade-i-britannien-redan-fore-invasionen-ar-43-e-kr",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784523645000
     },
     {
       "title": "Här är förstagångsföräldrarna äldst i landet",
