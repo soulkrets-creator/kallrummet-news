@@ -1,8 +1,178 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-25T15:55:36.536Z",
+  "updatedAt": "2026-07-25T18:51:24.255Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Ny expedition ska lösa mysteriet med Mars två omdiskuterade månar",
+      "description": "Astronomer har haft hetsiga diskussioner om hur Mars deformerade månar har uppstått. De liknar inte alls det vi normalt förknippar med månar i solsystemet – och nu ska debatten avgöras med en helt ny typ av uppdrag.",
+      "link": "https://illvet.se/universum/ny-expedition-ska-losa-mysteriet-med-mars-tva-omdiskuterade-manar",
+      "guid": "https://illvet.se/universum/ny-expedition-ska-losa-mysteriet-med-mars-tva-omdiskuterade-manar",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785007847000
+    },
+    {
+      "title": "Tre års fängelse för våldtäkt i taxibuss",
+      "description": "En man och en kvinna hade kommit överens om att ha sex i en taxibuss. Då började mannen utföra analsex – trots att kvinnan sagt att hon inte ville det. Nu döms han för våldtäkt.",
+      "link": "https://www.expressen.se/nyheter/sverige/tre-ars-fangelse-for-valdtakt-i-taxibuss/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tre-ars-fangelse-for-valdtakt-i-taxibuss/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785004544000
+    },
+    {
+      "title": "340 000 evakuerade i Kina inför storm",
+      "description": "Tyfon på väg mot Kina",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d2cc7535-cb05-4942-a370-51f119e53824",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d2cc7535-cb05-4942-a370-51f119e53824",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785002254000
+    },
+    {
+      "title": "Man död efter olycka på Gripendygnet i Strängnäs",
+      "description": "En allvarlig olycka inträffade under motortävlingen Gripendygnet i Strängnäs. Han dog sedan på sjukhus, enligt polisen. – Vi är i kontakt med Svemo som är vår krisorganisation som guidar oss, säger tävlingsledaren Tony Hoflin.",
+      "link": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
+      "guid": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785002169000
+    },
+    {
+      "title": "Värmen från sydeuropa drar in – på blixtvisit",
+      "description": "Den sydeuropeiska värmen vandrar upp mot Sverige. Men bara på ett kort besök. – Det kan bli upp till 27 grader, sen blir det ostadigt igen, säger meteorologen Erik Höjgård-Olsen.",
+      "link": "https://www.expressen.se/nyheter/vader/varmen-fran-sydeuropa-drar-in--pa-blixtvisit/",
+      "guid": "https://www.expressen.se/nyheter/vader/varmen-fran-sydeuropa-drar-in--pa-blixtvisit/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785001698000
+    },
+    {
+      "title": "Motortävling avbruten – allvarlig olycka",
+      "description": "Allvarlig olycka – evenemanget avbröts",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=caf582f4-6ce0-4a40-8d75-7a786e9d9091",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=caf582f4-6ce0-4a40-8d75-7a786e9d9091",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785000792000
+    },
+    {
+      "title": "Emilia Karell inför EM-resan: ”Jag har inte riktigt fattat att jag är på väg ännu”",
+      "description": "Det andra raka FM-guldet kom i utmanande vindar – och nu börjar Sjundeå IF:s spjutkastare Emilia Karell fokusera på karriärens första seniormästerskap.",
+      "link": "https://yle.fi/a/7-10102470?origin=rss",
+      "guid": "https://yle.fi/a/7-10102470",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785000622000
+    },
+    {
+      "title": "Våldtog kvinna medan han tatuerade henne",
+      "description": "En tatuerare i Stockholm döms till tre års fängelse för att ha våldtagit en kvinnlig kund – medan han tatuerade henne. Kvinnan berättar att hon fick panik, men inte vågade säga ifrån.",
+      "link": "https://www.expressen.se/nyheter/sverige/valdtog-kvinna-medan-han-tatuerade-henne/",
+      "guid": "https://www.expressen.se/nyheter/sverige/valdtog-kvinna-medan-han-tatuerade-henne/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785000376000
+    },
+    {
+      "title": "Jakobs dagar samlar både stadsbor och sommargäster: ”Det är en jätteviktig tradition”",
+      "description": "Jakobs dagar är en vecka fylld med evenemang, men minst lika viktigt är det att träffa vänner och bekanta. En höjdpunkt i år var också FF Jaros seger över SJK.",
+      "link": "https://yle.fi/a/7-10102667?origin=rss",
+      "guid": "https://yle.fi/a/7-10102667",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785000315000
+    },
+    {
+      "title": "Slagsmål efter trafikolycka",
+      "description": "Två bilar i krock – sen uppstod tumult",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3b23a14a-0ad8-487b-93c7-8e8731a1b11e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3b23a14a-0ad8-487b-93c7-8e8731a1b11e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785000019000
+    },
+    {
+      "title": "Unikt lastfartyg godkänt: Drivs med smält salt",
+      "description": "Sydkorea har fått ett godkännande för ett gigantiskt containerfartyg som drivs av två kärnreaktorer med smält salt. Det är ett unikt koncept som nu fått sitt godkännande i Sydkorea. 16 juli offentliggjorde ett statligt institut nyheten som kan förändra den globala sjöfarten i grunden. Det handlar om ett lastfartyg, ett gigantiskt containerfartyg, som drivs av […]",
+      "link": "https://www.dagensps.se/teknik/unikt-lastfartyg-godkant-drivs-med-smalt-salt/",
+      "guid": "https://www.dagensps.se/?p=1659016",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlymm7ingq9pw-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784996921000
+    },
+    {
+      "title": "Två gripna på E4 – bilen full med kaffe",
+      "description": "Stillastående bil väckte misstankar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=743d62c2-e7fc-4d6f-8e5e-1c241d3c8592",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=743d62c2-e7fc-4d6f-8e5e-1c241d3c8592",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784996497000
+    },
+    {
+      "title": "Kazakstans ledare till Putin: Avsluta kriget",
+      "description": "Satt bredvid varandra på toppmöte: ”Skam”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784996440000
+    },
+    {
+      "title": "IFK Mariehamn hann skymta första segern i horisonten: ”Lite kaotiskt att försöka få in sju nya spelare i systemet”",
+      "description": "Det är inte ofta som krislaget IFK Mariehamn varit i ledningsposition den här säsongen. Mot AC Oulu var man i förarsätet i en dryg timme.",
+      "link": "https://yle.fi/a/7-10102664?origin=rss",
+      "guid": "https://yle.fi/a/7-10102664",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784995780000
+    },
+    {
+      "title": "Qantas har flugit direkt från Frankrike till Australien",
+      "description": "Tog dryga 19 timmar Att flyga till och från Australien är inte så roligt, inte från Europa i alla fall. Nu är det på väg att bli lite enklare då Airbus och Qantas genomförde sin första direktflygning från Europa till Australien, närmare bestämt från Toulouse till Melbourne. Tanken är att man ska börja flyga från London till Sydney senare i år. Den resan väntas då ta 22 timmar. Modellen heter Airbus A350-1000ULR där ULR står för ultra long range. Den stora skillnaden är en extra bränsletank, en så kallad rear centre tank (RCT) på 20 000 liter, inbyggd i flygkroppens bakre del. Den ger planet omkring 1000 nautiska mil (cirka 1850 kilometer) längre räckvidd än standardversionen, vilket totalt landar på nästan 10 000 nautiska mil (cirka 18 500 kilometer) utan mellanlandning. Förutom större bränsletankar är planet extrautrustat på andra sätt. Det finns fler viloplatser för personalen och man har jobbat på kabintrycket och med att få bra luftfuktighet i kabinen. Projektet har namnet Project Sunrise, detta eftersom de som flyger den här rutten kommer att få vara med om två solnedgångar och två soluppgångar. L&auml;s vidare och kommentera: https://feber.se/fordon/qantas-har-flugit-direkt-fran-frankrike-till-australien/494418/ L&auml;s mer om Airbus A350-1000ULR , Qantas , Toulouse , Melbourne , ultra long range",
+      "link": "https://feber.se/fordon/qantas-har-flugit-direkt-fran-frankrike-till-australien/494418/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/qantas-har-flugit-direkt-fran-frankrike-till-australien/494418/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1784995200000
+    },
+    {
+      "title": "Man lockade flickor till skogsdunge – erbjöd droger mot sex",
+      "description": "Mannen i 20-årsåldern dömdes till fyra års fängelse för att ha våldtagit två 14-åriga flickor i Botkyrka efter att ha erbjudit dem droger.",
+      "link": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
+      "guid": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
+      "image": "https://www.mitti.se/image-3.333502.300955.20260725163023.cb61889074?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784995200000
+    },
+    {
+      "title": "Målvakterna höll tätt i Seinäjoki i ligaettan i fotboll: ”Anfallsspelet är trögt”",
+      "description": "Seinäjokilaget SJK Akatemia och Ekenäs IF lyckades inte göra mål på lördagseftermiddagen i ligaettan i fotboll.",
+      "link": "https://yle.fi/a/7-10102551?origin=rss",
+      "guid": "https://yle.fi/a/7-10102551",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784995051000
+    },
     {
       "title": "Sanna, 36, fick fel råd av 1177 – behövde opereras",
       "description": "Sanna Melkerson, 36, klämde handen när hon klöv ved och ringde 1177. Hon fick rådet att avvakta – men åkte ändå till akuten. – Jag behövde opereras redan dagen efter, säger hon.",
@@ -32,16 +202,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784993436000
-    },
-    {
-      "title": "Kazakstans ledare till Putin: Avsluta kriget",
-      "description": "Satt bredvid varandra på toppmöte: ”Skam”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784992334000
     },
     {
       "title": "Lou Koller har dött",
@@ -94,7 +254,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784990514000
     },
     {
-      "title": "Kalevaspelen direkt: Andra dagen igång med damernas efterlängtade stavfinal",
+      "title": "Kalevaspelen direkt: Jeanine Nygård trotsade krampen och spurtade till skrällbrons – i sitt sista 400-meterslopp på FM",
       "description": "Yle Sporten följer den andra tävlingsdagen av FM i friidrott i Jyväskylä.",
       "link": "https://yle.fi/a/7-10102669?origin=rss",
       "guid": "https://yle.fi/a/7-10102669",
@@ -224,16 +384,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784985423000
     },
     {
-      "title": "Putins bakslag – sjätte natten i rad",
-      "description": "Ukraina slår till mot viktiga målen",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-mot-ryska-lagerlokaler-inne-pa-sjatte-natten",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-mot-ryska-lagerlokaler-inne-pa-sjatte-natten",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784984652000
-    },
-    {
       "title": "Barnens säkerhet på TikTok sågas av EU",
       "description": "Minderåriga riskerar mobbning på grund av slappa spärrar EU-kommissionen har nu officiellt gått ut och kritiserat TikTok för att plattformen inte gör tillräckligt för att skydda sina yngsta användare. Efter en längre granskning har de kommit fram till att unga användare är alldeles för exponerade på plattformen. Enligt kommissionen är integritetsskyddet så pass svagt att minderåriga riskerar att utsättas för både nätmobbning och kontaktförsök från personer med onda avsikter. Ett av huvudproblemen som lyfts fram är att även konton som ställts in som privata är alldeles för enkla att hitta via andra användares följarlistor. EU kräver nu att TikTok ändrar sina standardinställningar för minderåriga så barnkonton som förval ska vara dolda för alla utom de som barnet uttryckligen har godkänt som följare. Om TikTok inte genomför de nödvändiga säkerhetsjusteringarna kan företaget tvingas betala böter på upp till sex procent av sin globala årsomsättning. TikTok har svarat på kritiken och uppger att de kommer att följa kraven. L&auml;s vidare och kommentera: https://feber.se/internet/barnens-sakerhet-pa-tiktok-sagas-av-eu/494413/ L&auml;s mer om TikTok , EU-kommissionen , barnskydd , integritet , sociala medier , EU",
       "link": "https://feber.se/internet/barnens-sakerhet-pa-tiktok-sagas-av-eu/494413/?utm_source=rss&utm_medium=feed",
@@ -312,16 +462,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784981580000
-    },
-    {
-      "title": "Varnar för bullbedragare",
-      "description": "Fula knepet – slår till i folks hem",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d6255db-2d12-4e1b-84f5-78808e00229c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784980848000
     },
     {
       "title": "Kvinna hamnade på akuten efter en av livets lyckligaste dagar – nu har forskare hittat svaret på den märkliga händelsen",
@@ -434,16 +574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784975510000
     },
     {
-      "title": "Johanna, 39, fick köttallergi av fästingbett",
-      "description": "I flera år fick Johanna Cagner olika allergisymptom utan att veta varför. Till slut knäckte en specialistläkaren koden. – Över telefon säger han ”jag tror att du är köttallergiker”, varpå jag började asgarva för jag var ju vegetarian, säger Johanna Cagner.",
-      "link": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
-      "guid": "https://www.expressen.se/nyheter/sverige/johanna-39-fick-kottallergi-av-fastingbett/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784974528000
-    },
-    {
       "title": "Nytt superplan kan flyga över hela jorden – utan mellanlandning",
       "description": "Airbus A350-1000ULR testas just nu för fullt. Det nya superplanet banar väg för helt nya direktlinjer och väntas förändra hur vi reser över jorden. Airbus har framgångsrikt slutfört de första testfaserna för sin nya modell A350-1000ULR (Ultra Long Range). Flygplanet är specialutvecklat för att klara några av världens längsta kommersiella rutter – helt utan behov […]",
       "link": "https://www.dagensps.se/teknik/nytt-superplan-kan-flyga-over-hela-jorden-utan-mellanlandning/",
@@ -472,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784973600000
-    },
-    {
-      "title": "Flera döda i ryska och ukrainska attacker",
-      "description": "Ryssland och Ukraina har under natten riktat flera attacker mot varandra, uppger båda sidor.",
-      "link": "https://www.expressen.se/nyheter/varlden/flera-doda-i-ryska-och-ukrainska-attacker/",
-      "guid": "https://www.expressen.se/nyheter/varlden/flera-doda-i-ryska-och-ukrainska-attacker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784971688000
     },
     {
       "title": "Vattenmelon med smaksatt socker",
@@ -514,16 +634,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784971412000
     },
     {
-      "title": "Israel förbereder militärinsats på Västbanken",
-      "description": "Fyra palestinier och två israeler har dödats i en skottlossning på Västbanken på fredagen. Nu förbereder Israel en större militär operation på Västbanken. – Befolkningen måste evakueras för deras egen säkerhet, säger Israels finansminister Bezalel Smotrich",
-      "link": "https://www.expressen.se/nyheter/varlden/israel-forbereder-militarinsats-pa-vastbanken/",
-      "guid": "https://www.expressen.se/nyheter/varlden/israel-forbereder-militarinsats-pa-vastbanken/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784970388000
-    },
-    {
       "title": "Ny upptäckt: Din mamma gav dig livet, men hon lämnade även efter sig något annat i din hjärna",
       "description": "Det kan ha dolt sig djupt inne i ditt huvud och följt med dig genom åren.",
       "link": "https://illvet.se/manniskan/ny-upptackt-din-mamma-gav-dig-livet-men-hon-lamnade-aven-efter-sig-nagot-annat-i-din-hjarna",
@@ -545,23 +655,13 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Över 270 000 evakuerade undan bränderna i Frankrike och Spanien",
-      "description": "Skogsbränderna i Frankrike och Spanien sprider sig och hotar nu storstäderna Bordeaux och Madrid.",
+      "description": "Skogsbränderna sprider sig och hotar nu storstäderna Bordeaux och Madrid. De franska evakueringsinsatserna är troligen de största i landets fredstida historia.",
       "link": "https://yle.fi/a/7-10102658?origin=rss",
       "guid": "https://yle.fi/a/7-10102658",
       "image": "",
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784969856000
-    },
-    {
-      "title": "Presidentens nya hot: ”Redo”",
-      "description": "Varnar för fler attacker",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-nya-varning-till-iran-laddade-och-klara",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-nya-varning-till-iran-laddade-och-klara",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784969676000
     },
     {
       "title": "Flera VM-medaljer till Ingå i skytte – bröderna Wilkman etta och trea",
@@ -634,16 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784966100000
     },
     {
-      "title": "Finska jätten slår orderrekord",
-      "description": "Finska Wärtsilä redovisar ett starkt kvartal med ökad vinst och framför allt fler beställningar än någonsin tidigare. Finländska industrikoncernen Wärtsilä har en inriktning mot gasmotorer, navigationssystem, drivsystem för fartyg och kompletta kraftverk samt olika former av batterilösningar. Nu redovisar man ett starkt första halvår, där bolaget fått fler beställningar än någonsin tidigare, skriver HBL. Avslöjad: […]",
-      "link": "https://www.dagensps.se/bors-finans/finska-jatten-slar-orderrekord/",
-      "guid": "https://www.dagensps.se/?p=1658947",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlz5h-y5ha1c0-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784966025000
-    },
-    {
       "title": "Nu kommer G-klass som cab igen!",
       "description": "Världen håller på och läker En av de onödigaste sakerna man kan ha är en Mercedes G-klass som cab. Det betyder inte att modellen inte är värd att finnas, tvärtom. Det var typ tio år sedan sist, men nu får vi en G-cab igen. Den här gången kommer den dock få fyra dörrar istället för två, som cabben hade tidigare. Cab-versionen verkar bli exklusiv för AMG-versionerna, vilket inte är så konstigt. Premiärdatum är oklart, men mer info kommer med tiden. L&auml;s vidare och kommentera: https://feber.se/bil/nu-kommer-g-klass-som-cab-igen/494416/ L&auml;s mer om Mercedes-AMG , G-Klass , Kab , cab , cabriolet",
       "link": "https://feber.se/bil/nu-kommer-g-klass-som-cab-igen/494416/?utm_source=rss&utm_medium=feed",
@@ -664,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784963679000
     },
     {
-      "title": "Svenskar i dödsolycka i Kroatien",
-      "description": "Svenskar i trafikolycka i Kroatien",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=eaa4ce7c-9204-4dd0-9259-e4f292c8ca5e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=eaa4ce7c-9204-4dd0-9259-e4f292c8ca5e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784963495000
-    },
-    {
       "title": "Jeanine Nygård var borta i över tusen dagar – nu vill hon se rättvisa EM-val",
       "description": "Efter en lång frånvaro är Jeanine Nygård tillbaka och siktar på en ny FM-medalj på 400 meter. Och chansen på en mästerskapsdebut som 34-åring.",
       "link": "https://yle.fi/a/7-10102472?origin=rss",
@@ -682,16 +762,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784963226000
-    },
-    {
-      "title": "Trumps mystiska besked: Ställer upp igen",
-      "description": "Donald Trump förnedrade journalister men hyllade också pressens förmåga att aldrig ge sig. En annan del av hans tal under korrespondentmiddagen i Vita huset tog dock rubrikerna. Att han väntas ställa upp i kommande presidentval.",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-skamtsamma-besked-staller-upp-igen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-skamtsamma-besked-staller-upp-igen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784963170000
     },
     {
       "title": "Anthropic lanserar Opus 5",
@@ -704,16 +774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784962800000
     },
     {
-      "title": "SM-guld på 100 meter för Nora Lindahl – på söndag väntar FM på dubbla distansen",
-      "description": "Sprinterlöparen Nora Lindahl har, tack vare sitt dubbla medborgarskap, möjlighet att tävla både i svenska och finska mästerskapen. En chans hon tänker utnyttja.",
-      "link": "https://yle.fi/a/7-10102656?origin=rss",
-      "guid": "https://yle.fi/a/7-10102656",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784960146000
-    },
-    {
       "title": "Nu ändras reglerna för att övningsköra",
       "description": "Från 1 augusti blir privat övningskörning billigare när introduktionsutbildningen tas bort. Körskolor varnar samtidigt för sämre trafiksäkerhet och fler olyckor.",
       "link": "https://www.mitti.se/nyheter/nu-andras-reglerna-for-att-ovningskora-6.3.369984.fb47f30995",
@@ -722,16 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784960100000
-    },
-    {
-      "title": "Även den som är mest ovan ska känna sig trygg i båten",
-      "description": "Annette Kronholm var över 50 år när hon började segla. Seglingen tränar upp hennes tålamod och hjälper henne att uthärda det oförutsägbara.",
-      "link": "https://yle.fi/a/7-10101920?origin=rss",
-      "guid": "https://yle.fi/a/7-10101920",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784959942000
     },
     {
       "title": "Sauron sätter fart i Maktens ringar",
@@ -764,16 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784959200000
     },
     {
-      "title": "Saudiarabien har genomfört luftanfall mot huthirebeller i Jemen",
-      "description": "Jemens huthirebeller svarade snabbt på anfallen med attacker mot Saudiarabien.",
-      "link": "https://yle.fi/a/7-10102655?origin=rss",
-      "guid": "https://yle.fi/a/7-10102655",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784958239000
-    },
-    {
       "title": "Citrusgrillad lax",
       "description": "Det är enkelt att grilla och servera en bit fisk på skivor av citron. Citronskivorna under fisken har dubbel funktion; dels ger de god smak åt laxen, dels gör de att inte fisken fastnar när den grillas. Prova även med lime eller apelsinskivor, som också ger god smak. Servera fisken med enkla tillbehör som kall örtsås, färskpotatis och sallad.",
       "link": "https://alltommat.expressen.se/recept/citrusgrillad-lax/",
@@ -782,16 +822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784957520000
-    },
-    {
-      "title": "LeBron James NBA-karriär fortsätter i Philadelphia: ”Ger mig ut på resan en sista gång”",
-      "description": "Den 41-åriga basketstjärnan LeBron James byter klubb till Philadelphia 76ers. Enligt egen utsago vill han hjälpa klubben vinna mästerskapet.",
-      "link": "https://yle.fi/a/7-10102654?origin=rss",
-      "guid": "https://yle.fi/a/7-10102654",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784956478000
     },
     {
       "title": "Ny studie avslöjar: Brittiska kolonister förde med sig smittkoppsviruset till Australien – dödade flera hundra tusen människor",
@@ -1212,16 +1242,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784896903000
-    },
-    {
-      "title": "Snart kan du verifiera dig på Facebook",
-      "description": "Visa att du är en riktig person Facebook är som många andra platser på internet fyllt med bottar. För att stävja detta en smula kommer man snart att kunna verifiera att man är en livs levande människa. Processen verkar enkel, man drar igång kameran och visar med hjälp av den att man är samma person som på sin profilbild. Lite som Googles variant vi skrev om igår. Alla som är över 18 ska snart kunna göra detta. Tjänsten rullas ut strax men man tar en region i taget. Tanken är dock att det ska finnas för alla Facebook-användare. L&auml;s vidare och kommentera: https://feber.se/internet/snart-kan-du-verifiera-dig-pa-facebook/494398/ L&auml;s mer om Meta , bottar , identitetsverifiering , sociala medier , ansiktsigenkänning",
-      "link": "https://feber.se/internet/snart-kan-du-verifiera-dig-pa-facebook/494398/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/snart-kan-du-verifiera-dig-pa-facebook/494398/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784896800000
     },
     {
       "title": "Centerline Athletics Cross-Sport Collection",
@@ -2082,16 +2102,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784722620000
-    },
-    {
-      "title": "Forskare hittar påfallande nackdel med populär viktminskningsdiet – och särskilt ett fynd överraskar dem",
-      "description": "Flera av mössen som följde den populära viktminskningsdieten utvecklade plötsligt cancer i tarmsystemet.",
-      "link": "https://illvet.se/halsa/forskare-hittar-pafallande-nackdel-med-popular-viktminskningsdiet-och-sarskilt-ett-fynd-overraskar-dem",
-      "guid": "https://illvet.se/halsa/forskare-hittar-pafallande-nackdel-med-popular-viktminskningsdiet-och-sarskilt-ett-fynd-overraskar-dem",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784721632000
     },
     {
       "title": "MIT’s new lidar chip could give self-driving cars a wider view",
