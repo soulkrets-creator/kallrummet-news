@@ -1,17 +1,127 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-25T01:44:01.111Z",
+  "updatedAt": "2026-07-25T05:33:57.972Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Melania saknas på korrespondensmiddagen",
-      "description": "Anordnas igen efter mordförsöket i maj",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
+      "title": "Citrusgrillad lax",
+      "description": "Det är enkelt att grilla och servera en bit fisk på skivor av citron. Citronskivorna under fisken har dubbel funktion; dels ger de god smak åt laxen, dels gör de att inte fisken fastnar när den grillas. Prova även med lime eller apelsinskivor, som också ger god smak. Servera fisken med enkla tillbehör som kall örtsås, färskpotatis och sallad.",
+      "link": "https://alltommat.expressen.se/recept/citrusgrillad-lax/",
+      "guid": "https://alltommat.expressen.se/recept/citrusgrillad-lax/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1784957520000
+    },
+    {
+      "title": "Trump duckar: ”Är inte...”",
+      "description": "Anklagas för fixning – slår tillbaka",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-duckar-anklagelsen-ar-inte-en-fixare-at-idrottare",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-duckar-anklagelsen-ar-inte-en-fixare-at-idrottare",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784941286000
+      "timestamp": 1784957227000
+    },
+    {
+      "title": "Eldinferot sprider sig i södra Europa – Sverige skickar brandflyg",
+      "description": "Eldinfernot sprider sig i Frankrike och Spanien – nu närmar de sig både Madrid och Bordeaux. Uppemot 200 000 människor har tvingats evakuera i bränderna som ”aldrig tidigare skådats”. Nu skickar Sverige brandflygplan för att hjälpa till. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
+      "link": "https://www.expressen.se/nyheter/varlden/eldinferot-sprider-sig-i-sodra-europa-sverige-skickar-brandflyg/",
+      "guid": "https://www.expressen.se/nyheter/varlden/eldinferot-sprider-sig-i-sodra-europa-sverige-skickar-brandflyg/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784956547000
+    },
+    {
+      "title": "LeBron James NBA-karriär fortsätter i Philadelphia: ”Ger mig ut på resan en sista gång”",
+      "description": "Den 41-åriga basketstjärnan LeBron James byter klubb till Philadelphia 76ers. Enligt egen utsago vill han hjälpa klubben vinna mästerskapet.",
+      "link": "https://yle.fi/a/7-10102654?origin=rss",
+      "guid": "https://yle.fi/a/7-10102654",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784956478000
+    },
+    {
+      "title": "Fyra barndomsvänner öppnade sommarkrog i Åbo: ”Det har varit lärorikt och roligt”",
+      "description": "En sommarstängd pub i Åbo har fått nytt liv i juli, när fyra unga vänner har testat på livet som företagare.",
+      "link": "https://yle.fi/a/7-10102579?origin=rss",
+      "guid": "https://yle.fi/a/7-10102579",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784956218000
+    },
+    {
+      "title": "Satellit registrerar plötslig vändning i Arktis – det som såg ut att vara en positiv utveckling var bara en illusion",
+      "description": "Det såg ut att vara en vändpunkt i kampen mot den globala uppvärmningen.",
+      "link": "https://illvet.se/klimat/satellit-registrerar-plotslig-vandning-i-arktis-det-som-sag-ut-att-vara-en-positiv-utveckling-var-bara-en-illusion",
+      "guid": "https://illvet.se/klimat/satellit-registrerar-plotslig-vandning-i-arktis-det-som-sag-ut-att-vara-en-positiv-utveckling-var-bara-en-illusion",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1784955612000
+    },
+    {
+      "title": "Sommar i P1: Ewa Fröling berättar medryckande – men jag förstår henne inte",
+      "description": "ALBIN JULIN: Så många [geting] får Ewa Frölings sommarprat",
+      "link": "https://www.expressen.se/noje/sommar-i-p1-ewa-froling-berattar-medryckande-men-jag-forstar-henne-inte/",
+      "guid": "https://www.expressen.se/noje/sommar-i-p1-ewa-froling-berattar-medryckande-men-jag-forstar-henne-inte/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784955600000
+    },
+    {
+      "title": "Trumps skämt (?) om omval",
+      "description": "”Jag kommer göra det igen”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=966f1873-3611-4933-8865-f252ad79a8f3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=966f1873-3611-4933-8865-f252ad79a8f3",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784955588000
+    },
+    {
+      "title": "Trump skarpa angrepp vid pressgalan möttes av tystnad",
+      "description": "President Donald Trump höll ett över en timme långt tal vid den omstartade White House Correspondents’ Dinner på Waldorf Astoria i Washington på fredagskvällen. Kvällen som skulle vara pressfest blev en uppvisning i personangrepp, med skämt som sällan fick publiken att skratta. ”Som jag sa för tre månader sedan, showen måste fortsätta”, inledde Trump inför […]",
+      "link": "https://www.dagensps.se/varlden/politik/trump-skarpa-angrepp-vid-pressgalan-skamten-mottes-av-tystnad/",
+      "guid": "https://www.dagensps.se/?p=1658914",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-mark-schiefelbein-aptt-91e1cd31.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784955211000
+    },
+    {
+      "title": "Här är era tankar om nakenhet: ”Jag är stolt över den finländska nakenkulturen”",
+      "description": "Rena rama nakenparaden uppstod i relationspoddens brevlåda när vi frågade er om er syn på nakenhet.",
+      "link": "https://yle.fi/a/7-10102554?origin=rss",
+      "guid": "https://yle.fi/a/7-10102554",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784953514000
+    },
+    {
+      "title": "Efter konstant smärta och trötthet lät Sara Back operera bort bröstimplantaten: ”En otrolig lättnad”",
+      "description": "Personliga tränaren och exbikinifitnesstävlaren Sara Back ångrar inte sina bröstimplantat, men skulle gärna ha hört mer om vilka biverkningar som kan uppstå.",
+      "link": "https://yle.fi/a/7-10102412?origin=rss",
+      "guid": "https://yle.fi/a/7-10102412",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784953213000
+    },
+    {
+      "title": "Rysk e-handelsjätte i Ukrainas skottlinje",
+      "description": "Efter månader av attacker mot oljedepåer och raffinaderier i Ryssland tycks Ukraina ha breddat sitt fokus. Ukrainska drönare har den senaste veckan attackerat enorma e-handelslager tillhörande den ryska e-handelsjätten Wildberries. Enligt Ukraina är företaget delaktigt i leveranser till den ryska militären. Efter månader av attacker mot oljedepåer och raffinaderier i Ryssland tycks Ukraina ha breddat […]",
+      "link": "https://www.dagensps.se/varlden/konflikter/rysk-e-handelsjatte-i-ukrainas-skottlinje/",
+      "guid": "https://www.dagensps.se/?p=1658909",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/boende-i-elektrostal-utanfor-moskva-fram.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1784953184000
     },
     {
       "title": "Fartyg beskjutet i Omanbukten",
@@ -21,7 +131,77 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784940819000
+      "timestamp": 1784953014000
+    },
+    {
+      "title": "Hopptorn, tågbana och leksaksaffär: Så minns vi barndomens Raseborg",
+      "description": "Vem minns Piponius på Kungsgatan och rutschkanan vid Simmis? Den här gången dyker vi ner i barndomsminnen från somrarna i Ekenäs.",
+      "link": "https://yle.fi/a/7-10101427?origin=rss",
+      "guid": "https://yle.fi/a/7-10101427",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784952673000
+    },
+    {
+      "title": "Gudrun Schyman: ”Nu slipper jag det där helvetet”",
+      "description": "Dagens partiledare är fega och smaklösa och hon har ingen aning om vem av dem som ska få hennes röst i riksdagsvalet. Gudrun Schyman saknar mod i politiken – sånt som hon själv säger sig ha bidragit med under decennierna. – Det har aldrig kommit fram så många människor till mig och sagt ”jag saknar dig i politiken” som nu. Och då svarar jag ”det gör jag också”.",
+      "link": "https://www.expressen.se/nyheter/sverige/gudrun-schyman-nu-slipper-jag-det-dar-helvetet/",
+      "guid": "https://www.expressen.se/nyheter/sverige/gudrun-schyman-nu-slipper-jag-det-dar-helvetet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784952000000
+    },
+    {
+      "title": "Stilen stockholmarna INTE vill se i sommar",
+      "description": "Sommartrender 2026 – det ska man ha på sig och det ska man inte ha på sig",
+      "link": "https://www.mitti.se/nyheter/stilen-stockholmarna-inte-vill-se-i-sommar-6.3.366996.b10d5e20f7",
+      "guid": "https://www.mitti.se/nyheter/stilen-stockholmarna-inte-vill-se-i-sommar-6.3.366996.b10d5e20f7",
+      "image": "https://www.mitti.se/image-3.371606.293796.20260725043002.1.c8aefd5df8?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1784952000000
+    },
+    {
+      "title": "”El diablo” gripen i Costa Rica",
+      "description": "2 500 skott avlossade i tillslaget i Costa Rica",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e7794369-b963-48b3-99ae-06e652dd5706",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e7794369-b963-48b3-99ae-06e652dd5706",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784951376000
+    },
+    {
+      "title": "Feelgood på sommaren och deckare på vintern, säger bokhandlaren",
+      "description": "Sommaren är högsäsong för pocketböcker och antikvariat. I Karis säljer lokalhistoria bäst, medan begagnade Harlequinböcker blivit samlarobjekt.",
+      "link": "https://yle.fi/a/7-10099537?origin=rss",
+      "guid": "https://yle.fi/a/7-10099537",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784950318000
+    },
+    {
+      "title": "Därför reser en amerikansk professor till Finland för att studera Päivi Räsänen",
+      "description": "Kristdemokraten Päivi Räsänen har blivit så viktig för USA:s kristna höger att professorn Joshua Wilson forskar om henne. Han tror att Räsänen kan vinna sin kamp om religiös yttrandefrihet i Europadomstolen.",
+      "link": "https://yle.fi/a/7-10102517?origin=rss",
+      "guid": "https://yle.fi/a/7-10102517",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1784948445000
+    },
+    {
+      "title": "Melania saknas på korrespondensmiddagen",
+      "description": "Anordnas igen efter mordförsöket i maj",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=23338e85-19c9-465c-8fa3-922aa06c84c9",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1784941286000
     },
     {
       "title": "”Decenniets skilsmässa” klar – skyldig 6 miljarder",
@@ -35,7 +215,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Barron kan tvingas vittna om Tatebröder",
-      "description": "Donald Trumps yngsta son Barron har länge varit en stor beundrare av Andrew Tate. Nu vill en senator utreda om 20-åringen har varit inblandad i något av brotten som Tate är anklagad för.",
+      "description": "Donald Trumps yngsta son Barron har länge varit en stor beundrare av Andrew Tate. Nu vill en senator utreda om 20-åringen har varit inblandad i något av brotten som Tate är anklagad för. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
       "link": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
       "guid": "https://www.expressen.se/nyheter/varlden/barron-kan-tvingas-vittna-om-tatebroder/",
       "image": "",
@@ -304,34 +484,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784916807000
     },
     {
-      "title": "Trumps hot mot EU – efter böter",
-      "description": "”SUCK” • Presidentens nya hot mot EU",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=43b5c7a8-9502-4552-a3a8-0697e5b9e0d9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=43b5c7a8-9502-4552-a3a8-0697e5b9e0d9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784916462000
-    },
-    {
       "title": "Man död efter skottlossning i Hässelby – en gripen",
-      "description": "En man i 25-årsåldern har dött i samband med en skottlossning i Hässelby. En man har gripits misstänkt för mord. – Folk skrek och grät högt, säger en granne om insatsen.",
+      "description": "En man i 25-årsåldern har dött i samband med en skottlossning i Hässelby. En man har gripits misstänkt för mord. – Folk skrek och grät högt, säger en granne om insatsen. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
       "link": "https://www.expressen.se/nyheter/sverige/man-skjuten-i-hasselby-i-vastra-stockholm/",
       "guid": "https://www.expressen.se/nyheter/sverige/man-skjuten-i-hasselby-i-vastra-stockholm/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1784916450000
-    },
-    {
-      "title": "Man skjuten i Hässelby",
-      "description": "Pådrag i västra Stockholm",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b4301b37-ac1c-46bf-83b0-b14e382b867d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b4301b37-ac1c-46bf-83b0-b14e382b867d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784916253000
     },
     {
       "title": "Källor: ICC-åklagaren Karim Khan avsatt efter anklagelser om sexuella trakasserier",
@@ -384,26 +544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784914171000
     },
     {
-      "title": "Polisbåt kraschade med bro – fem skadade",
-      "description": "Fem skadade i centrala London",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=807d3e2a-f1bf-43e0-a9db-4238f9eec5aa",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=807d3e2a-f1bf-43e0-a9db-4238f9eec5aa",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784912936000
-    },
-    {
-      "title": "Ryssland i djup ekonomisk kris – Putin tonar ner",
-      "description": "Bränslekrisen har satt djupa spår i den ryska ekonomin. Men från Moskva är det tyst. Enligt en analys från ISW försöker Putin tona ner landets kris. Missa inga nyheter om kriget – ladda ner Expressens app här.",
-      "link": "https://www.expressen.se/nyheter/varlden/ryssland-i-djup-ekonomisk-kris--putin-tonar-ner/",
-      "guid": "https://www.expressen.se/nyheter/varlden/ryssland-i-djup-ekonomisk-kris--putin-tonar-ner/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784912736000
-    },
-    {
       "title": "Ny dokumentär om Stan Lees sista tid",
       "description": "Här är trailern för Stan Lee: The Final Chapter Här har vi en trailer för dokumentären Stan Lee: The Final Chapter där vi får följa Marvel-ikonen Stan Lees sista tid i livet. Filmen bygger på tidigare opublicerat material som filmats av Jon Bolerjack, som arbetade nära Lee som hans personliga assistent under denna period. Dokumentären ska tydligt måla upp en bild av en man som behöll sin optimism trots de maktkamper och anklagelser om utnyttjande som pågick bakom kulisserna. Stan Lee: The Final Chapter har sin premiär under San Diego Comic-Con och blir tillgänglig digitalt från den 28 juli. L&auml;s vidare och kommentera: https://feber.se/film/ny-dokumentar-om-stan-lees-sista-tid/494320/ L&auml;s mer om Stan Lee , Stan Lee: The Final Chapter , Jon Bolerjack , Marvel , San Diego Comic-Con",
       "link": "https://feber.se/film/ny-dokumentar-om-stan-lees-sista-tid/494320/?utm_source=rss&utm_medium=feed",
@@ -422,16 +562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784912400000
-    },
-    {
-      "title": "Milton, 16, dog i olycka: ”Hans mc-intresse var enormt stort”",
-      "description": "Milton Ek, 16, avled i en mc-olycka efter att ha blivit påkörd av en bil i Lerum. Hundratals människor hedrade hans minne på olycksplatsen. – Att köra mc var Milton stora intresse. Han dog exakt en månad efter att han klarat uppkörningen, säger pappan Nicklaes Ek.",
-      "link": "https://www.expressen.se/nyheter/milton-16-dog-i-olycka-hans--mc-intresse-var-enormt-stort/",
-      "guid": "https://www.expressen.se/nyheter/milton-16-dog-i-olycka-hans--mc-intresse-var-enormt-stort/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784912028000
     },
     {
       "title": "Trafik: 75-åring vann i rätten – mot fyra poliser",
@@ -462,16 +592,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784910600000
-    },
-    {
-      "title": "Polisen undersöker misstänkt bil vid badplats",
-      "description": "Konstig parkering • Slängde saker i vattnet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8d5db8a-2259-4e00-902f-880a6edc54f3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8d5db8a-2259-4e00-902f-880a6edc54f3",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784909766000
     },
     {
       "title": "Den här Husqvarna-crossen har ägts av Steve McQueen",
@@ -604,16 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784902500000
     },
     {
-      "title": "Myndighet slutade rapportera – då tog han över",
-      "description": "När myndigheterna slutade rapportera om cyanobakterier i Östersjön tog marinbiologen saken i egna händer. Nu rapporterar han på Instagram. ”Hidden in a drop” heter det Instagram-konto marinbiologen Conny Sjöqvist grundat. Varje onsdag publicerar han en koll över läget kring cyanobakterier, de som kallas blågröna alger, i Östersjön. Conny Sjöqvists mål är att göra informationen lättillgänglig […]",
-      "link": "https://www.dagensps.se/varlden/myndighet-slutade-rapportera-da-tog-han-over/",
-      "guid": "https://www.dagensps.se/?p=1658848",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlslq33rhs04a-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784901995000
-    },
-    {
       "title": "Microsoft stoppar LG:s McAfee-reklam",
       "description": "Efter massiv kritik För någon vecka sedan rapporterade vi om att LG automatiskt installerade oönskad mjukvara på folks Windows-datorer när man kopplade in deras skärmar. Appen, som heter LG Monitor App Installer, började därefter visa pop-up-fönster med reklam för McAfee antivirus, i vissa fall vid varje systemstart. Efter rejält med kritik från användare har Microsoft nu ingripit och gått med på att stoppa de aggressiva McAfee-annonser efter att Epic Games vd Tim Sweeney lyft problemet direkt till Windows-chefen Pavan Davuluri. Davuluri bekräftade att Microsoft varit i kontakt med LG och att de nu har gått med på att inaktivera McAfee-annonserna. Microsoft anser nämligen att de alltid ser över hur de kan förbättra användarupplevelsen och rensa bort bloatware som stör kunderna. Trots att LG nu backar har det koreanska företaget i officiella uttalanden försvarat sin metod. De hävdar att ingen mjukvara installeras utan användarens samtycke och pekar på att distributionen sker via Microsofts egna officiella kanaler för drivrutiner. Detta motsägs dock av många användare som vittnar om att appen installerats helt i bakgrunden utan någon tydlig förfrågan. L&auml;s vidare och kommentera: https://feber.se/pc/microsoft-stoppar-lgs-mcafee-reklam/494387/ L&auml;s mer om LG , Microsoft , McAfee , Tim Sweeney , Windows , bloatware",
       "link": "https://feber.se/pc/microsoft-stoppar-lgs-mcafee-reklam/494387/?utm_source=rss&utm_medium=feed",
@@ -622,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784901600000
-    },
-    {
-      "title": "Anduril kan få biljonvärdering – branschen exploderar",
-      "description": "Det finns gott om pengar i defense tech just nu. Det visar uppgifterna om Andurils kommande värdering tydligt. Försvarsteknikbolaget Anduril för samtal med investerare om en ny finansieringsrunda. Det kan ge bolaget en värdering på omkring 100 miljarder dollar, motsvarande närmare 1 000 miljarder kronor. Det uppger Reuters med hänvisning till källor med insyn i […]",
-      "link": "https://www.dagensps.se/bors-finans/anduril-kan-fa-biljonvardering-branschen-exploderar/",
-      "guid": "https://www.dagensps.se/?p=1658846",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdledcgujgsbwa-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784901199000
     },
     {
       "title": "Forskare filmar späckhuggare i våldsam attack",
@@ -864,16 +964,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784894217000
     },
     {
-      "title": "Tågtrafiken på kustbanan börjar igen, men långa sommaravbrott väntar också 2027 och 2028",
-      "description": "På måndag börjar tågen trafikera kustbanan igen. Men arbetena är inte klara så nya sommaravbrott behövs också framöver.",
-      "link": "https://yle.fi/a/7-10102636?origin=rss",
-      "guid": "https://yle.fi/a/7-10102636",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784893239000
-    },
-    {
       "title": "Populär mjukvara används för att sprida skadlig kod",
       "description": "Ukrainska myndigheter varnar för att hackare sprider skadlig kod med hjälp av Lunch Poke, ett tillägg till den populära mjukvaran Notepad++. Dessutom sprids den skadliga koden via ett VBS-skript som påstås vara ett pdf-dokument. För att vara på den säkra sidan uppmanas användarna därför att uppdatera Notepad++ till version 8.9.7, 7-Zip till version 26.0.2 och Winrar till version 7.23. Personerna bakom kampanjen tycks ha kopplingar till den ryska hackargruppen Sandworm (APT 44), rapporterar Bleeping Computer .",
       "link": "https://computersweden.se/article/4201201/popular-mjukvara-anvands-for-att-sprida-skadlig-kod.html",
@@ -892,16 +982,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784892600000
-    },
-    {
-      "title": "Man fick över tio års fängelse för dråp",
-      "description": "Mannen misshandlade och tog livet av sin hustru i Mattby i Esbo i månadsskiftet februari–mars.",
-      "link": "https://yle.fi/a/7-10102637?origin=rss",
-      "guid": "https://yle.fi/a/7-10102637",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784892584000
     },
     {
       "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
@@ -974,26 +1054,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784887200000
     },
     {
-      "title": "Sibbobor kan få vänta tiotals år på gästbåtshamn",
-      "description": "Ingen lämplig plats har ännu bestämts och det kommer förmodligen att ta flera år innan Sibbo kommun kan sätta i gång med att bygga en gästbåtshamn.",
-      "link": "https://yle.fi/a/7-10102615?origin=rss",
-      "guid": "https://yle.fi/a/7-10102615",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784887153000
-    },
-    {
-      "title": "Fotbollstränaren Jürgen Klopp tar över tyska landslaget",
-      "description": "Fotbollstränaren Jürgen Klopp är klar för Tysklands herrlandslag. Klopp tar över efter Julian Nagelsmann.",
-      "link": "https://yle.fi/a/7-10102627?origin=rss",
-      "guid": "https://yle.fi/a/7-10102627",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784886675000
-    },
-    {
       "title": "Man greps i natt – försökte dränka ex-flickvän i damm",
       "description": "En man har gripits misstänkt för mordförsök/grov misshandel efter att ha attackerat sin ex-flickvän vid en damm. Han ska försökt strypa och dränka henne efter ett bråk.",
       "link": "https://www.mitti.se/nyheter/man-greps-i-natt--forsokte-dranka-exflickvan-i-damm-6.3.377375.4b3f252fa5",
@@ -1032,16 +1092,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784884200000
-    },
-    {
-      "title": "Högsta domstolen behandlar inte fallet Timo Vornanen",
-      "description": "Riksdagsledamoten Timo Vornanen, som tidigare hörde till Sannfinländarna, dömdes till villkorligt fängelse efter ett gräl på en krog.",
-      "link": "https://yle.fi/a/7-10102626?origin=rss",
-      "guid": "https://yle.fi/a/7-10102626",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784883977000
     },
     {
       "title": "Ny våg av SMS-bluffar utger sig för att vara Trafikverket",
@@ -1084,16 +1134,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784881800000
     },
     {
-      "title": "Michelle Karvinen ansluter sig till de regerande mästarna från Montreal",
-      "description": "Den finländska ishockeyspelaren Michelle Karvinen byter klubb. Hon flyttar från Vancouver Goldeneyes till Montreal Victoire.",
-      "link": "https://yle.fi/a/7-10102618?origin=rss",
-      "guid": "https://yle.fi/a/7-10102618",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784880320000
-    },
-    {
       "title": "I dag flyger försvarets helikoptrar på låg höjd i stan",
       "description": "Försvarsmakten och polisen genomför en övning vid riksdagen i Stockholm. Under fredagen kan militärhelikoptrar på låg höjd synas över centrala stan.",
       "link": "https://www.mitti.se/nyheter/i-dag-flyger-forsvarets-helikoptrar-pa-lag-hojd-i-stan-6.3.377367.3ea1af0306",
@@ -1102,16 +1142,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784880161000
-    },
-    {
-      "title": "Toppmodern isbrytare byggs i Helsingfors och skeppas till Kanada",
-      "description": "Hälften av världens isbrytare har byggts av Helsinki Shipyard. Polar Max är en isbrytare i absolut toppklass som 2030 ska vara klar för användning av den kanadensiska kustbevakningen.",
-      "link": "https://yle.fi/a/7-10100764?origin=rss",
-      "guid": "https://yle.fi/a/7-10100764",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784880014000
     },
     {
       "title": "Sallad med små tomater och ädelostkräm",
@@ -2114,16 +2144,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784653200000
     },
     {
-      "title": "En brittisk kemist upptäckte en enkel process som förekommer överallt i din vardag – och som kan komma att bryta ny mark",
-      "description": "Det började som bubblor i ett brittiskt reagensglas för 225 år sedan. Sedan dess har den kemiska processen blivit vanlig inom industrin. I framtiden kan den bana väg för ett grönare samhälle, fritt från beroendet av olja och gas.",
-      "link": "https://illvet.se/fysik/en-brittisk-kemist-upptackte-en-enkel-process-som-forekommer-overallt-i-din-vardag-och-som-kan-komma-att-bryta-ny-mark",
-      "guid": "https://illvet.se/fysik/en-brittisk-kemist-upptackte-en-enkel-process-som-forekommer-overallt-i-din-vardag-och-som-kan-komma-att-bryta-ny-mark",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784649631000
-    },
-    {
       "title": "Råttjakt på centralen – över 30 verksamheter kontrollerades",
       "description": "Miljöförvaltningen granskade ett 30-tal butiker och restauranger på Stockholms centralstation efter larm om råttor. Två verksamheter hade spår av skadedjur, varav en restaurang med allvarliga brister.",
       "link": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
@@ -2522,16 +2542,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784541934000
-    },
-    {
-      "title": "Trerättersmeny med grillat kött med örtaioli",
-      "description": "Bjud in till sommargrill med spansk potatis, grillad pluma och örtaioli. En härlig meny som bara tar 1 timme att laga och receptmakaren delar tips på hur du planerar middagen och dryck som passar till maten. laga och njut!",
-      "link": "https://alltommat.expressen.se/artiklar/trerattersmeny-med-grillat-kott-med-ortaioli/",
-      "guid": "https://alltommat.expressen.se/artiklar/trerattersmeny-med-grillat-kott-med-ortaioli/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784538847000
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
