@@ -1,17 +1,127 @@
 {
-  "updatedAt": "2026-07-26T01:46:27.696Z",
+  "updatedAt": "2026-07-26T05:49:58.482Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Isabelle, 38, jagas efter brutala mordet",
-      "description": "I juni hittades tvåbarnspappan Jason Coulthart, 43, med ett buntband runt halsen och begravd i en grund grav täckt med betong. Nu jagar polisen 38-åriga Isabelle Rose Johnson. En stor skorpionstatuering kan vara till polisens hjälp.",
-      "link": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
-      "guid": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
+      "title": "USA: Handelsfartyg beskjutet",
+      "description": "Risk för eskalering",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785027175000
+      "timestamp": 1785044363000
+    },
+    {
+      "title": "Trailer för Neuromancer!",
+      "description": "Serie baserad på William Gibsons roman Den klassiska cyberpunkromanen Neuromancer, som definierade begreppet cyberspace, kommer som tv-serie till Apple TV. Det visste vi sedan tidigare, men nu har vi fått en teasertrailer och ett premiärdatum! Den 22 januari 2027 är det dags att bänka dig om du är pepp, vilket jag verkligen är. I serien, som är skapad av Graham Roland och J.D. Dillard, får vi följa hackern Case (Callum Turner). Serien har tio avsnitt och förutom Callum får vi se Briana Middleton, Peter Sarsgaard, Marc Menchaca och Max Irons. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-neuromancer-/494425/ L&auml;s mer om Neuromancer , Apple TV+ , Callum Turner , William Gibson , Cyberpunk",
+      "link": "https://feber.se/film/trailer-for-neuromancer-/494425/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/trailer-for-neuromancer-/494425/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785043800000
+    },
+    {
+      "title": "Flydde från knivkvinna",
+      "description": "Jagade två män i natt",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=654f10c7-1c03-4b69-b78b-d33abb41267e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=654f10c7-1c03-4b69-b78b-d33abb41267e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785043398000
+    },
+    {
+      "title": "Ny massevakuering – fler än 300 000 på flykt undan bränderna",
+      "description": "Bränderna fortsätter rasa i delar av södra Europa och under lördagskvällen beordrades nya massevakueringar. Nu har över 300 000 människor tagit till flykt. ”Läget är fortsatt mycket spänt”, skriver Frankrikes premiärminister Emmanuel Macron på X.",
+      "link": "https://www.expressen.se/nyheter/varlden/ny-massevakuering-fler-an-300-000-pa-flykt-undan-branderna-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ny-massevakuering-fler-an-300-000-pa-flykt-undan-branderna-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785042978000
+    },
+    {
+      "title": "”Mamma kan inte säga nej, snart bränner hon ut sig” – kan man träna på att säga ifrån?",
+      "description": "Det fint att vara en bussig person som ständigt ställer upp. Men vad händer om man aldrig klarar av att säga nej till någonting?",
+      "link": "https://yle.fi/a/7-10102553?origin=rss",
+      "guid": "https://yle.fi/a/7-10102553",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785042014000
+    },
+    {
+      "title": "Sommar i P1: Obegripligt – hur kan Sven Hagströmer få säga så i SR?",
+      "description": "ALBIN JULIN: Så många [geting] får Sven Hagströmers sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-obegripligt--hur-kan-sven-hagstromer-fa-saga-sa-i-sr/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-obegripligt--hur-kan-sven-hagstromer-fa-saga-sa-i-sr/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785042000000
+    },
+    {
+      "title": "Ryssland förlänger stopp på dieselexport",
+      "description": "Stoppet kommunicerades tidigare i juli och skulle gälla till den 31 juli. Nu förlängs stoppet till årets slut, men Ryssland planerar att häva förbudet så snart marknaden återhämtat sig, enligt landets biträdande premiärminister Alexander Novak. Ryssland förlänger sina restriktioner för dieselexport fram till årsskiftet för att komma till rätta med bränslebristen i landet – orsakad […]",
+      "link": "https://www.dagensps.se/varlden/konflikter/ryssland-forlanger-stopp-pa-dieselexport/",
+      "guid": "https://www.dagensps.se/?p=1659027",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/bilko-vid-en-bensinstation-i-moskva-den.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785041703000
+    },
+    {
+      "title": "\"Kaosfärd\" i för liten ambulans när skottskadad fördes till sjukhus",
+      "description": "\"Kaos utan dess like\" i för liten ambulans när skottskadad fördes till sjukhus efter skjutning i Jordbro i Haninge.",
+      "link": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
+      "guid": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
+      "image": "https://www.mitti.se/image-3.248673.301005.20260726052020.a5e6f8bcd6?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785041400000
+    },
+    {
+      "title": "Polisen: 21-åriga Abdul B misstänks ligga bakom Berlindådet",
+      "description": "Polisen misstänker attentat efter att en skåpbil kört in i en folkmassa i centrala Berlin. Nu efterlyser de en misstänkt gärningsperson med kopplingar till islamistiska miljön: 21-åriga Abdul B. ”Han kan vara beväpnad och är att betrakta som farlig”, skriver Berlinpolisen.",
+      "link": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785041165000
+    },
+    {
+      "title": "Som Vörå men större – Charlotta Sandkulla är snäll mot sig själv efter förändringarnas år i USA",
+      "description": "Efter det första året i idrottsbubblan i Virginia jagar Charlotta Sandkulla FM-medalj nummer två i Jyväskylä. Och peaken som släggsäsongen tillsvidare saknat.",
+      "link": "https://yle.fi/a/7-10102475?origin=rss",
+      "guid": "https://yle.fi/a/7-10102475",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785039983000
+    },
+    {
+      "title": "Mopedist påkörd av tåg",
+      "description": "Påkörd av tåg • Man i 30-årsåldern med allvarliga skador",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785039927000
+    },
+    {
+      "title": "Matriarken Anna Sinebrychoff styrde släktens bryggeri bort från spriten, sponsrade konsterna och gav till de fattiga",
+      "description": "En av Helsingfors mäktigaste kvinnor står i centrum i Sinebrychoffmuseets utställning.",
+      "link": "https://yle.fi/a/7-10099027?origin=rss",
+      "guid": "https://yle.fi/a/7-10099027",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785039630000
     },
     {
       "title": "Explosioner i Kiev – ny robotattack",
@@ -21,17 +131,77 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785026984000
+      "timestamp": 1785039349000
     },
     {
-      "title": "Nya massevakueringar i Europa",
+      "title": "Så har Karis förändrats på 60 år: Se bilder på Pumpviken och centrum",
+      "description": "I år firar Karis 700 år och Karis hembygdsförening ser på staden genom att jämföra hur den förändrats sedan 1970.",
+      "link": "https://yle.fi/a/7-10102572?origin=rss",
+      "guid": "https://yle.fi/a/7-10102572",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785039193000
+    },
+    {
+      "title": "Antonio Massari har 800 fotbollströjor och fyndar fler i Afrikas största slum",
+      "description": "Antonio Massaris liv kretsar kring fotbollströjor. För att finansiera sitt samlande, fyndar han tröjor i Afrikas största slum för att sälja dem i Europa.",
+      "link": "https://yle.fi/a/7-10096395?origin=rss",
+      "guid": "https://yle.fi/a/7-10096395",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785038094000
+    },
+    {
+      "title": "Nya massevakueringar",
       "description": "Brandinfernot växer – 55 000 tvingas fly",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
       "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785025251000
+      "timestamp": 1785037017000
+    },
+    {
+      "title": "Helsingfors hoppas att Alvar Aalto-objekt kommer med på världsarvslistan – kan locka ännu fler turister",
+      "description": "Helsingfors stad tror att en potentiell världsarvsstatus kan ha en positiv inverkan på turismen.",
+      "link": "https://yle.fi/a/7-10102307?origin=rss",
+      "guid": "https://yle.fi/a/7-10102307",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785034814000
+    },
+    {
+      "title": "En död i Berlin efter att bil körde in i folkmassa på pridefirande",
+      "description": "Den misstänkta gärningsmannen har islamistiska kopplingar och jagas nu av polisen.",
+      "link": "https://yle.fi/a/7-10102670?origin=rss",
+      "guid": "https://yle.fi/a/7-10102670",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785034812000
+    },
+    {
+      "title": "Varningen från generalen – har slut på robotar",
+      "description": "Trump vill attackera Iran hårt, men hans militära rådgivare säger ifrån. Anledningen? Enligt New York Times kan en ny offensiv helt tömma USA:s lager av luftvärnsrobotar.",
+      "link": "https://www.expressen.se/nyheter/varlden/varningen-fran-generalen-har-slut-pa-robotar-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varningen-fran-generalen-har-slut-pa-robotar-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785033862000
+    },
+    {
+      "title": "Isabelle, 38, jagas efter brutala mordet",
+      "description": "I juni hittades tvåbarnspappan Jason Coulthart, 43, med ett buntband runt halsen och begravd i en grund grav täckt med betong. Nu jagar polisen 38-åriga Isabelle Rose Johnson. En stor skorpionstatuering kan vara till polisens hjälp.",
+      "link": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785027175000
     },
     {
       "title": "Uppgifter: Kim skickar nya soldater till Putin",
@@ -54,18 +224,8 @@
       "timestamp": 1785016808000
     },
     {
-      "title": "Mopedist påkörd av tåg",
-      "description": "”Ambulanser och ambulanshelikopter på väg”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785013857000
-    },
-    {
       "title": "Bil har kört in i folkmassa i Berlin – flera skadade",
-      "description": "En bil har kört in i en folkmassa i vid Brandenburg Tor i centrala Berlin. En person har dött, enligt Bild , som också skriver att ett stickvapen ska ha använts. – Det var väldigt obehagligt, säger svenska Victor Fabricius, 44, som var på plats.",
+      "description": "En bil har kört in i en folkmassa vid Brandenburg Tor i centrala Berlin. En kvinna har dött och minst 16 har skadats, enligt Bild . Polisen jagar en man med islamistiska kopplingar som ska använt ett stickvapen.",
       "link": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
       "guid": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
       "image": "",
@@ -184,26 +344,6 @@
       "timestamp": 1785002169000
     },
     {
-      "title": "Värmen från sydeuropa drar in – på blixtvisit",
-      "description": "Den sydeuropeiska värmen vandrar upp mot Sverige. Men bara på ett kort besök. – Det kan bli upp till 27 grader, sen blir det ostadigt igen, säger meteorologen Erik Höjgård-Olsen.",
-      "link": "https://www.expressen.se/nyheter/vader/varmen-fran-sydeuropa-drar-in--pa-blixtvisit/",
-      "guid": "https://www.expressen.se/nyheter/vader/varmen-fran-sydeuropa-drar-in--pa-blixtvisit/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785001698000
-    },
-    {
-      "title": "Motortävling avbruten – allvarlig olycka",
-      "description": "Allvarlig olycka – evenemanget avbröts",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=caf582f4-6ce0-4a40-8d75-7a786e9d9091",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=caf582f4-6ce0-4a40-8d75-7a786e9d9091",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785000792000
-    },
-    {
       "title": "Emilia Karell inför EM-resan: ”Jag har inte riktigt fattat att jag är på väg ännu”",
       "description": "Det andra raka FM-guldet kom i utmanande vindar – och nu börjar Sjundeå IF:s spjutkastare Emilia Karell fokusera på karriärens första seniormästerskap.",
       "link": "https://yle.fi/a/7-10102470?origin=rss",
@@ -212,16 +352,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785000622000
-    },
-    {
-      "title": "Våldtog kvinna medan han tatuerade henne",
-      "description": "En tatuerare i Stockholm döms till tre års fängelse för att ha våldtagit en kvinnlig kund – medan han tatuerade henne. Kvinnan berättar att hon fick panik, men inte vågade säga ifrån.",
-      "link": "https://www.expressen.se/nyheter/sverige/valdtog-kvinna-medan-han-tatuerade-henne/",
-      "guid": "https://www.expressen.se/nyheter/sverige/valdtog-kvinna-medan-han-tatuerade-henne/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785000376000
     },
     {
       "title": "Jakobs dagar samlar både stadsbor och sommargäster: ”Det är en jätteviktig tradition”",
@@ -234,16 +364,6 @@
       "timestamp": 1785000315000
     },
     {
-      "title": "Slagsmål efter trafikolycka",
-      "description": "Två bilar i krock – sen uppstod tumult",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3b23a14a-0ad8-487b-93c7-8e8731a1b11e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3b23a14a-0ad8-487b-93c7-8e8731a1b11e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785000019000
-    },
-    {
       "title": "Unikt lastfartyg godkänt: Drivs med smält salt",
       "description": "Sydkorea har fått ett godkännande för ett gigantiskt containerfartyg som drivs av två kärnreaktorer med smält salt. Det är ett unikt koncept som nu fått sitt godkännande i Sydkorea. 16 juli offentliggjorde ett statligt institut nyheten som kan förändra den globala sjöfarten i grunden. Det handlar om ett lastfartyg, ett gigantiskt containerfartyg, som drivs av […]",
       "link": "https://www.dagensps.se/teknik/unikt-lastfartyg-godkant-drivs-med-smalt-salt/",
@@ -252,16 +372,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1784996921000
-    },
-    {
-      "title": "Två gripna på E4 – bilen full med kaffe",
-      "description": "Stillastående bil väckte misstankar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=743d62c2-e7fc-4d6f-8e5e-1c241d3c8592",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=743d62c2-e7fc-4d6f-8e5e-1c241d3c8592",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784996497000
     },
     {
       "title": "IFK Mariehamn hann skymta första segern i horisonten: ”Lite kaotiskt att försöka få in sju nya spelare i systemet”",
@@ -312,16 +422,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784995051000
-    },
-    {
-      "title": "Sanna, 36, fick fel råd av 1177 – behövde opereras",
-      "description": "Sanna Melkerson, 36, klämde handen när hon klöv ved och ringde 1177. Hon fick rådet att avvakta – men åkte ändå till akuten. – Jag behövde opereras redan dagen efter, säger hon.",
-      "link": "https://www.expressen.se/nyheter/sverige/sanna-36-fick-fel-rad-av-1177-behovde-opereras/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sanna-36-fick-fel-rad-av-1177-behovde-opereras/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784994637000
     },
     {
       "title": "Batterilagring: En lösning på 13×15 meter från Finland",
@@ -584,16 +684,6 @@
       "timestamp": 1784978969000
     },
     {
-      "title": "I Mörskom kan Johan Savonius provköra sina tolv bilar mitt i natten utan att störa någon",
-      "description": "När pensionen närmar sig väljer många en lättskött bostad. Johan Savonius bytte Sibbo mot ett gammalt hus med ridstall i Mörskom, som han fyllt med tolv bilar.",
-      "link": "https://yle.fi/a/7-10099020?origin=rss",
-      "guid": "https://yle.fi/a/7-10099020",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784977514000
-    },
-    {
       "title": "Blade Runner 2099 har premiär i november",
       "description": "Och här är den första trailern Den 25 november är det premiär för Blade Runner-serien Blade Runner 2099 på Prime Video. Handlingen tar vid ett halvsekel efter händelserna i filmen Blade Runner 2049 i ett Los Angeles som inte längre styrs av människor. Serien kretsar kring Cora, en kvinna på flykt som i ett sista desperat försök att bli fri antar identiteten som en Blade Runner. Hon tvingas samarbeta med Olwen (spelad av Michelle Yeoh), en replikant som bara har dagar kvar att leva. Tillsammans jagar de en rymling som bär på en hemlighet som kan få hela staden att kollapsa. I serien hittar vi skådespelare som Michelle Yeoh, Hunter Schafer, Matthew Needham och Tom Burke. L&auml;s vidare och kommentera: https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/ L&auml;s mer om Blade Runner 2099 , Prime Video , Michelle Yeoh , Ridley Scott , Silka Luisa",
       "link": "https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/?utm_source=rss&utm_medium=feed",
@@ -612,16 +702,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784977075000
-    },
-    {
-      "title": "Indiska kackerlacksrörelsen jublar då undervisningsministern avgår",
-      "description": "Demonstrerande unga indier har krävt undervisningsministerns avgång i flera veckors tid. Nu avgår han och protesterna ska avslutas.",
-      "link": "https://yle.fi/a/7-10102661?origin=rss",
-      "guid": "https://yle.fi/a/7-10102661",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784975510000
     },
     {
       "title": "Nytt superplan kan flyga över hela jorden – utan mellanlandning",
@@ -664,16 +744,6 @@
       "timestamp": 1784971470000
     },
     {
-      "title": "Varma vädret som utlovades för början av nästa vecka kan utebli",
-      "description": "Veckoslutets väder är ostadigt och det kan regna också i början av nästa vecka.",
-      "link": "https://yle.fi/a/7-10102660?origin=rss",
-      "guid": "https://yle.fi/a/7-10102660",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784971452000
-    },
-    {
       "title": "Oro på Europas börser att bli som USA – fåtal bolag driver tillväxten",
       "description": "Bakom Stoxx Europe 600-indexets uppgång i år döljer sig en växande sårbarhet: Utvecklingen drivs nästan helt av ett fåtal tunga bolag – med halvledarjätten ASML i spetsen. Den europeiska aktiemarknaden har länge betraktats som en trygg hamn med bred spridning, relativt skyddad från de tvära kast som kan uppstå när enstaka sektorer dominerar. Under 2026 […]",
       "link": "https://www.dagensps.se/bors-finans/oro-pa-europas-borser-att-bli-som-usa-fatal-bolag-driver-tillvaxten/",
@@ -704,26 +774,6 @@
       "timestamp": 1784970000000
     },
     {
-      "title": "Över 270 000 evakuerade undan bränderna i Frankrike och Spanien",
-      "description": "Skogsbränderna sprider sig och hotar nu storstäderna Bordeaux och Madrid. De franska evakueringsinsatserna är troligen de största i landets fredstida historia.",
-      "link": "https://yle.fi/a/7-10102658?origin=rss",
-      "guid": "https://yle.fi/a/7-10102658",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784969856000
-    },
-    {
-      "title": "Flera VM-medaljer till Ingå i skytte – bröderna Wilkman etta och trea",
-      "description": "Ingåskytten William Wilkman vann sin andra guldmedalj i ungdoms-VM i skytte på fredagen. Också lillebror Wilmer Wilkman fick stiga upp på prispallen.",
-      "link": "https://yle.fi/a/7-10102659?origin=rss",
-      "guid": "https://yle.fi/a/7-10102659",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784967484000
-    },
-    {
       "title": "Så duckar du en skattesmäll efter sommarjobbet",
       "description": "Tusentals ungdomar har den senaste månaden hoppat in och kanske tjänat ihop sin första egna lön. Att ha koll på alla detaljer i arbetslivet är dock inte helt självklart, inte heller vad som gäller skattebiten. De första veckorna på sommarjobbet är avklarade och nu väntar belöningen i form av löneutbetalningen. Här är detaljerna du ska […]",
       "link": "https://www.dagensps.se/privatekonomi/sa-duckar-du-en-skattesmall-efter-sommarjobbet/",
@@ -742,26 +792,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784967000000
-    },
-    {
-      "title": "Hollywoodstjärnans oväntade köp: 30 svenska klockor",
-      "description": "Kungsbackabaserade Söner fick en stor beställning på klockor som de trodde var ett bedrägeri. Men det var Hollywoodstjärnan Russell Crowe. Bolaget trodde inte att beställningen, värd omkring 180 000 kronor, var på riktigt. ”Någon skrev och undrade om jag kunde skicka 30 klockor till Spanien innan slutet av månaden, om beställningen lades direkt. Jag har […]",
-      "link": "https://www.dagensps.se/weekend/klockor/hollywoodstjarnans-ovantade-kop-30-svenska-klockor/",
-      "guid": "https://www.dagensps.se/?p=1658957",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/russel-tiktokjpg.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784966826000
-    },
-    {
-      "title": "Allt fler finländare hittar till Montenegro där rekordturismen skapar både tillväxt och problem",
-      "description": "Montenegro har på kort tid blivit en ny favorit bland resenärer. Turismen sätter ändå press på landets ömtåliga kust med hundratals kryssningsfartyg årligen.",
-      "link": "https://yle.fi/a/7-10100783?origin=rss",
-      "guid": "https://yle.fi/a/7-10100783",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784966414000
     },
     {
       "title": "En ny titt på HBO:s Gröna lyktan-serie",
@@ -792,16 +822,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784964600000
-    },
-    {
-      "title": "Gränsbevakningen misstänker att tiotals människor smugglats från Belarus till EU via Finland",
-      "description": "Smugglingen ska ha gått genom Finland och varit systematisk.",
-      "link": "https://yle.fi/a/7-10102657?origin=rss",
-      "guid": "https://yle.fi/a/7-10102657",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784963679000
     },
     {
       "title": "Anthropic lanserar Opus 5",
@@ -1262,16 +1282,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784898000000
-    },
-    {
-      "title": "Unitrees robothund As2 förses med hjul",
-      "description": "Perfekt som hajkingkamrat? Det kinesiska robotföretaget Unitree har visat upp en hjulförsedd version av sin robothund As2, en modell som man presenterade i början av året. Den hjulförsedda versionen av As2 kallas \"As2-W\" och kan ta sig fram betydligt snabbare i vissa miljöer än modellen utan hjul. As2 har en topphastighet på cirka 18 km/h medan As2-W kan rulla fram i hastigheter på över 22 km/h. Batteriet i As2-W räcker i 2–3 timmar, beroende på vad den bär med sig. Det kan jämföras med As2 vars batteri räcker i 2,5–4 timmar. Unitree As2-W tros komma att kosta från 12.000–15.000 dollar, medan As2 kostar från 9500 dollar. Här nedanför kan ni kolla in ett klipp på Unitrees senaste robothund samt lite bilder på den. L&auml;s vidare och kommentera: https://feber.se/pryl/unitrees-robothund-as2-forses-med-hjul/494397/ L&auml;s mer om Unitree , Unitree As2-W , Robothund , As2-W",
-      "link": "https://feber.se/pryl/unitrees-robothund-as2-forses-med-hjul/494397/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/unitrees-robothund-as2-forses-med-hjul/494397/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784897400000
     },
     {
       "title": "HTV: Sammandrag | Hammarby 1-1 Anderlecht",
