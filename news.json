@@ -1,8 +1,158 @@
 {
-  "updatedAt": "2026-07-26T15:54:02.763Z",
+  "updatedAt": "2026-07-26T18:55:09.130Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Macron kallar till krismöte",
+      "description": "Ska diskutera enorma skogsbränderna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f57a0522-4616-4f00-8364-e66257a2fa8c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f57a0522-4616-4f00-8364-e66257a2fa8c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785091932000
+    },
+    {
+      "title": "Indien ska reformera sitt examenssystem efter flera veckor långa protester",
+      "description": "En arbetsgrupp ska arbeta för att göra examenssystemet pålitligare, uppger Indiens premiärminister Narendra Modi.",
+      "link": "https://yle.fi/a/7-10102686?origin=rss",
+      "guid": "https://yle.fi/a/7-10102686",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785089946000
+    },
+    {
+      "title": "Finlandssvenska Elsa Saario i brändernas Bordeaux: ”Livet fortsätter som vanligt”",
+      "description": "För många i regionen är röken ett större hot än lågorna. Också Elsa Saario kände av röklukten tiotals kilometer från eldfronten.",
+      "link": "https://yle.fi/a/7-10102687?origin=rss",
+      "guid": "https://yle.fi/a/7-10102687",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785089184000
+    },
+    {
+      "title": "Paret larmade i tre år – fågelbajs föll ner ur köksfläkten",
+      "description": "Under tre års tid föll fågelbajs ner ur köksfläkten i en lägenhet i Örebro. Trots upprepade klagomål upplevde paret inte att hyresvärden lyssnade. – Köket har blivit en plats som förknippas med oro och äckel, skriver paret till hyresnämnden.",
+      "link": "https://www.expressen.se/nyheter/sverige/paret-larmade-i-tre-ar-fagelbajs-foll-ner-ur-koksflakten/",
+      "guid": "https://www.expressen.se/nyheter/sverige/paret-larmade-i-tre-ar-fagelbajs-foll-ner-ur-koksflakten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785089082000
+    },
+    {
+      "title": "Firandet avbryts – av terrorattack",
+      "description": "Arrangören: ”Undvik utgången”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/firandet-avbryts-av-terrorattacken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/firandet-avbryts-av-terrorattacken",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785087395000
+    },
+    {
+      "title": "Misstänkta terroristen Abdul Ballout, 21, dödad",
+      "description": "Misstänkta terroristen i Berlin, Abdul Ballout, 21, är död. Under en razzia i området Spandau gick han till attack mot poliser, som då sköt ihjäl honom. ”Trots omedelbara livräddande insatser dog han på platsen”, skriver Berlinpolisen på X.",
+      "link": "https://www.expressen.se/nyheter/varlden/tusentals-tyska-poliser--jagar-abdul-ballout-21/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tusentals-tyska-poliser--jagar-abdul-ballout-21/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785087285000
+    },
+    {
+      "title": "Misstänkta gärningsmannen i Berlin har dödats",
+      "description": "Mannen som misstänks ha kört in i en folkmassa under pridefirande i Berlin har dödats. Han sköts efter att ha sprungit mot poliser med ett stickvapen.",
+      "link": "https://yle.fi/a/7-10102688?origin=rss",
+      "guid": "https://yle.fi/a/7-10102688",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785086868000
+    },
+    {
+      "title": "Stökig man på restaurang i Karlskrona",
+      "description": "Försökte slå personal • Blödde från huvudet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1461119f-7ec6-497d-bc71-d27c7ed54cf7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1461119f-7ec6-497d-bc71-d27c7ed54cf7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785085541000
+    },
+    {
+      "title": "Fem bergsklättrare befaras döda på Europas högsta berg",
+      "description": "Kraftig storm på Europas högsta berg",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1b6e511-ecd7-4c6e-85f5-9f5566626f6a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1b6e511-ecd7-4c6e-85f5-9f5566626f6a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785084780000
+    },
+    {
+      "title": "Svenska piloterna i eldinfernot: ”Intensivt arbete”",
+      "description": "Den franska jättebranden kryper allt närmare Bordeaux – och turister uppmanas att hålla sig borta. Två svenska flygplan deltar i insatsen mot eldväggen. – Det är ett intensivt arbete, säger piloternas insatschef Markus Green.",
+      "link": "https://www.expressen.se/nyheter/varlden/svenska-piloterna-i-eldinfernotintensivt-arbete/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svenska-piloterna-i-eldinfernotintensivt-arbete/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785084422000
+    },
+    {
+      "title": "Ett lag rycker i fotbollsligan – Inter fortsätter att schabbla bort poäng vid sidan om Europaspelet",
+      "description": "Det finns bara ett lag som lyckats slå Inter i årets fotbollsliga. Gnistan har nu dessutom lyckats med bedriften två gånger om.",
+      "link": "https://yle.fi/a/7-10102684?origin=rss",
+      "guid": "https://yle.fi/a/7-10102684",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785084367000
+    },
+    {
+      "title": "Nora Lindahl hade en perfekt helg – nu ska hon börja renovera sitt trähus i Helsingfors",
+      "description": "På några dagar blev Nora Lindahl, 21, både svensk och finländsk sprintmästare. Nu väntar ett totalt annorlunda projekt för det nya blåvita stjärnskottet.",
+      "link": "https://yle.fi/a/7-10102474?origin=rss",
+      "guid": "https://yle.fi/a/7-10102474",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785082574000
+    },
+    {
+      "title": "Striktare kontroller – 49 personer nekades jobb i Botkyrka",
+      "description": "För att stärka kommunens integritet har Botkyrka infört striktare bakgrundskontroller vid rekryteringen till kommunala befattningar.",
+      "link": "https://www.mitti.se/nyheter/striktare-kontroller--49-personer-nekades-jobb-i-botkyrka-6.3.376840.3586c35f12",
+      "guid": "https://www.mitti.se/nyheter/striktare-kontroller--49-personer-nekades-jobb-i-botkyrka-6.3.376840.3586c35f12",
+      "image": "https://www.mitti.se/image-3.321621.300969.20260726164628.1.f580d86bee?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785082500000
+    },
+    {
+      "title": "En imponerande tidskapsel: Byggnadsarbetare upptäckte romerskt militärläger med mystiska legionärsgravar",
+      "description": "Vapen, rustningar, skor och mynt hittades plötsligt när byggnadsarbetare förberedde sig för att anlägga en industripark i Slovakien. Det var dock framför allt de många skeletten som förvånade de tillkallade arkeologerna.",
+      "link": "https://varldenshistoria.se/civilisationer/romarriket/en-imponerande-tidskapsel-byggnadsarbetare-upptackte-romerskt-militarlager-med-mystiska-legionarsgravar",
+      "guid": "https://varldenshistoria.se/civilisationer/romarriket/en-imponerande-tidskapsel-byggnadsarbetare-upptackte-romerskt-militarlager-med-mystiska-legionarsgravar",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785081633000
+    },
+    {
+      "title": "Nya regler ska skydda friidrottare från sexualisering",
+      "description": "Låter vettigt Europeiska friidrottsförbundet tar nu tag mot objektifiering av kvinnliga idrottare i tv-rutan. Genom nya riktlinjer uppmanas tv-producenter att sluta använda närgrångna kameravinklar, exempelvis långa närbilder på enskilda kroppsdelar, som riskerar att sexualisera utövarna. Svenska landslagsstjärnan Maja Åskag säger till SVT att hon ser mycket positivt på initiativet. Hon betonar vikten av att idrottare ska kunna fokusera helt på sin sport och känna sig trygga på arenan, utan att behöva oroa sig för att bli objektifierad i sändningarna. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/ L&auml;s mer om Europeiska friidrottsförbundet , Maja Åskag , SVT",
+      "link": "https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785081600000
+    },
     {
       "title": "Trump uppges pausa attacker mot Iran",
       "description": "Attackerade 13 nätter i rad – slutade",
@@ -254,16 +404,6 @@
       "timestamp": 1785067344000
     },
     {
-      "title": "Varnar om Nordkorea",
-      "description": "Uppgifter: Ska sicka 30 000 soldater",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785067292000
-    },
-    {
       "title": "Ny upptäckt: Mystisk punkt på solen kan avslöja förödande rymdväder sju år innan jorden drabbas",
       "description": "I maj 2024 märktes konsekvenserna världen över när satelliter, GPS och radiokommunikation stördes och norrsken syntes långt söderut.",
       "link": "https://illvet.se/universum/ny-upptackt-mystisk-punkt-pa-solen-kan-avsloja-forodande-rymdvader-sju-ar-innan-jorden-drabbas",
@@ -322,16 +462,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785066964000
-    },
-    {
-      "title": "Alvar Aaltos arkitektur har upptagits som världsarv",
-      "description": "Nu utses nya världsarv av Unesco. Finland får sitt åttonde bidrag på den ärofyllda listan – en samling verk av landets största arkitekt.",
-      "link": "https://www.expressen.se/nyheter/varlden/alvar-aaltos-arkitektur-har-upptagits-som-varldsarv/",
-      "guid": "https://www.expressen.se/nyheter/varlden/alvar-aaltos-arkitektur-har-upptagits-som-varldsarv/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785066430000
     },
     {
       "title": "Ryskt örlogsfartyg nära Skåne",
@@ -414,21 +544,11 @@
       "timestamp": 1785062114000
     },
     {
-      "title": "TV4-profilen på plats under Berlindådet: ”Inte nu igen”",
-      "description": "Anders Pihlblad var på plats i Berlin när en bil körde in i en folkmassa i samband med ett prideevenemang. – Inte nu igen var väl det man tänkte, det är inte första gången som Hbtq-personer blir attackerade, säger han i Nyhetsmorgon .",
-      "link": "https://www.expressen.se/nyheter/varlden/tv4-profilen-pa-plats-under-berlindadet-inte-nu-igen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tv4-profilen-pa-plats-under-berlindadet-inte-nu-igen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785061966000
-    },
-    {
-      "title": "Anneli, 64, tipsar om Lenny Kravitz och Bad Bunny",
+      "title": "Anneli, 64, tipsar om Lenny Kravitz, Bad Bunny och annan läkande kultur",
       "description": "Under namnet Kulturista STHLM delar Anneli Levin, 64, med sig av sina bästa kulturtips i Stockholm, en idé som kom till henne under sin sjukskrivning.",
-      "link": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-och-bad-bunny-6.3.356039.21ee909d1b",
-      "guid": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-och-bad-bunny-6.3.356039.21ee909d1b",
-      "image": "https://www.mitti.se/image-3.367891.288748.20260726110235.0b6f751883?format=jpeg",
+      "link": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-bad-bunny-och-annan-lakande-kultur-6.3.356039.21ee909d1b",
+      "guid": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-bad-bunny-och-annan-lakande-kultur-6.3.356039.21ee909d1b",
+      "image": "https://www.mitti.se/image-3.367891.288748.20260726172129.a1c68f5bb2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785061884000
@@ -514,16 +634,6 @@
       "timestamp": 1785058610000
     },
     {
-      "title": "JUST NU: Bordeaux kan tömmas",
-      "description": "Lågorna närmar sig • Förbereder krisplan",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0addc91a-3cef-4b13-a0c6-7f032bbf53d0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0addc91a-3cef-4b13-a0c6-7f032bbf53d0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785058604000
-    },
-    {
       "title": "Ger efter för protester – sparkar minister",
       "description": "Till sist blev de ungas protester för starka. Narendra Modi, känd för att aldrig ge vika för påtryckningar, sparkar central minister. Efter veckor av protester kunde unga demonstranter lördag fira att Indiens utbildningsminister fått sparken och att premiärminister Narendra Modi gett efter för krav om att bland annat åtgärda ett provsystem för högre utbildning. Unga […]",
       "link": "https://www.dagensps.se/varlden/ger-efter-for-protester-sparkar-minister/",
@@ -554,16 +664,6 @@
       "timestamp": 1785056962000
     },
     {
-      "title": "Reaktioner efter Berlindådet: ”Djupt skakat”",
-      "description": "En bil körde rakt in i folkmassan under ett pride-evenemang i Berlin. Nu kommer flera reaktioner från svenskt håll. ” Sverige står tillsammans med det tyska folket ”, skriver Sveriges statsminister Ulf Kristersson.",
-      "link": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
-      "guid": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785056825000
-    },
-    {
       "title": "Frekvensterapi: ”Mirakelmaskin” utan vetenskaplig grund",
       "description": "Frekvensterapi marknadsförs mot allt från ångest till cancer och maskinen säljs fortfarande i Sverige, trots ett permanent försäljningsförbud. Det visar en granskning från Svenska Dagbladet. Frekvensterapi, även kallad bioresonans, marknadsförs av terapeuter som en metod för att upptäcka och behandla fysiska och psykiska besvär genom att mäta och påverka kroppens elektromagnetiska frekvenser. Men enligt forskare […]",
       "link": "https://www.dagensps.se/life-science/frekvensterapi-mirakelmaskin-utan-vetenskaplig-grund/",
@@ -592,26 +692,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785056400000
-    },
-    {
-      "title": "Stockholm Pride utrycker sitt stöd",
-      "description": "”Vi står sida vid sida med våra vänner”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e08e10a9-b633-410e-8dfd-013ef7adb188",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e08e10a9-b633-410e-8dfd-013ef7adb188",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785056277000
-    },
-    {
-      "title": "Studie: Ökad risk att barnet dör vid hemförlossning",
-      "description": "Risken att barnet dör är dubbelt så hög vid en hemförlossning som vid en förlossning på sjukhus, enligt en rapport från Sahlgrenska universitetssjukhuset, skriver Göteborgs-Posten.",
-      "link": "https://www.expressen.se/nyheter/sverige/studie-okad-risk-att-barnet-dor-vid-hemforlossning/",
-      "guid": "https://www.expressen.se/nyheter/sverige/studie-okad-risk-att-barnet-dor-vid-hemforlossning/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785055983000
     },
     {
       "title": "Skuggbankernas skuldberg: Hotar en ny finanskris?",
@@ -718,7 +798,7 @@
       "description": "Madeleine Hilleard från Tyresö kommer definitivt att få klä sig i rosa i höst. Hon är nämligen med i uppsättningen när Södra teatern sätter upp världssuccén \"Legally Blonde\" som musikal.",
       "link": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
       "guid": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
-      "image": "https://www.mitti.se/image-3.377035.301029.20260726073526.1.619d7fec2c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377035.301029.20260726160930.1.530782eaaf?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785049494000
@@ -762,26 +842,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785047124000
-    },
-    {
-      "title": "Björn rörde sig i centrum av Harjavalta",
-      "description": "Situationen utgjorde ingen fara för utomstående.",
-      "link": "https://yle.fi/a/7-10102672?origin=rss",
-      "guid": "https://yle.fi/a/7-10102672",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785046067000
-    },
-    {
-      "title": "Framnäs är en perfekt badstrand för alla åldrar men många hittar den inte",
-      "description": "– Vi kallar det vårt vardagsrum, säger Annastina Sarlin-Hansen om Framnäs badstrand i Nagu. Stranden passar alla men kan vara svår att hitta.",
-      "link": "https://yle.fi/a/7-10102118?origin=rss",
-      "guid": "https://yle.fi/a/7-10102118",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785045727000
     },
     {
       "title": "Q bjuder in till lekstuga i 007 First Light",
@@ -834,16 +894,6 @@
       "timestamp": 1785042629000
     },
     {
-      "title": "”Mamma kan inte säga nej, snart bränner hon ut sig” – kan man träna på att säga ifrån?",
-      "description": "Det fint att vara en bussig person som ständigt ställer upp. Men vad händer om man aldrig klarar av att säga nej till någonting?",
-      "link": "https://yle.fi/a/7-10102553?origin=rss",
-      "guid": "https://yle.fi/a/7-10102553",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785042014000
-    },
-    {
       "title": "\"Kaosfärd\" i för liten ambulans när skottskadad fördes till sjukhus",
       "description": "\"Kaos utan dess like\" i för liten ambulans när skottskadad fördes till sjukhus efter skjutning i Jordbro i Haninge.",
       "link": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
@@ -852,26 +902,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785041400000
-    },
-    {
-      "title": "Som Vörå men större – Charlotta Sandkulla är snäll mot sig själv efter förändringarnas år i USA",
-      "description": "Efter det första året i idrottsbubblan i Virginia jagar Charlotta Sandkulla FM-medalj nummer två i Jyväskylä. Och peaken som släggsäsongen tillsvidare saknat.",
-      "link": "https://yle.fi/a/7-10102475?origin=rss",
-      "guid": "https://yle.fi/a/7-10102475",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785039983000
-    },
-    {
-      "title": "Matriarken Anna Sinebrychoff styrde släktens bryggeri bort från spriten, sponsrade konsterna och gav till de fattiga",
-      "description": "En av Helsingfors mäktigaste kvinnor står i centrum i Sinebrychoffmuseets utställning.",
-      "link": "https://yle.fi/a/7-10099027?origin=rss",
-      "guid": "https://yle.fi/a/7-10099027",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785039630000
     },
     {
       "title": "Professorn har förändrat en viss sak för att minska risken för åldersskörhet",
@@ -1028,7 +1058,7 @@
       "description": "Så här kan du fira Stockholm Pride 2026.",
       "link": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
       "guid": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
-      "image": "https://www.mitti.se/image-3.247291.301007.20260726074737.6a39a874c8?format=jpeg",
+      "image": "https://www.mitti.se/image-3.247291.301007.20260726160838.b23b982dd1?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784981580000
@@ -1352,16 +1382,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1784921432000
-    },
-    {
-      "title": "Vilken löning är den bästa löningen?",
-      "description": "Dagens fråga Idag är det fredag och löning för de flesta, trots att 25:e inte har passerats. Men vilken månad är lönen den bästa? Den i januari när man är fattig efter jul? Eller den i juli som fyller på semesterkassan? Svara på frågan nedan och motivera gärna ditt svar bland kommentarerna! L&auml;s vidare och kommentera: https://feber.se/vilken-loning-ar-den-basta-loningen/494400/ L&auml;s mer om lön , fredag , löning",
-      "link": "https://feber.se/vilken-loning-ar-den-basta-loningen/494400/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vilken-loning-ar-den-basta-loningen/494400/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784919600000
     },
     {
       "title": "Naval Watch Co. FRXD004 GMT",
@@ -2672,16 +2692,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784601655000
-    },
-    {
-      "title": "Bojor i barnstorlek avslöjar ett mörkt kapitel i kelternas historia",
-      "description": "Romarna är kända för att ha byggt upp ett samhälle som byggde på miljontals slavar – nu visar nya fynd att deras gamla fiender, kelterna, inte skilde sig särskilt mycket från dem.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/bojor-i-barnstorlek-avslojar-ett-morkt-kapitel-i-kelternas-historia",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/bojor-i-barnstorlek-avslojar-ett-morkt-kapitel-i-kelternas-historia",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784579434000
     },
     {
       "title": "Satsning: Lyfta kvinnliga tränare inom fotboll",
