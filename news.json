@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-07-26T18:55:09.130Z",
+  "updatedAt": "2026-07-26T21:48:18.108Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Varningen: Putin ska testa Nato",
+      "description": "Putin tar chansen att testa Nato när Trump är upptaget med kriget i Iran. ”Inom närmaste månaderna” väntas han pressa försvarsalliansen. – Putin förbereder någon form av direkt konfrontation, säger en källa till Daily Mail .",
+      "link": "https://www.expressen.se/nyheter/varlden/varningen-putin--ska-testa-nato/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varningen-putin--ska-testa-nato/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785101710000
+    },
+    {
+      "title": "Tre nya skogsbränder i Frankrike – misstänks vara anlagda",
+      "description": "Fransk ilska: ”Oacceptabla handlingar”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc8368ba-e4b6-4977-b97d-c87eb538bf18",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc8368ba-e4b6-4977-b97d-c87eb538bf18",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785099310000
+    },
+    {
+      "title": "Sven Otto Littorins mops Gösta attackerad: ”Skärrad”",
+      "description": "Sven Otto Littorin skulle bara ut och handla. I stället fick ex-ministern slita sin mops Gösta ur käftarna på en främmande hund. – Det var ju totalt kaos och fullt med folk runtomkring som stod och skrek, berättar han.",
+      "link": "https://www.expressen.se/nyheter/sverige/sven-otto-littorins-mops--gosta-attackerad-skarrad/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sven-otto-littorins-mops--gosta-attackerad-skarrad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785098435000
+    },
+    {
+      "title": "Räddningstjänstens varning: Bada inte i Dalälven",
+      "description": "Räddningstjänsten varnar efter brand",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=400cec67-b690-441f-beba-ed5424955689",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=400cec67-b690-441f-beba-ed5424955689",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785097162000
+    },
+    {
+      "title": "Hjälp efterlyses – två nykomlingar behöver namn",
+      "description": "Två namnlösa getter flyttar in till Starrmyrans parklek i Hökarängen. Nu uppmanas folk att lämna namn-förslag via Farsta stadsförvaltnings Facebook.",
+      "link": "https://www.mitti.se/nyheter/hjalp-efterlyses--tva-nykomlingar-behover-namn-6.3.376841.b0abecc1e8",
+      "guid": "https://www.mitti.se/nyheter/hjalp-efterlyses--tva-nykomlingar-behover-namn-6.3.376841.b0abecc1e8",
+      "image": "https://www.mitti.se/image-3.377019.301027.20260726201204.405794fc94?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785094891000
+    },
+    {
+      "title": "Elon Musk vevar mot Sverige: ”Håller på att dö ut”",
+      "description": "Elon Musk lägger sig återigen i svenska frågor. På X kommenterar han flera uppmärksammade rättsfall. ”Det svenska folket håller långsamt på att dö ut ”.",
+      "link": "https://www.expressen.se/nyheter/varlden/elon-musk-vevar-mot-sverige-haller-pa-att-do-ut/",
+      "guid": "https://www.expressen.se/nyheter/varlden/elon-musk-vevar-mot-sverige-haller-pa-att-do-ut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785093833000
+    },
+    {
+      "title": "Ordbråk efter terrordådet: ”Har blod på sina händer”",
+      "description": "Terrordådet i Berlin har väckt reaktioner och kraftiga fördömanden även i Sverige. Dagens ETC:s chefredaktör tar upp högerextrema krafter – SD-toppen Richard Jomshof svarar med att han har ”blod på sina händer”.",
+      "link": "https://www.expressen.se/nyheter/sverige/ordbrak-efter-terrordadet--har-blod-pa-sina-hander/",
+      "guid": "https://www.expressen.se/nyheter/sverige/ordbrak-efter-terrordadet--har-blod-pa-sina-hander/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785092745000
+    },
     {
       "title": "Macron kallar till krismöte",
       "description": "Ska diskutera enorma skogsbränderna",
@@ -55,7 +125,7 @@
     },
     {
       "title": "Misstänkta terroristen Abdul Ballout, 21, dödad",
-      "description": "Misstänkta terroristen i Berlin, Abdul Ballout, 21, är död. Under en razzia i området Spandau gick han till attack mot poliser, som då sköt ihjäl honom. ”Trots omedelbara livräddande insatser dog han på platsen”, skriver Berlinpolisen på X.",
+      "description": "Misstänkta terroristen i Berlin, Abdul Ballout, 21, är död. Under en razzia i området Spandau gick han till attack mot poliser, som då sköt ihjäl honom. Dagen innan pratade han i telefon med sin pappa. – Han sa att han saknade mig, säger han till Der Spiegel . Följ senaste händelseutvecklingen – ladda ner Expressens app här.",
       "link": "https://www.expressen.se/nyheter/varlden/tusentals-tyska-poliser--jagar-abdul-ballout-21/",
       "guid": "https://www.expressen.se/nyheter/varlden/tusentals-tyska-poliser--jagar-abdul-ballout-21/",
       "image": "",
@@ -304,16 +374,6 @@
       "timestamp": 1785073125000
     },
     {
-      "title": "VMA efter kraftig brand i Borlänge",
-      "description": "Kraftig brand rasar i Borlänge",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ddcfc017-caaa-4a90-ba8d-b174775ba79f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ddcfc017-caaa-4a90-ba8d-b174775ba79f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785072321000
-    },
-    {
       "title": "The best way to save giant sequoias may be more fire",
       "description": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estimate the controlled fires prevented about 1,900 deaths and could have saved thousands more if used across every grove.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
@@ -322,16 +382,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785071939000
-    },
-    {
-      "title": "Inrikesministern: Islamistisk terrorattack – hotnivån höjs",
-      "description": "Tysklands inrikesminister ser attentatet i Berlin som en islamistisk terrorattack. Nu höjs landets terrorhotnivå. – Det här var en attack mot vårt öppna liberala samhälle, säger Alexander Dobrindt.",
-      "link": "https://www.expressen.se/nyheter/varlden/inrikesministern-islamistisk--terrorattack-hotnivan-hojs/",
-      "guid": "https://www.expressen.se/nyheter/varlden/inrikesministern-islamistisk--terrorattack-hotnivan-hojs/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785071889000
     },
     {
       "title": "Your AI calorie-tracking app may be off by 345 calories",
@@ -384,26 +434,6 @@
       "timestamp": 1785069020000
     },
     {
-      "title": "Bekräftar terrorattack",
-      "description": "Tyska ministern: ”Ett islamistiskt attentat”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fd3fdf7-5297-4a57-9483-e9a6347dbfc6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fd3fdf7-5297-4a57-9483-e9a6347dbfc6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785068736000
-    },
-    {
-      "title": "Polisen inför prideveckan: ”Har dialog med tysk polis”",
-      "description": "Ett pridefirande pågick i området när en bil körde in i folkmassan i Berlin. Nu förbereder sig den svenska polisen för att prideveckan i Stockholm ska dra igång. – Vi följer naturligtvis läget, säger Mats Eriksson vid polisen.",
-      "link": "https://www.expressen.se/nyheter/sverige/polisen-infor-prideveckan-har-dialog-med-tysk-polis/",
-      "guid": "https://www.expressen.se/nyheter/sverige/polisen-infor-prideveckan-har-dialog-med-tysk-polis/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785067344000
-    },
-    {
       "title": "Ny upptäckt: Mystisk punkt på solen kan avslöja förödande rymdväder sju år innan jorden drabbas",
       "description": "I maj 2024 märktes konsekvenserna världen över när satelliter, GPS och radiokommunikation stördes och norrsken syntes långt söderut.",
       "link": "https://illvet.se/universum/ny-upptackt-mystisk-punkt-pa-solen-kan-avsloja-forodande-rymdvader-sju-ar-innan-jorden-drabbas",
@@ -442,16 +472,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785067020000
-    },
-    {
-      "title": "SMHI: Då kommer värmen tillbaka",
-      "description": "Sommarvärmen gör comeback. Men den blir inte långvarig. – Värmen kulminerar på torsdagen, säger meteorologen Eva Strandberg.",
-      "link": "https://www.expressen.se/nyheter/vader/smhi-da-kommer-varmen-tillbaka/",
-      "guid": "https://www.expressen.se/nyheter/vader/smhi-da-kommer-varmen-tillbaka/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785066990000
     },
     {
       "title": "Brist på robotar får USA att pausa bombningarna mot Iran",
@@ -512,16 +532,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785063600000
-    },
-    {
-      "title": "Bildt: Putins makt vilar på en plats – som nu attackeras",
-      "description": "Putins makt vilar inte på att vinna kriget. I stället avgörs hans öde av kampen om Krim. Det skriver Carl Bildt på opinionssajten Project Syndicate .",
-      "link": "https://www.expressen.se/nyheter/varlden/bildt-putins-makt-vilar-pa-en-plats-som-nu-attackeras/",
-      "guid": "https://www.expressen.se/nyheter/varlden/bildt-putins-makt-vilar-pa-en-plats-som-nu-attackeras/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785062718000
     },
     {
       "title": "Byggde skjutbanor – men godkänner dem inte",
@@ -798,7 +808,7 @@
       "description": "Madeleine Hilleard från Tyresö kommer definitivt att få klä sig i rosa i höst. Hon är nämligen med i uppsättningen när Södra teatern sätter upp världssuccén \"Legally Blonde\" som musikal.",
       "link": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
       "guid": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
-      "image": "https://www.mitti.se/image-3.377035.301029.20260726160930.1.530782eaaf?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377035.301029.20260726194239.1.6628199e64?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785049494000
@@ -1868,7 +1878,7 @@
       "description": "Ett seglarläger vid Koviken på Lovön arrangeras varje år av organisationen Ny Gemenskap tillsammans med segleklubben Vindens vänner för hemlösa och socialt utsatta.",
       "link": "https://www.mitti.se/nyheter/hemlosa-lar-sig-segla-pa-lovon-har-kan-man-slappa-skammen-6.3.376705.d02142cec1",
       "guid": "https://www.mitti.se/nyheter/hemlosa-lar-sig-segla-pa-lovon-har-kan-man-slappa-skammen-6.3.376705.d02142cec1",
-      "image": "https://www.mitti.se/image-3.376857.300916.20260724074316.e663b8d663?format=jpeg",
+      "image": "https://www.mitti.se/image-3.376857.300916.20260726194543.f4f6c0fedb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784820600000
