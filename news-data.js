@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-25T21:43:12.516Z",
+  "updatedAt": "2026-07-26T01:46:27.696Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Isabelle, 38, jagas efter brutala mordet",
+      "description": "I juni hittades tvåbarnspappan Jason Coulthart, 43, med ett buntband runt halsen och begravd i en grund grav täckt med betong. Nu jagar polisen 38-åriga Isabelle Rose Johnson. En stor skorpionstatuering kan vara till polisens hjälp.",
+      "link": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785027175000
+    },
+    {
+      "title": "Explosioner i Kiev – ny robotattack",
+      "description": "Ny robotattack – höghus skadat",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=71c89796-a389-4fdd-86c3-fca3eb0f1bb1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=71c89796-a389-4fdd-86c3-fca3eb0f1bb1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785026984000
+    },
+    {
+      "title": "Nya massevakueringar i Europa",
+      "description": "Brandinfernot växer – 55 000 tvingas fly",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785025251000
+    },
+    {
+      "title": "Uppgifter: Kim skickar nya soldater till Putin",
+      "description": "I slutet av 2024 skickade Kim Jong-Un nordkoreanska trupper till Ryssland. Nu kan det vara på gång igen. Enligt Zelenskyj vill Putin ta emot ytterligare 30 000 nordkoreaner.",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-kim--skickar-nya--soldater-till-putin/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-kim--skickar-nya--soldater-till-putin/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785023727000
+    },
+    {
+      "title": "Professorn har förändrat en viss sak för att minska risken för åldersskörhet",
+      "description": "Mattias Lorentzon, professor i geriatrik, har studerat om bakterier i tarmen säger någonting om hur kroppen åldras senare i livet. Studien har fått honom att fokusera mer på en viss sak i sin vardag.",
+      "link": "https://illvet.se/halsa/han-har-forskat-om-aldrandets-sjukdomar-i-25-ar-har-ar-hans-viktigaste-rad-for-att-undvika-att-fa-en-skor-kropp-i-hog-alder",
+      "guid": "https://illvet.se/halsa/han-har-forskat-om-aldrandets-sjukdomar-i-25-ar-har-ar-hans-viktigaste-rad-for-att-undvika-att-fa-en-skor-kropp-i-hog-alder",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785016808000
+    },
     {
       "title": "Mopedist påkörd av tåg",
       "description": "”Ambulanser och ambulanshelikopter på väg”",
@@ -15,7 +65,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Bil har kört in i folkmassa i Berlin – flera skadade",
-      "description": "En bil har kört in i en folkmassa i vid Brandenburg Tor i centrala Berlin, rapporterar tyska medier. En person har dött och flera har skadats, enligt Bild . – Det var väldigt obehagligt, säger svenska Victor Fabricius, 44, som var på plats.",
+      "description": "En bil har kört in i en folkmassa i vid Brandenburg Tor i centrala Berlin. En person har dött, enligt Bild , som också skriver att ett stickvapen ska ha använts. – Det var väldigt obehagligt, säger svenska Victor Fabricius, 44, som var på plats.",
       "link": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
       "guid": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
       "image": "",
@@ -214,16 +264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784996497000
     },
     {
-      "title": "Kazakstans ledare till Putin: Avsluta kriget",
-      "description": "Satt bredvid varandra på toppmöte: ”Skam”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=63422f3f-e2b1-4ace-827d-efeeaf67cd73",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784996440000
-    },
-    {
       "title": "IFK Mariehamn hann skymta första segern i horisonten: ”Lite kaotiskt att försöka få in sju nya spelare i systemet”",
       "description": "Det är inte ofta som krislaget IFK Mariehamn varit i ledningsposition den här säsongen. Mot AC Oulu var man i förarsätet i en dryg timme.",
       "link": "https://yle.fi/a/7-10102664?origin=rss",
@@ -304,16 +344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784993436000
     },
     {
-      "title": "Lou Koller har dött",
-      "description": "Sorgen efter Lou Koller: ”Älskad vän”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8258bba8-5e7a-48f2-b28a-cd3716f45b8d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8258bba8-5e7a-48f2-b28a-cd3716f45b8d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784992215000
-    },
-    {
       "title": "A single dose reversed autism-like symptoms in adult mice within hours",
       "description": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
@@ -372,26 +402,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1784989860000
-    },
-    {
-      "title": "21-årig kvinna i Dalarna åtalas för beteendet vid macken: ”Anses vara surpellar”",
-      "description": "Musiken dånade vid en bensinmack i Dalarna – och nu har dj:n för kvällen åtalats. En skitsak? Kriminologen Lina Wilund vet vad hon tycker.",
-      "link": "https://www.expressen.se/nyheter/sverige/21-arig-kvinna-i-dalarna-atalas-for-beteendet-vid-macken-anses-vara-surpellar/",
-      "guid": "https://www.expressen.se/nyheter/sverige/21-arig-kvinna-i-dalarna-atalas-for-beteendet-vid-macken-anses-vara-surpellar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784989478000
-    },
-    {
-      "title": "Spanien stänger stränder efter vädervarningar",
-      "description": "Vädervarningar har tvingat Spanien att stänga ett 30-tal stränder. Populära turistområden som Alicante var bland de värst drabbade. Starka stormar i kombination med hetta på upp till 45 grader gjorde stränderna farliga, enligt den spanska vädertjänsten AEMET.",
-      "link": "https://www.expressen.se/nyheter/varlden/spanien-stanger-strander-efter-vadervarningar-jgcrk/",
-      "guid": "https://www.expressen.se/nyheter/varlden/spanien-stanger-strander-efter-vadervarningar-jgcrk/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1784989366000
     },
     {
       "title": "Sällsynt finländskt UFC-jubel – Abdul Hussein kom med löfte efter succédebuten",
@@ -2004,16 +2014,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784739608000
     },
     {
-      "title": "Enorm asteroid dyker upp på himlen – missa inte det spektakulära fenomenet",
-      "description": "Skulle du vilja se en asteroid? I så fall har du chansen nu. Den 250 kilometer långa asteroiden Juno kommer snart att dyka upp på natthimlen. Vi guidar dig till var och när du ska vända blicken uppåt.",
-      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/enorm-asteroid-dyker-upp-pa-himlen-missa-inte-det-spektakulara-fenomenet",
-      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/enorm-asteroid-dyker-upp-pa-himlen-missa-inte-det-spektakulara-fenomenet",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784736002000
-    },
-    {
       "title": "Dödsfall från balkong var olycka – misstänkta släppta",
       "description": "Två personer har släppts efter dödsfallet i Hässelby gård. Åklagaren uppger att utredningen visar att mannen som föll från tredje våningen dog i en olycka.",
       "link": "https://www.mitti.se/nyheter/dodsfall-fran-balkong-var-olycka--misstankta-slappta-6.3.376819.cf2847c283",
@@ -2822,36 +2822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784375973000
-    },
-    {
-      "title": "Varannan stockholmare dricksar för att inte verka snål",
-      "description": "Färre svenskar dricksar när priserna har blivit dyrare. Varannan stockholmare uppger i ny undersökning att de dricksar för att de annars känner sig snåla.",
-      "link": "https://www.mitti.se/nyheter/varannan-stockholmare-dricksar-for-att-inte-verka-snal-6.3.375220.511218fe03",
-      "guid": "https://www.mitti.se/nyheter/varannan-stockholmare-dricksar-for-att-inte-verka-snal-6.3.375220.511218fe03",
-      "image": "https://www.mitti.se/image-3.376556.300304.20260718113034.e5d9e5edd5?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784372400000
-    },
-    {
-      "title": "Stockholm binds samman av miljonkonst",
-      "description": "Från Sergels torg och Slussen till Vårberg: offentlig konst för miljoner engagerar, fascinerar och delar opinionen. Här är stockholmarnas syn och listan över de dyraste verken.",
-      "link": "https://www.mitti.se/nyheter/stockholm-binds-samman-av-miljonkonst-6.3.373994.a094d8edbe",
-      "guid": "https://www.mitti.se/nyheter/stockholm-binds-samman-av-miljonkonst-6.3.373994.a094d8edbe",
-      "image": "https://www.mitti.se/image-3.376292.299833.20260718064526.7668a9fbb2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784355300000
-    },
-    {
-      "title": "Blipp, blipp och iväg: Här kan du ö-hoppa på SL-kortet",
-      "description": "SL-kortet gäller inte bara på pendelbåtarna utan också för resor till 44 bryggor i Waxholmsbolagets trafik.",
-      "link": "https://www.mitti.se/nyheter/blipp-blipp-och-ivag-har-kan-du-ohoppa-pa-slkortet-6.3.369008.cd38e983ad",
-      "guid": "https://www.mitti.se/nyheter/blipp-blipp-och-ivag-har-kan-du-ohoppa-pa-slkortet-6.3.369008.cd38e983ad",
-      "image": "https://www.mitti.se/image-3.373263.295975.20260718054524.1.c6f0e4ed83?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784351700000
     }
   ]
 };
