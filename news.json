@@ -1,8 +1,58 @@
 {
-  "updatedAt": "2026-07-26T05:49:58.482Z",
+  "updatedAt": "2026-07-26T08:06:12.000Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Djupt inne i regnskogen hittade forskarna något förvånande som inte existerar någon annanstans på planeten",
+      "description": "Något av en överraskning väntade där uppe bland bergen.",
+      "link": "https://illvet.se/naturen/djupt-inne-i-regnskogen-hittade-forskarna-nagot-forvanande-som-inte-existerar-nagon-annanstans-pa-planeten",
+      "guid": "https://illvet.se/naturen/djupt-inne-i-regnskogen-hittade-forskarna-nagot-forvanande-som-inte-existerar-nagon-annanstans-pa-planeten",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785056416000
+    },
+    {
+      "title": "Seger för Anthony Joshua i comebacken – härnäst står Tyson Fury för motståndet",
+      "description": "Boxaren Anthony Joshua golvades två gånger av Kristian Prenga, men lyckades resa sig från mattan och vann.",
+      "link": "https://yle.fi/a/7-10102674?origin=rss",
+      "guid": "https://yle.fi/a/7-10102674",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785052869000
+    },
+    {
+      "title": "Kan AI lösa alzheimer-gåtan? ”Svårt att veta vad som är hajp”",
+      "description": "Techjättar som OpenAI lägger stora summor på forskning kring alzheimer, men om AI är svaret på gåtan är ytterst oklart. Fortfarande finns ingen bot mot Alzheimers sjukdom och framstegen inom forskningen på området är få. Claes Gustafsson, medgrundare och kommersiell chef på bioteknikföretaget Atum, konstaterar i en intervju med EFN att synen på alzheimer är […]",
+      "link": "https://www.dagensps.se/halsa/kan-ai-losa-alzheimer-gatan-svart-att-veta-vad-som-ar-hajp/",
+      "guid": "https://www.dagensps.se/?p=1659052",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/alzheimer.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785052092000
+    },
+    {
+      "title": "Nu flyger AI amerikanska stridsflygplan",
+      "description": "En pilot sitter i cockpiten men det är AI som flyger planet. Nu är det verklighet hos stridsflygplan i det amerikanska flygvapnet. Spelet kring mänsklighetens fortsatta utveckling och existens går alltså vidare med nya och högre insatser. Nu handlar det om AI-styrda stridsflygplan. Tester har gjorts i USA där en pilot sitter i cockpiten men […]",
+      "link": "https://www.dagensps.se/varlden/nu-flyger-ai-amerikanska-stridsflygplan/",
+      "guid": "https://www.dagensps.se/?p=1659048",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/program-air-venom-testing-ground-high-re-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785052044000
+    },
+    {
+      "title": "Alvar Aaltos byggnader togs med på Unescos världsarvslista",
+      "description": "Alvar Aalto är den tredje arkitekten i världen vars serie arkitekturobjekt fått denna status.",
+      "link": "https://yle.fi/a/7-10102441?origin=rss",
+      "guid": "https://yle.fi/a/7-10102441",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785051608000
+    },
     {
       "title": "USA: Handelsfartyg beskjutet",
       "description": "Risk för eskalering",
@@ -11,11 +61,161 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785044363000
+      "timestamp": 1785051465000
+    },
+    {
+      "title": "Brandmän får öva på kraschade Volvos",
+      "description": "Bra! Volvo kraschar ju lite bilar då och då. När de har smällt blir det ett vrak, och då låter tydligen Volvo brandkåren komma dit och öva på att komma in i bilar. Vilket ju är riktigt bra! L&auml;s vidare och kommentera: https://feber.se/bil/brandman-far-ova-pa-kraschade-volvos/494422/ L&auml;s mer om brandkår , räddningsövning , bilkrascher , fordonsbärgning",
+      "link": "https://feber.se/bil/brandman-far-ova-pa-kraschade-volvos/494422/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/brandman-far-ova-pa-kraschade-volvos/494422/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785051000000
+    },
+    {
+      "title": "Bil körde in i villa",
+      "description": "Tre flydde från platsen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785050319000
+    },
+    {
+      "title": "Misstänkt spion arbetade i Natos högkvarter",
+      "description": "En kanadensisk kvinna har gripits i Belgien misstänkt för spionage vid Natos militära högkvarter under sin praktik där. Belgiska myndigheter meddelade under lördagen att en kanadensisk kvinna gripits och anklagas för spionage, utfört när hon arbetat som praktikant vid Natos militära högkvarter. Belgiens federala åklagarmyndighet meddelar att en utredning om spionage inletts, sedan Natos säkerhetstjänst […]",
+      "link": "https://www.dagensps.se/varlden/misstankt-spion-arbetade-i-natos-hogkvarter/",
+      "guid": "https://www.dagensps.se/?p=1659033",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlevcwkynw4cy-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785049789000
+    },
+    {
+      "title": "Priserna på kakao sjunker – chokladjättar hoppas på revansch",
+      "description": "Bjässarna på chokladmarknaden hoppas på ett försäljningslyft efter det tunga raset när priserna på kakao nu går ner. Så ser strategin ut. Under de senaste två åren har priserna på kakao skjutit i höjden på grund av ogynnsamma väderförhållanden som slagit mot kakaoskördarna i Västafrika. El Niño har spelat kakaobönderna ett spratt med torrare och […]",
+      "link": "https://www.dagensps.se/bors-finans/priserna-pa-kakao-sjunker-chokladjattar-hoppas-pa-revansch/",
+      "guid": "https://www.dagensps.se/?p=1659039",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/choklad.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785049784000
+    },
+    {
+      "title": "Madeleine fick drömroll i världssuccén \"Legally Blonde\"",
+      "description": "Madeleine Hilleard från Tyresö kommer definitivt att få klä sig i rosa i höst. Hon är nämligen med i uppsättningen när Södra teatern sätter upp världssuccén \"Legally Blonde\" som musikal.",
+      "link": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
+      "guid": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
+      "image": "https://www.mitti.se/image-3.377035.301029.20260726073526.1.619d7fec2c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785049494000
+    },
+    {
+      "title": "Ryan Gosling spelar Ghost Rider!",
+      "description": "Filmen kommer 2028 På Comic-Con meddelade Marvel att Ryan Gosling kommer att spela Ghost Rider i en ny film regisserad av Shawn Levy. Ryan var själv på plats och presenterade filmen i hall H. Shawn Levy och Ryan Gosling jobbar just nu tillsammans på Star Wars: Starfighter. Filmen kommer att ha premiär under 2028. Senast vi såg Ghost Rider på vita duken var 2011, då Nicolas Cage spelade rollen i Ghost Rider: Spirit of Vengeance. Det var andra gången som Cage spelade rollen, första filmen Ghost Rider kom 2007. Ghost Rider har även synts lite i Agents of S.H.I.E.L.D. Deadpool dök förresten L&auml;s vidare och kommentera: https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/ L&auml;s mer om Ryan Gosling , Ghost Rider , Marvel , Shawn Levy , Comic-Con",
+      "link": "https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785049200000
+    },
+    {
+      "title": "Århundraden av österbottnisk design visas i Jakobstad",
+      "description": "I Tempus i Jakobstad möts för närvarande gamla allmogeföremål och modern design. Utställningen heter ”Österbottniska Rum – kulturarv och samtida form”.",
+      "link": "https://yle.fi/a/7-10102573?origin=rss",
+      "guid": "https://yle.fi/a/7-10102573",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785047779000
+    },
+    {
+      "title": "Det här är trailern för Matchbox-filmen",
+      "description": "Med John Cena i huvudrollen Mattel fortsätter att släppa filmer och nu är det dags för Matchbox, en film som är \"inspirerad\" av de klassiska leksaksbilarna. I huvudrollen får vi se John Cena som spelar CIA-agenten Sean. Han återvänder hem till sin hemstad och råkar då dra in sina vänner i ett uppdrag för att rädda världen, och sig själva. Kopplingen till leksaksbilarna är rätt svag, mer än att det kraschas en hel del bilar. Premiär på Apple TV den 9 oktober. L&auml;s vidare och kommentera: https://feber.se/film/det-har-ar-trailern-for-matchbox-filmen/494426/ L&auml;s mer om Mattel , Matchbox , John Cena , Sean , CIA",
+      "link": "https://feber.se/film/det-har-ar-trailern-for-matchbox-filmen/494426/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/det-har-ar-trailern-for-matchbox-filmen/494426/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785047400000
+    },
+    {
+      "title": "Ska Määttänen och Mattila få draghjälp på 800 meter? Duon hoppas på att någon i finalfältet vill offra sig",
+      "description": "Eveliina Määttänen och Veera Mattila är hundradelar ifrån en EM-plats. De skulle behöva draghjälp under FM, men reglerna tillåter inte det.",
+      "link": "https://yle.fi/a/7-10102671?origin=rss",
+      "guid": "https://yle.fi/a/7-10102671",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785047124000
+    },
+    {
+      "title": "30-åriga kvinnor bäst på placeringar – unga män sämst",
+      "description": "Ny sammanställning visar att kvinnor har bättre resultat i sin avkastning på placeringar än män. Särskilt 30-åriga kvinnor. Det är nätbanken Avanza som konstaterar i en undersökning att kvinnor medianavkastning under senaste året är 19,1 procent, medan männen får nöja sig med en avkastning på 16,7 procent. Kvinnor är generellt sätt 2,5 procent bättre på […]",
+      "link": "https://www.dagensps.se/bors-finans/30-ariga-kvinnor-bast-pa-placeringar-unga-man-samst/",
+      "guid": "https://www.dagensps.se/?p=1659030",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/schon.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785046548000
+    },
+    {
+      "title": "Björn rörde sig i centrum av Harjavalta",
+      "description": "Situationen utgjorde ingen fara för utomstående.",
+      "link": "https://yle.fi/a/7-10102672?origin=rss",
+      "guid": "https://yle.fi/a/7-10102672",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785046067000
+    },
+    {
+      "title": "Framnäs är en perfekt badstrand för alla åldrar men många hittar den inte",
+      "description": "– Vi kallar det vårt vardagsrum, säger Annastina Sarlin-Hansen om Framnäs badstrand i Nagu. Stranden passar alla men kan vara svår att hitta.",
+      "link": "https://yle.fi/a/7-10102118?origin=rss",
+      "guid": "https://yle.fi/a/7-10102118",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785045727000
+    },
+    {
+      "title": "Q bjuder in till lekstuga i 007 First Light",
+      "description": "Första stora uppdateringen för Bond-spelet IO Interactive släppte i veckan sin första stora uppdateringen till 007 First Light. Uppdateringen innehåller bland annat två nya TacSim-uppdrag med helt olika spelstilar. I uppdraget The Workshop får spelaren besöka Q:s verkstad där fokus ligger på smygande, prylar och närstrid. Som motvikt finns Extraction Avenue, ett intensivt uppdrag där det gäller att skjuta sig fram innan förstärkningar anländer. Utöver de nya uppdragen har även tre nya vapen lagts till i arsenalen. En kraftfull 50-kalibrig pistol, en kulsprutepistol och en ljuddämpad SMG. Förutom det nya innehållet innehåller patchen en lång lista med tekniska förbättringar och buggfixar. Framöver kommer det även komma ett mer storybaserat DLC-uppdrag centrerat kring piratkungen Bawma. Det är dock oklart just nu när det ska släppas. L&auml;s vidare och kommentera: https://feber.se/spel/q-bjuder-in-till-lekstuga-i-007-first-light/494423/ L&auml;s mer om IO Interactive , First Light , TacSim , Q , Bawma , speluppdatering , actionspel",
+      "link": "https://feber.se/spel/q-bjuder-in-till-lekstuga-i-007-first-light/494423/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/q-bjuder-in-till-lekstuga-i-007-first-light/494423/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785045600000
+    },
+    {
+      "title": "Matchdag: Avspark 14.00 på Grimsta IP",
+      "description": "I eftermiddag fortsätter Allsvenskan när Bajen ställs mot BP på bortaplan. Avspark sker 14.00 på Grimsta IP och här hittar du samlad information inför dagen. Allsvenskan: Omgång 14Motståndare: IF Bro",
+      "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-avspark-14-00-pa-grimsta-ip",
+      "guid": "a0155ff4-a339-4c64-b935-615cb9afbd83",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/cdae8e0a155128538b1bb8be4ffbe8174b0ac51d-1333x889.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785045600000
+    },
+    {
+      "title": "Thaibasilikawok med umamifärs och risnudlar",
+      "description": "Wok med risnudlar, lime och thaibasilika. Umamifärs (färdigkryddad fläskfärs, finns bland annat på Ica) ger extra djup, men vanlig fläskfärs fungerar lika bra.",
+      "link": "https://alltommat.expressen.se/recept/thaibasilikawok-med-umamifars-och-risnudlar/",
+      "guid": "https://alltommat.expressen.se/recept/thaibasilikawok-med-umamifars-och-risnudlar/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785045420000
     },
     {
       "title": "Trailer för Neuromancer!",
-      "description": "Serie baserad på William Gibsons roman Den klassiska cyberpunkromanen Neuromancer, som definierade begreppet cyberspace, kommer som tv-serie till Apple TV. Det visste vi sedan tidigare, men nu har vi fått en teasertrailer och ett premiärdatum! Den 22 januari 2027 är det dags att bänka dig om du är pepp, vilket jag verkligen är. I serien, som är skapad av Graham Roland och J.D. Dillard, får vi följa hackern Case (Callum Turner). Serien har tio avsnitt och förutom Callum får vi se Briana Middleton, Peter Sarsgaard, Marc Menchaca och Max Irons. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-neuromancer-/494425/ L&auml;s mer om Neuromancer , Apple TV+ , Callum Turner , William Gibson , Cyberpunk",
+      "description": "TV-serie baserad på William Gibsons roman Den klassiska cyberpunkromanen Neuromancer, som definierade begreppet cyberspace, kommer som tv-serie till Apple TV. Det visste vi sedan tidigare, men nu har vi fått en teasertrailer och ett premiärdatum! Den 22 januari 2027 är det dags att bänka dig om du är pepp, vilket jag verkligen är. I serien, som är skapad av Graham Roland och J.D. Dillard, får vi följa hackern Case (Callum Turner). Serien har tio avsnitt och förutom Callum får vi se Briana Middleton, Peter Sarsgaard, Marc Menchaca och Max Irons. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-neuromancer-/494425/ L&auml;s mer om Neuromancer , Apple TV+ , Callum Turner , William Gibson , Cyberpunk",
       "link": "https://feber.se/film/trailer-for-neuromancer-/494425/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/film/trailer-for-neuromancer-/494425/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -84,8 +284,8 @@
       "timestamp": 1785041400000
     },
     {
-      "title": "Polisen: 21-åriga Abdul B misstänks ligga bakom Berlindådet",
-      "description": "Polisen misstänker attentat efter att en skåpbil kört in i en folkmassa i centrala Berlin. Nu efterlyser de en misstänkt gärningsperson med kopplingar till islamistiska miljön: 21-åriga Abdul B. ”Han kan vara beväpnad och är att betrakta som farlig”, skriver Berlinpolisen.",
+      "title": "21-åriga Abdul B misstänks ligga bakom Berlindådet",
+      "description": "21-åriga Abdul B. misstänks ligga bakom attentatet i centrala Berlin. Han är sedan tidigare känd av polisen och har kopplingar till den islamistiska miljön. ”Han kan vara beväpnad och är att betrakta som farlig”, uppger Berlinpolisen.",
       "link": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
       "guid": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
       "image": "",
@@ -174,7 +374,7 @@
       "timestamp": 1785034814000
     },
     {
-      "title": "En död i Berlin efter att bil körde in i folkmassa på pridefirande",
+      "title": "En död efter att bil körde in i folkmassa under pridefirande i Berlin",
       "description": "Den misstänkta gärningsmannen har islamistiska kopplingar och jagas nu av polisen.",
       "link": "https://yle.fi/a/7-10102670?origin=rss",
       "guid": "https://yle.fi/a/7-10102670",
@@ -334,16 +534,6 @@
       "timestamp": 1785002254000
     },
     {
-      "title": "Man död efter olycka på Gripendygnet i Strängnäs",
-      "description": "En man i 60-årsåldern har dött efter en allvarlig olycka på motortävlingen Gripendygnet i Strängnäs. Han deltog i tävlingen. – Vet vi inte exakt vad som har hänt då det har hänt utefter banan, säger Tomm Holm vid Svenska Motorsportförbundet.",
-      "link": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
-      "guid": "https://www.expressen.se/sport/man-dod-efter-olycka-pa--gripendygnet-i-strangnas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785002169000
-    },
-    {
       "title": "Emilia Karell inför EM-resan: ”Jag har inte riktigt fattat att jag är på väg ännu”",
       "description": "Det andra raka FM-guldet kom i utmanande vindar – och nu börjar Sjundeå IF:s spjutkastare Emilia Karell fokusera på karriärens första seniormästerskap.",
       "link": "https://yle.fi/a/7-10102470?origin=rss",
@@ -494,36 +684,6 @@
       "timestamp": 1784990204000
     },
     {
-      "title": "Så blev norska fotbollsspelaren Erling Haaland ett fenomen på sociala medier",
-      "description": "Erling Haaland kommenterar ofta själv på inlägg om honom, och det älskar fansen.",
-      "link": "https://yle.fi/a/7-10102663?origin=rss",
-      "guid": "https://yle.fi/a/7-10102663",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784989860000
-    },
-    {
-      "title": "Sällsynt finländskt UFC-jubel – Abdul Hussein kom med löfte efter succédebuten",
-      "description": "Efter några års uppehåll är Finland åter representerat i UFC-sammanhang. Premiärsegern fick Abdul Hussein att hungra efter mer.",
-      "link": "https://yle.fi/a/7-10102668?origin=rss",
-      "guid": "https://yle.fi/a/7-10102668",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784989202000
-    },
-    {
-      "title": "I nordvästra Kina bjöds på en fantastisk vy av Vintergatan",
-      "description": "Många fotografer lockades till regionen Ningxia i nordvästra Kina nyligen, då natthimlen bjöd på en riktigt fin vy av Vintergatan.",
-      "link": "https://yle.fi/a/7-10102666?origin=rss",
-      "guid": "https://yle.fi/a/7-10102666",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784988560000
-    },
-    {
       "title": "Scientists put the “recycling is a distraction” claim to the test",
       "description": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
@@ -574,36 +734,6 @@
       "timestamp": 1784984400000
     },
     {
-      "title": "Recension: Skulle du vilja bli en chattbot efter din död?",
-      "description": "Döden skiljer oss inte åt är en tankeväckande dokumentär om en familj som gör en AI-klon av sin döende pappa.",
-      "link": "https://yle.fi/a/7-10102587?origin=rss",
-      "guid": "https://yle.fi/a/7-10102587",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784982613000
-    },
-    {
-      "title": "Sverige – ett allt hetare resmål",
-      "description": "57 procent fler har sökt på bokningar i Sverige i juli och augusti på boendejämförelsesajten Trivago i Storbritannien i år jämfört med förra året. För Norge har det ökat med 55 procent och för Danmark med 29 procent jämfört med förra året, skriver Financial Times. När värmeböljor och skogsbränder ökar i södra Europa växer intresset […]",
-      "link": "https://www.dagensps.se/weekend/resor/sverige-ett-allt-hetare-resmal/",
-      "guid": "https://www.dagensps.se/?p=1658974",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/det-svenska-svalare-sommarvadret-lockar.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784982550000
-    },
-    {
-      "title": "Jobbångest i slutet av semestern",
-      "description": "Att känna jobbångest i slutet av semestern är vanligt menar Nina Jansdotter, beteendevetare och karriärcoach. Semestern går mot sitt slut och för många smyger en välbekant känsla på. Tankarna på den överfulla inkorgen, höstens deadlines och annat som stressar, gör att ledigheten inte längre känns lika avkopplande. Jobbångest är en vanlig reaktion Jobbångest efter […]",
-      "link": "https://www.dagensps.se/karriar/jobbangest-i-slutet-av-semestern/",
-      "guid": "https://www.dagensps.se/?p=1658962",
-      "image": "https://images.dagensps.se/app/uploads/2025/07/8-36.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784982480000
-    },
-    {
       "title": "Coffee may help shield the liver from fat, scarring, and cancer",
       "description": "A major long-term study linked coffee consumption with lower risks of cirrhosis, liver cancer, and death from liver disease. Coffee drinkers also showed healthier liver scans and blood protein patterns, with less fat, inflammation, and scarring. Benefits appeared even at one or two cups daily and were strongest around three to four cups.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719035955.htm",
@@ -618,7 +748,7 @@
       "description": "Så här kan du fira Stockholm Pride 2026.",
       "link": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
       "guid": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
-      "image": "https://www.mitti.se/image-3.247291.301007.20260725124348.e5038bafc4?format=jpeg",
+      "image": "https://www.mitti.se/image-3.247291.301007.20260726074737.6a39a874c8?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784981580000
@@ -664,26 +794,6 @@
       "timestamp": 1784979244000
     },
     {
-      "title": "Noah Lyles slog till med världsårsbästa på 100 meter: ”Jag är fortfarande världens snabbaste man”",
-      "description": "USA:s Noah Lyles är ny etta i världen i år på 100 meter. Lyles noterades för tiden 9,79 vilket också gav honom guld i de nationella mästerskapen.",
-      "link": "https://yle.fi/a/7-10102662?origin=rss",
-      "guid": "https://yle.fi/a/7-10102662",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784979213000
-    },
-    {
-      "title": "EIF:s P16-pojkar inledde ligaspelet med seger: ”Det här var ett tufft lag”",
-      "description": "Den talrika publiken på Centrumplan i Ekenäs fick se hemmalaget vinna sin första match i fotbollens södra liga i åldersklassen P16.",
-      "link": "https://yle.fi/a/7-10102552?origin=rss",
-      "guid": "https://yle.fi/a/7-10102552",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784978969000
-    },
-    {
       "title": "Blade Runner 2099 har premiär i november",
       "description": "Och här är den första trailern Den 25 november är det premiär för Blade Runner-serien Blade Runner 2099 på Prime Video. Handlingen tar vid ett halvsekel efter händelserna i filmen Blade Runner 2049 i ett Los Angeles som inte längre styrs av människor. Serien kretsar kring Cora, en kvinna på flykt som i ett sista desperat försök att bli fri antar identiteten som en Blade Runner. Hon tvingas samarbeta med Olwen (spelad av Michelle Yeoh), en replikant som bara har dagar kvar att leva. Tillsammans jagar de en rymling som bär på en hemlighet som kan få hela staden att kollapsa. I serien hittar vi skådespelare som Michelle Yeoh, Hunter Schafer, Matthew Needham och Tom Burke. L&auml;s vidare och kommentera: https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/ L&auml;s mer om Blade Runner 2099 , Prime Video , Michelle Yeoh , Ridley Scott , Silka Luisa",
       "link": "https://feber.se/film/blade-runner-2099-har-premiar-i-november/494409/?utm_source=rss&utm_medium=feed",
@@ -702,16 +812,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784977075000
-    },
-    {
-      "title": "Nytt superplan kan flyga över hela jorden – utan mellanlandning",
-      "description": "Airbus A350-1000ULR testas just nu för fullt. Det nya superplanet banar väg för helt nya direktlinjer och väntas förändra hur vi reser över jorden. Airbus har framgångsrikt slutfört de första testfaserna för sin nya modell A350-1000ULR (Ultra Long Range). Flygplanet är specialutvecklat för att klara några av världens längsta kommersiella rutter – helt utan behov […]",
-      "link": "https://www.dagensps.se/teknik/nytt-superplan-kan-flyga-over-hela-jorden-utan-mellanlandning/",
-      "guid": "https://www.dagensps.se/?p=1658973",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/namnlos-design-1.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784974056000
     },
     {
       "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
@@ -744,16 +844,6 @@
       "timestamp": 1784971470000
     },
     {
-      "title": "Oro på Europas börser att bli som USA – fåtal bolag driver tillväxten",
-      "description": "Bakom Stoxx Europe 600-indexets uppgång i år döljer sig en växande sårbarhet: Utvecklingen drivs nästan helt av ett fåtal tunga bolag – med halvledarjätten ASML i spetsen. Den europeiska aktiemarknaden har länge betraktats som en trygg hamn med bred spridning, relativt skyddad från de tvära kast som kan uppstå när enstaka sektorer dominerar. Under 2026 […]",
-      "link": "https://www.dagensps.se/bors-finans/oro-pa-europas-borser-att-bli-som-usa-fatal-bolag-driver-tillvaxten/",
-      "guid": "https://www.dagensps.se/?p=1658971",
-      "image": "https://images.dagensps.se/app/uploads/2023/04/System-container-slots-into-a-747.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784971412000
-    },
-    {
       "title": "Ny upptäckt: Din mamma gav dig livet, men hon lämnade även efter sig något annat i din hjärna",
       "description": "Det kan ha dolt sig djupt inne i ditt huvud och följt med dig genom åren.",
       "link": "https://illvet.se/manniskan/ny-upptackt-din-mamma-gav-dig-livet-men-hon-lamnade-aven-efter-sig-nagot-annat-i-din-hjarna",
@@ -772,16 +862,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784970000000
-    },
-    {
-      "title": "Så duckar du en skattesmäll efter sommarjobbet",
-      "description": "Tusentals ungdomar har den senaste månaden hoppat in och kanske tjänat ihop sin första egna lön. Att ha koll på alla detaljer i arbetslivet är dock inte helt självklart, inte heller vad som gäller skattebiten. De första veckorna på sommarjobbet är avklarade och nu väntar belöningen i form av löneutbetalningen. Här är detaljerna du ska […]",
-      "link": "https://www.dagensps.se/privatekonomi/sa-duckar-du-en-skattesmall-efter-sommarjobbet/",
-      "guid": "https://www.dagensps.se/?p=1658920",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/mjukglass-till-forsaljning-i-gamla-stan-.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784967034000
     },
     {
       "title": "Starship gjorde lyckad testflygning",
@@ -1204,16 +1284,6 @@
       "timestamp": 1784901600000
     },
     {
-      "title": "Forskare filmar späckhuggare i våldsam attack",
-      "description": "Som får en klumpfisk att explodera Här är ett kort klipp som visar hur det såg ut när späckhuggare attackerade en klumpfisk så våldsamt att klumpfisken exploderade när späckhuggaren rammade den. Klippet är filmat utanför Cabo San Lucas i Kalifornien av Kathryn Ayres, en forskare vid den ideella havsorganisationen Beneath The Waves. Det ser ut som om späckhuggarna samarbetar i attacken då en av späckhuggarna håller klumpfisken i sina käftar medan den andra rammar fisken så hårt att den faller isär i en lång rad bitar. Forskarna tror att späckhuggarnas syfte med attacken var att dela på fisken i mer behändiga bitar som kan ätas av yngre späckhuggare. Man verkar dock inte helt säker på att så är fallet och säger även att det kanske även är för att späckhuggarna helt enkelt tycker det är roligt. Ayres säger till NPR: \"We think this may help younger orcas feed more easily — or it could also just be for fun. Orcas are known for playing with their food.\" L&auml;s vidare och kommentera: https://feber.se/vetenskap/forskare-filmar-spackhuggare-i-valdsam-attack-/494401/ L&auml;s mer om Späckhuggare , Klumpfisk , Kathryn Ayres , Beneath The Waves , Cabo San Lucas , Marinbiologi",
-      "link": "https://feber.se/vetenskap/forskare-filmar-spackhuggare-i-valdsam-attack-/494401/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/forskare-filmar-spackhuggare-i-valdsam-attack-/494401/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784901000000
-    },
-    {
       "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
       "description": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting tissues throughout the body.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
@@ -1234,16 +1304,6 @@
       "timestamp": 1784900270000
     },
     {
-      "title": "Nytt Star Trek-bygge från LEGO",
-      "description": "NCC-1701-bryggan med tribbles! Inför Star Treks 60-årsjubileum presenterar LEGO ett nytt bygge på originalseriens ikoniska kommandobrygga på USS Enterprise (NCC-1701). Bygget består passande nog av 1 701 bitar och utöver själva kommandocentralen innehåller bygget även skeppets transportrum. LEGO har slängt in en del interaktiva detaljer, bland annat kan man gunga kaptenens stol för att simulera turbulens under strider, öppna dörrarna till turbohissen med en spak och använda ett vred för att beama besättningen på transportplattorna. Det ingår också åtta minifigurer, bland annat Kirk, Spock, Uhura och Scotty. Som en extra bonus följer det även med tillbehör som Spocks harpa, diverse vapen och fyra tribbles. Star Trek: U.S.S. Enterprise NCC-1701 släpps den 1 september och kostar 2 300 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/nytt-star-trek-bygge-fran-lego/494385/ L&auml;s mer om Star Trek , USS Enterprise , NCC-1701 , science fiction , byggsatser , samlarobjekt",
-      "link": "https://feber.se/pryl/nytt-star-trek-bygge-fran-lego/494385/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/nytt-star-trek-bygge-fran-lego/494385/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784899800000
-    },
-    {
       "title": "A new antiviral could stop measles before an outbreak takes off",
       "description": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
@@ -1254,16 +1314,6 @@
       "timestamp": 1784899630000
     },
     {
-      "title": "Är du storsäljare på Facebook Marketplace?",
-      "description": "Då har Facebook gjort en app för dig Antalet som använder riktiga Facebook verkar dala, men Marketplace verkar fortsatt vara populärt. Enligt Facebook listas över 430 miljoner prylar på Marketplace varje månad, en hel del prylar. En del har massor av annonser uppe och då kan det bli lite kladdigt med vad som är personligt och vad som är affärer. Därför har man gjort en app som heter Seller. I den kan man ha koll på sina annonser, se statistik, snacka med köpare och så vidare. Du behöver inte skapa en ny profil, utan det som du har gjort på Marketplace flyttas automatiskt med. Appen finns just nu för iOS och för användare i USA, men Android och resten av världen ska komma senare. L&auml;s vidare och kommentera: https://feber.se/internet/ar-du-storsaljare-pa-facebook-marketplace/494399/ L&auml;s mer om Marketplace , Seller , iOS , e-handel , annonser",
-      "link": "https://feber.se/internet/ar-du-storsaljare-pa-facebook-marketplace/494399/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/ar-du-storsaljare-pa-facebook-marketplace/494399/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784898600000
-    },
-    {
       "title": "Då är hettan tillbaka i stan: \"28 grader är inte otroligt\"",
       "description": "Mot mitten på nästa vecka kommer högsommarvärmen tillbaka till Stockholm enligt prognoser från SMHI.",
       "link": "https://www.mitti.se/nyheter/da-ar-hettan-tillbaka-i-stan-28-grader-ar-inte-otroligt-6.3.377380.1938aa0398",
@@ -1272,16 +1322,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784898040000
-    },
-    {
-      "title": "Neuralink-chip låter man styra rullstol med tankekraft",
-      "description": "Slipper nu ha joystick i munnen Elon Musks hjärnchip-företag Neuralink har släppt ett nytt videoklipp där man demonstrerar hur en av deras försökspersoner styr en eldriven rullstol med hjälp av Neuralinks hjärnchip N1. Försökspersonen Alex har tidigare använt en joystick i sin mun som styrde rullstolen med huvudrörelser. I videoklippet säger han att styrningen via hjärnchippet ger honom möjlighet att sitta i en bekvämare position i rullstolen och slippa den smärta som uppstod när han tidigare styrde rullstolen med joystick. Neuralink är inte först med att ta fram applikationer för att styra rullstolar med hjärnchip. Det har tidigare experimenterats med sådant på flera universitet och forskningsinstitutioner och även företag som Synchron och Blackrock Neurotech har utvecklat hjärnchip som låter patienter styra eldrivna rullstolar. L&auml;s vidare och kommentera: https://feber.se/vetenskap/neuralink-chip-later-man-styra-rullstol-med-tankekraft/494384/ L&auml;s mer om Neuralink , Elon Musk , N1 , Synchron , Blackrock Neurotech , Hjärnchip , BCI-chip , Rullstol , Implantat",
-      "link": "https://feber.se/vetenskap/neuralink-chip-later-man-styra-rullstol-med-tankekraft/494384/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/neuralink-chip-later-man-styra-rullstol-med-tankekraft/494384/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784898000000
     },
     {
       "title": "HTV: Sammandrag | Hammarby 1-1 Anderlecht",
@@ -1934,16 +1974,6 @@
       "timestamp": 1784769039000
     },
     {
-      "title": "Sömnforskare har en enda regel för sin dotter – och pekar ut de två år, då sömnen är som viktigast för barnet",
-      "description": "Det är särskilt i två åldrar som sömnen är extra viktig, förklarar sömnforskaren Isabel Morales-Muñoz.",
-      "link": "https://illvet.se/manniskan/somnforskare-bakom-ny-stor-studie-har-en-fast-regel-for-sin-dotter-nu-uppmanar-hon-alla-foraldrar-att-gora-likadant",
-      "guid": "https://illvet.se/manniskan/somnforskare-bakom-ny-stor-studie-har-en-fast-regel-for-sin-dotter-nu-uppmanar-hon-alla-foraldrar-att-gora-likadant",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1784757641000
-    },
-    {
       "title": "HTV: Se första intervjun med Amin Boudri",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-se-foersta-intervjun-med-amin-boudri",
@@ -2032,16 +2062,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784732714000
-    },
-    {
-      "title": "Publikinformation: Hemmamötet med Anderlecht",
-      "description": "På torsdagskvällen spelas det första mötet i kvalomgång 2 av UEFA Europa League där Hammarby ställs mot Anderlecht på 3Arena. Här finns samlad information kring vad som gäller för dig som ser matchen",
-      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamotet-med-anderlecht",
-      "guid": "46c25647-2e30-4721-9d9c-a1967815bbc4",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/2c5aa84b1921d41f7dc02184dc1cca9f2aafa5b9-1492x995.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784731816000
     },
     {
       "title": "Skärmdumpar av känsliga pdf-filer ska blockeras på Onedrive",
@@ -2472,16 +2492,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784621305000
-    },
-    {
-      "title": "Siciliansk grillad tonfisk",
-      "description": "Tonfisk är en vanlig fisk att grilla på Sicilien. Den ska grillas hastigt över glöd så att den behåller en rå kärna. Här serveras tonfisken med en superenkel tomatsalsa av små söta tomater. Hackade pistaschnötter tar upp den milt nötiga tonen i oljan.",
-      "link": "https://alltommat.expressen.se/recept/siciliansk-grillad-tonfisk/",
-      "guid": "https://alltommat.expressen.se/recept/siciliansk-grillad-tonfisk/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784620971000
     },
     {
       "title": "Upplandsgatan får ny cykelbana och enkelriktas",
