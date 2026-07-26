@@ -1,8 +1,148 @@
 {
-  "updatedAt": "2026-07-26T08:06:12.000Z",
+  "updatedAt": "2026-07-26T10:28:03.125Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+      "description": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785060897000
+    },
+    {
+      "title": "Rumänien tvingades skjuta ner drönare för tredje dagen i rad",
+      "description": "Tre drönare har skjutits ner i Rumäniens luftrum inom loppet av tre dagar. Myndigheterna anklagar Ryssland för kränkningarna.",
+      "link": "https://yle.fi/a/7-10102677?origin=rss",
+      "guid": "https://yle.fi/a/7-10102677",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785060187000
+    },
+    {
+      "title": "Trailern för säsong 4 av Reacher är här",
+      "description": "Har premiär den 16 september Här har vi en trailer för den fjärde säsongen av Reacher som ser ut att lova mer våld och spänning. Alan Ritchson själv har lovat att det här blir den blodigaste säsongen hittills. Så om man gillar att se Jack Reacher göra brutala saker mot människors lemmar kan denna säsong bli något för dig. Den nya säsongen bygger på Lee Childs roman 61 timmar och handlar om när Reacher möter en främling i New Yorks tunnelbana, ett möte som leder Reacher in i en dödlig konspiration. Amazon verkar gilla Reacher och har redan godkänt en femte säsong. Säsong 4 av Reacher har premiär på Prime Video den 16 september. Amazon har även sin Reacher-spinoff Neagley på gång och en trailer för den serien kan ses nedan. L&auml;s vidare och kommentera: https://feber.se/film/trailern-for-sasong-4-av-reacher-ar-har/494430/ L&auml;s mer om Reacher , Alan Ritchson , Prime Video , Lee Child , TV-serier , Amazon",
+      "link": "https://feber.se/film/trailern-for-sasong-4-av-reacher-ar-har/494430/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/trailern-for-sasong-4-av-reacher-ar-har/494430/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785060000000
+    },
+    {
+      "title": "Bil körde in i villa",
+      "description": "Tre flydde från platsen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785059236000
+    },
+    {
+      "title": "Varnar om Nordkorea",
+      "description": "Larmar: Nordkorea skickar soldater till Putin",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785059228000
+    },
+    {
+      "title": "Torra vårar och regniga höstar slår hårt mot jordbrukare: ”Bränslepriserna känns mycket i plånboken”",
+      "description": "Klimatförändringen ändrar på mångt och mycket inom primärproduktionen. Skördebortfall och torkning hör till odlarens vardag.",
+      "link": "https://yle.fi/a/7-10098558?origin=rss",
+      "guid": "https://yle.fi/a/7-10098558",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785059114000
+    },
+    {
+      "title": "Eldstormar och bränder utom kontroll i Spanien och Frankrike",
+      "description": "De enorma skogsbränderna fortsätter i Spanien och Frankrike. Över 330 000 människor har nu evakuerats i de båda länderna.",
+      "link": "https://yle.fi/a/7-10102675?origin=rss",
+      "guid": "https://yle.fi/a/7-10102675",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785058682000
+    },
+    {
+      "title": "Europas extremvärme har kostat 126 miljarder euro – hittills",
+      "description": "Europas extremvärme har redan orsakat ekonomiska skador på omkring 126 miljarder euro – och det blir nog värre enligt den tyska försäkringsjätten Allianz. Det är inte bara hushållen som känner av värmen. Företag inom industri, bygg och transporter tvingas dra ned på tempot när höga temperaturer gör det svårare att arbeta utomhus och i fabriker. […]",
+      "link": "https://www.dagensps.se/varlden/europas-extremvarme-har-kostat-126-miljarder-euro-hittills/",
+      "guid": "https://www.dagensps.se/?p=1659086",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlfr2m8qbntbe-normalhires-scaled.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785058610000
+    },
+    {
+      "title": "JUST NU: Bordeaux kan tömmas",
+      "description": "Lågorna närmar sig • Förbereder krisplan",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0addc91a-3cef-4b13-a0c6-7f032bbf53d0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0addc91a-3cef-4b13-a0c6-7f032bbf53d0",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785058604000
+    },
+    {
+      "title": "Ger efter för protester – sparkar minister",
+      "description": "Till sist blev de ungas protester för starka. Narendra Modi, känd för att aldrig ge vika för påtryckningar, sparkar central minister. Efter veckor av protester kunde unga demonstranter lördag fira att Indiens utbildningsminister fått sparken och att premiärminister Narendra Modi gett efter för krav om att bland annat åtgärda ett provsystem för högre utbildning. Unga […]",
+      "link": "https://www.dagensps.se/varlden/ger-efter-for-protester-sparkar-minister/",
+      "guid": "https://www.dagensps.se/?p=1659071",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlsnivlgapvce-nh-1-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785057832000
+    },
+    {
+      "title": "Stabil rapportflod bäddar för starkt börsår",
+      "description": "Framför allt har bolagen som rapporterar orderingång varit en positiv överraskning, anser Lars Söderfjell, aktiechef på Ålandsbanken. Stockholmsbörsens bjässar har lagt korten på bordet för det andra kvartalet. Rapporterna bäddar för vinsttillväxt och ett starkt börsår. Men jokern i Mellanöstern kan förstöra festen. Framför allt har bolagen som rapporterar orderingång varit en positiv överraskning, anser […]",
+      "link": "https://www.dagensps.se/bors-finans/stabil-rapportflod-baddar-for-starkt-borsar/",
+      "guid": "https://www.dagensps.se/?p=1659042",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/lars-soderfjell-och-maria-landeborn-tror.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785056988000
+    },
+    {
+      "title": "Subarus krassa erkännande: Vi har blivit tråkiga",
+      "description": "Nu lägger Subaru i en högre växel för hotta upp sina prestandabilar med lansering av en ny division med fokus på sportbilar. Japanska Subaru har under ett helt årtionde ägnat sig åt att presentera bilar som kan betecknas som tråkiga. Konceptet beskrivs som dött och köparna av företagets bilmodeller har fått uppleva hur fordonen glidit […]",
+      "link": "https://www.dagensps.se/motor/subarus-krassa-erkannande-vi-har-blivit-trakiga/",
+      "guid": "https://www.dagensps.se/?p=1659069",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/subaru.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785056962000
+    },
+    {
+      "title": "Reaktioner efter Berlindådet: ”Står sida vid sida”",
+      "description": "En bil körde rakt in i folkmassan under ett pride-evenemang i Berlin. Nu kommer flera reaktioner från svenskt håll. ” Sverige står tillsammans med det tyska folket ”, skriver Sveriges statsminister Ulf Kristersson.",
+      "link": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
+      "guid": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785056825000
+    },
+    {
+      "title": "Frekvensterapi: ”Mirakelmaskin” utan vetenskaplig grund",
+      "description": "Frekvensterapi marknadsförs mot allt från ångest till cancer och maskinen säljs fortfarande i Sverige, trots ett permanent försäljningsförbud. Det visar en granskning från Svenska Dagbladet. Frekvensterapi, även kallad bioresonans, marknadsförs av terapeuter som en metod för att upptäcka och behandla fysiska och psykiska besvär genom att mäta och påverka kroppens elektromagnetiska frekvenser. Men enligt forskare […]",
+      "link": "https://www.dagensps.se/life-science/frekvensterapi-mirakelmaskin-utan-vetenskaplig-grund/",
+      "guid": "https://www.dagensps.se/?p=1659070",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/frekvens.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785056803000
+    },
     {
       "title": "Djupt inne i regnskogen hittade forskarna något förvånande som inte existerar någon annanstans på planeten",
       "description": "Något av en överraskning väntade där uppe bland bergen.",
@@ -14,6 +154,126 @@
       "timestamp": 1785056416000
     },
     {
+      "title": "Black Panther III kommer 2028",
+      "description": "Kommer att filmas på film På Comic-Con berättade Marvel att det blir en tredje Black Panther-film. Den kommer att regisseras av Ryan Coogler, som gjorde de två första. Ryan berättade under presentationen att man kommer att spela in på 70 mm-film, vilket han verkade väldigt glad över. Den stora nyheten här dock var att David Jonsson från Alien: Romulus och The Long Walk som kommer att axla rollen som T’Challa. Dock kommer han inte ersätta Chadwick Bosemans karaktär, utan spelar istället en vuxen version av T’Challas son. Hur de löser det tidsmässigt återstår att se. Kanske utspelar sig filmen i framtiden eller så blir det någon slags Cable-variant med tidsresor och så. Premiären är satt till den 15 december 2028. L&auml;s vidare och kommentera: https://feber.se/film/black-panther-iii-kommer-2028/494431/ L&auml;s mer om Black Panther , Marvel , Ryan Coogler , David Jonsson , Comic-Con",
+      "link": "https://feber.se/film/black-panther-iii-kommer-2028/494431/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/black-panther-iii-kommer-2028/494431/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785056400000
+    },
+    {
+      "title": "Stockholm Pride utrycker sitt stöd",
+      "description": "”Vi står sida vid sida med våra vänner”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e08e10a9-b633-410e-8dfd-013ef7adb188",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e08e10a9-b633-410e-8dfd-013ef7adb188",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785056277000
+    },
+    {
+      "title": "Studie: Ökad risk att barnet dör vid hemförlossning",
+      "description": "Risken att barnet dör är dubbelt så hög vid en hemförlossning som vid en förlossning på sjukhus, enligt en rapport från Sahlgrenska universitetssjukhuset, skriver Göteborgs-Posten.",
+      "link": "https://www.expressen.se/nyheter/sverige/studie-okad-risk-att-barnet-dor-vid-hemforlossning/",
+      "guid": "https://www.expressen.se/nyheter/sverige/studie-okad-risk-att-barnet-dor-vid-hemforlossning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785055983000
+    },
+    {
+      "title": "Skuggbankernas skuldberg: Hotar en ny finanskris?",
+      "description": "Den globala skuldsättningen utanför det traditionella banksystemet har vuxit till rekordnivåer – skuggbankerna kan utlösa nästa finanskris. Nästan 18 år har gått sedan investmentbanken Lehman Brothers 2008 kollapsade och utlöste den globala finanskrisen. Nu växer oron för att historien kan upprepa sig, men den här gången med en annan utgångspunkt. Varningarna kommer om den snabbt […]",
+      "link": "https://www.dagensps.se/bors-finans/skuggbankernas-skuldberg-hotar-en-ny-finanskris/",
+      "guid": "https://www.dagensps.se/?p=1659062",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/lehman.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785055727000
+    },
+    {
+      "title": "USA: Handelsfartyg beskjutet i ny attack",
+      "description": "Kriget riskerar att eskaleras",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785055085000
+    },
+    {
+      "title": "Vaniljglass med olivolja, rostad mandel och salt",
+      "description": "Gelato con olio e sale (glass med olivolja och havssalt). Låter det knasigt? Jovisst, men det är en fantastisk smakkombo som inte alls är ovanlig i Italien. Men välj både glass och olivolja av bra kvalitet. Saltet är ett måste, det bryter av mot sötman i glassen och fettet i oljan. Nyrostad mandel ger god krispighet och tar upp det nötiga i oljan.",
+      "link": "https://alltommat.expressen.se/recept/vaniljglass-med-olivolja-rostad-mandel-och-salt/",
+      "guid": "https://alltommat.expressen.se/recept/vaniljglass-med-olivolja-rostad-mandel-och-salt/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785054774000
+    },
+    {
+      "title": "Lamborghini hyller 25 år i Japan",
+      "description": "Med Revuelto i samurajstil Revuelto Impavido är en hyllning till Lamborghinis 25 år i Japan, och designen är inspirerad av samurajernas rustningar och hederskodex Bushido. Bara 25 numrerade exemplar kommer att tillverkas, och de säljs enbart i Japan. Namnet Impavido betyder \"orädd\" och \"modig\" på italienska och är en hyllning till Bushido som handlar om mod, men även medkänsla, respekt och heder. Impavido kommer i fyra olika versioner, två blanka och två matta. En inspireras av den japanska nationalstenen jade, en annan av katanasvärdet, den tredje av samurajens rustning och den fjärde av Sanada-rött. Tekniskt är bilen en \"vanlig\" Revuelto, vilket betyder en V12:a på 6,5 liter som får hjälp av tre elmotorer som tillsammans ger 1 015 hästar. L&auml;s vidare och kommentera: https://feber.se/bil/lamborghini-hyller-25-ar-i-japan-/494427/ L&auml;s mer om Revuelto , Revuelto Impavido , Bushido , Samuraj , V12 , Japan",
+      "link": "https://feber.se/bil/lamborghini-hyller-25-ar-i-japan-/494427/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/lamborghini-hyller-25-ar-i-japan-/494427/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785054600000
+    },
+    {
+      "title": "Hade 178 000 i sedlar i bokhyllan – nu eldas pengarna upp",
+      "description": "Riksbanken vägrar lösa in de gamla kontanterna som en läkare skickat från Sverige till sin svärmor i Ungern. I över 30 år skickade läkaren i Uppsala pengar till sin svärmor för att hjälpa henne bland annat med hyran. När kvinnan sedan avled gjordes fyndet i hennes bokhylla. Där låg 178 000 kronor i gamla svenska […]",
+      "link": "https://www.dagensps.se/privatekonomi/hade-178-000-i-sedlar-i-bokhyllan-nu-eldas-pengarna-upp/",
+      "guid": "https://www.dagensps.se/?p=1659063",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sedlar.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785054558000
+    },
+    {
+      "title": "Ökad press på indiska regeringen – Kackerlackspartiet växer",
+      "description": "Stödet för indiska Kackerlackspartiet växer",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/okad-press-pa-indiska-regeringen-kackerlackspartiet-vaxer",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/okad-press-pa-indiska-regeringen-kackerlackspartiet-vaxer",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785054331000
+    },
+    {
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "description": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785053795000
+    },
+    {
+      "title": "Turister flyr semesterparadiset: ”Prisexplosion”",
+      "description": "Turisterna flyr lågprisparadiset Kroatien. En prisexplosion driver bort människor som tidigare gillat det budgetvänliga semestermålet. ”Stränderna längs Adriatiska havet är mycket tommare än vanligt”, skriver schweiziska Blick.",
+      "link": "https://www.expressen.se/nyheter/varlden/turister-flyr-semesterparadiset-prisexplosion/",
+      "guid": "https://www.expressen.se/nyheter/varlden/turister-flyr-semesterparadiset-prisexplosion/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785053670000
+    },
+    {
+      "title": "Risotto al pesto – risotto med pesto",
+      "description": "Risotton toppas med osten stracchino och knapriga valnötter. Bönor och ärter tillför protein och sötma. Den speciella osten har fin syrlighet som passar till parmesanens sälta. Ett bra alternativ är en krämig burrataost.",
+      "link": "https://alltommat.expressen.se/recept/risotto-al-pesto-risotto-med-pesto/",
+      "guid": "https://alltommat.expressen.se/recept/risotto-al-pesto-risotto-med-pesto/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785053212000
+    },
+    {
       "title": "Seger för Anthony Joshua i comebacken – härnäst står Tyson Fury för motståndet",
       "description": "Boxaren Anthony Joshua golvades två gånger av Kristian Prenga, men lyckades resa sig från mattan och vann.",
       "link": "https://yle.fi/a/7-10102674?origin=rss",
@@ -22,6 +282,16 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785052869000
+    },
+    {
+      "title": "Metal Gear Solid är gratis på Steam just nu",
+      "description": "Hideo Kojimas klassiker kan spelas utan kostnad fram till i morgon kväll Om du vill köra igenom Hideo Kojimas spionklassiker Metal Gear Solid så kan du göra det i dag helt utan extra kostnad. Spelet är nämligen helt gratis att spela på Steam fram till i morgon kväll. Spelet tar väl lite drygt tio timmar att köra igenom så det passar perfekt om det är en regnig sommardag där du är just nu. Det är samlingen Metal Gear Solid: Master Collection Vol. 1 som just nu är gratis att spela. När man kört klart Metal Gear Solid kan man ge sig på några av de tidigare 2D-titlarna samt frossa i en mängd digitalt extramaterial. Andra spel som just nu är gratis på Steam är överlevnadsspelet Icarus , Killing Floor 3 , Firefighting Simulator: Ignite och Unrailed 2: Back on Track . L&auml;s vidare och kommentera: https://feber.se/spel/metal-gear-solid-ar-gratis-pa-steam-just-nu/494436/ L&auml;s mer om Metal Gear Solid , Hideo Kojima , Steam , PC-spel , Konami",
+      "link": "https://feber.se/spel/metal-gear-solid-ar-gratis-pa-steam-just-nu/494436/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/metal-gear-solid-ar-gratis-pa-steam-just-nu/494436/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785052800000
     },
     {
       "title": "Kan AI lösa alzheimer-gåtan? ”Svårt att veta vad som är hajp”",
@@ -54,16 +324,6 @@
       "timestamp": 1785051608000
     },
     {
-      "title": "USA: Handelsfartyg beskjutet",
-      "description": "Risk för eskalering",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-mellan-usa-och-iran-13e-natten-i-rad",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785051465000
-    },
-    {
       "title": "Brandmän får öva på kraschade Volvos",
       "description": "Bra! Volvo kraschar ju lite bilar då och då. När de har smällt blir det ett vrak, och då låter tydligen Volvo brandkåren komma dit och öva på att komma in i bilar. Vilket ju är riktigt bra! L&auml;s vidare och kommentera: https://feber.se/bil/brandman-far-ova-pa-kraschade-volvos/494422/ L&auml;s mer om brandkår , räddningsövning , bilkrascher , fordonsbärgning",
       "link": "https://feber.se/bil/brandman-far-ova-pa-kraschade-volvos/494422/?utm_source=rss&utm_medium=feed",
@@ -74,14 +334,14 @@
       "timestamp": 1785051000000
     },
     {
-      "title": "Bil körde in i villa",
-      "description": "Tre flydde från platsen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ec0bb3c-08f9-48f6-8502-78a883b58390",
+      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "description": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785050319000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785050138000
     },
     {
       "title": "Misstänkt spion arbetade i Natos högkvarter",
@@ -92,16 +352,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785049789000
-    },
-    {
-      "title": "Priserna på kakao sjunker – chokladjättar hoppas på revansch",
-      "description": "Bjässarna på chokladmarknaden hoppas på ett försäljningslyft efter det tunga raset när priserna på kakao nu går ner. Så ser strategin ut. Under de senaste två åren har priserna på kakao skjutit i höjden på grund av ogynnsamma väderförhållanden som slagit mot kakaoskördarna i Västafrika. El Niño har spelat kakaobönderna ett spratt med torrare och […]",
-      "link": "https://www.dagensps.se/bors-finans/priserna-pa-kakao-sjunker-chokladjattar-hoppas-pa-revansch/",
-      "guid": "https://www.dagensps.se/?p=1659039",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/choklad.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785049784000
     },
     {
       "title": "Madeleine fick drömroll i världssuccén \"Legally Blonde\"",
@@ -115,7 +365,7 @@
     },
     {
       "title": "Ryan Gosling spelar Ghost Rider!",
-      "description": "Filmen kommer 2028 På Comic-Con meddelade Marvel att Ryan Gosling kommer att spela Ghost Rider i en ny film regisserad av Shawn Levy. Ryan var själv på plats och presenterade filmen i hall H. Shawn Levy och Ryan Gosling jobbar just nu tillsammans på Star Wars: Starfighter. Filmen kommer att ha premiär under 2028. Senast vi såg Ghost Rider på vita duken var 2011, då Nicolas Cage spelade rollen i Ghost Rider: Spirit of Vengeance. Det var andra gången som Cage spelade rollen, första filmen Ghost Rider kom 2007. Ghost Rider har även synts lite i Agents of S.H.I.E.L.D. Deadpool dök förresten L&auml;s vidare och kommentera: https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/ L&auml;s mer om Ryan Gosling , Ghost Rider , Marvel , Shawn Levy , Comic-Con",
+      "description": "Filmen kommer 2028 På Comic-Con meddelade Marvel att Ryan Gosling kommer att spela Ghost Rider i en ny film regisserad av Shawn Levy. Ryan var själv på plats och presenterade filmen i hall H. Shawn Levy och Ryan Gosling jobbar just nu tillsammans på Star Wars: Starfighter. Filmen kommer att ha premiär under 2028. Senast vi såg Ghost Rider på vita duken var 2011, då Nicolas Cage spelade rollen i Ghost Rider: Spirit of Vengeance. Det var andra gången som Cage spelade rollen, första filmen Ghost Rider kom 2007. Ghost Rider har även synts lite i Agents of S.H.I.E.L.D. Deadpool dök upp förresten L&auml;s vidare och kommentera: https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/ L&auml;s mer om Ryan Gosling , Ghost Rider , Marvel , Shawn Levy , Comic-Con",
       "link": "https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/film/ryan-gosling-spelar-ghost-rider/494429/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -152,16 +402,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785047124000
-    },
-    {
-      "title": "30-åriga kvinnor bäst på placeringar – unga män sämst",
-      "description": "Ny sammanställning visar att kvinnor har bättre resultat i sin avkastning på placeringar än män. Särskilt 30-åriga kvinnor. Det är nätbanken Avanza som konstaterar i en undersökning att kvinnor medianavkastning under senaste året är 19,1 procent, medan männen får nöja sig med en avkastning på 16,7 procent. Kvinnor är generellt sätt 2,5 procent bättre på […]",
-      "link": "https://www.dagensps.se/bors-finans/30-ariga-kvinnor-bast-pa-placeringar-unga-man-samst/",
-      "guid": "https://www.dagensps.se/?p=1659030",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/schon.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785046548000
     },
     {
       "title": "Björn rörde sig i centrum av Harjavalta",
@@ -235,13 +475,23 @@
     },
     {
       "title": "Ny massevakuering – fler än 300 000 på flykt undan bränderna",
-      "description": "Bränderna fortsätter rasa i delar av södra Europa och under lördagskvällen beordrades nya massevakueringar. Nu har över 300 000 människor tagit till flykt. ”Läget är fortsatt mycket spänt”, skriver Frankrikes premiärminister Emmanuel Macron på X.",
+      "description": "Bränderna fortsätter rasa i delar av södra Europa och under lördagskvällen beordrades nya massevakueringar. Nu har över 300 000 människor tagit till flykt. ”Läget är fortsatt mycket spänt”, skriver Frankrikes president Emmanuel Macron på X.",
       "link": "https://www.expressen.se/nyheter/varlden/ny-massevakuering-fler-an-300-000-pa-flykt-undan-branderna-/",
       "guid": "https://www.expressen.se/nyheter/varlden/ny-massevakuering-fler-an-300-000-pa-flykt-undan-branderna-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785042978000
+    },
+    {
+      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "description": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785042629000
     },
     {
       "title": "”Mamma kan inte säga nej, snart bränner hon ut sig” – kan man träna på att säga ifrån?",
@@ -264,16 +514,6 @@
       "timestamp": 1785042000000
     },
     {
-      "title": "Ryssland förlänger stopp på dieselexport",
-      "description": "Stoppet kommunicerades tidigare i juli och skulle gälla till den 31 juli. Nu förlängs stoppet till årets slut, men Ryssland planerar att häva förbudet så snart marknaden återhämtat sig, enligt landets biträdande premiärminister Alexander Novak. Ryssland förlänger sina restriktioner för dieselexport fram till årsskiftet för att komma till rätta med bränslebristen i landet – orsakad […]",
-      "link": "https://www.dagensps.se/varlden/konflikter/ryssland-forlanger-stopp-pa-dieselexport/",
-      "guid": "https://www.dagensps.se/?p=1659027",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/bilko-vid-en-bensinstation-i-moskva-den.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785041703000
-    },
-    {
       "title": "\"Kaosfärd\" i för liten ambulans när skottskadad fördes till sjukhus",
       "description": "\"Kaos utan dess like\" i för liten ambulans när skottskadad fördes till sjukhus efter skjutning i Jordbro i Haninge.",
       "link": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
@@ -285,7 +525,7 @@
     },
     {
       "title": "21-åriga Abdul B misstänks ligga bakom Berlindådet",
-      "description": "21-åriga Abdul B. misstänks ligga bakom attentatet i centrala Berlin. Han är sedan tidigare känd av polisen och har kopplingar till den islamistiska miljön. ”Han kan vara beväpnad och är att betrakta som farlig”, uppger Berlinpolisen.",
+      "description": "21-åriga Abdul B misstänks ligga bakom attacken i centrala Berlin. Han är sedan tidigare känd av polisen och har kopplingar till den islamistiska miljön. ”Han kan vara beväpnad och är att betrakta som farlig”, uppger Berlinpolisen.",
       "link": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
       "guid": "https://www.expressen.se/nyheter/varlden/polisen-21-ariga-abdul-b-misstanks-ligga-bakom-berlindadet/",
       "image": "",
@@ -302,16 +542,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785039983000
-    },
-    {
-      "title": "Mopedist påkörd av tåg",
-      "description": "Påkörd av tåg • Man i 30-årsåldern med allvarliga skador",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ec1dc74-9c84-49f5-9759-1e67c08ed91a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785039927000
     },
     {
       "title": "Matriarken Anna Sinebrychoff styrde släktens bryggeri bort från spriten, sponsrade konsterna och gav till de fattiga",
@@ -444,26 +674,6 @@
       "timestamp": 1785011403000
     },
     {
-      "title": "Nya uppgifter om hotet mot Trump – bytte plan",
-      "description": "Donald Trump bytte plötsligt plan efter ett ”trovärdigt hot” från Iran, avslöjar New York Times. Amerikanska tjänstemän bekräftar, enligt tidningen, att detta låg bakom presidentens planbyte under hemresan från Natotoppmötet tidigare i juli. Dessutom litar Vita huset inte på säkerheten i det nya plan Trump fick av Qatar förra året.",
-      "link": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-om-hotet-mot-trump-bytte-plan/",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-om-hotet-mot-trump-bytte-plan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785010817000
-    },
-    {
-      "title": "A-traktor körde sönder gräsmatta",
-      "description": "A-traktor med två pojkar stoppad av polis",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7976cf35-45bb-475c-928f-a8c385da4a17",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7976cf35-45bb-475c-928f-a8c385da4a17",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785008850000
-    },
-    {
       "title": "Ny expedition ska lösa mysteriet med Mars två omdiskuterade månar",
       "description": "Astronomer har haft hetsiga diskussioner om hur Mars deformerade månar har uppstått. De liknar inte alls det vi normalt förknippar med månar i solsystemet – och nu ska debatten avgöras med en helt ny typ av uppdrag.",
       "link": "https://illvet.se/universum/ny-expedition-ska-losa-mysteriet-med-mars-tva-omdiskuterade-manar",
@@ -472,16 +682,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785007847000
-    },
-    {
-      "title": "Alma, 13, stoppad på flygplatsen – fullt på planet: ”Oacceptabelt”",
-      "description": "Alma Lindvall, 13, fick inte gå ombord på sitt flyg i München – och tvingades tillbringa sju timmar ensam på storflygplatsen. Personalen vid gaten tog henne åt sidan eftersom flighten var överbokad. – Det är oacceptabelt att behandla ett barn så här. Av alla passagerare lämnade de kvar vår 13-åriga dotter, säger mamman Jennie Lindvall.",
-      "link": "https://www.expressen.se/nyheter/sverige/alma-13-stoppad-pa-flygplatsen-fullt-pa-planet-oacceptabelt/",
-      "guid": "https://www.expressen.se/nyheter/sverige/alma-13-stoppad-pa-flygplatsen-fullt-pa-planet-oacceptabelt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785007520000
     },
     {
       "title": "Saga Andersson osar av kalasform efter blöt FM-final: ”Kroppen kändes helt otroligt bra”",
@@ -494,16 +694,6 @@
       "timestamp": 1785007444000
     },
     {
-      "title": "Två påkörda i Borås",
-      "description": "Skedde i korsning – oklart skadeläge",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b4c0953-cb32-4fdd-8f70-4939e5a86430",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2b4c0953-cb32-4fdd-8f70-4939e5a86430",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785006603000
-    },
-    {
       "title": "Mycket kontroversiellt försök: Falska patienter skakade om psykiatrin",
       "description": "I slutet av 1960-talet lät en grupp falska patienter sig läggas in på psykiatriska sjukhus i USA. De var alla friska, men fick diagnosen psykisk sjukdom. Och ingenting verkade kunna ändra läkarnas dom.",
       "link": "https://varldenshistoria.se/vetenskap/medicin/du-ar-frisk-men-lakaren-tror-dig-inte-falska-patienter-skakade-om-psykiatrin",
@@ -512,26 +702,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785006051000
-    },
-    {
-      "title": "Tre års fängelse för våldtäkt i taxibuss",
-      "description": "En man och en kvinna hade kommit överens om att ha sex i en taxibuss. Då började mannen utföra analsex – trots att kvinnan sagt att hon inte ville det. Nu döms han för våldtäkt.",
-      "link": "https://www.expressen.se/nyheter/sverige/tre-ars-fangelse-for-valdtakt-i-taxibuss/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tre-ars-fangelse-for-valdtakt-i-taxibuss/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785004544000
-    },
-    {
-      "title": "340 000 evakuerade i Kina inför storm",
-      "description": "Tyfon på väg mot Kina",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d2cc7535-cb05-4942-a370-51f119e53824",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d2cc7535-cb05-4942-a370-51f119e53824",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785002254000
     },
     {
       "title": "Emilia Karell inför EM-resan: ”Jag har inte riktigt fattat att jag är på väg ännu”",
@@ -552,16 +722,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785000315000
-    },
-    {
-      "title": "Unikt lastfartyg godkänt: Drivs med smält salt",
-      "description": "Sydkorea har fått ett godkännande för ett gigantiskt containerfartyg som drivs av två kärnreaktorer med smält salt. Det är ett unikt koncept som nu fått sitt godkännande i Sydkorea. 16 juli offentliggjorde ett statligt institut nyheten som kan förändra den globala sjöfarten i grunden. Det handlar om ett lastfartyg, ett gigantiskt containerfartyg, som drivs av […]",
-      "link": "https://www.dagensps.se/teknik/unikt-lastfartyg-godkant-drivs-med-smalt-salt/",
-      "guid": "https://www.dagensps.se/?p=1659016",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlymm7ingq9pw-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784996921000
     },
     {
       "title": "IFK Mariehamn hann skymta första segern i horisonten: ”Lite kaotiskt att försöka få in sju nya spelare i systemet”",
@@ -604,36 +764,6 @@
       "timestamp": 1784995200000
     },
     {
-      "title": "Målvakterna höll tätt i Seinäjoki i ligaettan i fotboll: ”Anfallsspelet är trögt”",
-      "description": "Seinäjokilaget SJK Akatemia och Ekenäs IF lyckades inte göra mål på lördagseftermiddagen i ligaettan i fotboll.",
-      "link": "https://yle.fi/a/7-10102551?origin=rss",
-      "guid": "https://yle.fi/a/7-10102551",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784995051000
-    },
-    {
-      "title": "Batterilagring: En lösning på 13×15 meter från Finland",
-      "description": "13 meter högt. 15 meter brett. Världens största sandbatteri kan vara lösningen på lagring av förnybar energi och finns i Finland. Finland kan ha löst det mest kritiska problemet för förnybar energi – den ojämna tillgången på energi. Ett enormt sandbatteri i form av en 13 meter hög och 15 meter bred anläggning, använder 2 000 […]",
-      "link": "https://www.dagensps.se/teknik/energi/batterilagring-en-losning-pa-13x15-meter-fran-finland/",
-      "guid": "https://www.dagensps.se/?p=1659005",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/108337862-1784637737797-polar-night-ener-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784994401000
-    },
-    {
-      "title": "Lando Norris bröt Mercedes kvaldominans: ”Hade tron hela dagen”",
-      "description": "För första gången den här säsongen är det inte Mercedes som är först i startledet i ett F1-lopp. Ungerns kval blev i stället en duell mellan McLaren och Ferrari.",
-      "link": "https://yle.fi/a/7-10102665?origin=rss",
-      "guid": "https://yle.fi/a/7-10102665",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784993436000
-    },
-    {
       "title": "A single dose reversed autism-like symptoms in adult mice within hours",
       "description": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
@@ -654,16 +784,6 @@
       "timestamp": 1784991600000
     },
     {
-      "title": "Förslaget: ”40 länder i EU – och släpp in Kanada”",
-      "description": "EU behöver tänka stort och utvidgas till 40 länder – bland de nya Kanada, Storbritannien och Norge. Förslaget kommer från Finland. Finlands president Alexander Stubb har presenterat sin vision för ett betydligt större EU.Stubb menar att EU, som i dag består av 27 länder, måste ”tänka stort” för att bli en central global aktör. Stubb […]",
-      "link": "https://www.dagensps.se/varlden/forslaget-40-lander-i-eu-och-slapp-in-kanada/",
-      "guid": "https://www.dagensps.se/?p=1658992",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl1jkqrdbtfbg-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784991502000
-    },
-    {
       "title": "Superagers keep youthful memories but their DNA does not explain why",
       "description": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
@@ -672,16 +792,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784990514000
-    },
-    {
-      "title": "Det här hände under andra dagen av Kalevaspelen: Jeanine Nygård trotsade krampen och knep skrällbrons – i sitt sista 400-meterslopp på FM",
-      "description": "Yle Sporten följde den andra tävlingsdagen av FM i friidrott i Jyväskylä.",
-      "link": "https://yle.fi/a/7-10102669?origin=rss",
-      "guid": "https://yle.fi/a/7-10102669",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784990204000
     },
     {
       "title": "Scientists put the “recycling is a distraction” claim to the test",
@@ -702,16 +812,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1784988000000
-    },
-    {
-      "title": "Ett ord avgjorde 580 miljoner euro och en investerare som tackar slumpen",
-      "description": "En försäkringstvist som avgjordes av en enda formulering i det finstilta. En 95-årig miljardär som hellre pratar om tur än talang. Och ett förslag som kan göra körkortet oanvändbart som legitimation. Veckans mest lästa på Dagens PS systertidningar Realtid och E55 spände från juridiska spetsfundigheter till vardagsekonomi. Ett enda ord avgjorde 580 miljoner euro Nord […]",
-      "link": "https://www.dagensps.se/foretag/ett-ord-avgjorde-580-miljoner-euro-och-en-investerare-som-tackar-slumpen/",
-      "guid": "https://www.dagensps.se/?p=1658983",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/image-38-300x300.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1784987583000
     },
     {
       "title": "The Universe can outrun light without breaking Einstein’s rules",
@@ -1224,16 +1324,6 @@
       "timestamp": 1784907000000
     },
     {
-      "title": "En sista trailer för Coyote vs. Acme",
-      "description": "Inför premiären nästa månad Snart är det dags för premiär för den animerade filmen Coyote vs. Acme , en film som var färdiginspelad redan 2022 men som Warner Bros. Discovery då lade på hyllan för att använda produktionskostnaden av filmen som skatteavdrag. Efter protester ändrade sig dock filmbolaget förra året vilket ledde till att filmen nu snart har premiär. I Coyote vs. Acme beslutar sig Wile E. Coyote, karaktären som kallas för \"Gråben\" här i Sverige, att stämma Acme, företaget som har tillverkat explosiva varor och annat som skadat Coyote otaliga gånger när han använt produkterna för att försöka fånga sin nemesis Roadrunner (Hjulben). I rollen som Coyotes advokat syns Will Forte och John Cena spelar rollen som Acmes VD. Coyote vs. Acme går upp på amerikanska biografer den 28 augusti. Svensk premiär för Gråben vs Acme uppges bli den 18 september, skriver Moviezine. Ni hittar den senaste trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/en-sista-trailer-for-coyote-vs-acme/494369/ L&auml;s mer om Coyote vs. Acme , Wile E. Coyote , Gråben , Warner Bros. Discovery , Looney Tunes , Animerad film",
-      "link": "https://feber.se/film/en-sista-trailer-for-coyote-vs-acme/494369/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/en-sista-trailer-for-coyote-vs-acme/494369/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784905200000
-    },
-    {
       "title": "Trope Rome",
       "description": "",
       "link": "https://uncrate.com/trope-rome/",
@@ -1244,26 +1334,6 @@
       "timestamp": 1784905200000
     },
     {
-      "title": "Elon Musk ska göra egen version av The Odyssey",
-      "description": "Med hjälp av Grok Sedan Christopher Nolans The Odyssey släpptes har det varit en del tjafs om huruvida den ger en korrekt bild av Homeros epos, mestadels på grund av att en av rollerna spelas av den svarta skådespelaren Lupita Nyongo och en annan av transpersonen Elliot Page. Filmen har debatterats en del på X och Elon Musk skrev häromdagen att han planerar att låta SpaceX AI Grok göra en historiskt korrekt version av Odyssén. I ett inlägg, som var ett svar på ett en annan användares inlägg, skrev Musk: \"Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer.\" Tidigare den här månaden skrev Musk att \"Chris Nolan is an anti-White racist\" och i ett inlägg på X skrev han även: \"Chris Nolan desecrated Homer and groveled on his knees just to meet the woke rules required to win an Oscar. What a worm.\" L&auml;s vidare och kommentera: https://feber.se/film/elon-musk-ska-gora-egen-version-av-the-odyssey/494402/ L&auml;s mer om Elon Musk , Christopher Nolan , Lupita Nyong'o , Elliot Page , Grok , The Odyssey , AI-film",
-      "link": "https://feber.se/film/elon-musk-ska-gora-egen-version-av-the-odyssey/494402/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/elon-musk-ska-gora-egen-version-av-the-odyssey/494402/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784904000000
-    },
-    {
-      "title": "Universal planerar att göra film av klassiska Atari-spel",
-      "description": "Har köpt rättigheterna till bland annat Pong, Asteroids och Berzerk Deadline rapporterar att filmbolaget Universal Pictures har köpt rättigheterna att göra film av tio klassiska Atari-spel som släpptes på 1970- och 1980-talet. Det handlar om spelen Asteroids, Adventure, Berzerk, Breakout, Centipede, Crystal Castles, Millipede, Missile Command, Pong och Yars' Revenge . Ataris ordförande och VD Wade Rosen säger om det nya samarbetet med Universal: \"For more than five decades, Atari has created games and worlds that have remained part of popular culture long after their original release. We are excited to work with Universal and Entertainment 360 to bring the spirit of our iconic brand and games to a new medium.\" Universal ska redan ha beställt manus till en film för en av Atari-titlarna, men det uppges inte vilken det handlar om. När filmer från Universal i ett \"Atari Cinematic Universe\" kan få premiär finns det än så länge inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/film/universal-planerar-att-gora-film-av-klassiska-atari-spel/494388/ L&auml;s mer om Universal Pictures , Atari , Atari Cinematic Universe , Entertainment 360 , filmrättigheter , retrospel",
-      "link": "https://feber.se/film/universal-planerar-att-gora-film-av-klassiska-atari-spel/494388/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/universal-planerar-att-gora-film-av-klassiska-atari-spel/494388/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784903400000
-    },
-    {
       "title": "Här fortsätter Pridefesten in i natten – Debaser är redo",
       "description": "På Debaser firas Prideveckan under fem dagar.",
       "link": "https://www.mitti.se/nyheter/har-fortsatter-pridefesten-in-i-natten--debaser-ar-redo-6.3.376554.ce2d18c04d",
@@ -1272,16 +1342,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784902500000
-    },
-    {
-      "title": "Microsoft stoppar LG:s McAfee-reklam",
-      "description": "Efter massiv kritik För någon vecka sedan rapporterade vi om att LG automatiskt installerade oönskad mjukvara på folks Windows-datorer när man kopplade in deras skärmar. Appen, som heter LG Monitor App Installer, började därefter visa pop-up-fönster med reklam för McAfee antivirus, i vissa fall vid varje systemstart. Efter rejält med kritik från användare har Microsoft nu ingripit och gått med på att stoppa de aggressiva McAfee-annonser efter att Epic Games vd Tim Sweeney lyft problemet direkt till Windows-chefen Pavan Davuluri. Davuluri bekräftade att Microsoft varit i kontakt med LG och att de nu har gått med på att inaktivera McAfee-annonserna. Microsoft anser nämligen att de alltid ser över hur de kan förbättra användarupplevelsen och rensa bort bloatware som stör kunderna. Trots att LG nu backar har det koreanska företaget i officiella uttalanden försvarat sin metod. De hävdar att ingen mjukvara installeras utan användarens samtycke och pekar på att distributionen sker via Microsofts egna officiella kanaler för drivrutiner. Detta motsägs dock av många användare som vittnar om att appen installerats helt i bakgrunden utan någon tydlig förfrågan. L&auml;s vidare och kommentera: https://feber.se/pc/microsoft-stoppar-lgs-mcafee-reklam/494387/ L&auml;s mer om LG , Microsoft , McAfee , Tim Sweeney , Windows , bloatware",
-      "link": "https://feber.se/pc/microsoft-stoppar-lgs-mcafee-reklam/494387/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/microsoft-stoppar-lgs-mcafee-reklam/494387/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784901600000
     },
     {
       "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
@@ -2364,16 +2424,6 @@
       "timestamp": 1784647438000
     },
     {
-      "title": "Kallskuren biff med gurka och ponzudressing",
-      "description": "Tunna skivor av biff möter krispig gurka och en friskt syrlig ponzudressing. En rustik men ändå elegant rätt med japansk touch.",
-      "link": "https://alltommat.expressen.se/recept/kallskuren-biff-med-gurka-och-ponzudressing/",
-      "guid": "https://alltommat.expressen.se/recept/kallskuren-biff-med-gurka-och-ponzudressing/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784644396000
-    },
-    {
       "title": "Watching too much TV in midlife may shrink the brain",
       "description": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual processing, along with more signs of damage in the brain’s white matter. Surprisingly, sitting itself did not appear to be the main issue, since people who spent long hours seated at mentally engaging jobs often showed healthier brain patterns.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
@@ -2392,16 +2442,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784638559000
-    },
-    {
-      "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
-      "description": "China’s Chang’e-6 samples have uncovered a surprising difference between the Moon’s two hemispheres. Solar wind particles penetrated deeper into the far-side soil because Earth’s magnetosphere slows the particles that reach the near side. Noble gases locked inside the lunar regolith preserved evidence of this uneven bombardment. These gases may even help scientists reconstruct the ancient history of Earth’s magnetic shield.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784637575000
     },
     {
       "title": "Polisen ryter till om (o)nödiga brottet: \"Öppna inte gylfen\"",
@@ -2462,16 +2502,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1784628000000
-    },
-    {
-      "title": "Rostade morotsfries med krämig chilimajonnäs",
-      "description": "Ett härligt tilltugg som är gott precis som det är eller som ett smakrikt komplement till en bit grillat kött. Servera direkt.",
-      "link": "https://alltommat.expressen.se/recept/rostade-morotsfries-med-kramig-chilimajonnas/",
-      "guid": "https://alltommat.expressen.se/recept/rostade-morotsfries-med-kramig-chilimajonnas/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784626507000
     },
     {
       "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
@@ -2714,16 +2744,6 @@
       "timestamp": 1784527578000
     },
     {
-      "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
-      "description": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible drug target that could help control harmful activity in supporting brain cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784525328000
-    },
-    {
       "title": "Här är förstagångsföräldrarna äldst i landet",
       "description": "I Danderyd är förstagångsföräldrar äldst i Sverige. Kvinnor är i snitt 32,7 år och män 34,9 år när första barnet föds, enligt SCB-statistik analyserad av Dina Försäkringar.",
       "link": "https://www.mitti.se/nyheter/har-ar-forstagangsforaldrarna-aldst-i-landet-6.3.368552.a87658bd49",
@@ -2742,16 +2762,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784518332000
-    },
-    {
-      "title": "Scientists found two powerful new ways to destroy forever chemicals",
-      "description": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles to pull PFAS to the surface and break them apart.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784514681000
     },
     {
       "title": "A tiny universe in a bottle reveals clues to the origins of life",
@@ -2812,16 +2822,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784437200000
-    },
-    {
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "description": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784434920000
     },
     {
       "title": "Common antidepressant may ease long COVID’s crushing fatigue",
