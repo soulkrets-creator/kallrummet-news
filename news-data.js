@@ -1,8 +1,218 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-26T10:28:03.125Z",
+  "updatedAt": "2026-07-26T12:56:04.838Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Kommentar: Hej Scorpions, min pinsamma men trogna vän",
+      "description": "Lasse Grönroos skriver om sin färd genom livet med Scorpions i sidospegeln, inför rocklegendernas Finlandsbesök.",
+      "link": "https://yle.fi/a/7-10098127?origin=rss",
+      "guid": "https://yle.fi/a/7-10098127",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785069020000
+    },
+    {
+      "title": "Bekräftar terrorattack",
+      "description": "Tyska ministern: ”Ett islamistiskt attentat”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fd3fdf7-5297-4a57-9483-e9a6347dbfc6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fd3fdf7-5297-4a57-9483-e9a6347dbfc6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785068736000
+    },
+    {
+      "title": "Polisen inför prideveckan: ”Har dialog med tysk polis”",
+      "description": "Ett pridefirande pågick i området när en bil körde in i folkmassan i Berlin. Nu förbereder sig den svenska polisen för att prideveckan i Stockholm ska dra igång. – Vi följer naturligtvis läget, säger Mats Eriksson vid polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/polisen-infor-prideveckan-har-dialog-med-tysk-polis/",
+      "guid": "https://www.expressen.se/nyheter/sverige/polisen-infor-prideveckan-har-dialog-med-tysk-polis/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785067344000
+    },
+    {
+      "title": "Varnar om Nordkorea",
+      "description": "Larmar: Nordkorea skickar soldater till Putin",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785067293000
+    },
+    {
+      "title": "Supergirl släpps digitalt nästa vecka",
+      "description": "Så du kan se den hemma DC-filmen Supergirl blev aldrig någon större biosuccé under våren men kanske kan den få lite fler tittare nu när den släpps på VOD-tjänster nästa vecka. Filmen spelade in bara 121 miljoner dollar världen över men då den hade en total budget för produktion och marknadsföring på närmare 300 miljoner dollar blev det inte direkt någon ekonomisk succé för Warner Bros. denna gång. Men trots de svaga siffrorna ser DC Studios optimistiskt på framtiden för karaktären då Supergirl kommer spela en viktig roll i kommande DC-filmer, bland annat i kommande Stålmannen-filmen Man of Tomorrow. Då Milly Alcock är ganska lysande som Kara Zor-El är det ju trevligt att höra. Hur som helst landar filmen på digitala plattformar som Apple TV och Amazon Prime den 28 juli. För de som föredrar fysiska utgåvor släpps filmen på Blu-ray och 4K UHD i början av september. L&auml;s vidare och kommentera: https://feber.se/film/supergirl-slapps-digitalt-nasta-vecka/494434/ L&auml;s mer om Supergirl , DC Studios , Warner Bros , Milly Alcock , Film , VOD , Streaming",
+      "link": "https://feber.se/film/supergirl-slapps-digitalt-nasta-vecka/494434/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/supergirl-slapps-digitalt-nasta-vecka/494434/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785067200000
+    },
+    {
+      "title": "19-åring fick pojke att spränga vid villa i Saltsjöbaden",
+      "description": "En 19-åring döms för anstiftan efter att en 15-åring sprängt vid en bostad i Saltsjöbaden.",
+      "link": "https://www.mitti.se/nyheter/19aring-fick-pojke-att-spranga-vid-villa-i-saltsjobaden-6.3.376844.ed0ce00510",
+      "guid": "https://www.mitti.se/nyheter/19aring-fick-pojke-att-spranga-vid-villa-i-saltsjobaden-6.3.376844.ed0ce00510",
+      "image": "https://www.mitti.se/image-3.304437.300980.20260726123106.1.d9d2331acb?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785067200000
+    },
+    {
+      "title": "Elvan i bortamötet med BP",
+      "description": "Så här ställer Hammarby upp i söndagens bortamatch, som sparkas igång klockan 14.00 på Grimsta IP. Mötet visas även i TV4 Play för dig som inte är på plats.1. Warner Hahn2. Hampus Skoglund6. Ibrahima",
+      "link": "https://www.hammarbyfotboll.se/nyheter/elvan-i-bortamotet-med-bp",
+      "guid": "fcb158e3-8d18-4dc8-af06-c1c15afcb0d3",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/dda1f96846e011ba6457185fc59e68c2dd9b2b62-1083x722.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785067020000
+    },
+    {
+      "title": "SMHI: Då kommer värmen tillbaka",
+      "description": "Sommarvärmen gör comeback. Men den blir inte långvarig. – Värmen kulminerar på torsdagen, säger meteorologen Eva Strandberg.",
+      "link": "https://www.expressen.se/nyheter/vader/smhi-da-kommer-varmen-tillbaka/",
+      "guid": "https://www.expressen.se/nyheter/vader/smhi-da-kommer-varmen-tillbaka/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785066990000
+    },
+    {
+      "title": "Brist på robotar får USA att pausa bombningarna mot Iran",
+      "description": "Flera amerikanska medier rapporterar att USA avbröt sina bombningar mot Iran på fredagen. Delvis ska det bero på att USA börjar ha brist på robotar.",
+      "link": "https://yle.fi/a/7-10102679?origin=rss",
+      "guid": "https://yle.fi/a/7-10102679",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785066964000
+    },
+    {
+      "title": "Alvar Aaltos arkitektur har upptagits som världsarv",
+      "description": "Nu utses nya världsarv av Unesco. Finland får sitt åttonde bidrag på den ärofyllda listan – en samling verk av landets största arkitekt.",
+      "link": "https://www.expressen.se/nyheter/varlden/alvar-aaltos-arkitektur-har-upptagits-som-varldsarv/",
+      "guid": "https://www.expressen.se/nyheter/varlden/alvar-aaltos-arkitektur-har-upptagits-som-varldsarv/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785066430000
+    },
+    {
+      "title": "Ryskt örlogsfartyg nära Skåne",
+      "description": "Kustbevakningen bekräftar att ett ryskt örlogsfartyg passerat utanför skånska Falsterbo. Det rör sig om ett signalspaningsfartyg. Kustbevakningen har bekräftat att ett ryskt örlogsfartyg söndag passerat utanför skånska Falsterbo. Det rör sig om ett signalspaningsfartyg av Vishnya-klassen, vilka togs i bruk under slutet av 1980-talet. Ryssar vill skrämmas: ”Vi kan invadera Gotland”. Dagens PS ”Såg rätt […]",
+      "link": "https://www.dagensps.se/varlden/ryskt-orlogsfartyg-nara-skane/",
+      "guid": "https://www.dagensps.se/?p=1659106",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdllpo1aibhl38-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785066302000
+    },
+    {
+      "title": "Kalevaspelen direkt: Skrällnamn över 81 meter i spjutfinalen | Nathalie Blomqvist förkyld",
+      "description": "Yle Sporten följer det sista finalpasset under FM-tävlingarna i friidrott i Jyväskylä.",
+      "link": "https://yle.fi/a/7-10102680?origin=rss",
+      "guid": "https://yle.fi/a/7-10102680",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785066097000
+    },
+    {
+      "title": "Otto Virtanen snubblade på målsnöret – förlorade finalen i Tammerfors",
+      "description": "Det blev en andra plats för Otto Virtanen i ATP-utmanarturneringen i Tammerfors.",
+      "link": "https://yle.fi/a/7-10102676?origin=rss",
+      "guid": "https://yle.fi/a/7-10102676",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785064991000
+    },
+    {
+      "title": "Googles Pixel-telefoner blir dyrare",
+      "description": "Men ska bli mer minneseffektiva Google meddelade i veckan att Pixel 11-serien kommer att få sig en högre prislapp. Detta på grund av stigande produktionskostnader vilket enligt Googles hårdvaruschef Shakil Barkat gjort det omöjligt att hålla kvar vid tidigare prisnivåer. Prishöjningen förväntas inte bara drabba flaggskeppen, utan även mellanluren Pixel 10a. Det är ju så klart det där jäkla RAM-minnet som ställer till det igen vilket har lett till rykten om att Google kommer att tvingas sänka mängden arbetsminne i vissa modeller. Exempelvis sägs Pixel 11 Pro gå från 16 GB till 12 GB RAM, med undantag för de absoluta toppversionerna med mest lagringsutrymme. I ett försök att balansera detta problem sägs Google nu jobba intensivt med att göra Android mer resurssnålt genom att optimera operativsystemet så det kräver mindre minne. Det känner man ju att de borde kunna göra generellt men antagligen var det väl inte lika aktuellt när man bara kunde lösa problemen genom att slänga in mer minne. L&auml;s vidare och kommentera: https://feber.se/mobil/googles-pixel-telefoner-blir-dyrare/494433/ L&auml;s mer om Google , Pixel 11 , Pixel 10a , Android , mobiltelefoner , hårdvara",
+      "link": "https://feber.se/mobil/googles-pixel-telefoner-blir-dyrare/494433/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/googles-pixel-telefoner-blir-dyrare/494433/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785063600000
+    },
+    {
+      "title": "Bildt: Putins makt vilar på en plats – som nu attackeras",
+      "description": "Putins makt vilar inte på att vinna kriget. I stället avgörs hans öde av kampen om Krim. Det skriver Carl Bildt på opinionssajten Project Syndicate .",
+      "link": "https://www.expressen.se/nyheter/varlden/bildt-putins-makt-vilar-pa-en-plats-som-nu-attackeras/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bildt-putins-makt-vilar-pa-en-plats-som-nu-attackeras/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785062718000
+    },
+    {
+      "title": "Byggde skjutbanor – men godkänner dem inte",
+      "description": "Umeå kommun har byggt nya skjutbanor vid Brännlandsberget. De får inte användas. Det har Umeå kommun bestämt. När Klockarbäckens industriområde i Umeå byggdes ut fanns det inte längre plats för den gamla skjutbanan vid Baggböle. Då föreslog avdelningen Mark och exploatering vid kommunen att nya skjutbanor skulle byggas vid Brännlandsberget. Sagt och gjort. Kommunens avdelning […]",
+      "link": "https://www.dagensps.se/varlden/byggde-skjutbanor-men-godkanner-dem-inte/",
+      "guid": "https://www.dagensps.se/?p=1659094",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlickdmacjibo-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785062542000
+    },
+    {
+      "title": "Kommentar: Från islamism till psykisk ohälsa – olika motiv bland de många bilattentaten i Tyskland",
+      "description": "Efter attentatet mot pridefirandet i Berlin misstänks islamistiska motiv. Dådet kommer att hetta till den politiska debatten inför kommande val.",
+      "link": "https://yle.fi/a/7-10102678?origin=rss",
+      "guid": "https://yle.fi/a/7-10102678",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785062114000
+    },
+    {
+      "title": "TV4-profilen på plats under Berlindådet: ”Inte nu igen”",
+      "description": "Anders Pihlblad var på plats i Berlin när en bil körde in i en folkmassa i samband med ett prideevenemang. – Inte nu igen var väl det man tänkte, det är inte första gången som Hbtq-personer blir attackerade, säger han i Nyhetsmorgon .",
+      "link": "https://www.expressen.se/nyheter/varlden/tv4-profilen-pa-plats-under-berlindadet-inte-nu-igen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tv4-profilen-pa-plats-under-berlindadet-inte-nu-igen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785061966000
+    },
+    {
+      "title": "Anneli, 64, tipsar om Lenny Kravitz och Bad Bunny",
+      "description": "Under namnet Kulturista STHLM delar Anneli Levin, 64, med sig av sina bästa kulturtips i Stockholm, en idé som kom till henne under sin sjukskrivning.",
+      "link": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-och-bad-bunny-6.3.356039.21ee909d1b",
+      "guid": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-och-bad-bunny-6.3.356039.21ee909d1b",
+      "image": "https://www.mitti.se/image-3.367891.288748.20260726110235.0b6f751883?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785061884000
+    },
+    {
+      "title": "Författaren Johanna Holmström får femårigt stipendium: ”Jag får äntligen arbetsro”",
+      "description": "Johanna Holmström får femårigt statsstipendium, något som ger trygghet i en utmanande bransch. Författarnas inkomster har sjunkit drastiskt, säger hon.",
+      "link": "https://yle.fi/a/7-10102622?origin=rss",
+      "guid": "https://yle.fi/a/7-10102622",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785061814000
+    },
+    {
+      "title": "Keanu Reeves klar för tre nya John Wick-projekt",
+      "description": "John Wick vägrar att vila i frid Trots att den fjärde John Wick-filmen hade ett rätt bra läge att låta John Wick vila i frid verkar Keanu Reeves, eller produktionsbolaget bakom filmserien, långt ifrån färdig med den fruktade lönnmördaren. Lionsgate har nämligen gett grönt ljus till tre nya projekt där Reeves återvänder till rollen. Regissören Chad Stahelski har fått i uppdrag att expandera franchisen på flera fronter och det verkar göras på tre olika sätt. Det första projektet är känt sedan tidigare, vilket är ett spel där Keanu Reeves är djupt involverad i utvecklingen. Förutom att han lånar ut sin röst till huvudkaraktären fungerar spelet som en prequel där man får uppleva händelser som utspelar sig före den första filmen. Nästa projekt är en animerad långfilm som ska följa en av seriens mest mytomspunna händelser, nämligen det omöjliga uppdrag som gav Wick sin frihet att lämna sitt våldsamma liv för kärleken. Sen är det tredje projektet en femte spelfilm som ska bli en direkt uppföljare till John Wick: Chapter 4. Utvecklingen av projektet är på gång men någon premiärdatum är ännu inte spikat. L&auml;s vidare och kommentera: https://feber.se/film/keanu-reeves-klar-for--tre-nya-john-wick-projekt/494439/ L&auml;s mer om John Wick , Keanu Reeves , Lionsgate , Chad Stahelski , John Wick: Chapter 4",
+      "link": "https://feber.se/film/keanu-reeves-klar-for--tre-nya-john-wick-projekt/494439/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/keanu-reeves-klar-for--tre-nya-john-wick-projekt/494439/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785061800000
+    },
     {
       "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
       "description": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
@@ -42,16 +252,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785059236000
-    },
-    {
-      "title": "Varnar om Nordkorea",
-      "description": "Larmar: Nordkorea skickar soldater till Putin",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyj-varnar-putin-lar-nordkorea-att-kriga-ska-strida-mot-ukraina",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785059228000
     },
     {
       "title": "Torra vårar och regniga höstar slår hårt mot jordbrukare: ”Bränslepriserna känns mycket i plånboken”",
@@ -124,7 +324,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785056962000
     },
     {
-      "title": "Reaktioner efter Berlindådet: ”Står sida vid sida”",
+      "title": "Reaktioner efter Berlindådet: ”Djupt skakat”",
       "description": "En bil körde rakt in i folkmassan under ett pride-evenemang i Berlin. Nu kommer flera reaktioner från svenskt håll. ” Sverige står tillsammans med det tyska folket ”, skriver Sveriges statsminister Ulf Kristersson.",
       "link": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
       "guid": "https://www.expressen.se/nyheter/sverige/stockholm-pride-efter-berlindadet-star-sida-vid-sida/",
@@ -304,16 +504,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785052092000
     },
     {
-      "title": "Nu flyger AI amerikanska stridsflygplan",
-      "description": "En pilot sitter i cockpiten men det är AI som flyger planet. Nu är det verklighet hos stridsflygplan i det amerikanska flygvapnet. Spelet kring mänsklighetens fortsatta utveckling och existens går alltså vidare med nya och högre insatser. Nu handlar det om AI-styrda stridsflygplan. Tester har gjorts i USA där en pilot sitter i cockpiten men […]",
-      "link": "https://www.dagensps.se/varlden/nu-flyger-ai-amerikanska-stridsflygplan/",
-      "guid": "https://www.dagensps.se/?p=1659048",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/program-air-venom-testing-ground-high-re-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785052044000
-    },
-    {
       "title": "Alvar Aaltos byggnader togs med på Unescos världsarvslista",
       "description": "Alvar Aalto är den tredje arkitekten i världen vars serie arkitekturobjekt fått denna status.",
       "link": "https://yle.fi/a/7-10102441?origin=rss",
@@ -342,16 +532,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785050138000
-    },
-    {
-      "title": "Misstänkt spion arbetade i Natos högkvarter",
-      "description": "En kanadensisk kvinna har gripits i Belgien misstänkt för spionage vid Natos militära högkvarter under sin praktik där. Belgiska myndigheter meddelade under lördagen att en kanadensisk kvinna gripits och anklagas för spionage, utfört när hon arbetat som praktikant vid Natos militära högkvarter. Belgiens federala åklagarmyndighet meddelar att en utredning om spionage inletts, sedan Natos säkerhetstjänst […]",
-      "link": "https://www.dagensps.se/varlden/misstankt-spion-arbetade-i-natos-hogkvarter/",
-      "guid": "https://www.dagensps.se/?p=1659033",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlevcwkynw4cy-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785049789000
     },
     {
       "title": "Madeleine fick drömroll i världssuccén \"Legally Blonde\"",
@@ -554,16 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785039630000
     },
     {
-      "title": "Explosioner i Kiev – ny robotattack",
-      "description": "Ny robotattack – höghus skadat",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=71c89796-a389-4fdd-86c3-fca3eb0f1bb1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=71c89796-a389-4fdd-86c3-fca3eb0f1bb1",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785039349000
-    },
-    {
       "title": "Så har Karis förändrats på 60 år: Se bilder på Pumpviken och centrum",
       "description": "I år firar Karis 700 år och Karis hembygdsförening ser på staden genom att jämföra hur den förändrats sedan 1970.",
       "link": "https://yle.fi/a/7-10102572?origin=rss",
@@ -584,36 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785038094000
     },
     {
-      "title": "Nya massevakueringar",
-      "description": "Brandinfernot växer – 55 000 tvingas fly",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee9596ab-b584-4763-8c5f-11212a0a8308",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785037017000
-    },
-    {
-      "title": "Helsingfors hoppas att Alvar Aalto-objekt kommer med på världsarvslistan – kan locka ännu fler turister",
-      "description": "Helsingfors stad tror att en potentiell världsarvsstatus kan ha en positiv inverkan på turismen.",
-      "link": "https://yle.fi/a/7-10102307?origin=rss",
-      "guid": "https://yle.fi/a/7-10102307",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785034814000
-    },
-    {
-      "title": "En död efter att bil körde in i folkmassa under pridefirande i Berlin",
-      "description": "Den misstänkta gärningsmannen har islamistiska kopplingar och jagas nu av polisen.",
-      "link": "https://yle.fi/a/7-10102670?origin=rss",
-      "guid": "https://yle.fi/a/7-10102670",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785034812000
-    },
-    {
       "title": "Varningen från generalen – har slut på robotar",
       "description": "Trump vill attackera Iran hårt, men hans militära rådgivare säger ifrån. Anledningen? Enligt New York Times kan en ny offensiv helt tömma USA:s lager av luftvärnsrobotar.",
       "link": "https://www.expressen.se/nyheter/varlden/varningen-fran-generalen-har-slut-pa-robotar-/",
@@ -624,26 +764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785033862000
     },
     {
-      "title": "Isabelle, 38, jagas efter brutala mordet",
-      "description": "I juni hittades tvåbarnspappan Jason Coulthart, 43, med ett buntband runt halsen och begravd i en grund grav täckt med betong. Nu jagar polisen 38-åriga Isabelle Rose Johnson. En stor skorpionstatuering kan vara till polisens hjälp.",
-      "link": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
-      "guid": "https://www.expressen.se/nyheter/varlden/isabelle-38-jagas-efter-brutala-mordet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785027175000
-    },
-    {
-      "title": "Uppgifter: Kim skickar nya soldater till Putin",
-      "description": "I slutet av 2024 skickade Kim Jong-Un nordkoreanska trupper till Ryssland. Nu kan det vara på gång igen. Enligt Zelenskyj vill Putin ta emot ytterligare 30 000 nordkoreaner.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-kim--skickar-nya--soldater-till-putin/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-kim--skickar-nya--soldater-till-putin/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785023727000
-    },
-    {
       "title": "Professorn har förändrat en viss sak för att minska risken för åldersskörhet",
       "description": "Mattias Lorentzon, professor i geriatrik, har studerat om bakterier i tarmen säger någonting om hur kroppen åldras senare i livet. Studien har fått honom att fokusera mer på en viss sak i sin vardag.",
       "link": "https://illvet.se/halsa/han-har-forskat-om-aldrandets-sjukdomar-i-25-ar-har-ar-hans-viktigaste-rad-for-att-undvika-att-fa-en-skor-kropp-i-hog-alder",
@@ -652,16 +772,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785016808000
-    },
-    {
-      "title": "Bil har kört in i folkmassa i Berlin – flera skadade",
-      "description": "En bil har kört in i en folkmassa vid Brandenburg Tor i centrala Berlin. En kvinna har dött och minst 16 har skadats, enligt Bild . Polisen jagar en man med islamistiska kopplingar som ska använt ett stickvapen.",
-      "link": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
-      "guid": "https://www.expressen.se/nyheter/varlden/bil-har-kort-in-i-folkmassa-i-berlin-flera-skadade-ebu5u/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785012757000
     },
     {
       "title": "Tusentals AI-genererade bilder av Förintelsen sprids. Så här avslöjar du dem",
@@ -684,16 +794,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785007847000
     },
     {
-      "title": "Saga Andersson osar av kalasform efter blöt FM-final: ”Kroppen kändes helt otroligt bra”",
-      "description": "Saga Andersson har hittat en ny nivå som stavhoppare. Efter FM-medalj nummer åtta i ett regnigt Jyväskylä blickar hon med friskt självförtroende mot EM.",
-      "link": "https://yle.fi/a/7-10102471?origin=rss",
-      "guid": "https://yle.fi/a/7-10102471",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785007444000
-    },
-    {
       "title": "Mycket kontroversiellt försök: Falska patienter skakade om psykiatrin",
       "description": "I slutet av 1960-talet lät en grupp falska patienter sig läggas in på psykiatriska sjukhus i USA. De var alla friska, men fick diagnosen psykisk sjukdom. Och ingenting verkade kunna ändra läkarnas dom.",
       "link": "https://varldenshistoria.se/vetenskap/medicin/du-ar-frisk-men-lakaren-tror-dig-inte-falska-patienter-skakade-om-psykiatrin",
@@ -702,36 +802,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785006051000
-    },
-    {
-      "title": "Emilia Karell inför EM-resan: ”Jag har inte riktigt fattat att jag är på väg ännu”",
-      "description": "Det andra raka FM-guldet kom i utmanande vindar – och nu börjar Sjundeå IF:s spjutkastare Emilia Karell fokusera på karriärens första seniormästerskap.",
-      "link": "https://yle.fi/a/7-10102470?origin=rss",
-      "guid": "https://yle.fi/a/7-10102470",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785000622000
-    },
-    {
-      "title": "Jakobs dagar samlar både stadsbor och sommargäster: ”Det är en jätteviktig tradition”",
-      "description": "Jakobs dagar är en vecka fylld med evenemang, men minst lika viktigt är det att träffa vänner och bekanta. En höjdpunkt i år var också FF Jaros seger över SJK.",
-      "link": "https://yle.fi/a/7-10102667?origin=rss",
-      "guid": "https://yle.fi/a/7-10102667",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785000315000
-    },
-    {
-      "title": "IFK Mariehamn hann skymta första segern i horisonten: ”Lite kaotiskt att försöka få in sju nya spelare i systemet”",
-      "description": "Det är inte ofta som krislaget IFK Mariehamn varit i ledningsposition den här säsongen. Mot AC Oulu var man i förarsätet i en dryg timme.",
-      "link": "https://yle.fi/a/7-10102664?origin=rss",
-      "guid": "https://yle.fi/a/7-10102664",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1784995780000
     },
     {
       "title": "Överraskande studie avslöjar: Egyptiska prinsessor använde vapen och gick på jakt",
@@ -1274,26 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784912400000
     },
     {
-      "title": "The Light Flip är en halvdum telefon",
-      "description": "Med trevlig form Light är ett bolag som gör lite enklare mobiltelefoner. Tanken är kanske inte främst att snåla på kostnaderna för att göra billiga telefoner, utan att användarna ska lugna sig lite med doomscrollandet och göra något annat än att hänga på sociala medier. Light har släppt telefoner tidigare och med dem går det självklart att ringa, men även lyssna på musik och poddar, ha koll på sin kalender och navigera. Deras nya heter Light Flip och är samma koncept i en flip-lur. Prislappen ligger på 300 dollar, vilket kanske är några spänn för mycket för en extra-telefon. Men jag gillar konceptet, även om jag nog hade velat ha lite medddelandetjänster också... L&auml;s vidare och kommentera: https://feber.se/mobil/the-light-flip-ar-en-halvdum-telefon/494315/ L&auml;s mer om Light , Light Flip , Dumbphone , Mobiltelefoner , Skärmtid , Doomscrolling",
-      "link": "https://feber.se/mobil/the-light-flip-ar-en-halvdum-telefon/494315/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/the-light-flip-ar-en-halvdum-telefon/494315/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784910600000
-    },
-    {
-      "title": "Den här Husqvarna-crossen har ägts av Steve McQueen",
-      "description": "Nu kan den bli din! I oktober kommer den här Husqvarna-crossen att auktioneras ut av Bonhams. Den har en gång i tiden tillhört Steve McQueen, en man som gillade Husqvarnas motorcyklar. Han har till och med kört en Husqvarna-cross på ett omslag av Sports Illustrated . Det verkar inte vara just den motorcykeln som nu kommer att auktioneras ut, men det verkar ändå som att den har ägts av Steve McQueen. Och det är ju lite kul, framförallt eftersom det är en Husqvarna-cross. Heja Sverige! Prislappen väntas hamna någonstans mellan 400.000 och 650.000 kronor. Nedan ett klipp från filmen \"On Any Sunday\" där Steve McQueen kör en Husqvarna-cross. L&auml;s vidare och kommentera: https://feber.se/fordon/den-har-husqvarna-crossen-har-agts-av-steve-mcqueen/494389/ L&auml;s mer om Husqvarna , Steve McQueen , Bonhams , Sports Illustrated , Auktioner",
-      "link": "https://feber.se/fordon/den-har-husqvarna-crossen-har-agts-av-steve-mcqueen/494389/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/den-har-husqvarna-crossen-har-agts-av-steve-mcqueen/494389/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784908800000
-    },
-    {
       "title": "Locanda Cipriani Inn",
       "description": "",
       "link": "https://uncrate.com/locanda-cipriani-inn/",
@@ -1312,16 +1362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784908800000
-    },
-    {
-      "title": "Instagram stänger av idioter med Meta-glasögon",
-      "description": "Portar användare som spelar in obehagliga filmklipp Business Insider rapporterar att Instagram har börjat stänga av användare som använder Metas smarta glasögon för att filma klipp som kan klassas som trakasserier eller annat obehagligt. Instagram har redan stängt av flera konton där användare smygfilmat kvinnor i olika situationer med glasögonen. Det kan även vara aktuellt att stänga av användare som använder glasögonen för att spela in \"prank-klipp\" där människor inom bland annat serviceyrken filmats ovetande av Instagram-användare, något som kan klassas som trakasserier. Att Instagram beslutat sig för att ta till storsläggan mot Instagrammare som använder smarta glasögon på ett obehagligt sätt kan antagligen ses som ett bevis för att Meta, som även äger Instagram, är högst medvetna om att deras smarta glasögon används för annat än vad de är tänkta för. L&auml;s vidare och kommentera: https://feber.se/internet/instagram-stanger-av-idioter-med-meta-glasogon/494390/ L&auml;s mer om Meta , Ray-Ban Meta , Smarta glasögon , Trakasserier , Smygfilmning , Sociala medier , Integritet",
-      "link": "https://feber.se/internet/instagram-stanger-av-idioter-med-meta-glasogon/494390/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/instagram-stanger-av-idioter-med-meta-glasogon/494390/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1784907000000
     },
     {
       "title": "Trope Rome",
@@ -2042,16 +2082,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1784757410000
-    },
-    {
-      "title": "Amin Boudri klar för Hammarby",
-      "description": "Strax innan midnatt på onsdagskvällen blev pappersarbetet klart – Hammarby värvar Amin Boudri från Los Angeles FC och spelaren hann med minsta möjliga marginal registreras för kvalet till Europa Leagu",
-      "link": "https://www.hammarbyfotboll.se/nyheter/amin-boudri-klar-for-hammarby",
-      "guid": "a92d3551-bb6e-4295-b0a5-efd82dc8d63e",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/8effbf34dfc76e703e49339bb98fcd369e96e3d3-1831x1353.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1784756471000
     },
     {
       "title": "Badklåda vid Tanto – därför hamnar parasiterna på människor",
