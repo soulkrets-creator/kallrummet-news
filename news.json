@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-07-26T21:48:18.108Z",
+  "updatedAt": "2026-07-27T01:53:27.202Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Skräcken efter bränderna: ”Eldsprutande molndrake”",
+      "description": "Franska brandmän kämpar mot lågorna. Då har ett nytt orosmoln uppstått. Nasa kallar det för ”en eldsprutande molndrake”.",
+      "link": "https://www.expressen.se/nyheter/varlden/skracken-efter-branderna-eldsprutande-molndrake/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skracken-efter-branderna-eldsprutande-molndrake/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785115742000
+    },
+    {
+      "title": "Sara, 43, mördades – outade make som pedofil",
+      "description": "Influencern Sara Gilson, 43, mördades av sin make innan han tog livet av sig. Bara dagar innan hade hon outat honom som pedofil på Tiktok. I ett samtal till polisen hörs Gilson ”skrika och gråta” innan en hög smäll hörs.",
+      "link": "https://www.expressen.se/nyheter/varlden/sara-43-mordades-outade-make-som-pedofil/",
+      "guid": "https://www.expressen.se/nyheter/varlden/sara-43-mordades-outade-make-som-pedofil/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785109037000
+    },
+    {
+      "title": "Robotarna slut – tvingas ändra plan: \"Ingen effekt\"",
+      "description": "USA:s lager av robotar börjar sina. Nu tvingas Trump ändra taktik i Iran. Enligt Axios tror många av hans militära rådgivare att ny bomboffensiv ”inte skulle ha någon större effekt”.",
+      "link": "https://www.expressen.se/nyheter/varlden/robotarna-slut-tvingas-andra-plan-ingen-effekt/",
+      "guid": "https://www.expressen.se/nyheter/varlden/robotarna-slut-tvingas-andra-plan-ingen-effekt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785108962000
+    },
+    {
+      "title": "Spanska branden störst någonsin",
+      "description": "Skräckrekord i Spanien",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cdd9005c-579f-419b-af02-39a3a788d64f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cdd9005c-579f-419b-af02-39a3a788d64f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785107194000
+    },
     {
       "title": "Varningen: Putin ska testa Nato",
       "description": "Putin tar chansen att testa Nato när Trump är upptaget med kriget i Iran. ”Inom närmaste månaderna” väntas han pressa försvarsalliansen. – Putin förbereder någon form av direkt konfrontation, säger en källa till Daily Mail .",
@@ -274,16 +314,6 @@
       "timestamp": 1785078738000
     },
     {
-      "title": "Fartkameror slås ut – osynliga fusket",
-      "description": "Nya sättet att lura fartkameror är känt av polisen. Ändå är det svårt att komma åt. – Vi har inte tid att gå runt och kolla alla, säger trafikpolisen Petter Magnusson, till NWT.",
-      "link": "https://www.expressen.se/nyheter/sverige/fartkameror-slas-ut-osynliga-fusket-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/fartkameror-slas-ut-osynliga-fusket-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785078637000
-    },
-    {
       "title": "Lando Norris tog sin första seger för säsongen – efter att varvning och växellåda ställt till det för stallkamraten",
       "description": "Mercedes fick nöja sig med en statistroll då fjolårsdominanten McLaren dikterade takten i Ungerns GP. Segern gick till Lando Norris – samtidigt som Kimi Antonellis VM-ledning växer.",
       "link": "https://yle.fi/a/7-10102683?origin=rss",
@@ -302,16 +332,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785078000000
-    },
-    {
-      "title": "Mallorca-bor i enorm protest mot turister",
-      "description": "30 000 samlas – ilska mot turisterna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4792dde0-ff25-47c1-942e-f48a01b8314f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4792dde0-ff25-47c1-942e-f48a01b8314f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785076836000
     },
     {
       "title": "HTV: Victor efter BP - \"Vi måste vara smartare\"",
@@ -334,16 +354,6 @@
       "timestamp": 1785076197000
     },
     {
-      "title": "Toalettkaos på Gatwick",
-      "description": "Kan varken spola eller tvätta händerna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1110e06c-d5e5-4949-b876-07ae779e522d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1110e06c-d5e5-4949-b876-07ae779e522d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785074934000
-    },
-    {
       "title": "Lite fler trailers från årets Comic-Con",
       "description": "Dark Matter, Carrie, YAGA och Star Trek Årets stora Comic-Con bjöd på några fler teasers och trailers som är värda att kolla in. Apple TV+ succéserie Dark Matter återvänder den 28 augusti med en andra säsong. Eftersom den första säsongen täckte in hela handlingen i Blake Crouchs roman, innebär säsong två helt nytt material. Författaren själv fungerar som showrunner, vilket gör att serien i praktiken blir den bokuppföljare som aldrig skrevs. Joel Edgerton och Jennifer Connelly repriserar sina roller som paret Dessen, vars bräckliga vardag återigen slås i spillror när konsekvenserna av deras tidigare resor genom multiversum hinner ikapp dem. Skräckregissören Mike Flanagan tar sig an Stephen Kings debutroman Carrie i en ny miniserie för Prime Video. I denna moderniserade version får vi följa Carrie White (Summer H. Howell) när hon navigerar genom en skolgång präglad av virala mobbningsskandaler och sociala medier. Serien utlovas bli en djupdykning i mänsklig grymhet snarare än bara en traditionell remake. I den kommande serien YAGA får vi se Carrie-Anne Moss spela en av huvudrollerna. Serien är baserad på en pjäs och tar oss med till ett till synes lugnt kustsamhälle där inget är vad det verkar vara. Privatdetektiven Rapp (spelad av Noah Reid) anlander till staden för att hitta Henry Park, den unga arvtagaren till ett mäktigt fiskeriimperium som spårlöst försvunnit. Under sökandet hamnar Rapp i konflikt med den lokala polisen, men dras också till den gåtfulla professorn Katherine (Carrie-Anne Moss), en kvinna med en förkärlek för yngre män och som tycks veta mer än hon visar. Serien har premiär under hösten. Några klipp från den fjärde säsongen av Strange New Worlds visades upp och det kan du kolla in nedan. L&auml;s vidare och kommentera: https://feber.se/film/lite-fler-trailers-fran-arets-comic-con/494438/ L&auml;s mer om Dark Matter , Apple TV+ , Mike Flanagan , Carrie , Prime Video , Stephen King , Strange New Worlds",
       "link": "https://feber.se/film/lite-fler-trailers-fran-arets-comic-con/494438/?utm_source=rss&utm_medium=feed",
@@ -362,16 +372,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785074285000
-    },
-    {
-      "title": "Svenska Mark, 34, död efter nattbad i Spanien",
-      "description": "Mark Tallbom älskade Spanien – men drunknade mindre än ett år efter att han flyttat dit. Han dog under en simtur i turistorten Fuengirola. – Det var höga vågor, ingen hörde hans rop på hjälp, säger mamman Ihrén Tallbom.",
-      "link": "https://www.expressen.se/nyheter/sverige/svenske-mark-34-dod-efter-nattbad-i-spanien/",
-      "guid": "https://www.expressen.se/nyheter/sverige/svenske-mark-34-dod-efter-nattbad-i-spanien/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785073125000
     },
     {
       "title": "The best way to save giant sequoias may be more fire",
@@ -2844,16 +2844,6 @@
       "timestamp": 1784462833000
     },
     {
-      "title": "Omtvistad förskola kan bli årets byggnad i Sundbyberg",
-      "description": "Dags att utse Årets byggnad i Sundbyberg – Västra Brotorp förskola en av de nominerade.",
-      "link": "https://www.mitti.se/nyheter/omtvistad-forskola-kan-bli-arets-byggnad-i-sundbyberg-6.3.375016.344179bbb8",
-      "guid": "https://www.mitti.se/nyheter/omtvistad-forskola-kan-bli-arets-byggnad-i-sundbyberg-6.3.375016.344179bbb8",
-      "image": "https://www.mitti.se/image-3.376438.300178.20260719103004.155ca6d607?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784455200000
-    },
-    {
       "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
       "description": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
@@ -2862,26 +2852,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784452753000
-    },
-    {
-      "title": "Så upplever du Sommarstockholm (nästan) helt gratis",
-      "description": "Guide för hur du kan spendera en hel dag fylld med gratis aktiviteter i Stockholm, bland annat Parkteater, museum, Skeppsholmen och Gamla stan kan besökas.",
-      "link": "https://www.mitti.se/nyheter/sa-upplever-du-sommarstockholm-nastan-helt-gratis-6.3.371450.a9704674ad",
-      "guid": "https://www.mitti.se/nyheter/sa-upplever-du-sommarstockholm-nastan-helt-gratis-6.3.371450.a9704674ad",
-      "image": "https://www.mitti.se/image-3.374810.297533.20260720062810.2b824d2dd8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784438100000
-    },
-    {
-      "title": "Klassisk komedi visas på Folkets hus – får queer tolkning",
-      "description": "Söderkåkar visas på Rönninge folkets hus.",
-      "link": "https://www.mitti.se/nyheter/klassisk-komedi-visas-pa-folkets-hus--far-queer-tolkning-6.3.376498.822cea0472",
-      "guid": "https://www.mitti.se/nyheter/klassisk-komedi-visas-pa-folkets-hus--far-queer-tolkning-6.3.376498.822cea0472",
-      "image": "https://www.mitti.se/image-3.376717.300636.20260719053124.b51d4f2c39?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784437200000
     },
     {
       "title": "Common antidepressant may ease long COVID’s crushing fatigue",
