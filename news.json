@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-07-27T19:10:24.362Z",
+  "updatedAt": "2026-07-27T21:56:07.122Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Frontalkrock på E14: ”Mycket bråte”",
+      "description": "Vägen avstängd: ”Väldigt mycket bråte”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8f8cccc3-0bd2-4a43-a270-83d54cf4238c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8f8cccc3-0bd2-4a43-a270-83d54cf4238c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785186206000
+    },
+    {
+      "title": "John Oliver snackar Trumps kryptovalutor",
+      "description": "Klockrent som vanligt Här har vi veckans avsnitt av Last Week Tonight with John Oliver, där John snackar lite om Trumps kryptovalutor. Vill man enbart se Trump-snacket så kan man hitta det i klippet ovan. Vill man se avsnittet i sin helhet, så kan man hitta det nedan. L&auml;s vidare och kommentera: https://feber.se/video/john-oliver-snackar-trumps-kryptovalutor/494452/ L&auml;s mer om Last Week Tonight with John Oliver , John Oliver , HBO",
+      "link": "https://feber.se/video/john-oliver-snackar-trumps-kryptovalutor/494452/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/video/john-oliver-snackar-trumps-kryptovalutor/494452/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785186000000
+    },
+    {
+      "title": "Ropade ”Free Palestine” – sändning prövas",
+      "description": "Rappartisten Stor ropade ”Free Palestine” under sitt framträdande i Allsång på Skansen. Enligt SVT var det ett regelbrott. – Det var ett spontant utspel från artisten, säger producenten Henrik Stockare till Kvartal .",
+      "link": "https://www.expressen.se/noje/ropade-free-palestine--sandning-provas/",
+      "guid": "https://www.expressen.se/noje/ropade-free-palestine--sandning-provas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785183937000
+    },
+    {
+      "title": "Fyra till sjukhus efter krock i Marks kommun",
+      "description": "Två bilar har krockat i Marks kommun. Fyra personer har förts till sjukhus, varav en med ambulanshelikopter.",
+      "link": "https://www.expressen.se/nyheter/sverige/flera-pakorda-i-marks-kommun--uppgifter-om-flera-skadade/",
+      "guid": "https://www.expressen.se/nyheter/sverige/flera-pakorda-i-marks-kommun--uppgifter-om-flera-skadade/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785183366000
+    },
+    {
+      "title": "Larm om flera påkörda i Mark",
+      "description": "Uppgifter om fyra skadade – stort pådrag",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=33409d6a-e0d6-441e-a409-22b09fd47219",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=33409d6a-e0d6-441e-a409-22b09fd47219",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785181877000
+    },
+    {
+      "title": "Varningen i turistparadiset: Dödligt myggvirus sprider sig",
+      "description": "Dödliga myggor sprider sig på spanska turistorter. Nu har landet utfärdat en röd varning. Och turister varnas.",
+      "link": "https://www.expressen.se/nyheter/varlden/varningen-i-turistparadiset--dodligt-myggvirus-sprider-sig/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varningen-i-turistparadiset--dodligt-myggvirus-sprider-sig/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785181806000
+    },
+    {
+      "title": "Ryska Wildberries döljer militärprodukter i sin webbhandel efter ukrainska attacker",
+      "description": "Ukraina har motiverat attackerna mot Wildberries med att e-handlesjätten säljer produkter som kan användas i kriget.",
+      "link": "https://yle.fi/a/7-10102733?origin=rss",
+      "guid": "https://yle.fi/a/7-10102733",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785181804000
+    },
     {
       "title": "Nytt varningssystem kan rädda liv – mobilen känner av jordskalv",
       "description": "En inbyggd sensor i moderna smartmobiler registrerar till och med mycket små vibrationer. Ett nytt system använder sig av funktionen för att automatiskt varna för jordskalv. Du behöver bara ha en viss sorts mobil.",
@@ -24,6 +94,26 @@
       "timestamp": 1785180556000
     },
     {
+      "title": "Här grips knivmannen i Paris",
+      "description": "Fångades av allmänheten i Paris",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-fangas-knivmannen-i-paris-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-fangas-knivmannen-i-paris-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785179818000
+    },
+    {
+      "title": "Norska Paul André beställde paket – skulle hämta i Småland",
+      "description": "När Paul André Sommerfelt öppnade brevet från Postnord fick han en chock. Hans paket hade levererats till Ica Maxi i Vetlanda – 13 timmars bilresa bort från hans hem i norska Bergen. – Jag trodde det var ett skämt, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/norska-paul-andre-bestallde--paket-skulle-hamta-i-smaland/",
+      "guid": "https://www.expressen.se/nyheter/varlden/norska-paul-andre-bestallde--paket-skulle-hamta-i-smaland/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785179737000
+    },
+    {
       "title": "Man död efter arbetsplatsolycka",
       "description": "Man klämdes på gård",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=41077217-c611-40d8-b919-d15d7e45b25d",
@@ -35,7 +125,7 @@
     },
     {
       "title": "Har du en e-boksläsare?",
-      "description": "Dagens litteraturfråga Tidigare idag skrev vi om en liten e-boksläsare och jag tänkte att vi kunde kolla om ni läsare har någon eboksläsare i er teknikarsenal. Svara gärna på vår enkät nedan. Vill ni snacka mer om e-boksläsare, e-böcker eller annat som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-en-e-bokslasare/494474/ L&auml;s mer om e-boksläsare , e-böcker , enkät , litteraturfråga",
+      "description": "Dagens litteraturfråga Tidigare idag skrev vi om en liten e-boksläsare och jag tänkte att vi kunde kolla om ni läsare har någon e-boksläsare i er teknikarsenal. Svara gärna på vår enkät nedan. Vill ni snacka mer om e-boksläsare, e-böcker eller annat som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-en-e-bokslasare/494474/ L&auml;s mer om e-boksläsare , e-böcker , enkät , litteraturfråga",
       "link": "https://feber.se/har-du-en-e-bokslasare/494474/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/har-du-en-e-bokslasare/494474/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -62,16 +152,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785178469000
-    },
-    {
-      "title": "Ropade ”Free Palestine” – sändning prövas",
-      "description": "Rappartisten Stor ropade ”Free Palestine” under sitt framträdande i Allsång på Skansen. Enligt SVT var det ett regelbrott. – Det var ett spontant utspel från artisten, säger producenten Henrik Stockare till Kvartal .",
-      "link": "https://www.expressen.se/nyheter/sverige/ropade-free-palestine--sandning-provas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/ropade-free-palestine--sandning-provas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785177980000
     },
     {
       "title": "Riksdagsanställd misstänks ha köpt sex",
@@ -354,16 +434,6 @@
       "timestamp": 1785169200000
     },
     {
-      "title": "Brand i lastbil och garage",
-      "description": "Stort räddningspådrag: ”Kraftiga smällar”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0655e90b-b0d6-4be5-b4a6-3eb2c2914223",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0655e90b-b0d6-4be5-b4a6-3eb2c2914223",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785169127000
-    },
-    {
       "title": "Istäcket över Arktis minskar rekordsnabbt",
       "description": "Havsisen i Arktis har sett ut att stå pall mot ett varmare klimat. Tills nu. Ny forskning visar att isens utbredning legat på rekordlåga nivåer – två år i rad.",
       "link": "https://www.expressen.se/nyheter/varlden/istacket-over-arktis-minskar-rekordsnabbt/",
@@ -454,16 +524,6 @@
       "timestamp": 1785167824000
     },
     {
-      "title": "Då kommer värmen, regnet och åskan – samtidigt",
-      "description": "Värmen kommer tillbaka – på en snabbvisit. Men den tar med sig både regn och åska. – Det blir lite av allt, säger Angelica Lundberg på SMHI.",
-      "link": "https://www.expressen.se/nyheter/vader/da-kommer-varmen-regnet-och-askan-samtidigt/",
-      "guid": "https://www.expressen.se/nyheter/vader/da-kommer-varmen-regnet-och-askan-samtidigt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785167538000
-    },
-    {
       "title": "Allt fler vill gripa in mot bävrar",
       "description": "Antalet bäverärenden ökar i Stockholms län. Markägare söker skyddsjakt och tillstånd att riva bäverdämmen som orsakar översvämningar och vattenskador.",
       "link": "https://www.mitti.se/nyheter/allt-fler-vill-gripa-in-mot-bavrar-6.3.376741.b130aa935e",
@@ -514,16 +574,6 @@
       "timestamp": 1785165887000
     },
     {
-      "title": "Flygpriserna söderut dumpas – mitt i sommaren",
-      "description": "Svenskarnas semesterrusch till Sydeuropa är över. Nu dumpar flygbolagen priserna. ”Det är ett välkänt säsongsmönster” , skriver Catharina Solli, presschef på Norwegian.",
-      "link": "https://www.expressen.se/nyheter/varlden/flygpriserna-soderut-dumpas-mitt-i-sommaren/",
-      "guid": "https://www.expressen.se/nyheter/varlden/flygpriserna-soderut-dumpas-mitt-i-sommaren/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785164727000
-    },
-    {
       "title": "Oona Siren stannar kvar i West Ham – kontraktet förlängdes till 2028",
       "description": "Oona Siren och Londonklubben West Ham har undertecknat ett förlängt spelarkontrakt som utgår år 2028.",
       "link": "https://yle.fi/a/7-10102729?origin=rss",
@@ -562,16 +612,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785164400000
-    },
-    {
-      "title": "Stopp på E6 efter olycka",
-      "description": "Två personbilar inblandade i olycka",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8743daa-dc1c-4068-90bc-f08fbf28eceb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8743daa-dc1c-4068-90bc-f08fbf28eceb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785164292000
     },
     {
       "title": "Polisen om Pride: \"Inga hot riktade mot veckan\"",
@@ -672,16 +712,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785160711000
-    },
-    {
-      "title": "Man fastklämd av skopa – allvarlig olycka",
-      "description": "Allvarlig olycka – förd till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8352b52d-b6b8-4571-9e6c-8b72719e782c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8352b52d-b6b8-4571-9e6c-8b72719e782c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785160197000
     },
     {
       "title": "Klimatkrisen ökar risken för skogsbränder också i Finland",
@@ -1054,16 +1084,6 @@
       "timestamp": 1785142556000
     },
     {
-      "title": "Kyrklundens våtmark i Karleby utsatt för skadegörelse gång på gång",
-      "description": "Karleby stad reparerar bron i våtmarken nästan varje vecka. På en del av bänkarna som är utplacerade i området finns bara basen kvar.",
-      "link": "https://yle.fi/a/7-10102703?origin=rss",
-      "guid": "https://yle.fi/a/7-10102703",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785141986000
-    },
-    {
       "title": "Kina får lång version av BMW X5",
       "description": "Och X-lamporna blir valbara för kineserna Även om BMW är en drivers car är det i baksätet man ska hänga, det verkar i alla fall kineserna tycka. I Kina är det nämligen inget problem med långa bilar, det är snarare problem med små baksäten. I princip alla europeiska bilar som säljs där finns i långa versioner. Nu har BMW gjort en lång version av helt nya X5. Den nya varianten är hela 130 mm längre, vilket gör att hjulbasen nu mäter 3165 mm. Man utnyttjar det extra utrymmet med speciella baksäten som känns rejält lyxiga. Men även framstolarna är omgjorda. En annan sak som skiljer Kina-versionen från resten av världen är att X-lamporna i fronten är valbara. Det har blivit mycket diskussion om dessa sedan bilen introducerades, man kan ju tycka att de borde vara valbara överallt. Den kinesiska versionen har även tre lampor mellan X-lamporna och njurarna, något som bara M-versionen har i resten av världen. L&auml;s vidare och kommentera: https://feber.se/bil/kina-far-lang-version-av-bmw-x5/494449/ L&auml;s mer om X5 , BMW X5 , långversion , Kina-marknad , SUV , framlyktor , hjulbas",
       "link": "https://feber.se/bil/kina-far-lang-version-av-bmw-x5/494449/?utm_source=rss&utm_medium=feed",
@@ -1302,16 +1322,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785081633000
-    },
-    {
-      "title": "Nya regler ska skydda friidrottare från sexualisering",
-      "description": "Låter vettigt Europeiska friidrottsförbundet tar nu tag mot objektifiering av kvinnliga idrottare i tv-rutan. Genom nya riktlinjer uppmanas tv-producenter att sluta använda närgrångna kameravinklar, exempelvis långa närbilder på enskilda kroppsdelar, som riskerar att sexualisera utövarna. Svenska landslagsstjärnan Maja Åskag säger till SVT att hon ser mycket positivt på initiativet. Hon betonar vikten av att idrottare ska kunna fokusera helt på sin sport och känna sig trygga på arenan, utan att behöva oroa sig för att bli objektifierad i sändningarna. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/ L&auml;s mer om Europeiska friidrottsförbundet , Maja Åskag , SVT",
-      "link": "https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/nya-regler-ska-skydda-friidrottare-fran-sexualisering/494437/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785081600000
     },
     {
       "title": "HTV: Victor efter BP - \"Vi måste vara smartare\"",
