@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-27T21:56:07.122Z",
+  "updatedAt": "2026-07-28T01:27:46.617Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trumps utspel dementeras av Pentagon",
+      "description": "Donald Trump säger att hans attacker stoppat flödet av droger till USA. Den bilden delar inte Pentagon och narkotikapolisen, enligt Washington Posts källor. – De hittar alltid svaga punkter och utnyttjar dem, säger en person.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-utspel-dementeras-av-pentagon/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-utspel-dementeras-av-pentagon/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785198333000
+    },
+    {
+      "title": "Skräckfyndet hos begravningsbyrån",
+      "description": "Begravningsentreprenören Robert Bush står inför rätta i ett fall som skakar den brittiska staden Hull. På hans arbetsplats gjorde polisen flera skräckfynd – förmultnade kroppar, aska i lådor och en påse med kvarlevorna av ett dödfött barn.",
+      "link": "https://www.expressen.se/nyheter/varlden/skrackfyndet-hos-begravningsbyran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skrackfyndet-hos-begravningsbyran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785194334000
+    },
+    {
+      "title": "BRABUS x AB Yachts Yacht Partnership",
+      "description": "",
+      "link": "https://uncrate.com/brabus-x-ab-yachts-yacht-partnership/",
+      "guid": "https://uncrate.com/brabus-x-ab-yachts-yacht-partnership/",
+      "image": "https://uncrate.com/assets_c/2026/07/brabus-ab-yachts-yacht-partnership-1-thumb-960xauto-192352.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785193200000
+    },
+    {
+      "title": "Konfronterar Putin – om attackerna",
+      "description": "Donald Trump ska konfrontera Rysslands president Vladimir Putin. Enligt underrättelseuppgifter har han hjälpt Iran att attackera amerikanska mål i Mellanöstern. – Jag kommer fråga Putin. Vi kommer få veta, säger Trump.",
+      "link": "https://www.expressen.se/nyheter/varlden/konfronterar-putin-om-attackerna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/konfronterar-putin-om-attackerna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785192512000
+    },
+    {
+      "title": "Zodiac Super Sea Wolf Pro-Diver Watch",
+      "description": "",
+      "link": "https://uncrate.com/zodiac-super-sea-wolf-pro-diver-watch/",
+      "guid": "https://uncrate.com/zodiac-super-sea-wolf-pro-diver-watch/",
+      "image": "https://uncrate.com/assets_c/2026/07/zodiac-super-sea-wolf-pro-diver-watch-2-darkened-thumb-960xauto-192356.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785191400000
+    },
+    {
+      "title": "Svenskarna jagar mörkret – bokningarna till Spanien rusar inför årets solförmörkelse",
+      "description": "Den 12 augusti slocknar solen mitt på dagen över delar av Spanien. Nu ökar svenskarnas intresse explosionsartat. Enligt Booking.com har sökningarna efter boenden längs solförmörkelsens bana ökat med hela 659 procent jämfört med samma period i fjol – ett tydligt tecken på att allt fler vill uppleva ett av naturens mest spektakulära skådespel. En resa […]",
+      "link": "https://www.dagensps.se/weekend/resor/svenskarna-jagar-morkret-bokningarna-till-spanien-rusar-infor-arets-solformorkelse/",
+      "guid": "https://www.dagensps.se/?p=1659194",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/03/solformorkelse.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785190500000
+    },
+    {
+      "title": "Svenskarnas nya favorit ligger 8 000 kilometer bort – nu vallfärdar vi till Japan",
+      "description": "Direktflyg, billigare priser och en kultur som fascinerar. Japan har på kort tid gått från drömresa för entusiaster till ett av svenskarnas hetaste resmål. Samtidigt börjar landets turistboom skapa nya problem. Japan har seglat upp som svenskarnas kanske mest oväntade favoritresmål. Länge betraktades landet som exotiskt, avlägset och dyrt. Nu är situationen den motsatta. Den […]",
+      "link": "https://www.dagensps.se/weekend/svenskarnas-nya-favorit-ligger-8-000-kilometer-bort-nu-vallfardar-vi-till-japan/",
+      "guid": "https://www.dagensps.se/?p=1659232",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/06/seiko.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785190020000
+    },
+    {
+      "title": "Bandit9 Ducati 821 Sculptural Motorcycle",
+      "description": "",
+      "link": "https://uncrate.com/bandit9-ducati-821-sculptural-motorcycle/",
+      "guid": "https://uncrate.com/bandit9-ducati-821-sculptural-motorcycle/",
+      "image": "https://uncrate.com/assets_c/2026/07/bandit9-ducati-821-sculptural-motorcycle-1-thumb-960xauto-192350.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785189600000
+    },
     {
       "title": "Frontalkrock på E14: ”Mycket bråte”",
       "description": "Vägen avstängd: ”Väldigt mycket bråte”",
@@ -24,6 +104,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785186000000
     },
     {
+      "title": "Garb: Essentials",
+      "description": "",
+      "link": "https://uncrate.com/garb-essentials/",
+      "guid": "https://uncrate.com/garb-essentials/",
+      "image": "https://uncrate.com/assets_c/2026/07/garb-essentials-darkened-thumb-960xauto-192354.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785186000000
+    },
+    {
+      "title": "Överraskande nytt fynd: Kan vara sällsynt bevis på förstörelsen av Salomos tempel i Jerusalem",
+      "description": "Även om de flesta forskare erkänner att templet har funnits, har man inte hittat många fysiska bevis efter förstörelsen – nu kan en rad brända balkar kasta nytt ljus över historien.",
+      "link": "https://varldenshistoria.se/samhalle/religionshistoria/overraskende-nyt-fund-kan-vare-sjaldent-bevis-fra-odelaggelsen-af-salomons-tempel-i-jerusalem",
+      "guid": "https://varldenshistoria.se/samhalle/religionshistoria/overraskende-nyt-fund-kan-vare-sjaldent-bevis-fra-odelaggelsen-af-salomons-tempel-i-jerusalem",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785184225000
+    },
+    {
       "title": "Ropade ”Free Palestine” – sändning prövas",
       "description": "Rappartisten Stor ropade ”Free Palestine” under sitt framträdande i Allsång på Skansen. Enligt SVT var det ett regelbrott. – Det var ett spontant utspel från artisten, säger producenten Henrik Stockare till Kvartal .",
       "link": "https://www.expressen.se/noje/ropade-free-palestine--sandning-provas/",
@@ -35,13 +135,23 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Fyra till sjukhus efter krock i Marks kommun",
-      "description": "Två bilar har krockat i Marks kommun. Fyra personer har förts till sjukhus, varav en med ambulanshelikopter.",
+      "description": "Två bilar har krockat i Marks kommun. Fyra personer har förts till sjukhus, varav en med ambulanshelikopter. En förare är misstänkt för vårdslöshet i trafik och rattfylleri.",
       "link": "https://www.expressen.se/nyheter/sverige/flera-pakorda-i-marks-kommun--uppgifter-om-flera-skadade/",
       "guid": "https://www.expressen.se/nyheter/sverige/flera-pakorda-i-marks-kommun--uppgifter-om-flera-skadade/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785183366000
+    },
+    {
+      "title": "2XO The Sneakerhead Blend Bourbon",
+      "description": "",
+      "link": "https://uncrate.com/2xo-the-sneakerhead-blend-bourbon/",
+      "guid": "https://uncrate.com/2xo-the-sneakerhead-blend-bourbon/",
+      "image": "https://uncrate.com/assets_c/2026/07/2xo-the-sneakerhead-blend-bourbon-11-thumb-960xauto-192353.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785182400000
     },
     {
       "title": "Larm om flera påkörda i Mark",
@@ -454,26 +564,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785168514000
     },
     {
-      "title": "Bortsprungen hund hittade hem – efter fem år",
-      "description": "Bortsprungna hunden Chong verkade vara spårlöst försvunnen. Tills han dök upp – fem år senare och 100 mil hemifrån. – Tappa aldrig hoppet, säger Inmaculada Jackman till tv-kanalen WKRC.",
-      "link": "https://www.expressen.se/nyheter/varlden/bortsprungen-hund-hittade-hem--efter-fem-ar/",
-      "guid": "https://www.expressen.se/nyheter/varlden/bortsprungen-hund-hittade-hem--efter-fem-ar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785168242000
-    },
-    {
-      "title": "MCF: Sverige är rustade – om bränderna rasar",
-      "description": "2018 rasade den senaste riktigt stora skogsbranden i Sverige. Sedan dess har svenska räddningsresurser rustat upp. – Vi har blivit bättre och starkare, säger Anders Edstam, enhetschef på MCF.",
-      "link": "https://www.expressen.se/nyheter/sverige/mcf-sverige-ar-rustade-om-branderna-rasar/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mcf-sverige-ar-rustade-om-branderna-rasar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785168042000
-    },
-    {
       "title": "Med mobiltelefonens ficklampa upptäckte arkeologen en gömd medeltidsbro under domstolsbyggnaden",
       "description": "Arkeologer behöver inte alltid gräva i marken för att göra stora fynd. Ibland är det till och med möjligt att hitta en del av en gammal medeltidsborg som man tidigare trott hade jämnats med marken.",
       "link": "https://varldenshistoria.se/kultur/arkeologi/med-mobiltelefonens-ficklampa-upptackte-arkeologen-en-gomd-medeltidsbro-under-domstolsbyggnaden",
@@ -512,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785168000000
-    },
-    {
-      "title": "Trump: Redo för \"stora militära åtgärder\"",
-      "description": "Trump redo om samtalen misslyckas",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2844281e-f60d-4d40-9435-189dd27d9a46",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2844281e-f60d-4d40-9435-189dd27d9a46",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785167824000
     },
     {
       "title": "Allt fler vill gripa in mot bävrar",
@@ -622,26 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785163548000
-    },
-    {
-      "title": "Dieselpriset sänks – 65 öre lägre",
-      "description": "Oljepriset föll i fredags och faller tydligt under måndagen. Vid 14-tiden handlas ett fat Nordsjöolja för omkring 89 dollar, jämfört med toppen på 102 dollar i torsdags förra veckan. Oljeprisets fall får effekt på bensin- och dieselpriserna som under måndagen sjunker 20 respektive 65 öre litern. Oljepriset föll i fredags och faller tydligt under måndagen. […]",
-      "link": "https://www.dagensps.se/motor/dieselpriset-sanks-65-ore-lagre/",
-      "guid": "https://www.dagensps.se/?p=1659322",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/oljeprisets-fall-far-effekt-pa-bensin-oc.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785162913000
-    },
-    {
-      "title": "Sedlar med da Vinci eller stork? Europa röstar",
-      "description": "Förslagen bygger på två teman: europeisk kultur och natur. Även svenskar kan delta i omröstningen. ECB har presenterat tio finalförslag för framtidens eurosedlar. För första gången får Europas invånare själva välja pengarnas utseende genom en offentlig omröstning, rapporterar Euronews. Förslagen bygger på två teman: europeisk kultur och natur. Även svenskar kan delta i omröstningen. Kulturtemat […]",
-      "link": "https://www.dagensps.se/bors-finans/valuta/sedlar-med-da-vinci-eller-stork-europa-rostar/",
-      "guid": "https://www.dagensps.se/?p=1659273",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/ett-forslag-pa-formgivning-for-de-framti.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785162783000
     },
     {
       "title": "Kan man få pengarna tillbaka om resmålet drabbas av skogsbrand? Svaret är både ja och nej",
@@ -1834,56 +1894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784930400000
     },
     {
-      "title": "Everyday Carry: Atelier",
-      "description": "",
-      "link": "https://uncrate.com/everyday-carry-atelier/",
-      "guid": "https://uncrate.com/everyday-carry-atelier/",
-      "image": "https://uncrate.com/assets_c/2026/07/edc-atelier-darkened-thumb-960xauto-192324.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784926800000
-    },
-    {
-      "title": "BUSY Bar Productivity Device",
-      "description": "",
-      "link": "https://uncrate.com/busy-bar-productivity-device/",
-      "guid": "https://uncrate.com/busy-bar-productivity-device/",
-      "image": "https://uncrate.com/assets_c/2026/07/busy-bar-2-thumb-960xauto-192309.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784923200000
-    },
-    {
-      "title": "Great Lakes Wellness",
-      "description": "",
-      "link": "https://uncrate.com/great-lakes-wellness/",
-      "guid": "https://uncrate.com/great-lakes-wellness/",
-      "image": "https://uncrate.com/assets_c/2026/07/great-lakes-wellness-collagen-1-thumb-960xauto-192280.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784921432000
-    },
-    {
-      "title": "Naval Watch Co. FRXD004 GMT",
-      "description": "",
-      "link": "https://uncrate.com/naval-watch-co-frxd004-gmt/",
-      "guid": "https://uncrate.com/naval-watch-co-frxd004-gmt/",
-      "image": "https://uncrate.com/assets_c/2026/07/naval-watch-co-frxd004-gmt-11-thumb-960xauto-192314.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784919600000
-    },
-    {
-      "title": "David Bowie in 'The Man Who Fell to Earth'",
-      "description": "",
-      "link": "https://uncrate.com/david-bowie-in-the-man-who-fell-to-earth/",
-      "guid": "https://uncrate.com/david-bowie-in-the-man-who-fell-to-earth/",
-      "image": "https://uncrate.com/assets_c/2026/07/david-bowie-the-man-who-fell-to-earth-11-darkened-thumb-960xauto-192313.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1784918400000
-    },
-    {
       "title": "15 bänkar i regnbågens färger intar stan inför Pride",
       "description": "Parkbänkar målade i regnbågens färger finns på plats i Stockholm inför Pridefestivalen 2026, pridebänkar inför Stockholm Pride",
       "link": "https://www.mitti.se/nyheter/15-bankar-i-regnbagens-farger-intar-stan-infor-pride-6.3.376846.81148f3157",
@@ -2494,16 +2504,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784755929000
     },
     {
-      "title": "Forskarna skyndar sig: Nya bilder visar att det världsberömda expeditionsfartyget håller på att försvinna",
-      "description": "Med hjälp av den ubåt som man fotograferade Titanic med kan marinarkeologer nu visa ytterligare ett legendariskt fartyg i imponerande detalj. Men forskarna kämpar mot klockan.",
-      "link": "https://varldenshistoria.se/teknik/sjofart/se-video-och-bilder-varldsberomt-expeditionsfartyg-haller-pa-att-forsvinna",
-      "guid": "https://varldenshistoria.se/teknik/sjofart/se-video-och-bilder-varldsberomt-expeditionsfartyg-haller-pa-att-forsvinna",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784752254000
-    },
-    {
       "title": "Klubben från Botkyrka tog hem 13 medaljer i EM i karate",
       "description": "Botkyrka klubben Shukokai Karate vann 13 medaljer i EM i Leipzig: 5 guld, 6 silver och 2 brons. Nu laddar truppen om inför SM i november och VM i Estland 2027.",
       "link": "https://www.mitti.se/nyheter/klubben-fran-botkyrka-tog-hem-13-medaljer-i-em-i-karate-6.3.376643.c4b29d3c36",
@@ -2884,36 +2884,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784602800000
     },
     {
-      "title": "Satsning: Lyfta kvinnliga tränare inom fotboll",
-      "description": "Svensk damfotboll sak få fler kvinnliga elittränare med nya satsningen Öppna listan.",
-      "link": "https://www.mitti.se/nyheter/satsning-lyfta-kvinnliga-tranare-inom-fotboll-6.3.372013.c9f61608a2",
-      "guid": "https://www.mitti.se/nyheter/satsning-lyfta-kvinnliga-tranare-inom-fotboll-6.3.372013.c9f61608a2",
-      "image": "https://www.mitti.se/image-3.375011.298187.20260720172818.8250129f2c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784566680000
-    },
-    {
-      "title": "Pojke sprängde sig själv – överklagan avslås",
-      "description": "Svea hovrätt har meddelat domen mot tre inblandade i en sprängning där en 15-årig pojke dog.",
-      "link": "https://www.mitti.se/nyheter/pojke-sprangde-sig-sjalv--overklagan-avslas-6.3.376581.a42cb71889",
-      "guid": "https://www.mitti.se/nyheter/pojke-sprangde-sig-sjalv--overklagan-avslas-6.3.376581.a42cb71889",
-      "image": "https://www.mitti.se/image-3.234706.300738.20260721090144.1.8ba591eb34?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784560788000
-    },
-    {
-      "title": "¡Vamos! Här firar Stockholms spanjorer fotbollsvinsten",
-      "description": "På spanska krogen på Kungsholmen var stämningen på topp när Spanien korades till vinnarna i fotbolls-VM i söndags.",
-      "link": "https://www.mitti.se/nyheter/vamos-har-firar-stockholms-spanjorer-fotbollsvinsten-6.3.376556.1efb6368d8",
-      "guid": "https://www.mitti.se/nyheter/vamos-har-firar-stockholms-spanjorer-fotbollsvinsten-6.3.376556.1efb6368d8",
-      "image": "https://www.mitti.se/image-3.376821.300726.20260722094229.8217ade2d2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784559428000
-    },
-    {
       "title": "Some dinosaurs could rise like giants until they grew too big",
       "description": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
@@ -2924,26 +2894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784553824000
     },
     {
-      "title": "Äntligen slipper skyltarna på Ekerövägen vara igentejpade",
-      "description": "Bussfilen på Ekerövägen kommer från 22 juli gå hela vägen mellan Tappström och Drottningholm.",
-      "link": "https://www.mitti.se/nyheter/antligen-slipper-skyltarna-pa-ekerovagen-vara-igentejpade-6.3.376551.bcfdc20749",
-      "guid": "https://www.mitti.se/nyheter/antligen-slipper-skyltarna-pa-ekerovagen-vara-igentejpade-6.3.376551.bcfdc20749",
-      "image": "https://www.mitti.se/image-3.366084.300680.20260720120048.580a50017b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784546991000
-    },
-    {
-      "title": "Trångt värre – här har en 25-åring bara råd med 1,9 kvadrat",
-      "description": "Riksbyggens kartläggning visar hur få kvadratmeter en genomsnittlig 25-åring har råd med i Stockholms län. I Stockholm stad räcker ekonomin till endast 1,9 kvadratmeter.",
-      "link": "https://www.mitti.se/nyheter/trangt-varre--har-har-en-25aring-bara-rad-med-19-kvadrat-6.3.376500.7aa8fc10c7",
-      "guid": "https://www.mitti.se/nyheter/trangt-varre--har-har-en-25aring-bara-rad-med-19-kvadrat-6.3.376500.7aa8fc10c7",
-      "image": "https://www.mitti.se/image-3.376722.300646.20260720145933.a17cc02604?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784542210000
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "description": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
@@ -2952,36 +2902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784533209000
-    },
-    {
-      "title": "Misstänkt mordbrand i radhus i Norsborg",
-      "description": "En kraftig brand i en radhuslänga i Norsborg utreds som misstänkt mordbrand. Två fastigheter skadades, boende evakuerades och polisen misstänker att branden kan ha varit anlagd.",
-      "link": "https://www.mitti.se/nyheter/misstankt-mordbrand-i-radhus-i-norsborg-6.3.376545.aabedb7cfb",
-      "guid": "https://www.mitti.se/nyheter/misstankt-mordbrand-i-radhus-i-norsborg-6.3.376545.aabedb7cfb",
-      "image": "https://www.mitti.se/image-3.246997.300663.20260720065145.0973cbed7e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784528475000
-    },
-    {
-      "title": "Två anhållna efter misstänkt mord i Hässelby",
-      "description": "En man och en kvinna har anhållits efter att en man fallit från en balkong i Hässelby gård. Offret vårdas på sjukhus med livshotande skador.",
-      "link": "https://www.mitti.se/nyheter/tva-anhallna-efter-misstankt-mord-i-hasselby-6.3.376544.446d40b0a0",
-      "guid": "https://www.mitti.se/nyheter/tva-anhallna-efter-misstankt-mord-i-hasselby-6.3.376544.446d40b0a0",
-      "image": "https://www.mitti.se/image-3.334302.300662.20260722120100.c3849e6912?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784527578000
-    },
-    {
-      "title": "Här är förstagångsföräldrarna äldst i landet",
-      "description": "I Danderyd är förstagångsföräldrar äldst i Sverige. Kvinnor är i snitt 32,7 år och män 34,9 år när första barnet föds, enligt SCB-statistik analyserad av Dina Försäkringar.",
-      "link": "https://www.mitti.se/nyheter/har-ar-forstagangsforaldrarna-aldst-i-landet-6.3.368552.a87658bd49",
-      "guid": "https://www.mitti.se/nyheter/har-ar-forstagangsforaldrarna-aldst-i-landet-6.3.368552.a87658bd49",
-      "image": "https://www.mitti.se/image-3.338359.295010.20260720053038.1.64569be4bf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784523600000
     },
     {
       "title": "The mysterious hum heard around the world may finally have an explanation",
