@@ -1,8 +1,108 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-28T19:05:38.145Z",
+  "updatedAt": "2026-07-28T21:55:00.249Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Man död i mc-olycka i Dalarna",
+      "description": "Förbipasserande försökte rädda föraren",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=743fef76-c3f5-4f0f-96ef-2032beb6bce1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=743fef76-c3f5-4f0f-96ef-2032beb6bce1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785274853000
+    },
+    {
+      "title": "Båt har krockat med handelsfartyg – två saknas",
+      "description": "En motorbåt har krockat med ett handelsfartyg utanför Tjörn. Två har förts till sjukhus, enligt Sjöfartsverket. En stor sökinsats pågår efter två personer som saknas i vattnet.",
+      "link": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
+      "guid": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785272526000
+    },
+    {
+      "title": "En skadad i skjutning på strandbar i Malaga",
+      "description": "En skadad på spanska solkusten",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea7047a7-70ba-446c-b41b-5aaa8e68ce88",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea7047a7-70ba-446c-b41b-5aaa8e68ce88",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785272416000
+    },
+    {
+      "title": "Garb: Top Down",
+      "description": "",
+      "link": "https://uncrate.com/garb-top-down/",
+      "guid": "https://uncrate.com/garb-top-down/",
+      "image": "https://uncrate.com/assets_c/2026/07/garb-top-down-darkened-thumb-960xauto-192365.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785272400000
+    },
+    {
+      "title": "Två personer i vattnet – båt krockat med handelsfartyg",
+      "description": "Två personer saknas – stort pådrag",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=22ecbe89-7ceb-4545-ac15-1bf848e0415d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=22ecbe89-7ceb-4545-ac15-1bf848e0415d",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785271003000
+    },
+    {
+      "title": "Johnnie Walker Blue Label Festive Blend Scotch Whisky",
+      "description": "",
+      "link": "https://uncrate.com/johnnie-walker-blue-label-festive-blend-scotch-whisky/",
+      "guid": "https://uncrate.com/johnnie-walker-blue-label-festive-blend-scotch-whisky/",
+      "image": "https://uncrate.com/assets_c/2026/07/blue-label-festive-blend-2-thumb-960xauto-192375.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785270600000
+    },
+    {
+      "title": "Barn påkört i Eskilstuna",
+      "description": "Kvinna gripen misstänkt för flera brott",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e377e9a2-36f8-401d-8968-9d737c4a705f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e377e9a2-36f8-401d-8968-9d737c4a705f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785268872000
+    },
+    {
+      "title": "AG1 Pro",
+      "description": "",
+      "link": "https://uncrate.com/ag1-pro/",
+      "guid": "https://uncrate.com/ag1-pro/",
+      "image": "https://uncrate.com/assets_c/2026/07/ag1-thumb-960xauto-192189.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785267010000
+    },
+    {
+      "title": "Planen efter misslyckade dejten: Mörda henne",
+      "description": "Mannen blockerades på Snapchat efter en misslyckad dejt. Nu misstänks han för att ha planerat att mörda tjejen som nekade honom. – Jag menade inte allvar, säger han i förhör.",
+      "link": "https://www.expressen.se/nyheter/sverige/planen-efter-misslyckade--dejten-morda-henne/",
+      "guid": "https://www.expressen.se/nyheter/sverige/planen-efter-misslyckade--dejten-morda-henne/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785266364000
+    },
+    {
+      "title": "Vinodlare ser livsverk gå upp i rök: ”Hemskt”",
+      "description": "Sedan förra veckan har våldsamma skogsbränder rasat i sydvästra Frankrike, bland annat i Pyrénées-Orientales som är ett område med många vingårdar. Röken från skogsbränderna som just nu härjar i sydvästra Frankrike riskerar att få stor påverkan på vinproduktionen. Det påverkar smaken, säger vinskribenten Fredrik Schelin. Sedan förra veckan har våldsamma skogsbränder rasat i sydvästra Frankrike, […]",
+      "link": "https://www.dagensps.se/weekend/mat-vin/vinodlare-ser-livsverk-ga-upp-i-rok-hemskt/",
+      "guid": "https://www.dagensps.se/?p=1659664",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/manga-vinodlingar-har-dukat-under-i-bran.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785265745000
+    },
     {
       "title": "Lyssnar du på sommarpratarna?",
       "description": "Dagens radiofråga Tidigare idag skrev vi om en tjänst för att hålla koll på årets sommarpratare i SR:s Sommar-program. Jag tänkte att vi därför kunde kolla om ni läsare har lyssnat på årets sommarpratare. Svara gärna på vår enkät nedan. Vill ni snacka mer om sommarpratarna, kanske tipsa om något sommarprat som satt sig lite extra, står kommentarerna till ert förfogande. L&auml;s vidare och kommentera: https://feber.se/lyssnar-du-pa-sommarpratarna/494504/ L&auml;s mer om Sommarpratare , Sveriges Radio , SR , poddar , sommar i P1",
@@ -11,6 +111,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785265200000
+    },
+    {
+      "title": "Vice Pro Galaxy Golf Balls",
+      "description": "",
+      "link": "https://uncrate.com/vice-pro-galaxy-golf-balls/",
+      "guid": "https://uncrate.com/vice-pro-galaxy-golf-balls/",
+      "image": "https://uncrate.com/assets_c/2026/07/vice-galaxy-golf-balls-thumb-960xauto-192367.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785265200000
     },
     {
@@ -44,18 +154,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785264560000
     },
     {
-      "title": "Barn påkört i Eskilstuna",
-      "description": "Förs till sjukhus med ambulans",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e377e9a2-36f8-401d-8968-9d737c4a705f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e377e9a2-36f8-401d-8968-9d737c4a705f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785264183000
-    },
-    {
-      "title": "Övertänd husvagn på camping – ambulans på väg",
-      "description": "En husvagn är övertänd på Ylseröd camping i Strömstad. Ambulans har kallats till platsen. – Branden har spridit sig till träd och terräng, säger Sören Gustavsson vid SOS Alarm.",
+      "title": "Husvagn brann på camping – kraftig rökutveckling",
+      "description": "En husvagn brann på Ylseröd camping i Strömstad. Branden fick spridning till terrängen. – Den var fullt övertänd när vi kom fram, säger Lars Justelius, vid räddningstjänsten Storgöteborg.",
       "link": "https://www.expressen.se/nyheter/sverige/overtand-husvagn-pa-camping--ambulans-pa-vag/",
       "guid": "https://www.expressen.se/nyheter/sverige/overtand-husvagn-pa-camping--ambulans-pa-vag/",
       "image": "",
@@ -215,7 +315,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Brabus har gjort en fet motorbåt",
-      "description": "Dubbla skrov den här gången För två år sedan började Brabus samarbeta med den polska yacht-firman Sunreef Yachts. Nu har man visat upp den första produkten, Brabus Ultima 55, som bygger på samma bas som Sunreef Ultima 55. Den dryga 55 fot (17 meter) långa båten har ett katamaran-skrov och ett avancerat foilsystem som lyfter upp skroven, vilket ska göra färden trevligare och förbrukningen mindre. Båten drivs av två sexcylindriga motorer med varderas 725 hästar. Maxfarten är 40 knop och man kan trycka i 1500 liter bränsle. Det finns plats för 5-6 gäster och en besättningsman. Prislappen ligger på 3,7 miljoner dollar. L&auml;s vidare och kommentera: https://feber.se/fordon/brabus-har-gjort-en-fet-motorbat/494502/ L&auml;s mer om Brabus , Sunreef Yachts , Brabus Ultima 55 , Sunreef Ultima 55 , Katamaran",
+      "description": "Med massa kolfiber För två år sedan började Brabus samarbeta med den polska yacht-firman Sunreef Yachts. Nu har man visat upp den första produkten, Brabus Ultima 55, som bygger på samma bas som Sunreef Ultima 55. Den dryga 55 fot (17 meter) långa båten har ett katamaran-skrov och ett avancerat foilsystem som lyfter upp skroven, vilket ska göra färden trevligare och förbrukningen mindre. Båten drivs av två sexcylindriga motorer med varderas 725 hästar. Maxfarten är 40 knop och man kan trycka i 1500 liter bränsle. Det finns plats för 5-6 gäster och en besättningsman. Prislappen ligger på 3,7 miljoner dollar. L&auml;s vidare och kommentera: https://feber.se/fordon/brabus-har-gjort-en-fet-motorbat/494502/ L&auml;s mer om Brabus , Sunreef Yachts , Brabus Ultima 55 , Sunreef Ultima 55 , Katamaran",
       "link": "https://feber.se/fordon/brabus-har-gjort-en-fet-motorbat/494502/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/fordon/brabus-har-gjort-en-fet-motorbat/494502/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -385,7 +485,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Tankfartyg brann utanför Norge – larm om explosion",
-      "description": "Ett tankfartyg som uppges transportera svavelsyra brann utanför Norges kust. Det finns uppgifter om en explosion och att fartyget har gått på grund. Sverige skickade hjälp till grannlandet. – Ett utsläpp av svavelsyra och andra giftiga ämnen skulle vara skadligt för livet i Oslofjorden, säger en marinbiolog till Dagbladet.",
+      "description": "Ett tankfartyg som uppges transportera svavelsyra brann utanför Norges kust. Enligt polisen uppstod branden efter en explosion. – Det mesta tyder på att det skedde en explosion i samband med svetsning, skriver insatsledaren Ronny Hellerud Samuelsen enligt NRK.",
       "link": "https://www.expressen.se/nyheter/varlden/tankfartyg-brinner-utanfor-norge-larm-om-explosion/",
       "guid": "https://www.expressen.se/nyheter/varlden/tankfartyg-brinner-utanfor-norge-larm-om-explosion/",
       "image": "",
@@ -594,26 +694,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785248400000
     },
     {
-      "title": "Uppgifter: Allierade vänder Putin ryggen",
-      "description": "Rysslands agerande får tidigare partners att backa. Nu markerar tre av dem mot Moskva. Det hävdar Ukrainas utrikesunderrättelsetjänst i en rapport. Få senaste nytt om kriget – ladda ner Expressens app här.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-allierade-vander-ryggen-mot-putin/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-allierade-vander-ryggen-mot-putin/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785248264000
-    },
-    {
-      "title": "Påfågel har rymt från Skansen – flyttar in hos museum",
-      "description": "En påfågel har rymt från Skansen. Nu har den flyttat in på Tekniska museet. – Vi har döpt den till Berit, säger en anställd.",
-      "link": "https://www.expressen.se/nyheter/sverige/pafagel-har-rymt-fran-skansen-flyttar-in-hos-museum/",
-      "guid": "https://www.expressen.se/nyheter/sverige/pafagel-har-rymt-fran-skansen-flyttar-in-hos-museum/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785247835000
-    },
-    {
       "title": "Nya jättesanktioner mot Ryssland på väg",
       "description": "EU drar åt snaran kring 1 600 företag Enligt Bloomberg planerar EU nu att kraftigt utöka sina ekonomiska åtgärder mot Ryssland genom att svartlista cirka 1 600 företag och verksamheter som anses stötta den ryska krigföringen i Ukraina. Enligt uppgifter handlar det om företag som tillsammans omsätter mer än 20 miljarder dollar årligen och har över 265.000 anställda. Syftet med de nya restriktionerna är att ytterligare strypa de ekonomiska och logistiska flöden som möjliggör Rysslands fortsatta invasion av Ukraina. Genom att rikta in sig på ett stort antal aktörer hoppas EU kunna täppa till kryphål och öka pressen på den ryska ekonomin. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-jattesanktioner-mot-ryssland-pa-vag/494512/ L&auml;s mer om EU , Ryssland , Ukraina , sanktioner , Bloomberg , ekonomi",
       "link": "https://feber.se/samhalle/nya-jattesanktioner-mot-ryssland-pa-vag/494512/?utm_source=rss&utm_medium=feed",
@@ -622,16 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785247800000
-    },
-    {
-      "title": "Italien ber om ursäkt för stökiga tonåringar",
-      "description": "Skolresa i Thailand • Ambassadens uttalande",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/italien-ber-om-ursakt-for-stokiga-tonaringar-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/italien-ber-om-ursakt-for-stokiga-tonaringar-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785247642000
     },
     {
       "title": "BMW har redan tillverkat 50.000 iX3",
@@ -644,16 +714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785247200000
     },
     {
-      "title": "Zelenskyjs ord efter mötet med Trump",
-      "description": "Zelenskyj och Trump har mötts i Vita huset. ”Vi diskuterade licenser för tillverkningen av Patriot” , skriver Zelenskyj. Nu har Netanyahu anlänt för sin träff med den amerikanska presidenten.",
-      "link": "https://www.expressen.se/nyheter/varlden/zelenskyj-vantas-satta-press-pa-trump/",
-      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyj-vantas-satta-press-pa-trump/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785246738000
-    },
-    {
       "title": "Två unga män misstänks för grovt rån på Brändö i Vasa",
       "description": "Förra veckan utfördes ett nattligt rån på Brändö i Vasa. En ung man blev bestulen på flera ägodelar. De misstänkta är nu häktade.",
       "link": "https://yle.fi/a/7-10102778?origin=rss",
@@ -664,16 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785246599000
     },
     {
-      "title": "”Betydande” antal antas döda i skalv i Japan",
-      "description": "Ett ”betydande” antal personer tros ha omkommit i en kraftig jordbävning i den japanska staden Kashima, rapporterar tv-kanalen TBS – uppgifter som inte har bekräftats. Hittills har en person påträffats död, men uppemot 30 personer saknas ännu i ett delvis rasat köpcentrum. Många människor sitter fast inne i köpcentret, där ett våningsplan har rasat samman, […]",
-      "link": "https://www.dagensps.se/varlden/betydande-antal-antas-doda-i-skalv-i-japan/",
-      "guid": "https://www.dagensps.se/?p=1659600",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-aptt-d677caef.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785246445000
-    },
-    {
       "title": "Krock på riksväg 25 i Virkby – trafiken löper igen",
       "description": "Två personbilar har krockat på riksväg 25 i Virkby.",
       "link": "https://yle.fi/a/7-10102780?origin=rss",
@@ -682,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785246228000
-    },
-    {
-      "title": "Skulle fritera pommes frites – döms för köksbrand",
-      "description": "En 26-årig göteborgare blev sugen på pommes frites. Det slutade med ett kök i lågor. Och över 220 000 kronor i skadestånd.",
-      "link": "https://www.expressen.se/nyheter/sverige/skulle-fritera-pommes-frites--doms-for-koksbrand/",
-      "guid": "https://www.expressen.se/nyheter/sverige/skulle-fritera-pommes-frites--doms-for-koksbrand/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785246108000
     },
     {
       "title": "Snart dags för mer Ted Lasso",
@@ -1312,46 +1352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785180556000
-    },
-    {
-      "title": "'Art But Make It Sports' Book",
-      "description": "",
-      "link": "https://uncrate.com/art-but-make-it-sports-book/",
-      "guid": "https://uncrate.com/art-but-make-it-sports-book/",
-      "image": "https://uncrate.com/assets_c/2026/04/art-but-make-it-sports-6-darkened-thumb-960xauto-190184.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785178800000
-    },
-    {
-      "title": "Topo Designs Commuter Backpack",
-      "description": "",
-      "link": "https://uncrate.com/topo-designs-commuter-backpack/",
-      "guid": "https://uncrate.com/topo-designs-commuter-backpack/",
-      "image": "https://uncrate.com/assets_c/2026/07/topo-designs-commuter-backpack-2-darkened-thumb-960xauto-192346.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785175200000
-    },
-    {
-      "title": "Foot Locker Back-to-School Collection",
-      "description": "",
-      "link": "https://uncrate.com/-foot-locker-back-to-school-collection/",
-      "guid": "https://uncrate.com/-foot-locker-back-to-school-collection/",
-      "image": "https://uncrate.com/assets_c/2026/07/foot-locker-back-to-school-3-thumb-960xauto-192334.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785173427000
-    },
-    {
-      "title": "LEGO McLaren MP4/4 & Ayrton Senna Race Car",
-      "description": "",
-      "link": "https://uncrate.com/lego-mclaren-mp44-ayrton-senna-race-car/",
-      "guid": "https://uncrate.com/lego-mclaren-mp44-ayrton-senna-race-car/",
-      "image": "https://uncrate.com/assets_c/2026/07/lego-mclaren-senna-car-11-thumb-960xauto-192348.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785171600000
     },
     {
       "title": "Vreeswijks lillasyster om Cornelisdagen: \"Ställer upp varje år\"",
