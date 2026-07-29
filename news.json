@@ -1,11 +1,271 @@
 {
-  "updatedAt": "2026-07-29T01:28:31.311Z",
+  "updatedAt": "2026-07-29T05:41:58.559Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Ny trend: Se fyra storstäder på en resa – här är Europas smartaste rutter",
+      "description": "Varför nöja sig med en stad när du kan hinna med fyra storstäder? En ny resetrend kallad ”trip-maxxing” går ut på att pressa in flera storstadsbesök under samma semester – utan att spräcka budgeten. Nu har en ny kartläggning rankat Europas bästa rutter. En resa – fyra storstäder Glöm en vecka på samma hotell. Allt […]",
+      "link": "https://www.dagensps.se/weekend/resor/ny-trend-se-fyra-storstader-pa-en-resa-har-ar-europas-smartaste-rutter/",
+      "guid": "https://www.dagensps.se/?p=1659703",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/07/namnlos-design-7.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785303624000
+    },
+    {
+      "title": "Jeff Bezos garagefirma – nu störst i världen",
+      "description": "Jeff Bezos garageföretag har på drygt tre decennier vuxit till världens största intäktsmaskin och rankas nu högst upp på Fortune Global 500. Året var 1995 när Jeff Bezos drog i gång sin onlinebokhandel i Washington. Hans startup hette då Cadabra – det som senare bytte namn till Amazon och som numera blivit ett ”allt-i-ett-företag”. Styvt […]",
+      "link": "https://www.dagensps.se/bors-finans/jeff-bezos-garagefirma-nu-storst-i-varlden/",
+      "guid": "https://www.dagensps.se/?p=1659697",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/nybezos.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785303414000
+    },
+    {
+      "title": "Stockholms visdagar drar i gång hos Lasse i parken",
+      "description": "Stockholms visdagar drar i gång hos Lasse i parken.",
+      "link": "https://www.mitti.se/nyheter/stockholms-visdagar-drar-i-gang-hos-lasse-i-parken-6.3.377621.fe3d5b12c7",
+      "guid": "https://www.mitti.se/nyheter/stockholms-visdagar-drar-i-gang-hos-lasse-i-parken-6.3.377621.fe3d5b12c7",
+      "image": "https://www.mitti.se/image-3.377131.301246.20260729053203.1.24508f245d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785302946000
+    },
+    {
+      "title": "Sista minuten-resor ökar – men svenskarna väljer fortfarande säkra semesterkort",
+      "description": "Att boka sommarsemestern ett halvår i förväg blir allt mindre självklart. Ny statistik visar att sista minuten-resor ökar. Allt fler väntar in i det sista innan de trycker på ”boka” – men när beslutet väl är fattat väljer de flesta samma klassiska soldestinationer som alltid. Fler bokar dagen före avresa Den brittiska researrangören loveholidays rapporterar […]",
+      "link": "https://www.dagensps.se/weekend/sista-minuten-resor-okar-men-svenskarna-valjer-fortfarande-sakra-semesterkort/",
+      "guid": "https://www.dagensps.se/?p=1659699",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2025/08/5-161.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785302944000
+    },
+    {
+      "title": "Attack mot S-lokal",
+      "description": "Försökte tända eld – krossade fönster",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e79869cf-ec7b-4e05-94ba-a94e0fb454f0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e79869cf-ec7b-4e05-94ba-a94e0fb454f0",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785302734000
+    },
+    {
+      "title": "USA:s senat går vidare med tuffaste Ryssland-sanktionerna hittills",
+      "description": "USA:s senat röstade på tisdagen igenom en ny sanktionspaket mot Ryssland. Lagen ger Trump nya befogenheter att straffa Putins krigsmaskin ekonomiskt. Frågan är dock om den faktiskt förändrar krigets gång i Ukraina. USA:s senat röstade med bred marginal, 86 mot 12, för att gå vidare med en ny sanktionspaket mot Ryssland, bara timmar efter en […]",
+      "link": "https://www.dagensps.se/varlden/usas-senat-gar-vidare-med-tuffaste-ryssland-sanktionerna-hittills/",
+      "guid": "https://www.dagensps.se/?p=1659687",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/trump-zelensky-juli-2026.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785302140000
+    },
+    {
+      "title": "Dyrare viner efter sommarens bränder – brist hotar",
+      "description": "De bränder som rasat i vindistrikten Pyrénées-Orientales, Bordeaux i Frankrike och vinodlingar i spanska Andalusien och Rioja, får konsekvenser även för tillgången på vin i Sverige. Bränderna som härjar i Sydeuropa kommer att påverka både tillgång och pris på franska och spanska viner, enligt bedömare. Det kommer bli svårt att hitta vin från Bordeaux i […]",
+      "link": "https://www.dagensps.se/varlden/klimat/dyrare-viner-efter-sommarens-brander-brist-hotar/",
+      "guid": "https://www.dagensps.se/?p=1659681",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/dyrare-viner-fran-frankrike-och-spanien.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785301483000
+    },
+    {
+      "title": "Tomi Kaukinen har åkt uppstartsvärldens bergochdalbana: ”Vi måste välja den smärta vi kan leva med”",
+      "description": "Om du hatar ditt jobb är du inte ensam. För de flesta är arbetslivet en lång, själlös resa mot pensionen, fast vi låtsas tycka om det, säger sommarprataren Tomi Kaukinen.",
+      "link": "https://yle.fi/a/7-10098485?origin=rss",
+      "guid": "https://yle.fi/a/7-10098485",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785301214000
+    },
+    {
+      "title": "Sommar i P1: Martin Peterson berättar skrämmande om USA",
+      "description": "ALBIN JULIN: Så många [geting] får Martin Petersons sommarprat",
+      "link": "https://www.expressen.se/nyheter/sverige/sommar-i-p1-andreas-t-olsson-pratar-fint-om-gosta-ekman/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sommar-i-p1-andreas-t-olsson-pratar-fint-om-gosta-ekman/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785301200000
+    },
+    {
+      "title": "Nya missilattacker får oljepriset att rusa igen",
+      "description": "Pausen i striderna mellan USA och Iran blev inte långvarig och nya attacker får oljepriset att stiga kraftigt på onsdagen. Iran har inlett en attack med ballistiska missiler mot amerikanska styrkor, vilket skickar upp oljepriset rejält i handeln i Asien på onsdagsmorgonen, svensk tid. CNBC rapporterar att terminskontrakten för råoljan Brent med leverans i september sticker […]",
+      "link": "https://www.dagensps.se/bors-finans/nya-missilattacker-far-oljepriset-att-rusa-igen/",
+      "guid": "https://www.dagensps.se/?p=1659684",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/missiler.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785301008000
+    },
+    {
+      "title": "UEFA överväger VM-bojkott: ”Fotbollen är inte FIFA:s att sälja”",
+      "description": "Fotbollens globala ansikte FIFA vill skapa ett kommersiellt bolag värt 20 miljarder dollar och ta in externa investerare. Den europeiska motsvarigheten UEFA är på krigsstigen och diskuterar internt att bojkotta VM och klubblags-VM. FIFA presenterade på tisdagen planer på ett nytt kommersiellt bolag, FIFA Forward Enterprise (FFE), som ska samla förbundets intäkter från sändningsrättigheter, sponsring, […]",
+      "link": "https://www.dagensps.se/varlden/uefa-overvager-vm-bojkott-fotbollen-ar-inte-fifas-att-salja/",
+      "guid": "https://www.dagensps.se/?p=1659683",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/bojkott-mot-fifa.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785300361000
+    },
+    {
+      "title": "Dyrare viner efter sommarens bränder - brist hotar",
+      "description": "Bränderna som härjar i Sydeuropa kommer att påverka både tillgång och pris på franska och spanska viner, enligt bedömare. – Det kommer bli svårt att hitta vin från Bordeaux i Sverige framöver, uppger Elisabeth Due vid Sprit- och vinleverantörs-föreningen.",
+      "link": "https://www.expressen.se/nyheter/sverige/dyrare-viner-efter-sommarens-brander-brist-hotar/",
+      "guid": "https://www.expressen.se/nyheter/sverige/dyrare-viner-efter-sommarens-brander-brist-hotar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785300178000
+    },
+    {
+      "title": "Källor: USA har brist på luftförsvar",
+      "description": "Kriget i Iran har lett till att USA:s lager av luftförsvarsrobotar krymper för snabbt, rapporterar amerikanska medier. Det kan försvaga USA:s position i en potentiell konflikt med Kina, varnar analytiker.",
+      "link": "https://www.expressen.se/nyheter/varlden/kallor-usa-har-brist-pa-luftforsvar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/kallor-usa-har-brist-pa-luftforsvar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785299712000
+    },
+    {
+      "title": "Analys: Lindsey Grahams bortgång innebär nya utmaningar för Ukraina och Israel",
+      "description": "Senator Lindsey Grahams död signalerar nya tider för både Volodomyr Zelenskyj och Benjamin Netanyahu när det kommer till den amerikanska politiken.",
+      "link": "https://yle.fi/a/7-10102787?origin=rss",
+      "guid": "https://yle.fi/a/7-10102787",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785299414000
+    },
+    {
+      "title": "Iran attackerar",
+      "description": "USA: Skjutit ned robotar",
+      "link": "https://www.expressen.se/nyheter/varlden/usa-skjutit-ned-iranska-robotar",
+      "guid": "https://www.expressen.se/nyheter/varlden/usa-skjutit-ned-iranska-robotar",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785298314000
+    },
+    {
+      "title": "Massor av kunder till stans nya videobutik",
+      "description": "Stock Home Video i Vasastan har nu öppnat, efter att Rebecka och Gabrielle tröttnat på Streamingtjänster som Netflix, Disney och HBO tror de att läget är rätt att satsa på DVD- blu-ray och VHS-filmer. Filmbutik, nyöppnat, 2026.",
+      "link": "https://www.mitti.se/nyheter/massor-av-kunder-till-stans-nya-videobutik-6.3.377492.7dc048598c",
+      "guid": "https://www.mitti.se/nyheter/massor-av-kunder-till-stans-nya-videobutik-6.3.377492.7dc048598c",
+      "image": "https://www.mitti.se/image-3.377117.301116.20260729043006.f4d61caad9?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785297600000
+    },
+    {
+      "title": "USA: Skjutit ned iranska robotar",
+      "description": "USA:s militär har skjutit ned iranska robotar som riktats mot amerikanska styrkor i Mellanöstern och utfört attacker mot Iranstödda grupper i Irak, uppger militärkommandot Centcom.",
+      "link": "https://www.expressen.se/nyheter/varlden/usa-skjutit-ned-iranska-robotar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/usa-skjutit-ned-iranska-robotar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785296595000
+    },
+    {
+      "title": "Magnus Silfvenius Öhman gick från Yleprofil till producent för stora svenska kändispoddar",
+      "description": "Från Yleprofil till poddproducent i Los Angeles. Magnus Silfvenius Öhman blickar tillbaka på karriären, drömmarna och flytten som förändrade allt.",
+      "link": "https://yle.fi/a/7-10101543?origin=rss",
+      "guid": "https://yle.fi/a/7-10101543",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785295819000
+    },
+    {
+      "title": "Nallemuseet i Strömfors bruk förverkligar kyrkoherdens sista önskan",
+      "description": "Kyrkoherden Kirsi Oksanen hade en samling på över 2 000 nallar och drömde om att grunda ett museum för gosedjuren. I början av juli blev drömmen verklighet.",
+      "link": "https://yle.fi/a/7-10102616?origin=rss",
+      "guid": "https://yle.fi/a/7-10102616",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785294614000
+    },
+    {
+      "title": "Du får vänja dig vid potthål och tvättbrädsvägar – Finlands vägar blir allt sämre, och mer pengar finns inte",
+      "description": "Kommunikationsminister Lulu Ranne: Vi kommer aldrig ha pengar att reparera och underhålla alla vägar.",
+      "link": "https://yle.fi/a/7-10102645?origin=rss",
+      "guid": "https://yle.fi/a/7-10102645",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785294609000
+    },
+    {
+      "title": "Ryska ubåtar och torpederade tyska fartyg – Bottenviken rymmer spännande historier som få känner till",
+      "description": "Visste du att det finns en torpederad atlantångare i Bottenviken? Populärhistorikern Tommy Lundmark säger att folk blir förvånade när han berättar om allt som hänt i våra vatten.",
+      "link": "https://yle.fi/a/7-10102774?origin=rss",
+      "guid": "https://yle.fi/a/7-10102774",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785294111000
+    },
+    {
+      "title": "Så hjälpte telefonsamtal 36 hyresgäster i Esbo",
+      "description": "Ett telefonsamtal kan spela en stor roll för den som riskerar förlora sitt hem. Det visar ett pilotprojekt där hyresgäster fick hjälp innan skulderna blev för stora.",
+      "link": "https://yle.fi/a/7-10102718?origin=rss",
+      "guid": "https://yle.fi/a/7-10102718",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785294013000
+    },
+    {
+      "title": "Slut på stanken i Barösund: Nya reningsverket blev dyrt men havet tackar",
+      "description": "Tidigare år har en otrevlig lukt mött båtfolk och invånare i gästhamnen. Efter att det nya reningsverket tagits i bruk är lukten borta.",
+      "link": "https://yle.fi/a/7-10102248?origin=rss",
+      "guid": "https://yle.fi/a/7-10102248",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785293404000
+    },
+    {
+      "title": "Saudiarabien och USA har slagit till mot Iranstödda grupper i Irak",
+      "description": "USA har skjutit ner iranska robotar som riktats mot amerikanska baser i Mellanöstern, men också riktat anfall mot Iranstödda grupper i Irak.",
+      "link": "https://yle.fi/a/7-10102790?origin=rss",
+      "guid": "https://yle.fi/a/7-10102790",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785293317000
+    },
+    {
+      "title": "Trump vill inte betala – hänvisar till immunitet",
+      "description": "Donald Trump ska betala Jean Carrol miljontals dollar för sina uttalanden om henne. Men nu har hans jurister kontaktat högsta domstolen – och bett den se över straffet. De menar att Trump bör beviljas immunitet, rapporterar Axios .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-vill-inte-betala-hanvisar-till-immunitet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-vill-inte-betala-hanvisar-till-immunitet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785292255000
+    },
+    {
+      "title": "Minst 13 döda och flera saknade efter skalvet i Japan",
+      "description": "Räddningstjänsten letar fortfarande efter saknade i ett köpcentrum och en fabrik.",
+      "link": "https://yle.fi/a/7-10102788?origin=rss",
+      "guid": "https://yle.fi/a/7-10102788",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785290140000
+    },
+    {
       "title": "Han inspirerades av tv-mördaren",
-      "description": "På fem månader mördare James Desborough tre personer. Efteråt styckade och brände han två av deras kroppar. Han uppges vara en stor beundrare av tv-serien om seriemördaren ”Dexter”.",
+      "description": "På fem månader mördade James Desborough tre personer. Efteråt styckade och brände han två av kropparna. Han uppges vara en stor beundrare av tv-serien om seriemördaren ”Dexter”.",
       "link": "https://www.expressen.se/nyheter/varlden/han-inspirerades-av-tv-mordaren/",
       "guid": "https://www.expressen.se/nyheter/varlden/han-inspirerades-av-tv-mordaren/",
       "image": "",
@@ -84,8 +344,8 @@
       "timestamp": 1785274853000
     },
     {
-      "title": "Båt har krockat med handelsfartyg – två saknas",
-      "description": "Ett lastfartyg har ”kört över” en fritidsbåt utanför Tjörn, enligt polisen. Ombord på båten fanns en barnfamilj och en mamma och flicka är försvunna. Nu pausar sjöräddningen insatsen. – Vi kan inte göra mycket mer i mörkret, säger Niclas Härenstam på Sjöfartsverket.",
+      "title": "Mamma och dotter saknas – insatsen pausas",
+      "description": "Ett lastfartyg har ”kört över” en fritidsbåt utanför Tjörn, uppger polisen. Ombord på båten fanns en barnfamilj – och en mamma och dotter är försvunna. Sjöfartsverket pausade sökandet under tidiga morgonen. Men polisens insats ombord på fartyget pågick hela natten. – Det är många och långa förhör, säger Morten Gunneng, vakthavande befäl vid 6-tiden på morgonen.",
       "link": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
       "guid": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
       "image": "",
@@ -284,26 +544,6 @@
       "timestamp": 1785261413000
     },
     {
-      "title": "Kärnkraft under jord splittrar lokalbor: ”Blir försökskaniner”",
-      "description": "Kärnkraft långt under markytan ska snart vara klart i Kansas i USA. Det har väckt blandade reaktioner i bygden. Den amerikanska startupen Deep Fission planerar att bygga världens första kommersiella kärnreaktor långt under jord. Det handlar närmare bestämt om en drygt 1,6 kilometer djup borrhålsanläggning under staden Parsons i Kansas. Projektet ses av många som […]",
-      "link": "https://www.dagensps.se/teknik/energi/karnkraftsbygge-splittrar-invanarna-vi-blir-forsokskaniner/",
-      "guid": "https://www.dagensps.se/?p=1659662",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/rig-aerialdeepfission-27741.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785261000000
-    },
-    {
-      "title": "Flicka fastnade i paketbox",
-      "description": "Räddningstjänsten fick bryta upp dörren",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e835b73a-ae01-4d71-97ef-a44f8b7d9498",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e835b73a-ae01-4d71-97ef-a44f8b7d9498",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785260451000
-    },
-    {
       "title": "KuPS utslaget i Champions League-kvalet – nu väntar kvalmatcher i Europa League",
       "description": "Kuopion Palloseuras Champions League-dröm tog slut i den andra kvalomgången. Sabah vann med 2–0 i Kuopio och tog sig vidare med sammanlagt 3–0.",
       "link": "https://yle.fi/a/7-10102786?origin=rss",
@@ -334,26 +574,6 @@
       "timestamp": 1785259800000
     },
     {
-      "title": "Vansinnesfärd på E4 – bil körde i 200 kilometer i timmen",
-      "description": "Körde sicksack i 200 km/h",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7b0a85e8-de6a-4cfa-aa36-24427ae2c91d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7b0a85e8-de6a-4cfa-aa36-24427ae2c91d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785259471000
-    },
-    {
-      "title": "EU missar målen grovt – men Sverige ligger bra till",
-      "description": "EU riskerar att missa målen inom info och kommunikation. Vi utbildar för få och i stället litar vi till rekrytering från länder utanför EU. Det är EU-organet Eurofond som i en ny rapport slår fast att EU riskerar att missa sina mål när det gäller jobb inom IKT, informations- och kommunikationsteknik. EU har satt upp […]",
-      "link": "https://www.dagensps.se/foretag/eu-missar-malen-grovt-men-sverige-ligger-bra-till/",
-      "guid": "https://www.dagensps.se/?p=1659644",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlxmx3o-itcko-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785259229000
-    },
-    {
       "title": "”Det gick bra” – Trump mötte Zelenskyj och Netanyahu bakom stängda dörrar",
       "description": "Zelenskyj och Netanyahu körde in bakvägen och ingendera mötte pressen efter mötet i Vita huset.",
       "link": "https://yle.fi/a/7-10102748?origin=rss",
@@ -372,16 +592,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785258604000
-    },
-    {
-      "title": "Uppgifter: ”Skellefteåmannen” är död",
-      "description": "Paul Belosic stormade Kapitolium – iklädd en röd Skellefteåhalsduk. Nu uppges han ha dött. – Enligt hans nära anhöriga ska han ha blivit rånmördad, säger dokumentärfilmaren Mattias Löw.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-skellefteamannen-ar-dod/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-skellefteamannen-ar-dod/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785258133000
     },
     {
       "title": "Brabus har gjort en fet motorbåt",
@@ -414,26 +624,6 @@
       "timestamp": 1785256671000
     },
     {
-      "title": "Hajpade startupen tappar medgrundare: ”Ohållbart tempo”",
-      "description": "Det krävs mycket hårt arbete för att vara en del av AI-boomen i USA. För Lilian Weng på Thinking Machines Lab ledde det till dålig hälsa och hon hoppar nu av. AI-bolaget Thinking Machines Lab har fått mycket uppmärksamhet, inte minst eftersom en av grundarna var en tidigare högt uppsatt OpenAI-chef, Mira Murati. Men nu […]",
-      "link": "https://www.dagensps.se/bors-finans/hajpade-startupen-tappar-medgrundare-ohallbart-tempo/",
-      "guid": "https://www.dagensps.se/?p=1659641",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/skarmavbild-2026-07-28-kl-161922.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785256427000
-    },
-    {
-      "title": "20-tal etiopier försvunna efter Gothia Cup",
-      "description": "20-tal personer har inte kommit hem",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=15c20df5-bdd8-4e6b-b5eb-41651a23d731",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=15c20df5-bdd8-4e6b-b5eb-41651a23d731",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785256254000
-    },
-    {
       "title": "IAEA lanserar global standard för mikroplaster",
       "description": "Global kraftsamling mot mikroplaster Bristen på jämförbar data har länge varit ett av de största hindren i kampen mot plastföroreningar i världshaven. Eftersom olika länder och laboratorier använt olika mätmetoder har det varit nästan omöjligt att få en samlad bild av läget. Nu lanserar Internationella atomenergiorganet (IAEA) initiativet NUTEC Plastics som då ska se till att skapa en global standard. Satsningen innebär att 80 länder utrustas med avancerade spektrometrar som med infrarött ljus kan identifiera plastpartiklars kemiska fingeravtryck. För att säkerställa att proverna tas på exakt samma sätt har över 400 specialister utbildats i gemensamma protokoll för insamling av vatten- och sandprover. All data som genereras samlas i en öppen databas som då ska kunna ge beslutsfattare ett vetenskapligt och datadrivet underlag för att kunna sätta in effektiva åtgärder mot de 19–23 miljoner ton plast som når haven varje år. L&auml;s vidare och kommentera: https://feber.se/samhalle/iaea-lanserar-global-standard-for-mikroplaster/494501/ L&auml;s mer om IAEA , NUTEC Plastics , plastföroreningar , havsmiljö , spektrometri , miljöforskning",
       "link": "https://feber.se/samhalle/iaea-lanserar-global-standard-for-mikroplaster/494501/?utm_source=rss&utm_medium=feed",
@@ -444,26 +634,6 @@
       "timestamp": 1785256200000
     },
     {
-      "title": "Värmen gör tillfällig comeback: ”Över 30 grader”",
-      "description": "Högsommarvärmen återvänder – men bara för en kort stund. I delar av södra Sverige kan det bli över 30 grader varmt under torsdagen. – Det är tillfälligt besök, säger Johan Wiksten, meteorolog på SMHI.",
-      "link": "https://www.expressen.se/nyheter/vader/varmen-gor-tillfallig-comeback-over-30-grader/",
-      "guid": "https://www.expressen.se/nyheter/vader/varmen-gor-tillfallig-comeback-over-30-grader/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785255926000
-    },
-    {
-      "title": "Statsministerparets vän lämnar styrelseposten",
-      "description": "Statsministerparets vän Göran Thorstensson avgår som styrelseledamot för Europaskolan. Avhoppet kommer kort efter att Fållöknastiftelsen, som Thorstensson driver tillsammans med Birgitta Ed, granskats i medier.",
-      "link": "https://www.expressen.se/nyheter/sverige/statsministerparets-van-lamnar-styrelseposten/",
-      "guid": "https://www.expressen.se/nyheter/sverige/statsministerparets-van-lamnar-styrelseposten/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785255759000
-    },
-    {
       "title": "Färre har hyrt Borgå stads båtplatser i år",
       "description": "Gammelbacka hamn har dalat i popularitet, medan Hammars hamn nu är fullt uthyrd.",
       "link": "https://yle.fi/a/7-10102749?origin=rss",
@@ -472,16 +642,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785255381000
-    },
-    {
-      "title": "120 anställda fick gå – nu tar AI över",
-      "description": "Det norska teknikföretaget Gelato blev en enhörning redan 2021. Nu säger man upp hälften av personalen för att satsa på AI. Gelato är det norska teknikföretaget, grundat 2007 av vd Henrik Müller-Hansen. Gelato har byggt upp ett globalt nätverk av tryck- och produktionstjänster utan att själva äga en enda fysisk anläggning. Redan 2021 uppnådde man […]",
-      "link": "https://www.dagensps.se/bors-finans/120-anstallda-fick-ga-nu-tar-ai-over/",
-      "guid": "https://www.dagensps.se/?p=1659626",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlnyozr-ve7h4-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785255034000
     },
     {
       "title": "Nästa månads PlayStation Plus-spel",
@@ -502,16 +662,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785254642000
-    },
-    {
-      "title": "Inte bara arv – fler miljardärer tjänar ihop sina egna förmögenheter",
-      "description": "För några år sedan hade nästan hälften av alla miljardärer fått sina förmögenheter i arv. Men det håller nu på att förändras. En allt större del av världens miljardärsförmögenheter har skapats genom entreprenörskap snarare än arv eller verksamheter med starka kopplingar till politisk makt. Det visar en analys från The Economist. Den bygger på data […]",
-      "link": "https://www.dagensps.se/bors-finans/inte-bara-arv-fler-miljardarer-tjanar-ihop-sina-egna-formogenheter/",
-      "guid": "https://www.dagensps.se/?p=1659630",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl8qn-faffcb0-normalhires1.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785254448000
     },
     {
       "title": "Annorlunda stödhjul ska lära barn cykla",
@@ -544,16 +694,6 @@
       "timestamp": 1785254380000
     },
     {
-      "title": "Man knivrånad i Eslöv",
-      "description": "Man attackerad av två gärningspersoner",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=49920408-5db3-4868-af21-b94ec55094ea",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=49920408-5db3-4868-af21-b94ec55094ea",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785253593000
-    },
-    {
       "title": "Anrika musikaffären F-Musiikki ansöker om företagssanering",
       "description": "Företaget har satsat mycket på näthandel sedan nya ägare tog över verksamheten i slutet av 2024.",
       "link": "https://yle.fi/a/7-10102781?origin=rss",
@@ -572,16 +712,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785252600000
-    },
-    {
-      "title": "Betaljätten varslar om stora uppsägningar – på grund av AI",
-      "description": "Många bolag väljer nu att minska sina personalstyrkor rejält i takt med att fler uppgifter automatiseras. Visa är det senaste i raden. Betalningsjätten Visa planerar att säga upp omkring 2 600 medarbetare. Det motsvarar cirka sju procent av den globala arbetsstyrkan. Neddragningarna berör främst verksamheterna inom teknik och produktutveckling och är en del av bolagets […]",
-      "link": "https://www.dagensps.se/bors-finans/kortjatten-varslar-om-stora-uppsagningar-pa-grund-av-ai/",
-      "guid": "https://www.dagensps.se/?p=1659654",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlbxn9nm0jyy0-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785251520000
     },
     {
       "title": "Göteborg satsade 700 000 kronor på influerare",
@@ -642,16 +772,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785250200000
-    },
-    {
-      "title": "Nvidia-anställd gripen för chip-smuggling i Taiwan",
-      "description": "Taiwanesiska åklagare har häktat en Nvidia-anställd misstänkt för att ha förfalskat dokument för att smuggla AI-servrar till Kina. Det är första gången en Nvidia-medarbetare kopplas direkt till en sådan utredning, som nu omfattar sju personer i minst fyra länder. En Nvidia-anställd har häktats av taiwanesiska åklagare efter att utredare genomsökt både hans bostad och hans […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/nvidia-anstalld-gripen-for-chipsmuggling-i-taiwan/",
-      "guid": "https://www.dagensps.se/?p=1659604",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/nvidia-jensen-huang.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785250109000
     },
     {
       "title": "Audi smygvisar nya bjässen Q9",
@@ -744,16 +864,6 @@
       "timestamp": 1785246599000
     },
     {
-      "title": "Krock på riksväg 25 i Virkby – trafiken löper igen",
-      "description": "Två personbilar har krockat på riksväg 25 i Virkby.",
-      "link": "https://yle.fi/a/7-10102780?origin=rss",
-      "guid": "https://yle.fi/a/7-10102780",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785246228000
-    },
-    {
       "title": "Snart dags för mer Ted Lasso",
       "description": "Fjärde säsongen drar igång nästa vecka Nästa vecka kickar den senaste säsongen av Apple TV:s fotbollskomedi Ted Lasso igång och här kommer en mysig trailer inför det. I seriens fjärde säsong återvänder Ted Lasso (Jason Sudeikis) till Richmond för att träna ett damlag i brittiska andraligan. Det blir med andra ord lite andra förutsättningar än de han har haft i seriens tidigare säsonger. Bland skådespelare som varit med tidigare i serien som återkommer i den nya säsongen finns Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt och Jeremy Swift. Det första avsnittet i den fjärde säsongen av Ted Lasso börjar visas på Apple TV den 5 augusti. Därefter följer ett avsnitt i veckan fram till säsongsfinalen den 7 oktober. Ni hittar den nya trailern för serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/snart-dags-for-mer-ted-lasso/494508/ L&auml;s mer om Ted Lasso , Jason Sudeikis , Hannah Waddingham , Richmond , Fotboll",
       "link": "https://feber.se/film/snart-dags-for-mer-ted-lasso/494508/?utm_source=rss&utm_medium=feed",
@@ -774,16 +884,6 @@
       "timestamp": 1785245400000
     },
     {
-      "title": "Regelorganet Ifab ger Schweiz rätt i VM-skandalen: Breel Embolos utvisning var en grov domartabbe",
-      "description": "Schweizaren Breel Embolo blev utvisad i VM-kvartsfinalen mot Argentina efter en VAR-granskning. Nu slår fotbollens regelorgan fast att han aldrig skulle fått sitt andra gula kort.",
-      "link": "https://yle.fi/a/7-10102776?origin=rss",
-      "guid": "https://yle.fi/a/7-10102776",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785245334000
-    },
-    {
       "title": "Apple lanserar Upgrade",
       "description": "Leasingprogram för Apple-produkter Förra veckan ryktades det om att Apple skulle dra igång ett leasingprogram för sina produkter, något som visade sig stämma då Apple idag presenterade något som man kallar \"Apple Upgrade\". Med Apple Upgrade blir det möjligt att leasa iPhones, iPads, Apple Watch och Mac-datorer med en månatlig avbetalningsplan. Apple Watch och iPhone går att leasa på 12 eller 24 månader medan iPad och Mac-datorer har en leasingperiod på 24 eller 36 månader. Precis som när man leasar till exempel bilar kan Apple Upgrade-kunderna välja att betala av hela produkten, byta ut produkten till en senare modell under leasingperioden och behålla produkten när leasingperioden är slut. Apple Upgrade genomförs i samarbete med Klarna och potentiella kunder behöver genomgå en kreditupplysning innan de kan leasa produkten genom Apple Upgrade. Leasingprogrammet rullar ut idag på den amerikanska marknaden. I samband med det kommer Apple även att lägga ner de tidigare avbetalningsprogrammen iPhone Upgrade Program och iPhone Payments i USA. Här nedanför syns några exempel på månadspriser för iPhone med Apple Upgrade. L&auml;s vidare och kommentera: https://feber.se/mac/apple-lanserar-upgrade/494505/ L&auml;s mer om Apple , Apple Upgrade , Klarna , iPhone , iPad , Apple Watch , leasing",
       "link": "https://feber.se/mac/apple-lanserar-upgrade/494505/?utm_source=rss&utm_medium=feed",
@@ -792,16 +892,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785244500000
-    },
-    {
-      "title": "Flera döda efter kraftig jordbävning i södra Japan – köpcentrum rasade efter explosion",
-      "description": "Ön Kyushu i södra Japan har drabbats av en kraftig jordbävning. Flera dödsfall har bekräftats vid ett köpcentrum i staden Kashima. Över femtio personer har skadats.",
-      "link": "https://yle.fi/a/7-10102767?origin=rss",
-      "guid": "https://yle.fi/a/7-10102767",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785243775000
     },
     {
       "title": "Man sökte vård för benbrott – fick fel ben gipsat",
@@ -822,16 +912,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785243600000
-    },
-    {
-      "title": "Är du helt ute och cyklar i Helsingfors? Ny karta ska hjälpa dig",
-      "description": "Helsingfors vägnätverk är i ständig utveckling. Nu har staden kommit ut med en ny cykelkarta.",
-      "link": "https://yle.fi/a/7-10102705?origin=rss",
-      "guid": "https://yle.fi/a/7-10102705",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785243592000
     },
     {
       "title": "SMHI meddelar \"extremt stor\" risk för skogsbränder",
@@ -862,16 +942,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785241800000
-    },
-    {
-      "title": "Del av Sturegatan i Helsingfors var avstängd på grund av vattenskada",
-      "description": "Räddningsverket tvingades stänga av Sturegatan i båda körriktningarna vid Backasgatan i Helsingfors.",
-      "link": "https://yle.fi/a/7-10102769?origin=rss",
-      "guid": "https://yle.fi/a/7-10102769",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785240116000
     },
     {
       "title": "Det började som ett vågat experiment – nu har två människoliknande robotar utfört en historisk bedrift",
@@ -912,16 +982,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785239284000
-    },
-    {
-      "title": "Vindkraftsprojekt i Kristinestad kan inte få tillstånd utan tilläggsutredningar – havsörn i fara",
-      "description": "Särskilt fågelbeståndet riskerar att drabbas hårt om vindkraftsprojektet Västervik II blir verklighet. Bristerna i miljöutredningarna måste åtgärdas innan planerna kan få grönt ljus.",
-      "link": "https://yle.fi/a/7-10102764?origin=rss",
-      "guid": "https://yle.fi/a/7-10102764",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785238440000
     },
     {
       "title": "Samsung kan släppa ny version av Galaxy Z TriFold nästa år",
@@ -1004,16 +1064,6 @@
       "timestamp": 1785233722000
     },
     {
-      "title": "Zinedine Zidane presenterad som franska herrlandslagets förbundskapten",
-      "description": "Fotbollsvärldens sämst bevarade hemlighet har nu blivit officiell: Zinedine Zidane är ny fransk förbundskapten. 54-åringen har skrivit på ett fyraårskontrakt.",
-      "link": "https://yle.fi/a/7-10102758?origin=rss",
-      "guid": "https://yle.fi/a/7-10102758",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785233648000
-    },
-    {
       "title": "Eurovisionvinnaren till Allsång på Skansen i kväll",
       "description": "Eurovisionvinnaren DARA gästar Allsång på Skansen.",
       "link": "https://www.mitti.se/nyheter/eurovisionvinnaren-till-allsang-pa-skansen-i-kvall-6.3.377490.4ead81bc21",
@@ -1064,16 +1114,6 @@
       "timestamp": 1785231321000
     },
     {
-      "title": "Sveriges olympiska kommitté och friidrottsförbund svarar på kritiken i Nora Lindahls sommarprat: ”Håller inte med”",
-      "description": "Sveriges olympiska kommitté menar att man inte känner igen sig i kritiken Nora Lindahl riktar mot dem i Svenska Yles sommarprat.",
-      "link": "https://yle.fi/a/7-10102756?origin=rss",
-      "guid": "https://yle.fi/a/7-10102756",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785231168000
-    },
-    {
       "title": "Unga vuxna har mindre sex i dag",
       "description": "Mobilskärmen slår ut sovrummet Statistik visar att unga vuxna i dag har betydligt mindre sex än tidigare generationer. Denna minskade sexuella aktivitet bland unga är inte bara en nationell trend utan den sträcker sig världen över. En av de främsta orsakerna anses vara den digitala revolutionen. Genom mobilen kan unga få bekräftelse, underhållning samt sexuell stimulans via sociala medier, porr och numera även AI-tjänster. Mobilen ses också som en mer bekväm väg till stimulans som då eliminerar risken för att bli avvisad i det verkliga livet. För generation Z har även värderingarna skiftat. Psykisk hälsa, karriär och personlig utveckling sätts före ett ligg. Att vara singel ses inte längre som ett misslyckande, utan ofta som ett aktivt val för att hinna med träning, resor och vänner. Samtidigt har dejtingklimatet blivit hårdare; på sociala medier sprids en misstänksamhet mellan könen som man anser gör att många tvekar inför att ta första steget. När romantiken prioriteras ner tar andra relationer större plats då många unga i dag bygger starka sociala nätverk där vänner och familj fyller det tomrum som en partner tidigare förväntades fylla. Forskare varnar dock för konsekvenserna då unga går miste om viktiga livsläxor när de undviker dejting och relationer. Att hantera konflikter, kompromisser och sorg över ett brustit hjärta är erfarenheter som enligt forskare bygger emotionell mognad. L&auml;s vidare och kommentera: https://tjock.se/kroppen/unga-vuxna-har-mindre-sex-i-dag/494486/ L&auml;s mer om Generation Z , sociala medier , relationer , dejting , artificell intelligens , sexliv",
       "link": "https://tjock.se/kroppen/unga-vuxna-har-mindre-sex-i-dag/494486/?utm_source=rss&utm_medium=feed",
@@ -1104,16 +1144,6 @@
       "timestamp": 1785228697000
     },
     {
-      "title": "Trump träffar Zelenskyj och Netanyahu – här är deras önskelistor",
-      "description": "Ukraina behöver luftvärn, Netanyahu politisk uppbackning i Israel och klarhet om Iran.",
-      "link": "https://yle.fi/a/7-10102739?origin=rss",
-      "guid": "https://yle.fi/a/7-10102739",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785228014000
-    },
-    {
       "title": "Deirdre stötte på en säl vid Ekerö: \"Häftigt!\"",
       "description": "Det blir vanligare med säl i Mälaren när strömmingen minskar i Östersjön – Ekeröbon såg en säl utanför Gällstaö.",
       "link": "https://www.mitti.se/nyheter/deirdre-stotte-pa-en-sal-vid-ekero-haftigt-6.3.377379.36d34a417d",
@@ -1122,16 +1152,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785226545000
-    },
-    {
-      "title": "Jokerit rustar för comebacken till FM-ligan – förstärker med poängtjuven Teemu Turunen",
-      "description": "Nästa säsong är Jokerit tillbaka i FM-ligan för första gången på tolv år. Nu presenterar klubben tre meriterade nyförvärv.",
-      "link": "https://yle.fi/a/7-10102750?origin=rss",
-      "guid": "https://yle.fi/a/7-10102750",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785226512000
     },
     {
       "title": "Sam Altman ska visa upp nästa AI-generation för Vita huset",
