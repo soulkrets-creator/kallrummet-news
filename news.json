@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-29T18:55:20.124Z",
+  "updatedAt": "2026-07-29T21:47:12.100Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Utbredd vana kan ha överraskande konsekvens för din hjärna – nu ska forskare få oss att se åt ett nytt håll",
+      "description": "Vi kan ha fokuserat på fel sak åratal. Detta påpekar en grupp forskare som har analyserat siffror från knappt 2 000 personer i tjugo år",
+      "link": "https://illvet.se/halsa/utbredd-vana-kan-ha-overraskande-konsekvens-for-din-hjarna-nu-ska-forskare-fa-oss-att-se-at-ett-nytt-hall",
+      "guid": "https://illvet.se/halsa/utbredd-vana-kan-ha-overraskande-konsekvens-for-din-hjarna-nu-ska-forskare-fa-oss-att-se-at-ett-nytt-hall",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785362458000
+    },
+    {
+      "title": "Bonusprinsen lever lyxliv som häktad",
+      "description": "Marius Borg Høiby dömdes i juni till fängelse för flera sexualbrott. Bonusprinsen har överklagat domen och har sedan dess varit häktad. Häktningen verkställs på kronprinsparets residens – där han kan bada i swimmingpool och grilla, enligt Se og Hør .",
+      "link": "https://www.expressen.se/nyheter/kungligt/bonusprinsen-lever--lyxliv-som-haktad-/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/bonusprinsen-lever--lyxliv-som-haktad-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785361198000
+    },
+    {
+      "title": "Gangster hotar storstjärna – via Sverige",
+      "description": "Indiens största filmstjärna hotas till livet av en fruktad gangster – och hotet kan komma från Sverige. Polisen i Bombay utreder hot mot skådespelaren Aamir Khan som skickats från en svenskbaserad VPN. Avsändaren anklagar honom för att främja ”kärleks-jihad” och ”agera mot indisk kultur”.",
+      "link": "https://www.expressen.se/nyheter/varlden/gangster-hotar-storstjarna-via-sverige/",
+      "guid": "https://www.expressen.se/nyheter/varlden/gangster-hotar-storstjarna-via-sverige/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785360350000
+    },
+    {
+      "title": "Försvunnen man i Älvsbyn död",
+      "description": "Var anmäld försvunnen • Utreder brott",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=118fc3e1-6ee6-40b7-93e8-4c32db6ba61c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=118fc3e1-6ee6-40b7-93e8-4c32db6ba61c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785359578000
+    },
+    {
+      "title": "Trumps nya hot",
+      "description": "Efter attacken mot USA:s styrkor",
+      "link": "https://www.expressen.se/tv/nyheter/nya-hotet-fran-trump-var-tur-nu",
+      "guid": "https://www.expressen.se/tv/nyheter/nya-hotet-fran-trump-var-tur-nu",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785358749000
+    },
+    {
+      "title": "Rekordlågt stöd för Trumps krig",
+      "description": "Irankriget väcker missnöje i USA. Enligt en färsk undersökning har stödet för kriget nått en rekordlåg nivå. Men Trump står pall.",
+      "link": "https://www.expressen.se/nyheter/varlden/rekordlagt-stod-for-trumps-krig/",
+      "guid": "https://www.expressen.se/nyheter/varlden/rekordlagt-stod-for-trumps-krig/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785358700000
+    },
+    {
+      "title": "Zelenskyj varnar för massiva ryska attacker",
+      "description": "Vänder sig till USA",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a965d145-8c2d-4b8a-9a27-aab332ddbe91",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a965d145-8c2d-4b8a-9a27-aab332ddbe91",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785358410000
+    },
+    {
+      "title": "Trump varnar efter attackerna: ”Beat the f------ s---”",
+      "description": "Irans robotar mot amerikanska mål i Jordanien sköts ner av USA natten till onsdag. Nu lovar Donald Trump en kraftfull reaktion. – De kommer att få stryk, säger han till Fox News .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-varnar-efter-attackerna-beat-the-f-s-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-varnar-efter-attackerna-beat-the-f-s-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785358390000
+    },
+    {
+      "title": "Man skulle köpa sex – lurades av AI och rånades",
+      "description": "En man trodde att han skulle köpa sex. I stället rånades han av tre ungdomar. – Det fanns ingen anledning att använda våld, säger en av de misstänkta i förhör, skriver Örnsköldsviks Allehanda .",
+      "link": "https://www.expressen.se/nyheter/sverige/man-skulle-kopa-sex--lurades-av-ai-och-ranades/",
+      "guid": "https://www.expressen.se/nyheter/sverige/man-skulle-kopa-sex--lurades-av-ai-och-ranades/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785356359000
+    },
+    {
+      "title": "Orphan Barrel Night Sage 25 Year Canadian Whisky",
+      "description": "",
+      "link": "https://uncrate.com/orphan-barrel-night-sage-25-year-canadian-whisky/",
+      "guid": "https://uncrate.com/orphan-barrel-night-sage-25-year-canadian-whisky/",
+      "image": "https://uncrate.com/assets_c/2026/07/night-sage-2-thumb-960xauto-192388.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785355200000
+    },
+    {
+      "title": "Fed ger räntebesked",
+      "description": "Trotsar Trumps påtryckningar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785354021000
+    },
     {
       "title": "Prins Harry riskerar smäll på 240 miljoner",
       "description": "Prins Harry, Elton John och fem andra brittiska kändisar kan åka på en smäll på motsvarande nära 240 miljoner kronor. De förlorade sitt mål mot tidningen Daily Mail och måste nu betala rättegångskostnaderna. Tidningen vill ha 446 miljoner kronor, medan Harry och de andra har en försäkring som bara täcker 207 miljoner.",
@@ -11,7 +121,77 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785350123000
+      "timestamp": 1785353494000
+    },
+    {
+      "title": "Astronomer slår larm: Vi kommer snart att få se svarta hål explodera",
+      "description": "Svarta hål drar till sig allt, men de kan också göra tvärtom och explodera. Nu hävdar en grupp amerikanska forskare att vi förmodligen kommer att få se det hända inom de närmaste tio åren – och att en explosion kan hjälpa oss att lösa ett av universums största mysterier.",
+      "link": "https://illvet.se/universum/astronomer-slar-larm-vi-kommer-snart-att-fa-se-svarta-hal-explodera",
+      "guid": "https://illvet.se/universum/astronomer-slar-larm-vi-kommer-snart-att-fa-se-svarta-hal-explodera",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785353443000
+    },
+    {
+      "title": "Hatch Restore 3 Alarm Clock",
+      "description": "",
+      "link": "https://uncrate.com/hatch-restore-3-alarm-clock/",
+      "guid": "https://uncrate.com/hatch-restore-3-alarm-clock/",
+      "image": "https://uncrate.com/assets_c/2026/05/hatch-alarm-3-11-thumb-960xauto-191110.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785353371000
+    },
+    {
+      "title": "Sorg och förvirring efter båtolyckan: ”Fruktansvärt”",
+      "description": "Båtolyckan vid Tjörn har skakat om människor på Västkusten. En mamma och en dotter saknas fortfarande – över 20 timmar efter olyckan. – Det är fruktansvärt. Det hade ju kunnat hända vem som helst, säger Ida Larsson, 28, på Instön.",
+      "link": "https://www.expressen.se/nyheter/sverige/sorg-och-forvirring-efter-batolyckan-fruktansvart/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sorg-och-forvirring-efter-batolyckan-fruktansvart/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785352945000
+    },
+    {
+      "title": "HTV: Paulos inför Anderlecht - \"Skön känsla\"",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-paulos-infoer-anderlecht-skoen-kaensla",
+      "guid": "658428e1-a610-4cb3-ba6e-781eb403d7a9",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/a8ef71ea6700d59b2036700b263d12628f7efb92-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785352706000
+    },
+    {
+      "title": "Amerikanska centralbanken lämnade räntan orörd på oenigt möte",
+      "description": "USA:s president Donald Trump har länge försökt få centralbanken att sänka styrräntan. Det gjorde den inte nu heller.",
+      "link": "https://yle.fi/a/7-10102850?origin=rss",
+      "guid": "https://yle.fi/a/7-10102850",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785352636000
+    },
+    {
+      "title": "Skulle du vilja att krogen var öppet dygnet runt?",
+      "description": "Dagens partyfråga Tidigare idag skrev vi om ett förslag från några oppositionspartier i Stockholm som vill utreda frågan om att tillåta alkoholservering dygnet runt . Jag tänkte att vi därför kunde kolla hur ni läsare ställer er till förslaget. Svara gärna på vår enkät nedan. Vill ni snacka mer om serveringstillstånd och hur länge ni tycker krogar ska få servera alkohol står kommentarsfältet till ert förfogande. L&auml;s vidare och kommentera: https://feber.se/skulle-du-vilja-att-krogen-var-oppet-dygnet-runt/494555/ L&auml;s mer om Stockholm , alkoholservering , serveringstillstånd , nattliv , krogar , Oppositionspartier",
+      "link": "https://feber.se/skulle-du-vilja-att-krogen-var-oppet-dygnet-runt/494555/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/skulle-du-vilja-att-krogen-var-oppet-dygnet-runt/494555/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785351600000
+    },
+    {
+      "title": "UNWWORN L'Eaundry Fabric Fragrance",
+      "description": "",
+      "link": "https://uncrate.com/unwworn-leaundry-fabric-fragrance/",
+      "guid": "https://uncrate.com/unwworn-leaundry-fabric-fragrance/",
+      "image": "https://uncrate.com/assets_c/2026/07/unwworn-leaundry-fabric-fragrance-1-thumb-960xauto-192385.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785351600000
     },
     {
       "title": "Svenske Tim på Lesbos: ”Vi ser från balkongen”",
@@ -64,16 +244,6 @@
       "timestamp": 1785348643000
     },
     {
-      "title": "Fed ger räntebesked",
-      "description": "Trotsar Trumps påtryckningar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785348350000
-    },
-    {
       "title": "1Rollo är en robot som rullar fram på ett hjul",
       "description": "Tänkt att användas som robotväktare Det estländska robotföretaget Rollo Robotics har visat upp en robot som fått namnet \"1Rollo\" som primärt är tänkt som en patrullerande säkerhets- och övervakningsrobot. 1Rollo är tänkt att patrullera en förutbestämd rutt och är försedd med ett datorsynsystem som kan filma i 360 grader och upptäcka eventuella konstigheter i omgivningarna. Skulle roboten upptäcka något konstigt skickar den ett meddelande till en operatör eller en säkerhetscentral som då kan skicka en mänsklig väktare eller annan lämplig personal till platsen. Robotens kameror och andra sensorer används även för att roboten ska upptäcka och ta sig förbi hinder som kan finnas på rutten. Den har en topphastighet på 30 km/h och ska kunna rulla runt i cirka 8 timmar på en laddning. Rollo Robotics siktar på att lansera 1Rollo någon gång under 2027. Den kommer initialt att bli tillgänglig via ett abonnemang, men det finns inga uppgifter om vad priset kommer att landa på. Nedanför hittas ett längre videoklipp där Rollo Robotics medgrundare och VD Sander Sebastian Agur snackar lite mer om den rullande robotväktaren. L&auml;s vidare och kommentera: https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/ L&auml;s mer om Rollo Robotics , 1Rollo , Robotklot , Roboväktare , Övervakningsrobot , Kamerabevakning",
       "link": "https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/?utm_source=rss&utm_medium=feed",
@@ -81,6 +251,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785348000000
+    },
+    {
+      "title": "Good Dog: A Selection of Portraits by Randal Ford",
+      "description": "",
+      "link": "https://uncrate.com/good-dog-a-selection-of-portraits-by-randal-ford/",
+      "guid": "https://uncrate.com/good-dog-a-selection-of-portraits-by-randal-ford/",
+      "image": "https://uncrate.com/assets_c/2026/07/good-dog-1-darkened-thumb-960xauto-192384.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785348000000
     },
     {
@@ -235,7 +415,7 @@
     },
     {
       "title": "Nytt grafikkort släppt med endast 4 GB",
-      "description": "Komponentbristen tvingar fram ett modernt grafikkort med begränsat minne För första gången på flera år lanseras nu ett modernt grafikkort med endast 4 GB. Detta är så klart på grund av den globala bristen på komponenter och skenande priser på RAM-minne som nu har skapat denna nya marknad. Kortet är ASRocks nya variant av AMD Radeon RX 9050 som har en minnesbuss på 64 bitar och 16 beräkningsenheter. Det gör ju att den kanske inte riktigt klarar av de tyngsta grejerna, även i 1080p, men om man är villig att kompromissa för att få någon form av modernare arkitektur så kan ju detta vara något. Det lär dock bli rätt omodernt snabbt, så det är väl främst för den som är desperat och inte kräver allt för krävande spel. Något officiellt pris har inte getts ännu men kortet har synts i färdigbyggda budgetdatorer hos internationella återförsäljare, med prislappar på knappt 900 dollar. L&auml;s vidare och kommentera: https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/ L&auml;s mer om ASRock , AMD Radeon RX 9050 , grafikkort , RAM-minne , budgetdatorer , komponentbrist",
+      "description": "Komponentbristen tvingar fram grafikkort med begränsat minne För första gången på flera år lanseras nu ett modernt grafikkort med endast 4 GB. Detta är så klart på grund av den globala bristen på komponenter och skenande priser på RAM-minne som nu har skapat denna nya marknad. Kortet är ASRocks nya variant av AMD Radeon RX 9050 som har en minnesbuss på 64 bitar och 16 beräkningsenheter. Det gör ju att den kanske inte riktigt klarar av de tyngsta grejerna, även i 1080p, men om man är villig att kompromissa för att få någon form av modernare arkitektur så kan ju detta vara något. Det lär dock bli rätt omodernt snabbt, så det är väl främst för den som är desperat och inte kräver allt för krävande spel. Något officiellt pris har inte getts ännu men kortet har synts i färdigbyggda budgetdatorer hos internationella återförsäljare, med prislappar på knappt 900 dollar. L&auml;s vidare och kommentera: https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/ L&auml;s mer om ASRock , AMD Radeon RX 9050 , grafikkort , RAM-minne , budgetdatorer , komponentbrist",
       "link": "https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -382,16 +562,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785337084000
-    },
-    {
-      "title": "Buss körde in i träd i Lund – chauffören gripen",
-      "description": "En stadsbuss med passagerare ombord har kraschat mot ett träd – mitt i Lund. Nio personer är skadade, enligt polisen. Busschauffören har gripits och är misstänkt för brott.",
-      "link": "https://www.expressen.se/nyheter/sverige/buss-korde-in-i-trad-i-lund-flera-skadade/",
-      "guid": "https://www.expressen.se/nyheter/sverige/buss-korde-in-i-trad-i-lund-flera-skadade/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785336666000
     },
     {
       "title": "Adam ger inte upp söket efter mamma och dotter",
@@ -655,7 +825,7 @@
     },
     {
       "title": "Franska och spanska viner kan bli dyrare",
-      "description": "På grund av bränderna i landet De som gillar att dricka franska och spanska viner kan framöver få betala lite mer för dessa på grund av bränderna som rasar i de båda länderna. Bränderna har lett till att skörden av druvor bland annat förstörts i vindistriktet Pyrénées-Orientales, Bordeaux i Frankrike, samt på vinodlingar i spanska Andalusien och Rioja. Elisabeth Due, vd för branschorganisationen Sprit- och vinleverantörsföreningen, säger till TT: – Skördar av druvor förstörs, antingen i bränder eller av brandrök som lägger sig på vinrankor, påverkar kvaliteten på druvmusten negativt och kan göra druvorna oanvändbara. Enligt Elisabeth Due kan man förvänta sig en prishöjning på omkring 15 procent för vin från de områden som drabbats av bränderna. L&auml;s vidare och kommentera: https://feber.se/samhalle/franska-och-spanska-viner-kan-bli-dyrare/494536/ L&auml;s mer om Vin , Frankrike , Spanien , Skogsbrand , Bordeaux , Rioja , Elisabeth Due",
+      "description": "På grund av bränderna De som gillar att dricka franska och spanska viner kan framöver få betala lite mer för dessa på grund av bränderna som rasar i de båda länderna. Bränderna har lett till att skörden av druvor bland annat förstörts i vindistriktet Pyrénées-Orientales, Bordeaux i Frankrike, samt på vinodlingar i spanska Andalusien och Rioja. Elisabeth Due, vd för branschorganisationen Sprit- och vinleverantörsföreningen, säger till TT: – Skördar av druvor förstörs, antingen i bränder eller av brandrök som lägger sig på vinrankor, påverkar kvaliteten på druvmusten negativt och kan göra druvorna oanvändbara. Enligt Elisabeth Due kan man förvänta sig en prishöjning på omkring 15 procent för vin från de områden som drabbats av bränderna. L&auml;s vidare och kommentera: https://feber.se/samhalle/franska-och-spanska-viner-kan-bli-dyrare/494536/ L&auml;s mer om Vin , Frankrike , Spanien , Skogsbrand , Bordeaux , Rioja , Elisabeth Due",
       "link": "https://feber.se/samhalle/franska-och-spanska-viner-kan-bli-dyrare/494536/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/samhalle/franska-och-spanska-viner-kan-bli-dyrare/494536/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -722,16 +892,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785326756000
-    },
-    {
-      "title": "24 timmar kvar – sen kommer åska och värme",
-      "description": "Temperaturerna har legat lågt de senaste dagarna. Men om 24 timmar svänger det. Då drar värme och åska in – samtidigt som SMHI regnvarnar i norr.",
-      "link": "https://www.expressen.se/nyheter/vader/24-timmar-kvar-sen-kommer-aska-och-varme/",
-      "guid": "https://www.expressen.se/nyheter/vader/24-timmar-kvar-sen-kommer-aska-och-varme/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785326670000
     },
     {
       "title": "Misstänkt skogsbluff kopplad till Finland utreds nu i Belgien – ledare gripen i Colombia",
@@ -804,16 +964,6 @@
       "timestamp": 1785325158000
     },
     {
-      "title": "Mystisk elefantdöd i Kenya kan bero på förgiftning",
-      "description": "Femton elefanter har dött under kort tid. Myndigheterna misstänker att de kan ha förgiftats.",
-      "link": "https://yle.fi/a/7-10102812?origin=rss",
-      "guid": "https://yle.fi/a/7-10102812",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785325058000
-    },
-    {
       "title": "FIFA lockar med jättebonusar för att sälja VM",
       "description": "Länder erbjuds miljoner för att rösta ja till privatiseringsförslaget FIFA:s kontroversiella förslag om att sälja delar av sina turneringar till privata investerare har stött på lite motstånd från flera medlemsländer men det kan komma att ändras då de som röstar ja till förslaget kan få en bonus på omkring 388 miljoner kronor vardera. Om förslaget går igenom får de länder som röstade nej bara hälften så mycket pengar som de som röstade ja. Det här kan man väl se rätt mycket som en ren muta för att köpa sig till ett godkännande men det är väl mer eller mindre godkänt numera eftersom ingen skulle väl bli allt för förvånad om förslaget blir verklighet. FIFA-presidenten Giancarlo Infantino menar att privatiseringen är nödvändig för att lyfta den totala potten till medlemsförbunden från dagens 2,7 miljarder dollar till cirka 10 miljarder dollar. I ett brev till de 211 medlemsländerna betonar han att valet ligger hos dem, men gör det samtidigt tydligt att ett nej innebär att man får hålla till godo med de betydligt lägre summorna i det nuvarande systemet. De nationella förbunden har nu fram till den 19 september på sig att ta ställning. För att planen ska bli verklighet krävs att minst hälften av medlemsländerna röstar för förslaget. L&auml;s vidare och kommentera: https://feber.se/samhalle/fifa-lockar-med-jattebonusar-for-att-salja-vm/494545/ L&auml;s mer om Fifa , Gianni Infantino , The Times , TV4 Fotbollskanalen",
       "link": "https://feber.se/samhalle/fifa-lockar-med-jattebonusar-for-att-salja-vm/494545/?utm_source=rss&utm_medium=feed",
@@ -832,16 +982,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785322800000
-    },
-    {
-      "title": "Svensk polis dog efter misshandel – man omhäktas",
-      "description": "En svensk man dog efter en misshandel i samband med ett VM-evenemang i Köpenhamn. Nu omhäktas den misstänkte.",
-      "link": "https://www.expressen.se/nyheter/sverige/svensk-polis-dog-efter-misshandel-man-omhaktas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/svensk-polis-dog-efter-misshandel-man-omhaktas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785322482000
     },
     {
       "title": "Systrarna från Stockholm knep SM-guld i bridge",
@@ -874,36 +1014,6 @@
       "timestamp": 1785321000000
     },
     {
-      "title": "De hamnade mitt i räddningsinsatsen: ”Obehagligt”",
-      "description": "Clas Darvik, 74, och Lisa Wiklund, 41, hamnade mitt i räddningsinsatsen efter Tjörn-olyckan. Drönare, polisbåtar och kraftiga stråkastare intog bryggan på deras ö. – Det var fullt pådrag, säger Lisa.",
-      "link": "https://www.expressen.se/nyheter/sverige/de-hamnade-mitt-i-raddningsinsatsen-obehagligt/",
-      "guid": "https://www.expressen.se/nyheter/sverige/de-hamnade-mitt-i-raddningsinsatsen-obehagligt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785320385000
-    },
-    {
-      "title": "SMHI varnar för skyfallsliknande regn",
-      "description": "SMHI utfärdar gul varning",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=84fb14c0-a723-4628-929d-89f999fb0aef",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=84fb14c0-a723-4628-929d-89f999fb0aef",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785320328000
-    },
-    {
-      "title": "Buss med passagerare krockade med träd",
-      "description": "Buss har krockat med träd – passagerare ombord",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=633986b8-20af-4a82-813f-9da5366c1238",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=633986b8-20af-4a82-813f-9da5366c1238",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785320300000
-    },
-    {
       "title": "Botnätet Dysphoria omfattar nu 200 000 enheter",
       "description": "Forskare från det kinesiska säkerhetsföretaget Xlab varnar för Dysphoria, ett botnät som nu omfattar 200 000 enheter runt om i världen. Dysphoria utnyttjar i första hand sårbarheter i routrar och webbkameror, men i princip är alla uppkopplade enheter i farozonen. Botnätet upptäcktes den 25 mars och har sedan dess genomgått flera förändringar som gjort det svårare att bekämpa, till exempel har blockkedjeteknik implementerats. I dagsläget kan Dysphoria användas för att utföra ddos-attacker på uppemot 4 terabit per sekund, rapporterar Bleeping Computer .",
       "link": "https://computersweden.se/article/4202763/botnatet-dysphoria-omfattar-nu-200-000-enheter.html",
@@ -922,16 +1032,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785320104000
-    },
-    {
-      "title": "Läkaren larmar: Skjutsa inte barnet på pakethållaren",
-      "description": "Att skjutsa barnet på pakethållaren kan sluta i en riktig sommarmardröm. Nu varnar läkare om de så kallade ”cykelfötterna”. – I värsta fall kan det behövas plastikkirurgi, hudtransplantation eller liknande för att få såret att läka, säger överläkaren Eeva Koskimies-Virta.",
-      "link": "https://www.expressen.se/nyheter/sverige/lakaren-larmar-skjutsa-inte--barnet-pa-pakethallaren/",
-      "guid": "https://www.expressen.se/nyheter/sverige/lakaren-larmar-skjutsa-inte--barnet-pa-pakethallaren/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785319573000
     },
     {
       "title": "Zinedine Zidane ny tränare för franska landslaget",
@@ -954,16 +1054,6 @@
       "timestamp": 1785318555000
     },
     {
-      "title": "Italien ber om ursäkt",
-      "description": "Efter tågincident i Thailand • ”Din mamma...”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/italien-ber-om-ursakt-for-stokiga-tonaringar-/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/italien-ber-om-ursakt-for-stokiga-tonaringar-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785317673000
-    },
-    {
       "title": "Nytt förslag om fartygsavgifter i Hormuzsundet",
       "description": "Oman föreslår frivilliga avgifter från förbipasserande fartyg Oman har presenterat ett förslag om att införa frivilliga avgifter för sjöfarten i Hormuzsundet, ett initiativ som nu får stöd från flera grannländer i Gulfregionen. Tanken är att Iran ska kunna ta emot bidrag från passerande fartyg för att finansiera säkerhet, miljöskydd och räddningstjänst. Modellen hämtar inspiration från Malackasundet, där liknande system redan används av Indonesien, Malaysia och Singapore. Förslaget innebär inte att Iran får total kontroll över det strategiskt viktiga sundet, utan snarare att hanteringen av sundet sker i samarbete med Oman. USA har tidigare motsatt sig alla former av tvingande avgifter med hänvisning till att obligatoriska avgifter skulle strida mot internationell rätt då de vill se fritt genomlopp på internationellt vatten. Den frivilliga aspekten i Omans förslag ses därför som en möjlig diplomatisk medelväg. Dock befarar den amerikanska sidan att avgifterna i förlängningen kan bli obligatoriska vilket de inte är helt nöjda med. Samtalen fortsätter nu mellan regionens utrikesministrar för att se om Omans modell kan leda till någon form av varaktig stabilitet i området. L&auml;s vidare och kommentera: https://feber.se/samhalle/nytt-forslag-om-fartygsavgifter-i-hormuzsundet/494531/ L&auml;s mer om Oman , Hormuzsundet , Iran , sjöfart , Malackasundet , USA",
       "link": "https://feber.se/samhalle/nytt-forslag-om-fartygsavgifter-i-hormuzsundet/494531/?utm_source=rss&utm_medium=feed",
@@ -972,16 +1062,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785317400000
-    },
-    {
-      "title": "34-åring döms för spioneriförsök",
-      "description": "Den 34-årige mannen försökte röja hemliga uppgifter till den ryska säkerhetstjänsten. Nu döms han till rättspsykiatrisk vård.",
-      "link": "https://www.expressen.se/nyheter/sverige/34-aring-atalad-for-spioneriforsok-nu-faller-domen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/34-aring-atalad-for-spioneriforsok-nu-faller-domen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785315682000
     },
     {
       "title": "Ryssland efterlyser Telegram-grundare",
@@ -1072,16 +1152,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785308400000
-    },
-    {
-      "title": "Nu har Audi presenterat sin nya Q9",
-      "description": "Monstersuven med monstergrillen Audi har släppt sin första fullstora SUV, och de är förstås väldigt nöjda över detta. Jag tror att det har smärtat dem lite att BMW och Mercedes har haft sina bjässar tidigare. Det är den största suven någonsin från märket och det är första gången man går upp till 9 i modellbeteckningen. Audi själva säger att modellen kombinerar rymd i kupén med dynamik på vägen och tekniska innovationer. Prislappen börjar på 1.119.000 kronor för den stora dieselversionen. Bilen är hela 531 cm lång, 221 cm bred (aj att parkera det...), 181 cm hög och har en hjulbas på 314 cm. Två stilar går att få på bilen, advanced är standard och S line finns som tillval. Fälgarna går att få upp till 23 tum. Två motorer kommer till en början i Europa. Standard är en 3-liters V6-diesel som levererar 299 hästar och 630 Nm. På vissa marknader (inte Sverige) kommer även en svagare version som ger 245 hästar. Båda är mildhybrider där en kombinerad elmotor och generator ger 24 hästar till. Motorerna har även eldrivna kompressorer. Motorn är kopplad till en 8-stegad tiptronic och fyrhjulsdriften är permanent. På insidan är det som sagt rymligt och det verkar gott om plats på de tre raderna. En trevlig sak är att sätena på andra raden är elektriskt justerbara. Annars är det glädjande fritt från pianolack! L&auml;s vidare och kommentera: https://feber.se/bil/nu-har-audi-presenterat-sin-nya-q9/494526/ L&auml;s mer om Q9 , V6-diesel , Tiptronic",
-      "link": "https://feber.se/bil/nu-har-audi-presenterat-sin-nya-q9/494526/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nu-har-audi-presenterat-sin-nya-q9/494526/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785306600000
     },
     {
       "title": "Open AI:s skenande AI-agent komprometterade kund hos molnplattform",
@@ -1294,26 +1364,6 @@
       "timestamp": 1785261420000
     },
     {
-      "title": "Centerline Athletics Cross-Sport Collection",
-      "description": "",
-      "link": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
-      "guid": "https://uncrate.com/centerline-athletics-cross-sport-collection/",
-      "image": "https://uncrate.com/assets_c/2026/07/centerline-1-thumb-960xauto-192338.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785259803000
-    },
-    {
-      "title": "Lamborghini Huracán Kids' Ride-On",
-      "description": "",
-      "link": "https://uncrate.com/lamborghini-huracan-kids-ride-on/",
-      "guid": "https://uncrate.com/lamborghini-huracan-kids-ride-on/",
-      "image": "https://uncrate.com/assets_c/2026/07/lamborghini-huracan-kids-ride-on-11-darkened-thumb-960xauto-192362.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785258000000
-    },
-    {
       "title": "HTV: Henrik inför Anderlecht - \"Som Nanne brukade säga...\"",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-henrik-infoer-anderlecht-som-nanne-brukade-saega",
@@ -1324,16 +1374,6 @@
       "timestamp": 1785254642000
     },
     {
-      "title": "Lamborghini Sián FKP 37 Hypercar",
-      "description": "",
-      "link": "https://uncrate.com/lamborghini-sian-fkp-37-hypercar/",
-      "guid": "https://uncrate.com/lamborghini-sian-fkp-37-hypercar/",
-      "image": "https://uncrate.com/assets_c/2026/07/lamborghini-sian-fkp-37-hypercar-1-thumb-960xauto-192361.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785254400000
-    },
-    {
       "title": "Efter mordet i Hässelby: \"Man kan nästan ta på sorgen\"",
       "description": "Bostadsområdet i Hässelby villastad skakas av skjutningen 24 juli då en man sköts till döds i ett bostadsområde i Smedshagen.",
       "link": "https://www.mitti.se/nyheter/efter-mordet-i-hasselby-man-kan-nastan-ta-pa-sorgen-6.3.377600.74819b3443",
@@ -1342,16 +1382,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785251294000
-    },
-    {
-      "title": "The Lamborghini Book",
-      "description": "",
-      "link": "https://uncrate.com/the-lamborghini-book/",
-      "guid": "https://uncrate.com/the-lamborghini-book/",
-      "image": "https://uncrate.com/assets_c/2026/07/the-lamborghini-book-22-darkened-thumb-960xauto-192358.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785250800000
     },
     {
       "title": "Påfågel har rymt från Skansen – här är den nu",
@@ -1964,16 +1994,6 @@
       "timestamp": 1785142965000
     },
     {
-      "title": "Därför fattar elbilar eld",
-      "description": "Vi hör ofta att batterierna i elbilar kan fatta eld. Läs vetenskapens bedömning av hur stor risken är.",
-      "link": "https://illvet.se/teknik/fattar-elbilar-oftare-eld",
-      "guid": "https://illvet.se/teknik/fattar-elbilar-oftare-eld",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785142802000
-    },
-    {
       "title": "Why the same DNA damage causes cancer in some people but not others",
       "description": "A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cancer risk and tailor screening and treatments to each patient.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
@@ -2072,16 +2092,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785128452000
-    },
-    {
-      "title": "Vanlig ingrediens riskerar eventuellt att försämra tarmfloran, enligt ny Cambridgestudie",
-      "description": "De marknadsförs som det hälsosammare valet, men en omfattande analys av 39 varianter ger en annan bild.",
-      "link": "https://illvet.se/halsa/cambridgeforskare-efter-ny-upptackt-vanlig-ingrediens-riskerar-eventuellt-att-forsamra-tarmfloran",
-      "guid": "https://illvet.se/halsa/cambridgeforskare-efter-ny-upptackt-vanlig-ingrediens-riskerar-eventuellt-att-forsamra-tarmfloran",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785128419000
     },
     {
       "title": "Monday.com säger upp personal – skyller dels på AI",
@@ -2302,16 +2312,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785049494000
-    },
-    {
-      "title": "Matchdag: Avspark 14.00 på Grimsta IP",
-      "description": "I eftermiddag fortsätter Allsvenskan när Bajen ställs mot BP på bortaplan. Avspark sker 14.00 på Grimsta IP och här hittar du samlad information inför dagen. Allsvenskan: Omgång 14Motståndare: IF Bro",
-      "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-avspark-14-00-pa-grimsta-ip",
-      "guid": "a0155ff4-a339-4c64-b935-615cb9afbd83",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/cdae8e0a155128538b1bb8be4ffbe8174b0ac51d-1333x889.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785045600000
     },
     {
       "title": "Thaibasilikawok med umamifärs och risnudlar",
