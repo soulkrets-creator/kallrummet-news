@@ -1,8 +1,78 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-28T21:55:00.249Z",
+  "updatedAt": "2026-07-29T01:28:31.311Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Han inspirerades av tv-mördaren",
+      "description": "På fem månader mördare James Desborough tre personer. Efteråt styckade och brände han två av deras kroppar. Han uppges vara en stor beundrare av tv-serien om seriemördaren ”Dexter”.",
+      "link": "https://www.expressen.se/nyheter/varlden/han-inspirerades-av-tv-mordaren/",
+      "guid": "https://www.expressen.se/nyheter/varlden/han-inspirerades-av-tv-mordaren/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785282615000
+    },
+    {
+      "title": "Iran uppmanar ”frihetskämpar” att mörda Melania",
+      "description": "Iran vill döda både USA:s president och hans första dam. Klipp som sprids i landet ger detaljerad information om Melania Trumps rörelsemönster – och uppmanar allmänheten att agera. – Säkerhetstjänsten känner till videon, uppger Secret Service för Newsweek .",
+      "link": "https://www.expressen.se/nyheter/varlden/iran-uppmanar-frihetskampar-att-morda-melania/",
+      "guid": "https://www.expressen.se/nyheter/varlden/iran-uppmanar-frihetskampar-att-morda-melania/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785282192000
+    },
+    {
+      "title": "Flygstopp i hela USA",
+      "description": "Bolaget drabbat • IT-avbrott",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7dd26ae1-46cb-4763-bc87-ec8fcab95220",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7dd26ae1-46cb-4763-bc87-ec8fcab95220",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785281751000
+    },
+    {
+      "title": "Hoback River Homestead Wyoming Ranch",
+      "description": "",
+      "link": "https://uncrate.com/hoback-river-homestead-wyoming-ranch/",
+      "guid": "https://uncrate.com/hoback-river-homestead-wyoming-ranch/",
+      "image": "https://uncrate.com/assets_c/2026/07/hoback-river-wyoming-homestead-4-thumb-960xauto-192371.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785279600000
+    },
+    {
+      "title": "En träslev kan lösa ett vanligt köksproblem",
+      "description": "Har du också vänt sportflaskan eller glaskaraffen upp och ner – bara för att upptäcka att den fortfarande är blöt flera timmar senare? Då finns ett enkelt kökstrick som just nu sprids i sociala medier. Allt du behöver är en vanlig träslev. Därför blir flaskan aldrig riktigt torr Återanvändbara vattenflaskor, karaffer och kolsyreflaskor behöver rengöras […]",
+      "link": "https://www.dagensps.se/weekend/mat-vin/geniala-kokstricket-darfor-ska-du-stoppa-en-traslev-i-flaskan/",
+      "guid": "https://www.dagensps.se/?p=1658404",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/05/ett-stort-antal-flyg-har-stallts-in-pa-g.jpg?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785277860000
+    },
+    {
+      "title": "Samsung skrotar central app – miljontals användare måste byta",
+      "description": "Har du en Samsung-mobil? Då kan det vara dags att se över vilken app du använder för sms. Samsung pensionerar nu sin egen meddelandeapp och satsar i stället fullt ut på Googles lösning. Google tar över I många år har Samsungs Galaxy-mobiler levererats med företagets egen sms-app. Men den eran är snart över, skriver danska […]",
+      "link": "https://www.dagensps.se/teknik/mobil/samsung-skrotar-sin-egen-sms-app-miljontals-anvandare-kan-behova-byta/",
+      "guid": "https://www.dagensps.se/?p=1658393",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/06/2-1013.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785276660000
+    },
+    {
+      "title": "Lamborghini Islero Coupe",
+      "description": "",
+      "link": "https://uncrate.com/lamborghini-islero-coupe/",
+      "guid": "https://uncrate.com/lamborghini-islero-coupe/",
+      "image": "https://uncrate.com/assets_c/2026/07/lamborghini-islero-coupe-1-thumb-960xauto-192370.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785276000000
+    },
     {
       "title": "Man död i mc-olycka i Dalarna",
       "description": "Förbipasserande försökte rädda föraren",
@@ -15,7 +85,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Båt har krockat med handelsfartyg – två saknas",
-      "description": "En motorbåt har krockat med ett handelsfartyg utanför Tjörn. Två har förts till sjukhus, enligt Sjöfartsverket. En stor sökinsats pågår efter två personer som saknas i vattnet.",
+      "description": "Ett lastfartyg har ”kört över” en fritidsbåt utanför Tjörn, enligt polisen. Ombord på båten fanns en barnfamilj och en mamma och flicka är försvunna. Nu pausar sjöräddningen insatsen. – Vi kan inte göra mycket mer i mörkret, säger Niclas Härenstam på Sjöfartsverket.",
       "link": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
       "guid": "https://www.expressen.se/nyheter/sverige/bat-krockat-med-handelsfartyg-tva-saknas/",
       "image": "",
@@ -484,16 +554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785253593000
     },
     {
-      "title": "Tankfartyg brann utanför Norge – larm om explosion",
-      "description": "Ett tankfartyg som uppges transportera svavelsyra brann utanför Norges kust. Enligt polisen uppstod branden efter en explosion. – Det mesta tyder på att det skedde en explosion i samband med svetsning, skriver insatsledaren Ronny Hellerud Samuelsen enligt NRK.",
-      "link": "https://www.expressen.se/nyheter/varlden/tankfartyg-brinner-utanfor-norge-larm-om-explosion/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tankfartyg-brinner-utanfor-norge-larm-om-explosion/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785252970000
-    },
-    {
       "title": "Anrika musikaffären F-Musiikki ansöker om företagssanering",
       "description": "Företaget har satsat mycket på näthandel sedan nya ägare tog över verksamheten i slutet av 2024.",
       "link": "https://yle.fi/a/7-10102781?origin=rss",
@@ -512,16 +572,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785252600000
-    },
-    {
-      "title": "Liberalerna presenterar ny jämställdhetspolitik",
-      "description": "Liberalerna presenterar ny jämställdhetspolitik. Partiet föreslår reformer rörande RUT-avdrag och VAB-ersättning för att uppnå ”gladare familjer”. – Vi får se om det blir färre skilsmässor också, säger Romina Pourmokhtari (L).",
-      "link": "https://www.expressen.se/nyheter/politik/liberalerna-presenterar-ny-jamstalldhetspolitik/",
-      "guid": "https://www.expressen.se/nyheter/politik/liberalerna-presenterar-ny-jamstalldhetspolitik/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785251532000
     },
     {
       "title": "Betaljätten varslar om stora uppsägningar – på grund av AI",
@@ -604,16 +654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785250109000
     },
     {
-      "title": "Håller USA på att få slut på avancerade vapen?",
-      "description": "USA har förbrukat stora mängder vapen, främst avancerade robotar, under kriget mot Iran. Nu varnar experter för att lagren kan ta flera år att återställa. Enligt beräkningar från den Washingtonbaserade tankesmedjan Center for Strategic and International Studies (CSIS) avfyrade USA över 1 000 Tomahawkrobotar under konflikten. Omkring 1 430 Patriotrobotar för att skjuta ned iranska […]",
-      "link": "https://www.dagensps.se/varlden/haller-usa-pa-att-fa-slut-pa-avancerade-vapen/",
-      "guid": "https://www.dagensps.se/?p=1659603",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/missiles.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785249861000
-    },
-    {
       "title": "Audi smygvisar nya bjässen Q9",
       "description": "Visas snart på riktigt I morgon är det dags för Audi att visa upp sin supersuv, Q9. Som namnet antyder är den här ett steg ovanför Q7 och Q8 och är kanske främst inriktad på den amerikanska marknaden. Bilen är direkta konkurrent till BMW X7 och Mercedes GLS, plus en massa stora amerikanska suvar. Det handlar alltså inte om någon citybil, men den visas i nya klipp upp i New York. En stad som i och för sig är väl anpassad för suvar. Audi har sedan tidigare visat upp inredningen på bilen och det ser ut att finnas gott om plats. L&auml;s vidare och kommentera: https://feber.se/bil/audi-smygvisar-nya-bjassen-q9/494509/ L&auml;s mer om Audi Q9 , BMW X7 , Mercedes GLS , supersuv , New York",
       "link": "https://feber.se/bil/audi-smygvisar-nya-bjassen-q9/494509/?utm_source=rss&utm_medium=feed",
@@ -644,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785249272000
     },
     {
-      "title": "Värmeböljan tömmer floder: Rekordlåga nivåer",
-      "description": "Värmeböljan i Europa pressar floder till rekordlåga nivåer – vilket i sin tur skapar en flaskhals för leveranser vattenvägen. En ny värmebölja lägger sig över Europa. Nu hotar den även, i förlängningen, delar av energiförsörjningen. I Tyskland har vattennivån i floden Rhen sjunkit och riskerar att sjunka till en rekordlåg nivå i spåren av värmen. […]",
-      "link": "https://www.dagensps.se/varlden/varmeboljan-tommer-floder-rekordlaga-nivaer/",
-      "guid": "https://www.dagensps.se/?p=1659607",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlntnh4-jccte-nh-1-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785249211000
-    },
-    {
       "title": "Lönar det sig att köpa lägenhet nu? Ekonomer svarar på fem frågor om bostadsmarknaden",
       "description": "I juni var priserna på aktiebostäder 3,9 procent lägre än för ett år sedan. Vi frågade två ekonomer om orsakerna bakom nedgången och när marknaden kan vända.",
       "link": "https://yle.fi/a/7-10102746?origin=rss",
@@ -672,16 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785249000000
-    },
-    {
-      "title": "Tankfartyg har gått på grund – larm om explosioner",
-      "description": "Larm om explosion – Sverige skickar hjälp",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=00466078-cc9e-4dd2-8c47-f61d8884e0e4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=00466078-cc9e-4dd2-8c47-f61d8884e0e4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785248940000
     },
     {
       "title": "Solstenen har blivit film",
@@ -1324,16 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785184225000
     },
     {
-      "title": "2XO The Sneakerhead Blend Bourbon",
-      "description": "",
-      "link": "https://uncrate.com/2xo-the-sneakerhead-blend-bourbon/",
-      "guid": "https://uncrate.com/2xo-the-sneakerhead-blend-bourbon/",
-      "image": "https://uncrate.com/assets_c/2026/07/2xo-the-sneakerhead-blend-bourbon-11-thumb-960xauto-192353.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785182400000
-    },
-    {
       "title": "Nytt varningssystem kan rädda liv – mobilen känner av jordskalv",
       "description": "En inbyggd sensor i moderna smartmobiler registrerar till och med mycket små vibrationer. Ett nytt system använder sig av funktionen för att automatiskt varna för jordskalv. Du behöver bara ha en viss sorts mobil.",
       "link": "https://illvet.se/teknik/nytt-varningssystem-kan-radda-liv-mobilen-kanner-av-jordskalv",
@@ -1342,16 +1352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785180607000
-    },
-    {
-      "title": "ASICS GEL-1130 Shoe",
-      "description": "",
-      "link": "https://uncrate.com/asics-gel-1130-shoe/",
-      "guid": "https://uncrate.com/asics-gel-1130-shoe/",
-      "image": "https://uncrate.com/assets_c/2026/07/asics-gel-1130-2-darkened-thumb-960xauto-192335.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785180556000
     },
     {
       "title": "Vreeswijks lillasyster om Cornelisdagen: \"Ställer upp varje år\"",
@@ -2894,36 +2894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784698541000
     },
     {
-      "title": "Lista: Här finns de sex minst besökta platserna i länet",
-      "description": "Sex helt obesökta platser i Stockholm, enligt Haglöfs kampanj Unvisited Sweden.",
-      "link": "https://www.mitti.se/nyheter/lista-har-finns-de-sex-minst-besokta-platserna-i-lanet-6.3.374818.c4dd0ad4ef",
-      "guid": "https://www.mitti.se/nyheter/lista-har-finns-de-sex-minst-besokta-platserna-i-lanet-6.3.374818.c4dd0ad4ef",
-      "image": "https://www.mitti.se/image-3.292984.300625.20260721173048.1.96354fdda1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784653200000
-    },
-    {
-      "title": "Råttjakt på centralen – över 30 verksamheter kontrollerades",
-      "description": "Miljöförvaltningen granskade ett 30-tal butiker och restauranger på Stockholms centralstation efter larm om råttor. Två verksamheter hade spår av skadedjur, varav en restaurang med allvarliga brister.",
-      "link": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
-      "guid": "https://www.mitti.se/nyheter/rattjakt-pa-centralen--over-30-verksamheter-kontrollerades-6.3.376611.73eaa521b0",
-      "image": "https://www.mitti.se/image-3.376841.300779.20260723201044.96183ef7c2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784649600000
-    },
-    {
-      "title": "Fullt på Gröna Lund – besökare kom inte in",
-      "description": "Gröna Lund stoppade biljettförsäljningen för första gången i år när parken blev full. Besökare utan förköpta biljetter fick vända vid entrén på Djurgården.",
-      "link": "https://www.mitti.se/nyheter/fullt-pa-grona-lund--besokare-kom-inte-in-6.3.376719.737877bca2",
-      "guid": "https://www.mitti.se/nyheter/fullt-pa-grona-lund--besokare-kom-inte-in-6.3.376719.737877bca2",
-      "image": "https://www.mitti.se/image-3.354023.300875.20260722142832.425f537dbf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784647438000
-    },
-    {
       "title": "Watching too much TV in midlife may shrink the brain",
       "description": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual processing, along with more signs of damage in the brain’s white matter. Surprisingly, sitting itself did not appear to be the main issue, since people who spent long hours seated at mentally engaging jobs often showed healthier brain patterns.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
@@ -2932,36 +2902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784640564000
-    },
-    {
-      "title": "Polisen ryter till om (o)nödiga brottet: \"Öppna inte gylfen\"",
-      "description": "Polisen ertappar och bötfäller ibland personer som kissar på offentlig plats.",
-      "link": "https://www.mitti.se/nyheter/polisen-ryter-till-om-onodiga-brottet-oppna-inte-gylfen-6.3.376563.a64cb1a84a",
-      "guid": "https://www.mitti.se/nyheter/polisen-ryter-till-om-onodiga-brottet-oppna-inte-gylfen-6.3.376563.a64cb1a84a",
-      "image": "https://www.mitti.se/image-3.376817.300705.20260721131229.0d3653dd68?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784637559000
-    },
-    {
-      "title": "Poddarna för kunskap och insikter i hängmattan",
-      "description": "Listan på bra poddtips för hängmattan i sommar.",
-      "link": "https://www.mitti.se/nyheter/poddarna-for-kunskap-och-insikter-i-hangmattan-6.3.371691.a3eb839f57",
-      "guid": "https://www.mitti.se/nyheter/poddarna-for-kunskap-och-insikter-i-hangmattan-6.3.371691.a3eb839f57",
-      "image": "https://www.mitti.se/image-3.374699.297780.20260721123209.d430683301?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784635260000
-    },
-    {
-      "title": "Lekplats avspärrad – höga halter av bly i marken",
-      "description": "En lekplats i Östberga har fått stänga på obestämd tid – på grund av markföroreningar.",
-      "link": "https://www.mitti.se/nyheter/lekplats-avsparrad--hoga-halter-av-bly-i-marken-6.3.368625.b0f65393dc",
-      "guid": "https://www.mitti.se/nyheter/lekplats-avsparrad--hoga-halter-av-bly-i-marken-6.3.368625.b0f65393dc",
-      "image": "https://www.mitti.se/image-3.375972.299506.20260721134703.c2499a41d1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784632735000
     },
     {
       "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
@@ -2984,36 +2924,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784624364000
     },
     {
-      "title": "Upplandsgatan får ny cykelbana och enkelriktas",
-      "description": "Nu blir en del av Upplandsgatan enkelriktad och får ny cykelbana.",
-      "link": "https://www.mitti.se/nyheter/upplandsgatan-far-ny-cykelbana-och-enkelriktas-6.3.376604.5ce3bb1519",
-      "guid": "https://www.mitti.se/nyheter/upplandsgatan-far-ny-cykelbana-och-enkelriktas-6.3.376604.5ce3bb1519",
-      "image": "https://www.mitti.se/image-3.326185.300758.20260721071551.1.1494aa9ed6?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784615244000
-    },
-    {
-      "title": "Pojkar tvingade ner jämnårig i jordkällare – filmade misshandel",
-      "description": "Solna tingsrätt dömer tre pojkar för människorov och misshandel efter att de filmat ett brutalt överfall på en jämnårig i Kista. De tvingade offret till en jordkällare.",
-      "link": "https://www.mitti.se/nyheter/pojkar-tvingade-ner-jamnarig-i-jordkallare--filmade-misshandel-6.3.376552.b96e0cae70",
-      "guid": "https://www.mitti.se/nyheter/pojkar-tvingade-ner-jamnarig-i-jordkallare--filmade-misshandel-6.3.376552.b96e0cae70",
-      "image": "https://www.mitti.se/image-3.250258.300689.20260721121841.b7547503fb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784614367000
-    },
-    {
-      "title": "Politikerna vill att krogarnas VM-fest ska bli permanent",
-      "description": "Flera partier i Stockholm vill se en permanent lösning för ett utökat serveringstillstånd.",
-      "link": "https://www.mitti.se/nyheter/politikerna-vill-att-krogarnas-vmfest-ska-bli-permanent-6.3.376509.7a8b494329",
-      "guid": "https://www.mitti.se/nyheter/politikerna-vill-att-krogarnas-vmfest-ska-bli-permanent-6.3.376509.7a8b494329",
-      "image": "https://www.mitti.se/image-3.361026.300650.20260721061508.1.74299825c0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784612700000
-    },
-    {
       "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
       "description": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
@@ -3022,16 +2932,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784610608000
-    },
-    {
-      "title": "Familj fast i Täby – kommunerna säger nej till omritad gräns",
-      "description": "Familjen på gränsen mellan Täby och Danderyd får inte byta kommun. Båda kommunerna avvisar förslaget om omritad gräns efter år av problem i vardagen.",
-      "link": "https://www.mitti.se/nyheter/familj-fast-i-taby--kommunerna-sager-nej-till-omritad-grans-6.3.375989.7d91eed02d",
-      "guid": "https://www.mitti.se/nyheter/familj-fast-i-taby--kommunerna-sager-nej-till-omritad-grans-6.3.375989.7d91eed02d",
-      "image": "https://www.mitti.se/image-3.353168.300652.20260721055804.e91ac3c2ca?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784602800000
     }
   ]
 };
