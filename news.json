@@ -1,8 +1,208 @@
 {
-  "updatedAt": "2026-07-29T16:15:26.367Z",
+  "updatedAt": "2026-07-29T18:55:20.124Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Prins Harry riskerar smäll på 240 miljoner",
+      "description": "Prins Harry, Elton John och fem andra brittiska kändisar kan åka på en smäll på motsvarande nära 240 miljoner kronor. De förlorade sitt mål mot tidningen Daily Mail och måste nu betala rättegångskostnaderna. Tidningen vill ha 446 miljoner kronor, medan Harry och de andra har en försäkring som bara täcker 207 miljoner.",
+      "link": "https://www.expressen.se/nyheter/varlden/prins-harry-riskerar-small-pa-240-miljoner/",
+      "guid": "https://www.expressen.se/nyheter/varlden/prins-harry-riskerar-small-pa-240-miljoner/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785350123000
+    },
+    {
+      "title": "Svenske Tim på Lesbos: ”Vi ser från balkongen”",
+      "description": "På onsdagskvällen fick 134 svenskar evakuera på grekiska Lesbos. På ön befinner sig Tim Eriksson och hans tjej. – Vi sitter på balkongen vid vattnet och ser hur flera helikoptrar vattenbombar, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/svenske-tim-pa-lesbos-vi-ser-fran-balkongen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svenske-tim-pa-lesbos-vi-ser-fran-balkongen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785349846000
+    },
+    {
+      "title": "Spotify har köpt ett flygplan",
+      "description": "Kommer flyga flott i Bombardier Global 6500 Breakit rapporterar att Spotify har köpt in ett privatjet som ska användas för att chefer och andra snabbt ska kunna ta sig runt jorden på affärsmöten. Spotifys talesperson Julia Levander säger till Breakit om flygplansköpet: \"Spotify är ett globalt företag med huvudkontor i Stockholm. Ett begränsat antal seniora ledare har frekventa, tidskänsliga internationella resebehov. Detta är ett rollspecifikt arrangemang för tjänsteresor där kommersiella alternativ inte är praktiskt genomförbara.\" Det handlar om ett Bombardier Global 6500, samma flygplan som Saab använder för övervakningsplattformen GlobalEye. Flygplanet har en räckvidd på över 12.000 km, något som innebär att det till exempel kan flyga Stockholm-Hongkong nonstop. Vanligtvis finns det 13-14 passagerarplatser i ett Bombardier Global 6500, men planet går även att få i konfigurationer med upp till 19 passagerarplatser. Ett Bombardier Global 6500 kostar vanligtvis mellan 500-600 miljoner kronor. Tidigare i år köpte Försvarsmakten in två stycken begagnade Bombardier Global 6500 för drygt 1 miljard kronor vilka ska fungera som statsflyg för Sveriges högsta civila och militära ledning. Vad Spotify har betalat för sitt flygplan finns det inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/ L&auml;s mer om Bombardier Global 6500 , Breakit , Julia Levander , affärsresor , Privatjet , Saab",
+      "link": "https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785349800000
+    },
+    {
+      "title": "Krisdraget inför nya superhettan",
+      "description": "Under torsdagen väntas temperaturer över 30 grader på flera platser i landet. Den nya hettan har fått Trafikverket att agera. Hastigheten på flera tågsträckor sänks och trafikanter uppmanas till försiktighet.",
+      "link": "https://www.expressen.se/nyheter/sverige/krisdraget-infor-nya-superhettan/",
+      "guid": "https://www.expressen.se/nyheter/sverige/krisdraget-infor-nya-superhettan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785349105000
+    },
+    {
+      "title": "Fed lämnar styrräntan oförändrad igen",
+      "description": "Onsdagens räntebesked var det andra under nye Fed-chefen Kevin Warsh, som efterträdde Jerome Powell tidigare i år. I juni lät Warsh också räntan ligga oförändrad, samtidigt som USA:s president Donald Trump sedan tidigare pressat på för att sänka den. USA:s centralbank Federal Reserve (Fed) lämnar återigen den amerikanska styrräntan oförändrad i intervallet 3,50–3,75 procent. Onsdagens […]",
+      "link": "https://www.dagensps.se/bors-finans/makro/fed-lamnar-styrrantan-oforandrad-igen/",
+      "guid": "https://www.dagensps.se/?p=1659927",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/fed-chefen-kevin-warsh-ar-under-press-av.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785348673000
+    },
+    {
+      "title": "Apollo evakuerar 134 svenskar i Grekland",
+      "description": "134 turister på grekisk ö",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3e1218f-431c-496b-830e-70d82db402b1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3e1218f-431c-496b-830e-70d82db402b1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785348643000
+    },
+    {
+      "title": "Fed ger räntebesked",
+      "description": "Trotsar Trumps påtryckningar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785348350000
+    },
+    {
+      "title": "1Rollo är en robot som rullar fram på ett hjul",
+      "description": "Tänkt att användas som robotväktare Det estländska robotföretaget Rollo Robotics har visat upp en robot som fått namnet \"1Rollo\" som primärt är tänkt som en patrullerande säkerhets- och övervakningsrobot. 1Rollo är tänkt att patrullera en förutbestämd rutt och är försedd med ett datorsynsystem som kan filma i 360 grader och upptäcka eventuella konstigheter i omgivningarna. Skulle roboten upptäcka något konstigt skickar den ett meddelande till en operatör eller en säkerhetscentral som då kan skicka en mänsklig väktare eller annan lämplig personal till platsen. Robotens kameror och andra sensorer används även för att roboten ska upptäcka och ta sig förbi hinder som kan finnas på rutten. Den har en topphastighet på 30 km/h och ska kunna rulla runt i cirka 8 timmar på en laddning. Rollo Robotics siktar på att lansera 1Rollo någon gång under 2027. Den kommer initialt att bli tillgänglig via ett abonnemang, men det finns inga uppgifter om vad priset kommer att landa på. Nedanför hittas ett längre videoklipp där Rollo Robotics medgrundare och VD Sander Sebastian Agur snackar lite mer om den rullande robotväktaren. L&auml;s vidare och kommentera: https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/ L&auml;s mer om Rollo Robotics , 1Rollo , Robotklot , Roboväktare , Övervakningsrobot , Kamerabevakning",
+      "link": "https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785348000000
+    },
+    {
+      "title": "eBay döms att betala stort skadestånd för hot",
+      "description": "Till journalistpar som trakasserats efter kritik mot företaget Det rättsliga efterspelet efter den märkliga historien då ett gäng med chefer och anställda på eBay började trakassera ett journalistpar som granskade företaget har nu fått sitt juridiska efterspel avslutat. Det var under 2019 som paret Ina och David Steiner skrev kritiskt om eBay på EcommerceBytes, en nyhetsblogg med inriktning på ehandel som paret driver. Detta retade upp några chefer på eBay så till den grad att de inledde en kampanj mot Steiners som inkluderade hot online såväl som fysiska paket med bland annat levande kackerlackor, en begravningskrans och en blodig grismask, se bild ovan. EBay och sju före detta anställda döms nu att betala 56 miljoner dollar i skadestånd till paret Steiner efter att dessa stämt de inblandade. I en rättegång i början av 2024 dömdes flera av de inblandade till fleråriga fängelsestraff samt att betala skadestånd på sammanlagt 3 miljoner dollar. L&auml;s vidare och kommentera: https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/ L&auml;s mer om eBay , Ina Steiner , David Steiner , EcommerceBytes , Skadestånd , Hot , Stämning , Dingfeber",
+      "link": "https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785346200000
+    },
+    {
+      "title": "Nervöst efter börsfall – banker kräver mer i säkerhet från hedgefonder",
+      "description": "Värderingarna på AI-bolagen gör många nervösa i finanssektorn. Nu har bankerna vidtagit åtgärder för att minska riskerna vid ett ännu större ras. Wall Street-banker kräver att vissa hedgefonder ställer ytterligare säkerheter efter de kraftiga kursfallen inom AI- och halvledarsektorn. Syftet är att minska bankernas risk när marknadsvärdet på fondernas innehav sjunker. Enligt Financial Times har […]",
+      "link": "https://www.dagensps.se/bors-finans/banker-kraver-mer-sakerhet-fran-hedgefonder-efter-borsfall/",
+      "guid": "https://www.dagensps.se/?p=1659921",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlrxkpk-z2zvy-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785345468000
+    },
+    {
+      "title": "Eclipse Over the Atlantic",
+      "description": "",
+      "link": "https://uncrate.com/eclipse-over-the-atlantic/",
+      "guid": "https://uncrate.com/eclipse-over-the-atlantic/",
+      "image": "https://uncrate.com/assets_c/2026/07/black-tomato-eclipse-4-thumb-960xauto-192376.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785345315000
+    },
+    {
+      "title": "Nu svingar Sepp Blatter mot Gianni Infantino: ”Fifa är VM:s förvaltare, inte dess ägare”",
+      "description": "Fifas tidigare president Sepp Blatter ställer sig på kritikernas sida. Fotbollen tillhör folket, säger han om Gianni Infantinos planer att sälja de kommersiella rättigheterna till VM.",
+      "link": "https://yle.fi/a/7-10102849?origin=rss",
+      "guid": "https://yle.fi/a/7-10102849",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785345308000
+    },
+    {
+      "title": "Magdalena Andersson rasar mot Infantino: ”Stopp”",
+      "description": "Fifa-planen att sälja ut delar av fotbolls-VM får Magdalena Andersson att se rött. – Fotboll skapas inte av investeringsbanker och miljardärer, säger S-ledaren. Även idrottsminister Jakob Forssmed (KD) är kritisk mot planen, som han kallar ”stötande”.",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
+      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785344532000
+    },
+    {
+      "title": "Netflix har gjort en till dokumentär om Boeing",
+      "description": "Med fokus på visselblåsarna Freefall: A Reckoning for Boeing är namnet på en ny dokumentär om Boeing. Man fokuserar på visselblåsaren John Barnett som mystiskt dog. I dokumentären får vi träffa anställda vid Boeings fabrik för 787 Dreamliner i Charleston, South Carolina. Vi får höra dem berätta om säkerhetsbrister, bland annat att skrotade delar satts tillbaka på flygplanen. Det här är den andra dokumentären om Boeing som regissören Rory Kennedy gör. Den första hette Downfall: The Case Against Boeing och i den medverkade bland andra John Barnett, som hittades död av en skottskada i sin pickup 2024. L&auml;s vidare och kommentera: https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/ L&auml;s mer om Boeing , John Barnett , Rory Kennedy , Dreamliner , Freefall: A Reckoning for Boeing , visselblåsare",
+      "link": "https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785344400000
+    },
+    {
+      "title": "Heretic Metaphysical Cleansing Bar",
+      "description": "",
+      "link": "https://uncrate.com/heretic-metaphysical-cleansing-bar/",
+      "guid": "https://uncrate.com/heretic-metaphysical-cleansing-bar/",
+      "image": "https://uncrate.com/assets_c/2026/07/heretic-metaphysical-cleansing-bar-1-thumb-960xauto-192383.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785344400000
+    },
+    {
+      "title": "Usel affär då – nu kan den komma i repris",
+      "description": "Det lanserades 1914 och blev en usel affär för de som ställde upp. Nu kan britterna ändå göra om tricket 112 år senare. 1914 var Storbritannien ett av världens rikaste länder, men mot slutet av året behövde man ändå finansiera det krig man sedan augusti samma år fört mot Tyskland och dess allierade. Lösningen blev […]",
+      "link": "https://www.dagensps.se/bors-finans/usel-affar-da-nu-kan-den-komma-i-repris/",
+      "guid": "https://www.dagensps.se/?p=1659902",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl5ld6d1qvwog-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785343973000
+    },
+    {
+      "title": "Okända Iphone-funktionen lindrar åksjuka: ”Mycket effektiv”",
+      "description": "Blir du ofta åksjuk när du är på väg någonstans? Om du har en Iphone kan det finnas lindring med hjälp av en särskild funktion. En relativt okänd funktion i Iphone har blivit uppmärksammad bland personer som lider av åksjuka. Inställningen kallas ”Vehicle Motion Cues” och lägger till rörliga prickar längs skärmens kanter. På så […]",
+      "link": "https://www.dagensps.se/teknik/okanda-iphone-funktionen-lindrar-aksjuka-mycket-effektiv/",
+      "guid": "https://www.dagensps.se/?p=1659901",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/pexels-thirdman-6945647.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785343178000
+    },
+    {
+      "title": "Den här bilen har ingen motor, växellåda eller batteri",
+      "description": "Ska ändå göra 0-100 km/h på 0,3 sekunder Man ska inte uppfinna hjulet på nytt brukar det ju heta. Och det har den rumänsk uppfinnaren Adrian Rosca verkligen tagit fasta på. Han har byggt en bil som inte drivs av en motor, utan av tryckluft. Tanken är väldigt enkelt att bilens hjul sitter på skenor och med hjälp av tryckluft så flyttas hjulen fram och tillbaka på skenorna. Gör man detta växelvis och bromsar det hjul som har nått hela vägen fram får man en bil som rör sig. Det är lite som att gå, vi människor rör ju ett ben i taget och låser det andra under tiden. Det hela är lite rörigt, men förklaras väldigt bra i videon nedan. Det är nördigt, men intressant! Adrian har byggt in tekniken i en gammal Audi A8 som förutom skenorna har kraftiga pneumatikcylindrar och en tryckluftstank på 360 bar. Den där supersnabba accelerationen på 0,3 sekunder kan faktiskt stämma, i teorin. Det har inte bevisats, men kan som sagt stämma. På pappret. Adrian påstår också att toppfarten är knasiga 600 km/h, men det känns orimligt att man inte skulle kunna komma dit utan att ta slut på tryckluften. Det hela är galet, men roligt. L&auml;s vidare och kommentera: https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/ L&auml;s mer om Adrian Rosca , Audi A8 , Tryckluft , Pneumatik , Tryckluftsbil , pneumatikcylindrar",
+      "link": "https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785342600000
+    },
+    {
+      "title": "Omhäktad för dödsmisshandel av polis",
+      "description": "Den svenske polisen Christian Zedig misshandlades till döds i Köpenhamn i samband med en VM-match i fotboll. Nu omhäktas den misstänkte gärningsmannen i ytterligare fyra veckor. Den misstänkte har tidigare dömts till fängelse i sju år för att huggit en man i hjärtat med kniv.",
+      "link": "https://www.expressen.se/nyheter/omhaktad-for-dodsmisshandel-av-polis/",
+      "guid": "https://www.expressen.se/nyheter/omhaktad-for-dodsmisshandel-av-polis/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785342292000
+    },
+    {
+      "title": "Recension: Tänk att en superhjältefilm år 2026 lyckas lära oss något om livet",
+      "description": "Spider-Man fyra bjuder på snygg action, spännande vändningar och en fin lärdom. Första halvan kräver dock en stor dos tålamod.",
+      "link": "https://yle.fi/a/7-10102772?origin=rss",
+      "guid": "https://yle.fi/a/7-10102772",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785342020000
+    },
     {
       "title": "Får Timo Vornanen fortsätta i riksdagen? Professor: ”Det var på fritiden som han sköt”",
       "description": "Pistolskottet som riksdagsledamoten avlossade hade inte direkt att göra med hans riksdagsarbete, och det kan ha betydelse för hans politiska framtid.",
@@ -24,6 +224,16 @@
       "timestamp": 1785340852000
     },
     {
+      "title": "Se bilderna: Experter återskapar en vacker takmålning från Pompeji",
+      "description": "2023 upptäckte arkeologer ett bageri för överklassen i Pompeji med en kuslig historia i källaren – nu håller de på att återskapa en praktfull takmålning från den romerska villan.",
+      "link": "https://varldenshistoria.se/civilisationer/romarriket/se-bilderna-experter-aterskapar-en-vacker-takmalning-fran-pompeji",
+      "guid": "https://varldenshistoria.se/civilisationer/romarriket/se-bilderna-experter-aterskapar-en-vacker-takmalning-fran-pompeji",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785340830000
+    },
+    {
       "title": "Nytt grafikkort släppt med endast 4 GB",
       "description": "Komponentbristen tvingar fram ett modernt grafikkort med begränsat minne För första gången på flera år lanseras nu ett modernt grafikkort med endast 4 GB. Detta är så klart på grund av den globala bristen på komponenter och skenande priser på RAM-minne som nu har skapat denna nya marknad. Kortet är ASRocks nya variant av AMD Radeon RX 9050 som har en minnesbuss på 64 bitar och 16 beräkningsenheter. Det gör ju att den kanske inte riktigt klarar av de tyngsta grejerna, även i 1080p, men om man är villig att kompromissa för att få någon form av modernare arkitektur så kan ju detta vara något. Det lär dock bli rätt omodernt snabbt, så det är väl främst för den som är desperat och inte kräver allt för krävande spel. Något officiellt pris har inte getts ännu men kortet har synts i färdigbyggda budgetdatorer hos internationella återförsäljare, med prislappar på knappt 900 dollar. L&auml;s vidare och kommentera: https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/ L&auml;s mer om ASRock , AMD Radeon RX 9050 , grafikkort , RAM-minne , budgetdatorer , komponentbrist",
       "link": "https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/?utm_source=rss&utm_medium=feed",
@@ -31,6 +241,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785340800000
+    },
+    {
+      "title": "Maradona \"Hand of God\" World Cup Ball",
+      "description": "",
+      "link": "https://uncrate.com/maradona-hand-of-god-world-cup-ball/",
+      "guid": "https://uncrate.com/maradona-hand-of-god-world-cup-ball/",
+      "image": "https://uncrate.com/assets_c/2026/07/maradona-hand-of-god-world-cup-ball-1-thumb-960xauto-192382.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785340800000
     },
     {
@@ -42,16 +262,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785340757000
-    },
-    {
-      "title": "Magdalena Andersson rasar mot Infantino: ”Stopp”",
-      "description": "Fifa-planen att sälja ut delar av fotbolls-VM får Magdalena Andersson att se rött. – Fotboll skapas inte av investeringsbanker och miljardärer, säger S-ledaren. Även idrottsminister Jakob Forssmed (KD) är kritisk mot planen, som han kallar ”stötande”.",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
-      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785340623000
     },
     {
       "title": "Nytt maffigt kontrakt: Macklin Celebrini blir bäst betald i NHL",
@@ -88,7 +298,7 @@
       "description": "Socialnämnden röstade ner förslaget om permanent dygnet runt-servering av alkohol i Stockholm. MP vände i frågan, och S, V och MP vill nu utreda ett eget förslag vidare.",
       "link": "https://www.mitti.se/nyheter/bakslag-for-alkohol-till-atta-pa-morgonen-ett-svek-6.3.377690.da8a6d8209",
       "guid": "https://www.mitti.se/nyheter/bakslag-for-alkohol-till-atta-pa-morgonen-ett-svek-6.3.377690.da8a6d8209",
-      "image": "https://www.mitti.se/image-3.361026.301330.20260729155853.4598369d84?format=jpeg",
+      "image": "https://www.mitti.se/image-3.361026.301330.20260729162613.939a88b04f?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785338854000
@@ -118,7 +328,7 @@
       "description": "En stark stank i Gamla Stan fick grannar att ringa polisen. Orsaken visade sig vara en trasig frys med gammalt kött i ett förråd. Fastighetsägaren uppger att sanering genomfördes.",
       "link": "https://www.mitti.se/nyheter/stank-fran-gammalt-kott-i-gamla-stan--grannar-larmade-polisen-6.3.377700.a4fa8f87b9",
       "guid": "https://www.mitti.se/nyheter/stank-fran-gammalt-kott-i-gamla-stan--grannar-larmade-polisen-6.3.377700.a4fa8f87b9",
-      "image": "https://www.mitti.se/image-3.377174.301329.20260729153451.213faa0fb6?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377174.301329.20260729183445.2383253a8c?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785337439000
@@ -151,6 +361,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785337200000
+    },
+    {
+      "title": "Seiko 5 Sports Field Series Nylon Strap Watch",
+      "description": "",
+      "link": "https://uncrate.com/seiko-5-sports-field-series-nylon-strap-watch/",
+      "guid": "https://uncrate.com/seiko-5-sports-field-series-nylon-strap-watch/",
+      "image": "https://uncrate.com/assets_c/2026/07/seiko-5-sports-field-series-nylon-strap-watch-1-thumb-960xauto-192381.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785337200000
     },
     {
@@ -324,16 +544,6 @@
       "timestamp": 1785333000000
     },
     {
-      "title": "Datan visar: 25-åringar har den tuffaste starten i livet på 50 år",
-      "description": "Brittiska 25-åringar möter den tuffaste starten på vuxenlivet på nästan ett halvsekel. Institute for Fiscal Studies gått igenom data tillbaka till 1980-talet för att se hur det ser ut i Storbritannien, och vi jämför det med läget i Sverige. Dagens PS rapporterade i höstas att var femte ung svensk sitter fast i föräldrahemmet. Enligt datan […]",
-      "link": "https://www.dagensps.se/privatekonomi/datan-visar-25-aringar-har-den-tuffaste-starten-i-livet-pa-50-ar/",
-      "guid": "https://www.dagensps.se/?p=1659864",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-4-2.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785332531000
-    },
-    {
       "title": "Franska DJ:n Kavinsky är död",
       "description": "Blev bara 50 år gammal Han blev kanske mest känd för sin låt \"Nightcall\" som spelades i filmen \"Drive\", i den där otroligt vackra och intensiva scenen i början där Ryan Gosling kör bil. Men Kavinsky, som egentligen heter Vincent Belorgey, blev även känd för att ha med musik i GTA IV. Vincent hittades död i sitt hem i Paris och polisen har inlett en förundersökning för att kunna fastställa dödsorsaken. L&auml;s vidare och kommentera: https://tjock.se/sinnet/franska-djn-kavinsky-ar-dod/494558/ L&auml;s mer om Kavinsky , Drive , GTA IV , Nightcall , Vincent Belorgey , Ryan Gosling , Paris",
       "link": "https://tjock.se/sinnet/franska-djn-kavinsky-ar-dod/494558/?utm_source=rss&utm_medium=feed",
@@ -342,16 +552,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785332400000
-    },
-    {
-      "title": "Avgiften som äter 10 procent av insatt kapital om året",
-      "description": "Kryptobörsen BitMEX meddelade den 23 juli att verksamheten läggs ned den 23 september. Kontraktet som börsen uppfann, det eviga terminskontraktet, sprider sig samtidigt till aktier, guld och olja. Dagens PS har beskrivit hur småsparare strömmar till kryptons farligaste produkt. Nu går det att se vem som tjänar pengarna. Avgiften är själva affären Kontraktet saknar slutdatum. […]",
-      "link": "https://www.dagensps.se/bors-finans/fintech/kryptovalutor/avgiften-som-ater-10-procent-av-insatt-kapital-om-aret/",
-      "guid": "https://www.dagensps.se/?p=1659861",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-3-2.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785332045000
     },
     {
       "title": "Står Uefa enat i kritiken mot Infantinos planer? Tjeckiska fotbollsbasen ser positiva effekter med förslaget",
@@ -462,16 +662,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785328200000
-    },
-    {
-      "title": "Miljardstöd till Boeings utmanare JetZero – flygning redan 2027",
-      "description": "Amerikanska staten öppnar plånboken för Boeings mest udda konkurrent. Export-Import Bank har skrivit under en avsiktsförklaring med flygstartupen JetZero om att utreda upp till 3 miljarder dollar i finansiering till bolagets fabrik i North Carolina. I svenska kronor handlar det om cirka 29,1 miljarder. Något bindande löfte är dock det inte, enligt JetZeros pressmeddelande. Dagens […]",
-      "link": "https://www.dagensps.se/bors-finans/aktier/miljardstod-for-boeings-utmanare-jetzero-flygning-redan-2027/",
-      "guid": "https://www.dagensps.se/?p=1659856",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-2-5.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785327929000
     },
     {
       "title": "Your gut may help your brain decide what to remember",
@@ -632,36 +822,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785324600000
-    },
-    {
-      "title": "Död människa hittades i Aura å i Åbo",
-      "description": "Räddningsverket och polisen ryckte ut till Aura å på onsdagseftermiddagen.",
-      "link": "https://yle.fi/a/7-10102814?origin=rss",
-      "guid": "https://yle.fi/a/7-10102814",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785324472000
-    },
-    {
-      "title": "Kurserna som lär dig undvika AI: nu sprids de över hela världen",
-      "description": "Med allt fler AI-funktioner i telefoner, mejlprogram och sökmotorer ökar efterfrågan på motsatsen: kurser i hur man stänger av dem. Bibliotek i USA rapporterar om fullsatta ”Avoiding AI”-workshops. Trenden speglar ett växande missnöje med en teknik som upplevs som påtvingad, inte vald. Hannah Cyrus, bibliotekarie vid Bangor Public Library i Maine, fick allt fler frågor […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/kurserna-som-lar-dig-undvika-ai-nu-sprids-de-over-hela-varlden/",
-      "guid": "https://www.dagensps.se/?p=1659848",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/trott-pa-ai.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785324391000
-    },
-    {
-      "title": "Dokument som innehöll patientuppgifter upphittade i soptunna i Jakobstad",
-      "description": "Uppgifter om klienter vid Österbottens välfärdsområde kan ha äventyrats i Jakobstad. Välfärdsområdet ser allvarligt på det som skett och kontaktar alla som berörs.",
-      "link": "https://yle.fi/a/7-10102810?origin=rss",
-      "guid": "https://yle.fi/a/7-10102810",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785324230000
     },
     {
       "title": "EA delar ut jättebonusar",
@@ -844,16 +1004,6 @@
       "timestamp": 1785313800000
     },
     {
-      "title": "Uppgifter: 8 000 medarbetare får gå från BMW",
-      "description": "Uppgifter: BMW skär ned – 8 000 tjänster bort",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9625570b-42a6-476e-b166-f5a7c2dcf675",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9625570b-42a6-476e-b166-f5a7c2dcf675",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785313052000
-    },
-    {
       "title": "Zeekr tar sin lyxsuv 9X till Sverige",
       "description": "Finns bara fullutrustad Zeekr har gjort sig kända för att erbjuda fullt utrustade bilar och det är verkligen sanningen när de nu släpper sin stora SUV Zeekr 9X. Den finns bara tillgänglig i en version som kallas Ultra AWD. Bilen går inte att få speciellt färgglad, det är svart, vitt eller grått som gäller. Förutom färg och dragkrok kan man välja mellan två olika fälgar, båda på 22 tum, två olika färger på grillen (bilens färg eller satinkrom) och två olika färger på inredningen. Zeekr känns som ett elektriskt märke, men den här har faktiskt en räckviddsförlängare. Batteriet är på 55,1 kWh och det ska göra att du kommer 179 km på en laddning. Det är faktiskt en horribelt dålig siffra för ett så stort batteri. Förbrukningen är på katastrofala 28,5 kWh/100km. Kör man på bensin drar den 0,89 liter milen. Att tjänstevikten är på 2900 kg kan ha något med detta att göra, men det är ändå väldigt höga förbrukningssiffror. Som tur är går det snabbt att ladda. Bilen har 900V-teknik och att ladda 10-80 procent tar 9,5 minut. Man kan pumpa in 330 kW som mest. Fyller man tanken med bensin har man en total räckvidd på 737 km. Räckviddsförlängaren driver som jag förstår det inte hjulen utan levererar bara ström till batteriet. Istället drivs bilen av två elmotorer, en fram och en bak. Totalt levererar de 660 kW eller 897 hästar. Vridet är på 935 Nm. 0-100 km/h går på 4,1 sekunder för den här bjässen. På insidan finns det mesta i lyx man kan tänka sig. Fram finns två stora skärmar på 16 tum styck, båda har upplösning på 3,5K. I baksätet finns en 3K-skärm på 17 tum i taket. Det finns plats för sex personer och den andra raden har riktigt mysiga kaptensstolar. Ljudet är nog också prima, 32 högtalare från Naim sitter i bilen. När man har stannat kan man fälla ner den delade bakluckan och sätta sig och glo på något trevligt. Pris är ännu inte satt, men eftersom den har en räckviddsförlängare smiter denna undan tullarna som kinesiska bilar annars har. Så prislappen kan nog bli attraktiv. L&auml;s vidare och kommentera: https://feber.se/bil/zeekr-tar-sin-lyxsuv-9x-till-sverige/494534/ L&auml;s mer om Zeekr 9X , Ultra AWD , SUV , räckviddsförlängare , Naim",
       "link": "https://feber.se/bil/zeekr-tar-sin-lyxsuv-9x-till-sverige/494534/?utm_source=rss&utm_medium=feed",
@@ -894,36 +1044,6 @@
       "timestamp": 1785311915000
     },
     {
-      "title": "Ryskt lager i lågor",
-      "description": "Ryska fabriken brinner efter ukrainsk attack",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ryska-handelsjatten-i-lagor/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ryska-handelsjatten-i-lagor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785311335000
-    },
-    {
-      "title": "Efter vågen av sprängdåd i Norrköping – fem åtalas",
-      "description": "Efter flera allvarliga sprängningar och sprängförsök i höstas såg polisen ett mönster. Nu åtalas fem personer som misstänks ha koppling till termosbomberna som användes vid dåden.",
-      "link": "https://www.expressen.se/nyheter/sverige/efter-vagen-av-sprangdad-i-norrkoping-fem-atalas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/efter-vagen-av-sprangdad-i-norrkoping-fem-atalas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785310928000
-    },
-    {
-      "title": "Barnfamilj i båtolycka vid Tjörn – mamma och dotter saknas",
-      "description": "En mamma med dotter saknas fortfarande efter båtolyckan vid Tjörn på tisdagskvällen. Det var mammans bror som bland annat larmade SOS. Nu vädjar polisen om hjälp. – Vi har inga ramar. Alla uppgifter som man tror kan vara kopplade till händelsen, om man sett eller hört något, säger talespersonen Adam Isaksson Samara.",
-      "link": "https://www.expressen.se/nyheter/sverige/barnfamilj-i-batolycka-mamma-och-dotter-saknas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/barnfamilj-i-batolycka-mamma-och-dotter-saknas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785310462000
-    },
-    {
       "title": "USA förbjuder utländska robotar",
       "description": "Och utländska kraftomvandlare Den amerikanska kommunikationsmyndigheten FCC inför nu ett förbud för att sälja och importera utländskt tillverkade robotar. Förbudet gäller för robotar som väger över 2 kg tillsammans med en eventuellt laddstation vilket borde inkludera de flesta humanoida robotar, fyrbenta robotar (robothundar) och robotdammsugare. Det finns dock en rad undantag, bland annat stationära industrirobotar. Förbudet tros framför allt slå mot kinesiska företag, bland annat Unitree som idag har en femtedel av världsmarknaden för humanoida robotar, bland annat tack vare sin G1-modell som syns till höger på bilden ovan. FCC förbjuder även utländskt tillverkade kraftomvandlare, en marknad där kinesiska Sungrow och Huawei är världsledande. I ett uttalande säger FCC om förbudet mot utländska robotar och kraftomvandlare: \"These devices could create supply chain vulnerabilities that could disrupt U.S. economic and national security and could create a cybersecurity risk that threatened American critical infrastructure. The FCC will continue to do our part to secure America’s critical supply chains.\" USA har sedan tidigare förbjudit utländskt tillverkade drönare och routrar, något som även det mestadels påverkar kinesiska företag. L&auml;s vidare och kommentera: https://feber.se/samhalle/usa-forbjuder-utlandska-robotar/494528/ L&auml;s mer om FCC , USA , Robotar , Kina , Unitree , Sungrow , Huawei , Förbud , Routrar , Drönare",
       "link": "https://feber.se/samhalle/usa-forbjuder-utlandska-robotar/494528/?utm_source=rss&utm_medium=feed",
@@ -954,16 +1074,6 @@
       "timestamp": 1785308400000
     },
     {
-      "title": "S-lokal vandaliserad i Sölvesborg",
-      "description": "Socialdemokraternas partilokal i Sölvesborg vandaliserades natten till onsdag. Enligt BLT skrek den misstänkta mannen nazistiska slagord. S-ledaren Magdalena Andersson reagerar starkt. ”Ett angrepp på hela den svenska demokratin”, skriver hon.",
-      "link": "https://www.expressen.se/nyheter/sverige/s-lokal-vandaliserad-i-solvesborg/",
-      "guid": "https://www.expressen.se/nyheter/sverige/s-lokal-vandaliserad-i-solvesborg/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785306748000
-    },
-    {
       "title": "Nu har Audi presenterat sin nya Q9",
       "description": "Monstersuven med monstergrillen Audi har släppt sin första fullstora SUV, och de är förstås väldigt nöjda över detta. Jag tror att det har smärtat dem lite att BMW och Mercedes har haft sina bjässar tidigare. Det är den största suven någonsin från märket och det är första gången man går upp till 9 i modellbeteckningen. Audi själva säger att modellen kombinerar rymd i kupén med dynamik på vägen och tekniska innovationer. Prislappen börjar på 1.119.000 kronor för den stora dieselversionen. Bilen är hela 531 cm lång, 221 cm bred (aj att parkera det...), 181 cm hög och har en hjulbas på 314 cm. Två stilar går att få på bilen, advanced är standard och S line finns som tillval. Fälgarna går att få upp till 23 tum. Två motorer kommer till en början i Europa. Standard är en 3-liters V6-diesel som levererar 299 hästar och 630 Nm. På vissa marknader (inte Sverige) kommer även en svagare version som ger 245 hästar. Båda är mildhybrider där en kombinerad elmotor och generator ger 24 hästar till. Motorerna har även eldrivna kompressorer. Motorn är kopplad till en 8-stegad tiptronic och fyrhjulsdriften är permanent. På insidan är det som sagt rymligt och det verkar gott om plats på de tre raderna. En trevlig sak är att sätena på andra raden är elektriskt justerbara. Annars är det glädjande fritt från pianolack! L&auml;s vidare och kommentera: https://feber.se/bil/nu-har-audi-presenterat-sin-nya-q9/494526/ L&auml;s mer om Q9 , V6-diesel , Tiptronic",
       "link": "https://feber.se/bil/nu-har-audi-presenterat-sin-nya-q9/494526/?utm_source=rss&utm_medium=feed",
@@ -982,16 +1092,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785305048000
-    },
-    {
-      "title": "Första trailern för nya Jumanji släppt",
-      "description": "Spelet har rymt ut i verkligheten Natten till i dag dök den första trailern upp för den nya Jumanji-filmen Jumanji: Open World. I huvudrollerna ser vi återigen Dwayne Johnson, Kevin Hart, Jack Black och Karen Gillan som denna gång har lämnat spelvärlden för att hantera vintern i den riktiga världen. För regin står Jake Kasdan, som även regisserade de två föregående filmerna, och även Danny DeVito, Nick Jonas och Awkwafina återvänder för att reprisera sina roller. Filmen har premiär i december. L&auml;s vidare och kommentera: https://feber.se/film/forsta-trailern-for-nya-jumanji-slappt/494525/ L&auml;s mer om Jumanji: Open World , Dwayne Johnson , Kevin Hart , Jack Black , Jake Kasdan",
-      "link": "https://feber.se/film/forsta-trailern-for-nya-jumanji-slappt/494525/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/forsta-trailern-for-nya-jumanji-slappt/494525/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785304800000
     },
     {
       "title": "Madeleines lättlagade recept på gryta med kyckling",
@@ -1022,16 +1122,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785304086000
-    },
-    {
-      "title": "Insats i natt",
-      "description": "Se bilderna från i natt",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/fritidsbat-i-olycka-mamma-och-dotter-saknas-/",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/fritidsbat-i-olycka-mamma-och-dotter-saknas-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785304064000
     },
     {
       "title": "Can’t sleep in the heat? These 8 tricks could save your night",
@@ -1174,16 +1264,6 @@
       "timestamp": 1785267010000
     },
     {
-      "title": "Lyssnar du på sommarpratarna?",
-      "description": "Dagens radiofråga Tidigare idag skrev vi om en tjänst för att hålla koll på årets sommarpratare i SR:s Sommar-program. Jag tänkte att vi därför kunde kolla om ni läsare har lyssnat på årets sommarpratare. Svara gärna på vår enkät nedan. Vill ni snacka mer om sommarpratarna, kanske tipsa om något sommarprat som satt sig lite extra, står kommentarerna till ert förfogande. L&auml;s vidare och kommentera: https://feber.se/lyssnar-du-pa-sommarpratarna/494504/ L&auml;s mer om Sommarpratare , Sveriges Radio , SR , poddar , sommar i P1",
-      "link": "https://feber.se/lyssnar-du-pa-sommarpratarna/494504/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/lyssnar-du-pa-sommarpratarna/494504/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785265200000
-    },
-    {
       "title": "Vice Pro Galaxy Golf Balls",
       "description": "",
       "link": "https://uncrate.com/vice-pro-galaxy-golf-balls/",
@@ -1192,36 +1272,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785265200000
-    },
-    {
-      "title": "8 timmar med brinnande ryska byggnader",
-      "description": "Någon form av tillfredställelse Kriget mellan Ryssland och Ukraina pågår tyvärr fortfarande och är i sig verkligen inte en rolig historia. På senare tid har ukrainska drönare lyckats ta sig långt in i Ryssland och satt eld på både raffinaderier och lagerbyggnader tillhörande Wildberries. Den ukrainska armén har satt ihop ett åtta timmar långt klipp som visar brinnande byggnader i Ryssland. Ackompanjerat av mysig musik och brasljud. L&auml;s vidare och kommentera: https://feber.se/samhalle/8-timmar-med-brinnande-ryska-byggnader/494511/ L&auml;s mer om Ukraina , Ryssland , Wildberries , Drönare",
-      "link": "https://feber.se/samhalle/8-timmar-med-brinnande-ryska-byggnader/494511/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/8-timmar-med-brinnande-ryska-byggnader/494511/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785264600000
-    },
-    {
-      "title": "FIFA kan sälja ut VM till privata investerare",
-      "description": "Organisationen planerar nytt dotterbolag för att finansiera turneringar I dag dök det upp en artikel i The Times om att FIFA planerar att sälja delar av de kommersiella rättigheterna för VM till privata investerare. Genom att bilda ett nytt dotterbolag vill organisationen förändra hur sportens största turneringar finansieras genom att samla alla kommersiella rättigheter för både herrarnas och damernas VM, samt klubblags-VM. Enligt uppgifter till internationell press är målet att sälja ungefär 20 procent av detta bolag till externa investerare. Förutom de privata ägarna föreslås det att FIFA:s 211 medlemsförbund ska få dela på en ägarandel på 20 procent. Upplägget skulle inte bara innebära ett rejält ekonomiskt lyft för förbunden, utan även för FIFA:s ordförande Gianni Infantino, som enligt artikeln kan tjäna över 600 miljoner kronor på affären. Planerna har dock mött ett rätt så brutalt motstånd från det europeiska fotbollsförbundet, UEFA. I ett skarpt uttalande menar de att FIFA nu går över en gräns som aldrig borde passeras. UEFA kritiserar bristen på insyn och betonar att sportens själ samt styre inte är handelsvaror. De poängterar att fotbollen tillhör alla och att FIFA inte har rätten att sälja ut dess framtid. Liknande modeller har tidigare testats i nationella ligor i Frankrike samt Spanien, men att applicera det på världsmästerskapen ses som ett historiskt och kontroversiellt trendbrott. För att förslaget ska bli verklighet krävs dock ett brett stöd från majoriteten av världens nationella fotbollsförbund. Detta är ju något som Infantino ofta har så det återstår väl att se vad det blir av detta. L&auml;s vidare och kommentera: https://feber.se/samhalle/fifa-kan-salja-ut-vm-till-privata-investerare/494517/ L&auml;s mer om FIFA , VM-rättigheter , privata investerare , Gianni Infantino , UEFA , fotbollsfinansiering",
-      "link": "https://feber.se/samhalle/fifa-kan-salja-ut-vm-till-privata-investerare/494517/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/fifa-kan-salja-ut-vm-till-privata-investerare/494517/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785263400000
-    },
-    {
-      "title": "Land Rover lägger ner Discovery Sport",
-      "description": "Hej då! Land Rovers billigaste modell, Discovery Sport, läggs ner vid årsskiftet. Det har Land Rover nu bekräftat. Det är inte underligt att den nuvarande modellen, som började säljas 2015, läggs ner men det tråkiga är att den inte får någon ersättare. Modellen har varit Land Rovers billigaste modell och kostade i Sverige från dryga 600.000 kronor. Vill man ha en Land Rover nu får man betala från 900.000 kronor för antingen Discovery eller Defender. Lilla Range Rover Evoque finns dock kvar, den börjar på 625.000 kronor. I Storbritannien kan man fortfarande beställa modellen, men här i Sverige är beställningsfunktionen avstängd. Enligt Autocar är nu Volvo XC90 den äldsta bilmodellen som finns till försäljning i Storbritannien. Volvo har uppdaterat XC90 väl och designen var en fullträff från början, så jag tycker att den håller måttet ett tag till. En anledning till att Discovery Sport inte får fortsätta är att Land Rover har varit dåliga på att uppdatera den, vilket gör att den bland annat saknar vissa säkerhetsfunktioner som det nu är krav på. L&auml;s vidare och kommentera: https://feber.se/bil/land-rover-lagger-ner-discovery-sport/494492/ L&auml;s mer om Discovery Sport , Range Rover Evoque , Defender , Volvo XC90",
-      "link": "https://feber.se/bil/land-rover-lagger-ner-discovery-sport/494492/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/land-rover-lagger-ner-discovery-sport/494492/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785261600000
     },
     {
       "title": "Nike x Hyperice Air Zoom Hyperslide",
@@ -1634,26 +1684,6 @@
       "timestamp": 1785201630000
     },
     {
-      "title": "BRABUS x AB Yachts Yacht Partnership",
-      "description": "",
-      "link": "https://uncrate.com/brabus-x-ab-yachts-yacht-partnership/",
-      "guid": "https://uncrate.com/brabus-x-ab-yachts-yacht-partnership/",
-      "image": "https://uncrate.com/assets_c/2026/07/brabus-ab-yachts-yacht-partnership-1-thumb-960xauto-192352.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785193200000
-    },
-    {
-      "title": "Zodiac Super Sea Wolf Pro-Diver Watch",
-      "description": "",
-      "link": "https://uncrate.com/zodiac-super-sea-wolf-pro-diver-watch/",
-      "guid": "https://uncrate.com/zodiac-super-sea-wolf-pro-diver-watch/",
-      "image": "https://uncrate.com/assets_c/2026/07/zodiac-super-sea-wolf-pro-diver-watch-2-darkened-thumb-960xauto-192356.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785191400000
-    },
-    {
       "title": "Forskare i åldrande: Så gammal kan din kropp bli om du aldrig blir sjuk",
       "description": "Hur många år tror du egentligen att din kropp skulle kunna överleva om du var 100 procent fri från sjukdomar hela ditt liv? En ny studie ger ett mycket konkret svar.",
       "link": "https://illvet.se/manniskan/forskare-i-aldrande-presenterar-siffror-sa-gammal-kan-din-kropp-bli-teoretiskt-om-du-aldrig-ar-sjuk",
@@ -1662,26 +1692,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785189658000
-    },
-    {
-      "title": "Bandit9 Ducati 821 Sculptural Motorcycle",
-      "description": "",
-      "link": "https://uncrate.com/bandit9-ducati-821-sculptural-motorcycle/",
-      "guid": "https://uncrate.com/bandit9-ducati-821-sculptural-motorcycle/",
-      "image": "https://uncrate.com/assets_c/2026/07/bandit9-ducati-821-sculptural-motorcycle-1-thumb-960xauto-192350.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785189600000
-    },
-    {
-      "title": "Garb: Essentials",
-      "description": "",
-      "link": "https://uncrate.com/garb-essentials/",
-      "guid": "https://uncrate.com/garb-essentials/",
-      "image": "https://uncrate.com/assets_c/2026/07/garb-essentials-darkened-thumb-960xauto-192354.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785186000000
     },
     {
       "title": "Överraskande nytt fynd: Kan vara sällsynt bevis på förstörelsen av Salomos tempel i Jerusalem",
@@ -2502,16 +2512,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1784957520000
-    },
-    {
-      "title": "Ny studie avslöjar: Brittiska kolonister förde med sig smittkoppsviruset till Australien – dödade flera hundra tusen människor",
-      "description": "Kort efter att de första brittiska kolonisterna anlände till Australien började ursprungsbefolkningen dö i stora skaror. Hittills har forskare ansett att det var en tillfällighet, men nu pekar en omfattande studie på en skrämmande möjlighet.",
-      "link": "https://varldenshistoria.se/samhalle/kolonier/ny-studie-avslojar-brittiska-kolonister-forde-med-sig-smittkoppsviruset-till-australien-vilket-ledde-till-att-flera-hundra-tusen-manniskor-dog",
-      "guid": "https://varldenshistoria.se/samhalle/kolonier/ny-studie-avslojar-brittiska-kolonister-forde-med-sig-smittkoppsviruset-till-australien-vilket-ledde-till-att-flera-hundra-tusen-manniskor-dog",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784955631000
     },
     {
       "title": "Stilen stockholmarna INTE vill se i sommar",
