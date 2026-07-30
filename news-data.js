@@ -1,8 +1,138 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-30T19:07:38.944Z",
+  "updatedAt": "2026-07-30T21:58:43.994Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Historiskt börslyft på Wall Street",
+      "description": "It-jättens värde rekordökade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2d089558-a666-43ef-bc1c-eabc9d5a8c25",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2d089558-a666-43ef-bc1c-eabc9d5a8c25",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785448340000
+    },
+    {
+      "title": "Försvunnen i 53 år efter kuppen i Chile – till Sverige",
+      "description": "Bernarda Vera försvann liksom många andra vänsteraktivister under militärkuppen i Chile 1973. Hennes familj och vänner trodde att hon hade dödats av militären, men hon lyckades fly. Nu har hon hittats efter 53 år – med hjälp av bland annat information från Sverige.",
+      "link": "https://www.expressen.se/nyheter/varlden/forsvunnen-i-53-ar-efter-kuppen-i-chile-till-sverige/",
+      "guid": "https://www.expressen.se/nyheter/varlden/forsvunnen-i-53-ar-efter-kuppen-i-chile-till-sverige/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785448296000
+    },
+    {
+      "title": "HTV: Hampus efter förlusten mot Anderlecht",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-hampus-efter-foerlusten-mot-anderlecht",
+      "guid": "f830ae76-2378-4b1a-ae6e-31d6c373555a",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/f5d9a3ed71f60ae7ffce443d0cd13f10c3773304-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785447734000
+    },
+    {
+      "title": "Melonis hot: Kan stoppa Schengensamarbetet",
+      "description": "Skräckscener utspelar sig i den spanska exklaven, enligt Italiens premiärminister Giorgia Meloni. Lyckas Spanien inte skydda sina gränser hotar hon att stoppa Schengensamarbetet med landet. ”Efter dessa möten är vi redo att ingripa”, skriver hon på X.",
+      "link": "https://www.expressen.se/nyheter/varlden/melonis-hot-kan-stoppa-schengensamarbetet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/melonis-hot-kan-stoppa-schengensamarbetet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785446110000
+    },
+    {
+      "title": "Livräddarna i väskan - så packar du smartast",
+      "description": "Så packar du smart inför utflykten eller semestern.",
+      "link": "https://www.mitti.se/nyheter/livraddarna-i-vaskan--sa-packar-du-smartast-6.3.370201.898cac2fa8",
+      "guid": "https://www.mitti.se/nyheter/livraddarna-i-vaskan--sa-packar-du-smartast-6.3.370201.898cac2fa8",
+      "image": "https://www.mitti.se/image-3.373727.296565.20260730212421.4cfc3349ad?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785444840000
+    },
+    {
+      "title": "1-3-förlust i Bryssel",
+      "description": "Hammarby skaffade sig en drömöppning på returmötet med Anderlecht, då Paulos Abraham tystade Lotto Park för resten av den första halvleken då han tog tillvara på stolpreturen efter Victor Linds halvdi",
+      "link": "https://www.hammarbyfotboll.se/nyheter/1-3-foerlust-i-bryssel",
+      "guid": "e6cb400f-cbb6-43e6-93df-ae83eab77103",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/8c9ebccbd9e3c7dd50fe69987b2d2028da34d954-5058x2529.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785442947000
+    },
+    {
+      "title": "Farnborough Airshow 2026: De största affärerna civilt och militärt",
+      "description": "Varje år samlas bolag på Farnborough Airshow för att se det senaste inom allt vad gäller flyg, sensorer, radar och mer. Mässan hölls den 20 till 24 juli i år, och ur den kom flera affärer. Branschorganisationen ADS summerade de fyra första dagarna till annonserade affärer för 62,9 miljarder pund, motsvarande 894 miljarder kronor. Fler […]",
+      "link": "https://www.dagensps.se/bors-finans/farnborough-airshow-2026-de-storsta-affarerna-civilt-och-militart/",
+      "guid": "https://www.dagensps.se/?p=1660148",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-3-3.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785442050000
+    },
+    {
+      "title": "Systerdottern: Kungen ”chef” men äktenskapet jämställt",
+      "description": "Kungen är chefen i familjen, men bara officiellt. Det avslöjar kungens systerdotter i en lång intervju där hon berättar om kungligheternas liv bakom kulisserna. Och hon säger att hon förlorade sin prinsesstitel för att hon ”gifte ner sig”.",
+      "link": "https://www.expressen.se/nyheter/kungligt/systerdottern-kungen-chef-men-aktenskapet-jamstallt/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/systerdottern-kungen-chef-men-aktenskapet-jamstallt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785441858000
+    },
+    {
+      "title": "Saknade flickan utanför Tjörn hittad död",
+      "description": "Den saknade flickan efter båtolyckan utanför Tjörn har hittats död. – Barnet anträffades i samband med den sökinsats som vi genomfört tillsammans med kustbevakningen under eftermiddagen och kvällen, säger Adam Isaksson Samara, presstalesperson vid polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/saknade-flickan-utanfor-tjorn-hittad/",
+      "guid": "https://www.expressen.se/nyheter/sverige/saknade-flickan-utanfor-tjorn-hittad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785441686000
+    },
+    {
+      "title": "Saknade barnet hittat avlidet",
+      "description": "Försvann i båtolyckan vid Tjörn",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc00b129-c369-4f28-b779-eea1331b1d8e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc00b129-c369-4f28-b779-eea1331b1d8e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785441264000
+    },
+    {
+      "title": "Hårda orden mot Johan Forssell: ”Obefintlig empati”",
+      "description": "Tusentals migranter har stormat den spanska exklaven Ceuta. Sverige kommer inte ta emot några migranter, säger migrationsminister Johan Forssell (M). – Väldigt obefintlig empati, kontrar Annika Hirvonen, Miljöpartiets migrationspolitiska talesperson.",
+      "link": "https://www.expressen.se/nyheter/varlden/harda-orden-mot-johan-forssell-obefintlig-empati-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/harda-orden-mot-johan-forssell-obefintlig-empati-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785440613000
+    },
+    {
+      "title": "Akut risk för vattenbrist i Örnsköldsvik",
+      "description": "En läcka i en huvudvattenledning gör att det råder akut risk för vattenbrist i Örnsköldsvik. Tankar med dricksvatten har börjat placeras ut.",
+      "link": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
+      "guid": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785439236000
+    },
+    {
+      "title": "Kristersson om båtolyckan: \"Så hjärtskärande\"",
+      "description": "Statsministerns ord om båtolyckan vid Tjörn",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ffa63d1-230e-4a7c-bcd7-e5e8391a360f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9ffa63d1-230e-4a7c-bcd7-e5e8391a360f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785439080000
+    },
     {
       "title": "Har du problem med alkoholen?",
       "description": "Dagens fråga Tidigare idag berättade vi om en undersökning som visat på trevlig resultat för de som dricker alldeles för mycket. Semaglutid i tablettform har helt enkelt visat att suget efter alkohol minskar och man dricker mindre, vare sig man vill det inte eller inte. Men hur står det till med ditt drickande? L&auml;s vidare och kommentera: https://feber.se/har-du-problem-med-alkoholen/494586/ L&auml;s mer om Semaglutid , tabletter , alkohol , hälsa , Alkoholberoende , läkemedelsforskning",
@@ -14,7 +144,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785438000000
     },
     {
-      "title": "Unga köpte biljetter till evenemang som inte finns – tiotals har samlats i Mårtensdal",
+      "title": "Unga köpte biljetter till evenemang som inte finns – tiotals samlades i Mårtensdal",
       "description": "Biljetter såldes på Snapchat, men när köparna kom till platsen fanns där inget evenemang.",
       "link": "https://yle.fi/a/7-10102894?origin=rss",
       "guid": "https://yle.fi/a/7-10102894",
@@ -25,7 +155,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Han slog banrekordet med bisarra bilen!",
-      "description": "\"Det är oändligt med grepp!\" När man vill köra fort med bil måste man ha en rejäl motor, rejäla bromsar och massor med grepp. Det senare ordnar McMurtry Spéirling PURE genom att fläktar helt enkelt suger fast bilen i marken. Bisarrt men effektivt. Marcus Berggren är en trevlig typ som jag fått känna på bilen. Först fick han åka till McMurtrys fabrik i Bristol för att prova ut kläder och få en stol formad efter hans kropp. Sedan begav han sig till Padborg Park i Danmark för att köra bilen. Redan efter första körningen fick han en bra tid och var rätt överväldigad. – Det är det sjukaste jag har varit med om! Jag frågade om det verkligen var så sjukt, många bilar är ju väldigt snabba idag. Men enligt Marcus är det verkligen något helt annat, han blev helt chockad över hur snabbt det gick att köra bilen. Redan på andra körningen satte Marcus ett nytt banrekord, snabbare än både det officiella banrekordet som satts av en Porsche 911 GT3 R och det inofficiella som sats av en Formel 1-bil. Dessutom blev han snabbare än en dansk journalist på plats, och det ska han hedras för. L&auml;s vidare och kommentera: https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/ L&auml;s mer om Marcus Berggren , McMurtry Spéirling PURE , Padborg Park , Porsche 911 GT3 R , banrekord , Bristol",
+      "description": "\"Det är oändligt med grepp!\" När man vill köra fort med bil måste man ha en rejäl motor, rejäla bromsar och massor med grepp. Det senare ordnar McMurtry Spéirling PURE genom att fläktar helt enkelt suger fast bilen i marken. Bisarrt men effektivt. Marcus Berggren är en trevlig typ som fått känna på bilen. Först fick han åka till McMurtrys fabrik i Bristol för att prova ut kläder och få en stol formad efter sin kropp. Sedan begav han sig till Padborg Park i Danmark för att köra bilen. Redan efter första körningen fick han en bra tid och var överväldigad. – Det är det sjukaste jag har varit med om! Jag frågade om det verkligen var så sjukt, många bilar är ju väldigt snabba idag. Men enligt Marcus är det verkligen något helt annat, han blev helt chockad över hur snabbt det gick att köra bilen. Redan på andra körningen satte Marcus ett nytt banrekord, snabbare än både det officiella banrekordet som satts av en Porsche 911 GT3 R och det inofficiella som satts av en Formel 1-bil. Dessutom blev han snabbare än en dansk journalist på plats, och det ska han hedras för. L&auml;s vidare och kommentera: https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/ L&auml;s mer om Marcus Berggren , McMurtry Spéirling PURE , Padborg Park , Porsche 911 GT3 R , banrekord , Bristol",
       "link": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -42,16 +172,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785436200000
-    },
-    {
-      "title": "Akut risk för vattenbrist i Örnsköldsvik",
-      "description": "En läcka i en huvudvattenledning gör att det råder akut risk för vattenbrist i Örnsköldsvik. Tankar med dricksvatten har börjat placeras ut.",
-      "link": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
-      "guid": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785435632000
     },
     {
       "title": "Skjutsade barn – och drack öl",
@@ -124,10 +244,10 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785431248000
     },
     {
-      "title": "Cyklister testar jobbigt hinderbana",
-      "description": "Krävs en del skills för att fixa den Här är ett nytt klipp från Red Bull Bike som visar hur det gick när ett antal cyklister skulle försöka köra igenom en hinderbana som man ansåg var mer eller mindre omöjligt att klara av. Den flytande hinderbanan är cirka 200 meter lång och består av hinder som gungbrädor, smala balansstockar, wallrides, en träspång och en balanslina. I början av klippet får ett gäng amatörcyklister testa hinderbanan utan några större framgångar. Därefter äntrar de båda proffscyklisterna Kriss Kyle och Danny MacAskill banan för att visa upp hur proffsen gör. L&auml;s vidare och kommentera: https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/ L&auml;s mer om Kriss Kyle , Danny MacAskill , hinderbana , Red Bull , Red Bull Bike",
-      "link": "https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/?utm_source=rss&utm_medium=feed",
+      "title": "Cyklister testar jobbig hinderbana",
+      "description": "Krävs en del skills för att fixa den Här är ett nytt klipp från Red Bull Bike som visar hur det gick när ett antal cyklister skulle försöka köra igenom en hinderbana som man ansåg var mer eller mindre omöjligt att klara av. Den flytande hinderbanan är cirka 200 meter lång och består av hinder som gungbrädor, smala balansstockar, wallrides, en träspång och en balanslina. I början av klippet får ett gäng amatörcyklister testa hinderbanan utan några större framgångar. Därefter äntrar de båda proffscyklisterna Kriss Kyle och Danny MacAskill banan för att visa upp hur proffsen gör. L&auml;s vidare och kommentera: https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/ L&auml;s mer om Kriss Kyle , Danny MacAskill , hinderbana , Red Bull , Red Bull Bike",
+      "link": "https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/?utm_source=rss&utm_medium=feed",
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
@@ -175,7 +295,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Haveri för SD:s buss",
-      "description": "Det blev plötsligt stopp för SD:s valturné redan innan den börjat. Ett av SD-bussens däck exploderade på motorvägen norr om Stockholm på torsdagen. – Vi fick en explosionsartad start på valrörelsen, säger SD:s presschef Oscar Cavalli Björkman.",
+      "description": "Det blev plötsligt stopp för SD:s valturné redan innan den börjat. Ett av SD-bussens däck exploderade på motorvägen norr om Stockholm på torsdagen. – Vi fick en explosionsartad start på valrörelsen, säger SD:s presschef Oskar Cavalli-Björkman.",
       "link": "https://www.expressen.se/nyheter/politik/haveri-for-sds-buss/",
       "guid": "https://www.expressen.se/nyheter/politik/haveri-for-sds-buss/",
       "image": "",
@@ -355,7 +475,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Afrikansk svinpest har påträffats i Finland",
-      "description": "Det är första gången som sjukdomen konstaterats i Finland. Den påträffades hos vilda djur, men är ett hårt slag mot svingårdarna i landet.",
+      "description": "Det är första gången som sjukdomen konstaterats i Finland. Den påträffades hos vilda djur, men är ett hårt slag mot svinuppfödarna.",
       "link": "https://yle.fi/a/7-10102889?origin=rss",
       "guid": "https://yle.fi/a/7-10102889",
       "image": "",
@@ -634,26 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785416400000
     },
     {
-      "title": "Mats Persson (L) lämnar riksdagen",
-      "description": "Den tidigare L-ministern Mats Persson lämnar riksdagen. Han hoppar av en dryg månad innan valet.",
-      "link": "https://www.expressen.se/nyheter/politik/mats-persson-l-lamnar-riksdagen/",
-      "guid": "https://www.expressen.se/nyheter/politik/mats-persson-l-lamnar-riksdagen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785416174000
-    },
-    {
-      "title": "Stor vattenläcka i Eskilstuna",
-      "description": "En stor vattenläcka skapar problem i Eskilstuna. Det råder totalstopp i produktionen hos Fazer i Eskilstuna, som tillverkar Skogaholmslimpan.",
-      "link": "https://www.expressen.se/nyheter/sverige/stor-vattenlacka-i-eskilstuna-8zano/",
-      "guid": "https://www.expressen.se/nyheter/sverige/stor-vattenlacka-i-eskilstuna-8zano/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785415955000
-    },
-    {
       "title": "Rice bran compound may help ease irritable bowel symptoms",
       "description": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
@@ -684,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785414981000
     },
     {
-      "title": "Klassiskt charterbolag räddades av staten – nu säljs det",
-      "description": "När Thomas Cook kollapsade 2019 var Tyskland tvunget att kliva in och rädda Condor. Men nu säljer man sitt innehav. Det brittiska investmentbolaget Attestor planerar att ta över det fulla ägandet av det tyska charterbolaget Condor senast den 30 september. Affären innebär att Attestor köper de återstående 49 procenten av bolaget från den tyska staten, […]",
-      "link": "https://www.dagensps.se/weekend/klassiskt-charterbolag-raddades-av-staten-nu-saljs-det/",
-      "guid": "https://www.dagensps.se/?p=1660131",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdljhh1vanjjgc-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785414601000
-    },
-    {
       "title": "Microsoft ska släppa \"superapp\" för AI-tjänster",
       "description": "Allt-i-ett-app för Copilot, Autopilot och annat När Microsoft igår presenterade sitt kvartalsresultat uppgav företagets VD Satya Nadella att man planerar att släppa en \"super app\" där många av de AI-tjänster som idag ingår i olika Copilot-tjänster kommer att samlas. Nadella sa under ett investerarsamtal: \"Copilot is evolving rapidly from chat to Cowork to Autopilots. This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\" Nadella uppgav även att den kommande appen skulle rikta sig till både konsumenter och företag. Den amerikanska tidningen Fortune uppgav redan i maj att Microsoft arbetade på att utveckla en app där tjänster som AI-assistenten Copilot, AI-kodassistenten GitHub Copilot, samarbetstjänsten Copilot Cowork och Microsofts AI-agentsystem Autopilot skulle integreras. Detta ser nu ut att ha bekräftas av Nadella, men exakt när appen kan släppas finns det inga uppgifter om ännu. L&auml;s vidare och kommentera: https://feber.se/internet/microsoft-ska-slappa-superapp-for-ai-tjanster/494576/ L&auml;s mer om Satya Nadella , Copilot , GitHub Copilot , Autopilot , Copilot Cowork , super app",
       "link": "https://feber.se/internet/microsoft-ska-slappa-superapp-for-ai-tjanster/494576/?utm_source=rss&utm_medium=feed",
@@ -714,16 +804,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785413617000
     },
     {
-      "title": "Dubbla skogsbränder i Västmanland – helikoptrar på plats",
-      "description": "Två skogsbränder rasar i Västmanland på torsdagen. Helikoptrar har satts in för att bekämpa bränder i Surahammar och Skinnskatteberg, rapporterar VLT . Samtidigt har E4 mellan Gävle och Söderhamn stängts av på grund av en brand vid sidan av vägen.",
-      "link": "https://www.expressen.se/nyheter/sverige/dubbla-skogsbrander-i-vastmanland-helikoptrar-pa-plats/",
-      "guid": "https://www.expressen.se/nyheter/sverige/dubbla-skogsbrander-i-vastmanland-helikoptrar-pa-plats/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785413515000
-    },
-    {
       "title": "Häng med hem till Mansory",
       "description": "De som gör groteska bilar Vi har skrivit om Mansory många gånger här på Feber, och inte många gånger har ni älskat vad de har gjort. En snubbe som heter Mark McCann har köpt en av få Mansory-bilar som faktiskt är snygga, en Bugatti Veyron i silver och kolfiber. Anledningen till att den är vacker är att det mer eller mindre är en kopia av Bugatti Veyron Pur Sang, en specialutgåva som bara gjordes i fem exemplar. Och Mansory har gjort ett rejält jobb, till exempel har Mansory fräst ut både stötfångarna ur stora block av aluminium. Mark köpte bilen när den var rejält trasig, hela motorn var i två delar. Men nu börjar han få ihop den. Som en del av detta besöker han Mansory i Tyskland. Inte bara föra att prata om bilen utan också för att prata om Mansory. Guide är ingen annan än Mansory-grundaren Kourosh Mansory. Ett intressant besök där vi får se hur de arbetar för att göra sina udda bilar. L&auml;s vidare och kommentera: https://feber.se/bil/hang-med-hem-till-mansory/494572/ L&auml;s mer om Mansory , Mark McCann , Kourosh Mansory , Bugatti Veyron , Pur Sang , Veyron",
       "link": "https://feber.se/bil/hang-med-hem-till-mansory/494572/?utm_source=rss&utm_medium=feed",
@@ -732,16 +812,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785412800000
-    },
-    {
-      "title": "Patrik och Sara grep in vid båtolyckan vid Tjörn",
-      "description": "Rop på hjälp och ljudet av en visselpipa från vattnet fick Sara och Patrik Dokken att agera. Tillsammans räddade de pappan och sonen ur vattnet på Tjörn. – Jag simmade ut och hämtade den lille, och sen drog vi upp pappan, säger Patrik till Aftonbladet .",
-      "link": "https://www.expressen.se/nyheter/sverige/patrik-och-sara-grep-in-vid-batolyckan-vid-tjorn/",
-      "guid": "https://www.expressen.se/nyheter/sverige/patrik-och-sara-grep-in-vid-batolyckan-vid-tjorn/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785411631000
     },
     {
       "title": "Tre stora kappseglingsevenemang ordnas i Borgå under två intensiva veckoslut",
@@ -774,16 +844,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785410379000
     },
     {
-      "title": "Spetsade sig själv på vandringsstaven – fortsatte gå",
-      "description": "David Cifaldi, 32, skulle bestiga Montanas högsta berg när han plötsligt tappade fotfästet. Han föll – och spetsades på sin egen vandringsstav. Sen fortsatte han gå i 16 kilometer.",
-      "link": "https://www.expressen.se/nyheter/varlden/spetsade-sig-sjalv-pa-vandringsstaven-fortsatte-ga/",
-      "guid": "https://www.expressen.se/nyheter/varlden/spetsade-sig-sjalv-pa-vandringsstaven-fortsatte-ga/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785409524000
-    },
-    {
       "title": "Nya Nyköpings resecentrum har nått halvvägs",
       "description": "Halva kvar Ostlänken är ett stort projekt som, när den är klar, ska ge dubbelspårig järnväg mellan Järna och Linköping. Sträckan är 16 mil lång och projektet väntas vara klart 2035. Som en del av projektet bygger man nu om Nyköpings resecentrum. I det här klippet från Trafikverket berättar man vad man har gjort, vad man håller på med och vad som ska göras. Nedan finns en två år gammal film om projektet. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-nykopings-resecentrum-har-natt-halvvags/494571/ L&auml;s mer om Ostlänken , Trafikverket , Linköping , Nyköpings resecentrum , Järna , järnväg",
       "link": "https://feber.se/samhalle/nya-nykopings-resecentrum-har-natt-halvvags/494571/?utm_source=rss&utm_medium=feed",
@@ -812,16 +872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785408426000
-    },
-    {
-      "title": "Biltjuv försökte köra på dansk polis – skottlossning",
-      "description": "Biltjuv jagades i Danmark • Skottlossning",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0746c214-54df-426c-bec5-3171e2447569",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0746c214-54df-426c-bec5-3171e2447569",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785407663000
     },
     {
       "title": "Tonåring slickade på sugrör, slipper fängelse",
@@ -902,16 +952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785403800000
-    },
-    {
-      "title": "Bränder på Kreta – tusentals evakueras",
-      "description": "Tusentals människor har evakuerats på Kreta till följd av bränderna på den grekiska ön. I Frankrike får människor återvända hem i närheten av jättebranden i Gironde.",
-      "link": "https://www.expressen.se/nyheter/varlden/brander-pa-kreta-tusentals-evakueras/",
-      "guid": "https://www.expressen.se/nyheter/varlden/brander-pa-kreta-tusentals-evakueras/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785403151000
     },
     {
       "title": "Därför har en molnfri himmel så många blå färger",
@@ -1088,7 +1128,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Österåker skulle bli först i Sverige med gratis bältrosvaccin för invånare över 69 år. Nu har beslutet överklagats och subventionen pausas i väntan på förvaltningsrättens besked.",
       "link": "https://www.mitti.se/nyheter/tvarbroms-for-gratis-baltrosvaccin--overklagat-av-politisk-vilde-6.3.377605.a4bc19a65f",
       "guid": "https://www.mitti.se/nyheter/tvarbroms-for-gratis-baltrosvaccin--overklagat-av-politisk-vilde-6.3.377605.a4bc19a65f",
-      "image": "https://www.mitti.se/image-3.369934.301223.20260730081916.2153360130?format=jpeg",
+      "image": "https://www.mitti.se/image-3.369934.301223.20260730212442.14e3b40624?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785390698000
@@ -1388,7 +1428,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "I lördags fick polisen in fyra larm om hög musik på Kungsholmen.",
       "link": "https://www.mitti.se/nyheter/flera-ringde-polisen-om-hog-musik-pa-kungsholmen-6.3.377478.dd293af3ff",
       "guid": "https://www.mitti.se/nyheter/flera-ringde-polisen-om-hog-musik-pa-kungsholmen-6.3.377478.dd293af3ff",
-      "image": "https://www.mitti.se/image-3.377127.301218.20260729143451.1.b5eea3f461?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377127.301218.20260730211605.1.b4a51eae1d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785333859000
@@ -1408,7 +1448,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Tre personer döms efter en stor narkotikahärva i Solna. En 35-årig man får 12 års fängelse för synnerligen grovt narkotikabrott med hundratals kilo droger och flera pistoler.",
       "link": "https://www.mitti.se/nyheter/man-forvarade-over-300-kilo-narkotika-i-bostad-i-solna-6.3.377601.dd0df16e82",
       "guid": "https://www.mitti.se/nyheter/man-forvarade-over-300-kilo-narkotika-i-bostad-i-solna-6.3.377601.dd0df16e82",
-      "image": "https://www.mitti.se/image-3.208954.301245.20260729133321.2ae55a5beb?format=jpeg",
+      "image": "https://www.mitti.se/image-3.208954.301245.20260730210833.87f04a30e4?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785330137000
@@ -1668,7 +1708,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Stock Home Video i Vasastan har nu öppnat, efter att Rebecka och Gabrielle tröttnat på Streamingtjänster som Netflix, Disney och HBO tror de att läget är rätt att satsa på DVD- blu-ray och VHS-filmer. Filmbutik, nyöppnat, 2026.",
       "link": "https://www.mitti.se/nyheter/massor-av-kunder-till-stans-nya-videobutik-6.3.377492.7dc048598c",
       "guid": "https://www.mitti.se/nyheter/massor-av-kunder-till-stans-nya-videobutik-6.3.377492.7dc048598c",
-      "image": "https://www.mitti.se/image-3.377117.301116.20260729043006.f4d61caad9?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377117.301116.20260730205350.1ac1eea332?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785297600000
@@ -2018,7 +2058,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Pensionären Mikael i Skärholmen väljer bort kort och appar för att leva helt med kontanter. Nu varnar experten för att livsstilen blir allt svårare i Sveriges kontantlösa samhälle.",
       "link": "https://www.mitti.se/nyheter/michael-vagrar-det-digitala--handlar-bara-med-kontanter-6.3.376843.9fd089e4bc",
       "guid": "https://www.mitti.se/nyheter/michael-vagrar-det-digitala--handlar-bara-med-kontanter-6.3.376843.9fd089e4bc",
-      "image": "https://www.mitti.se/image-3.377106.301084.20260728075120.02aecd64f5?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377106.301084.20260730203339.c82e14e696?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785214359000
@@ -2304,16 +2344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785140981000
     },
     {
-      "title": "Öppna träningar vecka 31",
-      "description": "Här är veckans öppna träningar. Herrlaget tränar på Årsta IP. Damlaget tränar på Hammarby IP.Med reservation för ändringar med kort varsel.Herrlagets öppna träningar vecka 31Herrarna reser i veckan ti",
-      "link": "https://www.hammarbyfotboll.se/nyheter/oeppna-traeningar-vecka-312026",
-      "guid": "0f54007f-19c4-49e8-bd11-17eb9db04a5c",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e045aa999f911f3c005db14fdffd5ea5015e46a9-6000x4000.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785140744000
-    },
-    {
       "title": "After 241 days in orbit this NASA astronaut is finally home",
       "description": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
@@ -2432,16 +2462,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785081633000
-    },
-    {
-      "title": "HTV: Victor efter BP - \"Vi måste vara smartare\"",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-victor-efter-bp-vi-maste-vara-smartare",
-      "guid": "01c3b640-ec77-4240-acbe-9cc06317e90e",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/85c193191c6b23a0d0899e2957c301b5003184d1-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785076813000
     },
     {
       "title": "The best way to save giant sequoias may be more fire",
@@ -2608,7 +2628,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Mannen i 20-årsåldern dömdes till fyra års fängelse för att ha våldtagit två 14-åriga flickor i Botkyrka efter att ha erbjudit dem droger.",
       "link": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
       "guid": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
-      "image": "https://www.mitti.se/image-3.333502.300955.20260725163023.cb61889074?format=jpeg",
+      "image": "https://www.mitti.se/image-3.333502.300955.20260730204607.9ea44e11e2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784995200000
