@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-29T21:47:12.100Z",
+  "updatedAt": "2026-07-30T01:21:29.896Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Nya attacker mot Iran – USA: ”Ett kraftfullt svar”",
+      "description": "Efter Trumps hot har USA genomfört nya attacker mot Iran. Anfallen är ett ”kraftfullt svar” skriver det amerikanska militärkommandot. Trump uppges överväga en eskalering – och kan inleda en två veckor lång offensiv med omfattande attacker, skriver Wall Street Journal .",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785374384000
+    },
+    {
+      "title": "Explosioner i Kiev",
+      "description": "Volodymyr Zelenskyj varnade för nya ryska omfattande attacker. Bara några timmar senare hördes det explosioner i Kiev och flera andra städer i Ukraina, enligt Kyiv Independent .",
+      "link": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-ba4dk/",
+      "guid": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-ba4dk/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785372628000
+    },
+    {
+      "title": "Mc-förare död efter olycka",
+      "description": "Kolliderade med stolpe",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=18ad5677-14f4-4ca9-9422-544a78c9db1e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=18ad5677-14f4-4ca9-9422-544a78c9db1e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785372619000
+    },
+    {
+      "title": "Nya attacker mot Iran",
+      "description": "USA: ”Ett kraftfullt svar”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785371859000
+    },
+    {
+      "title": "Dramatisk utfrågning – svarade samma sak 100 gånger",
+      "description": "Republikanerna i senaten gick hårt mot Anthony Fauci. Men han åberopade det femte tillägget och svarade med tystnad över 100 gånger. Donald Trump gick också till attack mot den tidigare rådgivaren till Vita huset och kallade honom ”galen” på Truth Social .",
+      "link": "https://www.expressen.se/nyheter/varlden/dramatisk-utfragning-svarade-samma-sak-100-ganger-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/dramatisk-utfragning-svarade-samma-sak-100-ganger-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785369042000
+    },
+    {
+      "title": "Daily multivitamin may help older adults stay independent",
+      "description": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785368656000
+    },
+    {
+      "title": "Audi Q9 Full-Size SUV",
+      "description": "",
+      "link": "https://uncrate.com/audi-q9-full-size-suv/",
+      "guid": "https://uncrate.com/audi-q9-full-size-suv/",
+      "image": "https://uncrate.com/assets_c/2026/07/audi-q9-full-size-suv-3-thumb-960xauto-192392.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785366000000
+    },
+    {
+      "title": "Dricksfällan på semestern – svenskar betalar hellre för mycket än verkar snåla",
+      "description": "Det är inte bara språk, menyer och växelkurser som kan ställa till det på semestern. När notan kommer in blir många svenskar plötsligt osäkra – och väljer hellre att betala lite för mycket än att riskera att framstå som snåla. Det visar en ny undersökning från momondo. Ingen vill vara den snåla vid bordet Att […]",
+      "link": "https://www.dagensps.se/weekend/resor/dricksfallan-pa-semestern-svenskar-betalar-hellre-for-mycket-an-verkar-snala/",
+      "guid": "https://www.dagensps.se/?p=1659741",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/07/1-16.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785364800000
+    },
     {
       "title": "Utbredd vana kan ha överraskande konsekvens för din hjärna – nu ska forskare få oss att se åt ett nytt håll",
       "description": "Vi kan ha fokuserat på fel sak åratal. Detta påpekar en grupp forskare som har analyserat siffror från knappt 2 000 personer i tjugo år",
@@ -12,6 +92,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785362458000
+    },
+    {
+      "title": "RIMOWA x Winmau Aluminum Dartboard Case",
+      "description": "",
+      "link": "https://uncrate.com/rimowa-x-winmau-aluminum-dartboard-case/",
+      "guid": "https://uncrate.com/rimowa-x-winmau-aluminum-dartboard-case/",
+      "image": "https://uncrate.com/assets_c/2026/07/rimowa-winmau-aluminum-dartboard-case-3-thumb-960xauto-192390.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785362400000
     },
     {
       "title": "Bonusprinsen lever lyxliv som häktad",
@@ -42,6 +132,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785359578000
+    },
+    {
+      "title": "Everyday Carry: Prepped",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-prepped/",
+      "guid": "https://uncrate.com/everyday-carry-prepped/",
+      "image": "https://uncrate.com/assets_c/2026/07/edc-prepped-darkened-thumb-960xauto-192387.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785358800000
     },
     {
       "title": "Trumps nya hot",
@@ -174,6 +274,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785352636000
     },
     {
+      "title": "97 nya bombplan om dagen: USA skapade världens största vapenfabrik",
+      "description": "Europa kämpar just nu desperat för att hålla jämna steg med den ryska krigsproduktionen. När andra världskriget bröt ut befann sig USA i samma situation. Men då kallade presidenten in en man med helt speciella förmågor.",
+      "link": "https://varldenshistoria.se/teknik/vapen/vapen-under-andra-varldskriget/97-nya-bombplan-om-dagen-usa-skapade-varldens-storsta-vapenfabrik",
+      "guid": "https://varldenshistoria.se/teknik/vapen/vapen-under-andra-varldskriget/97-nya-bombplan-om-dagen-usa-skapade-varldens-storsta-vapenfabrik",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785351627000
+    },
+    {
       "title": "Skulle du vilja att krogen var öppet dygnet runt?",
       "description": "Dagens partyfråga Tidigare idag skrev vi om ett förslag från några oppositionspartier i Stockholm som vill utreda frågan om att tillåta alkoholservering dygnet runt . Jag tänkte att vi därför kunde kolla hur ni läsare ställer er till förslaget. Svara gärna på vår enkät nedan. Vill ni snacka mer om serveringstillstånd och hur länge ni tycker krogar ska få servera alkohol står kommentarsfältet till ert förfogande. L&auml;s vidare och kommentera: https://feber.se/skulle-du-vilja-att-krogen-var-oppet-dygnet-runt/494555/ L&auml;s mer om Stockholm , alkoholservering , serveringstillstånd , nattliv , krogar , Oppositionspartier",
       "link": "https://feber.se/skulle-du-vilja-att-krogen-var-oppet-dygnet-runt/494555/?utm_source=rss&utm_medium=feed",
@@ -304,16 +414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785345308000
     },
     {
-      "title": "Magdalena Andersson rasar mot Infantino: ”Stopp”",
-      "description": "Fifa-planen att sälja ut delar av fotbolls-VM får Magdalena Andersson att se rött. – Fotboll skapas inte av investeringsbanker och miljardärer, säger S-ledaren. Även idrottsminister Jakob Forssmed (KD) är kritisk mot planen, som han kallar ”stötande”.",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
-      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-rasar-mot-infantino-stopp/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785344532000
-    },
-    {
       "title": "Netflix har gjort en till dokumentär om Boeing",
       "description": "Med fokus på visselblåsarna Freefall: A Reckoning for Boeing är namnet på en ny dokumentär om Boeing. Man fokuserar på visselblåsaren John Barnett som mystiskt dog. I dokumentären får vi träffa anställda vid Boeings fabrik för 787 Dreamliner i Charleston, South Carolina. Vi får höra dem berätta om säkerhetsbrister, bland annat att skrotade delar satts tillbaka på flygplanen. Det här är den andra dokumentären om Boeing som regissören Rory Kennedy gör. Den första hette Downfall: The Case Against Boeing och i den medverkade bland andra John Barnett, som hittades död av en skottskada i sin pickup 2024. L&auml;s vidare och kommentera: https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/ L&auml;s mer om Boeing , John Barnett , Rory Kennedy , Dreamliner , Freefall: A Reckoning for Boeing , visselblåsare",
       "link": "https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/?utm_source=rss&utm_medium=feed",
@@ -362,16 +462,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785342600000
-    },
-    {
-      "title": "Omhäktad för dödsmisshandel av polis",
-      "description": "Den svenske polisen Christian Zedig misshandlades till döds i Köpenhamn i samband med en VM-match i fotboll. Nu omhäktas den misstänkte gärningsmannen i ytterligare fyra veckor. Den misstänkte har tidigare dömts till fängelse i sju år för att huggit en man i hjärtat med kniv.",
-      "link": "https://www.expressen.se/nyheter/omhaktad-for-dodsmisshandel-av-polis/",
-      "guid": "https://www.expressen.se/nyheter/omhaktad-for-dodsmisshandel-av-polis/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785342292000
     },
     {
       "title": "Recension: Tänk att en superhjältefilm år 2026 lyckas lära oss något om livet",
@@ -452,16 +542,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785340281000
-    },
-    {
-      "title": "Enormt raffinaderi i lågor",
-      "description": "Ett av Rysslands största • Attack av Ukraina",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/stora-raffinaderiet-i-lagor",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-raffinaderiet-i-lagor",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785339597000
     },
     {
       "title": "Nu kan du lukta Pepsi när du duschat",
@@ -564,16 +644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785337084000
     },
     {
-      "title": "Adam ger inte upp söket efter mamma och dotter",
-      "description": "”Vi har gjort fynd.” Adam Goll Rasmussen från Sjöräddningen står i en strandkant på Ramsön, norr om Tjörn. Insatsen efter olyckan med barnfamiljen är officiellt över. Men han vill inte lägga ner. – Det är extra mycket känslor när det är barn inblandade.",
-      "link": "https://www.expressen.se/nyheter/sverige/adam-ger-inte-upp-soket-efter-mamma-och-dotter/",
-      "guid": "https://www.expressen.se/nyheter/sverige/adam-ger-inte-upp-soket-efter-mamma-och-dotter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785336478000
-    },
-    {
       "title": "Trendbrottet – svensk ekonomi bromsar in",
       "description": "I juni minskade landets bnp med 0,2 procent, säsongsrensat jämfört med föregående månad, enligt bnp-indikatorns preliminära sammanställning. Svensk ekonomi bromsar in, visar nya bnp-siffror från SCB. Jag tolkar det ändå som bra siffror. Sverige är i en lågkonjunktur, men i en återhämtningsfas, säger Alexandra Stråberg, chefsekonom på Länsförsäkringar, till TT. I juni minskade landets bnp […]",
       "link": "https://www.dagensps.se/bors-finans/makro/trendbrottet-svensk-ekonomi-bromsar-in/",
@@ -592,16 +662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785336318000
-    },
-    {
-      "title": "Bussförare gripen",
-      "description": "Misstänkt efter olyckan i Lund",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ecbf50a1-d5b9-415a-bc30-9022b4fb41ef",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ecbf50a1-d5b9-415a-bc30-9022b4fb41ef",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785336169000
     },
     {
       "title": "Orosanmälningar för att jävlas med politiker äter socialtjänstens resurser",
@@ -652,16 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785334200000
-    },
-    {
-      "title": "Ryssland jagar Telegrams grundare – svarar med långfinger",
-      "description": "Ryssland anklagar och efterlyser Telegram-grundaren Pavel Durov för att ha underlättat terrorism. Svaret kommer snabbt – ett långfinger. Ryssland har väckt åtal mot Telegrams grundare Pavel Durov och anklagar honom för att ha underlättat terroristverksamhet genom meddelandetjänsten. Den ryska säkerhetstjänsten FSB meddelar att miljardären ska sättas upp på en internationell efterlysningslista. Telegram svarade omedelbart genom […]",
-      "link": "https://www.dagensps.se/varlden/ryssland-jagar-telegrams-grundare-svarar-med-langfinger/",
-      "guid": "https://www.dagensps.se/?p=1659871",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-tatan-syuflanatt-d66ba145.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785334038000
     },
     {
       "title": "Flera ringde polisen om hög musik på Kungsholmen",
@@ -742,16 +792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785331800000
-    },
-    {
-      "title": "Postnord körde över pojke",
-      "description": "20-årig kvinna anhållen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=15eb4610-6a18-4b98-b607-52cddab0456f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=15eb4610-6a18-4b98-b607-52cddab0456f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785331600000
     },
     {
       "title": "Färre fall av rattfylleri i sommar jämfört med i fjol",
@@ -1324,36 +1364,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785270600000
     },
     {
-      "title": "AG1 Pro",
-      "description": "",
-      "link": "https://uncrate.com/ag1-pro/",
-      "guid": "https://uncrate.com/ag1-pro/",
-      "image": "https://uncrate.com/assets_c/2026/07/ag1-thumb-960xauto-192189.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785267010000
-    },
-    {
-      "title": "Vice Pro Galaxy Golf Balls",
-      "description": "",
-      "link": "https://uncrate.com/vice-pro-galaxy-golf-balls/",
-      "guid": "https://uncrate.com/vice-pro-galaxy-golf-balls/",
-      "image": "https://uncrate.com/assets_c/2026/07/vice-galaxy-golf-balls-thumb-960xauto-192367.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785265200000
-    },
-    {
-      "title": "Nike x Hyperice Air Zoom Hyperslide",
-      "description": "",
-      "link": "https://uncrate.com/nike-x-hyperice-air-zoom-hyperslide/",
-      "guid": "https://uncrate.com/nike-x-hyperice-air-zoom-hyperslide/",
-      "image": "https://uncrate.com/assets_c/2026/07/nike-hyperice-air-zoom-hyperslide-1-thumb-960xauto-192364.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785261600000
-    },
-    {
       "title": "Känner mig tjock – hur gör jag för att tycka om min kropp?",
       "description": "Hur gör man för att tycka om sin kropp?",
       "link": "https://www.mitti.se/nyheter/kanner-mig-tjock--hur-gor-jag-for-att-tycka-om-min-kropp-6.3.371240.eb59214511",
@@ -1778,7 +1788,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Moderaterna vill låta idrottsföreningarna fortsätta använda skolornas idrottssalar under sommarlovet.",
       "link": "https://www.mitti.se/nyheter/m-vill-oppna-sommarstangda-gymnastiksalar-enormt-sloseri-6.3.377368.362cedaa76",
       "guid": "https://www.mitti.se/nyheter/m-vill-oppna-sommarstangda-gymnastiksalar-enormt-sloseri-6.3.377368.362cedaa76",
-      "image": "https://www.mitti.se/image-3.125691.301004.20260729132200.c50e99f08e?format=jpeg",
+      "image": "https://www.mitti.se/image-3.125691.301004.20260729223717.adcf42ec2c?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785166227000
@@ -2364,16 +2374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785006051000
     },
     {
-      "title": "Överraskande studie avslöjar: Egyptiska prinsessor använde vapen och gick på jakt",
-      "description": "I över 100 år låg dessa kungliga kvinnors gravar gömda, men nu har arkeologer återupptäckt och analyserat lämningarna. Resultaten visar att gravgåvorna var mer än bara symboler.",
-      "link": "https://varldenshistoria.se/civilisationer/egyptier/overraskande-studie-avslojar-egyptiska-prinsessor-anvande-vapen-och-gick-pa-jakt",
-      "guid": "https://varldenshistoria.se/civilisationer/egyptier/overraskande-studie-avslojar-egyptiska-prinsessor-anvande-vapen-och-gick-pa-jakt",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1784995243000
-    },
-    {
       "title": "Man lockade flickor till skogsdunge – erbjöd droger mot sex",
       "description": "Mannen i 20-årsåldern dömdes till fyra års fängelse för att ha våldtagit två 14-åriga flickor i Botkyrka efter att ha erbjudit dem droger.",
       "link": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
@@ -2874,16 +2874,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784787314000
     },
     {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "description": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers from Blue Origin and SpaceX, allowing crews and ground teams to test the complex maneuvers needed for later missions.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784787240000
-    },
-    {
       "title": "Streetfoodfestivalen drar i gång – med chili för den som vågar",
       "description": "Streetfoodfestivalen intar Norra Hammarbyhamnen 23–25 juli med foodtrucks, SM i streetfood, ChilliChallenge, musik, barer och provningar i Hammarby sjöstad.",
       "link": "https://www.mitti.se/nyheter/streetfoodfestivalen-drar-i-gang--med-chili-for-den-som-vagar-6.3.376742.702777a0d4",
@@ -2904,76 +2894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784769039000
     },
     {
-      "title": "Badklåda vid Tanto – därför hamnar parasiterna på människor",
-      "description": "Badklåda har rapporterats vid Tanto badplats i Stockholm. Parasiter orsakar intensiv klåda och röda utslag, men vattnet är inte farligt och inget badförbud gäller.",
-      "link": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
-      "guid": "https://www.mitti.se/nyheter/badklada-vid-tanto--darfor-hamnar-parasiterna-pa-manniskor-6.3.376730.e4a68d3a90",
-      "image": "https://www.mitti.se/image-3.317058.300894.20260729121400.58ff30d3a0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784755929000
-    },
-    {
-      "title": "Klubben från Botkyrka tog hem 13 medaljer i EM i karate",
-      "description": "Botkyrka klubben Shukokai Karate vann 13 medaljer i EM i Leipzig: 5 guld, 6 silver och 2 brons. Nu laddar truppen om inför SM i november och VM i Estland 2027.",
-      "link": "https://www.mitti.se/nyheter/klubben-fran-botkyrka-tog-hem-13-medaljer-i-em-i-karate-6.3.376643.c4b29d3c36",
-      "guid": "https://www.mitti.se/nyheter/klubben-fran-botkyrka-tog-hem-13-medaljer-i-em-i-karate-6.3.376643.c4b29d3c36",
-      "image": "https://www.mitti.se/image-3.376843.300812.20260722180121.4e165baa4e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784741400000
-    },
-    {
-      "title": "Förslaget: Grön park ska stoppa fartdårarna på Strandvägen",
-      "description": "Centerpartiet vill omvandla Strandvägen till Strandparken, säger Svante Linusson (C).",
-      "link": "https://www.mitti.se/nyheter/forslaget-gron-park-ska-stoppa-fartdararna-pa-strandvagen-6.3.376647.2e8db89986",
-      "guid": "https://www.mitti.se/nyheter/forslaget-gron-park-ska-stoppa-fartdararna-pa-strandvagen-6.3.376647.2e8db89986",
-      "image": "https://www.mitti.se/image-3.376845.300815.20260723142125.c57e579cb9?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784739608000
-    },
-    {
-      "title": "Dödsfall från balkong var olycka – misstänkta släppta",
-      "description": "Två personer har släppts efter dödsfallet i Hässelby gård. Åklagaren uppger att utredningen visar att mannen som föll från tredje våningen dog i en olycka.",
-      "link": "https://www.mitti.se/nyheter/dodsfall-fran-balkong-var-olycka--misstankta-slappta-6.3.376819.cf2847c283",
-      "guid": "https://www.mitti.se/nyheter/dodsfall-fran-balkong-var-olycka--misstankta-slappta-6.3.376819.cf2847c283",
-      "image": "https://www.mitti.se/image-3.231144.300950.20260722153549.79c55d3a35?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784732714000
-    },
-    {
-      "title": "Tumult bröt ut när pojkar skulle skickas hem från kollo",
-      "description": "En grupp bråkiga barn stod för skadegörelse när de skulle skickas hem från kollo.",
-      "link": "https://www.mitti.se/nyheter/tumult-brot-ut-nar-pojkar-skulle-skickas-hem-fran-kollo-6.3.376739.9152d4241f",
-      "guid": "https://www.mitti.se/nyheter/tumult-brot-ut-nar-pojkar-skulle-skickas-hem-fran-kollo-6.3.376739.9152d4241f",
-      "image": "https://www.mitti.se/image-3.152182.300893.20260722135346.1.57c606421c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784726604000
-    },
-    {
-      "title": "Översvämning i tunnelbanan efter det kraftiga regnet",
-      "description": "Tunnelbanan har drabbats av översvämning på grund av regnet.",
-      "link": "https://www.mitti.se/nyheter/oversvamning-i-tunnelbanan-efter-det-kraftiga-regnet-6.3.376815.8a23fd7002",
-      "guid": "https://www.mitti.se/nyheter/oversvamning-i-tunnelbanan-efter-det-kraftiga-regnet-6.3.376815.8a23fd7002",
-      "image": "https://www.mitti.se/image-3.376862.300948.20260722135051.1.6f70ef460c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784726385000
-    },
-    {
-      "title": "Polisen: Balkongfallet på Gärdet troligen en olycka",
-      "description": "Balkongfallet på Gärdet var troligen ett olyckshändelse enligt polisen.",
-      "link": "https://www.mitti.se/nyheter/polisen-balkongfallet-pa-gardet-troligen-en-olycka-6.3.376731.32c578fdf9",
-      "guid": "https://www.mitti.se/nyheter/polisen-balkongfallet-pa-gardet-troligen-en-olycka-6.3.376731.32c578fdf9",
-      "image": "https://www.mitti.se/image-3.288776.300886.20260722130411.1.69a4ab498f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784723645000
-    },
-    {
       "title": "A strange quantum effect dramatically boosts energy transfer",
       "description": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
@@ -2992,56 +2912,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784714454000
-    },
-    {
-      "title": "Efter radhusbranden i Norsborg: \"Ingen är anhållen\"",
-      "description": "Polisen har gjort en forensisk undersökning efter radhusbranden i Norsborg. Branden utreds som misstänkt mordbrand, men ingen misstänkt är frihetsberövad.",
-      "link": "https://www.mitti.se/nyheter/efter-radhusbranden-i-norsborg-ingen-ar-anhallen-6.3.376628.70d3a1879e",
-      "guid": "https://www.mitti.se/nyheter/efter-radhusbranden-i-norsborg-ingen-ar-anhallen-6.3.376628.70d3a1879e",
-      "image": "https://www.mitti.se/image-3.246997.300861.20260722101010.1b61bf7fe5?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784713153000
-    },
-    {
-      "title": "Fortsatt avspärrat efter villabranden – polisen söker svar",
-      "description": "Efter den kraftiga villabranden i Järfälla är platsen fortfarande avspärrad. Branden startade i ett garage och spreds snabbt till två villor. Händelsen utreds som mordbrand.",
-      "link": "https://www.mitti.se/nyheter/fortsatt-avsparrat-efter-villabranden--polisen-soker-svar-6.3.376646.4fb766646c",
-      "guid": "https://www.mitti.se/nyheter/fortsatt-avsparrat-efter-villabranden--polisen-soker-svar-6.3.376646.4fb766646c",
-      "image": "https://www.mitti.se/image-3.376723.300816.20260722090158.1.f36056492a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784710686000
-    },
-    {
-      "title": "Sökes: Namn till Huddinges nya simhall",
-      "description": "Huddinge söker namnförslag till nya sim- och idrottshallen vid Kvarnbergsplan. Hallen byggs för 1,7 miljarder och ska stå klar 2030. Här är riktlinjerna och sista datumet för att skicka in ditt namnförslag.",
-      "link": "https://www.mitti.se/nyheter/sokes-namn-till-huddinges-nya-simhall-6.3.374162.c09429189b",
-      "guid": "https://www.mitti.se/nyheter/sokes-namn-till-huddinges-nya-simhall-6.3.374162.c09429189b",
-      "image": "https://www.mitti.se/image-3.349764.299671.20260722062458.9fd1745b10?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784699635000
-    },
-    {
-      "title": "Hund reagerade – resenärer hade 34 kilo cannabis i väskorna",
-      "description": "Två personer döms för grov narkotikasmuggling efter att ha tagits med 34 kilogram cannabis på Arlanda flygplats.",
-      "link": "https://www.mitti.se/nyheter/hund-reagerade--resenarer-hade-34-kilo-cannabis-i-vaskorna-6.3.376645.3719ccb68b",
-      "guid": "https://www.mitti.se/nyheter/hund-reagerade--resenarer-hade-34-kilo-cannabis-i-vaskorna-6.3.376645.3719ccb68b",
-      "image": "https://www.mitti.se/image-3.376848.300856.20260722061258.6e466b86b1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784698918000
-    },
-    {
-      "title": "En man till sjukhus med helikopter efter knivattack",
-      "description": "Två män överfölls med kniv i Alby, Botkyrka, och en fördes till sjukhus.",
-      "link": "https://www.mitti.se/nyheter/en-man-till-sjukhus-med-helikopter-efter-knivattack-6.3.376727.408737a1cf",
-      "guid": "https://www.mitti.se/nyheter/en-man-till-sjukhus-med-helikopter-efter-knivattack-6.3.376727.408737a1cf",
-      "image": "https://www.mitti.se/image-3.354874.300878.20260722060657.1.d58a2a0c34?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784698541000
     }
   ]
 };
