@@ -1,27 +1,227 @@
 {
-  "updatedAt": "2026-07-30T01:21:29.896Z",
+  "updatedAt": "2026-07-30T05:30:23.513Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Nya attacker mot Iran – USA: ”Ett kraftfullt svar”",
-      "description": "Efter Trumps hot har USA genomfört nya attacker mot Iran. Anfallen är ett ”kraftfullt svar” skriver det amerikanska militärkommandot. Trump uppges överväga en eskalering – och kan inleda en två veckor lång offensiv med omfattande attacker, skriver Wall Street Journal .",
-      "link": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
+      "title": "83-åringen på bilden sa nej tack till 3,9 miljarder kronor",
+      "description": "De flesta skulle nog dra på smilgroparna och välkomna ett så generöst erbjudande på flera miljarder, men inte den här 83-årige krutgubben. Eddie Smith Jr, som han heter, har sina skäl till att nobba pengarna – mer än 3,9 miljarder kronor – då han under 58 års tid slet med att rädda sitt livsverk från […]",
+      "link": "https://www.dagensps.se/bors-finans/83-aringen-pa-bilden-sa-nej-tack-till-39-miljarder-kronor/",
+      "guid": "https://www.dagensps.se/?p=1659947",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/83aring.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785389253000
+    },
+    {
+      "title": "Svensk ekonomi växer rekordsnabbt, ändå känns allt dystert",
+      "description": "Trots att tillväxten för svensk ekonomi växte betydligt snabbare än väntat under andra kvartalet fortsätter svenska hushåll att svara dystert i förtroendemätningar. Ekonomer menar att glappet mellan känsla och verklighet blivit ett internationellt fenomen. Man ska inte döma boken efter omslaget, och enligt nya siffror gäller det även svensk ekonomi. Svensk ekonomi växte med 2,8 […]",
+      "link": "https://www.dagensps.se/bors-finans/svensk-ekonomi-vaxer-rekordsnabbt-anda-kanns-allt-dystert/",
+      "guid": "https://www.dagensps.se/?p=1659946",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/svensk-ekonomi.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785389206000
+    },
+    {
+      "title": "Missa inte nattens märkliga månfenomen",
+      "description": "Har du någon gång tittat upp och tänkt att månen ser ovanligt stor ut? Då är du inte ensam – och du har inte heller fått i dig något konstigt. I natt finns chansen att uppleva klassiska månfenomen, ett händelse som fortfarande förbryllar forskarna. Månen växer – fast ändå inte När månen stiger upp över […]",
+      "link": "https://www.dagensps.se/weekend/trend/missa-inte-nattens-markliga-manfenomen/",
+      "guid": "https://www.dagensps.se/?p=1659948",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/2-18-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785388979000
+    },
+    {
+      "title": "Sarah Helander: En främlings vänlighet kan betyda allt när livet har förändrats",
+      "description": "Sarah Helander har arbetat med flyktingar i Grekland och vet att mötet mellan människor är avgörande, både för dem som är på flykt och för henne själv.",
+      "link": "https://yle.fi/a/7-10098486?origin=rss",
+      "guid": "https://yle.fi/a/7-10098486",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785387614000
+    },
+    {
+      "title": "Sommar i P1: Alexandra Polivanova berättar inifrån Putins Ryssland",
+      "description": "ALBIN JULIN: Så många [geting] får Alexandra Polivanovas sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-alexandra-polivanova-berattar-inifran-putins-ryssland-/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-alexandra-polivanova-berattar-inifran-putins-ryssland-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785374384000
+      "timestamp": 1785387600000
     },
     {
-      "title": "Explosioner i Kiev",
-      "description": "Volodymyr Zelenskyj varnade för nya ryska omfattande attacker. Bara några timmar senare hördes det explosioner i Kiev och flera andra städer i Ukraina, enligt Kyiv Independent .",
+      "title": "BP testar huvudskydd på fotbollsspelarna",
+      "description": "Fotbollsspelare i BP testar spela med huvudskydd",
+      "link": "https://www.mitti.se/nyheter/bp-testar-huvudskydd-pa-fotbollsspelarna-6.3.377532.47b1e83d12",
+      "guid": "https://www.mitti.se/nyheter/bp-testar-huvudskydd-pa-fotbollsspelarna-6.3.377532.47b1e83d12",
+      "image": "https://www.mitti.se/image-3.209997.301142.20260730050131.8c51874335?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785387528000
+    },
+    {
+      "title": "Mikaels hus blev träffat av blixten: ”Paralyserad”",
+      "description": "Familjen var på semester när det otänkbara hände. Huset träffades av blixten – och brann ner till grunden. Nu tvingas de bo på en camping i Oskarshamn. – Man var ju helt paralyserad, säger Mikael Bengtsson.",
+      "link": "https://www.expressen.se/nyheter/sverige/mikaels-hus-blev-traffat-av-blixten-paralyserad/",
+      "guid": "https://www.expressen.se/nyheter/sverige/mikaels-hus-blev-traffat-av-blixten-paralyserad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785387399000
+    },
+    {
+      "title": "Ukrainska attacker",
+      "description": "Nya attacker mot Ryssland • Se lågorna",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/ny-attack-mot-ryska-e-handelsjatten/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ny-attack-mot-ryska-e-handelsjatten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785387374000
+    },
+    {
+      "title": "Vaniljglass med rårörda blåbär och citronkolakakor",
+      "description": "Blåbär passar fint ihop med citron. I receptet har både kolakakor och blåbär smaksatts med citron. Blir det kakor över går de utmärkt att frysa.",
+      "link": "https://alltommat.expressen.se/recept/vaniljglass-med-rarorda-blabar-och-citronkolakakor/",
+      "guid": "https://alltommat.expressen.se/recept/vaniljglass-med-rarorda-blabar-och-citronkolakakor/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785386940000
+    },
+    {
+      "title": "Nu är jordens resurser slut för i år",
+      "description": "”Earth overshoot day” är här",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=845bfd4e-256d-4f71-8c98-f78bce9f3655",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=845bfd4e-256d-4f71-8c98-f78bce9f3655",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785386550000
+    },
+    {
+      "title": "Tysklands OS-segrare Katharina Hennig Dotzler avslutar karriären efter följande säsong",
+      "description": "Den tyska längdskidåkaren Katharina Hennig Dotzler avslutar sin karriär efter säsongen 2026–2027. Hon har bland annat ett olympiskt guld i sprintstafett på meritlistan.",
+      "link": "https://yle.fi/a/7-10102856?origin=rss",
+      "guid": "https://yle.fi/a/7-10102856",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785385317000
+    },
+    {
+      "title": "Robotanfall mot Kiev",
+      "description": "Volodymyr Zelenskyj varnade för nya ryska omfattande attacker. Bara några timmar senare hördes det explosioner i Kiev och flera andra städer i Ukraina. Åtta personer har dött, enligt Kyiv Independent .",
       "link": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-ba4dk/",
       "guid": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-ba4dk/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785372628000
+      "timestamp": 1785383252000
+    },
+    {
+      "title": "Nya attacker mot Iran – USA: ”Ett kraftfullt svar”",
+      "description": "Efter Trumps hot om hämnd har USA genomfört nya attacker mot Iran. Anfallen är ett ”kraftfullt svar” skriver det amerikanska militärkommandot. Trump uppges överväga en eskalering – och kan inleda en två veckor lång offensiv med omfattande attacker, skriver Wall Street Journal .",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-attacker-mot-iran-usa-ett-kraftfullt-svar-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785383233000
+    },
+    {
+      "title": "Cecilia Weckström valde landsbygden: ”Singelmännen gömmer sig i skogen eller bakom väldigt skitiga arbetskläder”",
+      "description": "Från storstad till landsbygd – Cecilia Weckström hittade kärlek och startade företag i Vallgrund. Distansarbete och eget företagande öppnar nya möjligheter för kvinnor.",
+      "link": "https://yle.fi/a/7-10102722?origin=rss",
+      "guid": "https://yle.fi/a/7-10102722",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785381851000
+    },
+    {
+      "title": "Från jurist till begravningsentreprenör – Johanna Karlsson valde en ovanlig väg",
+      "description": "När begravningsbyrån kom till salu såg juristen Johanna Karlsson sin chans. En månad efter att ha tagit över verksamheten trivs hon med sitt ovanliga branschbyte.",
+      "link": "https://yle.fi/a/7-10102801?origin=rss",
+      "guid": "https://yle.fi/a/7-10102801",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785381314000
+    },
+    {
+      "title": "Skräpvirke kan bli din nästa mascara",
+      "description": "Åbo Akademi leder EU-projektet V-Forest som förvandlar skadat skogsvirke till ingredienser som används inom kosmetika.",
+      "link": "https://yle.fi/a/7-10102300?origin=rss",
+      "guid": "https://yle.fi/a/7-10102300",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785381215000
+    },
+    {
+      "title": "USA attackerade Iran igen",
+      "description": "USA har slagit till mot Iran efter onsdagens attacker mot amerikanska baser.",
+      "link": "https://yle.fi/a/7-10102853?origin=rss",
+      "guid": "https://yle.fi/a/7-10102853",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785380485000
+    },
+    {
+      "title": "Designbranschen drunknar i billiga kopior – lösningen finns i Kina",
+      "description": "Designern Eero Aarnios klassiska bollstol kopieras flitigt, men att kämpa i domstolar är dyrt och tar lång tid.",
+      "link": "https://yle.fi/a/7-10101465?origin=rss",
+      "guid": "https://yle.fi/a/7-10101465",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785378827000
+    },
+    {
+      "title": "Trumps minister stoppas – efter protester från egna leden",
+      "description": "Donald Trumps tidigare försvarsadvokat Todd Blanche har mött motstånd i de egna leden. Två republikaner vill inte tillsätta honom som justitieminister – och kräver en skriftlig bekräftelse på sina krav. Republikanerna vill att Trumps kritiserade fond slopas, enligt AP .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-minister-stoppas-efter-protester-fran-egna-leden/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-minister-stoppas-efter-protester-fran-egna-leden/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785378665000
+    },
+    {
+      "title": "Stort ryskt robotanfall mot flera orter i Ukraina",
+      "description": "Explosioner, bränder och dödsoffer rapporteras från Ukrainas huvudstad Kiev. Också flera andra orter drabbade av Rysslands robotanfall i natt.",
+      "link": "https://yle.fi/a/7-10102852?origin=rss",
+      "guid": "https://yle.fi/a/7-10102852",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785378660000
+    },
+    {
+      "title": "Villa Skeppet i Ekenäs missade världsarvsstatus: ”Ett hedersomnämnande för alla Aaltohus”",
+      "description": "Helt väntat och en lättnad att Villa Skeppet i Ekenäs inte hör till byggnaderna som ingår i världsarvet, konstaterar Villa Skeppets verksamhetsledare.",
+      "link": "https://yle.fi/a/7-10102742?origin=rss",
+      "guid": "https://yle.fi/a/7-10102742",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785378319000
+    },
+    {
+      "title": "Nya attacker mot Iran",
+      "description": "USA: ”Ett kraftfullt svar”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785374356000
     },
     {
       "title": "Mc-förare död efter olycka",
@@ -34,24 +234,24 @@
       "timestamp": 1785372619000
     },
     {
-      "title": "Nya attacker mot Iran",
-      "description": "USA: ”Ett kraftfullt svar”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9c4887d-ddc1-4565-bab2-2d2ae6021a74",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785371859000
-    },
-    {
       "title": "Dramatisk utfrågning – svarade samma sak 100 gånger",
-      "description": "Republikanerna i senaten gick hårt mot Anthony Fauci. Men han åberopade det femte tillägget och svarade med tystnad över 100 gånger. Donald Trump gick också till attack mot den tidigare rådgivaren till Vita huset och kallade honom ”galen” på Truth Social .",
+      "description": "Republikanerna i senaten gick hårt mot Anthony Fauci. Men han svarade med tystnad över 100 gånger. Donald Trump gick också till attack mot den tidigare rådgivaren till Vita huset och kallade honom ”galen” på Truth Social .",
       "link": "https://www.expressen.se/nyheter/varlden/dramatisk-utfragning-svarade-samma-sak-100-ganger-/",
       "guid": "https://www.expressen.se/nyheter/varlden/dramatisk-utfragning-svarade-samma-sak-100-ganger-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785369042000
+    },
+    {
+      "title": "Explosioner i Kiev",
+      "description": "Efter Zelenskys varning",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6196733d-c1e7-47d0-a8c7-dd37edd3d313",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6196733d-c1e7-47d0-a8c7-dd37edd3d313",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785368717000
     },
     {
       "title": "Daily multivitamin may help older adults stay independent",
@@ -204,26 +404,6 @@
       "timestamp": 1785355200000
     },
     {
-      "title": "Fed ger räntebesked",
-      "description": "Trotsar Trumps påtryckningar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=98119761-cdea-4b90-8157-de7e304d6fb8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785354021000
-    },
-    {
-      "title": "Prins Harry riskerar smäll på 240 miljoner",
-      "description": "Prins Harry, Elton John och fem andra brittiska kändisar kan åka på en smäll på motsvarande nära 240 miljoner kronor. De förlorade sitt mål mot tidningen Daily Mail och måste nu betala rättegångskostnaderna. Tidningen vill ha 446 miljoner kronor, medan Harry och de andra har en försäkring som bara täcker 207 miljoner.",
-      "link": "https://www.expressen.se/nyheter/varlden/prins-harry-riskerar-small-pa-240-miljoner/",
-      "guid": "https://www.expressen.se/nyheter/varlden/prins-harry-riskerar-small-pa-240-miljoner/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785353494000
-    },
-    {
       "title": "Astronomer slår larm: Vi kommer snart att få se svarta hål explodera",
       "description": "Svarta hål drar till sig allt, men de kan också göra tvärtom och explodera. Nu hävdar en grupp amerikanska forskare att vi förmodligen kommer att få se det hända inom de närmaste tio åren – och att en explosion kan hjälpa oss att lösa ett av universums största mysterier.",
       "link": "https://illvet.se/universum/astronomer-slar-larm-vi-kommer-snart-att-fa-se-svarta-hal-explodera",
@@ -245,7 +425,7 @@
     },
     {
       "title": "Sorg och förvirring efter båtolyckan: ”Fruktansvärt”",
-      "description": "Båtolyckan vid Tjörn har skakat om människor på Västkusten. En mamma och en dotter saknas fortfarande – över 20 timmar efter olyckan. – Det är fruktansvärt. Det hade ju kunnat hända vem som helst, säger Ida Larsson, 28, på Instön.",
+      "description": "Båtolyckan vid Tjörn har skakat om människor på Västkusten. En mamma och en dotter saknas fortfarande. – Det är fruktansvärt. Det hade ju kunnat hända vem som helst, säger Ida Larsson, 28, på Instön.",
       "link": "https://www.expressen.se/nyheter/sverige/sorg-och-forvirring-efter-batolyckan-fruktansvart/",
       "guid": "https://www.expressen.se/nyheter/sverige/sorg-och-forvirring-efter-batolyckan-fruktansvart/",
       "image": "",
@@ -304,16 +484,6 @@
       "timestamp": 1785351600000
     },
     {
-      "title": "Svenske Tim på Lesbos: ”Vi ser från balkongen”",
-      "description": "På onsdagskvällen fick 134 svenskar evakuera på grekiska Lesbos. På ön befinner sig Tim Eriksson och hans tjej. – Vi sitter på balkongen vid vattnet och ser hur flera helikoptrar vattenbombar, säger han.",
-      "link": "https://www.expressen.se/nyheter/varlden/svenske-tim-pa-lesbos-vi-ser-fran-balkongen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/svenske-tim-pa-lesbos-vi-ser-fran-balkongen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785349846000
-    },
-    {
       "title": "Spotify har köpt ett flygplan",
       "description": "Kommer flyga flott i Bombardier Global 6500 Breakit rapporterar att Spotify har köpt in ett privatjet som ska användas för att chefer och andra snabbt ska kunna ta sig runt jorden på affärsmöten. Spotifys talesperson Julia Levander säger till Breakit om flygplansköpet: \"Spotify är ett globalt företag med huvudkontor i Stockholm. Ett begränsat antal seniora ledare har frekventa, tidskänsliga internationella resebehov. Detta är ett rollspecifikt arrangemang för tjänsteresor där kommersiella alternativ inte är praktiskt genomförbara.\" Det handlar om ett Bombardier Global 6500, samma flygplan som Saab använder för övervakningsplattformen GlobalEye. Flygplanet har en räckvidd på över 12.000 km, något som innebär att det till exempel kan flyga Stockholm-Hongkong nonstop. Vanligtvis finns det 13-14 passagerarplatser i ett Bombardier Global 6500, men planet går även att få i konfigurationer med upp till 19 passagerarplatser. Ett Bombardier Global 6500 kostar vanligtvis mellan 500-600 miljoner kronor. Tidigare i år köpte Försvarsmakten in två stycken begagnade Bombardier Global 6500 för drygt 1 miljard kronor vilka ska fungera som statsflyg för Sveriges högsta civila och militära ledning. Vad Spotify har betalat för sitt flygplan finns det inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/ L&auml;s mer om Bombardier Global 6500 , Breakit , Julia Levander , affärsresor , Privatjet , Saab",
       "link": "https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/?utm_source=rss&utm_medium=feed",
@@ -324,16 +494,6 @@
       "timestamp": 1785349800000
     },
     {
-      "title": "Krisdraget inför nya superhettan",
-      "description": "Under torsdagen väntas temperaturer över 30 grader på flera platser i landet. Den nya hettan har fått Trafikverket att agera. Hastigheten på flera tågsträckor sänks och trafikanter uppmanas till försiktighet.",
-      "link": "https://www.expressen.se/nyheter/sverige/krisdraget-infor-nya-superhettan/",
-      "guid": "https://www.expressen.se/nyheter/sverige/krisdraget-infor-nya-superhettan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785349105000
-    },
-    {
       "title": "Fed lämnar styrräntan oförändrad igen",
       "description": "Onsdagens räntebesked var det andra under nye Fed-chefen Kevin Warsh, som efterträdde Jerome Powell tidigare i år. I juni lät Warsh också räntan ligga oförändrad, samtidigt som USA:s president Donald Trump sedan tidigare pressat på för att sänka den. USA:s centralbank Federal Reserve (Fed) lämnar återigen den amerikanska styrräntan oförändrad i intervallet 3,50–3,75 procent. Onsdagens […]",
       "link": "https://www.dagensps.se/bors-finans/makro/fed-lamnar-styrrantan-oforandrad-igen/",
@@ -342,16 +502,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785348673000
-    },
-    {
-      "title": "Apollo evakuerar 134 svenskar i Grekland",
-      "description": "134 turister på grekisk ö",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3e1218f-431c-496b-830e-70d82db402b1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3e1218f-431c-496b-830e-70d82db402b1",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785348643000
     },
     {
       "title": "1Rollo är en robot som rullar fram på ett hjul",
@@ -634,26 +784,6 @@
       "timestamp": 1785337200000
     },
     {
-      "title": "Reuters: Venezuelas oljeraffinaderier är ”fula och rostiga”",
-      "description": "USA har lovat att Venezuela ska producera olja som aldrig förr. Men ett besök från journalister på landets raffinadier visar att det kan bli svårt utan omfattande investeringar. Venezuelas oljeraffinaderier har förfallit efter många års eftersatt underhåll och omfattande tekniska problem. Branschexperter att det skulle krävas investeringar på minst 20 miljarder dollar för att återställa […]",
-      "link": "https://www.dagensps.se/bors-finans/venezuelas-oljeraffinadier-ar-fula-och-rostiga-enorm-satsning-kravs/",
-      "guid": "https://www.dagensps.se/?p=1659878",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl1cgezkeur3q-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785337084000
-    },
-    {
-      "title": "Trendbrottet – svensk ekonomi bromsar in",
-      "description": "I juni minskade landets bnp med 0,2 procent, säsongsrensat jämfört med föregående månad, enligt bnp-indikatorns preliminära sammanställning. Svensk ekonomi bromsar in, visar nya bnp-siffror från SCB. Jag tolkar det ändå som bra siffror. Sverige är i en lågkonjunktur, men i en återhämtningsfas, säger Alexandra Stråberg, chefsekonom på Länsförsäkringar, till TT. I juni minskade landets bnp […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/trendbrottet-svensk-ekonomi-bromsar-in/",
-      "guid": "https://www.dagensps.se/?p=1659723",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/nya-siffror-rorande-svensk-ekonomi-har-r.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785336436000
-    },
-    {
       "title": "HVB-hem stängs efter 27 polisbesök på ett halvår",
       "description": "Ett bolag som driver ett HVB-hem i Hägersten har fått sitt tillstånd indraget av Ivo efter att polisen behövt rycka ut 27 gånger på ett halvår.",
       "link": "https://www.mitti.se/nyheter/hvbhem-stangs-efter-27-polisbesok-pa-ett-halvar-6.3.377691.d2659bd474",
@@ -682,16 +812,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785335400000
-    },
-    {
-      "title": "Smittskyddschefen pressas om covid-19 – vägrar svara",
-      "description": "Smittskyddschefens privata dagbok från covid-19-pandemin har offentliggjorts – men han vägrar svara på frågor om innehållet. Anthony Fauci, som ledde USA:s smittskyddsarbete under stora delar av covid-19-pandemin och därmed blev en tillfällig megakändis likt Anders Tegnell i Sverige, vägrade besvara frågor när han på onsdagen framträdde inför senatens utskott för inrikes säkerhet. I stället hänvisade han […]",
-      "link": "https://www.dagensps.se/life-science/smittskyddschefen-pressas-om-covid-19-vagrar-svara/",
-      "guid": "https://www.dagensps.se/?p=1659874",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/foto-allison-robbert-aptt-8c5f3aed.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785334890000
     },
     {
       "title": "Publiken står mitt bland skådespelarna när Shakespeares Macbeth spelas i Raseborgs slott",
@@ -774,16 +894,6 @@
       "timestamp": 1785332400000
     },
     {
-      "title": "Står Uefa enat i kritiken mot Infantinos planer? Tjeckiska fotbollsbasen ser positiva effekter med förslaget",
-      "description": "Det kan bli ett rejält tillskott i kassan för medlemsförbunden om Gianni Infantinos nya förslag godkänns. I Tjeckien kan 40 miljoner dollar få förbundet att inte ställa sig på Uefas sida.",
-      "link": "https://yle.fi/a/7-10102844?origin=rss",
-      "guid": "https://yle.fi/a/7-10102844",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785331884000
-    },
-    {
       "title": "Färre alternativ för bilköparna är bra!",
       "description": "Volkswagen ska ta bort 3/4-delar av alla alternativ Det är förändringens tid i bilbranschen. En del saker smärtar, men andra saker är bra. Som att Volkswagen-gruppen äntligen verkar ha vaknat ur sin dvala och nu börjar inse det som andra bilmärken, främst kinesiska, har förstått ett tag. Ett sånt är alternativ. Europeiska tillverkare har tjänat stora pengar på att ha en basmodell som är ful och sedan säljer man en massa tillval som man i princip måste välja för att bilen ska bli helt ok eller snygg. Tillvalslistorna har varit långa och fyllda med krångliga alternativ. Svenska importörer har tröttnat på detta sedan några år och löst det genom att göra olika editioner av en modell. Svenska Volkswagen har till exempel varit väldigt duktiga på att sätta ihop dessa paket som har varit färdiga för svenska marknaden. Istället för hundratals val finns 3-4 stycken där saker man måste ha i Sverige (hej stjärnvärme) garanterat finns med. Något som ger gladare kunder och en enklare begagnatmarknad. L&auml;s vidare och kommentera: https://feber.se/bil/farre-alternativ-for-bilkoparna-ar-bra/494538/ L&auml;s mer om Volkswagen-gruppen , bilbranschen , designstandardisering , Audi , Porsche , Zeekr , Xpeng",
       "link": "https://feber.se/bil/farre-alternativ-for-bilkoparna-ar-bra/494538/?utm_source=rss&utm_medium=feed",
@@ -794,16 +904,6 @@
       "timestamp": 1785331800000
     },
     {
-      "title": "Färre fall av rattfylleri i sommar jämfört med i fjol",
-      "description": "Antalet fall av trafikfylleri minskade, trots att övervakningen utökades.",
-      "link": "https://yle.fi/a/7-10102821?origin=rss",
-      "guid": "https://yle.fi/a/7-10102821",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785331158000
-    },
-    {
       "title": "Man förvarade över 300 kilo narkotika i bostad i Solna",
       "description": "Tre personer döms efter en stor narkotikahärva i Solna. En 35-årig man får 12 års fängelse för synnerligen grovt narkotikabrott med hundratals kilo droger och flera pistoler.",
       "link": "https://www.mitti.se/nyheter/man-forvarade-over-300-kilo-narkotika-i-bostad-i-solna-6.3.377601.dd0df16e82",
@@ -812,16 +912,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785330137000
-    },
-    {
-      "title": "Europa brinner, men i Finland ser augustivädret ut att bli högst normalt",
-      "description": "Södra Europa hotas igen av en ny värmebölja med temperaturer på över 40 grader. I Finland väntas inga nya värmerekord.",
-      "link": "https://yle.fi/a/7-10102795?origin=rss",
-      "guid": "https://yle.fi/a/7-10102795",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785330041000
     },
     {
       "title": "Nasaforskare häpnar: Känt rymdobjekt visar sig vara något helt annat i förklädnad",
@@ -842,16 +932,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785330000000
-    },
-    {
-      "title": "Dags för årsrevision vid Fortums kärnkraftverk i Lovisa – flera delar moderniseras",
-      "description": "Ungefär 1 000 personer utöver ordinarie personalen kommer att delta i årsrevisionen vid kärnkraftverket i Lovisa. Jobbet pågår från augusti till oktober.",
-      "link": "https://yle.fi/a/7-10102809?origin=rss",
-      "guid": "https://yle.fi/a/7-10102809",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785329673000
     },
     {
       "title": "Scientists find a simple way to stop cavities without drilling",
@@ -884,16 +964,6 @@
       "timestamp": 1785327624000
     },
     {
-      "title": "Infantino i brev till medlemsförbunden: Godkänn förslaget eller få mindre pengar",
-      "description": "Gianni Infantino har skickat ett brev till Fifas medlemsförbund där han pressar dem att godkänna hans förslag. Detta rapporterar tidningen The Times.",
-      "link": "https://yle.fi/a/7-10102838?origin=rss",
-      "guid": "https://yle.fi/a/7-10102838",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785327163000
-    },
-    {
       "title": "18-åring åtalad för mordplaner på flicka som blockat honom",
       "description": "En 18-årig man åtalas för förberedelse till mord efter att ha planerat att skada en flicka som blockerade honom på sociala medier. Han nekar till brott.",
       "link": "https://www.mitti.se/nyheter/18aring-atalad-for-mordplaner-pa-flicka-som-blockat-honom-6.3.377671.e9cd107155",
@@ -914,16 +984,6 @@
       "timestamp": 1785327000000
     },
     {
-      "title": "Nu kan båtar köra genom Kyrksundet igen",
-      "description": "Kyrksundet i Pargas har igen öppnats för båttrafik efter tisdagens bränsleläckage. Räddningsverkets uppdrag är avslutat och ansvaret övergår nu till Pargas stad.",
-      "link": "https://yle.fi/a/7-10102815?origin=rss",
-      "guid": "https://yle.fi/a/7-10102815",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785326858000
-    },
-    {
       "title": "Why are so many dead bumblebees appearing on sidewalks?",
       "description": "Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe places to live and feed. Protecting native plants and using fewer chemicals could help these vital pollinators recover.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
@@ -932,16 +992,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785326756000
-    },
-    {
-      "title": "Misstänkt skogsbluff kopplad till Finland utreds nu i Belgien – ledare gripen i Colombia",
-      "description": "Utredningen om ett misstänkt investeringsbedrägeri i Finland har flyttats till Belgien. Utländsk media uppger att en central person greps i våras.",
-      "link": "https://yle.fi/a/7-10102768?origin=rss",
-      "guid": "https://yle.fi/a/7-10102768",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785326121000
     },
     {
       "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
@@ -962,26 +1012,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785325507000
-    },
-    {
-      "title": "Bil brann på Esplanaden i Hangö",
-      "description": "Strax efter klockan två på onsdagseftermiddagen brann en bil i Hangö.",
-      "link": "https://yle.fi/a/7-10102820?origin=rss",
-      "guid": "https://yle.fi/a/7-10102820",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785325301000
-    },
-    {
-      "title": "Två personer saknas efter att en fritidsbåt och ett lastfartyg krockade i Sverige",
-      "description": "En familj befann sig ombord på fritidsbåten. Två av familjemedlemmarna är allvarligt skadade och två saknas. Det är oklart hur olyckan skedde.",
-      "link": "https://yle.fi/a/7-10102806?origin=rss",
-      "guid": "https://yle.fi/a/7-10102806",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785325258000
     },
     {
       "title": "Hela intervjun med Elon Musk",
@@ -2612,16 +2642,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784892544000
-    },
-    {
-      "title": "Äppelpaj med vit choklad- och getostkräm",
-      "description": "Oväntade och riktigt goda smaker tillsammans. Sötsyrliga äpplen möter söt vit choklad och en syrlig, sträv getost.",
-      "link": "https://alltommat.expressen.se/recept/appelpaj-med-vit-choklad--och-getostkram/",
-      "guid": "https://alltommat.expressen.se/recept/appelpaj-med-vit-choklad--och-getostkram/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1784888400000
     },
     {
       "title": "Venus may be tearing itself apart from within",
