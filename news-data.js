@@ -1,8 +1,138 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-30T16:19:48.550Z",
+  "updatedAt": "2026-07-30T19:07:38.944Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Har du problem med alkoholen?",
+      "description": "Dagens fråga Tidigare idag berättade vi om en undersökning som visat på trevlig resultat för de som dricker alldeles för mycket. Semaglutid i tablettform har helt enkelt visat att suget efter alkohol minskar och man dricker mindre, vare sig man vill det inte eller inte. Men hur står det till med ditt drickande? L&auml;s vidare och kommentera: https://feber.se/har-du-problem-med-alkoholen/494586/ L&auml;s mer om Semaglutid , tabletter , alkohol , hälsa , Alkoholberoende , läkemedelsforskning",
+      "link": "https://feber.se/har-du-problem-med-alkoholen/494586/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/har-du-problem-med-alkoholen/494586/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785438000000
+    },
+    {
+      "title": "Unga köpte biljetter till evenemang som inte finns – tiotals har samlats i Mårtensdal",
+      "description": "Biljetter såldes på Snapchat, men när köparna kom till platsen fanns där inget evenemang.",
+      "link": "https://yle.fi/a/7-10102894?origin=rss",
+      "guid": "https://yle.fi/a/7-10102894",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785437767000
+    },
+    {
+      "title": "Han slog banrekordet med bisarra bilen!",
+      "description": "\"Det är oändligt med grepp!\" När man vill köra fort med bil måste man ha en rejäl motor, rejäla bromsar och massor med grepp. Det senare ordnar McMurtry Spéirling PURE genom att fläktar helt enkelt suger fast bilen i marken. Bisarrt men effektivt. Marcus Berggren är en trevlig typ som jag fått känna på bilen. Först fick han åka till McMurtrys fabrik i Bristol för att prova ut kläder och få en stol formad efter hans kropp. Sedan begav han sig till Padborg Park i Danmark för att köra bilen. Redan efter första körningen fick han en bra tid och var rätt överväldigad. – Det är det sjukaste jag har varit med om! Jag frågade om det verkligen var så sjukt, många bilar är ju väldigt snabba idag. Men enligt Marcus är det verkligen något helt annat, han blev helt chockad över hur snabbt det gick att köra bilen. Redan på andra körningen satte Marcus ett nytt banrekord, snabbare än både det officiella banrekordet som satts av en Porsche 911 GT3 R och det inofficiella som sats av en Formel 1-bil. Dessutom blev han snabbare än en dansk journalist på plats, och det ska han hedras för. L&auml;s vidare och kommentera: https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/ L&auml;s mer om Marcus Berggren , McMurtry Spéirling PURE , Padborg Park , Porsche 911 GT3 R , banrekord , Bristol",
+      "link": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785437400000
+    },
+    {
+      "title": "Så byggde Koenigsegg Legoversionen av Sadair’s Spear",
+      "description": "Tog 9400 timmar Koenigsegg bygger mäktiga hyperbilar och är noga med detaljerna. När man fick för sig att bygga en fullstor version av deras Sadair’s Spear kunde man inte göra det lite hafsigt. Resultatet blev mäktigt, och jag blev minst sagt imponerad när jag såg den på The Aurora. Nu har man släppt en video om hur bygget gick till. Eller man berättar lite för lite om bygget, men lite bakom kulisserna får vi se. Bygget består förresten av 327.906 Lego-bitar... L&auml;s vidare och kommentera: https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/ L&auml;s mer om Sadair’s Spear , The Aurora , Lego , hyperbilar",
+      "link": "https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785436200000
+    },
+    {
+      "title": "Akut risk för vattenbrist i Örnsköldsvik",
+      "description": "En läcka i en huvudvattenledning gör att det råder akut risk för vattenbrist i Örnsköldsvik. Tankar med dricksvatten har börjat placeras ut.",
+      "link": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
+      "guid": "https://www.expressen.se/nyheter/sverige/akut-risk-for-vattenbrist-i-ornskoldsvik/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785435632000
+    },
+    {
+      "title": "Skjutsade barn – och drack öl",
+      "description": "Stoppad av polis",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1caf1b9c-4ccf-492c-a784-a50f1e4ae81b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1caf1b9c-4ccf-492c-a784-a50f1e4ae81b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785435398000
+    },
+    {
+      "title": "Ozzy blir skräckattraktion",
+      "description": "På Universal Studios Universal Studios kommer att få ett nytt tillskott på sina nöjesfält i Orlando och Hollywood i form av ett skräckhus som inspirerats av den legendariske Black Sabbath-sångaren Ozzy Osbourne. De temporära skräckhusen \"Ozzy Osbourne: Prince of Darkness\" kommer att gå att besöka under Universal Studios Halloween Horror Nights under september och oktober. De båda husen kommer att fokusera på material från Ozzys solokarriär som inkluderade plattor som The Blizzard of Ozz (1980), Diary of a Madman (1981), Bark at the Moon (1983) och No More Tears (1991). Nedan hittas en teaser för Ozzy Osbourne: Prince of Darkness-husen, men den avslöjar tyvärr inte mycket av vad besökarna kommer att få se inuti husen. L&auml;s vidare och kommentera: https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/ L&auml;s mer om Universal Studios , Ozzy Osbourne , Halloween Horror Nights , Black Sabbath , Nöjesfält",
+      "link": "https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785434400000
+    },
+    {
+      "title": "Carl-Fredrik, 45, deltog i sökinsatsen utanför Tjörn: ”Mest tragiska händelsen vi varit med om”",
+      "description": "En flicka är fortsatt saknad efter båtolyckan utanför Tjörn i tisdags kväll. Hennes mamma har hittats död. Carl-Fredrik Gyllenhammar var en av dem som deltog i sökinsatsen. – I särklass den mest tragiska händelsen vi har varit med om.",
+      "link": "https://www.expressen.se/nyheter/sverige/carl-fredrik-45-deltog-i-sokinsatsen-utanfor-tjorn-mest-tragiska-handelsen-vi-varit-med-om/",
+      "guid": "https://www.expressen.se/nyheter/sverige/carl-fredrik-45-deltog-i-sokinsatsen-utanfor-tjorn-mest-tragiska-handelsen-vi-varit-med-om/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785434274000
+    },
+    {
+      "title": "Europaäventyret fortsätter för FC Inter – slog ut Başakşehir efter stark hemmainsats",
+      "description": "En av de största segrarna i Inters historia. Så kan man gott beskriva 2–0 hemma mot Başakşehir i kvalet till Conference League. Även Ilves är vidare till tredje omgången.",
+      "link": "https://yle.fi/a/7-10102893?origin=rss",
+      "guid": "https://yle.fi/a/7-10102893",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785434084000
+    },
+    {
+      "title": "Nya Spindelmannen-filmen en succé på bio",
+      "description": "65.000 såg den på premiärdagen i Sverige Tom holland är het nu. Det är inte många dagar sedan The Odyssey kom ut och slog rekord på bio. Igår hade nya Spindelmannen-rullen Spider-Man: Brand New Day premiär och det blev direkt rekord på svenska biografer. 65.000 personer såg filmen på bio igår. Enligt MovieZine är det den bästa premiärdagen sedan juldagen 2019. En bra start helt enkelt! L&auml;s vidare och kommentera: https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/ L&auml;s mer om Spindelmannen , Tom Holland , The Odyssey , Spider-Man: Brand New Day , MovieZine , bio",
+      "link": "https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785432600000
+    },
+    {
+      "title": "Startelvan i bortamötet med Anderlecht",
+      "description": "Så här ställer Hammarby upp i returmötet med Anderlecht i kvalomgång 2 av UEFA Europa League. Matchen sparkas igång klockan 20.30 på Lotto Park i Bryssel och sänds hos Aftonbladet Plus för dig som int",
+      "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-bortamotet-med-anderlecht",
+      "guid": "5b795e00-6614-487d-8936-398558dc3cc5",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/bfb2f6145111cccb6426744d465e0332d49b4096-1382x855.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785431700000
+    },
+    {
+      "title": "Beskedet från IIHF: Ryssland får inte delta i nästa ishockey-VM",
+      "description": "Ryssland kommer fortsatt att vara portat från ishockey-VM. Det beskedet gav Internationella Ishockeyförbundet (IIHF) under torsdagen.",
+      "link": "https://yle.fi/a/7-10102892?origin=rss",
+      "guid": "https://yle.fi/a/7-10102892",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785431248000
+    },
+    {
+      "title": "Cyklister testar jobbigt hinderbana",
+      "description": "Krävs en del skills för att fixa den Här är ett nytt klipp från Red Bull Bike som visar hur det gick när ett antal cyklister skulle försöka köra igenom en hinderbana som man ansåg var mer eller mindre omöjligt att klara av. Den flytande hinderbanan är cirka 200 meter lång och består av hinder som gungbrädor, smala balansstockar, wallrides, en träspång och en balanslina. I början av klippet får ett gäng amatörcyklister testa hinderbanan utan några större framgångar. Därefter äntrar de båda proffscyklisterna Kriss Kyle och Danny MacAskill banan för att visa upp hur proffsen gör. L&auml;s vidare och kommentera: https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/ L&auml;s mer om Kriss Kyle , Danny MacAskill , hinderbana , Red Bull , Red Bull Bike",
+      "link": "https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/cyklister-testar-jobbigt-hinderbana/494577/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785430800000
+    },
     {
       "title": "James Bond Destinations",
       "description": "",
@@ -12,6 +142,76 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785430800000
+    },
+    {
+      "title": "Elizabeth, 38, hittad död i resväska",
+      "description": "Elizabeth Jane Ross, 38, hade rest till Aten för att umgås med vänner. Bara några dagar senare hittades hennes kropp i en resväska. Nu kartläggs hennes sista timmar.",
+      "link": "https://www.expressen.se/nyheter/varlden/elizabeth-38-hittad-dod-i-resvaska/",
+      "guid": "https://www.expressen.se/nyheter/varlden/elizabeth-38-hittad-dod-i-resvaska/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785430581000
+    },
+    {
+      "title": "Ari Lahti: Finland stöder Uefas linje fullt ut",
+      "description": "Det var ett enhälligt beslut från Uefas medlemsförbund att bojkotta Fifas turneringar. Det berättar Bollförbundets ordförande Ari Lahti. Samtidigt har Bollförbundet också dragit tillbaka sitt stöd för Gianni Infantino.",
+      "link": "https://yle.fi/a/7-10102891?origin=rss",
+      "guid": "https://yle.fi/a/7-10102891",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785429838000
+    },
+    {
+      "title": "Polisen har ännu inga regler för användning av AI, men ska snart få det",
+      "description": "I praktiken är det inte tillåtet för polisen att använda öppna AI-verktyg i jobbet, men det här görs ändå. Inom Polisstyrelsen finns numera en AI-byrå.",
+      "link": "https://yle.fi/a/7-10102807?origin=rss",
+      "guid": "https://yle.fi/a/7-10102807",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785429822000
+    },
+    {
+      "title": "Haveri för SD:s buss",
+      "description": "Det blev plötsligt stopp för SD:s valturné redan innan den börjat. Ett av SD-bussens däck exploderade på motorvägen norr om Stockholm på torsdagen. – Vi fick en explosionsartad start på valrörelsen, säger SD:s presschef Oscar Cavalli Björkman.",
+      "link": "https://www.expressen.se/nyheter/politik/haveri-for-sds-buss/",
+      "guid": "https://www.expressen.se/nyheter/politik/haveri-for-sds-buss/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785429222000
+    },
+    {
+      "title": "Qualcomm ska höja priserna på chip",
+      "description": "Mobiler kommer att bli ännu dyrare Som om det inte vore nog med att minnespriser gör telefoner och annat dyrare, nu blir även en del processorer dyrare då Qualcomm beslutat sig för att höja priserna på sina mobilchip. Qualcomm uppger att de högre priserna på minne har lett till att det säljs färre mobiler och för att kompensera det intäktsbortfallet kommer företaget att höja priserna på sina mobilchip den 1 september. Exakt hur mycket de höjs är oklart, men det har tidigare ryktats att det handlar om prishöjningar med över 10 procent. För att diversifiera sina intäkter planerar Qualcomm även att satsa mer på chip till bilindustrin och datacenter. Enligt planen kommer mobilchip snart bara stå för cirka hälften av företagets intäkter och fram till 2029 siktar man på att bara en tredjedel av intäkterna ska komma från mobilchip. L&auml;s vidare och kommentera: https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/ L&auml;s mer om Qualcomm , mobilchip , datacenter , prishöjning , minnespriser , bilindustri",
+      "link": "https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785429000000
+    },
+    {
+      "title": "Trump till britterna: ”Sluta köp norsk olja”",
+      "description": "Donald Trump uppmanar britterna att sluta köpa norsk olja och utvinna mer själva ur Nordsjön. ”Ni kommer att bli ett rikt land”, lovar Trump. USA:s president Donald Trump har haft ett horn i sidan till Norge på sistone, liksom till många andra länder, ska man väl kanske påpeka. Nu tar Trump i vilket fall sitt […]",
+      "link": "https://www.dagensps.se/bors-finans/trump-till-britterna-sluta-kop-norsk-olja/",
+      "guid": "https://www.dagensps.se/?p=1660201",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlma4t-xuguzy-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785428710000
+    },
+    {
+      "title": "MP slår tillbaka i ölfrågan: \"Ingen vändning\"",
+      "description": "MP menar att de inte vände i frågan om förlängda serveringstillstånd.",
+      "link": "https://www.mitti.se/nyheter/mp-slar-tillbaka-i-olfragan-ingen-vandning-6.3.377735.9ebb6168a2",
+      "guid": "https://www.mitti.se/nyheter/mp-slar-tillbaka-i-olfragan-ingen-vandning-6.3.377735.9ebb6168a2",
+      "image": "https://www.mitti.se/image-3.377253.301370.20260730170436.1.915c5b9d00?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785428100000
     },
     {
       "title": "Nära 10 000 tyskar har dött av värmen i år",
@@ -104,6 +304,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785423681000
     },
     {
+      "title": "Historiskt fynd under operation: Hjärtat kan ha en förmåga som ingen tidigare kunnat påvisa",
+      "description": "I årtionden har alla hjärtforskare haft samma besked, men nu har ett fynd under en bypassoperation gett en ny förståelse av kroppens viktigaste organ.",
+      "link": "https://illvet.se/halsa/varldens-forsta-studie-i-sitt-slag-ger-uppseendevackande-resultat-manniskohjartat-kan-mer-an-forskarna-trodde",
+      "guid": "https://illvet.se/halsa/varldens-forsta-studie-i-sitt-slag-ger-uppseendevackande-resultat-manniskohjartat-kan-mer-an-forskarna-trodde",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785423649000
+    },
+    {
       "title": "HoverAir Versa är en flygande actionkamera",
       "description": "En gimbalkamera med tillhörande drönare Zero Zero Robotics, företaget som specialiserat sig på små kameradrönare, har presenterat en ny modell som kallas HoverAir Versa. Versa påminner om HoverAir-modellerna som Zero Zero Robotics släppte för två år sedan, men är försedd med en gimbalkamera som går att plocka loss från drönaren. Det innebär att man både kan använda den som en handhållen och en flygande videokamera. Än så länge saknas fullständiga specifikationer för HoverAir Versa och det finns heller inga uppgifter om när den släpps eller vad den då kommer att kosta. Ni kan kolla in en teaser för HoverAir Versa i klippet nedan. L&auml;s vidare och kommentera: https://feber.se/pryl/hoverair-versa-ar-en-flygande-actionkamera/494582/ L&auml;s mer om Zero Zero Robotics , HoverAir Versa , videokamera , gimbalkamera , Kameradronare , Flygande kameror",
       "link": "https://feber.se/pryl/hoverair-versa-ar-en-flygande-actionkamera/494582/?utm_source=rss&utm_medium=feed",
@@ -154,8 +364,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785422964000
     },
     {
-      "title": "Spanska exklaven Ceuta varnar om nödläge då flera tusen migranter simmar över gränsen",
-      "description": "De lokala myndigheterna vill att spanska regeringen utlyser nödläge och skickar militär förstärkning.",
+      "title": "Spanska militären hjälper exklaven Ceuta då flera tusen migranter simmar över gränsen",
+      "description": "Spanska regeringen hörsammar lokala myndigheternas begäran om militär förstärkning trots allt.",
       "link": "https://yle.fi/a/7-10102885?origin=rss",
       "guid": "https://yle.fi/a/7-10102885",
       "image": "",
@@ -245,7 +455,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Tusentals tog sig över gränsen till spansk exklav",
-      "description": "Tusentals migranter har tagit sig över gränsen till den spanska enklaven Ceuta i Nordafrika. Lokala myndigheter vädjar till regeringen i Madrid att utlysa nationellt nödläge. – Vi kommer inte ta emot omfördelning av migranter, säger migrationsministern Johan Forssell (M).",
+      "description": "Tusentals migranter har tagit sig över gränsen till den spanska exklaven Ceuta i Nordafrika. – Vi kommer inte ta emot omfördelning av migranter, säger migrationsministern Johan Forssell (M). Nu skickar Spanien militär.",
       "link": "https://www.expressen.se/nyheter/varlden/tusentals-tog-sig-over-gransen-till-spansk-exklav/",
       "guid": "https://www.expressen.se/nyheter/varlden/tusentals-tog-sig-over-gransen-till-spansk-exklav/",
       "image": "",
@@ -362,6 +572,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785417813000
+    },
+    {
+      "title": "Forskare skapade en speciell kristall på ett bord i laboratoriet – då hände något som ingen tidigare har sett",
+      "description": "Vad händer när tiden börjar bete sig annorlunda? Ett experiment på ett laboratoriebord har avslöjat en dold naturlag.",
+      "link": "https://illvet.se/fysik/forskare-skapade-en-speciell-kristall-pa-ett-bord-i-laboratoriet-da-hande-nagot-som-ingen-tidigare-har-sett",
+      "guid": "https://illvet.se/fysik/forskare-skapade-en-speciell-kristall-pa-ett-bord-i-laboratoriet-da-hande-nagot-som-ingen-tidigare-har-sett",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785417206000
     },
     {
       "title": "E4 avstängd efter brand",
@@ -482,16 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785414600000
-    },
-    {
-      "title": "Skatterabatter vapnet när kommunerna slåss",
-      "description": "Kommunerna ska få mer av skattepengarna, säger britternas nye ledare, Det kan ge bättre välfärd – eller skatterabatter. Storbritanniens nye premiärminister Andy Burnham väntas ge regionala och storstads-ledningar en ökad andel av skatteintäkterna för att använda lokalt. Det ska ske som en del av den omstrukturering av skattesystemet som ska läggas fram fredag. Baronessan: ”En […]",
-      "link": "https://www.dagensps.se/varlden/skatterabatter-vapnet-nar-kommunerna-slass/",
-      "guid": "https://www.dagensps.se/?p=1660132",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdldked4aavdz4-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785414246000
     },
     {
       "title": "Scientists found evolution repeating itself in the Galápagos Islands",
@@ -684,36 +894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785405434000
     },
     {
-      "title": "”Föräldrar är oroade för oss barn som ska gå i prideparaden”",
-      "description": "Lördagens terrordåd i Berlin kastar en skugga över Stockholm Pride. Många upplever också hårdnande attityder mot HBTQI-personer.",
-      "link": "https://yle.fi/a/7-10102727?origin=rss",
-      "guid": "https://yle.fi/a/7-10102727",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785405404000
-    },
-    {
-      "title": "Kvinnan som försvann i samband med båtolyckan i Sverige har hittats död",
-      "description": "En familj befann sig ombord på en fritidsbåt när den krockade med ett lastfartyg på tisdagen. Dottern i familjen saknas fortfarande.",
-      "link": "https://yle.fi/a/7-10102872?origin=rss",
-      "guid": "https://yle.fi/a/7-10102872",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785404503000
-    },
-    {
-      "title": "Nya regler för lärares och skolgångshandledares skolluncher i Raseborg",
-      "description": "Från och med i höst blir reglerna tydligare för de lärare och skolgångshandledare som äter lunch tillsammans med eleverna i grundskolorna i Raseborg.",
-      "link": "https://yle.fi/a/7-10100702?origin=rss",
-      "guid": "https://yle.fi/a/7-10100702",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785404432000
-    },
-    {
       "title": "Trafikverket sänker hastigheten i värmen",
       "description": "Och asfalt kan börja blöda Det är varmt och skönt igen, men värme betyder också problem på vissa ställen. Vid höga temperaturer kan så kallade solkurvor bildas, ett fenomen där metallen i rälsen expanderar vilket leder till att de kröks. – Vi väljer att sänka hastigheten på ett dussintal sträckor under delar av morgondagen (idag, reds anmärkning). Det gör vi på Trafikverket för att minska risken för olyckor. I nuläget gäller det bara under delar av torsdagsdygnet, men vi följer väderläget kontinuerligt och de säkerhetsåtgärder vi sätter in kan snabbt ändras, säger Peter Jonsson, presskommunikatör vid Trafikverket. Trafikverket säger också att det finns risk för blödande asfalt i värmen. När asfalten blir varm mjukas bindemedlet upp och stiger upp till vägytan som då blir hal. Så kör försiktigt. L&auml;s vidare och kommentera: https://feber.se/fordon/trafikverket-sanker-hastigheten-i-varmen/494575/ L&auml;s mer om Trafikverket , solkurvor , blödande asfalt , Peter Jonsson , värmeskador",
       "link": "https://feber.se/fordon/trafikverket-sanker-hastigheten-i-varmen/494575/?utm_source=rss&utm_medium=feed",
@@ -732,16 +912,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785403151000
-    },
-    {
-      "title": "Österbottnisk skog hårt drabbad av de senaste årens stormar",
-      "description": "Privata skogar i västra Finland har drabbats hårdast av stormskador under 2020-talet. Österbottniska skogsägare har tvingats avverka rekordmycket skadad skog.",
-      "link": "https://yle.fi/a/7-10102864?origin=rss",
-      "guid": "https://yle.fi/a/7-10102864",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785402318000
     },
     {
       "title": "Därför har en molnfri himmel så många blå färger",
@@ -772,26 +942,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785401109000
-    },
-    {
-      "title": "Strandgäster paxar plats på stranden – nu slår polisen till",
-      "description": "Lämna kvar solstolen eller bred ut handduken för att kunna ta sovmorgon och ändå paxa en plats på stranden? Nu får det vara nog, enligt italiensk polis. På flera håll i Italien slår myndigheterna till mot fusket, rapporterar Ilmessaggero.",
-      "link": "https://www.expressen.se/nyheter/varlden/strandgaster-paxar-plats-pa-stranden-nu-slar-polisen-till-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/strandgaster-paxar-plats-pa-stranden-nu-slar-polisen-till-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785401030000
-    },
-    {
-      "title": "Bränder tvingade cirka åttatusen personer att evakuera på Kreta – fortfarande tryggt att resa i Europa, säger resebyråer",
-      "description": "Resebyrån Tui säger att de ännu inte behövt evakuera resenärer, men att man följer situationen.",
-      "link": "https://yle.fi/a/7-10102863?origin=rss",
-      "guid": "https://yle.fi/a/7-10102863",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785400679000
     },
     {
       "title": "Ferrari Luce är en säljsuccé!",
@@ -832,36 +982,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785398400000
-    },
-    {
-      "title": "Skandia höjer bolåneräntor",
-      "description": "Bankens besked",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=72fe24e4-3937-45c6-ba21-ea4402e26ed1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=72fe24e4-3937-45c6-ba21-ea4402e26ed1",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785397735000
-    },
-    {
-      "title": "Mamman hittad död efter Tjörnolyckan",
-      "description": "En mamma och en dotter försvann i förrgår efter en båtolycka vid Tjörn. Nu har mamman hittats död, enligt polisen. Dottern söks fortfarande – och olyckan utreds av polis.",
-      "link": "https://www.expressen.se/nyheter/sverige/mamman-hittad-dod-efter-tjornolyckan-2hczv/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mamman-hittad-dod-efter-tjornolyckan-2hczv/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785396911000
-    },
-    {
-      "title": "Mamman hittad död",
-      "description": "Efter båtolyckan • Dottern saknas fortfarande",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=54a0639b-db7c-4da4-b13d-0bb54f5f3895",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=54a0639b-db7c-4da4-b13d-0bb54f5f3895",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785396768000
     },
     {
       "title": "Cyberpunk 2077 är lite extra billigt just nu",
@@ -962,16 +1082,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785391200000
-    },
-    {
-      "title": "Flera döda i ryska attacker",
-      "description": "Hundratals drönare mot flera städer",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/flera-doda-och-skadade-i-ryska-attacker/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/flera-doda-och-skadade-i-ryska-attacker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785390783000
     },
     {
       "title": "Tvärbroms för gratis bältrosvaccin – överklagat av politisk vilde",
@@ -1174,26 +1284,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785351600000
     },
     {
-      "title": "Spotify har köpt ett flygplan",
-      "description": "Kommer flyga flott i Bombardier Global 6500 Breakit rapporterar att Spotify har köpt in ett privatjet som ska användas för att chefer och andra snabbt ska kunna ta sig runt jorden på affärsmöten. Spotifys talesperson Julia Levander säger till Breakit om flygplansköpet: \"Spotify är ett globalt företag med huvudkontor i Stockholm. Ett begränsat antal seniora ledare har frekventa, tidskänsliga internationella resebehov. Detta är ett rollspecifikt arrangemang för tjänsteresor där kommersiella alternativ inte är praktiskt genomförbara.\" Det handlar om ett Bombardier Global 6500, samma flygplan som Saab använder för övervakningsplattformen GlobalEye. Flygplanet har en räckvidd på över 12.000 km, något som innebär att det till exempel kan flyga Stockholm-Hongkong nonstop. Vanligtvis finns det 13-14 passagerarplatser i ett Bombardier Global 6500, men planet går även att få i konfigurationer med upp till 19 passagerarplatser. Ett Bombardier Global 6500 kostar vanligtvis mellan 500-600 miljoner kronor. Tidigare i år köpte Försvarsmakten in två stycken begagnade Bombardier Global 6500 för drygt 1 miljard kronor vilka ska fungera som statsflyg för Sveriges högsta civila och militära ledning. Vad Spotify har betalat för sitt flygplan finns det inga uppgifter om. L&auml;s vidare och kommentera: https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/ L&auml;s mer om Bombardier Global 6500 , Breakit , Julia Levander , affärsresor , Privatjet , Saab",
-      "link": "https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/spotify-har-kopt-ett-flygplan/494556/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785349800000
-    },
-    {
-      "title": "1Rollo är en robot som rullar fram på ett hjul",
-      "description": "Tänkt att användas som robotväktare Det estländska robotföretaget Rollo Robotics har visat upp en robot som fått namnet \"1Rollo\" som primärt är tänkt som en patrullerande säkerhets- och övervakningsrobot. 1Rollo är tänkt att patrullera en förutbestämd rutt och är försedd med ett datorsynsystem som kan filma i 360 grader och upptäcka eventuella konstigheter i omgivningarna. Skulle roboten upptäcka något konstigt skickar den ett meddelande till en operatör eller en säkerhetscentral som då kan skicka en mänsklig väktare eller annan lämplig personal till platsen. Robotens kameror och andra sensorer används även för att roboten ska upptäcka och ta sig förbi hinder som kan finnas på rutten. Den har en topphastighet på 30 km/h och ska kunna rulla runt i cirka 8 timmar på en laddning. Rollo Robotics siktar på att lansera 1Rollo någon gång under 2027. Den kommer initialt att bli tillgänglig via ett abonnemang, men det finns inga uppgifter om vad priset kommer att landa på. Nedanför hittas ett längre videoklipp där Rollo Robotics medgrundare och VD Sander Sebastian Agur snackar lite mer om den rullande robotväktaren. L&auml;s vidare och kommentera: https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/ L&auml;s mer om Rollo Robotics , 1Rollo , Robotklot , Roboväktare , Övervakningsrobot , Kamerabevakning",
-      "link": "https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/1rollo-ar-en-robot-som-rullar-fram-pa-ett-hjul/494537/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785348000000
-    },
-    {
       "title": "Good Dog: A Selection of Portraits by Randal Ford",
       "description": "",
       "link": "https://uncrate.com/good-dog-a-selection-of-portraits-by-randal-ford/",
@@ -1202,16 +1292,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785348000000
-    },
-    {
-      "title": "eBay döms att betala stort skadestånd för hot",
-      "description": "Till journalistpar som trakasserats efter kritik mot företaget Det rättsliga efterspelet efter den märkliga historien då ett gäng med chefer och anställda på eBay började trakassera ett journalistpar som granskade företaget har nu fått sitt juridiska efterspel avslutat. Det var under 2019 som paret Ina och David Steiner skrev kritiskt om eBay på EcommerceBytes, en nyhetsblogg med inriktning på ehandel som paret driver. Detta retade upp några chefer på eBay så till den grad att de inledde en kampanj mot Steiners som inkluderade hot online såväl som fysiska paket med bland annat levande kackerlackor, en begravningskrans och en blodig grismask, se bild ovan. EBay och sju före detta anställda döms nu att betala 56 miljoner dollar i skadestånd till paret Steiner efter att dessa stämt de inblandade. I en rättegång i början av 2024 dömdes flera av de inblandade till fleråriga fängelsestraff samt att betala skadestånd på sammanlagt 3 miljoner dollar. L&auml;s vidare och kommentera: https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/ L&auml;s mer om eBay , Ina Steiner , David Steiner , EcommerceBytes , Skadestånd , Hot , Stämning , Dingfeber",
-      "link": "https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/ebay-doms-att-betala-stort-skadestand-for-hot/494530/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785346200000
     },
     {
       "title": "Eclipse Over the Atlantic",
@@ -1224,16 +1304,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785345315000
     },
     {
-      "title": "Netflix har gjort en till dokumentär om Boeing",
-      "description": "Med fokus på visselblåsarna Freefall: A Reckoning for Boeing är namnet på en ny dokumentär om Boeing. Man fokuserar på visselblåsaren John Barnett som mystiskt dog. I dokumentären får vi träffa anställda vid Boeings fabrik för 787 Dreamliner i Charleston, South Carolina. Vi får höra dem berätta om säkerhetsbrister, bland annat att skrotade delar satts tillbaka på flygplanen. Det här är den andra dokumentären om Boeing som regissören Rory Kennedy gör. Den första hette Downfall: The Case Against Boeing och i den medverkade bland andra John Barnett, som hittades död av en skottskada i sin pickup 2024. L&auml;s vidare och kommentera: https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/ L&auml;s mer om Boeing , John Barnett , Rory Kennedy , Dreamliner , Freefall: A Reckoning for Boeing , visselblåsare",
-      "link": "https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/netflix-har-gjort-en-till-dokumentar-om-boeing/494549/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785344400000
-    },
-    {
       "title": "Heretic Metaphysical Cleansing Bar",
       "description": "",
       "link": "https://uncrate.com/heretic-metaphysical-cleansing-bar/",
@@ -1242,16 +1312,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785344400000
-    },
-    {
-      "title": "Den här bilen har ingen motor, växellåda eller batteri",
-      "description": "Ska ändå göra 0-100 km/h på 0,3 sekunder Man ska inte uppfinna hjulet på nytt brukar det ju heta. Och det har den rumänsk uppfinnaren Adrian Rosca verkligen tagit fasta på. Han har byggt en bil som inte drivs av en motor, utan av tryckluft. Tanken är väldigt enkelt att bilens hjul sitter på skenor och med hjälp av tryckluft så flyttas hjulen fram och tillbaka på skenorna. Gör man detta växelvis och bromsar det hjul som har nått hela vägen fram får man en bil som rör sig. Det är lite som att gå, vi människor rör ju ett ben i taget och låser det andra under tiden. Det hela är lite rörigt, men förklaras väldigt bra i videon nedan. Det är nördigt, men intressant! Adrian har byggt in tekniken i en gammal Audi A8 som förutom skenorna har kraftiga pneumatikcylindrar och en tryckluftstank på 360 bar. Den där supersnabba accelerationen på 0,3 sekunder kan faktiskt stämma, i teorin. Det har inte bevisats, men kan som sagt stämma. På pappret. Adrian påstår också att toppfarten är knasiga 600 km/h, men det känns orimligt att man inte skulle kunna komma dit utan att ta slut på tryckluften. Det hela är galet, men roligt. L&auml;s vidare och kommentera: https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/ L&auml;s mer om Adrian Rosca , Audi A8 , Tryckluft , Pneumatik , Tryckluftsbil , pneumatikcylindrar",
-      "link": "https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/den-har-bilen-har-ingen-motor-vaxellada-eller-batteri/494548/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785342600000
     },
     {
       "title": "Se bilderna: Experter återskapar en vacker takmålning från Pompeji",
@@ -1264,16 +1324,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785340830000
     },
     {
-      "title": "Nytt grafikkort släppt med endast 4 GB",
-      "description": "Komponentbristen tvingar fram grafikkort med begränsat minne För första gången på flera år lanseras nu ett modernt grafikkort med endast 4 GB. Detta är så klart på grund av den globala bristen på komponenter och skenande priser på RAM-minne som nu har skapat denna nya marknad. Kortet är ASRocks nya variant av AMD Radeon RX 9050 som har en minnesbuss på 64 bitar och 16 beräkningsenheter. Det gör ju att den kanske inte riktigt klarar av de tyngsta grejerna, även i 1080p, men om man är villig att kompromissa för att få någon form av modernare arkitektur så kan ju detta vara något. Det lär dock bli rätt omodernt snabbt, så det är väl främst för den som är desperat och inte kräver allt för krävande spel. Något officiellt pris har inte getts ännu men kortet har synts i färdigbyggda budgetdatorer hos internationella återförsäljare, med prislappar på knappt 900 dollar. L&auml;s vidare och kommentera: https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/ L&auml;s mer om ASRock , AMD Radeon RX 9050 , grafikkort , RAM-minne , budgetdatorer , komponentbrist",
-      "link": "https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/nytt-grafikkort-slappt-med-endast-4-gb/494532/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785340800000
-    },
-    {
       "title": "Maradona \"Hand of God\" World Cup Ball",
       "description": "",
       "link": "https://uncrate.com/maradona-hand-of-god-world-cup-ball/",
@@ -1282,16 +1332,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785340800000
-    },
-    {
-      "title": "Nu kan du lukta Pepsi när du duschat",
-      "description": "Inte lukta usch, måste ta en dusch! Det amerikanska kosmetikföretaget Glamlite har tidigare gjort samarbeten med bland annat Kellogg’s och nu är man på gång med två Pepsi-produkter. Det här betyder att du snart kommer att kunna lukta cola direkt ur duschen, utan att hälla en flaska över dig. Som vi har längtat! Kollektionen är tyvärr/som väl är rätt begränsad, en kroppsskrubb med Pepsi Vanilla-doft och en duschtvål med Pepsi Wild Cherry-doft. Men det ska komma mera, då inom kosmetik. Grundaren och vd:n Gisselle Hernandez säger att man har testat över 300 olika formulas och mer än 2000 olika doftvarianter. L&auml;s vidare och kommentera: https://tjock.se/kroppen/nu-kan-du-lukta-pepsi-nar-du-duschat/494543/ L&auml;s mer om Glamlite , Pepsi , Gisselle Hernandez , kroppsskrubb , Pepsi Vanilla , Kellogg’s , Pepsi Wild Cherry",
-      "link": "https://tjock.se/kroppen/nu-kan-du-lukta-pepsi-nar-du-duschat/494543/?utm_source=rss&utm_medium=feed",
-      "guid": "https://tjock.se/kroppen/nu-kan-du-lukta-pepsi-nar-du-duschat/494543/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785339000000
     },
     {
       "title": "Bakslag för alkohol till åtta på morgonen: \"Ett svek\"",
@@ -2034,16 +2074,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785184225000
     },
     {
-      "title": "Nytt varningssystem kan rädda liv – mobilen känner av jordskalv",
-      "description": "En inbyggd sensor i moderna smartmobiler registrerar till och med mycket små vibrationer. Ett nytt system använder sig av funktionen för att automatiskt varna för jordskalv. Du behöver bara ha en viss sorts mobil.",
-      "link": "https://illvet.se/teknik/nytt-varningssystem-kan-radda-liv-mobilen-kanner-av-jordskalv",
-      "guid": "https://illvet.se/teknik/nytt-varningssystem-kan-radda-liv-mobilen-kanner-av-jordskalv",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785180607000
-    },
-    {
       "title": "Vreeswijks lillasyster om Cornelisdagen: \"Ställer upp varje år\"",
       "description": "Tonny Vreeswijk är bland personerna som kommer att uppträda på den kostnadsfria Cornelisdagen 2026 på Mosebacketerrassen.",
       "link": "https://www.mitti.se/nyheter/vreeswijks-lillasyster-om-cornelisdagen-staller-upp-varje-ar-6.3.377450.9f512fff42",
@@ -2082,16 +2112,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785166227000
-    },
-    {
-      "title": "Ny upptäckt: Rödhåriga kan bära runt på en hittills okänd superkraft",
-      "description": "Är du välsignad med rött hår – eller känner du någon som är det?",
-      "link": "https://illvet.se/manniskan/ny-upptackt-rodhariga-kan-bara-runt-pa-en-hittills-okand-superkraft",
-      "guid": "https://illvet.se/manniskan/ny-upptackt-rodhariga-kan-bara-runt-pa-en-hittills-okand-superkraft",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785164450000
     },
     {
       "title": "Polisen om Pride: \"Inga hot riktade mot veckan\"",
@@ -2422,16 +2442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785076813000
-    },
-    {
-      "title": "Oavgjort på Grimsta IP",
-      "description": "Victor Lind såg ut att bli stor hjälte för Hammarby efter sitt 1–0-mål i den 79:e minuten. Men i minut 90 fick BP in en kvittering och klarade därmed 1–1 i det allsvenska mötet på Grimsta IP. Jämfört",
-      "link": "https://www.hammarbyfotboll.se/nyheter/oavgjort-pa-grimsta-ip",
-      "guid": "d8ea8739-a8d9-47bc-96b6-0de7f788063b",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/ac68dff4c3e98958748c284034a4526ee7b64f9b-1866x1244.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785074285000
     },
     {
       "title": "The best way to save giant sequoias may be more fire",
