@@ -1,8 +1,278 @@
 {
-  "updatedAt": "2026-07-31T16:29:36.321Z",
+  "updatedAt": "2026-07-31T19:06:43.948Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Snap SPECS AR Smart Glasses",
+      "description": "",
+      "link": "https://uncrate.com/snap-specs-ar-smart-glasses/",
+      "guid": "https://uncrate.com/snap-specs-ar-smart-glasses/",
+      "image": "https://uncrate.com/assets_c/2026/06/snap-specs-ar-smart-glasses-4-darkened-thumb-960xauto-191633.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785526210000
+    },
+    {
+      "title": "Har du koll på dina testosteronnivåer?",
+      "description": "Dagens fråga Ny forskning visar att mänsklighetens testosteronnivåer har halverats på ett halvt sekel. Men innan du drabbas av panik och börjar bygga ett eget gym i källaren med bara skrot och råa ägg menar experterna att fertiliteten inte verkar ha tagit skada. En av de främsta förklaringarna till de sjunkande värdena tros vara livsstilsförändringar. Den ökande övervikten i samhället påstås spela en central roll, då kroppsfett påverkar hur hormonet registreras i kroppen utan att det för den sakens skull behöver innebära någon funktionell nedsättning. I samband med att de generella nivåerna går ner har intresset för att testa sig privat exploderat och privata kliniker säljer glatt labbtester med rabattkoder till oroade män vilket har gjort tröskeln att testa sig rekordlåg. Det reser ju den naturliga frågan hur läget ligger bland våra läsare. L&auml;s vidare och kommentera: https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/ L&auml;s mer om testosteron , fertilitet , övervikt , hormoner , livsstil , Labbtester , hormonell hälsa",
+      "link": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785524400000
+    },
+    {
+      "title": "DOXA SUB Army 200T for Hodinkee Watch",
+      "description": "",
+      "link": "https://uncrate.com/doxa-sub-army-200t-for-hodinkee-watch/",
+      "guid": "https://uncrate.com/doxa-sub-army-200t-for-hodinkee-watch/",
+      "image": "https://uncrate.com/assets_c/2026/07/doxa-sub-army-200t-hodinkee-watch-1-thumb-960xauto-192417.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785524400000
+    },
+    {
+      "title": "Nya regementet kan stoppas i domstol",
+      "description": "Ett regemente ska byggas i Sollefteå. Så långt är alla överens. Men flera överklaganden kan försena bygget flera år. Svenska försvaret rustas upp snabbt, starkt och intensivt – men längs vägen dyker det upp väntade och oväntade problem. I Sollefteå kan ett planerat regementsbygge försenas rejält, i värsta fall flera år. ”Det är klart att […]",
+      "link": "https://www.dagensps.se/varlden/nya-regementet-kan-stoppas-i-domstol/",
+      "guid": "https://www.dagensps.se/?p=1660432",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlcc1br-jbuim-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785524265000
+    },
+    {
+      "title": "EIF slog HJK:s reserver i ligaettan: ”Det såg kanske inte så bra ut”",
+      "description": "En seger och tre poäng var väl det Ekenäs IF:s fotbollsmannar var ute efter från matchen mot HJK Klubi04. EIF övertygade inte, men lyckades ändå vinna.",
+      "link": "https://yle.fi/a/7-10102709?origin=rss",
+      "guid": "https://yle.fi/a/7-10102709",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785524149000
+    },
+    {
+      "title": "Stridsflyg har kraschat i USA",
+      "description": "Värt nästan en miljard",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785523952000
+    },
+    {
+      "title": "Rony Jansson tar klivet till Tyskland – klar för FC St. Pauli",
+      "description": "Rony Jansson har gjort sitt i Kalmar FF. Efter fyra år lämnar den finländske backen nu Allsvenskan för nya utmaningar i tyska St. Pauli, som spelar i 2. Bundesliga.",
+      "link": "https://yle.fi/a/7-10102942?origin=rss",
+      "guid": "https://yle.fi/a/7-10102942",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785523505000
+    },
+    {
+      "title": "Filmproducent stämmer Netflix på 105 miljoner dollar efter att film stals från kontor",
+      "description": "Netflix säger att de inte kan ta ansvar över stölden eftersom filmkopian inte var tillräckligt skyddad.",
+      "link": "https://yle.fi/a/7-10102941?origin=rss",
+      "guid": "https://yle.fi/a/7-10102941",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785522688000
+    },
+    {
+      "title": "Dömd bedragare häktad för attacken mot S partilokal i Sölvesborg",
+      "description": "En 36-årig man häktas som misstänkt för försök till grov mordbrand efter attacken mot Socialdemokraternas partilokal i Sölvesborg. Han är tidigare dömd för grovt bedrägeri och skattebrott – samt har åtalats för hets mot folkgrupp, riktad mot muslimer. Mannen nekar till mordbrand, men erkänner skadegörelse.",
+      "link": "https://www.expressen.se/nyheter/domd-bedragare-haktad-for-attacken--mot-s-partilokal-i-solvesborg/",
+      "guid": "https://www.expressen.se/nyheter/domd-bedragare-haktad-for-attacken--mot-s-partilokal-i-solvesborg/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785522620000
+    },
+    {
+      "title": "Helldivers 2 får snart sin Warhammer 40k-DLC",
+      "description": "Den 12 augusti släpps Imperial Guard-utrustning Den 12 augusti släpps ett nytt DLC-paket till Helldivers 2 där man kommer kunna använda sig av utrustning baserad på Imperial Guards från Warhammer 40,000-universumet. Bland nyheterna finns klassiska vapen som en Bolt Pistol och en Meltagun. Om man undrar varför Arrowhead inte valt att inkludera några Space Marines i detta paket grundar sig det beslutet i att karaktärerna i Helldivers dör i rasande takt, vilket inte skulle stämma överens med den nästan odödliga status som en Space Marine har. L&auml;s vidare och kommentera: https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/ L&auml;s mer om Helldivers 2 , Warhammer 40000 , Arrowhead Game Studios , DLC , Bolt Pistol , Meltagun , Warhammer 40",
+      "link": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785522600000
+    },
+    {
+      "title": "Trump: ”Gör mig arg”",
+      "description": "Besvikelsen över förhandlingarna",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785522522000
+    },
+    {
+      "title": "Nu kan Ukraina betala planen från Saab",
+      "description": "Ukraina får en EU-utbetalning på motsvarande drygt 38 miljarder kronor och ska bland annat betala Saab med pengarna. Ukraina har mottagit en ny utbetalning från EU inom ramen för låneprogrammet på motsvarande 990 miljarder kronor, 90 miljarder euro. Det meddelar Ukrainas premiärminister Serhij Koretskyj. Pengarna ska finansiera inköp av drönare, däribland jetdrivna modeller med lång […]",
+      "link": "https://www.dagensps.se/varlden/nu-kan-ukraina-betala-planen-fran-saab/",
+      "guid": "https://www.dagensps.se/?p=1660421",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlvrm2a5wezow-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785522337000
+    },
+    {
+      "title": "Regeringen backar kring vargen",
+      "description": "Regeringen: Så många får leva i Sverige",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c28057-dc1f-4510-848b-3e7e8a988d1b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c28057-dc1f-4510-848b-3e7e8a988d1b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785522094000
+    },
+    {
+      "title": "AI kan nu generera bilder direkt i Google Earth",
+      "description": "Via Nano Banana Google har nu slängt in sin bildgenerator Nano Banana direkt i Google Earth så användare kan generera bilder på historiska miljöer eller framtida byggprojekt direkt på satellitbilderna. Så via en enkel prompt kan verktyget förvandla ruiner till en romersk stadsmiljö från förr. Kritiker har dock redan ifrågasatt hur verklighetstrogna bilderna faktiskt är och påpekar att tekniken till stor del bygger på gissningar då det som bekant inte finns alltför mycket fotografiskt underlag från antiken. Google säger också att Nano Banana kan användas av arkitekter och fastighetsutvecklare så de kan visualisera nya byggnader på tomma ytor. Verktyget kan även skapa skräddarsydd infografik för kända landmärken. Genom att titta på exempelvis Frihetsgudinnan kan användaren få upp genererad grafik med teknisk data och historisk kuriosa. Precis som allt annan AI som slängs in överallt hela tiden återstår det dock att se om folk faktiskt kommer att använda detta. L&auml;s vidare och kommentera: https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/ L&auml;s mer om Nano Banana , Google Earth , Pompeji , artificiell intelligens , Frihetsgudinnan , stadsplanering",
+      "link": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785520800000
+    },
+    {
+      "title": "Gerber Lockdown Pry",
+      "description": "",
+      "link": "https://uncrate.com/gerber-lockdown-pry/",
+      "guid": "https://uncrate.com/gerber-lockdown-pry/",
+      "image": "https://uncrate.com/assets_c/2026/07/gerber-lockdown-pry-1-darkened-thumb-960xauto-192416.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785520800000
+    },
+    {
+      "title": "Vilddjuret som hjälper oss bekämpa skogsbränder",
+      "description": "Stora skogsbränder härjar i Europa. Det här är djuret som motverkar bränderna och hjälper landskapet återhämta sig. Det är naturligtvis bävrar vi talar om. Bävrarna bekämpar i tysthet Europas våldsamma skogsbränder och hjälper brända landskap att återhämta sig. Bävrars förkärlek för att bygga dammar har skapat naturliga brandgator runt om i Europa, vilka kan bidra […]",
+      "link": "https://www.dagensps.se/varlden/vilddjuret-som-hjalper-oss-bekampa-skogsbrander/",
+      "guid": "https://www.dagensps.se/?p=1660410",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl7xx7x-tt2gm-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785520283000
+    },
+    {
+      "title": "Hairmax Laser Hair Growth Cap",
+      "description": "",
+      "link": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
+      "guid": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
+      "image": "https://uncrate.com/assets_c/2026/07/hairmax-cap-thumb-960xauto-192207.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785519128000
+    },
+    {
+      "title": "Bekanta dig med huvudkaraktärerna i 1666: Amsterdam",
+      "description": "Assassin's Creed-skaparens nya spel Panache Digital Games har släppt en ny trailer för sitt kommande spel 1666: Amsterdam. Spelet, som leds av Assassin's Creed-skaparen Patrice Désilets, kommer att blanda någon form av historisk realism med mörk magi och tidshopp. I centrum av berättelsen står Noa som kämpar mot en korrumperande magisk kraft genom att jaga rätt på varelser som kallas The Originals. Till sin hjälp har hon Aaron, en helt vanlig lärare från vår tid som under mystiska omständigheter förvandlats till en katt och skickats 300 år tillbaka i tiden. Som spelare ska man då kombinera Noas mystiska krafter med kattens smidighet för att navigera i 1600-talets Amsterdam. Något exakt lanseringsdatum är ännu inte spikad, men vill man få lite känsla för spelet kan man redan nu spela en kort prolog på PC. L&auml;s vidare och kommentera: https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/ L&auml;s mer om Panache Digital Games , Patrice Désilets , 1666: Amsterdam , Noa , 1666 Amsterdam , PC-spel , PC",
+      "link": "https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785519000000
+    },
+    {
+      "title": "Magdalena Anderssons ord om migrationskrisen i Ceuta",
+      "description": "Johan Forssell (M) gick i hård attack mot Magdalena Andersson efter migrantanstormningen. Nu – ett dygn senare – svarar S-ledaren.",
+      "link": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
+      "guid": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785518705000
+    },
+    {
+      "title": "Meloni stänger ute Spanien från Schengensamarbetet – kritiken från Sanchez",
+      "description": "Italien pausar Schengensamarbetet med Spanien efter migrantanstormningen, skriver Reuters. Spaniens premiärminister Pedro Sanchez slår tillbaka mot Melonis beslut.",
+      "link": "https://www.expressen.se/nyheter/varlden/meloni-stanger-ute-spanien-fran-schengensamarbetet-kritiken-fran-sanchez-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/meloni-stanger-ute-spanien-fran-schengensamarbetet-kritiken-fran-sanchez-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785517881000
+    },
+    {
+      "title": "Tilda, 21, fick diabetes – och drabbades av en stroke",
+      "description": "Först fördes hon akut till sjukhus med misstänkt diabetes. Sedan drabbades hon av en stroke. Nu måste Tilda Bota, 21, leva med sin nya sjukdom – och lära sig att gå igen.",
+      "link": "https://www.expressen.se/nyheter/sverige/tilda-21-fick-diabetes-sen-stroke/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tilda-21-fick-diabetes-sen-stroke/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785517312000
+    },
+    {
+      "title": "I Åre kan man nu panta kläder",
+      "description": "Panta tröjan och få slantar i retur Ett nytt pilotprojekt i Åre startar just nu om ett pantsystem för kläder kan införas. Det hela är då inspirerat av hur vi återvinner burkar och flaskor, men tanken är att man ska få en slant tillbaka vid inlämning av kläder. Målset är att göra modeindustrin mer cirkulär och minska det enorma textilsvinnet. Systemet fungerar genom att invånarna hämtar en särskild pantpåse hos kommunen. Genom att scanna en QR-kod kopplas påsen till ägaren, som sedan lämnar in sina använda plagg i kommunens insamlingsboxar. När kläderna har sorterats på den lokala återvinningscentralen får den som lämnat in dem en ekonomisk belöning. Ersättningen ligger på 25 procent av plaggens beräknade marknadsvärde. Så om du lämnar in kläder som bedöms vara värda en tusenlapp på second hand-marknaden, får du alltså 250 kronor tillbaka. Vem som värderar dessa kläder och om det skiftar beroende på vem som bedömer är oklart. Forskning visar att så mycket som 40 procent av alla textilier slängs trots att de ofta är i gott skick och kan användas. Så genom att erbjuda möjligheten att panta kläderna vill man se till att de antingen säljs vidare eller återvinns till nya material. Försöksprojektet i Åre är en del av ett EU-initiativ som pågår fram till december. L&auml;s vidare och kommentera: https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/ L&auml;s mer om Åre , textilåtervinning , QR-kod , modeindustri , klädpant , cirkulärt mode , second hand , EU-initiativ",
+      "link": "https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785517200000
+    },
+    {
+      "title": "Blind Barber 30 Proof Styling Cream",
+      "description": "",
+      "link": "https://uncrate.com/blind-barber-30-proof-styling-cream/",
+      "guid": "https://uncrate.com/blind-barber-30-proof-styling-cream/",
+      "image": "https://uncrate.com/assets_c/2026/07/blind-barber-30-proof-styling-cream-1-thumb-960xauto-192415.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785517200000
+    },
+    {
+      "title": "Familjen dödades i ryska attacken",
+      "description": "Voronov-familjen hade inte en chans att fly när den ryska roboten träffade huset. Sex ur familjen dödades i attacken. ”Den ryska robotens nedslag var så kraftfullt att nästan ingenting var kvar av huset”, skriver Zelenskyj på Telegram, enligt Kyiv Independent .",
+      "link": "https://www.expressen.se/nyheter/varlden/familjen-dodades--i-ryska-attacken/",
+      "guid": "https://www.expressen.se/nyheter/varlden/familjen-dodades--i-ryska-attacken/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785516779000
+    },
+    {
+      "title": "Fotbollsstjärna besöker Kärrtorp: ”Bjussade på tips”",
+      "description": "Tidigare United-stjärnan Wes Brown dök upp i Kärrtorp för att skriva autografer till glada fans och träna ihop med BKBK P2014.",
+      "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besoker-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
+      "guid": "https://www.mitti.se/nyheter/fotbollsstjarna-besoker-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
+      "image": "https://www.mitti.se/image-3.377416.301439.20260731171616.7ce8a9ae34?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785516300000
+    },
+    {
+      "title": "Rallyförarna fick uppleva finländskt sommarregn – Oliver Solberg blev dränkt av vatten: ”Det här är farligt”",
+      "description": "Det har varit en blöt fredag för förarna i Jyväskylärallyt. Framför allt under eftermiddagen var förhållandena utmanande i de finländska skogarna.",
+      "link": "https://yle.fi/a/7-10102940?origin=rss",
+      "guid": "https://yle.fi/a/7-10102940",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785516062000
+    },
+    {
+      "title": "Snart kan man spela Metal Gear Solid 4 igen",
+      "description": "Metal Gear Solid: Master Collection Vol. 2 närmar sig Konami har nyligen släppt en ny trailer som knyter ihop Metal Gear Solid Delta: Snake Eater, som släpptes förra året, med kommande Metal Gear Solid: Master Collection Vol. 2. Metal Gear Solid: Master Collection Vol. 2 är en samling med spelen Metal Gear Solid: Peace Walker och Metal Gear Solid 4: Guns of the Patriots. Då Metal Gear Solid 4: Guns of the Patriots inte släppts på någon annan plattform än PlayStation 3 och innehåller ett av populärkulturens tuffaste moment så är det ju ett ypperligt tillfälle att spela genom detta spel igen. Metal Gear Solid: Master Collection Vol. 2 släpps den 27 augusti till PlayStation, Xbox, Windows och Switch. L&auml;s vidare och kommentera: https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/ L&auml;s mer om Konami , Metal Gear Solid , Peace Walker , Master Collection Vol. 2 , remaster , Guns of the Patriots",
+      "link": "https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785515400000
+    },
     {
       "title": "Italien pausar Schengen-samarbetet",
       "description": "Italienska svaret på migrantkaoset",
@@ -364,24 +634,14 @@
       "timestamp": 1785502773000
     },
     {
-      "title": "Italien stänger ute Spanien ur Schengensamarbetet.",
-      "description": "60 000 migranter har stormat gränsen till den spanska exklaven Ceuta. Hadiya, 16, är en av dem. Till mamman sa hon att hon skulle promenera. Spaniens premiärminister Pedro Sanchez kallar anstormningen för en ”attack”. Italien stänger ute Spanien ur Schengensamarbetet.",
+      "title": "Tiotusentals har lämnat – 1700 migranter kvar",
+      "description": "50 000 migranter stormade den spanska exklaven Ceuta på torsdagen. Nu uppger det spanska inrikesministeriet att över 48 300 lämnat – och att det därför enbart är 1700 kvar.",
       "link": "https://www.expressen.se/nyheter/varlden/25-000-uppges-ha-atervant-fran-ceuta/",
       "guid": "https://www.expressen.se/nyheter/varlden/25-000-uppges-ha-atervant-fran-ceuta/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785502216000
-    },
-    {
-      "title": "Yngre får ta smällen när västvärldens skuldberg spricker",
-      "description": "Få äldre kan förstå eller sympatisera med dagens ungdoms situation. Västvärldens välfärdsmodell har nu jämförts med ett pyramidspel där de yngsta kommer sist till bordet och blir kvar med notan. Dagens PS beskrev i onsdags hur brittiska 25-åringar möter den tuffaste starten på vuxenlivet på nästan ett halvsekel. Nu sätter MoneyWeek-krönikören Bill Bonner ord på […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/yngre-far-ta-smallen-nar-vastvarldens-skuldberg-spricker/",
-      "guid": "https://www.dagensps.se/?p=1660368",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-2-7.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785502123000
     },
     {
       "title": "Trump om migrantkaoset: Är hemskt",
@@ -392,16 +652,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785501214000
-    },
-    {
-      "title": "Bildt: Migrationskrisen verkar orkestrerad av Marocko",
-      "description": "Migrationskrisen i Ceuta verkar vara medvetet orkestrerad av Marocko. Det menar före detta utrikesminister Carl Bildt (M). Samtidigt sätter EU-kommissionen ner foten – och kräver att migranterna återvänder.",
-      "link": "https://www.expressen.se/nyheter/politik/bildt-migrationskrisen-orkestrerad-av-marocko/",
-      "guid": "https://www.expressen.se/nyheter/politik/bildt-migrationskrisen-orkestrerad-av-marocko/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785501122000
     },
     {
       "title": "Apple Music höjer priset på familjeabonnemang",
@@ -474,16 +724,6 @@
       "timestamp": 1785500305000
     },
     {
-      "title": "Går mot börsrekord",
-      "description": "Stockholmsbörsen på ny toppnivå",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a269d30b-c4d9-49af-ad3c-82429d618dae",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a269d30b-c4d9-49af-ad3c-82429d618dae",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785499667000
-    },
-    {
       "title": "Mystisk upptäckt vid gammal sjö förvånar forskare: Kan skriva om människans tidiga historia",
       "description": "Ett ögonblick som varade i några sekunder för 1,4 miljoner år sedan har sedan dess har legat dolt i marken.",
       "link": "https://illvet.se/manniskan/mystisk-upptackt-vid-gammal-sjo-forvanar-forskare-kan-skriva-om-manniskans-tidiga-historia",
@@ -514,26 +754,6 @@
       "timestamp": 1785498997000
     },
     {
-      "title": "Efter Trumps tullmiss – Amazon får miljardersättning",
-      "description": "Detta efter att president Donald Trumps tullar ogiltigförklarats av Högsta domstolen (HD). Enligt Amazon ska kunder där det klarlagts att man blivit drabbade nu få möjlighet att ersättas, skriver CNBC. E-handelsjätten Amazon ska få tillbaka omkring 600 miljoner dollar i tullåterbetalningar. Detta efter att president Donald Trumps tullar ogiltigförklarats av Högsta domstolen (HD). Enligt Amazon […]",
-      "link": "https://www.dagensps.se/bors-finans/efter-trumps-tullmiss-amazon-far-miljardersattning/",
-      "guid": "https://www.dagensps.se/?p=1660376",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/ett-av-amazons-lager-i-mexiko-arkivbild.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785498303000
-    },
-    {
-      "title": "Back 83 miljarder på bitcoin – aktien tar det med ro",
-      "description": "Bitcoin rasade under andra kvartalet och Strategy tvingades redovisa en förlust på över 8 miljarder dollar, motsvarande omkring 83 miljarder kronor. Trots det tog investerarna rapporten med ro – aktien steg i efterhandeln. Michael Saylors Strategy redovisade på torsdagen en nettoförlust på 8,22 miljarder dollar, omkring 83 miljarder kronor, för årets andra kvartal, rapporterar Crypto […]",
-      "link": "https://www.dagensps.se/bors-finans/fintech/kryptovalutor/back-83-miljarder-pa-bitcoin-aktien-tar-det-med-ro/",
-      "guid": "https://www.dagensps.se/?p=1660373",
-      "image": "https://images.dagensps.se/app/uploads/2026/06/sdlzswf28931h4-normalhires.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785498142000
-    },
-    {
       "title": "Skriv anteckningar till låtar i en spellista",
       "description": "Ny funktion i Spotify Spotify fortsätter att trycka ut funktioner, och deras senaste är väldigt trevlig för de som gillar att skapa och sprida spellistor. Nu kan man nämligen lägga små noteringar på låtarna i en spellista. Vilket ju är perfekt om man vill dela med sig om varför en låt är bra, eller om det finns en historia kring låten. Det kanske är en artist som är helt ny, men där medlemmarna har varit med i andra band. Funktionen ska finnas för alla över 16 år, både på gratis- och premiumabonnemang. Men tyvärr inte på alla marknader, och jag har inte fått det så jag antar att Sverige inte är en av dessa. Det verkar även bara vara en funktion som är tillgänglig på mobilen. L&auml;s vidare och kommentera: https://feber.se/internet/skriv-anteckningar-till-latar-i-en-spellista/494612/ L&auml;s mer om Spellistor , musikstreaming",
       "link": "https://feber.se/internet/skriv-anteckningar-till-latar-i-en-spellista/494612/?utm_source=rss&utm_medium=feed",
@@ -562,26 +782,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785496616000
-    },
-    {
-      "title": "Sorgen efter båtolyckan: ”Hjärtat brister”",
-      "description": "Familj. Grannar. Sommargäster. Sorgen har drabbat alla och nu öppnar kyrkan för dem. – Hjärtat brister i stunden, säger en anhörig.",
-      "link": "https://www.expressen.se/nyheter/sverige/sorgen-efter-batolyckan-hjartat-brister/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sorgen-efter-batolyckan-hjartat-brister/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785496325000
-    },
-    {
-      "title": "Stopp på E6",
-      "description": "Flera fordon i krock",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=18f3df34-6ed2-4905-91bf-c73c3c3b674d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=18f3df34-6ed2-4905-91bf-c73c3c3b674d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785496291000
     },
     {
       "title": "De bygger om gamla Volvo XC90 till elbilar",
@@ -644,26 +844,6 @@
       "timestamp": 1785494633000
     },
     {
-      "title": "Scenerna från Ceuta är en mardröm för Sanchez",
-      "description": "Pedro Sanchez har länge fört Europas mest invandringsgenerösa politik. Den stresstestas nu ordentligt. Bilderna från Ceuta är en politisk mardröm för honom.",
-      "link": "https://www.expressen.se/kronikorer/mats-larsson/scenerna-fran-ceuta-ar-en-mardrom-for-sanchez/",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/scenerna-fran-ceuta-ar-en-mardrom-for-sanchez/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785494381000
-    },
-    {
-      "title": "Skolanställd sköts ihjäl i Hässelby: ”Riggat enorm krishantering”",
-      "description": "Mannen som sköts ihjäl i Hässelby förra fredagen jobbade på Grimstaskolan. Nu sörjs han av sina kolleger. – En omtyckt och uppskattad medarbetare, säger rektor Fredrik Olsson.",
-      "link": "https://www.expressen.se/nyheter/krim/skolanstalld-skots-ihjal-i-hasselby--riggat-enorm-krishantering/",
-      "guid": "https://www.expressen.se/nyheter/krim/skolanstalld-skots-ihjal-i-hasselby--riggat-enorm-krishantering/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785493960000
-    },
-    {
       "title": "19 minuter Gears of War: E-Day",
       "description": "Visar upp spelets Horde-läge Här bjuds vi på 19 minuter med gameplay från Horde Siege-läget i kommande Gears of War: E-Day. Klippet ovan är inspelat på en PC och körs med grafikinställningarna Ludicrous, vilket är spelets högsta grafiska nivå. Horde Siege är spelets vidareutveckling av seriens klassiska Horde-läge, men denna gång kan upp till tolv spelare, uppdelade i tre fyrmannalag, vara med och skjuta. Varje grupp sköter sina egna mål på kartan, vilket gör att man oftast bara ser de andra lagen på avstånd, vilket är lite tufft. Men ibland kommer det in massiva bossar på kartan och då gäller det att samtliga spelare samarbetar för att hantera dessa. För den som är sugen på att testa spelet drar en öppen beta igång den 6 augusti för alla som har förhandsbokat. Senare under sommaren följer ytterligare en betaperiod som är öppen för alla. Gears of War: E-Day släpps den 6 oktober till Xbox och Windows. För alla som köper spelets Premium Edition släpps det redan den 1 oktober. L&auml;s vidare och kommentera: https://feber.se/spel/19-minuter-gears-of-war-e-day/494609/ L&auml;s mer om Horde Siege , Xbox , Windows , PC , Gears of War: E-Day , Gears of War E-Day",
       "link": "https://feber.se/spel/19-minuter-gears-of-war-e-day/494609/?utm_source=rss&utm_medium=feed",
@@ -672,16 +852,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785493800000
-    },
-    {
-      "title": "Kvinna larmade om våldtäkt – misstänks för falsklarm",
-      "description": "Den unga kvinnan ringde SOS och sa att hon var förföljd – hon hördes säga ”släpp mig” innan samtalet bröts. När polis kom till platsen hittades kvinnan medvetslös i en buske, misstänkt våldtagen. Polisen ökade närvaron i parken och inledde en utredning – men allt var en lögn.",
-      "link": "https://www.expressen.se/nyheter/sverige/kvinna-larmade-om-valdtakt-misstanks-for-falsklarm/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kvinna-larmade-om-valdtakt-misstanks-for-falsklarm/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785493718000
     },
     {
       "title": "VMware täpper till allvarliga sårbarheter – uppdatera snarast",
@@ -744,16 +914,6 @@
       "timestamp": 1785490200000
     },
     {
-      "title": "Våldtäkt på restaurang",
-      "description": "Man i 20-årsåldern misstänkt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=489ec4f0-669c-4664-ad35-7e6e12d9c523",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=489ec4f0-669c-4664-ad35-7e6e12d9c523",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785489558000
-    },
-    {
       "title": "Fotbollslegendaren Franco Baresi är död",
       "description": "Den italienska fotbollslegendaren Franco Baresi har dött efter en tids sjukdom. Han blev 66 år gammal.",
       "link": "https://yle.fi/a/7-10102915?origin=rss",
@@ -784,26 +944,6 @@
       "timestamp": 1785486600000
     },
     {
-      "title": "Hälften av de kring 60 000 som korsade gränsen till Ceuta har nu återvänt",
-      "description": "Tiotusentals migranter har anlänt till den spanska exklaven Ceuta. Många simmade över gränsen. Över 25 000 ska nu ha återvänt till Marocko.",
-      "link": "https://yle.fi/a/7-10102901?origin=rss",
-      "guid": "https://yle.fi/a/7-10102901",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785485201000
-    },
-    {
-      "title": "Fifa kommenterar kritiken: ”Felaktiga medieuppgifter”",
-      "description": "Fifa har publicerat ett nytt pressmeddelande och säger att konsultationsprocessen har störts av felaktiga medieuppgifter.",
-      "link": "https://yle.fi/a/7-10102906?origin=rss",
-      "guid": "https://yle.fi/a/7-10102906",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785485182000
-    },
-    {
       "title": "Nu har även Pixel 11 Pro Fold läckt",
       "description": "Tillsammans med Pixel Watch och Pixel Buds Google fortsätter att läcka Pixel-enheter och nu tror jag att allt har läckt. Och inte mycket är nytt, på utsidan. Pixel 11 Pro Fold ser i princip ut som Pixel 10 Pro Fold, men har även den fått Glow-skärm vid kameran. Exakt vad den ska göra har man inte berättat, men det kommer att ha med Gemini att göra. Sedan har bilder på hörlurarna nya Pixel Buds och Pixel Watch också läckt, och där ser det inte heller ut att vara något nytt på utsidan, förutom den nya gröna färgen då. Allt kommer att presenteras på riktigt den 12 augusti. L&auml;s vidare och kommentera: https://feber.se/mobil/nu-har-aven-pixel-11-pro-fold-lackt/494602/ L&auml;s mer om Pixel 11 Pro Fold , Gemini , Pixel Watch , Pixel Buds , Glow-skärm",
       "link": "https://feber.se/mobil/nu-har-aven-pixel-11-pro-fold-lackt/494602/?utm_source=rss&utm_medium=feed",
@@ -812,16 +952,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785484800000
-    },
-    {
-      "title": "60 000 liter olja bärgades från Ilmarinen, men vraket läcker fortfarande",
-      "description": "Pansarfartyget Ilmarinen stötte på en mina och sjönk i september 1941. Hela 271 soldater miste livet. Vraket är en grav men utgör också en fara för havsmiljön.",
-      "link": "https://yle.fi/a/7-10102905?origin=rss",
-      "guid": "https://yle.fi/a/7-10102905",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785483120000
     },
     {
       "title": "Google visar upp ny AI-modell för humanoida robotar",
@@ -842,16 +972,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785482820000
-    },
-    {
-      "title": "HS: Finländsk frivillig stupade i Ukraina",
-      "description": "Enligt Helsingin Sanomat dog finländaren, som stridit på Ukrainas sida i kriget, vid Charkiv.",
-      "link": "https://yle.fi/a/7-10102908?origin=rss",
-      "guid": "https://yle.fi/a/7-10102908",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785482622000
     },
     {
       "title": "Casios klockring blir smartare",
@@ -1124,56 +1244,6 @@
       "timestamp": 1785437400000
     },
     {
-      "title": "Så byggde Koenigsegg Legoversionen av Sadair’s Spear",
-      "description": "Tog 9400 timmar Koenigsegg bygger mäktiga hyperbilar och är noga med detaljerna. När man fick för sig att bygga en fullstor version av deras Sadair’s Spear kunde man inte göra det lite hafsigt. Resultatet blev mäktigt, och jag blev minst sagt imponerad när jag såg den på The Aurora. Nu har man släppt en video om hur bygget gick till. Eller man berättar lite för lite om bygget, men lite bakom kulisserna får vi se. Bygget består förresten av 327.906 Lego-bitar... L&auml;s vidare och kommentera: https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/ L&auml;s mer om Sadair’s Spear , The Aurora , Lego , hyperbilar",
-      "link": "https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/sa-byggde-koenigsegg-legoversionen-av-sadairs-spear/494585/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785436200000
-    },
-    {
-      "title": "Ozzy blir skräckattraktion",
-      "description": "På Universal Studios Universal Studios kommer att få ett nytt tillskott på sina nöjesfält i Orlando och Hollywood i form av ett skräckhus som inspirerats av den legendariske Black Sabbath-sångaren Ozzy Osbourne. De temporära skräckhusen \"Ozzy Osbourne: Prince of Darkness\" kommer att gå att besöka under Universal Studios Halloween Horror Nights under september och oktober. De båda husen kommer att fokusera på material från Ozzys solokarriär som inkluderade plattor som The Blizzard of Ozz (1980), Diary of a Madman (1981), Bark at the Moon (1983) och No More Tears (1991). Nedan hittas en teaser för Ozzy Osbourne: Prince of Darkness-husen, men den avslöjar tyvärr inte mycket av vad besökarna kommer att få se inuti husen. L&auml;s vidare och kommentera: https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/ L&auml;s mer om Universal Studios , Ozzy Osbourne , Halloween Horror Nights , Black Sabbath , Nöjesfält",
-      "link": "https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/?utm_source=rss&utm_medium=feed",
-      "guid": "https://tjock.se/passet/ozzy-blir-skrackattraktion/494591/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785434400000
-    },
-    {
-      "title": "Brickell Deep Moisture Body Lotion",
-      "description": "",
-      "link": "https://uncrate.com/brickell-deep-moisture-body-lotion/",
-      "guid": "https://uncrate.com/brickell-deep-moisture-body-lotion/",
-      "image": "https://uncrate.com/assets_c/2026/07/brickell-deep-moisture-body-lotion-11-darkened-thumb-960xauto-192399.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785434400000
-    },
-    {
-      "title": "Nya Spindelmannen-filmen en succé på bio",
-      "description": "65.000 såg den på premiärdagen i Sverige Tom holland är het nu. Det är inte många dagar sedan The Odyssey kom ut och slog rekord på bio. Igår hade nya Spindelmannen-rullen Spider-Man: Brand New Day premiär och det blev direkt rekord på svenska biografer. 65.000 personer såg filmen på bio igår. Enligt MovieZine är det den bästa premiärdagen sedan juldagen 2019. En bra start helt enkelt! L&auml;s vidare och kommentera: https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/ L&auml;s mer om Spindelmannen , Tom Holland , The Odyssey , Spider-Man: Brand New Day , MovieZine , bio",
-      "link": "https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/nya-spindelmannen-filmen-en-succe-pa-bio/494588/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785432600000
-    },
-    {
-      "title": "ALT. Fragrance Men's Collection",
-      "description": "",
-      "link": "https://uncrate.com/alt-fragrance-mens-collection/",
-      "guid": "https://uncrate.com/alt-fragrance-mens-collection/",
-      "image": "https://uncrate.com/assets_c/2026/07/alt-executive-flash-2-thumb-960xauto-192349.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785432542000
-    },
-    {
       "title": "Startelvan i bortamötet med Anderlecht",
       "description": "Så här ställer Hammarby upp i returmötet med Anderlecht i kvalomgång 2 av UEFA Europa League. Matchen sparkas igång klockan 20.30 på Lotto Park i Bryssel och sänds hos Aftonbladet Plus för dig som int",
       "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-bortamotet-med-anderlecht",
@@ -1182,36 +1252,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785431700000
-    },
-    {
-      "title": "Cyklister testar jobbig hinderbana",
-      "description": "Krävs en del skills för att fixa den Här är ett nytt klipp från Red Bull Bike som visar hur det gick när ett antal cyklister skulle försöka köra igenom en hinderbana som man ansåg var mer eller mindre omöjligt att klara av. Den flytande hinderbanan är cirka 200 meter lång och består av hinder som gungbrädor, smala balansstockar, wallrides, en träspång och en balanslina. I början av klippet får ett gäng amatörcyklister testa hinderbanan utan några större framgångar. Därefter äntrar de båda proffscyklisterna Kriss Kyle och Danny MacAskill banan för att visa upp hur proffsen gör. L&auml;s vidare och kommentera: https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/ L&auml;s mer om Kriss Kyle , Danny MacAskill , hinderbana , Red Bull , Red Bull Bike",
-      "link": "https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/cyklister-testar-jobbig-hinderbana/494577/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785430800000
-    },
-    {
-      "title": "James Bond Destinations",
-      "description": "",
-      "link": "https://uncrate.com/james-bond-destinations/",
-      "guid": "https://uncrate.com/james-bond-destinations/",
-      "image": "https://uncrate.com/assets_c/2026/04/james-bond-destinations-book-11-thumb-960xauto-190459.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785430800000
-    },
-    {
-      "title": "Qualcomm ska höja priserna på chip",
-      "description": "Mobiler kommer att bli ännu dyrare Som om det inte vore nog med att minnespriser gör telefoner och annat dyrare, nu blir även en del processorer dyrare då Qualcomm beslutat sig för att höja priserna på sina mobilchip. Qualcomm uppger att de högre priserna på minne har lett till att det säljs färre mobiler och för att kompensera det intäktsbortfallet kommer företaget att höja priserna på sina mobilchip den 1 september. Exakt hur mycket de höjs är oklart, men det har tidigare ryktats att det handlar om prishöjningar med över 10 procent. För att diversifiera sina intäkter planerar Qualcomm även att satsa mer på chip till bilindustrin och datacenter. Enligt planen kommer mobilchip snart bara stå för cirka hälften av företagets intäkter och fram till 2029 siktar man på att bara en tredjedel av intäkterna ska komma från mobilchip. L&auml;s vidare och kommentera: https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/ L&auml;s mer om Qualcomm , mobilchip , datacenter , prishöjning , minnespriser , bilindustri",
-      "link": "https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/qualcomm-ska-hoja-priserna-pa-chip/494587/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785429000000
     },
     {
       "title": "MP slår tillbaka i ölfrågan: \"Ingen vändning\"",
@@ -1224,26 +1264,6 @@
       "timestamp": 1785428100000
     },
     {
-      "title": "Google visar upp Pixel Glow",
-      "description": "Lyser upp kommande Pixel 11 Pro Nya telefoner från Google är inte långt borta nu, och Google kan inte hålla sig. Bilder på lurarna har läckt ut och Google själva vill verkligen visa upp dem. Överlag kommer de nya telefonerna att se väldigt mycket ut som förra årets lurar, men en sak sticker ut på Pixel 11 Pro. Det är något som heter Glow. Exakt vad den lilla skärmen vid kamerorna kommer att göra är inte klart, men att det har något med Gemini att göra känns solklart. Troligen kommer Glow bara att visa att luren tänker eller att Gemini är aktiv på något annat sätt. Alltså 99 spex. Men jag hoppas att man har tänkt till lite och att det inte bara är en gimmick. Google kommer att visa upp nya Pixellurarna den 12 augusti. L&auml;s vidare och kommentera: https://feber.se/mobil/google-visar-upp-pixel-glow/494568/ L&auml;s mer om Pixel 11 Pro , Gemini , Glow , Pixel",
-      "link": "https://feber.se/mobil/google-visar-upp-pixel-glow/494568/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/google-visar-upp-pixel-glow/494568/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785427200000
-    },
-    {
-      "title": "Guggenheim Abu Dhabi",
-      "description": "",
-      "link": "https://uncrate.com/guggenheim-abu-dhabi/",
-      "guid": "https://uncrate.com/guggenheim-abu-dhabi/",
-      "image": "https://uncrate.com/assets_c/2026/07/guggenheim-abu-dhabi-museum-1-thumb-960xauto-192397.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785427200000
-    },
-    {
       "title": "Historiskt fynd under operation: Hjärtat kan ha en förmåga som ingen tidigare kunnat påvisa",
       "description": "I årtionden har alla hjärtforskare haft samma besked, men nu har ett fynd under en bypassoperation gett en ny förståelse av kroppens viktigaste organ.",
       "link": "https://illvet.se/halsa/varldens-forsta-studie-i-sitt-slag-ger-uppseendevackande-resultat-manniskohjartat-kan-mer-an-forskarna-trodde",
@@ -1252,16 +1272,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785423649000
-    },
-    {
-      "title": "Sunski Shoreline Sunglasses",
-      "description": "",
-      "link": "https://uncrate.com/sunski-shoreline-sunglasses/",
-      "guid": "https://uncrate.com/sunski-shoreline-sunglasses/",
-      "image": "https://uncrate.com/assets_c/2026/07/sunski-shoreline-sunglasses-111-darkened-thumb-960xauto-192395.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785423600000
     },
     {
       "title": "Sjuåriga Ida hade 23 fästingar på kroppen: \"Rekord\"",
