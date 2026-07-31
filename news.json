@@ -1,8 +1,88 @@
 {
-  "updatedAt": "2026-07-31T19:06:43.948Z",
+  "updatedAt": "2026-07-31T21:56:14.105Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Space X–raket på väg att krocka med månen",
+      "description": "Driver mot månen i 8700 km/h • Forskarnas oro",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=62953813-2980-4731-aba9-ab2b41abe46f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62953813-2980-4731-aba9-ab2b41abe46f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785534820000
+    },
+    {
+      "title": "Jätteprotester i Kiev",
+      "description": "Kravet på Zelenskyj",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/tusentals-demonstranter-i-kiev",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/tusentals-demonstranter-i-kiev",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785533666000
+    },
+    {
+      "title": "Terroristens koppling till Sverige – jihadistsläkt",
+      "description": "Från Borås till Berlin – samma jihadistsläkt pekas ut för terrordåd på flera platser i Europa. Terroristen Abdul Rahman Ballout som pekas ut för attacken mot en prideparad i Berlin har kopplingar till en jihadistisk klan som finns också i Sverige, skriver 100.se. Fyra bröder från en familj i Borås ska ha dött i attacker i Syrien och Libanon.",
+      "link": "https://www.expressen.se/nyheter/varlden/terroristens-koppling-till-sverige-jihadistslakt/",
+      "guid": "https://www.expressen.se/nyheter/varlden/terroristens-koppling-till-sverige-jihadistslakt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785530615000
+    },
+    {
+      "title": "Det här vet vi om båtolyckan utanför Tjörn",
+      "description": "Befälhavaren är anhållen. Svarta lådan ska undersökas. Fartyget lämnar. Än är många frågor obesvarade efter båtolyckan utanför Tjörn där en mamma och hennes dotter dog. Det här har hänt.",
+      "link": "https://www.expressen.se/gt/det-har-vet-vi-om-batolyckan-utanfor-tjorn/",
+      "guid": "https://www.expressen.se/gt/det-har-vet-vi-om-batolyckan-utanfor-tjorn/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785527560000
+    },
+    {
+      "title": "Avancerat stridsflyg har kraschat i USA",
+      "description": "Värt nästan en miljard",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785527468000
+    },
+    {
+      "title": "Handelsfartyget lämnar olycksplatsen",
+      "description": "Misstänks för inblandning i båtolyckan vid Tjörn",
+      "link": "https://www.expressen.se/nyheter/sverige/handelsfartyget-lamnar-olycksplatsen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/handelsfartyget-lamnar-olycksplatsen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785526803000
+    },
+    {
+      "title": "Trumps besvikelse: ”Det gör mig arg”",
+      "description": "Hårda orden om förhandlingarna: ”De ljuger”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785526632000
+    },
+    {
+      "title": "Ny analys: Åldern när unga svenskar kan gå i pension",
+      "description": "Pensionsåldern i Europa kommer att stiga. Det gäller även Sverige. Så här tror OECD om när svenskarna går i pension på 2060-talet. Det är naturligtvis en kalkyl med många okända faktorer. Men i ”Pensions at a Glance 2025” har OECD analyserat hur pensionsåldern i Europa kommer att utvecklas. Nu har Euronews tagit tag i de […]",
+      "link": "https://www.dagensps.se/privatekonomi/ny-analys-aldern-nar-unga-svenskar-kan-ga-i-pension/",
+      "guid": "https://www.dagensps.se/?p=1660443",
+      "image": "https://images.dagensps.se/app/uploads/2026/07/sdleus7bon8suu-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785526361000
+    },
     {
       "title": "Snap SPECS AR Smart Glasses",
       "description": "",
@@ -14,8 +94,38 @@
       "timestamp": 1785526210000
     },
     {
+      "title": "Tidigare Trumpministers lyxjakt ankrar utanför svensk strand",
+      "description": "De badande på den öländska sandstranden fick plötsligt fint besök. En amerikansk miljardär och tidigare Trumpminister ankrade sin lyxjakt utanför idylliska Köpingsvik. – Det var roligt och trevligt att se en båt av den kalibern, säger Håkan Sundin som har sommarbostad i närheten.",
+      "link": "https://www.expressen.se/nyheter/sverige/tidigare-trumpministers-lyxjakt-ankrar-utanfor-svensk-strand/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tidigare-trumpministers-lyxjakt-ankrar-utanfor-svensk-strand/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785525972000
+    },
+    {
+      "title": "Dödade fru och sex barn – efter att ha förlorat jobbet",
+      "description": "Sexbarnspappan Kristopher Karolkiewicz, 47, förlorade chefsjobbet på en stor ideell organisation. Därefter mördade han sin fru – och sina sex barn, skriver The Independent.",
+      "link": "https://www.expressen.se/nyheter/varlden/dodade-fru-och-sex-barn-efter-att-ha-forlorat-jobbet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/dodade-fru-och-sex-barn-efter-att-ha-forlorat-jobbet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785525114000
+    },
+    {
+      "title": "Personbil har kört in i brandstation",
+      "description": "Föraren till sjukhus • ”Hög fart”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=58b2428f-bad7-43b4-9781-7a57042abc0a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=58b2428f-bad7-43b4-9781-7a57042abc0a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785525081000
+    },
+    {
       "title": "Har du koll på dina testosteronnivåer?",
-      "description": "Dagens fråga Ny forskning visar att mänsklighetens testosteronnivåer har halverats på ett halvt sekel. Men innan du drabbas av panik och börjar bygga ett eget gym i källaren med bara skrot och råa ägg menar experterna att fertiliteten inte verkar ha tagit skada. En av de främsta förklaringarna till de sjunkande värdena tros vara livsstilsförändringar. Den ökande övervikten i samhället påstås spela en central roll, då kroppsfett påverkar hur hormonet registreras i kroppen utan att det för den sakens skull behöver innebära någon funktionell nedsättning. I samband med att de generella nivåerna går ner har intresset för att testa sig privat exploderat och privata kliniker säljer glatt labbtester med rabattkoder till oroade män vilket har gjort tröskeln att testa sig rekordlåg. Det reser ju den naturliga frågan hur läget ligger bland våra läsare. L&auml;s vidare och kommentera: https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/ L&auml;s mer om testosteron , fertilitet , övervikt , hormoner , livsstil , Labbtester , hormonell hälsa",
+      "description": "Dagens fråga Ny forskning visar att mänsklighetens testosteronnivåer har halverats på ett halvt sekel. Men innan du drabbas av panik och börjar bygga ett eget gym i källaren med bara skrot och råa ägg menar experterna att fertiliteten inte verkar ha tagit skada på grund av just detta. En av de främsta förklaringarna till de sjunkande värdena tros vara livsstilsförändringar. Den ökande övervikten i samhället påstås spela en central roll, då kroppsfett påverkar hur hormonet registreras i kroppen utan att det för den sakens skull behöver innebära någon funktionell nedsättning. I samband med att de generella nivåerna går ner har intresset för att testa sig privat exploderat och privata kliniker säljer glatt labbtester med rabattkoder till oroade män vilket har gjort tröskeln att testa sig rekordlåg. Det reser ju den naturliga frågan hur läget ligger bland våra läsare. L&auml;s vidare och kommentera: https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/ L&auml;s mer om testosteron , fertilitet , övervikt , hormoner , livsstil , Labbtester , hormonell hälsa",
       "link": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -52,16 +162,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785524149000
-    },
-    {
-      "title": "Stridsflyg har kraschat i USA",
-      "description": "Värt nästan en miljard",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785523952000
     },
     {
       "title": "Rony Jansson tar klivet till Tyskland – klar för FC St. Pauli",
@@ -104,16 +204,6 @@
       "timestamp": 1785522600000
     },
     {
-      "title": "Trump: ”Gör mig arg”",
-      "description": "Besvikelsen över förhandlingarna",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785522522000
-    },
-    {
       "title": "Nu kan Ukraina betala planen från Saab",
       "description": "Ukraina får en EU-utbetalning på motsvarande drygt 38 miljarder kronor och ska bland annat betala Saab med pengarna. Ukraina har mottagit en ny utbetalning från EU inom ramen för låneprogrammet på motsvarande 990 miljarder kronor, 90 miljarder euro. Det meddelar Ukrainas premiärminister Serhij Koretskyj. Pengarna ska finansiera inköp av drönare, däribland jetdrivna modeller med lång […]",
       "link": "https://www.dagensps.se/varlden/nu-kan-ukraina-betala-planen-fran-saab/",
@@ -135,7 +225,7 @@
     },
     {
       "title": "AI kan nu generera bilder direkt i Google Earth",
-      "description": "Via Nano Banana Google har nu slängt in sin bildgenerator Nano Banana direkt i Google Earth så användare kan generera bilder på historiska miljöer eller framtida byggprojekt direkt på satellitbilderna. Så via en enkel prompt kan verktyget förvandla ruiner till en romersk stadsmiljö från förr. Kritiker har dock redan ifrågasatt hur verklighetstrogna bilderna faktiskt är och påpekar att tekniken till stor del bygger på gissningar då det som bekant inte finns alltför mycket fotografiskt underlag från antiken. Google säger också att Nano Banana kan användas av arkitekter och fastighetsutvecklare så de kan visualisera nya byggnader på tomma ytor. Verktyget kan även skapa skräddarsydd infografik för kända landmärken. Genom att titta på exempelvis Frihetsgudinnan kan användaren få upp genererad grafik med teknisk data och historisk kuriosa. Precis som allt annan AI som slängs in överallt hela tiden återstår det dock att se om folk faktiskt kommer att använda detta. L&auml;s vidare och kommentera: https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/ L&auml;s mer om Nano Banana , Google Earth , Pompeji , artificiell intelligens , Frihetsgudinnan , stadsplanering",
+      "description": "And it's gone... Google har nu slängt in sin bildgenerator Nano Banana direkt i Google Earth så användare kan generera bilder på historiska miljöer eller framtida byggprojekt direkt på satellitbilderna. UPPDATERING: Google har nu tagit bort denna funktion, ungefär 24 timmar efter lanseringen. Anledningen var helt enkelt för att det visade sig vara alldeles för effektivt på att skapa trovärdiga förfalskningar av verkligheten. Folk lyckades snabbt generera manipulerade bilder föreställande allt från bombkratrar vid sjukhus till flyktingläger vid politiskt känsliga gränser. Trots att Google påstod att man hade inbyggda spärrar mot olämpligt innehåll och använde digitala vattenstämplar, visade det sig vara enkelt att kringgå systemen. Så Google har nu valt att pausa funktionen för att skydda användarnas förtroende för Google Earth som en pålitlig källa. Så via en enkel prompt kan verktyget förvandla ruiner till en romersk stadsmiljö från förr. Kritiker har dock redan ifrågasatt hur verklighetstrogna bilderna faktiskt är och påpekar att tekniken till stor del bygger på gissningar då det som bekant inte finns alltför mycket fotografiskt underlag från antiken. Google säger också att Nano Banana kan användas av arkitekter och fastighetsutvecklare så de kan visualisera nya byggnader på tomma ytor. Verktyget kan även skapa skräddarsydd infografik för kända landmärken. Genom att titta på exempelvis Frihetsgudinnan kan användaren få upp genererad grafik med teknisk data och historisk kuriosa. Precis som allt annan AI som slängs in överallt hela tiden återstår det dock att se om folk faktiskt kommer att använda detta. L&auml;s vidare och kommentera: https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/ L&auml;s mer om Nano Banana , Google Earth , Pompeji , artificiell intelligens , Frihetsgudinnan , stadsplanering",
       "link": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -185,7 +275,7 @@
     },
     {
       "title": "Magdalena Anderssons ord om migrationskrisen i Ceuta",
-      "description": "Johan Forssell (M) gick i hård attack mot Magdalena Andersson efter migrantanstormningen. Nu – ett dygn senare – svarar S-ledaren.",
+      "description": "Johan Forssell (M) gick till hård attack mot Magdalena Andersson efter migrantanstormningen. Nu – ett dygn senare – svarar S-ledaren.",
       "link": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
       "guid": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
       "image": "",
@@ -345,7 +435,7 @@
     },
     {
       "title": "SD-toppen: Besviken på Johan Forssell",
-      "description": "Sveriges regering måste agera kraftfullt på den spanska migrationskrisen. Det säger Ludvig Aspling (SD). – Jag är rätt besviken på Johan Forssell.",
+      "description": "Sveriges regering måste agera kraftfullt på den spanska migrationskrisen. Det säger Ludvig Aspling (SD). – Jag är rätt besviken på Johan Forssell. Nu svarar Forssell.",
       "link": "https://www.expressen.se/nyheter/politik/sd-toppen-besviken--pa-johan-forssell/",
       "guid": "https://www.expressen.se/nyheter/politik/sd-toppen-besviken--pa-johan-forssell/",
       "image": "",
@@ -372,26 +462,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785510606000
-    },
-    {
-      "title": "Afrikansk svinpest i Finland",
-      "description": "Säkerhetszon i Finland",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=af52c513-efef-44a0-9e48-63fe20c04100",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=af52c513-efef-44a0-9e48-63fe20c04100",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785510222000
-    },
-    {
-      "title": "Värmen håller sig undan – Ingen sol i sikte",
-      "description": "Glöm strandväskan – helgen ser ut att bjuda på sval luft, moln och skurar. – Jag ser ingen värme, säger Tony Suentes, meteorolog på SMHI.",
-      "link": "https://www.expressen.se/nyheter/vader/varmen-haller-sig-undan-ingen-sol-i-sikte/",
-      "guid": "https://www.expressen.se/nyheter/vader/varmen-haller-sig-undan-ingen-sol-i-sikte/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785510065000
     },
     {
       "title": "Nasas nervkittlande räddningsuppdrag i rymden tar plötsligt en dramatisk vändning",
@@ -422,16 +492,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785509760000
-    },
-    {
-      "title": "Traktor stillastående på Ölandsbron",
-      "description": "Traktor blockerar trafiken",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cf15e47f-efc3-407f-a855-ffd58f329653",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cf15e47f-efc3-407f-a855-ffd58f329653",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785509286000
     },
     {
       "title": "HS: Skyddspolisens tidigare chef Antti Pelttari åtalas för brott",
@@ -484,16 +544,6 @@
       "timestamp": 1785508165000
     },
     {
-      "title": "Kaoset på Pride: ”En ren katastrof”",
-      "description": "Under torsdagskvällen invigdes Stockholm Prides festivalområde. Det som brukar vara en succé blev den här gången snarare ett fiasko. – Det var verkligen en ren katastrof, säger besökaren Therese Lagerman.",
-      "link": "https://www.expressen.se/nyheter/sverige/kaoset-pa-pride-en-ren-katastrof/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kaoset-pa-pride-en-ren-katastrof/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785508025000
-    },
-    {
       "title": "Flygpriserna går mot strömmen – resorna blir billigare",
       "description": "Trots att många räknar med dyrare semestrar pekar ny statistik åt ett annat håll. Enligt Flygresor.se:s vd Mattias Nyman är flygpriserna i många fall billigare än för ett år sedan. På LinkedIn berättar Mattias Nyman att Flygresor.se sedan en tid tillbaka jämför priserna på resor upp till sex månader framåt med samma period året innan. […]",
       "link": "https://www.dagensps.se/weekend/resor/flygpriserna-gar-mot-strommen-resorna-blir-billigare/",
@@ -542,16 +592,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785506095000
-    },
-    {
-      "title": "Apple rasar på New York-börsen",
-      "description": "Varningen sänker bolaget",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c46a5730-a98d-49bf-8f81-cf0df5bc6c0f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c46a5730-a98d-49bf-8f81-cf0df5bc6c0f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785505434000
     },
     {
       "title": "Kampen om Lojo bb fortsätter: Nu ansöker kommuner om besvärstillstånd i HFD",
@@ -624,36 +664,6 @@
       "timestamp": 1785502800000
     },
     {
-      "title": "Dödskaoset i Ceuta: Militär sätts in mot 60 000 immigranter",
-      "description": "Kuststaden Cuetas president Juan Jesús Vivas säger att över 60 000 illegala immigranter har tagit sig in i Spanien på två dygn. Läget går inte att klara av sa han, och nu har militären satts in. Spaniens inrikesministerium räknar med att över 49 000 människor tog sig in i den spanska staden Ceuta på ett […]",
-      "link": "https://www.dagensps.se/varlden/konflikter/dodskaoset-i-ceuta-militar-satts-in-mot-60000-immigranter/",
-      "guid": "https://www.dagensps.se/?p=1660380",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/dagens-ps-1-8.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785502773000
-    },
-    {
-      "title": "Tiotusentals har lämnat – 1700 migranter kvar",
-      "description": "50 000 migranter stormade den spanska exklaven Ceuta på torsdagen. Nu uppger det spanska inrikesministeriet att över 48 300 lämnat – och att det därför enbart är 1700 kvar.",
-      "link": "https://www.expressen.se/nyheter/varlden/25-000-uppges-ha-atervant-fran-ceuta/",
-      "guid": "https://www.expressen.se/nyheter/varlden/25-000-uppges-ha-atervant-fran-ceuta/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785502216000
-    },
-    {
-      "title": "Trump om migrantkaoset: Är hemskt",
-      "description": "Presidentens första ord: ”Hemskt”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c1a1168-d172-49f5-8371-b54525369a30",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c1a1168-d172-49f5-8371-b54525369a30",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785501214000
-    },
-    {
       "title": "Apple Music höjer priset på familjeabonnemang",
       "description": "Blir det 20 kronor dyrare i månaden Apple Music har börjat skicka ut mejl till sina kunder om att deras Familj-abonnemang kommer på en kostnadsökning på 20 kronor i månaden. Den månadsavgiften stiger från 189 kronor till 209 kronor, och det nya priset börjar gälla i slutet av augusti. För befintliga kunder träder det nya priset i kraft vid det första förnyelsetillfället från och med den 27 augusti. Abonnemanget fortsätter att förnyas automatiskt till det högre priset om man inte väljer att avsluta tjänsten. För den som inte vill acceptera prishöjningen krävs en uppsägning senast dagen innan abonnemanget förnyas. L&auml;s vidare och kommentera: https://feber.se/mac/apple-music-hojer-priset-pa-familjeabonnemang/494622/ L&auml;s mer om prishöjning , Apple , familjeabonnemang , Musikströmning",
       "link": "https://feber.se/mac/apple-music-hojer-priset-pa-familjeabonnemang/494622/?utm_source=rss&utm_medium=feed",
@@ -662,16 +672,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785501000000
-    },
-    {
-      "title": "Busch: Vänsterpolitik bakom krisen",
-      "description": "Busch (KD): Vänsterpolitik orsak till krisen",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=ef5888aa-ff72-4734-997e-b7934ff9a627",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=ef5888aa-ff72-4734-997e-b7934ff9a627",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785500891000
     },
     {
       "title": "LU: Varg dödade fem får i Karislojo",
@@ -742,16 +742,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785499200000
-    },
-    {
-      "title": "Här urartar bråket – om solstolarna",
-      "description": "Desperata draget för att ta sig fram",
-      "link": "https://www.expressen.se/tv/nyheter/solstolskriget-igang-urartar-fullstandigt/",
-      "guid": "https://www.expressen.se/tv/nyheter/solstolskriget-igang-urartar-fullstandigt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785498997000
     },
     {
       "title": "Skriv anteckningar till låtar i en spellista",
