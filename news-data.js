@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-30T21:58:43.994Z",
+  "updatedAt": "2026-07-31T01:48:08.267Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Stor brand i flerfamiljshus",
+      "description": "Spreds snabbt – inte under kontroll • Boende evakuerade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6456872a-8688-4816-bcf0-7d96a41e3e09",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6456872a-8688-4816-bcf0-7d96a41e3e09",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785460848000
+    },
+    {
+      "title": "Trump: Avtal klart",
+      "description": "”Historisk överenskommelse” om avväpning av Hamas",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=45491ec6-fa0a-4e8b-a4b4-4aa7400618d4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=45491ec6-fa0a-4e8b-a4b4-4aa7400618d4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785460650000
+    },
+    {
+      "title": "Försvunnen man vid sjö",
+      "description": "Söker med drönare",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=60458383-73de-4611-956b-03ee4757957a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=60458383-73de-4611-956b-03ee4757957a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785460642000
+    },
+    {
+      "title": "Trump: ”Historisk överenskommelse”",
+      "description": "Donald Trump säger att hans fredsråd har nått en ”historisk överenskommelse”. Enligt presidenten kommer terrorstämplade Hamas att avväpnas. En Hamasrepresentant bekräftar avtalet till BBC .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-historisk-overenskommelse/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-historisk-overenskommelse/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785458575000
+    },
+    {
+      "title": "Gav sonen automatgevär i julklapp – sköt ihjäl fyra",
+      "description": "Colin Gray gav sin 14-åriga son ett automatgevär i julklapp. Tonåringen använde sedan vapnet i en skolskjutning – där fyra personer dödades och ännu fler skadades. Nu döms både pappan och sonen för dådet, skriver NBC News .",
+      "link": "https://www.expressen.se/nyheter/varlden/gav-sonen-automatgevar-i-julklapp-skot-ihjal-fyra/",
+      "guid": "https://www.expressen.se/nyheter/varlden/gav-sonen-automatgevar-i-julklapp-skot-ihjal-fyra/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785450912000
+    },
     {
       "title": "Historiskt börslyft på Wall Street",
       "description": "It-jättens värde rekordökade",
@@ -54,7 +104,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785444840000
     },
     {
-      "title": "1-3-förlust i Bryssel",
+      "title": "Tung andra trekvart sänkte Bajen i Bryssel",
       "description": "Hammarby skaffade sig en drömöppning på returmötet med Anderlecht, då Paulos Abraham tystade Lotto Park för resten av den första halvleken då han tog tillvara på stolpreturen efter Victor Linds halvdi",
       "link": "https://www.hammarbyfotboll.se/nyheter/1-3-foerlust-i-bryssel",
       "guid": "e6cb400f-cbb6-43e6-93df-ae83eab77103",
@@ -195,7 +245,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Carl-Fredrik, 45, deltog i sökinsatsen utanför Tjörn: ”Mest tragiska händelsen vi varit med om”",
-      "description": "En flicka är fortsatt saknad efter båtolyckan utanför Tjörn i tisdags kväll. Hennes mamma har hittats död. Carl-Fredrik Gyllenhammar var en av dem som deltog i sökinsatsen. – I särklass den mest tragiska händelsen vi har varit med om.",
+      "description": "En flicka och en mamma har hittats döda efter båtolyckan utanför Tjörn. Carl-Fredrik Gyllenhammar var en av dem som deltog i sökinsatsen. – I särklass den mest tragiska händelsen vi har varit med om.",
       "link": "https://www.expressen.se/nyheter/sverige/carl-fredrik-45-deltog-i-sokinsatsen-utanfor-tjorn-mest-tragiska-handelsen-vi-varit-med-om/",
       "guid": "https://www.expressen.se/nyheter/sverige/carl-fredrik-45-deltog-i-sokinsatsen-utanfor-tjorn-mest-tragiska-handelsen-vi-varit-med-om/",
       "image": "",
@@ -404,16 +454,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785423855000
     },
     {
-      "title": "Två partiledare saknas i debatten på Pride",
-      "description": "RFSL årliga partiledardebatt hölls på torsdagen. Jimmie Åkesson var inte bjuden. – Uppenbart att vi behöver ha en debatt med M och SD och det hade varit bättre om de var här och gjorde det själva, säger Ebba Busch (KD). – Att bara komma på tanken – det är en skymf mot alla i communityn, säger Daniel Helldén (MP).",
-      "link": "https://www.expressen.se/nyheter/sverige/tva-partiledare-saknas-i-debatten-pa-pride/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tva-partiledare-saknas-i-debatten-pa-pride/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785423737000
-    },
-    {
       "title": "Camilla Berggren skämdes över att inte kunna äta kräftor – nu vill hon att alla ska våga ha roligt",
       "description": "Camilla Berggren kände skam över att hon saknade kräftskivetraditioner. Nu uppmanar hon alla noviser att släppa osäkerheten och skapa sin egen version av kräftkalaset.",
       "link": "https://yle.fi/a/7-10102702?origin=rss",
@@ -514,16 +554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785422025000
     },
     {
-      "title": "Bensinpriset höjs med 40 öre",
-      "description": "Flera kedjor höjer sina drivmedelspriser efter att oljepriset vänt upp igen. Bensin- och dieselpriserna stiger under torsdagen med 40 respektive 55 öre litern.",
-      "link": "https://www.expressen.se/ekonomi/bensinpriset-hojs-med-40-ore/",
-      "guid": "https://www.expressen.se/ekonomi/bensinpriset-hojs-med-40-ore/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785421821000
-    },
-    {
       "title": "Fyra minuter från Alley Cats",
       "description": "Ricky Gervais animerade serie för vuxna Ricky Gervais som en lite knubbig, dryg och osäker katt låter ju som en underbar karaktär att göra en serie kring. Det är precis det som hans nya animerade Netflix-serie Alley Cats gör. Serien är skapad av Ricky Gervais, som även gör rösten till huvudkatten Gus. Sex avsnitt om 15 minuter vardera kommer att ha premiär den 7 augusti och här får vi en provsmak på fyra minuter. Ser lovande ut! L&auml;s vidare och kommentera: https://feber.se/film/fyra-minuter-fran-alley-cats/494580/ L&auml;s mer om Ricky Gervais , Alley Cats , Netflix , animerad serie , Gus",
       "link": "https://feber.se/film/fyra-minuter-fran-alley-cats/494580/?utm_source=rss&utm_medium=feed",
@@ -572,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785420851000
-    },
-    {
-      "title": "Tusentals tog sig över gränsen till spansk exklav",
-      "description": "Tusentals migranter har tagit sig över gränsen till den spanska exklaven Ceuta i Nordafrika. – Vi kommer inte ta emot omfördelning av migranter, säger migrationsministern Johan Forssell (M). Nu skickar Spanien militär.",
-      "link": "https://www.expressen.se/nyheter/varlden/tusentals-tog-sig-over-gransen-till-spansk-exklav/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tusentals-tog-sig-over-gransen-till-spansk-exklav/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785420715000
     },
     {
       "title": "Blixtar, hagel och tromber på väg",
@@ -654,16 +674,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785418800000
     },
     {
-      "title": "Planen bakom attackerna mot Wildberries: Ska pressa",
-      "description": "Dag efter dag slår Ukrainas drönare till mot Wildberries. Nu hotar attackerna mot ”Rysslands Amazon” hela ekonomin. – Vi tar, helt rättvist, hem kriget – till Ryssland, kommenterar Zelenskyj.",
-      "link": "https://www.expressen.se/nyheter/varlden/planen-bakom-attackerna-mot-wildberries-ska-pressa/",
-      "guid": "https://www.expressen.se/nyheter/varlden/planen-bakom-attackerna-mot-wildberries-ska-pressa/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785418775000
-    },
-    {
       "title": "Värmeböljorna kräver tiotusentals dödsoffer i Europa årligen",
       "description": "Överdödligheten stiger i Europa då värmeböljorna blir allt fler och mer intensiva. Sommarens fjärde värmebölja drar nu fram över stora delar av Europa.",
       "link": "https://yle.fi/a/7-10102879?origin=rss",
@@ -702,16 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785417206000
-    },
-    {
-      "title": "E4 avstängd efter brand",
-      "description": "Stor brand vid vägen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=76c92261-faf2-4c51-b815-d31391749a27",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76c92261-faf2-4c51-b815-d31391749a27",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785417195000
     },
     {
       "title": "Oatly-aktien upp 70 procent på en vecka: ”Marknaden tror på vändningen”",
@@ -2922,116 +2922,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784863873000
-    },
-    {
-      "title": "Bronsmedalj för regnet i stan – tredje kraftigaste på 26 år",
-      "description": "I går uppmättes den tredje största mängden regn vid en av Stockholms stads mätstationer på hela 2000-talet.",
-      "link": "https://www.mitti.se/nyheter/bronsmedalj-for-regnet-i-stan--tredje-kraftigaste-pa-26-ar-6.3.376851.963099060e",
-      "guid": "https://www.mitti.se/nyheter/bronsmedalj-for-regnet-i-stan--tredje-kraftigaste-pa-26-ar-6.3.376851.963099060e",
-      "image": "https://www.mitti.se/image-3.376884.300984.20260724080936.3a28193861?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784824200000
-    },
-    {
-      "title": "Hemlösa lär sig segla på Lovön: \"Här kan man släppa skammen\"",
-      "description": "Ett seglarläger vid Koviken på Lovön arrangeras varje år av organisationen Ny Gemenskap tillsammans med segleklubben Vindens vänner för hemlösa och socialt utsatta.",
-      "link": "https://www.mitti.se/nyheter/hemlosa-lar-sig-segla-pa-lovon-har-kan-man-slappa-skammen-6.3.376705.d02142cec1",
-      "guid": "https://www.mitti.se/nyheter/hemlosa-lar-sig-segla-pa-lovon-har-kan-man-slappa-skammen-6.3.376705.d02142cec1",
-      "image": "https://www.mitti.se/image-3.376857.300916.20260726194543.f4f6c0fedb?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784820600000
-    },
-    {
-      "title": "Rysslandsexperten Martin Kragh är död",
-      "description": "Martin Kragh, rysslandsexpert vid Utrikespolitiska institutet, har avlidit efter en tids sjukdom. Han blev 45 år och hyllas nu av UI och Ulf Kristersson.",
-      "link": "https://www.mitti.se/nyheter/rysslandsexperten-martin-kragh-ar-dod-6.3.376850.d54c296118",
-      "guid": "https://www.mitti.se/nyheter/rysslandsexperten-martin-kragh-ar-dod-6.3.376850.d54c296118",
-      "image": "https://www.mitti.se/image-3.69137.300983.20260723141116.1.c081b79189?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784814024000
-    },
-    {
-      "title": "Polisen om kritiserade festivalen: \"Ser inga orosmoln\"",
-      "description": "Eritreanska kulturfestivalen Eritrea Scandinavia ordnas till Eggeby gård på Järvafältet mellan 23 juli till 26 juli 2026.",
-      "link": "https://www.mitti.se/nyheter/polisen-om-kritiserade-festivalen-ser-inga-orosmoln-6.3.376610.9ae652b087",
-      "guid": "https://www.mitti.se/nyheter/polisen-om-kritiserade-festivalen-ser-inga-orosmoln-6.3.376610.9ae652b087",
-      "image": "https://www.mitti.se/image-3.291867.300814.20260723130929.7d73472621?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784810367000
-    },
-    {
-      "title": "Man dömd för mordförsök på 11-årig son – lät sina hundar attackera",
-      "description": "En man döms till 10 års fängelse och utvisning efter att ha försökt mörda sin 11-åriga son i Jordbro. Han misshandlade pojken, använde kamphundar och försökte kasta honom från balkongen.",
-      "link": "https://www.mitti.se/nyheter/man-domd-for-mordforsok-pa-11arig-son--lat-sina-hundar-attackera-6.3.376838.3f77c312f7",
-      "guid": "https://www.mitti.se/nyheter/man-domd-for-mordforsok-pa-11arig-son--lat-sina-hundar-attackera-6.3.376838.3f77c312f7",
-      "image": "https://www.mitti.se/image-3.236313.300967.20260723140504.88a8d39568?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784800456000
-    },
-    {
-      "title": "Maskerade personer hoppade fram ur buske – misshandlade man",
-      "description": "En man blev grovt misshandlad under torsdagsnatten i Lännersta i Nacka av tre maskerade personer.",
-      "link": "https://www.mitti.se/nyheter/maskerade-personer-hoppade--fram-ur-buske---misshandlade-man-6.3.376839.59703aa59b",
-      "guid": "https://www.mitti.se/nyheter/maskerade-personer-hoppade--fram-ur-buske---misshandlade-man-6.3.376839.59703aa59b",
-      "image": "https://www.mitti.se/image-3.374740.300966.20260728101410.04c4d0dca8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784797056000
-    },
-    {
-      "title": "Svenskt medaljregn för Bromma – nu tar de sig an Norden",
-      "description": "Brommaklubben Stockholm top gymnastics tog 17 guld på SM, nu ska flera representera Sverige på Nordiska mästerskapen i kvinnlig artistisk gymnastik.",
-      "link": "https://www.mitti.se/nyheter/svenskt-medaljregn-for-bromma--nu-tar-de-sig-an-norden-6.3.373979.a5f6f71195",
-      "guid": "https://www.mitti.se/nyheter/svenskt-medaljregn-for-bromma--nu-tar-de-sig-an-norden-6.3.373979.a5f6f71195",
-      "image": "https://www.mitti.se/image-3.376711.299635.20260723084852.1.b2e2b7046c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784794693000
-    },
-    {
-      "title": "Nybörjare i båten – det här får du inte glömma",
-      "description": "Det här måste du tänka på när du ska ge deig ut med båten. Listan för nybörjare.",
-      "link": "https://www.mitti.se/nyheter/nyborjare-i-baten--det-har-far-du-inte-glomma-6.3.370048.550416908b",
-      "guid": "https://www.mitti.se/nyheter/nyborjare-i-baten--det-har-far-du-inte-glomma-6.3.370048.550416908b",
-      "image": "https://www.mitti.se/image-3.373616.296374.20260723090448.a48cedae41?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784793600000
-    },
-    {
-      "title": "Fick badring i huvudet – körde upp båt på land",
-      "description": "En mindre motorbåt slirade upp på land på vid Älvnäs på Ekerö på onsdagskvällen efter att föraren förlorat kontrollen över båten.",
-      "link": "https://www.mitti.se/nyheter/fick-badring-i-huvudet--korde-upp-bat-pa-land-6.3.376835.f5c032392c",
-      "guid": "https://www.mitti.se/nyheter/fick-badring-i-huvudet--korde-upp-bat-pa-land-6.3.376835.f5c032392c",
-      "image": "https://www.mitti.se/image-3.376872.300960.20260723081403.721ad38ab5?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784790716000
-    },
-    {
-      "title": "Man död efter balkongfall i Rinkeby – två gripna",
-      "description": "En man hittades död efter ett fall från en balkong i Rinkeby. Två personer som befann sig i lägenheten har gripits och misstänks för mord, enligt polisen.",
-      "link": "https://www.mitti.se/nyheter/man-dod-efter-balkongfall-i-rinkeby--tva-gripna-6.3.376833.732b07d012",
-      "guid": "https://www.mitti.se/nyheter/man-dod-efter-balkongfall-i-rinkeby--tva-gripna-6.3.376833.732b07d012",
-      "image": "https://www.mitti.se/image-3.345519.300957.20260728092537.fa62fcc836?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784787314000
-    },
-    {
-      "title": "Streetfoodfestivalen drar i gång – med chili för den som vågar",
-      "description": "Streetfoodfestivalen intar Norra Hammarbyhamnen 23–25 juli med foodtrucks, SM i streetfood, ChilliChallenge, musik, barer och provningar i Hammarby sjöstad.",
-      "link": "https://www.mitti.se/nyheter/streetfoodfestivalen-drar-i-gang--med-chili-for-den-som-vagar-6.3.376742.702777a0d4",
-      "guid": "https://www.mitti.se/nyheter/streetfoodfestivalen-drar-i-gang--med-chili-for-den-som-vagar-6.3.376742.702777a0d4",
-      "image": "https://www.mitti.se/image-3.376865.300897.20260723043017.1.1cbe37155f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784779200000
     }
   ]
 };
