@@ -1,8 +1,218 @@
 {
-  "updatedAt": "2026-08-01T12:54:20.536Z",
+  "updatedAt": "2026-08-01T15:52:02.319Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Forskare ifrågasätter gamla myter om Egyptens röda pyramid – dolda ramper var i själva verket något helt annat",
+      "description": "I mer än 180 år har två enorma konstruktioner i närheten av en av Egyptens äldsta pyramider tolkats som ramper för transport av byggstenar. Modern teknik och historiska kartor antyder dock en annan förklaring.",
+      "link": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
+      "guid": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785600014000
+    },
+    {
+      "title": "En död i samband med båtracing i Kotka",
+      "description": "Enligt polisen krockade två båtar med varandra.",
+      "link": "https://yle.fi/a/7-10102959?origin=rss",
+      "guid": "https://yle.fi/a/7-10102959",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785599497000
+    },
+    {
+      "title": "Uppgifter: Man till attack med järnrör",
+      "description": "En person gripen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5089e982-cb7e-4336-a458-248a0c746c13",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5089e982-cb7e-4336-a458-248a0c746c13",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785598441000
+    },
+    {
+      "title": "Abdulahdi försökte ta sig till EU via Ceuta",
+      "description": "Abdulahdi Emziln lyfte ner sin treåriga dotter Hidaya i en uppblåsbar badring. Hans hustru Fadwa höll sig fast i den. Han sköt fram den i mörkret mot Europa. Runtomkring simmade tusentals människor. Några flöt fram men var döda. – Jag sa till min fru att inte titta på dem – fokusera på att nå fram, säger Abdulhadi. Två dygn senare sitter han på ett tåg tillbaka till Casablanca.",
+      "link": "https://www.expressen.se/nyheter/varlden/abdulahdi-forsokta-ta-sig-till-eu-via-ceuta/",
+      "guid": "https://www.expressen.se/nyheter/varlden/abdulahdi-forsokta-ta-sig-till-eu-via-ceuta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785597512000
+    },
+    {
+      "title": "Jättebrand i Ryssland",
+      "description": "Stora anläggningar attackerade",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/stora-oljeanlaggningarna-i-lagor",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-oljeanlaggningarna-i-lagor",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785597003000
+    },
+    {
+      "title": "Nya EU-krav tvingar fram märkning av AI-innehåll",
+      "description": "I morgon måste AI-grejer markeras så folk fattar I morgon kommer EU att skärpa kraven på transparens kring artificiell intelligens. Enligt det nya regelverket så måste allt AI-genererat innehåll som ser verklighetstroget ut förses med en tydlig märkning eller någon form av digitalt vattenmärke. Kravet omfattar både text, bilder och ljudfiler som kan misstas för att vara äkta. Man hoppas att dessa nya regler ska göra tekniken mer tydlig i områden där AI redan används flitigt utan att publiken alltid är medveten om det. Tanken är att detta ska skydda konsumenter från att bli vilseledda och att värna demokratin genom att säkra äktheten i den information som sprids online. De nya reglerna gäller omedelbart för nya AI-tjänster som lanseras från och med i morgon. Befintliga AI-tjänster får ytterligare fyra månader på sig att anpassa sig efter de nya reglerna. Företag som misslyckas med att märka sitt innehåll riskerar kännbara böter på upp till tre procent av sin totala globala omsättning. Det finns dock vissa undantag i reglerna. Privatpersoner som skapar AI-innehåll för internt bruk, exempelvis skämt i en chattgrupp, berörs inte. Dessutom görs undantag för uppenbart konstnärliga verk, satir eller fiktion. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/ L&auml;s mer om EU , artificiell intelligens , transparens , digitalt vattenmärke , AI-genererat innehåll",
+      "link": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785596400000
+    },
+    {
+      "title": "Ingen aktiv sökinsats efter försvunna Gothia cup-pojkar",
+      "description": "De etiopiska pojkar som anmäldes försvunna efter Gothia cup är internationellt efterlysta. Men det pågår inga sökinsatser från svenskt håll. – Vi letar inte aktivt, för vi vet inte var vi ska leta, säger Mikael Holmgren vid gränspolisen till GP.",
+      "link": "https://www.expressen.se/gt/ingen-aktiv-sokinsats-efter-forsvunna-gothia-cup-pojkar/",
+      "guid": "https://www.expressen.se/gt/ingen-aktiv-sokinsats-efter-forsvunna-gothia-cup-pojkar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785596003000
+    },
+    {
+      "title": "HIFK värvar svensk tränare – ”Masken” Carlsson ansluter",
+      "description": "Anders ”Masken” Carlsson är klar för HIFK:s tränarstab. Samtidigt meddelar klubben att Toni Lydman inte fortsätter.",
+      "link": "https://yle.fi/a/7-10102958?origin=rss",
+      "guid": "https://yle.fi/a/7-10102958",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785595779000
+    },
+    {
+      "title": "Posener träder fram efter nästan tre decennier på flykt",
+      "description": "I nästan 30 år höll han sig gömd. Nu träder Joachim Posener från Trustorhärvan fram. I en ny Netflixdokumentär berättar han om flykten – och sin utseendeförändring. – Var det värt att inte sitta i fängelse i tio år till? Absolut, säger han enligt DN .",
+      "link": "https://www.expressen.se/noje/posener-trader-fram-efter-nastan-tre-decennier-pa-flykt-/",
+      "guid": "https://www.expressen.se/noje/posener-trader-fram-efter-nastan-tre-decennier-pa-flykt-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785593174000
+    },
+    {
+      "title": "Efter 20 år flyttade Maj-Len Drockila tillbaka till familjegården: ”Jag vill att min dotter ska växa upp här”",
+      "description": "Maj-Len Drockila, 38, lämnade Pyttis som ung. Nu är hon tillbaka på gården, jobbar på kulturhuset som satt byn på kartan och vill föra svenskan vidare på orten.",
+      "link": "https://yle.fi/a/7-10099021?origin=rss",
+      "guid": "https://yle.fi/a/7-10099021",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785592814000
+    },
+    {
+      "title": "EA säljs till Saudiarabien nästa vecka",
+      "description": "Speljätten lämnar snart börsen för att bli privatägt Som vi tidigare rapporterat håller speljätten Electronic Arts (EA) på att säljas till den saudiska statliga investeringsfonden (PIF). I veckan meddelade EA att affären, värderad till 55 miljarder dollar, nu har passerat sina sista granskningar och att försäljningen av EA kommer att slutföras den 4 augusti. Det innebär att EA lämnar börsen och blir helt privatägt nästa vecka. När affären är i mål kommer Saudiarabien att äga hela 93,4 procent av aktierna. En stor del av köpeskillingen finansieras genom lån med säkerhet i bolagets egna tillgångar. Resterande delar fördelas mellan investeringsbolagen Silver Lake och Affinity Partners. Med en prislapp på 55 miljarder dollar och en skuldtyngd finansieringsmodell kommer det bli en del press på EA att leverera starka resultat. Hur det nya ägarskapet kommer att forma framtida spelsläpp och strategier återstår att se när den nya eran inleds nästa vecka. L&auml;s vidare och kommentera: https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/ L&auml;s mer om Electronic Arts , PIF , Silver Lake , Affinity Partners , Saudiarabien , börsen , EA",
+      "link": "https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785592800000
+    },
+    {
+      "title": "Amanda Kotaja nosade på världsrekordet igen",
+      "description": "Amanda Kotaja och Leo-Pekka Tähti hörde till toppnamnen under helgens FM i parafriidrott.",
+      "link": "https://yle.fi/a/7-10102956?origin=rss",
+      "guid": "https://yle.fi/a/7-10102956",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785592727000
+    },
+    {
+      "title": "Kaptenen i båtolyckan begärd häktad",
+      "description": "Flyktrisk för kaptenen för olycksfartyget",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bbf9c738-bd66-48d6-a1e8-d4b623193b97",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bbf9c738-bd66-48d6-a1e8-d4b623193b97",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785592116000
+    },
+    {
+      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+      "description": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785592044000
+    },
+    {
+      "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
+      "description": "Primordial black holes may occasionally pass through white dwarf stars and trigger enormous Type Ia supernova explosions. Researchers found that these events could explain chemical patterns seen in supernova remnants, nearby explosions, and stars across the Milky Way.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785591221000
+    },
+    {
+      "title": "Världskända bergsbestigaren Nirmal Purja dog i lavin",
+      "description": "Expeditionen på tio personer överraskades på torsdagen av en kraftig lavin och alla har nu bekräftats döda.",
+      "link": "https://yle.fi/a/7-10102954?origin=rss",
+      "guid": "https://yle.fi/a/7-10102954",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785591096000
+    },
+    {
+      "title": "Spelet kring Gianni Infantino hårdnar: ”Ordförandeskapet blir en kamp mellan Fifa och Uefa”",
+      "description": "Det råder stort missnöje i Europa med fotbollsförbundet Fifas ordförande Gianni Infantino. Frågan är vem som kan utmana honom.",
+      "link": "https://yle.fi/a/7-10102953?origin=rss",
+      "guid": "https://yle.fi/a/7-10102953",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785590268000
+    },
+    {
+      "title": "Ilskan efter ryska attacken: ”Inget intresse av fred”",
+      "description": "Utrikesminister Maria Malmer Stenergard (M) rasar mot Ryssland efter nattens angrepp mot Kiev. Där skadades bland annat den litauiska ambassaden i staden. – En ny hemsk attack, säger hon i en kommentar.",
+      "link": "https://www.expressen.se/nyheter/varlden/ilskan-efter-ryska-attacken-inget-intresse-av-fred/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ilskan-efter-ryska-attacken-inget-intresse-av-fred/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785590097000
+    },
+    {
+      "title": "Ant brains reveal how evolution turned hunger into parenting",
+      "description": "Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very different animals.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785589314000
+    },
+    {
+      "title": "Det blir ingen Blade med Mahershala Ali",
+      "description": "Har vänt på bladet Marvels kommande film om vampyrjägaren Blade har stött på en hel del farthinder sedan filmen offentliggjordes för ungefär sju år sedan. Tanken var då att Mahershala Ali skulle ta över stafettpinnen efter Wesley Snipes, vilket ju var ett ganska inspirerat val. Men nu är det bekräftat att Ali lämnat Blade bakom sig. I en intervju lägger han ansvaret för den uteblivna filmen på Marvel då filmen enligt honom haft alla förutsättningar som krävs för att filmen skulle bli av men att de inte lyckats komma loss. Även Marvel-chefen Kevin Feige har tidigare uttryckt sin frustration och beskrivit det som ett misslyckande att man inte lyckades förverkliga visionen med Ali i huvudrollen. Om Marvel har några andra planer för den ikoniska vampyrjägaren återstår att se. Men något mer än en mikroskopisk cameo från Ali som Blade kommer vi nog inte få. L&auml;s vidare och kommentera: https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/ L&auml;s mer om Blade , Marvel , Mahershala Ali , Kevin Feige , Wesley Snipes",
+      "link": "https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785589200000
+    },
+    {
+      "title": "Tiny aerosol particles could supercharge tropical storm clouds",
+      "description": "Scientists discovered unusually high water-vapor supersaturation inside deep tropical clouds, creating conditions in which tiny aerosol particles could intensify storm updrafts. The finding suggests earlier studies may have missed the effect because they were looking in the wrong types of clouds.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012138.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260727012138.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785588427000
+    },
     {
       "title": "Brand vid tågspår – stopp i trafiken",
       "description": "Stopp i trafiken • ”Får inte gå några tåg”",
@@ -12,6 +222,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785587845000
+    },
+    {
+      "title": "Eating one avocado a day may lower heart disease risk",
+      "description": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785587757000
     },
     {
       "title": "Prideparaden i Stockholm: ”Betyder jättemycket”",
@@ -46,8 +266,8 @@
     {
       "title": "Veckans sista solchans – sedan kommer vändningen",
       "description": "För många svenskar börjar semesterveckorna lida mot sitt slut. Den som vill fånga solen i veckan får agera snabbt. Sedan drar regnet in.",
-      "link": "https://www.expressen.se/nyheter/sverige/veckans-sista-solchans-sedan-kommer-vandningen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/veckans-sista-solchans-sedan-kommer-vandningen/",
+      "link": "https://www.expressen.se/nyheter/vader/veckans-sista-solchans-sedan-kommer-vandningen/",
+      "guid": "https://www.expressen.se/nyheter/vader/veckans-sista-solchans-sedan-kommer-vandningen/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
@@ -62,6 +282,26 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785586358000
+    },
+    {
+      "title": "Scientists may have found a way to prevent statin muscle pain",
+      "description": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the drugs’ lifesaving cardiovascular benefits.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785586195000
+    },
+    {
+      "title": "Svart samuraj fastnade i blodig maktkamp",
+      "description": "År 1581 upphöjdes en jättelik afrikan till samuraj. Ödets nycker hade fört honom till det annars så slutna landet, men hans lycka i Japan blev kortvarig.",
+      "link": "https://varldenshistoria.se/krig/inbordeskrig/svart-samuraj-fastnade-i-blodig-maktkamp",
+      "guid": "https://varldenshistoria.se/krig/inbordeskrig/svart-samuraj-fastnade-i-blodig-maktkamp",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785585625000
     },
     {
       "title": "I ett litet prov från månens baksida kan astronomer ha gjort en betydelsefull upptäckt",
@@ -184,6 +424,16 @@
       "timestamp": 1785580944000
     },
     {
+      "title": "Scientists left water inside a battery and nearly doubled its power",
+      "description": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researchers at the University of Surrey found that sodium vanadium oxide performs much better when its naturally occurring water is left inside instead of being removed during manufacturing.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785580913000
+    },
+    {
       "title": "BMW sätter nytt batterirekord – så påverkar det din nästa elbil",
       "description": "Normalt är batterikapaciteten 70-80 kilowattimmar i en ny familjebil, men BMW nya suv slår det med hästlängder. När BMW släpper sin nya iX5 i höst blir det med en batterikapacitet på hela 141 kilowattimmar. Ingen annan modell i Europa kan mäta sig med det. Bakom det gigantiska batteriet i BMW:s nya suv står en japansk […]",
       "link": "https://www.dagensps.se/motor/bmw-satter-nytt-batterirekord-sa-paverkar-det-din-nasta-elbil/",
@@ -214,7 +464,7 @@
       "timestamp": 1785578400000
     },
     {
-      "title": "Petteri Orpo med bland EU-ledare som kräver krismöte efter att tiotusentals tog sig över spanska gränsen i Ceuta",
+      "title": "EU:s inrikesministrar ska diskutera migrantintrånget i Ceuta på tisdagen",
       "description": "Ungefär 60 000 migranter tog sig över gränsen till den spanska enklaven på fredagen. Majoriteten har återvänt till Marocko.",
       "link": "https://yle.fi/a/7-10102950?origin=rss",
       "guid": "https://yle.fi/a/7-10102950",
@@ -254,16 +504,6 @@
       "timestamp": 1785576874000
     },
     {
-      "title": "Nu slopas kravet på kurs för övningskörning",
-      "description": "Från och med den 1 augusti slopas kravet på introduktionsutbildning för den som vill börja övningsköra privat.",
-      "link": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
-      "guid": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785576323000
-    },
-    {
       "title": "Oljejättarnas miljardregn – tjänar stort på kris och krig",
       "description": "Krisen på oljemarknaden drabbar inte oljejättarna särskilt. Amerikanska Chevron femdubblade exempelvis sin vinst. De höga oljepriserna efter kriget mellan Iran och Israel gav ett rejält lyft för de amerikanska oljejättarna ExxonMobil och Chevron under årets andra kvartal. Båda bolagen redovisar kraftigt ökade vinster, även om Exxon missade analytikernas förväntningar. Oljepriset steg kraftigt under kvartalet när […]",
       "link": "https://www.dagensps.se/bors-finans/ravaror/oljejattarnas-miljardregn-tjanar-stort-pa-kris-och-krig/",
@@ -275,7 +515,7 @@
     },
     {
       "title": "Fridas miss på flygplatsen",
-      "description": "Chocken på Arlanda • Förklaringen: ”Juste...”",
+      "description": "Chocken på Arlanda • Förklaringen: ”Just det...”",
       "link": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
       "guid": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
       "image": "",
@@ -414,16 +654,6 @@
       "timestamp": 1785571200000
     },
     {
-      "title": "Pojke misstänks ha smygfotat naken kvinna på scoutläger",
-      "description": "Larm om smygfoto på scoutläger",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9db17f88-7bea-41e9-9abd-747842fc89fb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9db17f88-7bea-41e9-9abd-747842fc89fb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785570966000
-    },
-    {
       "title": "När Björn Weckströms hem öppnar för allmänheten flyr han med sin fru till Snappertuna",
       "description": "Smyckesdesignern och konstnären Weckström är mest känd för smycken i Star Wars och på Yoko Ono, men i hans hem visas alla hans fantastiska skapelser.",
       "link": "https://yle.fi/a/7-10102907?origin=rss",
@@ -434,16 +664,6 @@
       "timestamp": 1785570885000
     },
     {
-      "title": "Planerar massiv bombning av Iran",
-      "description": "USA:s krig mot Iran väntas trappas upp. Trump planerar tillsammans med Israel en massiv offensiv. Det kan bli den kraftigaste bombningen hittills, uppger flera källor till CBS News.",
-      "link": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
-      "guid": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785569793000
-    },
-    {
       "title": "SL rustar inför prideparaden – samtidigt väntar stormatch",
       "description": "I dag väntas omkring 50 000 deltagare och en halv miljon åskådare när Nordens största Prideparad går genom Stockholm. Samtidigt är det stormöte i fotboll på Strawberry arena. – Vi kör med maximal kapacitet, säger Sophie Gunnarsson, presstalesperson på SL.",
       "link": "https://www.expressen.se/nyheter/sverige/sl-rustar-infor-prideparaden-samtidigt-vantar-stormatch-/",
@@ -452,16 +672,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785569765000
-    },
-    {
-      "title": "Trumps ord om Spanien",
-      "description": "”Svaga lagar, dåligt ledarskap”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785569556000
     },
     {
       "title": "Metal Slug fyller 30 år med ny modell",
@@ -494,14 +704,14 @@
       "timestamp": 1785566775000
     },
     {
-      "title": "Här bärgas båten efter olyckan utanför Tjörn",
-      "description": "Kustbevakningen har nu bärgat fritidsbåten vid Tjörn. Båten plockades upp natten mot lördagen, från 20 till 30 meters djup. – Vi har använt oss av undervattensfarkost, säger Pontus Ekström, vakthavande befäl på Kustbevakningen.",
-      "link": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
-      "guid": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
+      "title": "Superheated magma may power towering lava fountains",
+      "description": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785566684000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785566308000
     },
     {
       "title": "Nudelwok med het sojasås och jordnötter",
@@ -514,16 +724,6 @@
       "timestamp": 1785565980000
     },
     {
-      "title": "Så många har ansökt om könsbyte",
-      "description": "Nära 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft för drygt ett år sedan, rapporterar SVT.",
-      "link": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785565107000
-    },
-    {
       "title": "Blueberry pie – drink med blåbärslikör",
       "description": "Servera den här drinken i ditt favoritglas och toppa med nymortlad kardemumma. En given succé!",
       "link": "https://alltommat.expressen.se/recept/blueberry-pie-drink-med-blabarslikor/",
@@ -532,16 +732,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785565080000
-    },
-    {
-      "title": "Dubbla straff för gängkriminella – trots kritik",
-      "description": "Från och med nu ska Sveriges domstolar döma ut dubbla straff för gängkriminella – trots hård kritik från flera instanser. Samtidigt blir ett 50-tal straffskalor hårdare.",
-      "link": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
-      "guid": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785564829000
     },
     {
       "title": "Mandelmusslor med grädde och blåbär",
@@ -674,24 +864,24 @@
       "timestamp": 1785558029000
     },
     {
-      "title": "Vattenbombarna kan bli en bristvara i Finland när södra Europa brinner",
-      "description": "Finland kan inte räkna med EU:s flotta av brandflyg om stora skogsbränder bryter ut här. Europas bränder slukar snabbt resurserna, varnar brandexpert.",
-      "link": "https://yle.fi/a/7-10102876?origin=rss",
-      "guid": "https://yle.fi/a/7-10102876",
+      "title": "Blood cancer’s genetic warning signs may appear years early",
+      "description": "Blood cancers that eventually worsen may carry detectable genetic warning signs years before patients develop serious symptoms. The findings could lead to earlier intervention while also helping doctors distinguish true cancer from harmless age-related blood changes.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
       "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785554106000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785552822000
     },
     {
-      "title": "Fifa backar: Planerna på att sälja VM-andelar skrotas",
-      "description": "Fifa backar från kontroversiella planer att sälja delar av VM-turneringarnas affärsverksamhet.",
-      "link": "https://yle.fi/a/7-10102944?origin=rss",
-      "guid": "https://yle.fi/a/7-10102944",
+      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+      "description": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
       "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785551862000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785549517000
     },
     {
       "title": "Fi Ultra Satellite Dog Tracker",
@@ -774,36 +964,6 @@
       "timestamp": 1785524400000
     },
     {
-      "title": "EIF slog HJK:s reserver i ligaettan: ”Det såg kanske inte så bra ut”",
-      "description": "En seger och tre poäng var väl det Ekenäs IF:s fotbollsmannar var ute efter från matchen mot HJK Klubi04. EIF övertygade inte, men lyckades ändå vinna.",
-      "link": "https://yle.fi/a/7-10102709?origin=rss",
-      "guid": "https://yle.fi/a/7-10102709",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785524149000
-    },
-    {
-      "title": "Rony Jansson tar klivet till Tyskland – klar för FC St. Pauli",
-      "description": "Rony Jansson har gjort sitt i Kalmar FF. Efter fyra år lämnar den finländske backen nu Allsvenskan för nya utmaningar i tyska St. Pauli, som spelar i 2. Bundesliga.",
-      "link": "https://yle.fi/a/7-10102942?origin=rss",
-      "guid": "https://yle.fi/a/7-10102942",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785523505000
-    },
-    {
-      "title": "Filmproducent stämmer Netflix på 105 miljoner dollar efter att film stals från kontor",
-      "description": "Netflix säger att de inte kan ta ansvar över stölden eftersom filmkopian inte var tillräckligt skyddad.",
-      "link": "https://yle.fi/a/7-10102941?origin=rss",
-      "guid": "https://yle.fi/a/7-10102941",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785522688000
-    },
-    {
       "title": "Helldivers 2 får snart sin Warhammer 40k-DLC",
       "description": "Den 12 augusti släpps Imperial Guard-utrustning Den 12 augusti släpps ett nytt DLC-paket till Helldivers 2 där man kommer kunna använda sig av utrustning baserad på Imperial Guards från Warhammer 40,000-universumet. Bland nyheterna finns klassiska vapen som en Bolt Pistol och en Meltagun. Om man undrar varför Arrowhead inte valt att inkludera några Space Marines i detta paket grundar sig det beslutet i att karaktärerna i Helldivers dör i rasande takt, vilket inte skulle stämma överens med den nästan odödliga status som en Space Marine har. L&auml;s vidare och kommentera: https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/ L&auml;s mer om Helldivers 2 , Warhammer 40000 , Arrowhead Game Studios , DLC , Bolt Pistol , Meltagun , Warhammer 40",
       "link": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
@@ -882,16 +1042,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785516300000
-    },
-    {
-      "title": "Rallyförarna fick uppleva finländskt sommarregn – Oliver Solberg blev dränkt av vatten: ”Det här är farligt”",
-      "description": "Det har varit en blöt fredag för förarna i Jyväskylärallyt. Framför allt under eftermiddagen var förhållandena utmanande i de finländska skogarna.",
-      "link": "https://yle.fi/a/7-10102940?origin=rss",
-      "guid": "https://yle.fi/a/7-10102940",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785516062000
     },
     {
       "title": "Snart kan man spela Metal Gear Solid 4 igen",
@@ -1014,6 +1164,16 @@
       "timestamp": 1785504600000
     },
     {
+      "title": "Experts say blood pressure guidelines are missing half the equation",
+      "description": "A new report suggests that blood pressure may be controlled more effectively by increasing potassium while also cutting sodium. Potassium-rich foods can help balance sodium’s effects, but most people consume far less potassium than recommended.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034135.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034135.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785503562000
+    },
+    {
       "title": "Smaka på Upplands-Bro tillbaka för fjärde året i rad",
       "description": "Smaka på Upplands-Bro är tillbaka den 15 augusti i Bro. Gratis festival med foodtrucks, lokala hantverkare, scenföreställningar, ponnyridning och ny trubadurhörna.",
       "link": "https://www.mitti.se/nyheter/smaka-pa-upplandsbro-tillbaka-for-fjarde-aret-i-rad-6.3.377681.e8aace6963",
@@ -1034,6 +1194,16 @@
       "timestamp": 1785502800000
     },
     {
+      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "description": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures most of the plastic’s carbon in solid or liquid forms instead of releasing it as carbon dioxide.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785501978000
+    },
+    {
       "title": "Apple Music höjer priset på familjeabonnemang",
       "description": "Blir det 20 kronor dyrare i månaden Apple Music har börjat skicka ut mejl till sina kunder om att deras Familj-abonnemang kommer på en kostnadsökning på 20 kronor i månaden. Den månadsavgiften stiger från 189 kronor till 209 kronor, och det nya priset börjar gälla i slutet av augusti. För befintliga kunder träder det nya priset i kraft vid det första förnyelsetillfället från och med den 27 augusti. Abonnemanget fortsätter att förnyas automatiskt till det högre priset om man inte väljer att avsluta tjänsten. För den som inte vill acceptera prishöjningen krävs en uppsägning senast dagen innan abonnemanget förnyas. L&auml;s vidare och kommentera: https://feber.se/mac/apple-music-hojer-priset-pa-familjeabonnemang/494622/ L&auml;s mer om prishöjning , Apple , familjeabonnemang , Musikströmning",
       "link": "https://feber.se/mac/apple-music-hojer-priset-pa-familjeabonnemang/494622/?utm_source=rss&utm_medium=feed",
@@ -1042,6 +1212,16 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785501000000
+    },
+    {
+      "title": "Scientists discover why poor sleep may harm some brains more",
+      "description": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both genetics and sleep habits.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785500443000
     },
     {
       "title": "HTV: Sammandrag | Anderlecht 3-1 Hammarby",
@@ -1082,6 +1262,16 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785497400000
+    },
+    {
+      "title": "A 42-year-old childhood obesity theory may be wrong",
+      "description": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as children prepare for later growth. Researchers say this normal process has been mistakenly treated as an obesity warning sign for 42 years.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785497312000
     },
     {
       "title": "De bygger om gamla Volvo XC90 till elbilar",
@@ -1144,16 +1334,6 @@
       "timestamp": 1785494633000
     },
     {
-      "title": "19 minuter Gears of War: E-Day",
-      "description": "Visar upp spelets Horde-läge Här bjuds vi på 19 minuter med gameplay från Horde Siege-läget i kommande Gears of War: E-Day. Klippet ovan är inspelat på en PC och körs med grafikinställningarna Ludicrous, vilket är spelets högsta grafiska nivå. Horde Siege är spelets vidareutveckling av seriens klassiska Horde-läge, men denna gång kan upp till tolv spelare, uppdelade i tre fyrmannalag, vara med och skjuta. Varje grupp sköter sina egna mål på kartan, vilket gör att man oftast bara ser de andra lagen på avstånd, vilket är lite tufft. Men ibland kommer det in massiva bossar på kartan och då gäller det att samtliga spelare samarbetar för att hantera dessa. För den som är sugen på att testa spelet drar en öppen beta igång den 6 augusti för alla som har förhandsbokat. Senare under sommaren följer ytterligare en betaperiod som är öppen för alla. Gears of War: E-Day släpps den 6 oktober till Xbox och Windows. För alla som köper spelets Premium Edition släpps det redan den 1 oktober. L&auml;s vidare och kommentera: https://feber.se/spel/19-minuter-gears-of-war-e-day/494609/ L&auml;s mer om Horde Siege , Xbox , Windows , PC , Gears of War: E-Day , Gears of War E-Day",
-      "link": "https://feber.se/spel/19-minuter-gears-of-war-e-day/494609/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/19-minuter-gears-of-war-e-day/494609/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785493800000
-    },
-    {
       "title": "VMware täpper till allvarliga sårbarheter – uppdatera snarast",
       "description": "Nyligen upptäcktes fem allvarliga sårbarheter i VMwares mjukvara, däribland VMware Vcenter, ESX, Workstation och Fusion. Sårbarheterna har beteckningarna CVE-2026-59309, CVE-2026-59310, CVE-2026-47876, CVE-2026-41703 samt CVE-2026-41709 och kan utnyttjas av hackare för att få administratörsrättigheter för berörda system. Användare uppdateras därför att så snart som möjligt installera de senaste säkerhetsfixarna, rapporterar Bleeping Computer . Mer information om sårbarheterna och uppdateringarna finns på VMware Security Advisories .",
       "link": "https://computersweden.se/article/1312218/vmware-tapper-till-kritiska-sarbarheter-uppdatera-snarast.html",
@@ -1184,24 +1364,24 @@
       "timestamp": 1785492858000
     },
     {
-      "title": "Anthropic råkade smita under säkerhetstester",
-      "description": "Whoopsie! Efter att ha granskat över 140 000 säkerhetstester har AI-bolaget Anthropic konstaterat att deras AI-modell Claude lyckats bryta sig in hos tre olika företag. Anledningen till dessa oavsiktliga dataintrång berodde på att boten av misstag fick tillgång till internet i tester där den egentligen skulle ha varit isolerad. Anthropics granskning inleddes efter en liknande händelse hos konkurrenten OpenAI som lyckades leta sig ut på nätet för att där ta sig in på AI-plattformen Hugging Face. Problemen uppstod under så kallade Capture the Flag-övningar. I dessa tester får AI-modellen i uppdrag att hitta hemlig information i en simulerad IT-miljö för att utvärdera dess förmåga inom cybersäkerhet. På grund av en felkonfiguration hos en extern partner hade Claude tillgång till internet, trots att systemet blivit instruerat att det befann sig i en helt isolerad miljö. När Claude hittade sårbarheter hos riktiga företag på nätet, tolkade den dessa som en del av den digitala hinderbanan. Genom att utnyttja enkla säkerhetsbrister, som svaga lösenord, lyckades AI:n ta sig in i företagens system i tron att det var en del av uppdraget. Enligt Anthropic fortsatte en äldre version av Claude sina försök att ta sig in i de extrema miljöerna även när det fanns tecken på att systemen var verkliga. Men den senaste testmodellen visade däremot prov på högre omdöme då den avbröt attacken på eget initiativ så fort den insåg att den faktiskt befann sig på det riktiga internet. Anthropic säger att det inte rör sig om att AI:n har utvecklat en egen vilja att göra skada, utan att den helt enkelt var för nitisk i att utföra sina instruktioner i en felaktig miljö. Bolaget har nu kontaktat de drabbade organisationerna för att hjälpa till med säkerhetsarbetet och har tillfälligt pausat liknande tester för att säkerställa att modellerna inte kan rymma igen. Någonstans känner man att det ska säkerställas rätt rejält innan sådana tester genomförs generellt, men man kan väl inte få allt här i livet. L&auml;s vidare och kommentera: https://feber.se/internet/anthropic-rakade-smita-under-sakerhetstester/494621/ L&auml;s mer om Claude , OpenAI , dataintrång , Hugging Face , AI-säkerhet",
-      "link": "https://feber.se/internet/anthropic-rakade-smita-under-sakerhetstester/494621/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/anthropic-rakade-smita-under-sakerhetstester/494621/?utm_source=rss&utm_medium=feed",
+      "title": "World-first photonic time crystal opens a new era of light control",
+      "description": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter communication systems, advanced imaging, and a new generation of highly tunable lasers.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
       "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785492000000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785489210000
     },
     {
-      "title": "NVIDIA planerar nya prishöjningar",
-      "description": "Grafikkorten kan bli upp till trettio procent dyrare framöver inom kort För den som vill betala ännu mer för sina grafikkort kan snart göra det då nya rapporter säger att NVIDIA planerar att höja priserna på sina grafikprocessorer med mellan 20 och 30 procent framöver. Den främsta orsaken bakom detta är ju så klart de skenande kostnaderna för grafikminne (DRAM) och om det blir av blir det ju den tredje prisjusteringen uppåt bara i år. Men till skillnad från tidigare, då prisökningarna främst rört toppmodeller, väntas den här höjningen nu slå brett mot hela NVIDIA:s sortiment. Denna prisförändring väntas nå slutkunderna så snart återförsäljarnas nuvarande lager har sålts slut. Även NVIDIA:s konkurrenter, som AMD och Intel, lär slå till med liknande höjningar på grund av de stigande tillverkningskostnader som drabbar dem varje kvartal. L&auml;s vidare och kommentera: https://feber.se/pc/nvidia-planerar-nya-prishojningar/494608/ L&auml;s mer om NVIDIA , grafikkort , DRAM , prisökning , grafikprocessor , Grafikminne",
-      "link": "https://feber.se/pc/nvidia-planerar-nya-prishojningar/494608/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/nvidia-planerar-nya-prishojningar/494608/?utm_source=rss&utm_medium=feed",
+      "title": "Black holes may spit out nearly as much matter as they swallow",
+      "description": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of material through powerful jets and winds, even after the outburst had nearly faded. The results suggest black holes may continue reshaping their surroundings long after their brightest fireworks end.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
       "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785490200000
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785485909000
     },
     {
       "title": "Muurikkalax med kantareller",
@@ -1212,6 +1392,16 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785482820000
+    },
+    {
+      "title": "AI can tell if your brain is aging faster than you are",
+      "description": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging raised that risk by nearly 40%.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785481512000
     },
     {
       "title": "Google Deepmind släpper AI-modell som kan styra humanoida robotar",
@@ -1294,6 +1484,16 @@
       "timestamp": 1785477411000
     },
     {
+      "title": "Strange gamma rays could reveal how stars forge heavy elements",
+      "description": "Scientists traced a mysterious surge of low-energy gamma rays from zinc-70 to magnetic changes occurring inside its nucleus. The breakthrough could improve models of how stars, supernovae, and neutron star mergers create heavy elements.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785474953000
+    },
+    {
       "title": "Imponerande romerskt militärläger innehöll ädelstenar och kirurgisk utrustning",
       "description": "Den äldsta delen av det romerska militärlägret i Vindonissa har länge varit känd genom ett fåtal spridda spår. Nu ger en ny utgrävning en betydligt mer fullständig bild av anläggningen – och soldaternas liv.",
       "link": "https://varldenshistoria.se/civilisationer/romarriket/imponerande-romerskt-militarlager-utgravt-inneholl-adelstenar-och-kirurgisk-utrustning",
@@ -1322,6 +1522,46 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785474000000
+    },
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "description": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale design produced a yield strength about six to 10 times greater than high-strength structural steel while sustaining substantial deformation at room temperature. The approach could enable tougher turbine blades and higher-performance engines.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785470122000
+    },
+    {
+      "title": "A strange quantum rule caps electrical resistance",
+      "description": "Physicists have uncovered a surprising limit to electrical resistance caused by particles colliding. Using ultracold potassium atoms trapped in a grid of light, researchers created a highly controlled stand-in for electrons moving through a solid. As collisions became more frequent and intense, resistance initially rose, but eventually hit a ceiling and stopped increasing.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012139.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260727012139.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785468604000
+    },
+    {
+      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
+      "description": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory and brain function in Alzheimer’s models.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785466377000
+    },
+    {
+      "title": "Scientists find a simple routine linked to less pain and depression",
+      "description": "Keeping a regular daily schedule may help reduce pain and depression, especially among older adults with insomnia. Researchers found that consistent times for waking, eating, socializing, and sleeping were linked to better well-being regardless of sleep quality. These routines may strengthen the body’s internal clock and limit the disruptive effects of “social jet lag.”",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785461845000
     },
     {
       "title": "TAG Heuer Carrera x Team Ikuzawa Watch",
@@ -1442,16 +1682,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785420851000
-    },
-    {
-      "title": "What if the brain does not create consciousness?",
-      "description": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785417813000
     },
     {
       "title": "Forskare skapade en speciell kristall på ett bord i laboratoriet – då hände något som ingen tidigare har sett",
@@ -1874,16 +2104,6 @@
       "timestamp": 1785326756000
     },
     {
-      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-      "description": "Rice University chemists have found a new way to make neodymium, a rare-earth metal, interact with oxygen. Using a specially designed molecular structure described as a “basket,” the team positioned the atoms so they could form a bond once thought unlikely. The breakthrough produced highly reactive compounds that could eventually give chemists alternatives to iron-based molecules used in biological reactions and chemical manufacturing.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785325625000
-    },
-    {
       "title": "Timjandressade rödbetor med scamorza",
       "description": "Använd gärna färdigkokta rödbetor så går rätten snabbare att tillaga.",
       "link": "https://alltommat.expressen.se/recept/timjandressade-rodbetor-med-scamorza/",
@@ -1952,6 +2172,16 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785318555000
+    },
+    {
+      "title": "What if the brain does not create consciousness?",
+      "description": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1785314309000
     },
     {
       "title": "Anthropic: Begränsa inte öppna AI-modeller men skärp kontrollen av de starkaste",
@@ -2082,16 +2312,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785294818000
-    },
-    {
-      "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
-      "description": "Deep beneath Japan’s mostly submerged Kikai caldera, scientists have discovered a vast magma reservoir that appears to be filling again. The volcano produced the largest eruption of the Holocene 7,300 years ago, and seismic surveys now show that fresh magma has likely entered the same underground system responsible for that catastrophe.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105644.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260725105644.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785287117000
     },
     {
       "title": "Känner mig tjock – hur gör jag för att tycka om min kropp?",
@@ -2252,16 +2472,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785233244000
-    },
-    {
-      "title": "Why losing weight may not be enough to prevent type 2 diabetes",
-      "description": "A healthy lifestyle can prevent type 2 diabetes for many people, but new research suggests that weight loss alone may not be enough for one particularly vulnerable group. Even after losing about 8% of their body weight and keeping it off for years, people in a high-risk category known as cluster 5 continued to experience rising blood sugar, weakening insulin production, and a strong risk of developing diabetes.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061450.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061450.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785233162000
     },
     {
       "title": "Publikinformation: Anderlecht borta",
@@ -2454,16 +2664,6 @@
       "timestamp": 1785159426000
     },
     {
-      "title": "Your dreams aren’t random. Your brain is rewriting reality",
-      "description": "Dreams are not random mental noise. A large study of more than 3,700 dream and waking reports found that what we experience during sleep is shaped by both our personalities and the world around us. Rather than simply replaying daily events, the dreaming brain mixes memories, emotions, imagined possibilities, and familiar settings into vivid new scenarios.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785157709000
-    },
-    {
       "title": "Scientists reveal what sparkling water really does to your teeth",
       "description": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the strongest and longest drop in salivary pH, while sparkling water produced only a temporary decline before saliva restored normal conditions. Importantly, acidity remained above the level associated with enamel damage.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
@@ -2594,16 +2794,6 @@
       "timestamp": 1785133857000
     },
     {
-      "title": "Fiskkassar från stenåldern har hittats högt uppe i de norska fjällen: ”En form av enkel fiskodling”",
-      "description": "Först upptäcktes de av en bergsklättrare – nu kan forskare avslöja hur Norges jägare och samlare trotsade naturen för att få upp fisk till fjällen.",
-      "link": "https://varldenshistoria.se/stenalder/fiskkassar-fran-stenaldern-har-hittats-hogt-uppe-i-de-norska-fjallen-en-form-av-enkel-fiskodling",
-      "guid": "https://varldenshistoria.se/stenalder/fiskkassar-fran-stenaldern-har-hittats-hogt-uppe-i-de-norska-fjallen-en-form-av-enkel-fiskodling",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785128452000
-    },
-    {
       "title": "Kan bli hemkunskap- och musiksal på Enebybergs skola – trots allt",
       "description": "Danderyds kommun utreder om hemkunskap och musik kan flytta in i befintliga lokaler på Enebybergs skola. Anpassningen beräknas kosta cirka en miljon kronor.",
       "link": "https://www.mitti.se/nyheter/kan-bli-hemkunskap-och-musiksal-pa-enebybergs-skola---trots-allt-6.3.370289.0334481b5a",
@@ -2642,16 +2832,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785082500000
-    },
-    {
-      "title": "En imponerande tidskapsel: Byggnadsarbetare upptäckte romerskt militärläger med mystiska legionärsgravar",
-      "description": "Vapen, rustningar, skor och mynt hittades plötsligt när byggnadsarbetare förberedde sig för att anlägga en industripark i Slovakien. Det var dock framför allt de många skeletten som förvånade de tillkallade arkeologerna.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/en-imponerande-tidskapsel-byggnadsarbetare-upptackte-romerskt-militarlager-med-mystiska-legionarsgravar",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/en-imponerande-tidskapsel-byggnadsarbetare-upptackte-romerskt-militarlager-med-mystiska-legionarsgravar",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785081633000
     },
     {
       "title": "The best way to save giant sequoias may be more fire",
@@ -2734,16 +2914,6 @@
       "timestamp": 1785053795000
     },
     {
-      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-      "description": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785050138000
-    },
-    {
       "title": "Madeleine fick drömroll i världssuccén \"Legally Blonde\"",
       "description": "Madeleine Hilleard från Tyresö kommer definitivt att få klä sig i rosa i höst. Hon är nämligen med i uppsättningen när Södra teatern sätter upp världssuccén \"Legally Blonde\" som musikal.",
       "link": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
@@ -2752,16 +2922,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785049494000
-    },
-    {
-      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-      "description": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785042629000
     },
     {
       "title": "\"Kaosfärd\" i för liten ambulans när skottskadad fördes till sjukhus",
@@ -2784,46 +2944,6 @@
       "timestamp": 1784995200000
     },
     {
-      "title": "A single dose reversed autism-like symptoms in adult mice within hours",
-      "description": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784992177000
-    },
-    {
-      "title": "Superagers keep youthful memories but their DNA does not explain why",
-      "description": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784990514000
-    },
-    {
-      "title": "Scientists put the “recycling is a distraction” claim to the test",
-      "description": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784988035000
-    },
-    {
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "description": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784985423000
-    },
-    {
       "title": "20 000 väntas fira Stockholm pride 2026 – bästa tipsen för veckan",
       "description": "Så här kan du fira Stockholm Pride 2026.",
       "link": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
@@ -2832,26 +2952,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784981580000
-    },
-    {
-      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-      "description": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784979244000
-    },
-    {
-      "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
-      "description": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily supplement may be easier to maintain than digital physiotherapy.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784973665000
     },
     {
       "title": "Nu ändras reglerna för att övningsköra",
@@ -2882,106 +2982,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1784952000000
-    },
-    {
-      "title": "Scientists discover the Sun contains 55% more silver than expected",
-      "description": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784944527000
-    },
-    {
-      "title": "Scientists discover a compound that could supercharge aging muscle repair",
-      "description": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784900270000
-    },
-    {
-      "title": "A new antiviral could stop measles before an outbreak takes off",
-      "description": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784899630000
-    },
-    {
-      "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
-      "description": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784892544000
-    },
-    {
-      "title": "Venus may be tearing itself apart from within",
-      "description": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784888074000
-    },
-    {
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "description": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784881852000
-    },
-    {
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "description": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784879262000
-    },
-    {
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "description": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784876634000
-    },
-    {
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "description": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784872815000
-    },
-    {
-      "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
-      "description": "A large study suggests that GLP-1 drugs including Ozempic and Mounjaro may slightly increase the risk of hair loss in people with type 2 diabetes. Compared with two other common classes of diabetes medications, GLP-1 users had a significantly higher rate of alopecia, though the absolute risk was still low. The hair loss was mainly non-scarring, which means it may be reversible.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1784863873000
     }
   ]
 }
