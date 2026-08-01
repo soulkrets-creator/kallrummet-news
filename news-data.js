@@ -1,8 +1,238 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-01T08:01:59.029Z",
+  "updatedAt": "2026-08-01T10:27:06.498Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "BMW sätter nytt batterirekord – så påverkar det din nästa elbil",
+      "description": "Normalt är batterikapaciteten 70-80 kilowattimmar i en ny familjebil, men BMW nya suv slår det med hästlängder. När BMW släpper sin nya iX5 i höst blir det med en batterikapacitet på hela 141 kilowattimmar. Ingen annan modell i Europa kan mäta sig med det. Bakom det gigantiska batteriet i BMW:s nya suv står en japansk […]",
+      "link": "https://www.dagensps.se/motor/bmw-satter-nytt-batterirekord-sa-paverkar-det-din-nasta-elbil/",
+      "guid": "https://www.dagensps.se/?p=1660509",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/bmw.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785579347000
+    },
+    {
+      "title": "Google gör en Apple och släpper spårare",
+      "description": "Nya läckor avslöjar Pixel Tag 9to5google rapporterar om att Google verkar ha egna spårare på gång. De rapporterar nämligen om nya läckor som avslöjar att Google har en produkt som heter Pixel Tag på gång. Detta är en Airtag-liknande pryl som ska hålla koll på dina prylar via Androids nätverk. Bilder på spårningsbrickan har börjat cirkulera och som man kan se på bilden ser den ju mer avlång istället för rund. Spåraren ska vara utrustad med en högtalare som kan spela upp en hög signal för att underlätta sökandet efter nycklarna när man tappat dem hemma någonstans. Det är oklart när den ska lanseras, men sannolikhet kommer Google visa upp Pixel Tag på Googles hårdvaruevent den 12 augusti. L&auml;s vidare och kommentera: https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/ L&auml;s mer om Google , Android , Airtag , Pixel Tag , 9to5google , Google Pixel Tag",
+      "link": "https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785578400000
+    },
+    {
+      "title": "Brist på spermier – måste köpa från Danmark",
+      "description": "Stockholmsregionen har stor brist på spermadonatorer och måste importera från Danmark. Det innebär höga kostnader & juridiska problem.",
+      "link": "https://www.mitti.se/nyheter/brist-pa-spermier--maste-kopa-fran-danmark-6.3.370146.ebb2e5d7b6",
+      "guid": "https://www.mitti.se/nyheter/brist-pa-spermier--maste-kopa-fran-danmark-6.3.370146.ebb2e5d7b6",
+      "image": "https://www.mitti.se/image-3.374556.297114.20260801100720.f1e415aa38?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785578400000
+    },
+    {
+      "title": "Kvinna död i mc-olycka",
+      "description": "Körde av vägen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d6e184bf-2750-4954-b113-69363a2b0b38",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d6e184bf-2750-4954-b113-69363a2b0b38",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785578323000
+    },
+    {
+      "title": "Petteri Orpo med bland EU-ledare som kräver krismöte efter ett tiotusentals tog sig över spanska gränsen i Ceuta",
+      "description": "Ungefär 60 000 migranter tog sig över gränsen till den spanska enklaven på fredagen. Majoriteten har återvänt till Marocko.",
+      "link": "https://yle.fi/a/7-10102950?origin=rss",
+      "guid": "https://yle.fi/a/7-10102950",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785578051000
+    },
+    {
+      "title": "Extremväder driver upp kopparpriset",
+      "description": "Broar som täcks av snömassor och personal som evakuerats från anläggningar. Den senaste tidens extremväder, som hittills krävt 13 människoliv i Chile, har slagit ut kraftledningar och fått flera gruvbolag att avbryta sin produktion. Snöfall, stormar och översvämningar i Chiles bergsregioner har tvingat flera gruvbolag i området att stoppa sin kopparproduktion. Något som driver kopparpriset […]",
+      "link": "https://www.dagensps.se/bors-finans/ravaror/extremvader-driver-upp-kopparpriset/",
+      "guid": "https://www.dagensps.se/?p=1660498",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/koppar-anvands-bland-annat-i-mobiltelefo.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785577098000
+    },
+    {
+      "title": "Toppchef: Kom hit och tatuera dig – så får du jobb",
+      "description": "Nu stormar hela havet efter AI-startupens tilltag. Medgrundaren pudlar och säger att det var ”fel” att erbjuda jobbsökare tatueringar. I jakten på jobb på en allt hårdare arbetsmarknad gör en del tydligen vad som helst. Till och med tatuerar sig. Det utnyttjade Jordan Zietz, medgrundare till AI-startupen Lemon Limes, och erbjöd deltagarna på en nätverksfest […]",
+      "link": "https://www.dagensps.se/foretag/toppchef-kom-hit-och-tatuera-dig-sa-far-du-jobb/",
+      "guid": "https://www.dagensps.se/?p=1660503",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/tatuerare.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785577073000
+    },
+    {
+      "title": "Fifa backar ur – ska inte längre sälja fotbolls-VM",
+      "description": "Fifa skrotar planerna på att sälja en andel av de kommersiella rättigheterna till fotbolls-VM efter hård kritik och motstånd från Europa, Nordamerika och Asien. Fifa-presidenten Gianni Infantino meddelade på fredagen att förslaget dras tillbaka eftersom det skapat alltför stora motsättningar. ”Efter att noggrant ha lyssnat på alla synpunkter står det klart att projektet har skapat […]",
+      "link": "https://www.dagensps.se/varlden/fifa-backar-ur-ska-inte-langre-salja-fotbolls-vm/",
+      "guid": "https://www.dagensps.se/?p=1660502",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlzhmkvtxfnte-normalhires-scaled.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785576874000
+    },
+    {
+      "title": "Nu slopas kravet på kurs för övningskörning",
+      "description": "Från och med den 1 augusti slopas kravet på introduktionsutbildning för den som vill börja övningsköra privat.",
+      "link": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
+      "guid": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785576323000
+    },
+    {
+      "title": "Oljejättarnas miljardregn – tjänar stort på kris och krig",
+      "description": "Krisen på oljemarknaden drabbar inte oljejättarna särskilt. Amerikanska Chevron femdubblade exempelvis sin vinst. De höga oljepriserna efter kriget mellan Iran och Israel gav ett rejält lyft för de amerikanska oljejättarna ExxonMobil och Chevron under årets andra kvartal. Båda bolagen redovisar kraftigt ökade vinster, även om Exxon missade analytikernas förväntningar. Oljepriset steg kraftigt under kvartalet när […]",
+      "link": "https://www.dagensps.se/bors-finans/ravaror/oljejattarnas-miljardregn-tjanar-stort-pa-kris-och-krig/",
+      "guid": "https://www.dagensps.se/?p=1660496",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/chevron.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785575626000
+    },
+    {
+      "title": "Fridas miss på flygplatsen",
+      "description": "Chocken på Arlanda • Förklaringen: ”Juste...”",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785575190000
+    },
+    {
+      "title": "Dramatisk start på dagen i Jyväskylärallyt – se hur Elfyn Evans voltade flera gånger",
+      "description": "Det blev dramatiskt på den 14:e specialsträckan i Jyväskylärallyt när VM-ledaren Elfyn Evans tappade kontrollen och voltade flera gånger med sin bil bara några hundra meter från mållinjen.",
+      "link": "https://yle.fi/a/7-10102949?origin=rss",
+      "guid": "https://yle.fi/a/7-10102949",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785575163000
+    },
+    {
+      "title": "Bildt: Medvetet migranttryck av Marocko",
+      "description": "Migrantanstormningen till den spanska exklaven Ceuta skapades medvetet av Marocko. Det menar Carl Bildt – som pekar på ett känsligt möte. Toppdiplomaten Jan Eliasson är inne på samma linje. ”En fabrikation”, skriver han på X.",
+      "link": "https://www.expressen.se/nyheter/varlden/bildt-medvetet-migranttryck-av-marocko/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bildt-medvetet-migranttryck-av-marocko/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785574818000
+    },
+    {
+      "title": "FIFA ska inte längre sälja delar av sina VM-turneringar",
+      "description": "Efter hård kritik drar FIFA tillbaka förslaget Efter en våg av hård kritik väljer FIFA och ordförande Gianni Infantino nu att skrota planerna på att sälja delar av sina VM-turneringar till privata investerare. En av dem var Joshua Kushner som är bror till den amerikanske presidentens svärson Jared Kushner. Det var tidigare i veckan som det internationella fotbollsförbundet FIFA presenterade ett förslag om att ta in riskkapitalbolag som delägare för sina VM-turneringar. Tanken var att locka med stora pengar till medlemsländerna, men idén möttes omedelbart av ett kraftigt motstånd från allt och alla. Nu meddelar Gianni Infantino att man skrotar planerna och i ett uttalande konstaterar han att förslaget har skapat en sådan djup splittring inom sporten att det inte längre är meningsfullt att driva det vidare. Det svenska fotbollförbundets ordförande Simon Åström välkomnar FIFA:s beslut och säger att det ligger i linje med deras förväntningar baserat på den bristfälliga processen och de reaktioner som förslaget har väckt. L&auml;s vidare och kommentera: https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/ L&auml;s mer om FIFA , Gianni Infantino , Joshua Kushner , Simon Åström , riskkapital , SvFF , fotbolls-VM , VM-turneringar",
+      "link": "https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785574800000
+    },
+    {
+      "title": "Meganotering – kan bli en av Nordens största i år",
+      "description": "Aker-bolag kan noteras för 240 miljarder norska kronor. Ett möte i New York står på agendan nästa vecka. Han kan skratta hela vägen till banken. Det är AI-infrastrukturföretaget Nscale, som i grunden är brittiskt men ägs till 23 procent av norska Aker, som nu uppges vara nära att ta klivet in på börsen. En stor […]",
+      "link": "https://www.dagensps.se/bors-finans/meganotering-kan-bli-en-av-nordens-storsta-i-ar/",
+      "guid": "https://www.dagensps.se/?p=1660492",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/kjellinge.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785574668000
+    },
+    {
+      "title": "AI skulle spara tid – i stället skapar den ”fabriker av utbrända”",
+      "description": "AI skulle frigöra tid och minska arbetsbördan. Men ny forskning visar att artificiell intelligens i stället kan leda till högre arbetstempo, fler arbetsuppgifter och en växande risk för utbrändhet. AI beskrivs ofta som tekniken som ska automatisera rutinuppgifter och ge människor mer tid över. Men verkligheten ser annorlunda ut på många arbetsplatser. En studie från […]",
+      "link": "https://www.dagensps.se/privatekonomi/jobb-karriar/ai-skulle-spara-tid-i-stallet-skapar-den-fabriker-av-utbranda/",
+      "guid": "https://www.dagensps.se/?p=1660490",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/aiburnout.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785573801000
+    },
+    {
+      "title": "Anmälningar om smygfotografering på Jamboree",
+      "description": "Fler än tio anmälningar har kommit in om smygtagna nakenbilder på scoutlägret Jamboree utanför Kristianstad. Natten till lördag hände det igen. – Vi tittar på om det finns ett samband, säger Katarina Rusin på polisens ledningscentral.",
+      "link": "https://www.expressen.se/nyheter/sverige/anmalningar-om-smygfotografering-pa-jamboree/",
+      "guid": "https://www.expressen.se/nyheter/sverige/anmalningar-om-smygfotografering-pa-jamboree/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785573565000
+    },
+    {
+      "title": "Kristersson i gemensamt brev till EU: ”Kräver akut möte”",
+      "description": "Statsminister Ulf Kristersson har tillsammans med 14 andra europeiska ledare signerat ett brev till EU, med anledning av migrantkrisen i spanska Ceuta. Ledarna uppmanar till krismöte. ”De senaste dagarnas händelser kräver en omedelbar och samordnad europeisk insats”, står det i brevet.",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
+      "guid": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785573492000
+    },
+    {
+      "title": "Gigantiskt test jämför Volvo EX60, BMW iX3, Mercedes GLC och Audi Q6",
+      "description": "3,5 timmar lång genomgång! Välkända tyska kanalen Autogefühl har provat allt som rullar på fyra hjul och gör ofta bra genomgångar och tester. I den här videon, eller ska vi säga långfilmen, har man gett sig på att jämföra de nya eldrivna suvarna från Volvo, BMW, Mercedes och Audi. Genomgången är LÅNG, 3,5 timmar, och det är det perfekta klippet om du funderar på att köpa någon av dessa fyra. Man går helt enkelt igenom det mesta som finns att prata om de här bilarna. För dig som inte orkar kan man väl sammanfatta det så här: – BMW är roligast att köra och väl prissatt. – Mercedes har härligast väghållning, flest funktioner och skärmar, men är också dyrast. – Volvon är en mix av BMW och Mercedes, på ett bra sätt. Den är också bra prissatt. Den är väldigt tyst och har aktiv brusreducering, vilket Thomas som testar tycker är för aggressiv vilket gör att det blir konstigt. – Audins interiör är klart sämst och körningen är inte på topp. Thomas val är Mercedes, om pengarna finns. Välj BMW om du vill ha en rolig bil att köra, Volvon om du vill ha en bra mix och Audin om du får den billigt. L&auml;s vidare och kommentera: https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/ L&auml;s mer om Autogefühl , Volvo , BMW , Mercedes , Audi , elsuv , biltest",
+      "link": "https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785573000000
+    },
+    {
+      "title": "Prischock på tåget? Därför kan din resa bli dyrare än väntat",
+      "description": "Tågresandet slår rekord och sistaminutenresan kan bli dyr. Vi förklarar varför och hur du undviker de högsta priserna.",
+      "link": "https://yle.fi/a/7-10101020?origin=rss",
+      "guid": "https://yle.fi/a/7-10101020",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785572933000
+    },
+    {
+      "title": "Jordens lägsta temperatur på över ett decennium",
+      "description": "Jorden har uppmätt sin lägsta temperatur på över ett decennium. I Antarktis sjönk kvicksilvret till hisnande minus 84,1 grader. Europa och Nordamerika har rekordtemperaturer och plågas av skogsbränder. Samtidigt noterades den lägsta temperaturen på jorden på över ett decennium i Antarktis. Vid forskningsstationen Concordia sjönk temperaturen till hisnande minus 84,1 grader. Den extrema kylan registrerades […]",
+      "link": "https://www.dagensps.se/varlden/klimat/jordens-lagsta-temperatur-pa-over-ett-decennium/",
+      "guid": "https://www.dagensps.se/?p=1660484",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/antarktis.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785572419000
+    },
+    {
+      "title": "Glöm garage – superrika köper bostäder till sina lyxbilar",
+      "description": "Rika personer kan betala 15 miljoner kronor och mer än så för en lägenhet att parkera sina unika bilar i. Det här har du inte råd att missa! Den nya trenden bland förmögna bilentusiaster, åtminstone i USA, är att förvärva lägenheter eller hela fastigheter för att ställa in sina dyrgripar. I första hand gäller det […]",
+      "link": "https://www.dagensps.se/motor/glom-garage-superrika-koper-bostader-till-sina-lyxbilar/",
+      "guid": "https://www.dagensps.se/?p=1660483",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/bilhiss.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785572005000
+    },
+    {
+      "title": "Winamp gör comeback med Deezer",
+      "description": "Ny version ska förena lokal musik med streaming Den legendariska musikspelaren Winamp gör ett nytt försök att erövra musikvärlden då man under nästa år planerar att lansera en helt ny version av spelaren som ska förena nostalgi med modern teknik. Den stora grejen med detta är ett samarbete med den franska streamingjätten Deezer. Visionen för det nya Winamp är att skapa en \"allt-i-ett-lösning\" där man då ska kunna blanda sina lokala musikfiler med streaming från Deezers katalog, poddar och internetradio i samma gränssnitt. Målet är att ge lyssnaren mer kontroll och en mer personlig upplevelse än vad dagens algoritmdrivna tjänster erbjuder. Lite halvt oväntat så har Winamp fortfarande omkring 40 miljoner trogna användare så kanske kan detta glädja dem eller så blir det bara shitification av det hela och leder till att fler lämnar nostalgin bakom sig. L&auml;s vidare och kommentera: https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/ L&auml;s mer om Winamp , Deezer , musikspelare , streaming , poddar , internetradio , musikstreaming",
+      "link": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785571200000
+    },
     {
       "title": "Pojke misstänks ha smygfotat naken kvinna på scoutläger",
       "description": "Larm om smygfoto på scoutläger",
@@ -31,7 +261,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785569794000
+      "timestamp": 1785569793000
     },
     {
       "title": "SL rustar inför prideparaden – samtidigt väntar stormatch",
@@ -62,26 +292,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785568877000
-    },
-    {
-      "title": "Nu slopas kravet på kurs för övningskörning",
-      "description": "Från och med den 1 augusti slopas kravet på introduktionsutbildning för den som vill börja övningsköra privat.",
-      "link": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
-      "guid": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785568843000
-    },
-    {
-      "title": "Milstolpe i oljebranschen – BP lämnar Nordsjön",
-      "description": "Efter 60 år annonserar British Petroleum, BP, ut sin verksamhet i Nordsjön till försäljning. Spekulationerna är flera om tänkbara köpare. BP drar sig tillbaka från Nordsjön efter sex decennier. Oljejätten har lagt ut sin portfölj till försäljning och SEB-analytikern Anders Rosenlund tror att Equinor och Shell är de mest sannolika uppvaktarna. I en kommentar till […]",
-      "link": "https://www.dagensps.se/bors-finans/milstolpe-i-oljebranschen-bp-lamnar-nordsjon/",
-      "guid": "https://www.dagensps.se/?p=1660456",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/bpsaljer.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785567688000
     },
     {
       "title": "Metal Slug fyller 30 år med ny modell",
@@ -122,16 +332,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785566684000
-    },
-    {
-      "title": "Nya guldfynd: ”Unikt även internationellt”",
-      "description": "Området för Endomines guldfyndighet Ukko utökas nu till 650 meter efter nya borresultat. ”Resultaten tillhör de bästa i branschen”. Den kända utsträckningen av guldfyndigheten Ukko i Finland utökas nu till 650 meter efter nya borresultat. Endomines, som driver utvinningen, siktar på att ha den första uppskattningen av mineralresurserna klar under slutet av 2026 eller början […]",
-      "link": "https://www.dagensps.se/bors-finans/nya-guldfynd-unikt-aven-internationellt/",
-      "guid": "https://www.dagensps.se/?p=1660457",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/31973f05-afe1-42e3-983d-f5db2dbd3fa7-1-1.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785566538000
     },
     {
       "title": "Nudelwok med het sojasås och jordnötter",
@@ -232,16 +432,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785564000000
-    },
-    {
-      "title": "Bubs-ägaren fyller på godispåsen – köper bolag",
-      "description": "Med köpet vill norska Orkla säkra ökad produktionskapacitet och fortsätta den internationella satsningen på det godiset Bubs, som fått ett rejält uppsving efter den virala trenden kring svenskt godis. Orkla vill ge Bubs en större plats i Europa. I ett pressmeddelande uppger bolaget att det köper den nederländska godistillverkaren The European Candy Group. Med köpet […]",
-      "link": "https://www.dagensps.se/foretag/bubs-agaren-fyller-pa-godispasen-koper-bolag/",
-      "guid": "https://www.dagensps.se/?p=1660452",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/orkla-koper-nederlandska-the-european-ca.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785561607000
     },
     {
       "title": "Sträcker sig över nästan 200 000 kvadratkilometer – enorm människoskapad struktur under jorden vänder upp och ned på historien",
@@ -364,16 +554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785558029000
     },
     {
-      "title": "NRJ flyttar – Vinyl FM slutar sända",
-      "description": "Efter tre decennier tystnar radiokanalen Vinyl FM. Richard Herrey, programledare på kanalen, är kritisk. ”Skandalöst”, skriver han på X. Samtidigt tvingas NRJ till frekvensbyte.",
-      "link": "https://www.expressen.se/noje/nrj-flyttar-vinyl-fm-slutar-sanda-/",
-      "guid": "https://www.expressen.se/noje/nrj-flyttar-vinyl-fm-slutar-sanda-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785555998000
-    },
-    {
       "title": "Bad Trump om en tjänst – vill övertyga Musk",
       "description": "Volodymyr Zelenskyj vill ha hjälp från Elon Musk. För att övertyga techmiljardären uppges den ukrainska presidenten bett om en tjänst från Donald Trump. Den ukrainska presidenten vill ha tillåtelse för att använda Starlink i Ryssland, enligt The Atlantic .",
       "link": "https://www.expressen.se/nyheter/varlden/bad-trump-om-en-tjanst-vill-overtyga-musk/",
@@ -402,26 +582,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785553200000
-    },
-    {
-      "title": "Trump hävdade sabotage mot poolen – nu släpps åtalet",
-      "description": "Donald Trump rasade efter att bottnen vid monumentet lossnade och poolen fylldes med alger. Kort därefter greps en tidigare amerikansk olympier misstänkt för den påstådda skadegörelsen. Nu läggs åtalet mot David Hearn ner, enligt AP .",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785552300000
-    },
-    {
-      "title": "70 gripna i Marocko",
-      "description": "Efter migrantkrisen • Minst 57 döda",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9f32dfda-ae0b-47b4-b58a-cbf4cbb934ff",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9f32dfda-ae0b-47b4-b58a-cbf4cbb934ff",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785552070000
     },
     {
       "title": "Fifa backar: Planerna på att sälja VM-andelar skrotas",
@@ -484,16 +644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785528000000
     },
     {
-      "title": "Ny analys: Åldern när unga svenskar kan gå i pension",
-      "description": "Pensionsåldern i Europa kommer att stiga. Det gäller även Sverige. Så här tror OECD om när svenskarna går i pension på 2060-talet. Det är naturligtvis en kalkyl med många okända faktorer. Men i ”Pensions at a Glance 2025” har OECD analyserat hur pensionsåldern i Europa kommer att utvecklas. Nu har Euronews tagit tag i de […]",
-      "link": "https://www.dagensps.se/privatekonomi/ny-analys-aldern-nar-unga-svenskar-kan-ga-i-pension/",
-      "guid": "https://www.dagensps.se/?p=1660443",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdleus7bon8suu-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785526361000
-    },
-    {
       "title": "Snap SPECS AR Smart Glasses",
       "description": "",
       "link": "https://uncrate.com/snap-specs-ar-smart-glasses/",
@@ -522,16 +672,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785524400000
-    },
-    {
-      "title": "Nya regementet kan stoppas i domstol",
-      "description": "Ett regemente ska byggas i Sollefteå. Så långt är alla överens. Men flera överklaganden kan försena bygget flera år. Svenska försvaret rustas upp snabbt, starkt och intensivt – men längs vägen dyker det upp väntade och oväntade problem. I Sollefteå kan ett planerat regementsbygge försenas rejält, i värsta fall flera år. ”Det är klart att […]",
-      "link": "https://www.dagensps.se/varlden/nya-regementet-kan-stoppas-i-domstol/",
-      "guid": "https://www.dagensps.se/?p=1660432",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlcc1br-jbuim-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785524265000
     },
     {
       "title": "EIF slog HJK:s reserver i ligaettan: ”Det såg kanske inte så bra ut”",
@@ -574,16 +714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785522600000
     },
     {
-      "title": "Nu kan Ukraina betala planen från Saab",
-      "description": "Ukraina får en EU-utbetalning på motsvarande drygt 38 miljarder kronor och ska bland annat betala Saab med pengarna. Ukraina har mottagit en ny utbetalning från EU inom ramen för låneprogrammet på motsvarande 990 miljarder kronor, 90 miljarder euro. Det meddelar Ukrainas premiärminister Serhij Koretskyj. Pengarna ska finansiera inköp av drönare, däribland jetdrivna modeller med lång […]",
-      "link": "https://www.dagensps.se/varlden/nu-kan-ukraina-betala-planen-fran-saab/",
-      "guid": "https://www.dagensps.se/?p=1660421",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlvrm2a5wezow-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785522337000
-    },
-    {
       "title": "AI kan nu generera bilder direkt i Google Earth",
       "description": "And it's gone... Google har nu slängt in sin bildgenerator Nano Banana direkt i Google Earth så användare kan generera bilder på historiska miljöer eller framtida byggprojekt direkt på satellitbilderna. UPPDATERING: Google har nu tagit bort denna funktion, ungefär 24 timmar efter lanseringen. Anledningen var helt enkelt för att det visade sig vara alldeles för effektivt på att skapa trovärdiga förfalskningar av verkligheten. Folk lyckades snabbt generera manipulerade bilder föreställande allt från bombkratrar vid sjukhus till flyktingläger vid politiskt känsliga gränser. Trots att Google påstod att man hade inbyggda spärrar mot olämpligt innehåll och använde digitala vattenstämplar, visade det sig vara enkelt att kringgå systemen. Så Google har nu valt att pausa funktionen för att skydda användarnas förtroende för Google Earth som en pålitlig källa. Så via en enkel prompt kan verktyget förvandla ruiner till en romersk stadsmiljö från förr. Kritiker har dock redan ifrågasatt hur verklighetstrogna bilderna faktiskt är och påpekar att tekniken till stor del bygger på gissningar då det som bekant inte finns alltför mycket fotografiskt underlag från antiken. Google säger också att Nano Banana kan användas av arkitekter och fastighetsutvecklare så de kan visualisera nya byggnader på tomma ytor. Verktyget kan även skapa skräddarsydd infografik för kända landmärken. Genom att titta på exempelvis Frihetsgudinnan kan användaren få upp genererad grafik med teknisk data och historisk kuriosa. Precis som allt annan AI som slängs in överallt hela tiden återstår det dock att se om folk faktiskt kommer att använda detta. L&auml;s vidare och kommentera: https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/ L&auml;s mer om Nano Banana , Google Earth , Pompeji , artificiell intelligens , Frihetsgudinnan , stadsplanering",
       "link": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
@@ -602,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785520800000
-    },
-    {
-      "title": "Vilddjuret som hjälper oss bekämpa skogsbränder",
-      "description": "Stora skogsbränder härjar i Europa. Det här är djuret som motverkar bränderna och hjälper landskapet återhämta sig. Det är naturligtvis bävrar vi talar om. Bävrarna bekämpar i tysthet Europas våldsamma skogsbränder och hjälper brända landskap att återhämta sig. Bävrars förkärlek för att bygga dammar har skapat naturliga brandgator runt om i Europa, vilka kan bidra […]",
-      "link": "https://www.dagensps.se/varlden/vilddjuret-som-hjalper-oss-bekampa-skogsbrander/",
-      "guid": "https://www.dagensps.se/?p=1660410",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl7xx7x-tt2gm-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785520283000
     },
     {
       "title": "Hairmax Laser Hair Growth Cap",
@@ -704,16 +824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785513600000
     },
     {
-      "title": "Forskare utvinner mineraler ur havsvatten – finns enorma mängder",
-      "description": "Havsvatten finns runt om oss, och det innehåller viktiga mineraler. Forskningen går nu framåt vad gäller utvinningen, men det finns några hinder. Att vatten är viktigt vet vi, men i framtiden kan havsvatten spela en ännu större roll. Forskarna utvecklar nu tekniker som ska göra det möjligt att utvinna metaller som magnesium, litium, nickel, sällsynta […]",
-      "link": "https://www.dagensps.se/varlden/klimat/forskare-utvinner-mineraler-ur-havsvatten-finns-enorma-mangder/",
-      "guid": "https://www.dagensps.se/?p=1660407",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdlxovg0zwj7bg-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785512960000
-    },
-    {
       "title": "Fifahöjdare till attack mot Gianni Infantino: ”Det är inte bara detta projekt som måste stoppas”",
       "description": "Fifas operativa chef Kevin Lamour säger att personal inom förbundet har blivit vilseledd angående Gianni Infantinos planer på att sälja ut VM-andelar till privata aktörer.",
       "link": "https://yle.fi/a/7-10102939?origin=rss",
@@ -794,16 +904,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785508577000
     },
     {
-      "title": "Kreml bygger ett krigssystem som ska överleva Putin",
-      "description": "Ryssland kunde inte stoppa Natos utvidgning, men fortsätter vinna små segrar. Kreml är väldigt uthålligt, varnar expert vi har träffat.",
-      "link": "https://yle.fi/a/7-10102574?origin=rss",
-      "guid": "https://yle.fi/a/7-10102574",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785508214000
-    },
-    {
       "title": "Högerklicksmenyn ska bli mer personlig i Windows 11",
       "description": "Fan på tiden det När jag går igenom min högerklicksmeny i Windows så skulle jag nog vilja påstå att runt hälften av alternativen är totalt onödiga och saker jag aldrig använt eller sannolikt kommer att använda. Det verkar nästan som att Microsoft också insett detta då våra vänner borta på PC för alla rapporterar om att Windows 11 kommer att erbjuda en mer slimmad version av menyn som ska kännas betydligt mer responsiv än vad den är nu. Enligt rapporten ska de mest använda funktionerna prioriteras och onödigt ska skalas bort. Men det kanske viktigaste är att användarna själva ska få större kontroll över innehållet. Genom en ny inställning blir det möjligt att handplocka exakt vilka kommandon och appar som ska få synas i menyn vilket ju lite av ett av ett halleluja-moment. Om allt går enligt planerna kan den nya högerklicksmenyn börja rullas ut till användarna runt årsskiftet. L&auml;s vidare och kommentera: https://feber.se/pc/hogerklicksmenyn-ska-bli-mer-personlig-i-windows-11/494618/ L&auml;s mer om Windows 11 , Microsoft , högerklicksmeny , PC för alla , operativsystem , programvara , PCASFÖRALLA",
       "link": "https://feber.se/pc/hogerklicksmenyn-ska-bli-mer-personlig-i-windows-11/494618/?utm_source=rss&utm_medium=feed",
@@ -812,16 +912,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785508200000
-    },
-    {
-      "title": "Begravningsentreprenör lurade sörjande – gav fel aska till anhöriga",
-      "description": "En brittisk begravningsentreprenör döms till 20 års fängelse efter att under flera år ha lurat sörjande familjer med fel aska. I Sverige misstänks en begravningsbyrå ha plundrat dödsbon. Den brittiske begravningsentreprenören Robert Bush har dömts till 20 års fängelse för ett av de mest uppmärksammade fallen av bedrägeri inom begravningsbranschen i Storbritannien, rapporterar Reuters. Anhöriga […]",
-      "link": "https://www.dagensps.se/varlden/begravningsentreprenor-lurade-sorjande-gav-fel-aska-till-anhoriga/",
-      "guid": "https://www.dagensps.se/?p=1660401",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/robertbush.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785508176000
     },
     {
       "title": "UECL: Hammarby ställs mot Raków i kvalomgång 3",
@@ -842,26 +932,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785506400000
-    },
-    {
-      "title": "Rekordlågt vatten i Donau tvingar Ungern att stänga sitt enda kärnkraftverk",
-      "description": "Enligt premiärminister Péter Magyar är det första gången på 44 år som kärnkraftverket stängs helt.",
-      "link": "https://yle.fi/a/7-10102936?origin=rss",
-      "guid": "https://yle.fi/a/7-10102936",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785506339000
-    },
-    {
-      "title": "Uppgifter: Fifa studerar effekter av utökat VM 2030 – beslut kan fattas redan i augusti",
-      "description": "Fotbolls-VM kan växa från 48 till 64 lag redan till 2030. Fifa har inlett en konsultationsprocess för att undersöka hur 64 lag skulle påverka fotbollens ekosystem.",
-      "link": "https://yle.fi/a/7-10102937?origin=rss",
-      "guid": "https://yle.fi/a/7-10102937",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785506095000
     },
     {
       "title": "Razer släpper tangentbordet Huntsman V3 HE",
@@ -1094,16 +1164,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785484800000
     },
     {
-      "title": "Google visar upp ny AI-modell för humanoida robotar",
-      "description": "Blir fingerfärdigare och bättre på att samarbeta Google har visat upp en ny version av Gemini Robotics, AI-modellen som Google DeepMind utvecklar för att göra humanoida robotar lite smartare. Gemini Robotics 2 har bland annat gjort de humanoida robotarna som används i Googles tester betydligt mer fingerfärdiga och robotarna har nu även fått större möjlighet att kontrollera hela kroppen. Robotarna kommer med den nya AI-modellen även bli bättre på att samarbeta och utföra uppgifter gemensamt. Google tillverkar inga egna humanoida robotar sedan man sålde Boston Dynamics för snart tio år sedan. Den nya AI-modellen har istället testats på robotar från företag Apptronik, Agile Robots och Boston Dynamics. I videoklippen ovan och nedan kan ni kolla in saker som robotar nu kan göra med hjälp av Gemini Robotics 2. L&auml;s vidare och kommentera: https://feber.se/pryl/google-visar-upp-ny-ai-modell-for-humanoida-robotar/494600/ L&auml;s mer om Google DeepMind , Google , Apptronik , Gemini Robotics 2 , Boston Dynamics , Humanoida robotar",
-      "link": "https://feber.se/pryl/google-visar-upp-ny-ai-modell-for-humanoida-robotar/494600/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/google-visar-upp-ny-ai-modell-for-humanoida-robotar/494600/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785483000000
-    },
-    {
       "title": "Muurikkalax med kantareller",
       "description": "Kantareller och dill är en inte helt vanlig kombination, men det är fantastiskt gott ihop och passar perfekt till den snabbrimmade laxen.",
       "link": "https://alltommat.expressen.se/recept/muurikkalax-med-kantareller/",
@@ -1114,16 +1174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785482820000
     },
     {
-      "title": "Casios klockring blir smartare",
-      "description": "Kan nu göra mer än visa tiden Casio har uppdaterat den klockring som man släppte för snart två år sedan och ringen kan nu även fungera som en så kallad smart ring. Den nya modellen Casio CRW-H001 har försetts med sensorer som gör det möjligt för ringen att registrera användarens puls, temperatur, syresättning i blodet samt sömn. Klockan har även en inbyggd stegräknare, kaloriberäkningar och kan vibrera när användaren får notifikationer på sin mobiltelefon. Ringens lilla LCD-skärm kan visa världstid i två tidszoner, datum och innehåller även ett stoppur. Casio CRW-H001 säljs i tre olika storlekar och kostar i Kina cirka 2000 yuan, motsvarande lite över 2800 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/casios-klockring-blir-smartare/494598/ L&auml;s mer om smart ring , Casio , CRW-H001 , Casio CRW-H001 , Klockring , Sensorer",
-      "link": "https://feber.se/pryl/casios-klockring-blir-smartare/494598/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/casios-klockring-blir-smartare/494598/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785481200000
-    },
-    {
       "title": "Google Deepmind släpper AI-modell som kan styra humanoida robotar",
       "description": "Google Deepmind har nu lanserat Gemini Robotics ER 2 , den senaste versionen av företagets AI-modell för robotar som kan styra flera olika typer av robotar. Bland annat humanoida. Modellen kan tolka video, samtala med människor, planera arbetsflöden i flera steg och styra olika robotplattformar genom att kopplas till underliggande styrsystem. En av de största nyheterna är att robotarna kontinuerligt kan analysera videoströmmar för att följa sina egna framsteg under ett arbete. Det gör att de kan upptäcka misstag, anpassa sina handlingar och avgöra när ett moment är färdigt. Google introducerar även stöd för samarbete mellan flera robotar. Det ska göra det möjligt för olika typer av robotar att dela information och tillsammans utföra uppgifter. Den nya AI-modellen finns tillgänglig för utvecklare via Gemini API och Google AI Studio, samt i en privat förhandsversion på Gemini Enterprise Agent Platform.",
       "link": "https://computersweden.se/article/4203525/google-deepmind-slapper-ai-modell-som-kan-styra-humanoida-robotar.html",
@@ -1132,16 +1182,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785481200000
-    },
-    {
-      "title": "Microsoft slog rekord på börsen",
-      "description": "Bolagets värde ökade med 450 miljarder dollar på en dag Microsoft visade en väldigt stark kvartalsrapport igår vilket fick företagets aktie att rusa med över 15 procent på börsen. Den kraftiga börsuppgången för Microsoft ledde till att företagets värdering ökade med 450 miljarder dollar under dagen, något som är nytt rekord för ett börsföretag. Det tidigare rekordet satte Nvidia den 9 april när deras värdering ökade med 441 miljarder på en dag. Apropå Nvidia så har deras aktie sjunkit något den senaste tiden medan Apples har stigit, något som innebär att Apple återigen är världens högst värderade börsnoterade företag. L&auml;s vidare och kommentera: https://feber.se/samhalle/microsoft-slog-rekord-pa-borsen/494597/ L&auml;s mer om Microsoft , Nvidia , Apple , börsen , kvartalsrapport , värdering",
-      "link": "https://feber.se/samhalle/microsoft-slog-rekord-pa-borsen/494597/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/microsoft-slog-rekord-pa-borsen/494597/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785479400000
     },
     {
       "title": "Morgonens nyheter i Stockholm",
@@ -1182,16 +1222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785478055000
-    },
-    {
-      "title": "UEFA hotar nu med VM-bojkott",
-      "description": "För att FIFA vill sälja delar av VM-mästerskapen till privata investerare De senaste veckorna har det skurit sig mellan det europeiska fotbollsförbundet UEFA och FIFA. Konflikten blossade upp på riktigt när FIFA presenterade ett kontroversiellt förslag där man ville flytta över rättigheterna för framtida världsmästerskap till ett nytt dotterbolag, där externa investerare erbjuds köpa in sig för mångmiljardbelopp. Enligt FIFA ska kapitaltillskottet stärka fotbollsutvecklingen globalt men kritiker menar att det kan leda till att privata investerare skulle få mandat över medlemsförbundens inflytande och då ge kommersiella intressen en ännu större makt över mästerskapen. UEFA gick i går ut med ett uttalande där man poängterade förslaget kan leda till att sportsliga beslut riskerar att ersättas av krav på ekonomisk avkastning om privata aktörer får inflytande över tävlingsformat och spelscheman. Man beskriver FIFA:s agerande som ett svek mot rollen som sportens opartiska förvaltare. Efter ett krismöte har Uefa och dess 55 medlemsländer fattat det drastiska beslutet att bojkotta samtliga FIFA-turneringar, inklusive kommande världsmästerskap. Svenska fotbollförbundet har också uttalat sig Simon Åström, ordförande för Svenska fotbollförbundet (SvFF), betonar i ett uttalande att bojkotten är en nödvändig markering för att värna sportens trovärdighet. Enligt Åström handlar det om att skydda fotbollens framtid från kortsiktiga ekonomiska intressen. Uefa själva är skarpa i sin kritik och menar att ingen har den moraliska rätten att sälja ut ett arv som man endast förvaltar för nästa generation. Även den nord- och centralamerikanska fotbollsfederationen CONCACAF är emot förslaget att sälja ut delar av fotbolls-VM. UPPDATERING: Nu har även det Asiatiska fotbollsförbundet Asian Football Confederation (AFC) att det ställer sig på samma sida som UEFA och CONCACAF. L&auml;s vidare och kommentera: https://feber.se/samhalle/uefa-hotar-nu-med-vm-bojkott/494595/ L&auml;s mer om UEFA , FIFA , CONCACAF , SvFF , Simon Åström , investerare , världsmästerskap",
-      "link": "https://feber.se/samhalle/uefa-hotar-nu-med-vm-bojkott/494595/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/uefa-hotar-nu-med-vm-bojkott/494595/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785477600000
     },
     {
       "title": "Meta vill sälja mycket mer AI till företag",
