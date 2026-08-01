@@ -1,17 +1,237 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-01T05:45:13.678Z",
+  "updatedAt": "2026-08-01T08:01:59.029Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Pojke misstänks ha smygfotat naken kvinna på scoutläger",
+      "description": "Larm om smygfoto på scoutläger",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9db17f88-7bea-41e9-9abd-747842fc89fb",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9db17f88-7bea-41e9-9abd-747842fc89fb",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785570966000
+    },
+    {
+      "title": "Designern Björn Weckströms hem är ett land av brons och marmor som några lyckliga nu får besöka",
+      "description": "Smyckesdesignern och konstnären Weckström är mest känd för smycken i Star Wars och på Yoko Ono, men i hans hem visas alla hans fantastiska skapelser.",
+      "link": "https://yle.fi/a/7-10102907?origin=rss",
+      "guid": "https://yle.fi/a/7-10102907",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785570885000
+    },
+    {
+      "title": "Planerar massiv bombning av Iran",
+      "description": "USA:s krig mot Iran väntas trappas upp. Trump planerar tillsammans med Israel en massiv offensiv. Det kan bli den kraftigaste bombningen hittills, uppger flera källor till CBS News.",
+      "link": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785569794000
+    },
+    {
+      "title": "SL rustar inför prideparaden – samtidigt väntar stormatch",
+      "description": "I dag väntas omkring 50 000 deltagare och en halv miljon åskådare när Nordens största Prideparad går genom Stockholm. Samtidigt är det stormöte i fotboll på Strawberry arena. – Vi kör med maximal kapacitet, säger Sophie Gunnarsson, presstalesperson på SL.",
+      "link": "https://www.expressen.se/nyheter/sverige/sl-rustar-infor-prideparaden-samtidigt-vantar-stormatch-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sl-rustar-infor-prideparaden-samtidigt-vantar-stormatch-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785569765000
+    },
+    {
       "title": "Trumps ord om Spanien",
-      "description": "Hårda orden: ”Svaga lagar, dåligt ledarskap”",
+      "description": "”Svaga lagar, dåligt ledarskap”",
       "link": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
       "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785562206000
+      "timestamp": 1785569556000
+    },
+    {
+      "title": "Beröm till Saab: ”Öppnar stridsvagnar som en sardinburk”",
+      "description": "Saab får beröm för sin nya pansarvärnsgranat för Carl Gustaf. De första beställningarna har kommit. Granaten är i produktion. Inom den sällsamt blomstrande branschen för vapen och effektivt tillintetgörande i krig, har Saab (börskurs Saab) presenterat en ny pansarvärnsgranat för Carl Gustaf, Heat 758. Heat 758 är i första hand avsedd för bekämpning av tungt […]",
+      "link": "https://www.dagensps.se/bors-finans/berom-till-saab-oppnar-stridsvagnar-som-en-sardinburk/",
+      "guid": "https://www.dagensps.se/?p=1660470",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/heat758-11-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785568877000
+    },
+    {
+      "title": "Nu slopas kravet på kurs för övningskörning",
+      "description": "Från och med den 1 augusti slopas kravet på introduktionsutbildning för den som vill börja övningsköra privat.",
+      "link": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
+      "guid": "https://www.expressen.se/nyheter/sverige/nu-slopas-kravet-pa-kurs-for-ovningskorning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785568843000
+    },
+    {
+      "title": "Milstolpe i oljebranschen – BP lämnar Nordsjön",
+      "description": "Efter 60 år annonserar British Petroleum, BP, ut sin verksamhet i Nordsjön till försäljning. Spekulationerna är flera om tänkbara köpare. BP drar sig tillbaka från Nordsjön efter sex decennier. Oljejätten har lagt ut sin portfölj till försäljning och SEB-analytikern Anders Rosenlund tror att Equinor och Shell är de mest sannolika uppvaktarna. I en kommentar till […]",
+      "link": "https://www.dagensps.se/bors-finans/milstolpe-i-oljebranschen-bp-lamnar-nordsjon/",
+      "guid": "https://www.dagensps.se/?p=1660456",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/bpsaljer.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785567688000
+    },
+    {
+      "title": "Metal Slug fyller 30 år med ny modell",
+      "description": "Firas med ett bygge av stridsvagnen SV-001/I i skala 1/24 För att fira att det klassiska arkadspelserien Metal Slug fyller 30 år har SNK släppt en ny modell av stridsvagnen SV-001/I. Denna ikoniska maskin från de klassiska 2D-spelen blir nu återigen tillgänglig i skala 1/24. Modellen är cirka 12 centimeter hög när den är färdigbyggd. Om man som jag är lite rädd för att det ska bli klisterklibbigt när man bygger modeller kan man vara lugn. Detta kit sätter man ihop genom att klicka ihop delarna och plasten är redan färdigfärgad så man slipper även måla något. Detta är tredje gången modellen släpps så om man missade att köpa denna 2015 och 2017 kan man passa på nu när det är jubileum. Priset för modellen ligger på 325 kronor . L&auml;s vidare och kommentera: https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/ L&auml;s mer om Metal Slug , SNK , SV-001/I , arkadspel , modellbygge",
+      "link": "https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785567600000
+    },
+    {
+      "title": "Uppgörelse i uppmärksammat dopningsfall – Mychajlo Mudryk fri att spela igen",
+      "description": "Mychajlo Mudryk kan göra comeback i Chelsea när säsongen inleds om ett par veckor. Detta efter en uppgörelse kring ukrainarens dopningsfall.",
+      "link": "https://yle.fi/a/7-10102947?origin=rss",
+      "guid": "https://yle.fi/a/7-10102947",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785567086000
+    },
+    {
+      "title": "Kvinnorna bakom utställningen vid Mortes gårdsmuseum i Björkö",
+      "description": "Från brudklänningar till pappersbolster. Sommarjobbarna Lina Järv och Anna Skog visar kvinnors textilhantverk genom tiderna.",
+      "link": "https://yle.fi/a/7-10102881?origin=rss",
+      "guid": "https://yle.fi/a/7-10102881",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785566775000
+    },
+    {
+      "title": "Här bärgas båten efter olyckan utanför Tjörn",
+      "description": "Kustbevakningen har nu bärgat fritidsbåten vid Tjörn. Båten plockades upp natten mot lördagen, från 20 till 30 meters djup. – Vi har använt oss av undervattensfarkost, säger Pontus Ekström, vakthavande befäl på Kustbevakningen.",
+      "link": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
+      "guid": "https://www.expressen.se/nyheter/sverige/har-bargas-baten-efter-olyckan-utanfor-tjorn/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785566684000
+    },
+    {
+      "title": "Nya guldfynd: ”Unikt även internationellt”",
+      "description": "Området för Endomines guldfyndighet Ukko utökas nu till 650 meter efter nya borresultat. ”Resultaten tillhör de bästa i branschen”. Den kända utsträckningen av guldfyndigheten Ukko i Finland utökas nu till 650 meter efter nya borresultat. Endomines, som driver utvinningen, siktar på att ha den första uppskattningen av mineralresurserna klar under slutet av 2026 eller början […]",
+      "link": "https://www.dagensps.se/bors-finans/nya-guldfynd-unikt-aven-internationellt/",
+      "guid": "https://www.dagensps.se/?p=1660457",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/31973f05-afe1-42e3-983d-f5db2dbd3fa7-1-1.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785566538000
+    },
+    {
+      "title": "Nudelwok med het sojasås och jordnötter",
+      "description": "När nudlarna är kokta, alla grönsaker skurna i bitar och såsen ihoprörd går det snabbt att få maten klar på den heta muurikkan.",
+      "link": "https://alltommat.expressen.se/recept/nudelwok-med-het-sojasas-och-jordnotter/",
+      "guid": "https://alltommat.expressen.se/recept/nudelwok-med-het-sojasas-och-jordnotter/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785565980000
+    },
+    {
+      "title": "Så många har ansökt om könsbyte",
+      "description": "Nära 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft för drygt ett år sedan, rapporterar SVT.",
+      "link": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sa-manga-har-ansokt-om-konsbyte/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785565107000
+    },
+    {
+      "title": "Blueberry pie – drink med blåbärslikör",
+      "description": "Servera den här drinken i ditt favoritglas och toppa med nymortlad kardemumma. En given succé!",
+      "link": "https://alltommat.expressen.se/recept/blueberry-pie-drink-med-blabarslikor/",
+      "guid": "https://alltommat.expressen.se/recept/blueberry-pie-drink-med-blabarslikor/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785565080000
+    },
+    {
+      "title": "Dubbla straff för gängkriminella – trots kritik",
+      "description": "Från och med nu ska Sveriges domstolar döma ut dubbla straff för gängkriminella – trots hård kritik från flera instanser. Samtidigt blir ett 50-tal straffskalor hårdare.",
+      "link": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
+      "guid": "https://www.expressen.se/nyheter/politik/dubbla-straff-for-gangkriminella-trots-kritik/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785564829000
+    },
+    {
+      "title": "Mandelmusslor med grädde och blåbär",
+      "description": "Klassiska kakor som blir till små bakelser när de toppas med grädde och färska bär. Vill du så lägger du även en klick blåbärssylt i botten.",
+      "link": "https://alltommat.expressen.se/recept/mandelmusslor-med-gradde-och-blabar/",
+      "guid": "https://alltommat.expressen.se/recept/mandelmusslor-med-gradde-och-blabar/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785564240000
+    },
+    {
+      "title": "Första kyssen ser olika ut för alla, minns du din?",
+      "description": "Vad händer egentligen då man kysser någon för första gången? Vi frågade folk om deras minnen.",
+      "link": "https://yle.fi/a/7-10102172?origin=rss",
+      "guid": "https://yle.fi/a/7-10102172",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785564137000
+    },
+    {
+      "title": "Skärholmsborna bjuds in till musikfest",
+      "description": "Folk i Skärholmen bjuder in till Folk på Gården – gratis konserter utomhus under augusti 2026.",
+      "link": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
+      "guid": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
+      "image": "https://www.mitti.se/image-3.292472.300366.20260801063324.47aed28dba?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785564120000
+    },
+    {
+      "title": "Nu gäller EU-kravet på rätten att reparera",
+      "description": "Nya regler ska göra det lättare och billigare att laga trasig elektronik Nu har EU fått sitt nya direktiv som borde gynna oss europeiska konsumenter då initiativet om rätten att reparera nu har trätt i kraft. Tanken är att det ska leda till en mer hållbar ekonomi och minska berget av elektronikavfall. De nya reglerna innebär bland annat att tillverkare måste göra det enklare och billigare för privatpersoner att laga sina trasiga prylar. Företagen blir skyldiga att erbjuda reparationer till ett rimligt pris och inom en rimlig tidsram. Dessutom ska reparationsmanualer göras tillgängliga helt gratis, och priserna på reservdelar måste redovisas öppet. Som en extra morot för konsumenten förlängs produktens lagstadgade garantitid med ett år om man väljer att reparera den. I ett första skede omfattas bland annat smartphones, surfplattor, elcyklar och stora hushållsmaskiner som kylskåp och tvättmaskiner. Dammsugare ingår inte i just detta paket utan kommer att få ett eget regelverk längre fram. Trots att startskottet nu har gått kommer det troligen dröja några månader innan vi märker av de stora praktiska skillnaderna. Detta beror på att många medlemsländer fortfarande håller på att anpassa sin nationella lagstiftning efter direktivet. L&auml;s vidare och kommentera: https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/ L&auml;s mer om rätten att reparera , EU , elektronikavfall , smartphones , surfplattor , elcyklar , konsumenträtt",
+      "link": "https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785564000000
+    },
+    {
+      "title": "Sommarstugor i Stockholm snart en raritet",
+      "description": "Fritidshus i Stockholms län blir en bristvara när allt fler permanentas, få säljs och nästan inga nya byggs. Det pressar utbudet och kan driva upp priserna framöver.",
+      "link": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
+      "guid": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
+      "image": "https://www.mitti.se/image-3.373879.296842.20260801063024.a41c168132?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785564000000
+    },
+    {
+      "title": "Bookmakertoast tillagad på muurikka",
+      "description": "Bookmakertoast är en klassisk amerikansk macka med rejält med pålägg. Här lagar vi den utomhus och steker både bröd, kött, lök och tomater på muurikkan.",
+      "link": "https://alltommat.expressen.se/recept/bookmakertoast-tillagad-pa-muurikka/",
+      "guid": "https://alltommat.expressen.se/recept/bookmakertoast-tillagad-pa-muurikka/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785564000000
     },
     {
       "title": "Bubs-ägaren fyller på godispåsen – köper bolag",
@@ -22,16 +242,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785561607000
-    },
-    {
-      "title": "Planerar massiv bombning av Iran",
-      "description": "USA:s krig mot Iran väntas att trappa upp. Trump planerar tillsammans med Israel en massiv offensiv. Det kan bli den kraftigaste bombningen hittills, uppger flera källor till CBS News.",
-      "link": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
-      "guid": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785560795000
     },
     {
       "title": "Sträcker sig över nästan 200 000 kvadratkilometer – enorm människoskapad struktur under jorden vänder upp och ned på historien",
@@ -155,9 +365,9 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "NRJ flyttar – Vinyl FM slutar sända",
-      "description": "Efter tre decennier tystnar radiokanalen Vinyl FM – och NRJ tvingas till flytt. I bruset de kommande två veckorna kommer på den platsen i stället ”trailers och riktigt bra musik” höras.",
-      "link": "https://www.expressen.se/nyheter/sverige/nrj-flyttar-vinyl-fm-slutar-sanda-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/nrj-flyttar-vinyl-fm-slutar-sanda-/",
+      "description": "Efter tre decennier tystnar radiokanalen Vinyl FM. Richard Herrey, programledare på kanalen, är kritisk. ”Skandalöst”, skriver han på X. Samtidigt tvingas NRJ till frekvensbyte.",
+      "link": "https://www.expressen.se/noje/nrj-flyttar-vinyl-fm-slutar-sanda-/",
+      "guid": "https://www.expressen.se/noje/nrj-flyttar-vinyl-fm-slutar-sanda-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
@@ -244,36 +454,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785535200000
     },
     {
-      "title": "Trump beordrar nya attacker",
-      "description": "”Vi kommer slå mycket hårt”",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-beordrar-nya-attacker/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-beordrar-nya-attacker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785534958000
-    },
-    {
-      "title": "Space X–raket på väg att krocka med månen",
-      "description": "Driver mot månen i 8700 km/h • Forskarnas oro",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=62953813-2980-4731-aba9-ab2b41abe46f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62953813-2980-4731-aba9-ab2b41abe46f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785534819000
-    },
-    {
-      "title": "Jätteprotester i Kiev",
-      "description": "Kravet på Zelenskyj",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/tusentals-demonstranter-i-kiev",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/tusentals-demonstranter-i-kiev",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785533666000
-    },
-    {
       "title": "Everyday Carry: Brush",
       "description": "",
       "link": "https://uncrate.com/everyday-carry-brush/",
@@ -294,16 +474,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785530700000
     },
     {
-      "title": "Terroristens koppling till Sverige – jihadistsläkt",
-      "description": "Från Borås till Berlin – samma jihadistsläkt pekas ut för terrordåd på flera platser i Europa. Terroristen Abdul Rahman Ballout som pekas ut för attacken mot en prideparad i Berlin har kopplingar till en jihadistisk klan som finns också i Sverige, skriver 100.se. Fyra bröder från en familj i Borås ska ha dött i attacker i Syrien och Libanon.",
-      "link": "https://www.expressen.se/nyheter/varlden/terroristens-koppling-till-sverige-jihadistslakt/",
-      "guid": "https://www.expressen.se/nyheter/varlden/terroristens-koppling-till-sverige-jihadistslakt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785530615000
-    },
-    {
       "title": "Klaro 30 Caliber Smoke Can Humidor",
       "description": "",
       "link": "https://uncrate.com/klaro-30-caliber-smoke-can-humidor/",
@@ -312,26 +482,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785528000000
-    },
-    {
-      "title": "Det här vet vi om båtolyckan utanför Tjörn",
-      "description": "Befälhavaren är anhållen. Svarta lådan ska undersökas. Fartyget lämnar. Än är många frågor obesvarade efter båtolyckan utanför Tjörn där en mamma och hennes dotter dog. Det här har hänt.",
-      "link": "https://www.expressen.se/gt/det-har-vet-vi-om-batolyckan-utanfor-tjorn/",
-      "guid": "https://www.expressen.se/gt/det-har-vet-vi-om-batolyckan-utanfor-tjorn/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785527560000
-    },
-    {
-      "title": "Handelsfartyget lämnar olycksplatsen",
-      "description": "Misstänks för inblandning i båtolyckan vid Tjörn",
-      "link": "https://www.expressen.se/nyheter/sverige/handelsfartyget-lamnar-olycksplatsen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/handelsfartyget-lamnar-olycksplatsen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785526803000
     },
     {
       "title": "Ny analys: Åldern när unga svenskar kan gå i pension",
@@ -684,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785508165000
     },
     {
-      "title": "Flygpriserna går mot strömmen – resorna blir billigare",
-      "description": "Trots att många räknar med dyrare semestrar pekar ny statistik åt ett annat håll. Enligt Flygresor.se:s vd Mattias Nyman är flygpriserna i många fall billigare än för ett år sedan. På LinkedIn berättar Mattias Nyman att Flygresor.se sedan en tid tillbaka jämför priserna på resor upp till sex månader framåt med samma period året innan. […]",
-      "link": "https://www.dagensps.se/weekend/resor/flygpriserna-gar-mot-strommen-resorna-blir-billigare/",
-      "guid": "https://www.dagensps.se/?p=1660402",
-      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/07/namnlos-design-8.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785507538000
-    },
-    {
       "title": "Xbox presenterar ny strategi för tillväxt",
       "description": "Efter \"nollställningen\" Efter en period präglad av massuppsägningar och nedstängda spelstudior blickar Xbox nu framåt. The Verge rapporterar nämligen om ett internt meddelande från VD:n Asha Sharma där hon presenterade en ny strategi för att återföra företaget till tillväxt och lönsamhet. I meddelandet beskriver hon den senaste omstruktureringen som en nollställning och nu ska trenden vända. För att lyckas med detta har Sharma satt upp tydliga mål: till slutet av räkenskapsåret 2027 ska Xbox återigen öka sina intäkter och nå en vinstmarginal som ligger i linje med resten av spelbranschen. Enligt Sharma krävs förändringarna för att möta utmaningar som stigande hårdvarukostnader och en teknisk infrastruktur som inte längre håller måttet Den nya strategin vilar på fyra huvudpelare: Att stärka Xbox-konsolens position som kärnan i ekosystemet. Att förvandla framgångsrika titlar till globala varumärken. Att vidareutveckla Minecraft till världens ledande plattform för kreatörer. Att expandera de spelvärldar som spelarna redan älskar. Det återstår väl att se om divisionen lyckas med detta, men kör i vind säger jag! L&auml;s vidare och kommentera: https://feber.se/spel/xbox-presenterar-ny-strategi-for-tillvaxt/494616/ L&auml;s mer om Xbox , Asha Sharma , Minecraft , The Verge , Spelbranschen , spelstudior",
       "link": "https://feber.se/spel/xbox-presenterar-ny-strategi-for-tillvaxt/494616/?utm_source=rss&utm_medium=feed",
@@ -714,16 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785506339000
     },
     {
-      "title": "Apple rasar på Wall Street",
-      "description": "Apple rasar kraftigt på New York-börsen efter gårdagens delårsrapport. I den inledande handeln är aktien ned 9 procent efter att bolaget varnat för en betydande komponentsbrist. Detta ska i sin tur påverka en i övrigt stark efterfrågan på företagets produkter som till exempel Iphone. Kursfallet är bolagets största sedan april 2025. Apple rasar kraftigt på […]",
-      "link": "https://www.dagensps.se/varlden/apple-rasar-pa-wall-street/",
-      "guid": "https://www.dagensps.se/?p=1660398",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/new-york-borserna-har-oppnat-arkivbild.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785506319000
-    },
-    {
       "title": "Uppgifter: Fifa studerar effekter av utökat VM 2030 – beslut kan fattas redan i augusti",
       "description": "Fotbolls-VM kan växa från 48 till 64 lag redan till 2030. Fifa har inlett en konsultationsprocess för att undersöka hur 64 lag skulle påverka fotbollens ekosystem.",
       "link": "https://yle.fi/a/7-10102937?origin=rss",
@@ -734,16 +864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785506095000
     },
     {
-      "title": "Kampen om Lojo bb fortsätter: Nu ansöker kommuner om besvärstillstånd i HFD",
-      "description": "Sjundeå, Ingå, Lojo och Hangö kommer att begära besvärstillstånd i Högsta förvaltningsdomstolen angående Lojo bb.",
-      "link": "https://yle.fi/a/7-10102924?origin=rss",
-      "guid": "https://yle.fi/a/7-10102924",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785505298000
-    },
-    {
       "title": "Razer släpper tangentbordet Huntsman V3 HE",
       "description": "Med magnetiska brytare Razer släpper nu Huntsman V3 HE Magnetic 8KHz, ett tangentbord med magnetiska Hall Effect-brytare, 8000 Hz polling och fokus på låg latens. Det kommer i två formfaktorer: Tenkeyless och en kompakt Mini 65%, båda med nordisk layout. Brytarna är Razers nya Hall Effect Magnetic Switches och man kan justera aktiveringspunkten mellan 0,1 och 4,0 mm. Tangenborden ska vara snabba, 8000 Hz HyperPolling och 0,1 mm ska enligt Razer ge en latens på 0,6 ms, vilket ska vara 8 procent snabbare än den bästa konkurrenten. Brytarna ska förresten klara 100 miljoner nedslag. En kul grej är att man kan mappa olika saker på ned och upptryck. Man kan lägga fyra olika funktioner på en tangent, som avfyras beroende på om det är ned eller upptryck och hur långt ner man trycker. Tangentbordet fungerar både med Razer Synapse på PC, men också stöd för Synapse Web, så att du slipper installera något. Prislappen ligger på 1699 kronor för Tenkeyless och 1499 kronor för Mini 65%. L&auml;s vidare och kommentera: https://feber.se/pc/razer-slapper-tangentbordet-huntsman-v3-he/494614/ L&auml;s mer om Razer , Hall Effect , Razer Synapse , Huntsman V3 HE Magnetic 8KHz , 8KHz polling",
       "link": "https://feber.se/pc/razer-slapper-tangentbordet-huntsman-v3-he/494614/?utm_source=rss&utm_medium=feed",
@@ -752,26 +872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785504600000
-    },
-    {
-      "title": "Är José, 119, äldst i världen? Forskare försöker verifiera",
-      "description": "119-årige José från Costa Rica kan vara världens äldsta levande person. Nu arbetar en internationell expertgrupp med att verifiera åldern. José Flores Flores uppges ha fötts den 11 juli 1907 i provinsen Guanacaste, enligt Costa Ricas folkbokföring. Om uppgifterna bekräftas skulle han vara drygt två år äldre än den nuvarande officiellt äldsta levande personen, brittiskan […]",
-      "link": "https://www.dagensps.se/life-science/ar-jose-119-aldst-i-varlden-forskare-forsoker-verifiera/",
-      "guid": "https://www.dagensps.se/?p=1660394",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/jose.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785504466000
-    },
-    {
-      "title": "Fem ungdomar misstänks för att ha stulit utombordsmotorer i Åbolands skärgård",
-      "description": "De misstänktas unga ålder och rena straffregister gör fallet exceptionellt, enligt polisen.",
-      "link": "https://yle.fi/a/7-10102933?origin=rss",
-      "guid": "https://yle.fi/a/7-10102933",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785503753000
     },
     {
       "title": "Smaka på Upplands-Bro tillbaka för fjärde året i rad",
@@ -802,26 +902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785501000000
-    },
-    {
-      "title": "LU: Varg dödade fem får i Karislojo",
-      "description": "Fåren hann bara vara ute i hagen i någon timme före attacken, skriver Länsi-Uusimaa. Enligt fåruppfödaren var djurens sammanlagda värde tusentals euro.",
-      "link": "https://yle.fi/a/7-10102930?origin=rss",
-      "guid": "https://yle.fi/a/7-10102930",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785500647000
-    },
-    {
-      "title": "Lotta Harala avslutar karriären efter den här säsongen",
-      "description": "Lotta Harala kommer att lämna friidrottsarenorna efter den här säsongen. EM i Birmingham i augusti blir hennes sista stora mästerskap.",
-      "link": "https://yle.fi/a/7-10102931?origin=rss",
-      "guid": "https://yle.fi/a/7-10102931",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785500507000
     },
     {
       "title": "HTV: Sammandrag | Anderlecht 3-1 Hammarby",
@@ -1232,26 +1312,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785442947000
-    },
-    {
-      "title": "Har du problem med alkoholen?",
-      "description": "Dagens fråga Tidigare idag berättade vi om en undersökning som visat på trevlig resultat för de som dricker alldeles för mycket. Semaglutid i tablettform har helt enkelt visat att suget efter alkohol minskar och man dricker mindre, vare sig man vill det inte eller inte. Men hur står det till med ditt drickande? L&auml;s vidare och kommentera: https://feber.se/har-du-problem-med-alkoholen/494586/ L&auml;s mer om Semaglutid , tabletter , alkohol , hälsa , Alkoholberoende , läkemedelsforskning",
-      "link": "https://feber.se/har-du-problem-med-alkoholen/494586/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/har-du-problem-med-alkoholen/494586/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785438000000
-    },
-    {
-      "title": "Han slog banrekordet med bisarra bilen!",
-      "description": "\"Det är oändligt med grepp!\" När man vill köra fort med bil måste man ha en rejäl motor, rejäla bromsar och massor med grepp. Det senare ordnar McMurtry Spéirling PURE genom att fläktar helt enkelt suger fast bilen i marken. Bisarrt men effektivt. Marcus Berggren är en trevlig typ som fått känna på bilen. Först fick han åka till McMurtrys fabrik i Bristol för att prova ut kläder och få en stol formad efter sin kropp. Sedan begav han sig till Padborg Park i Danmark för att köra bilen. Redan efter första körningen fick han en bra tid och var överväldigad. – Det är det sjukaste jag har varit med om! Jag frågade om det verkligen var så sjukt, många bilar är ju väldigt snabba idag. Men enligt Marcus är det verkligen något helt annat, han blev helt chockad över hur snabbt det gick att köra bilen. Redan på andra körningen satte Marcus ett nytt banrekord, snabbare än både det officiella banrekordet som satts av en Porsche 911 GT3 R och det inofficiella som satts av en Formel 1-bil. Dessutom blev han snabbare än en dansk journalist på plats, och det ska han hedras för. L&auml;s vidare och kommentera: https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/ L&auml;s mer om Marcus Berggren , McMurtry Spéirling PURE , Padborg Park , Porsche 911 GT3 R , banrekord , Bristol",
-      "link": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/han-slog-banrekordet-med-bisarra-bilen/494593/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785437400000
     },
     {
       "title": "Startelvan i bortamötet med Anderlecht",
@@ -2264,16 +2324,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785212288000
     },
     {
-      "title": "Test av frysta vitlöksbaguetter – två vinnare",
-      "description": "Vitlöksbaguetter passar perfekt till middagen, kräftskivan eller grillkvällen. Orkar du inte baka egna finns flera färdiga varianter att välja på i frysdisken. Vi har testat åtta sorter varav några var riktigt goda medan andra lämnade en hel del övrigt att önska. Här hittar du betyg och omdömen på samtliga!",
-      "link": "https://alltommat.expressen.se/artiklar/test/test-av-frysta-vitloksbaguetter-tva-vinnare/",
-      "guid": "https://alltommat.expressen.se/artiklar/test/test-av-frysta-vitloksbaguetter-tva-vinnare/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785207600000
-    },
-    {
       "title": "A single sauna session sends immune cells surging",
       "description": "A single 30-minute sauna session may briefly put the immune system on higher alert. Finnish researchers found that sauna heat, paired with a short cold shower, increased every type of white blood cell circulating in the bloodstream, including key infection fighters such as neutrophils and lymphocytes.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012141.htm",
@@ -2434,16 +2484,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785147845000
     },
     {
-      "title": "Linssallad med morotsblastpesto",
-      "description": "Ta vara på hela moroten! Blasten blir superkrispig när den ugnsrostas och peston får en härligt frisk smak av blast, basilika och citron.",
-      "link": "https://alltommat.expressen.se/recept/linssallad-med-morotsblastpesto/",
-      "guid": "https://alltommat.expressen.se/recept/linssallad-med-morotsblastpesto/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785145829000
-    },
-    {
       "title": "Sjuk under resan? Så undviker du att ruinera dig utomlands",
       "description": "SÅ undviker du höga kostnader om du blir sjuk på utlandsresan.",
       "link": "https://www.mitti.se/nyheter/sjuk-under-resan-sa-undviker-du-att-ruinera-dig-utomlands-6.3.372668.94a8d634eb",
@@ -2494,16 +2534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785139613000
     },
     {
-      "title": "Blåbärsglass med Biscoffkex",
-      "description": "Snabb och lätt att göra. Om du vill ha den glutenfri kan du så klart göra den utan kexen eller använda glutenfria kex. Servera gärna lite kall punsch till.",
-      "link": "https://alltommat.expressen.se/recept/blabarsglass-med-biscoffkex/",
-      "guid": "https://alltommat.expressen.se/recept/blabarsglass-med-biscoffkex/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785139428000
-    },
-    {
       "title": "Alltid redo! Fler hundra scouter tog tåget från stan",
       "description": "Tusentals scouter åker på lördagen 25 juni ner till scoutlägret Jamboree 2026 som pågår i Kristianstad i Skåne fram till 1 augusti.",
       "link": "https://www.mitti.se/nyheter/alltid-redo-fler-hundra-scouter-tog-taget-fran-stan-6.3.376856.f5e1a95fb3",
@@ -2522,16 +2552,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785133857000
-    },
-    {
-      "title": "Spagetti med pistaschpesto och grönsaker",
-      "description": "En grön, nötig pasta där spagettin kokar färdigt tillsammans med tunt skivade grönsaker sista minuterna. Mindre disk, mer smak och en krämig pistaschpesto som binder ihop allt.",
-      "link": "https://alltommat.expressen.se/recept/spagetti-med-pistaschpesto-och-gronsaker/",
-      "guid": "https://alltommat.expressen.se/recept/spagetti-med-pistaschpesto-och-gronsaker/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785128760000
     },
     {
       "title": "Fiskkassar från stenåldern har hittats högt uppe i de norska fjällen: ”En form av enkel fiskodling”",
