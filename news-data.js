@@ -1,8 +1,108 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-01T18:53:05.876Z",
+  "updatedAt": "2026-08-01T21:43:17.389Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Ukraina: Vi har sänkt ryskt fartyg",
+      "description": "Ett ryskflaggat sanktionerat containerfartyg har sänkts av Ukraina. Det skriver president Zelenskyj på X .",
+      "link": "https://www.expressen.se/nyheter/varlden/ukraina-vi-har-sankt-ryskt-fartyg/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ukraina-vi-har-sankt-ryskt-fartyg/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785617878000
+    },
+    {
+      "title": "Vd:n talar ut efter attackerna – förnekar koppling till ryska armén",
+      "description": "Attackerna mot den ryska e-handelsjätten har lett till miljarder i förluster. Wildberries vd:n förnekar att de samarbetar med den ryska militären. – I snart två veckor har vårt företags lager varit utsatta för terrorattacker. Varför just våra lager?, säger Tatiana Kim, enligt Kyiv Independent.",
+      "link": "https://www.expressen.se/nyheter/varlden/vdn-talar-ut-efter-attackerna-fornekar-koppling-till-ryska-armen-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/vdn-talar-ut-efter-attackerna-fornekar-koppling-till-ryska-armen-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785617322000
+    },
+    {
+      "title": "Otroligt skeppsvrak undersökt i Östersjön: Lasten bestod av champagne beställd till den ryska tsaren",
+      "description": "Det imponerande skeppsvraket vittnar om en omfattande mängd lyxvaror som skickades från Europa till den ryske tsaren Alexander II i kölvattnet av det blodiga Krimkriget.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/otroligt-skeppsvrak-undersokt-i-ostersjon-lasten-bestod-av-champagne-bestalld-till-den-ryska-tsaren",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/otroligt-skeppsvrak-undersokt-i-ostersjon-lasten-bestod-av-champagne-bestalld-till-den-ryska-tsaren",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785616236000
+    },
+    {
+      "title": "Tre döda i explosion på restaurang i Moskva",
+      "description": "Tre personer har dött och 15 skadats i en explosion i centrala Moskva.",
+      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785615498000
+    },
+    {
+      "title": "Stockholms första Kinarestaurang stänger efter 63 år",
+      "description": "Restaurang Hong Kong på Kungsholmen stänger den 1 oktober efter 63 år. Familjen Ng tackar stammisarna efter decennier av autentisk kinesisk mat i Stockholm.",
+      "link": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
+      "guid": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
+      "image": "https://www.mitti.se/image-3.377232.301355.20260801202005.d73c4f9776?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785615308000
+    },
+    {
+      "title": "Tragedi på turistort – pappan vill begrava 2-åring",
+      "description": "Den förtvivlade pappan vädjade till domaren: Låt mig få åka hem till min lille sons begravning. Men domaren i turistorten Paphos på Cypern var stenhård – och sa att mannen som misstänks ha vållat pojkens död måste vänta på besked. Pappan, en känd brittisk revisor, tappade sin tvååring från hotellfönstret på fjärde våningen.",
+      "link": "https://www.expressen.se/nyheter/varlden/tragedi-pa-turistort-pappan-vill-begrava-2-aring/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tragedi-pa-turistort-pappan-vill-begrava-2-aring/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785615031000
+    },
+    {
+      "title": "Lotta Kemppinen sprang säsongsbästa i Borgå – nytt rekord av Neziri",
+      "description": "Lotta Kemppinen och Nooralotta Neziri visade prov på fin form inför EM. Löparna sprang säsongsbästa respektive personbästa i Borgå.",
+      "link": "https://yle.fi/a/7-10102965?origin=rss",
+      "guid": "https://yle.fi/a/7-10102965",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785614126000
+    },
+    {
+      "title": "13 döda i flygkrasch",
+      "description": "Alla 13 ombord omkom när ett mindre flygplan med turister störtade i södra Peru på lördagen. Av de döda är elva passagerare och två piloter. Planet kraschade när det flög över en populär turistattraktion.",
+      "link": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
+      "guid": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785614119000
+    },
+    {
+      "title": "Tre döda i explosion i Moskva",
+      "description": "Explosionen inträffade vid åttatiden på kvällen lokal tid.",
+      "link": "https://yle.fi/a/7-10102964?origin=rss",
+      "guid": "https://yle.fi/a/7-10102964",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785613194000
+    },
+    {
+      "title": "Barres chock – rovfågel föll ned",
+      "description": "Oväntade situationen • Inledde räddningsinsats",
+      "link": "https://www.expressen.se/tv/nyheter/fageln-foll-fran-ingenstans-berra-kom-till-undsattning-",
+      "guid": "https://www.expressen.se/tv/nyheter/fageln-foll-fran-ingenstans-berra-kom-till-undsattning-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785612689000
+    },
     {
       "title": "Experter varnar: Dödligt virus kan löpa amok på bara ett par veckor",
       "description": "Den extremt dödliga fågelinfluensan har på senare år spridit sig till däggdjur runt om i världen. Nu befarar forskare det värsta: En epidemi bland människor. En ny banbrytande studie förstärker oron.",
@@ -12,6 +112,56 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785612607000
+    },
+    {
+      "title": "Försvarsindustri hotad av skogsbrand",
+      "description": "Flera vapenfabriker ligger nära det område i Frankrike där skogsbrand nu rasar. En av dem tillverkar kärnvapenbärande robotar. Flera fabriker för tillverkning av vapen ligger nära det område i Frankrike som just nu härjas av stora skogsbränder. Därmed hotas delar av den franska försvarsindustrin. Hotet ses som extra allvarligt, eftersom en av fabrikerna tillverkar kärnvapenbärande […]",
+      "link": "https://www.dagensps.se/varlden/forsvarsindustri-hotad-av-skogsbrand/",
+      "guid": "https://www.dagensps.se/?p=1660527",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlhjb-ihxlmys-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785611958000
+    },
+    {
+      "title": "KuPS drygar ut ledningen i fotbollsligan – besegrade Gnistan med 1–0 på bortaplan",
+      "description": "I herrarnas fotbollsliga spelades tre matcher under lördagen. TPS, FC Lahti och KuPS kammade hem full pott.",
+      "link": "https://yle.fi/a/7-10102963?origin=rss",
+      "guid": "https://yle.fi/a/7-10102963",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785611331000
+    },
+    {
+      "title": "Blixt slog ner vid camping – Viktoria fick ström genom kroppen",
+      "description": "Campinglugnet i Bjurholm utanför Umeå förvandlades till dramatik när en blixt slog ner intill familjen Edlunds husvagn. Plötsligt kände Viktoria Edlund hur hon fick ström genom kroppen, vilket VK var först med att rapportera. – Det var väldigt, väldigt obehagligt, säger Viktoria.",
+      "link": "https://www.expressen.se/nyheter/sverige/blixt-slog-ner-vid-camping-viktoria-fick-strom-genom-kroppen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/blixt-slog-ner-vid-camping-viktoria-fick-strom-genom-kroppen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785610938000
+    },
+    {
+      "title": "Se bilderna: Grönlands inuiter är det iskalla nords betvingare",
+      "description": "Donald Trump vill köpa Grönland, men både i Nuuk och Köpenhamn har kravet avvisats. Landets invånare ska själva bestämma över sin framtid, lyder det. Grönländarna har överlevt i nästan 1 000 år i ett av världens tuffaste klimat – här får du en inblick i hur det har gått till.",
+      "link": "https://varldenshistoria.se/samhalle/vardagsliv/gronlands-inuiter-ar-det-iskalla-nords-betvingare",
+      "guid": "https://varldenshistoria.se/samhalle/vardagsliv/gronlands-inuiter-ar-det-iskalla-nords-betvingare",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785610810000
+    },
+    {
+      "title": "Bildextra: Kolla in Stockholms prideparad 2026",
+      "description": "- Jag är jätteglad! säger festivalarrangören Måns Axelsson som uppskattar att 50 000 gick i paraden och att en halv miljon såg på.",
+      "link": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
+      "guid": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
+      "image": "https://www.mitti.se/image-3.377430.301444.20260801193050.f59b8677e4?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785610763000
     },
     {
       "title": "Finland: ”Nu börjar det se jäkligt bra ut”",
@@ -24,16 +174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785610013000
     },
     {
-      "title": "Bildextra: Kolla in Stockholms prideparad 2026",
-      "description": "- Jag är jätteglad! säger festivalarrangören Måns Axelsson som uppskattar att 50 000 gick i paraden och att en halv miljon såg på.",
-      "link": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
-      "guid": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
-      "image": "https://www.mitti.se/image-3.377430.301444.20260801184441.6bb0c38e95?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785609880000
-    },
-    {
       "title": "Expert om kritiken mot isbrytarköp: Finland fick affären på egna meriter",
       "description": "Det är en alldeles bra deal för amerikanerna, anser en finländsk expert på marin- och arktisk teknologi.",
       "link": "https://yle.fi/a/7-10102962?origin=rss",
@@ -44,24 +184,24 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785609879000
     },
     {
-      "title": "Tre döda i explosion på kafé i Moskva",
-      "description": "Flera döda",
-      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785609484000
-    },
-    {
       "title": "Rysk Onlyfans-stjärna döms i Putins porrkrig – förbjuds från internet",
-      "description": "Den 21-åriga ryska modellen Sofya Vershinia döms i Moskva för att ha skapat och spridit pornografiskt innehåll. Hon slipper fängelse – men får villkorlig dom, böter och internetförbud i tre år. Fallet är ett av flera i Putins razzia mot porrindustrin.",
+      "description": "Den 21-åriga ryska modellen Sofya Vershinina döms i Moskva för att ha skapat och spridit pornografiskt innehåll. Hon slipper fängelse – men får villkorlig dom, böter och internetförbud i tre år. Fallet är ett av flera i Putins razzia mot porrindustrin.",
       "link": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
       "guid": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785608097000
+    },
+    {
+      "title": "Tre döda i explosion på kafé i Moskva",
+      "description": "Flera döda",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d077fc84-61d6-48dd-a0e8-485b3cfd0a6f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d077fc84-61d6-48dd-a0e8-485b3cfd0a6f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785608066000
     },
     {
       "title": "Olof K Gustafsson döms till fyra års fängelse",
@@ -74,7 +214,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785607465000
     },
     {
-      "title": "Man och kvinna misshandlade – man gripen",
+      "title": "Man och kvinna skadade – man gripen",
       "description": "En man och en kvinna har skadats av okända gärningsmän i centrala Göteborg. En man har gripits.",
       "link": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
       "guid": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
@@ -168,7 +308,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Yngve Nordmark visar sin vattentrappa i Sätuna på trädgårdsvisningen Tusen trädgårdar 28 juni 2026.",
       "link": "https://www.mitti.se/nyheter/yngve-om-skrotbygget-kul-nar-alla-pumpar-ar-igang-6.3.371980.4569e53474",
       "guid": "https://www.mitti.se/nyheter/yngve-om-skrotbygget-kul-nar-alla-pumpar-ar-igang-6.3.371980.4569e53474",
-      "image": "https://www.mitti.se/image-3.375166.298291.20260801164544.a0521f2643?format=jpeg",
+      "image": "https://www.mitti.se/image-3.375166.298291.20260801200317.24e3568d0d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785600900000
@@ -202,16 +342,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785599497000
-    },
-    {
-      "title": "Uppgifter: Man till attack med järnrör",
-      "description": "En person gripen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5089e982-cb7e-4336-a458-248a0c746c13",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5089e982-cb7e-4336-a458-248a0c746c13",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785598441000
     },
     {
       "title": "Abdulahdi försökte ta sig till EU via Ceuta",
@@ -264,16 +394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785595779000
     },
     {
-      "title": "Posener träder fram efter nästan tre decennier på flykt",
-      "description": "I nästan 30 år höll han sig gömd. Nu träder Joachim Posener från Trustorhärvan fram. I en ny Netflixdokumentär berättar han om flykten – och sin utseendeförändring. – Var det värt att inte sitta i fängelse i tio år till? Absolut, säger han enligt DN .",
-      "link": "https://www.expressen.se/noje/posener-trader-fram-efter-nastan-tre-decennier-pa-flykt-/",
-      "guid": "https://www.expressen.se/noje/posener-trader-fram-efter-nastan-tre-decennier-pa-flykt-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785593174000
-    },
-    {
       "title": "Efter 20 år flyttade Maj-Len Drockila tillbaka till familjegården: ”Jag vill att min dotter ska växa upp här”",
       "description": "Maj-Len Drockila, 38, lämnade Pyttis som ung. Nu är hon tillbaka på gården, jobbar på kulturhuset som satt byn på kartan och vill föra svenskan vidare på orten.",
       "link": "https://yle.fi/a/7-10099021?origin=rss",
@@ -302,16 +422,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785592727000
-    },
-    {
-      "title": "Kaptenen i båtolyckan begärd häktad",
-      "description": "Flyktrisk för kaptenen för olycksfartyget",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bbf9c738-bd66-48d6-a1e8-d4b623193b97",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bbf9c738-bd66-48d6-a1e8-d4b623193b97",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785592116000
     },
     {
       "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
@@ -354,16 +464,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785590268000
     },
     {
-      "title": "Ilskan efter ryska attacken: ”Inget intresse av fred”",
-      "description": "Utrikesminister Maria Malmer Stenergard (M) rasar mot Ryssland efter nattens angrepp mot Kiev. Där skadades bland annat den litauiska ambassaden i staden. – En ny hemsk attack, säger hon i en kommentar.",
-      "link": "https://www.expressen.se/nyheter/varlden/ilskan-efter-ryska-attacken-inget-intresse-av-fred/",
-      "guid": "https://www.expressen.se/nyheter/varlden/ilskan-efter-ryska-attacken-inget-intresse-av-fred/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785590097000
-    },
-    {
       "title": "Ant brains reveal how evolution turned hunger into parenting",
       "description": "Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very different animals.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
@@ -394,16 +494,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785588427000
     },
     {
-      "title": "Brand vid tågspår – stopp i trafiken",
-      "description": "Stopp i trafiken • ”Får inte gå några tåg”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=79c45bd7-d19f-40a0-9d5b-c8476cf68842",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=79c45bd7-d19f-40a0-9d5b-c8476cf68842",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785587845000
-    },
-    {
       "title": "Eating one avocado a day may lower heart disease risk",
       "description": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
@@ -412,16 +502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785587757000
-    },
-    {
-      "title": "Prideparaden i Stockholm: ”Betyder jättemycket”",
-      "description": "Över 50 000 personer väntas delta",
-      "link": "https://www.expressen.se/tv/nyheter/nu-gar-prideparaden-genom-stockholm-betyder-jattemycket/",
-      "guid": "https://www.expressen.se/tv/nyheter/nu-gar-prideparaden-genom-stockholm-betyder-jattemycket/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785587401000
     },
     {
       "title": "Scientists may have found a way to prevent statin muscle pain",
@@ -578,13 +658,13 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Stockholmsregionen har stor brist på spermadonatorer och måste importera från Danmark. Det innebär höga kostnader & juridiska problem.",
       "link": "https://www.mitti.se/nyheter/brist-pa-spermier--maste-kopa-fran-danmark-6.3.370146.ebb2e5d7b6",
       "guid": "https://www.mitti.se/nyheter/brist-pa-spermier--maste-kopa-fran-danmark-6.3.370146.ebb2e5d7b6",
-      "image": "https://www.mitti.se/image-3.374556.297114.20260801103031.3a2d5b5004?format=jpeg",
+      "image": "https://www.mitti.se/image-3.374556.297114.20260801202040.da5e180629?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785578400000
     },
     {
-      "title": "EU:s inrikesministrar ska diskutera migrantintrånget i Ceuta på tisdagen",
+      "title": "EU:s inrikesministrar ska diskutera migrantintrånget i Ceuta på tisdag",
       "description": "Ungefär 60 000 migranter tog sig över gränsen till den spanska enklaven på fredagen. Majoriteten har återvänt till Marocko.",
       "link": "https://yle.fi/a/7-10102950?origin=rss",
       "guid": "https://yle.fi/a/7-10102950",
@@ -704,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785572933000
     },
     {
-      "title": "Jordens lägsta temperatur på över ett decennium",
-      "description": "Jorden har uppmätt sin lägsta temperatur på över ett decennium. I Antarktis sjönk kvicksilvret till hisnande minus 84,1 grader. Europa och Nordamerika har rekordtemperaturer och plågas av skogsbränder. Samtidigt noterades den lägsta temperaturen på jorden på över ett decennium i Antarktis. Vid forskningsstationen Concordia sjönk temperaturen till hisnande minus 84,1 grader. Den extrema kylan registrerades […]",
-      "link": "https://www.dagensps.se/varlden/klimat/jordens-lagsta-temperatur-pa-over-ett-decennium/",
-      "guid": "https://www.dagensps.se/?p=1660484",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/antarktis.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785572419000
-    },
-    {
       "title": "Winamp gör comeback med Deezer",
       "description": "Ny version ska förena lokal musik med streaming Den legendariska musikspelaren Winamp gör ett nytt försök att erövra musikvärlden då man under nästa år planerar att lansera en helt ny version av spelaren som ska förena nostalgi med modern teknik. Den stora grejen med detta är ett samarbete med den franska streamingjätten Deezer. Visionen för det nya Winamp är att skapa en \"allt-i-ett-lösning\" där man då ska kunna blanda sina lokala musikfiler med streaming från Deezers katalog, poddar och internetradio i samma gränssnitt. Målet är att ge lyssnaren mer kontroll och en mer personlig upplevelse än vad dagens algoritmdrivna tjänster erbjuder. Lite halvt oväntat så har Winamp fortfarande omkring 40 miljoner trogna användare så kanske kan detta glädja dem eller så blir det bara shitification av det hela och leder till att fler lämnar nostalgin bakom sig. L&auml;s vidare och kommentera: https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/ L&auml;s mer om Winamp , Deezer , musikspelare , streaming , poddar , internetradio , musikstreaming",
       "link": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
@@ -742,26 +812,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785567600000
-    },
-    {
-      "title": "Uppgörelse i uppmärksammat dopningsfall – Mychajlo Mudryk fri att spela igen",
-      "description": "Mychajlo Mudryk kan göra comeback i Chelsea när säsongen inleds om ett par veckor. Detta efter en uppgörelse kring ukrainarens dopningsfall.",
-      "link": "https://yle.fi/a/7-10102947?origin=rss",
-      "guid": "https://yle.fi/a/7-10102947",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785567086000
-    },
-    {
-      "title": "Kvinnorna bakom utställningen vid Mortes gårdsmuseum i Björkö",
-      "description": "Från brudklänningar till pappersbolster. Sommarjobbarna Lina Järv och Anna Skog visar kvinnors textilhantverk genom tiderna.",
-      "link": "https://yle.fi/a/7-10102881?origin=rss",
-      "guid": "https://yle.fi/a/7-10102881",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785566775000
     },
     {
       "title": "Superheated magma may power towering lava fountains",
@@ -804,26 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785564240000
     },
     {
-      "title": "Första kyssen ser olika ut för alla, minns du din?",
-      "description": "Vad händer egentligen då man kysser någon för första gången? Vi frågade folk om deras minnen.",
-      "link": "https://yle.fi/a/7-10102172?origin=rss",
-      "guid": "https://yle.fi/a/7-10102172",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785564137000
-    },
-    {
-      "title": "Skärholmsborna bjuds in till musikfest",
-      "description": "Folk i Skärholmen bjuder in till Folk på Gården – gratis konserter utomhus under augusti 2026.",
-      "link": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
-      "guid": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
-      "image": "https://www.mitti.se/image-3.292472.300366.20260801063324.47aed28dba?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785564120000
-    },
-    {
       "title": "Nu gäller EU-kravet på rätten att reparera",
       "description": "Nya regler ska göra det lättare och billigare att laga trasig elektronik Nu har EU fått sitt nya direktiv som borde gynna oss europeiska konsumenter då initiativet om rätten att reparera nu har trätt i kraft. Tanken är att det ska leda till en mer hållbar ekonomi och minska berget av elektronikavfall. De nya reglerna innebär bland annat att tillverkare måste göra det enklare och billigare för privatpersoner att laga sina trasiga prylar. Företagen blir skyldiga att erbjuda reparationer till ett rimligt pris och inom en rimlig tidsram. Dessutom ska reparationsmanualer göras tillgängliga helt gratis, och priserna på reservdelar måste redovisas öppet. Som en extra morot för konsumenten förlängs produktens lagstadgade garantitid med ett år om man väljer att reparera den. I ett första skede omfattas bland annat smartphones, surfplattor, elcyklar och stora hushållsmaskiner som kylskåp och tvättmaskiner. Dammsugare ingår inte i just detta paket utan kommer att få ett eget regelverk längre fram. Trots att startskottet nu har gått kommer det troligen dröja några månader innan vi märker av de stora praktiska skillnaderna. Detta beror på att många medlemsländer fortfarande håller på att anpassa sin nationella lagstiftning efter direktivet. L&auml;s vidare och kommentera: https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/ L&auml;s mer om rätten att reparera , EU , elektronikavfall , smartphones , surfplattor , elcyklar , konsumenträtt",
       "link": "https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/?utm_source=rss&utm_medium=feed",
@@ -831,16 +861,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785564000000
-    },
-    {
-      "title": "Sommarstugor i Stockholm snart en raritet",
-      "description": "Fritidshus i Stockholms län blir en bristvara när allt fler permanentas, få säljs och nästan inga nya byggs. Det pressar utbudet och kan driva upp priserna framöver.",
-      "link": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
-      "guid": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
-      "image": "https://www.mitti.se/image-3.373879.296842.20260801063024.a41c168132?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785564000000
     },
     {
@@ -864,21 +884,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785560447000
     },
     {
-      "title": "Stockholms första Kinarestaurang stänger efter 63 år",
-      "description": "Restaurang Hong Kong på Kungsholmen stänger den 1 oktober efter 63 år. Familjen Ng tackar stammisarna efter decennier av autentisk kinesisk mat i Stockholm.",
-      "link": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
-      "guid": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
-      "image": "https://www.mitti.se/image-3.377232.301355.20260801184604.cdab0ee681?format=jpeg",
+      "title": "Sommarstugor i Stockholm snart en raritet",
+      "description": "Fritidshus i Stockholms län blir en bristvara när allt fler permanentas, få säljs och nästan inga nya byggs. Det pressar utbudet och kan driva upp priserna framöver.",
+      "link": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
+      "guid": "https://www.mitti.se/nyheter/sommarstugor-i-stockholm-snart-en-raritet-6.3.367670.1d9ef2b49c",
+      "image": "https://www.mitti.se/image-3.373879.296842.20260801201749.71b72cbb49?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785560400000
+      "timestamp": 1785558600000
     },
     {
       "title": "Sex år efter dödsskjutningen mot Adriana – blomstertåg genom Norsborg",
       "description": "Den 2 augusti samlas invånare i Norsborg för Blomtåget – en manifestation med vita rosor, tal och minnesstund till minne av Adriana och som en enad markering mot våldet.",
       "link": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
       "guid": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
-      "image": "https://www.mitti.se/image-3.377274.301403.20260801165744.1d53e5e503?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377274.301403.20260801201502.6c26ded1d3?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785558300000
@@ -2524,6 +2544,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785219684000
     },
     {
+      "title": "Skärholmsborna bjuds in till musikfest",
+      "description": "Folk i Skärholmen bjuder in till Folk på Gården – gratis konserter utomhus under augusti 2026.",
+      "link": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
+      "guid": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
+      "image": "https://www.mitti.se/image-3.292472.300366.20260801201341.500c87a756?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785218520000
+    },
+    {
       "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
       "description": "NASA’s Swift Observatory observed a supermassive black hole ripping apart a star more than 30,000 light-years from the center of a distant galaxy. The extraordinary flare briefly outshone its entire host galaxy in ultraviolet light and revealed a black hole about a million times the Sun’s mass.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
@@ -2614,16 +2644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785169560000
     },
     {
-      "title": "Med mobiltelefonens ficklampa upptäckte arkeologen en gömd medeltidsbro under domstolsbyggnaden",
-      "description": "Arkeologer behöver inte alltid gräva i marken för att göra stora fynd. Ibland är det till och med möjligt att hitta en del av en gammal medeltidsborg som man tidigare trott hade jämnats med marken.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/med-mobiltelefonens-ficklampa-upptackte-arkeologen-en-gomd-medeltidsbro-under-domstolsbyggnaden",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/med-mobiltelefonens-ficklampa-upptackte-arkeologen-en-gomd-medeltidsbro-under-domstolsbyggnaden",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785168027000
-    },
-    {
       "title": "Allt fler vill gripa in mot bävrar",
       "description": "Antalet bäverärenden ökar i Stockholms län. Markägare söker skyddsjakt och tillstånd att riva bäverdämmen som orsakar översvämningar och vattenskador.",
       "link": "https://www.mitti.se/nyheter/allt-fler-vill-gripa-in-mot-bavrar-6.3.376741.b130aa935e",
@@ -2712,16 +2732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785155776000
-    },
-    {
-      "title": "Abeart uppkallades efter håriga forntida kvinnor",
-      "description": "”I bukten låg en ö bebodd av vilda män. Det fanns också kvinnor i betydligt större antal. De hade håriga kroppar”, skrev en fenicisk upptäcktsresande.",
-      "link": "https://varldenshistoria.se/utforskning/upptacktsresor/gorillan-uppkallades-efter-hariga-forntida-kvinnor",
-      "guid": "https://varldenshistoria.se/utforskning/upptacktsresor/gorillan-uppkallades-efter-hariga-forntida-kvinnor",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785153606000
     },
     {
       "title": "Why Jupiter has several giant moons but Saturn has only Titan",
