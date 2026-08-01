@@ -1,17 +1,157 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-01T01:49:31.522Z",
+  "updatedAt": "2026-08-01T05:45:13.678Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Trump hävdade sabotage mot poolen – nu släpps åtalet",
-      "description": "Donald Trump rasade efter att bottnen vid monumentet lossnade och poolen fylldes med alger. Kort därefter greps en tidigare amerikansk olympier misstänkt för den påstådda skadegörelsen. Nu läggs åtalet mot David Hearn ner, enligt AP .",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
+      "title": "Trumps ord om Spanien",
+      "description": "Hårda orden: ”Svaga lagar, dåligt ledarskap”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-om-krisen-i-spanien-svaga-lagar-daligt-ledarskap-/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785546813000
+      "timestamp": 1785562206000
+    },
+    {
+      "title": "Bubs-ägaren fyller på godispåsen – köper bolag",
+      "description": "Med köpet vill norska Orkla säkra ökad produktionskapacitet och fortsätta den internationella satsningen på det godiset Bubs, som fått ett rejält uppsving efter den virala trenden kring svenskt godis. Orkla vill ge Bubs en större plats i Europa. I ett pressmeddelande uppger bolaget att det köper den nederländska godistillverkaren The European Candy Group. Med köpet […]",
+      "link": "https://www.dagensps.se/foretag/bubs-agaren-fyller-pa-godispasen-koper-bolag/",
+      "guid": "https://www.dagensps.se/?p=1660452",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/orkla-koper-nederlandska-the-european-ca.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785561607000
+    },
+    {
+      "title": "Planerar massiv bombning av Iran",
+      "description": "USA:s krig mot Iran väntas att trappa upp. Trump planerar tillsammans med Israel en massiv offensiv. Det kan bli den kraftigaste bombningen hittills, uppger flera källor till CBS News.",
+      "link": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/planerar-massiv-bombning-av-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785560795000
+    },
+    {
+      "title": "Sträcker sig över nästan 200 000 kvadratkilometer – enorm människoskapad struktur under jorden vänder upp och ned på historien",
+      "description": "Nu tror forskargruppen att detta bara är toppen av isberget.",
+      "link": "https://illvet.se/forntiden/stracker-sig-over-nastan-200-000-kvadratkilometer-enorm-manniskoskapad-struktur-under-jorden-vander-upp-och-ned-pa-historien",
+      "guid": "https://illvet.se/forntiden/stracker-sig-over-nastan-200-000-kvadratkilometer-enorm-manniskoskapad-struktur-under-jorden-vander-upp-och-ned-pa-historien",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785560447000
+    },
+    {
+      "title": "Sommar i P1: Kristoffer Leandoers 87 minuter glimrar",
+      "description": "JENS LILJESTRAND: Så många [geting] får Kristoffer Leandoers sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-kristoffer-leandoers-87-minuter-glimrar/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-kristoffer-leandoers-87-minuter-glimrar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785560400000
+    },
+    {
+      "title": "Stockholms första kinarestaurang stänger efter 63 år",
+      "description": "Restaurang Hong Kong på Kungsholmen stänger den 1 oktober efter 63 år. Familjen Ng tackar stammisarna efter decennier av autentisk kinesisk mat i Stockholm.",
+      "link": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
+      "guid": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
+      "image": "https://www.mitti.se/image-3.377232.301355.20260801053024.fd779ce0aa?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785560400000
+    },
+    {
+      "title": "Fyra döda – efter attacker mot Kiev",
+      "description": "Flera döda, borgmästaren larmar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785560215000
+    },
+    {
+      "title": "Hög nivå i spjutfinalen i Samväldesspelen trots svåra vindar – världsettan nosade på 90 meter",
+      "description": "Åtta finalister kastade över 80 meter i Samväldesspelen och Rumesh Tharanga Pathirage kammade hem segern. Världsettans segerkast mätte 89,75 meter.",
+      "link": "https://yle.fi/a/7-10102945?origin=rss",
+      "guid": "https://yle.fi/a/7-10102945",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785560204000
+    },
+    {
+      "title": "Flera döda i ryska attacker mot Kiev",
+      "description": "Andra attacken inom 48 timmar",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/flera-doda-i-ryska-attacker-mot-kiev/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/flera-doda-i-ryska-attacker-mot-kiev/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785560109000
+    },
+    {
+      "title": "Liberalernas krisplan: Stödröster från SD",
+      "description": "Med sex veckor kvar till valet är krisen total för L. Då ger sig partieliten ut på bussturné – för att rädda partiet kvar i riksdagen. Simona Mohamsson slår tillbaka mot kritikerna i de egna leden som tycker att en röst på L är bortkastad. – Bullshit, säger hon.",
+      "link": "https://www.expressen.se/nyheter/politik/liberalernas-krisplan-stodroster-fran-sd/",
+      "guid": "https://www.expressen.se/nyheter/politik/liberalernas-krisplan-stodroster-fran-sd/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785559877000
+    },
+    {
+      "title": "I krigets Libanon har hjälparbetare förvandlats till måltavlor",
+      "description": "Minst 130 hjälparbetare har dödats i kriget i Libanon sedan mars i år. Ibland attackeras de trots att de koordinerar sina rörelser med Israel.",
+      "link": "https://yle.fi/a/7-10102229?origin=rss",
+      "guid": "https://yle.fi/a/7-10102229",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785559112000
+    },
+    {
+      "title": "Fem till sjukhus – efter ”fest” på traktorsläp",
+      "description": "Fem till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=30323735-7487-4dfd-a204-13282e4efc97",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30323735-7487-4dfd-a204-13282e4efc97",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785558713000
+    },
+    {
+      "title": "Sex år efter dödsskjutningen mot Adriana – blomstertåg genom Norsborg",
+      "description": "Den 2 augusti samlas invånare i Norsborg för Blomtåget – en manifestation med vita rosor, tal och minnesstund till minne av Adriana och som en enad markering mot våldet.",
+      "link": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
+      "guid": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
+      "image": "https://www.mitti.se/image-3.377274.301403.20260801045550.b8d6a65def?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785558300000
+    },
+    {
+      "title": "På 90-talet var stallet mångas vardagsrum: ”Endast hög feber kunde hålla mig hemma”",
+      "description": "Skvaller, godis, hästhår ända in på underkläderna och barbackaritter ut på ängen. Stallivet på 90-talet var en magisk tid.",
+      "link": "https://yle.fi/a/7-10101480?origin=rss",
+      "guid": "https://yle.fi/a/7-10101480",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785558254000
+    },
+    {
+      "title": "”Först efter att ha gått in i väggen lärde jag mig att säga nej”",
+      "description": "Alla vill väl vara hyggliga och hjälpsamma personer, men när den egna orken början tryta är det dags att lära sig att säga ifrån.",
+      "link": "https://yle.fi/a/7-10102857?origin=rss",
+      "guid": "https://yle.fi/a/7-10102857",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785558029000
     },
     {
       "title": "NRJ flyttar – Vinyl FM slutar sända",
@@ -21,17 +161,67 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785545939000
+      "timestamp": 1785555998000
     },
     {
-      "title": "Attacker mot Kiev",
-      "description": "”Ta skydd”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
+      "title": "Bad Trump om en tjänst – vill övertyga Musk",
+      "description": "Volodymyr Zelenskyj vill ha hjälp från Elon Musk. För att övertyga techmiljardären uppges den ukrainska presidenten bett om en tjänst från Donald Trump. Den ukrainska presidenten vill ha tillåtelse för att använda Starlink i Ryssland, enligt The Atlantic .",
+      "link": "https://www.expressen.se/nyheter/varlden/bad-trump-om-en-tjanst-vill-overtyga-musk/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bad-trump-om-en-tjanst-vill-overtyga-musk/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785542526000
+      "timestamp": 1785554961000
+    },
+    {
+      "title": "Vattenbombarna kan bli en bristvara i Finland när södra Europa brinner",
+      "description": "Finland kan inte räkna med EU:s flotta av brandflyg om stora skogsbränder bryter ut här. Europas bränder slukar snabbt resurserna, varnar brandexpert.",
+      "link": "https://yle.fi/a/7-10102876?origin=rss",
+      "guid": "https://yle.fi/a/7-10102876",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785554106000
+    },
+    {
+      "title": "Lales, 50, bodde i trappuppgångar",
+      "description": "Hon hade alla sina grejer i en shoppingvagn och sov i fem månader i en trappuppgång. Nu har Lales, 50, en egen etta. – Det är som att bo i ett slott! Jag insåg inte förrän jag hamnade på gatan hur mycket det sliter att hela tiden vara på sin vakt, säger hon.",
+      "link": "https://www.expressen.se/nyheter/sverige/lales-50-bodde--i-trappuppgangar/",
+      "guid": "https://www.expressen.se/nyheter/sverige/lales-50-bodde--i-trappuppgangar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785553200000
+    },
+    {
+      "title": "Trump hävdade sabotage mot poolen – nu släpps åtalet",
+      "description": "Donald Trump rasade efter att bottnen vid monumentet lossnade och poolen fylldes med alger. Kort därefter greps en tidigare amerikansk olympier misstänkt för den påstådda skadegörelsen. Nu läggs åtalet mot David Hearn ner, enligt AP .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785552300000
+    },
+    {
+      "title": "70 gripna i Marocko",
+      "description": "Efter migrantkrisen • Minst 57 döda",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9f32dfda-ae0b-47b4-b58a-cbf4cbb934ff",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9f32dfda-ae0b-47b4-b58a-cbf4cbb934ff",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785552070000
+    },
+    {
+      "title": "Fifa backar: Planerna på att sälja VM-andelar skrotas",
+      "description": "Fifa backar från kontroversiella planer att sälja delar av VM-turneringarnas affärsverksamhet.",
+      "link": "https://yle.fi/a/7-10102944?origin=rss",
+      "guid": "https://yle.fi/a/7-10102944",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785551862000
     },
     {
       "title": "Fi Ultra Satellite Dog Tracker",
@@ -134,16 +324,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785527560000
     },
     {
-      "title": "Avancerat stridsflyg har kraschat i USA",
-      "description": "Värt nästan en miljard",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/amerikanskt-stridsflyg-har-kraschat",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785527468000
-    },
-    {
       "title": "Handelsfartyget lämnar olycksplatsen",
       "description": "Misstänks för inblandning i båtolyckan vid Tjörn",
       "link": "https://www.expressen.se/nyheter/sverige/handelsfartyget-lamnar-olycksplatsen/",
@@ -152,16 +332,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785526803000
-    },
-    {
-      "title": "Trumps besvikelse: ”Det gör mig arg”",
-      "description": "Hårda orden om förhandlingarna: ”De ljuger”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-gor-mig-arg",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785526632000
     },
     {
       "title": "Ny analys: Åldern när unga svenskar kan gå i pension",
@@ -182,36 +352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785526210000
-    },
-    {
-      "title": "Tidigare Trumpministers lyxjakt ankrar utanför svensk strand",
-      "description": "De badande på den öländska sandstranden fick plötsligt fint besök. En amerikansk miljardär och tidigare Trumpminister ankrade sin lyxjakt utanför idylliska Köpingsvik. – Det var roligt och trevligt att se en båt av den kalibern, säger Håkan Sundin som har sommarbostad i närheten.",
-      "link": "https://www.expressen.se/nyheter/sverige/tidigare-trumpministers-lyxjakt-ankrar-utanfor-svensk-strand/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tidigare-trumpministers-lyxjakt-ankrar-utanfor-svensk-strand/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785525972000
-    },
-    {
-      "title": "Dödade fru och sex barn – efter att ha förlorat jobbet",
-      "description": "Sexbarnspappan Kristopher Karolkiewicz, 47, förlorade chefsjobbet på en stor ideell organisation. Därefter mördade han sin fru – och sina sex barn, skriver The Independent.",
-      "link": "https://www.expressen.se/nyheter/varlden/dodade-fru-och-sex-barn-efter-att-ha-forlorat-jobbet/",
-      "guid": "https://www.expressen.se/nyheter/varlden/dodade-fru-och-sex-barn-efter-att-ha-forlorat-jobbet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785525114000
-    },
-    {
-      "title": "Personbil har kört in i brandstation",
-      "description": "Föraren till sjukhus • ”Hög fart”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=58b2428f-bad7-43b4-9781-7a57042abc0a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=58b2428f-bad7-43b4-9781-7a57042abc0a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785525081000
     },
     {
       "title": "Har du koll på dina testosteronnivåer?",
@@ -274,16 +414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785522688000
     },
     {
-      "title": "Dömd bedragare häktad för attacken mot S partilokal i Sölvesborg",
-      "description": "En 36-årig man häktas som misstänkt för försök till grov mordbrand efter attacken mot Socialdemokraternas partilokal i Sölvesborg. Han är tidigare dömd för grovt bedrägeri och skattebrott – samt har åtalats för hets mot folkgrupp, riktad mot muslimer. Mannen nekar till mordbrand, men erkänner skadegörelse.",
-      "link": "https://www.expressen.se/nyheter/domd-bedragare-haktad-for-attacken--mot-s-partilokal-i-solvesborg/",
-      "guid": "https://www.expressen.se/nyheter/domd-bedragare-haktad-for-attacken--mot-s-partilokal-i-solvesborg/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785522620000
-    },
-    {
       "title": "Helldivers 2 får snart sin Warhammer 40k-DLC",
       "description": "Den 12 augusti släpps Imperial Guard-utrustning Den 12 augusti släpps ett nytt DLC-paket till Helldivers 2 där man kommer kunna använda sig av utrustning baserad på Imperial Guards från Warhammer 40,000-universumet. Bland nyheterna finns klassiska vapen som en Bolt Pistol och en Meltagun. Om man undrar varför Arrowhead inte valt att inkludera några Space Marines i detta paket grundar sig det beslutet i att karaktärerna i Helldivers dör i rasande takt, vilket inte skulle stämma överens med den nästan odödliga status som en Space Marine har. L&auml;s vidare och kommentera: https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/ L&auml;s mer om Helldivers 2 , Warhammer 40000 , Arrowhead Game Studios , DLC , Bolt Pistol , Meltagun , Warhammer 40",
       "link": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
@@ -302,16 +432,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785522337000
-    },
-    {
-      "title": "Regeringen backar kring vargen",
-      "description": "Regeringen: Så många får leva i Sverige",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c28057-dc1f-4510-848b-3e7e8a988d1b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c28057-dc1f-4510-848b-3e7e8a988d1b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785522094000
     },
     {
       "title": "AI kan nu generera bilder direkt i Google Earth",
@@ -362,36 +482,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785519000000
-    },
-    {
-      "title": "Magdalena Anderssons ord om migrationskrisen i Ceuta",
-      "description": "Johan Forssell (M) gick till hård attack mot Magdalena Andersson efter migrantanstormningen. Nu – ett dygn senare – svarar S-ledaren.",
-      "link": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
-      "guid": "https://www.expressen.se/nyheter/varlden/magdalena-anderssons-ord-om-migrationskrisen-i-ceuta/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785518705000
-    },
-    {
-      "title": "Meloni stänger ute Spanien från Schengensamarbetet – kritiken från Sanchez",
-      "description": "Italien pausar Schengensamarbetet med Spanien efter migrantanstormningen, skriver Reuters. Spaniens premiärminister Pedro Sanchez slår tillbaka mot Melonis beslut.",
-      "link": "https://www.expressen.se/nyheter/varlden/meloni-stanger-ute-spanien-fran-schengensamarbetet-kritiken-fran-sanchez-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/meloni-stanger-ute-spanien-fran-schengensamarbetet-kritiken-fran-sanchez-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785517881000
-    },
-    {
-      "title": "Tilda, 21, fick diabetes – och drabbades av en stroke",
-      "description": "Först fördes hon akut till sjukhus med misstänkt diabetes. Sedan drabbades hon av en stroke. Nu måste Tilda Bota, 21, leva med sin nya sjukdom – och lära sig att gå igen.",
-      "link": "https://www.expressen.se/nyheter/sverige/tilda-21-fick-diabetes-sen-stroke/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tilda-21-fick-diabetes-sen-stroke/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785517312000
     },
     {
       "title": "I Åre kan man nu panta kläder",
@@ -694,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785503409000
     },
     {
-      "title": "AI-boomen får Sydkoreas börs att åka bergochdalbana",
-      "description": "För bara några dagar sedan såg Sydkoreas aktiemarknad ut att vara i utförsbacke. Men nu har den lika snabbt återhämtat sig. Sydkoreas aktiemarknad har blivit en av årets stora vinnare, men också en av de mest svängiga. Landets ledande börsindex Kospi har under året uppvisat större kursrörelser än bitcoin, enligt Bloomberg. Den kraftiga volatiliteten har […]",
-      "link": "https://www.dagensps.se/bors-finans/ai-boomen-far-sydkoreas-bors-att-aka-bergochdalbana/",
-      "guid": "https://www.dagensps.se/?p=1660386",
-      "image": "https://images.dagensps.se/app/uploads/2026/07/sdl3tr6z-uwrmw-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785502954000
-    },
-    {
       "title": "Microsoft utreds för höjda priser",
       "description": "Flyttade automatiskt kunder till dyrare abonnemang Den brittiska konkurrensmyndigheten CMA har inlett en utredning mot Microsoft som ska reda ut om de har vilselett sina kunder i samband med prishöjningar för Microsoft 365. Bakgrunden till granskningen är de förändringar som genomfördes i början av 2025 då Microsoft valde att inkludera nya AI-verktyg, däribland assistenten Copilot, i sina abonnemang för privatpersoner. Initialt var funktionerna kostnadsfria, men när det blev dags för förnyelse flyttades användarna automatiskt över till en ny och dyrare prisnivå. De som ville ha kvar det gamla billigare priset var tvungna att själva aktivt nedgradera sina konton till en billigare nivå, som inte hade Copilot, som lanserades i samband med prishöjningen. Inte helt snyggt hanterat kan man tycka och det tyckte väl inte CMA heller, som nu ska utreda om Microsoft haft rent mjöl i påsen eller inte. L&auml;s vidare och kommentera: https://feber.se/internet/microsoft-utreds-for-hojda-priser/494613/ L&auml;s mer om Microsoft , CMA , Microsoft 365 , Copilot , prishöjning",
       "link": "https://feber.se/internet/microsoft-utreds-for-hojda-priser/494613/?utm_source=rss&utm_medium=feed",
@@ -744,26 +824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785500507000
     },
     {
-      "title": "Sannäs gård i Borgå har fått nya ägare",
-      "description": "Företagarparet Anna Sofia Abrahamsson och Kustaa Piha har köpt herrgården för drygt två miljoner euro.",
-      "link": "https://yle.fi/a/7-10102923?origin=rss",
-      "guid": "https://yle.fi/a/7-10102923",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785500376000
-    },
-    {
-      "title": "Två personer omkom i trafikolycka i S:t Karins",
-      "description": "",
-      "link": "https://yle.fi/a/7-10102928?origin=rss",
-      "guid": "https://yle.fi/a/7-10102928",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785500348000
-    },
-    {
       "title": "HTV: Sammandrag | Anderlecht 3-1 Hammarby",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-sammandrag-or-anderlecht-3-1-hammarby",
@@ -802,26 +862,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785497400000
-    },
-    {
-      "title": "”En allvarlig situation” – Livsmedelsverket gör nu allt för att stoppa spridningen av afrikansk svinpest",
-      "description": "Myndigheterna har upprättat en skyddszon i kommunerna Vederlax och Miehikkälä där rörelse och verksamhet begränsas. Detta för att stoppa spridningen av viruset.",
-      "link": "https://yle.fi/a/7-10102902?origin=rss",
-      "guid": "https://yle.fi/a/7-10102902",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785497282000
-    },
-    {
-      "title": "Infantinos rådgivare säger upp sig – vill inte förknippas med planerna på att sälja andelar av fotbolls-VM",
-      "description": "Carlos Cordeiro har sagt upp sig från sin tjänst som Gianni Infantinos rådgivare.",
-      "link": "https://yle.fi/a/7-10102925?origin=rss",
-      "guid": "https://yle.fi/a/7-10102925",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785496616000
     },
     {
       "title": "De bygger om gamla Volvo XC90 till elbilar",
@@ -934,16 +974,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785492000000
     },
     {
-      "title": "Esapekka Lappi voltade med bilen i Jyväskyläs VM-rally",
-      "description": "Den finländska rallyföraren Esapekka Lappi voltade med bilen under den fjärde specialsträckan av Jyväskyläs VM-rally.",
-      "link": "https://yle.fi/a/7-10102920?origin=rss",
-      "guid": "https://yle.fi/a/7-10102920",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785490678000
-    },
-    {
       "title": "NVIDIA planerar nya prishöjningar",
       "description": "Grafikkorten kan bli upp till trettio procent dyrare framöver inom kort För den som vill betala ännu mer för sina grafikkort kan snart göra det då nya rapporter säger att NVIDIA planerar att höja priserna på sina grafikprocessorer med mellan 20 och 30 procent framöver. Den främsta orsaken bakom detta är ju så klart de skenande kostnaderna för grafikminne (DRAM) och om det blir av blir det ju den tredje prisjusteringen uppåt bara i år. Men till skillnad från tidigare, då prisökningarna främst rört toppmodeller, väntas den här höjningen nu slå brett mot hela NVIDIA:s sortiment. Denna prisförändring väntas nå slutkunderna så snart återförsäljarnas nuvarande lager har sålts slut. Även NVIDIA:s konkurrenter, som AMD och Intel, lär slå till med liknande höjningar på grund av de stigande tillverkningskostnader som drabbar dem varje kvartal. L&auml;s vidare och kommentera: https://feber.se/pc/nvidia-planerar-nya-prishojningar/494608/ L&auml;s mer om NVIDIA , grafikkort , DRAM , prisökning , grafikprocessor , Grafikminne",
       "link": "https://feber.se/pc/nvidia-planerar-nya-prishojningar/494608/?utm_source=rss&utm_medium=feed",
@@ -952,16 +982,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785490200000
-    },
-    {
-      "title": "Fotbollslegendaren Franco Baresi är död",
-      "description": "Den italienska fotbollslegendaren Franco Baresi har dött efter en tids sjukdom. Han blev 66 år gammal.",
-      "link": "https://yle.fi/a/7-10102915?origin=rss",
-      "guid": "https://yle.fi/a/7-10102915",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785488520000
     },
     {
       "title": "Xiaomis SUV är som ett vardagsrum",
@@ -1702,16 +1722,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785330137000
-    },
-    {
-      "title": "Nasaforskare häpnar: Känt rymdobjekt visar sig vara något helt annat i förklädnad",
-      "description": "I nästan 30 år har objektet följts av forskare – utan att någon upptäckte en viss detalj.",
-      "link": "https://illvet.se/universum/nasaforskare-hapnar-kant-rymdobjekt-visar-sig-vara-nagot-helt-annat-i-forkladnad",
-      "guid": "https://illvet.se/universum/nasaforskare-hapnar-kant-rymdobjekt-visar-sig-vara-nagot-helt-annat-i-forkladnad",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785330007000
     },
     {
       "title": "Scientists find a simple way to stop cavities without drilling",
