@@ -1,8 +1,188 @@
 {
-  "updatedAt": "2026-08-01T15:52:02.319Z",
+  "updatedAt": "2026-08-01T18:53:05.876Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Experter varnar: Dödligt virus kan löpa amok på bara ett par veckor",
+      "description": "Den extremt dödliga fågelinfluensan har på senare år spridit sig till däggdjur runt om i världen. Nu befarar forskare det värsta: En epidemi bland människor. En ny banbrytande studie förstärker oron.",
+      "link": "https://illvet.se/halsa/experter-varnar-dodligt-virus-kan-lopa-amok-pa-bara-ett-par-veckor",
+      "guid": "https://illvet.se/halsa/experter-varnar-dodligt-virus-kan-lopa-amok-pa-bara-ett-par-veckor",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785612607000
+    },
+    {
+      "title": "Finland: ”Nu börjar det se jäkligt bra ut”",
+      "description": "Finlands ekonomi tar fart. Den globala oron påverkar inte. Nu ser Finland ut att få den största kvartalstillväxten på fem år. I maj kom uppgifter som bekräftade hur Finlands ekonomi tagit fart första kvartalet i år. Ändå låg då oron över fortsatt krig i Ukraina och en upptrappning kring Iran i luften. Nu spår finska […]",
+      "link": "https://www.dagensps.se/varlden/finland-nu-borjar-det-se-jakligt-bra-ut/",
+      "guid": "https://www.dagensps.se/?p=1660516",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlaf24zivfb9w-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785610013000
+    },
+    {
+      "title": "Bildextra: Kolla in Stockholms prideparad 2026",
+      "description": "- Jag är jätteglad! säger festivalarrangören Måns Axelsson som uppskattar att 50 000 gick i paraden och att en halv miljon såg på.",
+      "link": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
+      "guid": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
+      "image": "https://www.mitti.se/image-3.377430.301444.20260801184441.6bb0c38e95?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785609880000
+    },
+    {
+      "title": "Expert om kritiken mot isbrytarköp: Finland fick affären på egna meriter",
+      "description": "Det är en alldeles bra deal för amerikanerna, anser en finländsk expert på marin- och arktisk teknologi.",
+      "link": "https://yle.fi/a/7-10102962?origin=rss",
+      "guid": "https://yle.fi/a/7-10102962",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785609879000
+    },
+    {
+      "title": "Tre döda i explosion på kafé i Moskva",
+      "description": "Flera döda",
+      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785609484000
+    },
+    {
+      "title": "Rysk Onlyfans-stjärna döms i Putins porrkrig – förbjuds från internet",
+      "description": "Den 21-åriga ryska modellen Sofya Vershinia döms i Moskva för att ha skapat och spridit pornografiskt innehåll. Hon slipper fängelse – men får villkorlig dom, böter och internetförbud i tre år. Fallet är ett av flera i Putins razzia mot porrindustrin.",
+      "link": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785608097000
+    },
+    {
+      "title": "Olof K Gustafsson döms till fyra års fängelse",
+      "description": "Olof K Gustafsson har dömts till fyra års fängelse för bedrägeri. Han fälldes för att ha lurat investerare genom att marknadsföra och sälja produkter som inte fanns. Svensken ska också betala tillbaka motsvarande över tolv miljoner kronor, beslutar en domstol i Los Angeles.",
+      "link": "https://www.expressen.se/nyheter/varlden/olof-k-gustafsson-doms-till-fyra-ars-fangelse/",
+      "guid": "https://www.expressen.se/nyheter/varlden/olof-k-gustafsson-doms-till-fyra-ars-fangelse/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785607465000
+    },
+    {
+      "title": "Man och kvinna misshandlade – man gripen",
+      "description": "En man och en kvinna har skadats av okända gärningsmän i centrala Göteborg. En man har gripits.",
+      "link": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
+      "guid": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785606857000
+    },
+    {
+      "title": "Olyckorna avlöser varandra i Jyväskylärallyt – Sébastien Ogier till sjukhus med helikopter",
+      "description": "Tre bilar har voltat under Jyväskyläs VM-rally: Esapekka Lappi, Elfyn Evans och senast Sébastien Ogier.",
+      "link": "https://yle.fi/a/7-10102961?origin=rss",
+      "guid": "https://yle.fi/a/7-10102961",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785606354000
+    },
+    {
+      "title": "Två anhållna för grov våldtäkt",
+      "description": "Åklagarens beslut i Malmö",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=44a98b75-f7df-4724-9522-5772e06fc81b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=44a98b75-f7df-4724-9522-5772e06fc81b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785605879000
+    },
+    {
+      "title": "Flera söks med helikopter",
+      "description": "Stor polisinsats • Man och kvinna skadade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2912957e-d96c-48aa-aa01-4f57fb028d97",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2912957e-d96c-48aa-aa01-4f57fb028d97",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785605275000
+    },
+    {
+      "title": "Hizbollahmedlemmar dödade",
+      "description": "Israelisk attack i södra Libanon",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77f73159-aa9d-4afd-a132-b8accc5c05c8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77f73159-aa9d-4afd-a132-b8accc5c05c8",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785604686000
+    },
+    {
+      "title": "Uppgifter: Gängtopp gripen i Jonas Falks bostad",
+      "description": "Emin Muqa Kulic, en av topparna i Dalennätverket, har gripits av polis, enligt uppgifter till SVT . Han uppges ha gripits i ett hus som ska vara den nyligen fängelsedömda Jonas Falks bostad.",
+      "link": "https://www.expressen.se/nyheter/krim/uppgifter-gangtopp-gripen-i-jonas-falks-hus/",
+      "guid": "https://www.expressen.se/nyheter/krim/uppgifter-gangtopp-gripen-i-jonas-falks-hus/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785603232000
+    },
+    {
+      "title": "Finlands fotbollsförbund har tappat förtroendet för Gianni Infantino: ”Stödet är definitivt förlorat”",
+      "description": "Ari Lahti kommenterar Fifas vändning. Enligt honom kan det bli svårt för Gianni Infantino att fortsätta som ordförande.",
+      "link": "https://yle.fi/a/7-10102960?origin=rss",
+      "guid": "https://yle.fi/a/7-10102960",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785602483000
+    },
+    {
+      "title": "Björn attackerade kvinna – kom undan jägare",
+      "description": "En björn attackerade en kvinnlig bärplockare i en skog i Lycksele på fredagskvällen, rapporterar Västerbottens-Kuriren. Hon fördes av bekanta till sjukhus med oklara skador. Jägare har letat efter björnen för att avliva den – men har gett upp jakten.",
+      "link": "https://www.expressen.se/nyheter/bjorn-attackerade-kvinna-kom-undan-jagare/",
+      "guid": "https://www.expressen.se/nyheter/bjorn-attackerade-kvinna-kom-undan-jagare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785602164000
+    },
+    {
+      "title": "New York Times kritiserar Trumps isbrytaraffärer med Finland",
+      "description": "Tidningen påpekar att president Donald Trump utan konkurrensutsätting köper flera isbrytare än kustbevakningen ens bett om.",
+      "link": "https://yle.fi/a/7-10102957?origin=rss",
+      "guid": "https://yle.fi/a/7-10102957",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785601709000
+    },
+    {
+      "title": "Yngve om skrotbygget: ”Kul när alla pumpar är igång”",
+      "description": "Yngve Nordmark visar sin vattentrappa i Sätuna på trädgårdsvisningen Tusen trädgårdar 28 juni 2026.",
+      "link": "https://www.mitti.se/nyheter/yngve-om-skrotbygget-kul-nar-alla-pumpar-ar-igang-6.3.371980.4569e53474",
+      "guid": "https://www.mitti.se/nyheter/yngve-om-skrotbygget-kul-nar-alla-pumpar-ar-igang-6.3.371980.4569e53474",
+      "image": "https://www.mitti.se/image-3.375166.298291.20260801164544.a0521f2643?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785600900000
+    },
+    {
+      "title": "Världens bästa krog öppnar igen – efter skräcken i köket",
+      "description": "Världens bästa restaurang öppnar igen. Gourmetkrogen Noma i Köpenhamn tvingades stänga i mars sedan ägaren och stjärnkocken René Redzepi anklagats för övergrepp mot personalen. Nu gör mattemplet comeback under ny ledning efter fem månader.",
+      "link": "https://www.expressen.se/nyheter/varlden/varldens-basta-krog-oppnar-igen-efter-skracken-i-koket/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varldens-basta-krog-oppnar-igen-efter-skracken-i-koket/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785600899000
+    },
     {
       "title": "Forskare ifrågasätter gamla myter om Egyptens röda pyramid – dolda ramper var i själva verket något helt annat",
       "description": "I mer än 180 år har två enorma konstruktioner i närheten av en av Egyptens äldsta pyramider tolkats som ramper för transport av byggstenar. Modern teknik och historiska kartor antyder dock en annan förklaring.",
@@ -244,46 +424,6 @@
       "timestamp": 1785587401000
     },
     {
-      "title": "Kvinna död i mc-olycka",
-      "description": "Körde av vägen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d6e184bf-2750-4954-b113-69363a2b0b38",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d6e184bf-2750-4954-b113-69363a2b0b38",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785587037000
-    },
-    {
-      "title": "Slagsmål på Sätra IP i Stockholm – två gripna",
-      "description": "Två män har hamnat i slagsmål på en idrottsplats i södra Stockholm. Båda har förts till sjukhus – och gripits.",
-      "link": "https://www.expressen.se/nyheter/sverige/slagsmal-pa-satra-ip-i-stockholm-tva-gripna/",
-      "guid": "https://www.expressen.se/nyheter/sverige/slagsmal-pa-satra-ip-i-stockholm-tva-gripna/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785586594000
-    },
-    {
-      "title": "Veckans sista solchans – sedan kommer vändningen",
-      "description": "För många svenskar börjar semesterveckorna lida mot sitt slut. Den som vill fånga solen i veckan får agera snabbt. Sedan drar regnet in.",
-      "link": "https://www.expressen.se/nyheter/vader/veckans-sista-solchans-sedan-kommer-vandningen/",
-      "guid": "https://www.expressen.se/nyheter/vader/veckans-sista-solchans-sedan-kommer-vandningen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785586555000
-    },
-    {
-      "title": "Flygkrasch i Karlstad – en död",
-      "description": "Ett mindre flygplan har kraschat och börjat brinna på flygplatsen i Karlstad. En person har omkommit. – Flygplanet är helt utbrunnet, säger Ilona Lindholm, teamledare på SOS Alarm.",
-      "link": "https://www.expressen.se/nyheter/sverige/mindre-flygplan-i-brand-i-karlstad/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mindre-flygplan-i-brand-i-karlstad/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785586358000
-    },
-    {
       "title": "Scientists may have found a way to prevent statin muscle pain",
       "description": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the drugs’ lifesaving cardiovascular benefits.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
@@ -364,16 +504,6 @@
       "timestamp": 1785583219000
     },
     {
-      "title": "Kungabarnens miljonregn – vet inte vad bolaget köper",
-      "description": "Kungabarnens eget investmentbolag gör miljonvinst – igen. Förra året bröt de mot traditionen och plockade ut vinst. Nu är ordningen återställd.",
-      "link": "https://www.expressen.se/nyheter/kungligt/kungabarnens-miljonregn-vet-inte-vad-bolaget-koper/",
-      "guid": "https://www.expressen.se/nyheter/kungligt/kungabarnens-miljonregn-vet-inte-vad-bolaget-koper/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785583153000
-    },
-    {
       "title": "Mindre solsken och färre blixtar i juli",
       "description": "Temperaturern i juli var normal i hela Finland medan landets västra delar fick mycket regn.",
       "link": "https://yle.fi/a/7-10102951?origin=rss",
@@ -402,16 +532,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785582000000
-    },
-    {
-      "title": "Slagsmål på idrottsplats",
-      "description": "Slogs med vasst föremål – två till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2acdb6af-dbcb-4d02-a8b5-39f42a6262b9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2acdb6af-dbcb-4d02-a8b5-39f42a6262b9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785581537000
     },
     {
       "title": "Uefa efter senaste dagarnas kaos: Vi har tappat förtroendet för Gianni Infantino",
@@ -514,16 +634,6 @@
       "timestamp": 1785575626000
     },
     {
-      "title": "Fridas miss på flygplatsen",
-      "description": "Chocken på Arlanda • Förklaringen: ”Just det...”",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/frida-kunde-inte-checka-in-fanns-en-naturlig-forklaring/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785575190000
-    },
-    {
       "title": "Dramatisk start på dagen i Jyväskylärallyt – se hur Elfyn Evans voltade flera gånger",
       "description": "Det blev dramatiskt på den 14:e specialsträckan i Jyväskylärallyt när VM-ledaren Elfyn Evans tappade kontrollen och voltade flera gånger med sin bil bara några hundra meter från mållinjen.",
       "link": "https://yle.fi/a/7-10102949?origin=rss",
@@ -542,16 +652,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785574842000
-    },
-    {
-      "title": "Bildt: Medvetet migranttryck av Marocko",
-      "description": "Migrantanstormningen till den spanska exklaven Ceuta skapades medvetet av Marocko. Det menar Carl Bildt – som pekar på ett känsligt möte. Toppdiplomaten Jan Eliasson är inne på samma linje. ”En fabrikation”, skriver han på X.",
-      "link": "https://www.expressen.se/nyheter/varlden/bildt-medvetet-migranttryck-av-marocko/",
-      "guid": "https://www.expressen.se/nyheter/varlden/bildt-medvetet-migranttryck-av-marocko/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785574818000
     },
     {
       "title": "FIFA ska inte längre sälja delar av sina VM-turneringar",
@@ -584,26 +684,6 @@
       "timestamp": 1785573801000
     },
     {
-      "title": "Anmälningar om smygfotografering på Jamboree",
-      "description": "Fler än tio anmälningar har kommit in om smygtagna nakenbilder på scoutlägret Jamboree utanför Kristianstad. Natten till lördag hände det igen. – Vi tittar på om det finns ett samband, säger Katarina Rusin på polisens ledningscentral.",
-      "link": "https://www.expressen.se/nyheter/sverige/anmalningar-om-smygfotografering-pa-jamboree/",
-      "guid": "https://www.expressen.se/nyheter/sverige/anmalningar-om-smygfotografering-pa-jamboree/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785573565000
-    },
-    {
-      "title": "Kristersson i gemensamt brev till EU: ”Kräver akut möte”",
-      "description": "Statsminister Ulf Kristersson har tillsammans med 14 andra europeiska ledare signerat ett brev till EU, med anledning av migrantkrisen i spanska Ceuta. Ledarna uppmanar till krismöte. ”De senaste dagarnas händelser kräver en omedelbar och samordnad europeisk insats”, står det i brevet.",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kristersson-i-gemensamt-brev-till-eu-kraver-akut-mote/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785573492000
-    },
-    {
       "title": "Gigantiskt test jämför Volvo EX60, BMW iX3, Mercedes GLC och Audi Q6",
       "description": "3,5 timmar lång genomgång! Välkända tyska kanalen Autogefühl har provat allt som rullar på fyra hjul och gör ofta bra genomgångar och tester. I den här videon, eller ska vi säga långfilmen, har man gett sig på att jämföra de nya eldrivna suvarna från Volvo, BMW, Mercedes och Audi. Genomgången är LÅNG, 3,5 timmar, och det är det perfekta klippet om du funderar på att köpa någon av dessa fyra. Man går helt enkelt igenom det mesta som finns att prata om de här bilarna. För dig som inte orkar kan man väl sammanfatta det så här: – BMW är roligast att köra och väl prissatt. – Mercedes har härligast väghållning, flest funktioner och skärmar, men är också dyrast. – Volvon är en mix av BMW och Mercedes, på ett bra sätt. Den är också bra prissatt. Den är väldigt tyst och har aktiv brusreducering, vilket Thomas som testar tycker är för aggressiv vilket gör att det blir konstigt. – Audins interiör är klart sämst och körningen är inte på topp. Thomas val är Mercedes, om pengarna finns. Välj BMW om du vill ha en rolig bil att köra, Volvon om du vill ha en bra mix och Audin om du får den billigt. L&auml;s vidare och kommentera: https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/ L&auml;s mer om Autogefühl , Volvo , BMW , Mercedes , Audi , elsuv , biltest",
       "link": "https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/?utm_source=rss&utm_medium=feed",
@@ -634,16 +714,6 @@
       "timestamp": 1785572419000
     },
     {
-      "title": "Glöm garage – superrika köper bostäder till sina lyxbilar",
-      "description": "Rika personer kan betala 15 miljoner kronor och mer än så för en lägenhet att parkera sina unika bilar i. Det här har du inte råd att missa! Den nya trenden bland förmögna bilentusiaster, åtminstone i USA, är att förvärva lägenheter eller hela fastigheter för att ställa in sina dyrgripar. I första hand gäller det […]",
-      "link": "https://www.dagensps.se/motor/glom-garage-superrika-koper-bostader-till-sina-lyxbilar/",
-      "guid": "https://www.dagensps.se/?p=1660483",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/bilhiss.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785572005000
-    },
-    {
       "title": "Winamp gör comeback med Deezer",
       "description": "Ny version ska förena lokal musik med streaming Den legendariska musikspelaren Winamp gör ett nytt försök att erövra musikvärlden då man under nästa år planerar att lansera en helt ny version av spelaren som ska förena nostalgi med modern teknik. Den stora grejen med detta är ett samarbete med den franska streamingjätten Deezer. Visionen för det nya Winamp är att skapa en \"allt-i-ett-lösning\" där man då ska kunna blanda sina lokala musikfiler med streaming från Deezers katalog, poddar och internetradio i samma gränssnitt. Målet är att ge lyssnaren mer kontroll och en mer personlig upplevelse än vad dagens algoritmdrivna tjänster erbjuder. Lite halvt oväntat så har Winamp fortfarande omkring 40 miljoner trogna användare så kanske kan detta glädja dem eller så blir det bara shitification av det hela och leder till att fler lämnar nostalgin bakom sig. L&auml;s vidare och kommentera: https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/ L&auml;s mer om Winamp , Deezer , musikspelare , streaming , poddar , internetradio , musikstreaming",
       "link": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
@@ -662,16 +732,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785570885000
-    },
-    {
-      "title": "SL rustar inför prideparaden – samtidigt väntar stormatch",
-      "description": "I dag väntas omkring 50 000 deltagare och en halv miljon åskådare när Nordens största Prideparad går genom Stockholm. Samtidigt är det stormöte i fotboll på Strawberry arena. – Vi kör med maximal kapacitet, säger Sophie Gunnarsson, presstalesperson på SL.",
-      "link": "https://www.expressen.se/nyheter/sverige/sl-rustar-infor-prideparaden-samtidigt-vantar-stormatch-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sl-rustar-infor-prideparaden-samtidigt-vantar-stormatch-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785569765000
     },
     {
       "title": "Metal Slug fyller 30 år med ny modell",
@@ -804,64 +864,24 @@
       "timestamp": 1785560447000
     },
     {
-      "title": "Stockholms första kinarestaurang stänger efter 63 år",
+      "title": "Stockholms första Kinarestaurang stänger efter 63 år",
       "description": "Restaurang Hong Kong på Kungsholmen stänger den 1 oktober efter 63 år. Familjen Ng tackar stammisarna efter decennier av autentisk kinesisk mat i Stockholm.",
       "link": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
       "guid": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
-      "image": "https://www.mitti.se/image-3.377232.301355.20260801122307.6c7fd2c3b7?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377232.301355.20260801184604.cdab0ee681?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785560400000
-    },
-    {
-      "title": "Hög nivå i spjutfinalen i Samväldesspelen trots svåra vindar – världsettan nosade på 90 meter",
-      "description": "Åtta finalister kastade över 80 meter i Samväldesspelen och Rumesh Tharanga Pathirage kammade hem segern. Världsettans segerkast mätte 89,75 meter.",
-      "link": "https://yle.fi/a/7-10102945?origin=rss",
-      "guid": "https://yle.fi/a/7-10102945",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785560204000
-    },
-    {
-      "title": "I krigets Libanon har hjälparbetare förvandlats till måltavlor",
-      "description": "Minst 130 hjälparbetare har dödats i kriget i Libanon sedan mars i år. Ibland attackeras de trots att de koordinerar sina rörelser med Israel.",
-      "link": "https://yle.fi/a/7-10102229?origin=rss",
-      "guid": "https://yle.fi/a/7-10102229",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785559112000
     },
     {
       "title": "Sex år efter dödsskjutningen mot Adriana – blomstertåg genom Norsborg",
       "description": "Den 2 augusti samlas invånare i Norsborg för Blomtåget – en manifestation med vita rosor, tal och minnesstund till minne av Adriana och som en enad markering mot våldet.",
       "link": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
       "guid": "https://www.mitti.se/nyheter/sex-ar-efter-dodsskjutningen-mot-adriana--blomstertag-genom-norsborg-6.3.378278.96153a3a06",
-      "image": "https://www.mitti.se/image-3.377274.301403.20260801112213.af731969e7?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377274.301403.20260801165744.1d53e5e503?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785558300000
-    },
-    {
-      "title": "På 90-talet var stallet mångas vardagsrum: ”Endast hög feber kunde hålla mig hemma”",
-      "description": "Skvaller, godis, hästhår ända in på underkläderna och barbackaritter ut på ängen. Stallivet på 90-talet var en magisk tid.",
-      "link": "https://yle.fi/a/7-10101480?origin=rss",
-      "guid": "https://yle.fi/a/7-10101480",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785558254000
-    },
-    {
-      "title": "”Först efter att ha gått in i väggen lärde jag mig att säga nej”",
-      "description": "Alla vill väl vara hyggliga och hjälpsamma personer, men när den egna orken början tryta är det dags att lära sig att säga ifrån.",
-      "link": "https://yle.fi/a/7-10102857?origin=rss",
-      "guid": "https://yle.fi/a/7-10102857",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785558029000
     },
     {
       "title": "Blood cancer’s genetic warning signs may appear years early",
@@ -1034,11 +1054,11 @@
       "timestamp": 1785517200000
     },
     {
-      "title": "Fotbollsstjärna besöker Kärrtorp: ”Bjussade på tips”",
+      "title": "Fotbollsstjärna besökte Kärrtorp: ”Bjussade på tips”",
       "description": "Tidigare United-stjärnan Wes Brown dök upp i Kärrtorp för att skriva autografer till glada fans och träna ihop med BKBK P2014.",
-      "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besoker-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
-      "guid": "https://www.mitti.se/nyheter/fotbollsstjarna-besoker-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
-      "image": "https://www.mitti.se/image-3.377416.301439.20260801124038.caccb68cd1?format=jpeg",
+      "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besokte-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
+      "guid": "https://www.mitti.se/nyheter/fotbollsstjarna-besokte-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
+      "image": "https://www.mitti.se/image-3.377416.301439.20260801170219.8439003852?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785516300000
@@ -1962,16 +1982,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785368656000
-    },
-    {
-      "title": "Utbredd vana kan ha överraskande konsekvens för din hjärna – nu ska forskare få oss att se åt ett nytt håll",
-      "description": "Vi kan ha fokuserat på fel sak åratal. Detta påpekar en grupp forskare som har analyserat siffror från knappt 2 000 personer i tjugo år",
-      "link": "https://illvet.se/halsa/utbredd-vana-kan-ha-overraskande-konsekvens-for-din-hjarna-nu-ska-forskare-fa-oss-att-se-at-ett-nytt-hall",
-      "guid": "https://illvet.se/halsa/utbredd-vana-kan-ha-overraskande-konsekvens-for-din-hjarna-nu-ska-forskare-fa-oss-att-se-at-ett-nytt-hall",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785362458000
     },
     {
       "title": "HTV: Paulos inför Anderlecht - \"Skön känsla\"",
