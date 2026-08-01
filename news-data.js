@@ -1,8 +1,68 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-07-31T21:56:14.105Z",
+  "updatedAt": "2026-08-01T01:49:31.522Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump hävdade sabotage mot poolen – nu släpps åtalet",
+      "description": "Donald Trump rasade efter att bottnen vid monumentet lossnade och poolen fylldes med alger. Kort därefter greps en tidigare amerikansk olympier misstänkt för den påstådda skadegörelsen. Nu läggs åtalet mot David Hearn ner, enligt AP .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-miss-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785546813000
+    },
+    {
+      "title": "NRJ flyttar – Vinyl FM slutar sända",
+      "description": "Efter tre decennier tystnar radiokanalen Vinyl FM – och NRJ tvingas till flytt. I bruset de kommande två veckorna kommer på den platsen i stället ”trailers och riktigt bra musik” höras.",
+      "link": "https://www.expressen.se/nyheter/sverige/nrj-flyttar-vinyl-fm-slutar-sanda-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/nrj-flyttar-vinyl-fm-slutar-sanda-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785545939000
+    },
+    {
+      "title": "Attacker mot Kiev",
+      "description": "”Ta skydd”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9478383e-ddc3-4099-bca2-cbbec35aab74",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785542526000
+    },
+    {
+      "title": "Fi Ultra Satellite Dog Tracker",
+      "description": "",
+      "link": "https://uncrate.com/fi-ultra-satellite-dog-tracker/",
+      "guid": "https://uncrate.com/fi-ultra-satellite-dog-tracker/",
+      "image": "https://uncrate.com/assets_c/2026/07/fi-ultra-satellite-dog-tracker-2-thumb-960xauto-192423.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785538800000
+    },
+    {
+      "title": "Heretic The Entomologist Bug Spray",
+      "description": "",
+      "link": "https://uncrate.com/heretic-the-entomologist-bug-spray/",
+      "guid": "https://uncrate.com/heretic-the-entomologist-bug-spray/",
+      "image": "https://uncrate.com/assets_c/2026/07/heretic-the-entomologist-bug-spray-22-thumb-960xauto-192421.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785535200000
+    },
+    {
+      "title": "Trump beordrar nya attacker",
+      "description": "”Vi kommer slå mycket hårt”",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-beordrar-nya-attacker/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-beordrar-nya-attacker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785534958000
+    },
     {
       "title": "Space X–raket på väg att krocka med månen",
       "description": "Driver mot månen i 8700 km/h • Forskarnas oro",
@@ -11,7 +71,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785534820000
+      "timestamp": 1785534819000
     },
     {
       "title": "Jätteprotester i Kiev",
@@ -24,6 +84,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785533666000
     },
     {
+      "title": "Everyday Carry: Brush",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-brush/",
+      "guid": "https://uncrate.com/everyday-carry-brush/",
+      "image": "https://uncrate.com/assets_c/2026/07/edc-brush-darkened-thumb-960xauto-192404.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785531600000
+    },
+    {
+      "title": "Storyteller Overland GXV WILD Truck",
+      "description": "",
+      "link": "https://uncrate.com/storyteller-overland-gxv-wild-truck/",
+      "guid": "https://uncrate.com/storyteller-overland-gxv-wild-truck/",
+      "image": "https://uncrate.com/assets_c/2026/07/storyteller-overland-gxv-wild-truck-1-thumb-960xauto-192420.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785530700000
+    },
+    {
       "title": "Terroristens koppling till Sverige – jihadistsläkt",
       "description": "Från Borås till Berlin – samma jihadistsläkt pekas ut för terrordåd på flera platser i Europa. Terroristen Abdul Rahman Ballout som pekas ut för attacken mot en prideparad i Berlin har kopplingar till en jihadistisk klan som finns också i Sverige, skriver 100.se. Fyra bröder från en familj i Borås ska ha dött i attacker i Syrien och Libanon.",
       "link": "https://www.expressen.se/nyheter/varlden/terroristens-koppling-till-sverige-jihadistslakt/",
@@ -32,6 +112,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785530615000
+    },
+    {
+      "title": "Klaro 30 Caliber Smoke Can Humidor",
+      "description": "",
+      "link": "https://uncrate.com/klaro-30-caliber-smoke-can-humidor/",
+      "guid": "https://uncrate.com/klaro-30-caliber-smoke-can-humidor/",
+      "image": "https://uncrate.com/assets_c/2025/11/30-cal-humidor-2-thumb-960xauto-187170.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785528000000
     },
     {
       "title": "Det här vet vi om båtolyckan utanför Tjörn",
@@ -324,16 +414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785517200000
     },
     {
-      "title": "Familjen dödades i ryska attacken",
-      "description": "Voronov-familjen hade inte en chans att fly när den ryska roboten träffade huset. Sex ur familjen dödades i attacken. ”Den ryska robotens nedslag var så kraftfullt att nästan ingenting var kvar av huset”, skriver Zelenskyj på Telegram, enligt Kyiv Independent .",
-      "link": "https://www.expressen.se/nyheter/varlden/familjen-dodades--i-ryska-attacken/",
-      "guid": "https://www.expressen.se/nyheter/varlden/familjen-dodades--i-ryska-attacken/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785516779000
-    },
-    {
       "title": "Fotbollsstjärna besöker Kärrtorp: ”Bjussade på tips”",
       "description": "Tidigare United-stjärnan Wes Brown dök upp i Kärrtorp för att skriva autografer till glada fans och träna ihop med BKBK P2014.",
       "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besoker-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
@@ -362,16 +442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785515400000
-    },
-    {
-      "title": "Italien pausar Schengen-samarbetet",
-      "description": "Italienska svaret på migrantkaoset",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba6f64e6-05d9-40c8-8b90-e13945de1bb0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba6f64e6-05d9-40c8-8b90-e13945de1bb0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785514231000
     },
     {
       "title": "Tjänstefolket försvinner spårlöst",
@@ -432,26 +502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785511800000
-    },
-    {
-      "title": "SD-toppen: Besviken på Johan Forssell",
-      "description": "Sveriges regering måste agera kraftfullt på den spanska migrationskrisen. Det säger Ludvig Aspling (SD). – Jag är rätt besviken på Johan Forssell. Nu svarar Forssell.",
-      "link": "https://www.expressen.se/nyheter/politik/sd-toppen-besviken--pa-johan-forssell/",
-      "guid": "https://www.expressen.se/nyheter/politik/sd-toppen-besviken--pa-johan-forssell/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785511586000
-    },
-    {
-      "title": "Vulkanen spyr ut lava över turistön",
-      "description": "Andra utbrottet på en månad",
-      "link": "https://www.expressen.se/tv/nyheter/spyr-ut-lava-over-turiston",
-      "guid": "https://www.expressen.se/tv/nyheter/spyr-ut-lava-over-turiston",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785511226000
     },
     {
       "title": "Så påverkas trafiken av Stockholm Pride",
@@ -1144,16 +1194,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785447734000
     },
     {
-      "title": "Garb: Sturdy",
-      "description": "",
-      "link": "https://uncrate.com/garb-sturdy/",
-      "guid": "https://uncrate.com/garb-sturdy/",
-      "image": "https://uncrate.com/assets_c/2026/07/garb-sturdy-darkened-thumb-960xauto-192402.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785445200000
-    },
-    {
       "title": "Livräddarna i väskan - så packar du smartast",
       "description": "Så packar du smart inför utflykten eller semestern.",
       "link": "https://www.mitti.se/nyheter/livraddarna-i-vaskan--sa-packar-du-smartast-6.3.370201.898cac2fa8",
@@ -1174,36 +1214,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785442947000
     },
     {
-      "title": "D'USSÉ JAŸ-Z30 Limited Edition VSOP 2026 Cognac",
-      "description": "",
-      "link": "https://uncrate.com/dusse-jay-z30-limited-edition-vsop-2026-cognac/",
-      "guid": "https://uncrate.com/dusse-jay-z30-limited-edition-vsop-2026-cognac/",
-      "image": "https://uncrate.com/assets_c/2026/07/jay-z30-2-thumb-960xauto-192400.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785441601000
-    },
-    {
-      "title": "Ranger Station Shot Glass Candle Gift Set",
-      "description": "",
-      "link": "https://uncrate.com/ranger-station-shot-glass-candle-gift-set/",
-      "guid": "https://uncrate.com/ranger-station-shot-glass-candle-gift-set/",
-      "image": "https://uncrate.com/assets_c/2026/07/ranger-station-shot-glass-candle-gift-set-11-darkened-thumb-960xauto-192401.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785441000000
-    },
-    {
-      "title": "Narwal Flow 2 Robot Vacuum",
-      "description": "",
-      "link": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "guid": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "image": "https://uncrate.com/assets_c/2026/07/narwal-robot-vacuum-2-thumb-960xauto-192163.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785439832000
-    },
-    {
       "title": "Har du problem med alkoholen?",
       "description": "Dagens fråga Tidigare idag berättade vi om en undersökning som visat på trevlig resultat för de som dricker alldeles för mycket. Semaglutid i tablettform har helt enkelt visat att suget efter alkohol minskar och man dricker mindre, vare sig man vill det inte eller inte. Men hur står det till med ditt drickande? L&auml;s vidare och kommentera: https://feber.se/har-du-problem-med-alkoholen/494586/ L&auml;s mer om Semaglutid , tabletter , alkohol , hälsa , Alkoholberoende , läkemedelsforskning",
       "link": "https://feber.se/har-du-problem-med-alkoholen/494586/?utm_source=rss&utm_medium=feed",
@@ -1211,16 +1221,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785438000000
-    },
-    {
-      "title": "Stan Lee-Signed Star Wars #44 Comic Print",
-      "description": "",
-      "link": "https://uncrate.com/stan-lee-signed-star-wars-44-comic-print/",
-      "guid": "https://uncrate.com/stan-lee-signed-star-wars-44-comic-print/",
-      "image": "https://uncrate.com/assets_c/2026/05/stan-lee-signed-star-wars-44-comic-print-11-thumb-960xauto-190734.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785438000000
     },
     {
@@ -2824,26 +2824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784944527000
     },
     {
-      "title": "15 bänkar i regnbågens färger intar stan inför Pride",
-      "description": "Parkbänkar målade i regnbågens färger finns på plats i Stockholm inför Pridefestivalen 2026, pridebänkar inför Stockholm Pride",
-      "link": "https://www.mitti.se/nyheter/15-bankar-i-regnbagens-farger-intar-stan-infor-pride-6.3.376846.81148f3157",
-      "guid": "https://www.mitti.se/nyheter/15-bankar-i-regnbagens-farger-intar-stan-infor-pride-6.3.376846.81148f3157",
-      "image": "https://www.mitti.se/image-3.377022.301028.20260724163113.e756b87818?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784908800000
-    },
-    {
-      "title": "Här fortsätter Pridefesten in i natten – Debaser är redo",
-      "description": "På Debaser firas Prideveckan under fem dagar.",
-      "link": "https://www.mitti.se/nyheter/har-fortsatter-pridefesten-in-i-natten--debaser-ar-redo-6.3.376554.ce2d18c04d",
-      "guid": "https://www.mitti.se/nyheter/har-fortsatter-pridefesten-in-i-natten--debaser-ar-redo-6.3.376554.ce2d18c04d",
-      "image": "https://www.mitti.se/image-3.376812.300683.20260724144511.60edbfe76b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784902500000
-    },
-    {
       "title": "Scientists discover a compound that could supercharge aging muscle repair",
       "description": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
@@ -2862,16 +2842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784899630000
-    },
-    {
-      "title": "Då är hettan tillbaka i stan: \"28 grader är inte otroligt\"",
-      "description": "Mot mitten på nästa vecka kommer högsommarvärmen tillbaka till Stockholm enligt prognoser från SMHI.",
-      "link": "https://www.mitti.se/nyheter/da-ar-hettan-tillbaka-i-stan-28-grader-ar-inte-otroligt-6.3.377380.1938aa0398",
-      "guid": "https://www.mitti.se/nyheter/da-ar-hettan-tillbaka-i-stan-28-grader-ar-inte-otroligt-6.3.377380.1938aa0398",
-      "image": "https://www.mitti.se/image-3.118304.301018.20260724133131.35f97a220f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784898040000
     },
     {
       "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
@@ -2894,16 +2864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784888074000
     },
     {
-      "title": "Man greps i natt – försökte dränka ex-flickvän i damm",
-      "description": "En man har gripits misstänkt för mordförsök/grov misshandel efter att ha attackerat sin ex-flickvän vid en damm. Han ska försökt strypa och dränka henne efter ett bråk.",
-      "link": "https://www.mitti.se/nyheter/man-greps-i-natt--forsokte-dranka-exflickvan-i-damm-6.3.377375.4b3f252fa5",
-      "guid": "https://www.mitti.se/nyheter/man-greps-i-natt--forsokte-dranka-exflickvan-i-damm-6.3.377375.4b3f252fa5",
-      "image": "https://www.mitti.se/image-3.267028.301014.20260728093835.e1fa83e387?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784886674000
-    },
-    {
       "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
       "description": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
@@ -2912,16 +2872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784881852000
-    },
-    {
-      "title": "I dag flyger försvarets helikoptrar på låg höjd i stan",
-      "description": "Försvarsmakten och polisen genomför en övning vid riksdagen i Stockholm. Under fredagen kan militärhelikoptrar på låg höjd synas över centrala stan.",
-      "link": "https://www.mitti.se/nyheter/i-dag-flyger-forsvarets-helikoptrar-pa-lag-hojd-i-stan-6.3.377367.3ea1af0306",
-      "guid": "https://www.mitti.se/nyheter/i-dag-flyger-forsvarets-helikoptrar-pa-lag-hojd-i-stan-6.3.377367.3ea1af0306",
-      "image": "https://www.mitti.se/image-3.252217.301003.20260724080308.e23e9ff2bd?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784880161000
     },
     {
       "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
@@ -2944,16 +2894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1784876634000
     },
     {
-      "title": "Godistjuv i Årsta stoppad av butikspersonal – ingen gripen",
-      "description": "Misstänkt godistjuv drog ett vapen mot butikspersonal i Årsta efter snatteri. Vapnet beslagtogs av polisen, men ingen misstänkt har gripits.",
-      "link": "https://www.mitti.se/nyheter/godistjuv-i-arsta-stoppad-av-butikspersonal--ingen-gripen-6.3.377362.bda473611c",
-      "guid": "https://www.mitti.se/nyheter/godistjuv-i-arsta-stoppad-av-butikspersonal--ingen-gripen-6.3.377362.bda473611c",
-      "image": "https://www.mitti.se/image-3.334302.300991.20260724075732.d863f9d02a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784874048000
-    },
-    {
       "title": "APOE2 may protect the brain from Alzheimer’s and aging",
       "description": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
@@ -2962,26 +2902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1784872815000
-    },
-    {
-      "title": "Fick sparken efter 47 sekunder på nya jobbet",
-      "description": "En person fick sparken efter 47 sekunder på nya jobbet.",
-      "link": "https://www.mitti.se/nyheter/fick-sparken-efter-47-sekunder-pa-nya-jobbet-6.3.376729.74cf4e4c24",
-      "guid": "https://www.mitti.se/nyheter/fick-sparken-efter-47-sekunder-pa-nya-jobbet-6.3.376729.74cf4e4c24",
-      "image": "https://www.mitti.se/image-3.367511.300880.20260724082242.1.9dfc5aaa5b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784871907000
-    },
-    {
-      "title": "Man hade snusdosa med \"kristall\" – frikänns från narkotikabrott",
-      "description": "En man i Stockholm frikänns från ringa narkotikabrott efter att ha hittat en snusdosa med ”kristall” på en klubbtoa vid Stureplan. Tingsrätten bedömer hans berättelse som trovärdig.",
-      "link": "https://www.mitti.se/nyheter/man-hade-snusdosa-med-kristall--frikanns-fran-narkotikabrott-6.3.376740.c68e0383de",
-      "guid": "https://www.mitti.se/nyheter/man-hade-snusdosa-med-kristall--frikanns-fran-narkotikabrott-6.3.376740.c68e0383de",
-      "image": "https://www.mitti.se/image-3.348076.300914.20260724082916.0794e4f512?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784865600000
     },
     {
       "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
