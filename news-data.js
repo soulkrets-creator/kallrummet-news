@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-01T21:43:17.389Z",
+  "updatedAt": "2026-08-02T01:45:44.484Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Varnar för extremhetta",
+      "description": "Uppemot 40 grader i södra Europa",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7287d1a1-6b26-442c-a38c-17cdd2e9adcc",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7287d1a1-6b26-442c-a38c-17cdd2e9adcc",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785634153000
+    },
+    {
+      "title": "Tre döda i explosion på restaurang i Moskva",
+      "description": "Tre personer har dött och 21 skadats i en explosion i centrala Moskva. Explosionen skedde vid en restaurang som abonnerats för en privat fest. Enligt uppgifter till ryska medier var en högt uppsatt person inom försvaret på restaurangen.",
+      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785634141000
+    },
+    {
+      "title": "Flera döda",
+      "description": "Efter skjutning vid restaurang i USA",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0ba6106a-a96a-419d-ae49-b5a27c73cbcb",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0ba6106a-a96a-419d-ae49-b5a27c73cbcb",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785634122000
+    },
+    {
+      "title": "13 döda i flygkrasch i Peru",
+      "description": "Alla 13 ombord omkom när ett mindre flygplan med turister störtade i södra Peru på lördagen. Av de döda är elva passagerare och två piloter. Planet kraschade när det flög över en populär turistattraktion.",
+      "link": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
+      "guid": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785627186000
+    },
+    {
+      "title": "Ny demensupptäckt: En liten förändring i din dagliga promenad kan skydda dig mot det allvarliga tillståndet",
+      "description": "Forskarna ger mycket specifika råd om hur du kan minska risken för att utveckla det allvarliga tillståndet.",
+      "link": "https://illvet.se/halsa/en-liten-andring-i-din-dagliga-promenad-kan-skydda-dig-mot-demens-enligt-forskarna-bakom-ny-studie",
+      "guid": "https://illvet.se/halsa/en-liten-andring-i-din-dagliga-promenad-kan-skydda-dig-mot-demens-enligt-forskarna-bakom-ny-studie",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785621600000
+    },
     {
       "title": "Ukraina: Vi har sänkt ryskt fartyg",
       "description": "Ett ryskflaggat sanktionerat containerfartyg har sänkts av Ukraina. Det skriver president Zelenskyj på X .",
@@ -34,16 +84,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785616236000
     },
     {
-      "title": "Tre döda i explosion på restaurang i Moskva",
-      "description": "Tre personer har dött och 15 skadats i en explosion i centrala Moskva.",
-      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785615498000
-    },
-    {
       "title": "Stockholms första Kinarestaurang stänger efter 63 år",
       "description": "Restaurang Hong Kong på Kungsholmen stänger den 1 oktober efter 63 år. Familjen Ng tackar stammisarna efter decennier av autentisk kinesisk mat i Stockholm.",
       "link": "https://www.mitti.se/nyheter/stockholms-forsta-kinarestaurang-stanger-efter-63-ar-6.3.377697.2af43adcbd",
@@ -72,16 +112,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785614126000
-    },
-    {
-      "title": "13 döda i flygkrasch",
-      "description": "Alla 13 ombord omkom när ett mindre flygplan med turister störtade i södra Peru på lördagen. Av de döda är elva passagerare och två piloter. Planet kraschade när det flög över en populär turistattraktion.",
-      "link": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
-      "guid": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785614119000
     },
     {
       "title": "Tre döda i explosion i Moskva",
@@ -354,16 +384,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785597512000
     },
     {
-      "title": "Jättebrand i Ryssland",
-      "description": "Stora anläggningar attackerade",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/stora-oljeanlaggningarna-i-lagor",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-oljeanlaggningarna-i-lagor",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785597003000
-    },
-    {
       "title": "Nya EU-krav tvingar fram märkning av AI-innehåll",
       "description": "I morgon måste AI-grejer markeras så folk fattar I morgon kommer EU att skärpa kraven på transparens kring artificiell intelligens. Enligt det nya regelverket så måste allt AI-genererat innehåll som ser verklighetstroget ut förses med en tydlig märkning eller någon form av digitalt vattenmärke. Kravet omfattar både text, bilder och ljudfiler som kan misstas för att vara äkta. Man hoppas att dessa nya regler ska göra tekniken mer tydlig i områden där AI redan används flitigt utan att publiken alltid är medveten om det. Tanken är att detta ska skydda konsumenter från att bli vilseledda och att värna demokratin genom att säkra äktheten i den information som sprids online. De nya reglerna gäller omedelbart för nya AI-tjänster som lanseras från och med i morgon. Befintliga AI-tjänster får ytterligare fyra månader på sig att anpassa sig efter de nya reglerna. Företag som misslyckas med att märka sitt innehåll riskerar kännbara böter på upp till tre procent av sin totala globala omsättning. Det finns dock vissa undantag i reglerna. Privatpersoner som skapar AI-innehåll för internt bruk, exempelvis skämt i en chattgrupp, berörs inte. Dessutom görs undantag för uppenbart konstnärliga verk, satir eller fiktion. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/ L&auml;s mer om EU , artificiell intelligens , transparens , digitalt vattenmärke , AI-genererat innehåll",
       "link": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
@@ -372,16 +392,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785596400000
-    },
-    {
-      "title": "Ingen aktiv sökinsats efter försvunna Gothia cup-pojkar",
-      "description": "De etiopiska pojkar som anmäldes försvunna efter Gothia cup är internationellt efterlysta. Men det pågår inga sökinsatser från svenskt håll. – Vi letar inte aktivt, för vi vet inte var vi ska leta, säger Mikael Holmgren vid gränspolisen till GP.",
-      "link": "https://www.expressen.se/gt/ingen-aktiv-sokinsats-efter-forsvunna-gothia-cup-pojkar/",
-      "guid": "https://www.expressen.se/gt/ingen-aktiv-sokinsats-efter-forsvunna-gothia-cup-pojkar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785596003000
     },
     {
       "title": "HIFK värvar svensk tränare – ”Masken” Carlsson ansluter",
@@ -1824,16 +1834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785405511000
     },
     {
-      "title": "Därför har en molnfri himmel så många blå färger",
-      "description": "Dagen efter ett regnoväder har himlen en mycket speciell nyans.",
-      "link": "https://illvet.se/naturen/varfor-har-en-molnfri-himmel-sa-manga-bla-farger",
-      "guid": "https://illvet.se/naturen/varfor-har-en-molnfri-himmel-sa-manga-bla-farger",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785402017000
-    },
-    {
       "title": "Man onanerade i Flemingsbergs centrum",
       "description": "Polisen larmades till Flemingsbergs torg efter att en man onanerat öppet. En anmälan om sexuellt ofredande har upprättats, men mannen är inte anhållen.",
       "link": "https://www.mitti.se/nyheter/man-onanerade-i-flemingsbergs-centrum-6.3.377670.daf5edbaf8",
@@ -2952,56 +2952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785041400000
-    },
-    {
-      "title": "Man lockade flickor till skogsdunge – erbjöd droger mot sex",
-      "description": "Mannen i 20-årsåldern dömdes till fyra års fängelse för att ha våldtagit två 14-åriga flickor i Botkyrka efter att ha erbjudit dem droger.",
-      "link": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
-      "guid": "https://www.mitti.se/nyheter/man-lockade-flickor-till-skogsdunge--erbjod-droger-mot-sex-6.3.376831.b6d3021518",
-      "image": "https://www.mitti.se/image-3.333502.300955.20260730204607.9ea44e11e2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784995200000
-    },
-    {
-      "title": "20 000 väntas fira Stockholm pride 2026 – bästa tipsen för veckan",
-      "description": "Så här kan du fira Stockholm Pride 2026.",
-      "link": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
-      "guid": "https://www.mitti.se/nyheter/20-000-vantas-fira-stockholm-pride-2026--basta-tipsen-for-veckan-6.3.377371.dfca5bc685",
-      "image": "https://www.mitti.se/image-3.247291.301007.20260726160838.b23b982dd1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784981580000
-    },
-    {
-      "title": "Nu ändras reglerna för att övningsköra",
-      "description": "Från 1 augusti blir privat övningskörning billigare när introduktionsutbildningen tas bort. Körskolor varnar samtidigt för sämre trafiksäkerhet och fler olyckor.",
-      "link": "https://www.mitti.se/nyheter/nu-andras-reglerna-for-att-ovningskora-6.3.369984.fb47f30995",
-      "guid": "https://www.mitti.se/nyheter/nu-andras-reglerna-for-att-ovningskora-6.3.369984.fb47f30995",
-      "image": "https://www.mitti.se/image-3.374267.296978.20260725064623.2d668547ce?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784960100000
-    },
-    {
-      "title": "Glädjebeskedet: Tullinge ett steg närmare en ny entré",
-      "description": "Bland åtgärdsförslagen för Tullinge station finns en ny entré till pendelperrongen.",
-      "link": "https://www.mitti.se/nyheter/gladjebeskedet-tullinge-ett-steg-narmare-en-ny-entre-6.3.376734.1aa5874050",
-      "guid": "https://www.mitti.se/nyheter/gladjebeskedet-tullinge-ett-steg-narmare-en-ny-entre-6.3.376734.1aa5874050",
-      "image": "https://www.mitti.se/image-3.170289.300890.20260725063120.1.1ac09f3f2c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784959200000
-    },
-    {
-      "title": "Stilen stockholmarna INTE vill se i sommar",
-      "description": "Sommartrender 2026 – det ska man ha på sig och det ska man inte ha på sig",
-      "link": "https://www.mitti.se/nyheter/stilen-stockholmarna-inte-vill-se-i-sommar-6.3.366996.b10d5e20f7",
-      "guid": "https://www.mitti.se/nyheter/stilen-stockholmarna-inte-vill-se-i-sommar-6.3.366996.b10d5e20f7",
-      "image": "https://www.mitti.se/image-3.371606.293796.20260725043002.1.c8aefd5df8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1784952000000
     }
   ]
 };
