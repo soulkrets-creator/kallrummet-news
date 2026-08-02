@@ -1,8 +1,188 @@
 {
-  "updatedAt": "2026-08-02T01:45:44.484Z",
+  "updatedAt": "2026-08-02T05:46:06.190Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Så lyckas du få ut dina barn i naturen",
+      "description": "Naturutflykter behöver inte vara komplicerade eller dyra. Nadja Mäkelä är regelbundet är ute i naturen med sina barn. Här delar hon med sig av sina bästa tips.",
+      "link": "https://yle.fi/a/7-10102818?origin=rss",
+      "guid": "https://yle.fi/a/7-10102818",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785648926000
+    },
+    {
+      "title": "Nu måste företag berätta om innehåll skapat av AI",
+      "description": "EU inför nya regler för artificiell intelligens som påverkar chattbotar och AI-verktyg.",
+      "link": "https://yle.fi/a/7-10102969?origin=rss",
+      "guid": "https://yle.fi/a/7-10102969",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785648765000
+    },
+    {
+      "title": "Begravningsentreprenör sökes i Nyland: ”Vi hanterar inte döda så mycket som folk tror”",
+      "description": "Enligt begravningsentreprenören Denise Lönnblad missförstår många vad jobbet går ut på. Hon befarar att brist på arbetskraft kan leda till fler slarvfel.",
+      "link": "https://yle.fi/a/7-10102611?origin=rss",
+      "guid": "https://yle.fi/a/7-10102611",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785648613000
+    },
+    {
+      "title": "”Hjälp, jag skäms för mitt slöa och icke-ambitiösa barn”",
+      "description": "Den enas unge har fått ett fint jobb, den andras en spännande studieplats. Men vad göra när den egna gullungen mest ligger hemma och äter chips?",
+      "link": "https://yle.fi/a/7-10102858?origin=rss",
+      "guid": "https://yle.fi/a/7-10102858",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785647574000
+    },
+    {
+      "title": "Man slagen med krycka",
+      "description": "Man i 70-årsåldern misstänkt",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=23dde55b-aeba-4201-b83e-6ba0aa01cf73",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=23dde55b-aeba-4201-b83e-6ba0aa01cf73",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785647469000
+    },
+    {
+      "title": "Prisras på lägenheter i juli: ”Sticker ut”",
+      "description": "Bostadspriserna i Sverige sjönk med 2,4 procent under juli som helhet. Lägenheter blev rejält billigare och mest rasade priserna i Storstockholm. – Det är överraskande, säger Robert Boije, chefsekonom på SBAB.",
+      "link": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
+      "guid": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785647381000
+    },
+    {
+      "title": "Sommar i P1: Ebba Witt-Brattström om att försöka bli svensk",
+      "description": "THEO VAREMAN: Så många [geting] får Ebba Witt-Brattströms sommarprat",
+      "link": "https://www.expressen.se/nyheter/sommar-i-p1-ebba-witt-brattstrom-om-att-forsoka-bli-svensk/",
+      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-ebba-witt-brattstrom-om-att-forsoka-bli-svensk/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785646800000
+    },
+    {
+      "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
+      "description": "En man i 50-årsåldern i Täby döms för hot och kontaktförbudsbrott mot sin ex-fru och hennes syster under sin villkorliga frigivning.",
+      "link": "https://www.mitti.se/nyheter/villkorligt-frigiven-man-vantade-vid-svagerskas-bostad--doms-igen-6.3.377489.9e48f7f3b1",
+      "guid": "https://www.mitti.se/nyheter/villkorligt-frigiven-man-vantade-vid-svagerskas-bostad--doms-igen-6.3.377489.9e48f7f3b1",
+      "image": "https://www.mitti.se/image-3.351485.301092.20260802053039.1.7c8220e172?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785646800000
+    },
+    {
+      "title": "Uppgifter: Uefa ställer ultimatum till Gianni Infantino – avgå eller möt misstroendeomröstning",
+      "description": "Uefa har tidigare meddelat att man saknar förtroende för Gianni Infantino. Nu kommer även uppgifter i brittisk press om att Uefa kan tvinga fram en misstroendeomröstning.",
+      "link": "https://yle.fi/a/7-10102968?origin=rss",
+      "guid": "https://yle.fi/a/7-10102968",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785646656000
+    },
+    {
+      "title": "Därför är Ölmos badstrand en dold pärla som är värd att besöka",
+      "description": "Badstranden i Ölmos blir aldrig för fullsatt, upplever besökare.",
+      "link": "https://yle.fi/a/7-10102623?origin=rss",
+      "guid": "https://yle.fi/a/7-10102623",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785646255000
+    },
+    {
+      "title": "TBE ökar i Blekinge – varningen",
+      "description": "Kan leda till hjärnhinneinflammation",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5284d00a-3732-4e6d-97d2-beef2bb4f42e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5284d00a-3732-4e6d-97d2-beef2bb4f42e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785644889000
+    },
+    {
+      "title": "”Hangö Casino ska inte bli en stängd klubb för ett fåtal utvalda”",
+      "description": "Sälja eller renovera för miljoner? Ledningen i Hangö är synnerligen eniga om Casinos framtid: landmärket ska räddas och bli allas vardagsrum.",
+      "link": "https://yle.fi/a/7-10102766?origin=rss",
+      "guid": "https://yle.fi/a/7-10102766",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785643394000
+    },
+    {
+      "title": "Trump: Stoppar planerade attacker mot Iran",
+      "description": "USA hade planerat omfattande attacker mot Iran under helgen tillsammans med Israel, enligt flera amerikanska medier. Nu meddelar Trump att han har blåst av attackerna – då länderna är nära ett nytt avtal, skriver presidenten på Truth Social .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-avbryter-attacker/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-avbryter-attacker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785643316000
+    },
+    {
+      "title": "Trump anklagas för korruption – efter nya tjänsten",
+      "description": "Trump lanserar betaltjänst på sin sociala plattform. För en miljon kronor får användare hans uttalande i förtid – nu varnar kritiker för korruption och marknadsmanipulation. – Om detta hade varit vd:n för ett börsnoterat bolag, så hade det lett till fängelse, säger Irene Aldridge till The Independent .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-anklagas-for-korruption-efter-betaltjansten/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-anklagas-for-korruption-efter-betaltjansten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785643231000
+    },
+    {
+      "title": "Simon blev av med väskan i LA – dök upp igen efter reel på Instagram",
+      "description": "Under semestern i Los Angeles blev Simon Vincent av med sin ryggsäck med både laptop och Ipad. Sex veckor senare dök den upp igen – tack vare en reel på Instagram. – Simon trodde först att någon drev med honom med hjälp av AI, säger sambon Malin Hessel.",
+      "link": "https://www.expressen.se/nyheter/sverige/simon-blev-av-med-vaskan-i-la-dok-upp-igen-efter-reel-pa-instagram-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/simon-blev-av-med-vaskan-i-la-dok-upp-igen-efter-reel-pa-instagram-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785641749000
+    },
+    {
+      "title": "Sydafrikas kvinnor vill få tryggheten tillbaka",
+      "description": "Hot om våld skuggar kvinnornas vardag i Sydafrika. Nikita Le Roux sover med en pistol under dynan för att känna sig trygg.",
+      "link": "https://yle.fi/a/7-10102162?origin=rss",
+      "guid": "https://yle.fi/a/7-10102162",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785641414000
+    },
+    {
+      "title": "Trump säger att han inte ska attackera Iran",
+      "description": "Donald Trump ställer in planerade attacker mot Iran efter oro för att konflikten skulle eskalera.",
+      "link": "https://yle.fi/a/7-10102967?origin=rss",
+      "guid": "https://yle.fi/a/7-10102967",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785640544000
+    },
+    {
+      "title": "Här är svenskarna bakom lyxklubben",
+      "description": "Palma Sport & Tennis Club på Mallorca är en av öns mest exklusiva träningsklubbar. Klubben drivs av de svenska entreprenörerna Mikael Landström och Johanna Björkman Landström och har blivit en självklar mötesplats för kändisar, företagsledare och välbärgade semesterfirare. – Vi har 1 000 medlemmar och 1 200 står i kö, säger Mikael Landström.",
+      "link": "https://www.expressen.se/nyheter/varlden/har-ar-svenskarna--bakom-lyxklubben/",
+      "guid": "https://www.expressen.se/nyheter/varlden/har-ar-svenskarna--bakom-lyxklubben/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785639600000
+    },
     {
       "title": "Varnar för extremhetta",
       "description": "Uppemot 40 grader i södra Europa",
@@ -11,17 +191,17 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785634153000
+      "timestamp": 1785639513000
     },
     {
-      "title": "Tre döda i explosion på restaurang i Moskva",
-      "description": "Tre personer har dött och 21 skadats i en explosion i centrala Moskva. Explosionen skedde vid en restaurang som abonnerats för en privat fest. Enligt uppgifter till ryska medier var en högt uppsatt person inom försvaret på restaurangen.",
-      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "title": "SMHI varnar",
+      "description": "Risk för skogsbränder i flera delar av landet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2528e7c-a5e6-4cce-8998-ab7b5faaed74",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2528e7c-a5e6-4cce-8998-ab7b5faaed74",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785634141000
+      "timestamp": 1785639484000
     },
     {
       "title": "Flera döda",
@@ -31,7 +211,27 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785634122000
+      "timestamp": 1785639408000
+    },
+    {
+      "title": "Tretton döda när turistplan kraschade i Peru",
+      "description": "Tretton personer dog när ett plan med europeiska turister kraschade över Nazcalinjerna i södra Peru.",
+      "link": "https://yle.fi/a/7-10102966?origin=rss",
+      "guid": "https://yle.fi/a/7-10102966",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785639313000
+    },
+    {
+      "title": "Tre döda i explosion på restaurang i Moskva",
+      "description": "Tre personer har dött och 21 skadats i en explosion i centrala Moskva. Explosionen skedde vid en restaurang som abonnerats för en privat fest. Enligt uppgifter till ryska medier var en högt uppsatt person inom försvaret på restaurangen.",
+      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785638596000
     },
     {
       "title": "13 döda i flygkrasch i Peru",
@@ -41,7 +241,7 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785627186000
+      "timestamp": 1785627184000
     },
     {
       "title": "Ny demensupptäckt: En liten förändring i din dagliga promenad kan skydda dig mot det allvarliga tillståndet",
@@ -234,26 +434,6 @@
       "timestamp": 1785608066000
     },
     {
-      "title": "Olof K Gustafsson döms till fyra års fängelse",
-      "description": "Olof K Gustafsson har dömts till fyra års fängelse för bedrägeri. Han fälldes för att ha lurat investerare genom att marknadsföra och sälja produkter som inte fanns. Svensken ska också betala tillbaka motsvarande över tolv miljoner kronor, beslutar en domstol i Los Angeles.",
-      "link": "https://www.expressen.se/nyheter/varlden/olof-k-gustafsson-doms-till-fyra-ars-fangelse/",
-      "guid": "https://www.expressen.se/nyheter/varlden/olof-k-gustafsson-doms-till-fyra-ars-fangelse/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785607465000
-    },
-    {
-      "title": "Man och kvinna skadade – man gripen",
-      "description": "En man och en kvinna har skadats av okända gärningsmän i centrala Göteborg. En man har gripits.",
-      "link": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
-      "guid": "https://www.expressen.se/gt/man-misshandlad-flera-garningsman-jagas-med-helikopter-i-goteborg/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785606857000
-    },
-    {
       "title": "Olyckorna avlöser varandra i Jyväskylärallyt – Sébastien Ogier till sjukhus med helikopter",
       "description": "Tre bilar har voltat under Jyväskyläs VM-rally: Esapekka Lappi, Elfyn Evans och senast Sébastien Ogier.",
       "link": "https://yle.fi/a/7-10102961?origin=rss",
@@ -264,46 +444,6 @@
       "timestamp": 1785606354000
     },
     {
-      "title": "Två anhållna för grov våldtäkt",
-      "description": "Åklagarens beslut i Malmö",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=44a98b75-f7df-4724-9522-5772e06fc81b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=44a98b75-f7df-4724-9522-5772e06fc81b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785605879000
-    },
-    {
-      "title": "Flera söks med helikopter",
-      "description": "Stor polisinsats • Man och kvinna skadade",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2912957e-d96c-48aa-aa01-4f57fb028d97",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2912957e-d96c-48aa-aa01-4f57fb028d97",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785605275000
-    },
-    {
-      "title": "Hizbollahmedlemmar dödade",
-      "description": "Israelisk attack i södra Libanon",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77f73159-aa9d-4afd-a132-b8accc5c05c8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77f73159-aa9d-4afd-a132-b8accc5c05c8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785604686000
-    },
-    {
-      "title": "Uppgifter: Gängtopp gripen i Jonas Falks bostad",
-      "description": "Emin Muqa Kulic, en av topparna i Dalennätverket, har gripits av polis, enligt uppgifter till SVT . Han uppges ha gripits i ett hus som ska vara den nyligen fängelsedömda Jonas Falks bostad.",
-      "link": "https://www.expressen.se/nyheter/krim/uppgifter-gangtopp-gripen-i-jonas-falks-hus/",
-      "guid": "https://www.expressen.se/nyheter/krim/uppgifter-gangtopp-gripen-i-jonas-falks-hus/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785603232000
-    },
-    {
       "title": "Finlands fotbollsförbund har tappat förtroendet för Gianni Infantino: ”Stödet är definitivt förlorat”",
       "description": "Ari Lahti kommenterar Fifas vändning. Enligt honom kan det bli svårt för Gianni Infantino att fortsätta som ordförande.",
       "link": "https://yle.fi/a/7-10102960?origin=rss",
@@ -312,16 +452,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785602483000
-    },
-    {
-      "title": "Björn attackerade kvinna – kom undan jägare",
-      "description": "En björn attackerade en kvinnlig bärplockare i en skog i Lycksele på fredagskvällen, rapporterar Västerbottens-Kuriren. Hon fördes av bekanta till sjukhus med oklara skador. Jägare har letat efter björnen för att avliva den – men har gett upp jakten.",
-      "link": "https://www.expressen.se/nyheter/bjorn-attackerade-kvinna-kom-undan-jagare/",
-      "guid": "https://www.expressen.se/nyheter/bjorn-attackerade-kvinna-kom-undan-jagare/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785602164000
     },
     {
       "title": "New York Times kritiserar Trumps isbrytaraffärer med Finland",
@@ -344,16 +474,6 @@
       "timestamp": 1785600900000
     },
     {
-      "title": "Världens bästa krog öppnar igen – efter skräcken i köket",
-      "description": "Världens bästa restaurang öppnar igen. Gourmetkrogen Noma i Köpenhamn tvingades stänga i mars sedan ägaren och stjärnkocken René Redzepi anklagats för övergrepp mot personalen. Nu gör mattemplet comeback under ny ledning efter fem månader.",
-      "link": "https://www.expressen.se/nyheter/varlden/varldens-basta-krog-oppnar-igen-efter-skracken-i-koket/",
-      "guid": "https://www.expressen.se/nyheter/varlden/varldens-basta-krog-oppnar-igen-efter-skracken-i-koket/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785600899000
-    },
-    {
       "title": "Forskare ifrågasätter gamla myter om Egyptens röda pyramid – dolda ramper var i själva verket något helt annat",
       "description": "I mer än 180 år har två enorma konstruktioner i närheten av en av Egyptens äldsta pyramider tolkats som ramper för transport av byggstenar. Modern teknik och historiska kartor antyder dock en annan förklaring.",
       "link": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
@@ -372,16 +492,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785599497000
-    },
-    {
-      "title": "Abdulahdi försökte ta sig till EU via Ceuta",
-      "description": "Abdulahdi Emziln lyfte ner sin treåriga dotter Hidaya i en uppblåsbar badring. Hans hustru Fadwa höll sig fast i den. Han sköt fram den i mörkret mot Europa. Runtomkring simmade tusentals människor. Några flöt fram men var döda. – Jag sa till min fru att inte titta på dem – fokusera på att nå fram, säger Abdulhadi. Två dygn senare sitter han på ett tåg tillbaka till Casablanca.",
-      "link": "https://www.expressen.se/nyheter/varlden/abdulahdi-forsokta-ta-sig-till-eu-via-ceuta/",
-      "guid": "https://www.expressen.se/nyheter/varlden/abdulahdi-forsokta-ta-sig-till-eu-via-ceuta/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785597512000
     },
     {
       "title": "Nya EU-krav tvingar fram märkning av AI-innehåll",
@@ -424,16 +534,6 @@
       "timestamp": 1785592800000
     },
     {
-      "title": "Amanda Kotaja nosade på världsrekordet igen",
-      "description": "Amanda Kotaja och Leo-Pekka Tähti hörde till toppnamnen under helgens FM i parafriidrott.",
-      "link": "https://yle.fi/a/7-10102956?origin=rss",
-      "guid": "https://yle.fi/a/7-10102956",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785592727000
-    },
-    {
       "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
       "description": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
@@ -452,26 +552,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785591221000
-    },
-    {
-      "title": "Världskända bergsbestigaren Nirmal Purja dog i lavin",
-      "description": "Expeditionen på tio personer överraskades på torsdagen av en kraftig lavin och alla har nu bekräftats döda.",
-      "link": "https://yle.fi/a/7-10102954?origin=rss",
-      "guid": "https://yle.fi/a/7-10102954",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785591096000
-    },
-    {
-      "title": "Spelet kring Gianni Infantino hårdnar: ”Ordförandeskapet blir en kamp mellan Fifa och Uefa”",
-      "description": "Det råder stort missnöje i Europa med fotbollsförbundet Fifas ordförande Gianni Infantino. Frågan är vem som kan utmana honom.",
-      "link": "https://yle.fi/a/7-10102953?origin=rss",
-      "guid": "https://yle.fi/a/7-10102953",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785590268000
     },
     {
       "title": "Ant brains reveal how evolution turned hunger into parenting",
@@ -594,26 +674,6 @@
       "timestamp": 1785583219000
     },
     {
-      "title": "Mindre solsken och färre blixtar i juli",
-      "description": "Temperaturern i juli var normal i hela Finland medan landets västra delar fick mycket regn.",
-      "link": "https://yle.fi/a/7-10102951?origin=rss",
-      "guid": "https://yle.fi/a/7-10102951",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785583044000
-    },
-    {
-      "title": "Storleken inte avgörande för lilla glassfabriken i Närpes, men företaget växer ändå",
-      "description": "Marknaden domineras av stora tillverkare, men en glass i taget får små aktörer nu fotfäste. Idag finns redan ett trettiotal finländska företag som tillverkar hantverksglass.",
-      "link": "https://yle.fi/a/7-10102926?origin=rss",
-      "guid": "https://yle.fi/a/7-10102926",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785582649000
-    },
-    {
       "title": "En titt på karriärläget i EA Sports FC 27",
       "description": "Bjuder på återköpsklausuler och oväntade spelarkonflikter EA Sports visade i går upp lite mer från årets upplaga av FC där man pratade lite mer ingående om spelels karriärläge. I detta spelläge har bland annat transfermarknaden fått sig en uppdatering med ett system som ska efterlikna verklighetens förhandlingar. Genom nya avtalsformer kan klubbar nu inkludera allt från återköpsklausuler till prestationsbaserade bonusar. Samtidigt ska spelarnas utveckling bli mer organisk där spelarnas totalbetyg (OVR) inte längre är statiskt utan påverkas direkt av formtoppar, skador och lagmoral. För lite spänning i vardagen har EA även lagt in oväntade händelser som kan vara allt från interna spelarkonflikter till poängavdrag på grund av ekonomiska bekymmer. En av nyheterna för i år är Creator Challenges vilket är ett verktyg där användare kan skapa och dela egna scenarier med andra spelare. Det kan vara specifika utmaningar som man då ska lösa ut. En komplett genomgång på alla nyheter kan hittas via länken nedan. Som vanligt med FC-revisioner utlovas det mest djupgående och personliga karriärläget hittills i spelseriens historia. Om det blir det återstår att se när spelet släpps den 18 september. L&auml;s vidare och kommentera: https://feber.se/spel/en-titt-pa-karriarlaget-i-ea-sports-fc-27/494631/ L&auml;s mer om EA Sports , Creator Challenges , FC , karriärläge , EA Sports FC , transfermarknad",
       "link": "https://feber.se/spel/en-titt-pa-karriarlaget-i-ea-sports-fc-27/494631/?utm_source=rss&utm_medium=feed",
@@ -622,16 +682,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785582000000
-    },
-    {
-      "title": "Uefa efter senaste dagarnas kaos: Vi har tappat förtroendet för Gianni Infantino",
-      "description": "Det europeiska fotbollsförbundet Uefa välkomnar beskedet att Gianni Infantino valt att backa och skrota planerna på att sälja VM-andelar.",
-      "link": "https://yle.fi/a/7-10102952?origin=rss",
-      "guid": "https://yle.fi/a/7-10102952",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785580944000
     },
     {
       "title": "Scientists left water inside a battery and nearly doubled its power",
@@ -674,16 +724,6 @@
       "timestamp": 1785578400000
     },
     {
-      "title": "EU:s inrikesministrar ska diskutera migrantintrånget i Ceuta på tisdag",
-      "description": "Ungefär 60 000 migranter tog sig över gränsen till den spanska enklaven på fredagen. Majoriteten har återvänt till Marocko.",
-      "link": "https://yle.fi/a/7-10102950?origin=rss",
-      "guid": "https://yle.fi/a/7-10102950",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785578051000
-    },
-    {
       "title": "Extremväder driver upp kopparpriset",
       "description": "Broar som täcks av snömassor och personal som evakuerats från anläggningar. Den senaste tidens extremväder, som hittills krävt 13 människoliv i Chile, har slagit ut kraftledningar och fått flera gruvbolag att avbryta sin produktion. Snöfall, stormar och översvämningar i Chiles bergsregioner har tvingat flera gruvbolag i området att stoppa sin kopparproduktion. Något som driver kopparpriset […]",
       "link": "https://www.dagensps.se/bors-finans/ravaror/extremvader-driver-upp-kopparpriset/",
@@ -722,16 +762,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785575626000
-    },
-    {
-      "title": "Dramatisk start på dagen i Jyväskylärallyt – se hur Elfyn Evans voltade flera gånger",
-      "description": "Det blev dramatiskt på den 14:e specialsträckan i Jyväskylärallyt när VM-ledaren Elfyn Evans tappade kontrollen och voltade flera gånger med sin bil bara några hundra meter från mållinjen.",
-      "link": "https://yle.fi/a/7-10102949?origin=rss",
-      "guid": "https://yle.fi/a/7-10102949",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785575163000
     },
     {
       "title": "Miljoner lider av sjukdomen – nu har åldrandeforskare upptäckt att den kan få din hjärna att åldras fortare",
@@ -784,16 +814,6 @@
       "timestamp": 1785573000000
     },
     {
-      "title": "Prischock på tåget? Därför kan din resa bli dyrare än väntat",
-      "description": "Tågresandet slår rekord och sistaminutenresan kan bli dyr. Vi förklarar varför och hur du undviker de högsta priserna.",
-      "link": "https://yle.fi/a/7-10101020?origin=rss",
-      "guid": "https://yle.fi/a/7-10101020",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785572933000
-    },
-    {
       "title": "Winamp gör comeback med Deezer",
       "description": "Ny version ska förena lokal musik med streaming Den legendariska musikspelaren Winamp gör ett nytt försök att erövra musikvärlden då man under nästa år planerar att lansera en helt ny version av spelaren som ska förena nostalgi med modern teknik. Den stora grejen med detta är ett samarbete med den franska streamingjätten Deezer. Visionen för det nya Winamp är att skapa en \"allt-i-ett-lösning\" där man då ska kunna blanda sina lokala musikfiler med streaming från Deezers katalog, poddar och internetradio i samma gränssnitt. Målet är att ge lyssnaren mer kontroll och en mer personlig upplevelse än vad dagens algoritmdrivna tjänster erbjuder. Lite halvt oväntat så har Winamp fortfarande omkring 40 miljoner trogna användare så kanske kan detta glädja dem eller så blir det bara shitification av det hela och leder till att fler lämnar nostalgin bakom sig. L&auml;s vidare och kommentera: https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/ L&auml;s mer om Winamp , Deezer , musikspelare , streaming , poddar , internetradio , musikstreaming",
       "link": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
@@ -802,16 +822,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785571200000
-    },
-    {
-      "title": "När Björn Weckströms hem öppnar för allmänheten flyr han med sin fru till Snappertuna",
-      "description": "Smyckesdesignern och konstnären Weckström är mest känd för smycken i Star Wars och på Yoko Ono, men i hans hem visas alla hans fantastiska skapelser.",
-      "link": "https://yle.fi/a/7-10102907?origin=rss",
-      "guid": "https://yle.fi/a/7-10102907",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785570885000
     },
     {
       "title": "Metal Slug fyller 30 år med ny modell",
