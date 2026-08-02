@@ -1,8 +1,148 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-02T15:52:31.137Z",
+  "updatedAt": "2026-08-02T18:53:28.121Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Ossian, 10, såg tromben i Umeå",
+      "description": "Mäktiga fenomenet fångas på film",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/ossian-10-sag-tromben-i-umea",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/ossian-10-sag-tromben-i-umea",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785696695000
+    },
+    {
+      "title": "Förbud mot gräsklippning på söndagar: ”Finns ju gränser”",
+      "description": "Gräsklippning på söndagar borde stoppas. Det föreslår en boende i Torsby kommun. Norrmannen Bernt Aage Lindsjö, 69, hyllar förslaget. – Det är en dag för vila, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/forbud-mot-grasklippning-pa-sondagar-finns-ju-granser/",
+      "guid": "https://www.expressen.se/nyheter/sverige/forbud-mot-grasklippning-pa-sondagar-finns-ju-granser/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785695497000
+    },
+    {
+      "title": "Jari-Matti Latvala om Sébastien Ogiers olycka: ”När bilen väl släpper går den inte att rädda”",
+      "description": "Sébastien Ogier har lämnat sjukhuset efter kraschen i Jyväskylärallyt. Det har spekulerats om orsaker till olyckan, men Jari-Matti Latvala dementerar ryktena.",
+      "link": "https://yle.fi/a/7-10102982?origin=rss",
+      "guid": "https://yle.fi/a/7-10102982",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785695461000
+    },
+    {
+      "title": "MP vill öppna regnbågshus i Stockholm: \"Oerhört viktigt\"",
+      "description": "Miljöpartiet vill skapa ett regnbågshus i Stockholm.",
+      "link": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
+      "guid": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
+      "image": "https://www.mitti.se/image-3.377405.301387.20260802183800.0796d6c50c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785695400000
+    },
+    {
+      "title": "Pojkar i krock med polisbuss",
+      "description": "Allvarligt skadade – färdades på elsparkcykel",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a8133e3-fed7-4ff8-953d-d956dd54dd54",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a8133e3-fed7-4ff8-953d-d956dd54dd54",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785695210000
+    },
+    {
+      "title": "Tusentals flyr lågorna",
+      "description": "Jättebrand i USA",
+      "link": "https://www.expressen.se/tv/nyheter/tusentals-evakueras-jattebranden-sprider-sig-snabbt-",
+      "guid": "https://www.expressen.se/tv/nyheter/tusentals-evakueras-jattebranden-sprider-sig-snabbt-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785693452000
+    },
+    {
+      "title": "Person hittad död i sjö i Växjö",
+      "description": "Polisen utreder dråp",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785692848000
+    },
+    {
+      "title": "Tidigare Maga-profilerna startar ny rörelse",
+      "description": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X .",
+      "link": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785692549000
+    },
+    {
+      "title": "Sanchez på semester mitt i krisen: ”Ceuta lider”",
+      "description": "Spaniens premiärminister Pedro Sanchez tar semester mitt under krisen i Ceuta och lägger ut sin spellista för sommaren. Han och hans familj är i Lanzarote på Kanarieöarna – och får skarp kritik. Samtidigt bärgar spanska myndigheter migranters döda kroppar ur vattnet medan hundratals marockaner vägrar lämna Ceuta.",
+      "link": "https://www.expressen.se/nyheter/varlden/sanchez-pa-semester-mitt-i-krisen-ceuta-lider/",
+      "guid": "https://www.expressen.se/nyheter/varlden/sanchez-pa-semester-mitt-i-krisen-ceuta-lider/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785691891000
+    },
+    {
+      "title": "Drinkflation – därför har ölen blivit svagare",
+      "description": "Vattnig öl har blivit allt vanligare i Storbritannien. Det kan bero på den nya trenden ”drinkflation” – där alkoholhalten sänks för lägre skatt.",
+      "link": "https://www.expressen.se/nyheter/drinkflation-darfor-har-olen-blivit-svagare/",
+      "guid": "https://www.expressen.se/nyheter/drinkflation-darfor-har-olen-blivit-svagare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785689152000
+    },
+    {
+      "title": "Här är biltillverkaren som vänder till vinst",
+      "description": "Stellantis vänder till vinst efter besvärliga tider. Fordonsjätten gör det i spåren av en ökad efterfrågan i Nordamerika. Fordonsjätten Stellantis inkluderar välkända varumärken som Citroen, Jeep, Dodge, Fiat, Chrysler och Peugeot. De prominenta märkena har inte lyckats manövrera Stellantis under de svåra tider som den globala bilindustrin utanför Kina lidit och lider av. Stort intresse […]",
+      "link": "https://www.dagensps.se/motor/har-ar-biltillverkaren-som-vander-till-vinst/",
+      "guid": "https://www.dagensps.se/?p=1660616",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlssjxx-r0wgm-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785689030000
+    },
+    {
+      "title": "Mytomspunna dansbanan i byn som släcktes ner",
+      "description": "Byns vägbelysning har släckts, men dansbanan håller öppet ännu en sommar. Mitt i djupa skogar, elva mil från närmaste stad, ligger den mytomspunna platsen. Expressen tillbringar en kväll i jämtländska Hällesjö. – Det är magiskt här, säger Anna Hansson, 34, från Bräcke. • Oskrivna reglerna på dansen. • Oväntade låten unga vill dansa till. • Byarna där belysningen släcks.",
+      "link": "https://www.expressen.se/nyheter/sverige/mytomspunna-dansbanan-i-byn-som-slacktes-ner/",
+      "guid": "https://www.expressen.se/nyheter/sverige/mytomspunna-dansbanan-i-byn-som-slacktes-ner/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785686518000
+    },
+    {
+      "title": "Arkeologer fann imponerande järnåldersby med minst 30 långhus – nära platsen för legendarisk massaker",
+      "description": "Den överraskande stora germanska bosättningen kastar nytt ljus över de nära handelsförbindelserna med romarriket – i ett område som annars är känt för något helt annat än handel mellan de två folken.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/arkeologer-fann-imponerande-jarnaldersby-med-minst-30-langhus",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/arkeologer-fann-imponerande-jarnaldersby-med-minst-30-langhus",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785686428000
+    },
+    {
+      "title": "Här kolliderar helikoptrarna",
+      "description": "Två döda i Grekland",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-kolliderar-helikoptrarna",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-kolliderar-helikoptrarna",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785686033000
+    },
     {
       "title": "Företagarnas pensionssystem skulle bli lätt och rättvist, men det kan bli problem",
       "description": "Förslaget till nytt pensionssystem för företagare får kritik. Det finns missnöje med hur avgiften beräknas och med att föråldrade uppgifter används.",
@@ -44,26 +184,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785682800000
     },
     {
-      "title": "Här kolliderar helikoptrarna",
-      "description": "Två döda i Grekland",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-kolliderar-helikoptrarna",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-kolliderar-helikoptrarna",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785682348000
-    },
-    {
-      "title": "Tusentals flyr lågorna",
-      "description": "Jättebrand i USA",
-      "link": "https://www.expressen.se/tv/nyheter/tusentals-evakueras-jattebranden-sprider-sig-snabbt-",
-      "guid": "https://www.expressen.se/tv/nyheter/tusentals-evakueras-jattebranden-sprider-sig-snabbt-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785682182000
-    },
-    {
       "title": "Brandhelikoptrar har kolliderat i Grekland",
       "description": "Två döda – släckte bränder vid Medelhavet",
       "link": "https://www.expressen.se/nyheter/varlden/brandhelikoptrar-har-kolliderat-i-grekland/",
@@ -94,8 +214,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785680977000
     },
     {
-      "title": "Helikoptrar krockade i Grekland – besättningarna har hittats",
-      "description": "Två helikoptrar har kolliderat under släckningsarbetet av skogsbränder väster om Aten. Båda besättningarna har hittats.",
+      "title": "En dansk och en grek döda i helikopterkrock i Grekland",
+      "description": "Två personer omkom och två överlevde när två släckningshelikoptrar kolliderade vid en skogsbrand väster om Aten på söndagen.",
       "link": "https://yle.fi/a/7-10102981?origin=rss",
       "guid": "https://yle.fi/a/7-10102981",
       "image": "",
@@ -264,16 +384,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785672000000
     },
     {
-      "title": "Leopard avlivad – efter allvarlig incident",
-      "description": "Efter allvarlig incident • ”Traumatisk”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b21c312c-3961-4e84-9b32-7e499f03eda5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b21c312c-3961-4e84-9b32-7e499f03eda5",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785671954000
-    },
-    {
       "title": "Snart får åsnor inte längre bo ensamma – därför behöver de en kompis av samma art",
       "description": "Från 2028 får åsnor inte hållas ensamma eller endast med hästar. En ny förordning kräver att de måste ha sällskap av minst en annan åsna.",
       "link": "https://yle.fi/a/7-10102948?origin=rss",
@@ -334,16 +444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785667837000
     },
     {
-      "title": "Svensk man försvunnen på motorfestival",
-      "description": "Var på motorfestival i Danmark",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785667676000
-    },
-    {
       "title": "Ungerns enda kärnkraftverk stänger: ”Nästa vecka kritisk”",
       "description": "Premiärministern varnar för extrem press på elnätet.",
       "link": "https://yle.fi/a/7-10102976?origin=rss",
@@ -352,16 +452,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785667517000
-    },
-    {
-      "title": "12 olika skogsbränder härjar i Washington",
-      "description": "10 000 hektar brinner • Tusentals evakueras i Washington",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77ea41cb-5d8f-41a3-bb39-3ff3ecf846a4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77ea41cb-5d8f-41a3-bb39-3ff3ecf846a4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785667012000
     },
     {
       "title": "Sommarheta El Niño härjar också i Sydkorea: över 42 grader i skuggan",
@@ -444,16 +534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785663711000
     },
     {
-      "title": "Sorgen i segelklubben",
-      "description": "Mannen i 60-årsåldern som dog i flygkraschen var pilot, instruktör och lärare – känd i Flyg-Sverige. Tomrummet efter honom är påtagligt. – Det är tunga dagar just nu, säger Jan Hasslid, 64, i Segelflygklubben i Karlstad.",
-      "link": "https://www.expressen.se/nyheter/sverige/sorgen-i-segelklubben/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sorgen-i-segelklubben/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785663473000
-    },
-    {
       "title": "Finska rallyälskare räddar bil",
       "description": "Elfyn Evans kom i mål! Det pågår rally i Finland och där kraschade Elfyn Evans lite. Delar flög från bilen och de fastnade, men det gjorde inte så mycket för den finska publiken ryckte in och fick iväg bilen igen. L&auml;s vidare och kommentera: https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/ L&auml;s mer om Elfyn Evans , Finland , Rally Finland , rally , WRC , krasch",
       "link": "https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/?utm_source=rss&utm_medium=feed",
@@ -514,26 +594,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785661003000
     },
     {
-      "title": "Uppgifter: Kvinnan visste inte att hon bar en bomb",
-      "description": "En hemgjord bomb detonerade på en privat fest på lyxrestaurangen Balzi Rossi i Moskva. Kvinnan som tog in den i lokalen sa att det var en ”present” – och kanske trodde hon det själv. I ryska medier släpps nu uppgiften att en rysk general var målet.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-kvinnan-visste-inte-att-hon-bar-en-bomb/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-kvinnan-visste-inte-att-hon-bar-en-bomb/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785660664000
-    },
-    {
-      "title": "Uppgifter: Virala klipp låg bakom migrantstormen",
-      "description": "Bilder och klipp på sociala medier om att ”Europa öppnat portarna” misstänks ha varit en av anledningarna till att tiotusentals migranter tog sig över gränsen till Spanien, enligt uppgifter till flera medier. – Det var vår livs chans, säger 23-årige Ziad Bousad till Le Monde.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-virala-klipp-lag-bakom-migrantstormen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-virala-klipp-lag-bakom-migrantstormen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785660207000
-    },
-    {
       "title": "Nya rön: Längden på låret kan avslöja om du har diabetes",
       "description": "Enligt nya forskarrön kan lårets längd spåra om du har diabetes. Här är förklaringen till den överraskande upptäckten. Runt 450 000 svenskar uppges ha typ 2-diabetes, som är den vanligaste diabetesformen. Typ 1, som är kroniskt, är inte lika utbrett men ökar. Sverige har cirka 60 000 kända fall varav ungefär 8 000 är barn. […]",
       "link": "https://www.dagensps.se/halsa/nya-ron-langden-pa-laret-kan-avsloja-om-du-har-diabetes/",
@@ -554,16 +614,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785659001000
     },
     {
-      "title": "Stockholm måste köpa spermier från Danmark",
-      "description": "Stockholm måste köpa från Danmark",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1febf161-892e-495a-8ee7-d0cbae407ac8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1febf161-892e-495a-8ee7-d0cbae407ac8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785658724000
-    },
-    {
       "title": "Half-Life portat till PlayStation 1",
       "description": "Rätt imponerande ändå En snubbe som verkar ha koll på hur man optimerar kod har skrivit en helt ny spelmotor som kan köra Half-Life på PlayStation-hårdvara (PS1). Till skillnad från många andra liknande projekt handlar det varken om en emulator eller demake. Istället har snubben skrivit om spelets motor från grunden i Rust för att få det att fungera på PlayStation-konsolens begränsade resurser. Prestandan är lite sisådär dock med cirka 20 bildrutor per sekund, men det får man väl säga är en bedrift med tanke på att PS1-hårdvaran är flera år äldre än själva spelet. Utvecklaren är dock lite försiktig med den juridiska biten. Han har kontaktat Valve för att be om tillåtelse att släppa projektet offentligt men har inte fått någon respons ännu. Han säger dock att han tolkar tystnaden som att de inte har några åsikter och att han planerar att släppa källkoden om han inte får något svar inom en månad. För att kunna spela versionen kommer användare dock behöva äga en laglig kopia av Half-Life på Steam. L&auml;s vidare och kommentera: https://feber.se/spel/half-life-portat-till-playstation-1/494654/ L&auml;s mer om Half-Life , Rust , Valve , PlayStation , spelmotor , PS1",
       "link": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
@@ -572,16 +622,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785657600000
-    },
-    {
-      "title": "Ryskt containerfartyg sänkt i Svarta havet",
-      "description": "Ukraina har sänkt ett sanktionsbelagt ryskt containerfartyg i Svarta havet. Fartyget hade en kapacitet på över 100 000 ton. I ett inlägg på X meddelar Ukrainas president Volodymyr Zelenskyj att Ukraina sänkt det ryskflaggade containerfartyget Yanina i Svarta havet. Yanina var under sanktioner och uppges ha haft en kapacitet på mer än 100 000 ton. ”Våra mål […]",
-      "link": "https://www.dagensps.se/varlden/ryskt-containerfartyg-sankt-i-svarta-havet/",
-      "guid": "https://www.dagensps.se/?p=1660551",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlmcf2aghfvbm-nh-1-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785657542000
     },
     {
       "title": "Hur stor är din risk att få demens? Vardagsvanor kan skydda mot problem med minnet och tänkandet",
@@ -622,16 +662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785656002000
-    },
-    {
-      "title": "Misstänkt mordförsök i Ljusdal – två gripna",
-      "description": "Två gripna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cf1f0cc-5003-4681-afd9-639d06d25255",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cf1f0cc-5003-4681-afd9-639d06d25255",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785655630000
     },
     {
       "title": "Pistaschglass",
@@ -712,16 +742,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785648613000
-    },
-    {
-      "title": "”Hjälp, jag skäms för mitt slöa och icke-ambitiösa barn”",
-      "description": "Den enas unge har fått ett fint jobb, den andras en spännande studieplats. Men vad göra när den egna gullungen mest ligger hemma och äter chips?",
-      "link": "https://yle.fi/a/7-10102858?origin=rss",
-      "guid": "https://yle.fi/a/7-10102858",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785647574000
     },
     {
       "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
@@ -1968,7 +1988,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "En 17-årig man döms i Solna tingsrätt efter att ha försökt smuggla in en rökmaskin i kalsongerna till en match på Strawberry Arena. Böterna sänks till 1 500 kronor.",
       "link": "https://www.mitti.se/nyheter/17aring-smugglade-bengaler-i-kalsongerna-till-fotbollsmatch-6.3.377695.eb57186309",
       "guid": "https://www.mitti.se/nyheter/17aring-smugglade-bengaler-i-kalsongerna-till-fotbollsmatch-6.3.377695.eb57186309",
-      "image": "https://www.mitti.se/image-3.251539.301318.20260730102832.5f850614f1?format=jpeg",
+      "image": "https://www.mitti.se/image-3.251539.301318.20260802183653.98db1b1964?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785405511000
@@ -2178,7 +2198,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "En stark stank i Gamla Stan fick grannar att ringa polisen. Orsaken visade sig vara en trasig frys med gammalt kött i ett förråd. Fastighetsägaren uppger att sanering genomfördes.",
       "link": "https://www.mitti.se/nyheter/stank-fran-gammalt-kott-i-gamla-stan--grannar-larmade-polisen-6.3.377700.a4fa8f87b9",
       "guid": "https://www.mitti.se/nyheter/stank-fran-gammalt-kott-i-gamla-stan--grannar-larmade-polisen-6.3.377700.a4fa8f87b9",
-      "image": "https://www.mitti.se/image-3.377174.301329.20260729183445.2383253a8c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377174.301329.20260802181100.eb00b406e1?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785337439000
@@ -2714,16 +2734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785201630000
     },
     {
-      "title": "Överraskande nytt fynd: Kan vara sällsynt bevis på förstörelsen av Salomos tempel i Jerusalem",
-      "description": "Även om de flesta forskare erkänner att templet har funnits, har man inte hittat många fysiska bevis efter förstörelsen – nu kan en rad brända balkar kasta nytt ljus över historien.",
-      "link": "https://varldenshistoria.se/samhalle/religionshistoria/overraskende-nyt-fund-kan-vare-sjaldent-bevis-fra-odelaggelsen-af-salomons-tempel-i-jerusalem",
-      "guid": "https://varldenshistoria.se/samhalle/religionshistoria/overraskende-nyt-fund-kan-vare-sjaldent-bevis-fra-odelaggelsen-af-salomons-tempel-i-jerusalem",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785184225000
-    },
-    {
       "title": "Vreeswijks lillasyster om Cornelisdagen: \"Ställer upp varje år\"",
       "description": "Tonny Vreeswijk är bland personerna som kommer att uppträda på den kostnadsfria Cornelisdagen 2026 på Mosebacketerrassen.",
       "link": "https://www.mitti.se/nyheter/vreeswijks-lillasyster-om-cornelisdagen-staller-upp-varje-ar-6.3.377450.9f512fff42",
@@ -2968,7 +2978,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "\"Kaos utan dess like\" i för liten ambulans när skottskadad fördes till sjukhus efter skjutning i Jordbro i Haninge.",
       "link": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
       "guid": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
-      "image": "https://www.mitti.se/image-3.248673.301005.20260726052020.a5e6f8bcd6?format=jpeg",
+      "image": "https://www.mitti.se/image-3.248673.301005.20260802182200.c0d5e76588?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785041400000
