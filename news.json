@@ -1,8 +1,148 @@
 {
-  "updatedAt": "2026-08-02T10:24:51.243Z",
+  "updatedAt": "2026-08-02T12:56:41.673Z",
   "feedCount": 12,
-  "sourceCount": 12,
+  "sourceCount": 11,
   "items": [
+    {
+      "title": "Tromb i Umeå – SMHI bekräftar",
+      "description": "SMHI bekräftar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=50436a00-4b89-421a-a33b-5c969bf1a068",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=50436a00-4b89-421a-a33b-5c969bf1a068",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785674493000
+    },
+    {
+      "title": "Extrem skogsbrandsrisk – men regnet ger nya hot",
+      "description": "Skogsbrandsrisken är extremt stor i stora delar av landet, enligt SMHI. I mitten av veckan väntas regn som kan dämpa faran. Men då lurar nya varningar.",
+      "link": "https://www.expressen.se/nyheter/sverige/extrem-skogsbrandsrisk-men-regnet-ger-nya-hot/",
+      "guid": "https://www.expressen.se/nyheter/sverige/extrem-skogsbrandsrisk-men-regnet-ger-nya-hot/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785674476000
+    },
+    {
+      "title": "Micke Leijnegard tillbaka i rutan",
+      "description": "Micke Leijnegard får nytt program i SVT, rapporterar P4 Sörmland. Programmet heter ”Mickes segelbåt” och är hans första sedan han dömdes för sexuellt ofredande.",
+      "link": "https://www.expressen.se/noje/micke-leijnegard-tillbaka-i-rutan/",
+      "guid": "https://www.expressen.se/noje/micke-leijnegard-tillbaka-i-rutan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785674366000
+    },
+    {
+      "title": "Leopard avlivades på Nordens Ark",
+      "description": "En leopard på Nordens Ark har avlivats. En unge drog in sin pappa, från ett hägn till ett annat, vilket orsakade skador. Det var gäster som slog larm. – Skadorna blev så stora, det fanns inget att göra, säger Mats Höggren, vd.",
+      "link": "https://www.expressen.se/nyheter/sverige/leopard-avlivades-pa-nordens-ark-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/leopard-avlivades-pa-nordens-ark-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785672981000
+    },
+    {
+      "title": "Flera döda och tiotals saknade efter färjebrand i Indonesien",
+      "description": "Skräckslagna passagerare hoppade i havet från en brinnande färja i Indonesien. Minst fem är döda och över 40 saknas.",
+      "link": "https://yle.fi/a/7-10102977?origin=rss",
+      "guid": "https://yle.fi/a/7-10102977",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785672810000
+    },
+    {
+      "title": "Leopard avlivad – efter allvarlig incident",
+      "description": "Efter allvarlig incident • ”Traumatisk”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b21c312c-3961-4e84-9b32-7e499f03eda5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b21c312c-3961-4e84-9b32-7e499f03eda5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785671954000
+    },
+    {
+      "title": "Snart får åsnor inte längre bo ensamma – därför behöver de en kompis av samma art",
+      "description": "Från 2028 får åsnor inte hållas ensamma eller endast med hästar. En ny förordning kräver att de måste ha sällskap av minst en annan åsna.",
+      "link": "https://yle.fi/a/7-10102948?origin=rss",
+      "guid": "https://yle.fi/a/7-10102948",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785671381000
+    },
+    {
+      "title": "Jordbävning i Europa nära kända turistmålet",
+      "description": "300 evakuerade • Se bilderna",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/jordbavning-i-italien-en-av-de-kraftigaste-nagonsin/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/jordbavning-i-italien-en-av-de-kraftigaste-nagonsin/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785671267000
+    },
+    {
+      "title": "Myndigheten för civilt försvar rustar för brandrisken",
+      "description": "”Flygande resurser”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a79f3b27-5bdf-481f-8c96-f27382266747",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a79f3b27-5bdf-481f-8c96-f27382266747",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785670016000
+    },
+    {
+      "title": "Sami Pajari skrev historia i Jyväskylärallyt: ”Speciellt att få vinna på hemmaplan”",
+      "description": "Sami Pajari gjorde inga misstag under den sista dagen av Jyväskylärallyt. Han bevakade sin ledning och fick uppleva en av karriärens största stunder på hemmaplan.",
+      "link": "https://yle.fi/a/7-10102975?origin=rss",
+      "guid": "https://yle.fi/a/7-10102975",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785669202000
+    },
+    {
+      "title": "Bristen på farmaceuter har lättat men alla apotek har inte råd att göra nyanställningar",
+      "description": "Apotekare i Vasa har märkt att det nu är lättare att rekrytera farmaceuter. En av orsakerna är att välfärdsområdena sagt upp farmaceuter av ekonomiska skäl.",
+      "link": "https://yle.fi/a/7-10102935?origin=rss",
+      "guid": "https://yle.fi/a/7-10102935",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785667837000
+    },
+    {
+      "title": "Svensk man försvunnen på motorfestival",
+      "description": "Var på motorfestival i Danmark",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785667676000
+    },
+    {
+      "title": "Ungerns enda kärnkraftverk stänger: ”Nästa vecka kritisk”",
+      "description": "Premiärministern varnar för extrem press på elnätet.",
+      "link": "https://yle.fi/a/7-10102976?origin=rss",
+      "guid": "https://yle.fi/a/7-10102976",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785667517000
+    },
+    {
+      "title": "12 olika skogsbränder härjar i Washington",
+      "description": "10 000 hektar brinner • Tusentals evakueras i Washington",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=77ea41cb-5d8f-41a3-bb39-3ff3ecf846a4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=77ea41cb-5d8f-41a3-bb39-3ff3ecf846a4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785667012000
+    },
     {
       "title": "Sommarheta El Niño härjar också i Sydkorea: över 42 grader i skuggan",
       "description": "Sydkorea är mitt i sin svåraste värmebölja som någonsin har registrerats. I Yangsan har det varit över 40 grader i fem dagar.",
@@ -32,16 +172,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785665301000
-    },
-    {
-      "title": "Vinn på att kändisarna trillar av pinn",
-      "description": "Statistik och svart humor möts när kompisgängets lek blir digital sajt Feber-läsaren Ludvig har vajbat ihop en mångårig tradition i kompisgänget till en färdig webbtjänst. Det som började för många år sedan med papper, penna och senare Excel-ark har nu blivit helt digitalt på webben. Grundidén är enkel: inför varje säsong väljer deltagarna ut ett antal kända personer. Om någon av dessa går bort delas poäng ut – och ju yngre personen är, desto högre blir poängen. Trots det mörka temat säger Ludvig att projektet inte handlar om respektlöshet. Snarare är det en social aktivitet som drivs av statistik, taktik och en stor dos svart humor. På sajten kan vem som helst starta privata ligor och bjuda in sina vänner. Den som vill testa myDeathMatch kan hitta sajten via länken nedan. L&auml;s vidare och kommentera: https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/ L&auml;s mer om myDeathMatch , Ludvig , webbtjänst , spel , statistik , humor , svart humor",
-      "link": "https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785664800000
     },
     {
       "title": "Trumps finska mångmiljard-affär olaglig",
@@ -84,16 +214,6 @@
       "timestamp": 1785663711000
     },
     {
-      "title": "Svensk man försvunnen på motorfestival",
-      "description": "Var på motorfestival i Danmark",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93047b1f-1ada-485f-996c-e001fe5f9818",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785663576000
-    },
-    {
       "title": "Sorgen i segelklubben",
       "description": "Mannen i 60-årsåldern som dog i flygkraschen var pilot, instruktör och lärare – känd i Flyg-Sverige. Tomrummet efter honom är påtagligt. – Det är tunga dagar just nu, säger Jan Hasslid, 64, i Segelflygklubben i Karlstad.",
       "link": "https://www.expressen.se/nyheter/sverige/sorgen-i-segelklubben/",
@@ -102,16 +222,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785663473000
-    },
-    {
-      "title": "Finska rallyälskare räddar bil",
-      "description": "Elfyn Evans kom i mål! Det pågår rally i Finland och där kraschade Elfyn Evans lite. Delar flög från bilen och de fastnade, men det gjorde inte så mycket för den finska publiken ryckte in och fick iväg bilen igen. L&auml;s vidare och kommentera: https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/ L&auml;s mer om Elfyn Evans , Finland , Rally Finland , rally , WRC , krasch",
-      "link": "https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785663000000
     },
     {
       "title": "Ukrainsk attack inatt",
@@ -152,16 +262,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785661242000
-    },
-    {
-      "title": "Trailer för S18 av It's Always Sunny in Philadelphia",
-      "description": "Har premiär den 17 augusti Den 17 augusti är det premiär för den nya säsongen av långköraren It’s Always Sunny in Philadelphia. I den kommande säsongen får vi återse Charlie, Mac, Dennis, Dee och Frank, som får hantera saker som automatisering, arvstvister samt moderna konspirationsteorier. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-s18-av-its-always-sunny-in-philadelphia/494651/ L&auml;s mer om It’s Always Sunny in Philadelphia , TV-serier , Charlie , Mac , Dennis , Dee , Frank , FX , streaming",
-      "link": "https://feber.se/film/trailer-for-s18-av-its-always-sunny-in-philadelphia/494651/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/trailer-for-s18-av-its-always-sunny-in-philadelphia/494651/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785661200000
     },
     {
       "title": "Grillad hälleflundra med russin- och sardelldressing",
@@ -222,16 +322,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785658724000
-    },
-    {
-      "title": "Half-Life portat till PlayStation 1",
-      "description": "Rätt imponerande ändå En snubbe som verkar ha koll på hur man optimerar kod har skrivit en helt ny spelmotor som kan köra Half-Life på PlayStation-hårdvara (PS1). Till skillnad från många andra liknande projekt handlar det varken om en emulator eller demake. Istället har snubben skrivit om spelets motor från grunden i Rust för att få det att fungera på PlayStation-konsolens begränsade resurser. Prestandan är lite sisådär dock med cirka 20 bildrutor per sekund, men det får man väl säga är en bedrift med tanke på att PS1-hårdvaran är flera år äldre än själva spelet. Utvecklaren är dock lite försiktig med den juridiska biten. Han har kontaktat Valve för att be om tillåtelse att släppa projektet offentligt men har inte fått någon respons ännu. Han säger dock att han tolkar tystnaden som att de inte har några åsikter och att han planerar att släppa källkoden om han inte får något svar inom en månad. För att kunna spela versionen kommer användare dock behöva äga en laglig kopia av Half-Life på Steam. L&auml;s vidare och kommentera: https://feber.se/spel/half-life-portat-till-playstation-1/494654/ L&auml;s mer om Half-Life , Rust , Valve , PlayStation , spelmotor , PS1",
-      "link": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785657600000
     },
     {
       "title": "Ryskt containerfartyg sänkt i Svarta havet",
@@ -314,16 +404,6 @@
       "timestamp": 1785654124000
     },
     {
-      "title": "Olof K Gustafsson dömd till fängelse",
-      "description": "Fick fyra års fängelse och får betala miljoner i skadestånd Olof K Gustafsson har nu dömts till fyra års fängelse i USA för allt fuffens han höll på med. Genom sitt bolag Escobar Inc, som han drev tillsammans med Pablo Escobars bror, lurade han kunder på över 13 miljoner kronor. Affärsidén gick ut på att sälja exklusiva produkter som guldpläterade mobiltelefoner, eldkastare och kryptovaluta till vrakpriser. Dock fick kunderna som betalade aldrig några varor, utan de fick istället reklam eller böcker. Gustafsson greps i Spanien i slutet av 2023 och utlämnades därefter till USA, där han erkände sig skyldig till fem åtalspunkter. Utöver fängelsestraffet på 48 månader ska han betala drygt 12 miljoner kronor i skadestånd till de drabbade samt böter på cirka 238 000 kronor. L&auml;s vidare och kommentera: https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/ L&auml;s mer om Olof K Gustafsson , Escobar Inc , USA , Pablo Escobar , kryptovaluta , bedrägeri , Bedrägerier",
-      "link": "https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785654000000
-    },
-    {
       "title": "Kan det här bli ett nytt radarpar? Robin Lod spelade fram till Robert Lewandowskis segermål",
       "description": "Robert Lewandowski har presenterat sig på allvar i MLS. Under natten till söndag gjorde han två mål i Chicago Fires seger över Charlotte FC.",
       "link": "https://yle.fi/a/7-10102970?origin=rss",
@@ -362,16 +442,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785650599000
-    },
-    {
-      "title": "Marvel skrotar säsong två av Wonder Man",
-      "description": "En säsong fick räcka Trots tidigare löften om en fortsättning står det nu klart att Marvel Studios lägger ner den planerade andra säsongen av tv-serien Wonder Man. Beslutet kommer som en överraskning för många, särskilt då huvudrollsinnehavaren Yahya Abdul-Mateen II nyligen belönats med en Emmy-nominering för sin prestation i serien. Även om serien läggs ner betyder det inte nödvändigtvis slutet för karaktärerna då de ju kan dyka upp i andra produktioner framöver. L&auml;s vidare och kommentera: https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/ L&auml;s mer om Marvel Studios , Wonder Man , Yahya Abdul-Mateen II , Emmy , TV-serier",
-      "link": "https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785650400000
     },
     {
       "title": "Man bröt sig in villa – flydde i kajak",
@@ -434,16 +504,6 @@
       "timestamp": 1785647469000
     },
     {
-      "title": "Sommar i P1: Ebba Witt-Brattström om att försöka bli svensk",
-      "description": "THEO VAREMAN: Så många [geting] får Ebba Witt-Brattströms sommarprat",
-      "link": "https://www.expressen.se/nyheter/sommar-i-p1-ebba-witt-brattstrom-om-att-forsoka-bli-svensk/",
-      "guid": "https://www.expressen.se/nyheter/sommar-i-p1-ebba-witt-brattstrom-om-att-forsoka-bli-svensk/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785646800000
-    },
-    {
       "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
       "description": "En man i 50-årsåldern i Täby döms för hot och kontaktförbudsbrott mot sin ex-fru och hennes syster under sin villkorliga frigivning.",
       "link": "https://www.mitti.se/nyheter/villkorligt-frigiven-man-vantade-vid-svagerskas-bostad--doms-igen-6.3.377489.9e48f7f3b1",
@@ -474,16 +534,6 @@
       "timestamp": 1785646255000
     },
     {
-      "title": "TBE ökar i Blekinge – varningen",
-      "description": "Kan leda till hjärnhinneinflammation",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5284d00a-3732-4e6d-97d2-beef2bb4f42e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5284d00a-3732-4e6d-97d2-beef2bb4f42e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785644889000
-    },
-    {
       "title": "”Hangö Casino ska inte bli en stängd klubb för ett fåtal utvalda”",
       "description": "Sälja eller renovera för miljoner? Ledningen i Hangö är synnerligen eniga om Casinos framtid: landmärket ska räddas och bli allas vardagsrum.",
       "link": "https://yle.fi/a/7-10102766?origin=rss",
@@ -492,36 +542,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785643394000
-    },
-    {
-      "title": "Trump: Stoppar planerade attacker mot Iran",
-      "description": "USA hade planerat omfattande attacker mot Iran under helgen tillsammans med Israel, enligt flera amerikanska medier. Nu meddelar Trump att han har blåst av attackerna – då länderna är nära ett nytt avtal, skriver presidenten på Truth Social .",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-avbryter-attacker/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-avbryter-attacker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785643316000
-    },
-    {
-      "title": "Trump anklagas för korruption – efter nya tjänsten",
-      "description": "Trump lanserar betaltjänst på sin sociala plattform. För en miljon kronor får användare hans uttalande i förtid – nu varnar kritiker för korruption och marknadsmanipulation. – Om detta hade varit vd:n för ett börsnoterat bolag, så hade det lett till fängelse, säger Irene Aldridge till The Independent .",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-anklagas-for-korruption-efter-betaltjansten/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-anklagas-for-korruption-efter-betaltjansten/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785643231000
-    },
-    {
-      "title": "Simon blev av med väskan i LA – dök upp igen efter reel på Instagram",
-      "description": "Under semestern i Los Angeles blev Simon Vincent av med sin ryggsäck med både laptop och Ipad. Sex veckor senare dök den upp igen – tack vare en reel på Instagram. – Simon trodde först att någon drev med honom med hjälp av AI, säger sambon Malin Hessel.",
-      "link": "https://www.expressen.se/nyheter/sverige/simon-blev-av-med-vaskan-i-la-dok-upp-igen-efter-reel-pa-instagram-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/simon-blev-av-med-vaskan-i-la-dok-upp-igen-efter-reel-pa-instagram-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785641749000
     },
     {
       "title": "Sydafrikas kvinnor vill få tryggheten tillbaka",
@@ -542,26 +562,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785640544000
-    },
-    {
-      "title": "Här är svenskarna bakom lyxklubben",
-      "description": "Palma Sport & Tennis Club på Mallorca är en av öns mest exklusiva träningsklubbar. Klubben drivs av de svenska entreprenörerna Mikael Landström och Johanna Björkman Landström och har blivit en självklar mötesplats för kändisar, företagsledare och välbärgade semesterfirare. – Vi har 1 000 medlemmar och 1 200 står i kö, säger Mikael Landström.",
-      "link": "https://www.expressen.se/nyheter/varlden/har-ar-svenskarna--bakom-lyxklubben/",
-      "guid": "https://www.expressen.se/nyheter/varlden/har-ar-svenskarna--bakom-lyxklubben/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785639600000
-    },
-    {
-      "title": "SMHI varnar",
-      "description": "Risk för skogsbränder i flera delar av landet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2528e7c-a5e6-4cce-8998-ab7b5faaed74",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2528e7c-a5e6-4cce-8998-ab7b5faaed74",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785639484000
     },
     {
       "title": "Tretton döda när turistplan kraschade i Peru",
@@ -604,26 +604,6 @@
       "timestamp": 1785615308000
     },
     {
-      "title": "Lotta Kemppinen sprang säsongsbästa i Borgå – nytt rekord av Neziri",
-      "description": "Lotta Kemppinen och Nooralotta Neziri visade prov på fin form inför EM. Löparna sprang säsongsbästa respektive personbästa i Borgå.",
-      "link": "https://yle.fi/a/7-10102965?origin=rss",
-      "guid": "https://yle.fi/a/7-10102965",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785614126000
-    },
-    {
-      "title": "Tre döda i misstänkt bombattack i Moskva",
-      "description": "Explosionen inträffade vid åttatiden på kvällen lokal tid.",
-      "link": "https://yle.fi/a/7-10102964?origin=rss",
-      "guid": "https://yle.fi/a/7-10102964",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785613194000
-    },
-    {
       "title": "Experter varnar: Dödligt virus kan löpa amok på bara ett par veckor",
       "description": "Den extremt dödliga fågelinfluensan har på senare år spridit sig till däggdjur runt om i världen. Nu befarar forskare det värsta: En epidemi bland människor. En ny banbrytande studie förstärker oron.",
       "link": "https://illvet.se/halsa/experter-varnar-dodligt-virus-kan-lopa-amok-pa-bara-ett-par-veckor",
@@ -632,16 +612,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785612607000
-    },
-    {
-      "title": "KuPS drygar ut ledningen i fotbollsligan – besegrade Gnistan med 1–0 på bortaplan",
-      "description": "I herrarnas fotbollsliga spelades tre matcher under lördagen. TPS, FC Lahti och KuPS kammade hem full pott.",
-      "link": "https://yle.fi/a/7-10102963?origin=rss",
-      "guid": "https://yle.fi/a/7-10102963",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785611331000
     },
     {
       "title": "Se bilderna: Grönlands inuiter är det iskalla nords betvingare",
@@ -664,26 +634,6 @@
       "timestamp": 1785610763000
     },
     {
-      "title": "Expert om kritiken mot isbrytarköp: Finland fick affären på egna meriter",
-      "description": "Det är en alldeles bra deal för amerikanerna, anser en finländsk expert på marin- och arktisk teknologi.",
-      "link": "https://yle.fi/a/7-10102962?origin=rss",
-      "guid": "https://yle.fi/a/7-10102962",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785609879000
-    },
-    {
-      "title": "Olyckorna avlöser varandra i Jyväskylärallyt – Sébastien Ogier till sjukhus med helikopter",
-      "description": "Tre bilar har voltat under Jyväskyläs VM-rally: Esapekka Lappi, Elfyn Evans och senast Sébastien Ogier.",
-      "link": "https://yle.fi/a/7-10102961?origin=rss",
-      "guid": "https://yle.fi/a/7-10102961",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785606354000
-    },
-    {
       "title": "Yngve om skrotbygget: ”Kul när alla pumpar är igång”",
       "description": "Yngve Nordmark visar sin vattentrappa i Sätuna på trädgårdsvisningen Tusen trädgårdar 28 juni 2026.",
       "link": "https://www.mitti.se/nyheter/yngve-om-skrotbygget-kul-nar-alla-pumpar-ar-igang-6.3.371980.4569e53474",
@@ -702,26 +652,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785600014000
-    },
-    {
-      "title": "Nya EU-krav tvingar fram märkning av AI-innehåll",
-      "description": "I morgon måste AI-grejer markeras så folk fattar I morgon kommer EU att skärpa kraven på transparens kring artificiell intelligens. Enligt det nya regelverket så måste allt AI-genererat innehåll som ser verklighetstroget ut förses med en tydlig märkning eller någon form av digitalt vattenmärke. Kravet omfattar både text, bilder och ljudfiler som kan misstas för att vara äkta. Man hoppas att dessa nya regler ska göra tekniken mer tydlig i områden där AI redan används flitigt utan att publiken alltid är medveten om det. Tanken är att detta ska skydda konsumenter från att bli vilseledda och att värna demokratin genom att säkra äktheten i den information som sprids online. De nya reglerna gäller omedelbart för nya AI-tjänster som lanseras från och med i morgon. Befintliga AI-tjänster får ytterligare fyra månader på sig att anpassa sig efter de nya reglerna. Företag som misslyckas med att märka sitt innehåll riskerar kännbara böter på upp till tre procent av sin totala globala omsättning. Det finns dock vissa undantag i reglerna. Privatpersoner som skapar AI-innehåll för internt bruk, exempelvis skämt i en chattgrupp, berörs inte. Dessutom görs undantag för uppenbart konstnärliga verk, satir eller fiktion. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/ L&auml;s mer om EU , artificiell intelligens , transparens , digitalt vattenmärke , AI-genererat innehåll",
-      "link": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785596400000
-    },
-    {
-      "title": "EA säljs till Saudiarabien nästa vecka",
-      "description": "Speljätten lämnar snart börsen för att bli privatägt Som vi tidigare rapporterat håller speljätten Electronic Arts (EA) på att säljas till den saudiska statliga investeringsfonden (PIF). I veckan meddelade EA att affären, värderad till 55 miljarder dollar, nu har passerat sina sista granskningar och att försäljningen av EA kommer att slutföras den 4 augusti. Det innebär att EA lämnar börsen och blir helt privatägt nästa vecka. När affären är i mål kommer Saudiarabien att äga hela 93,4 procent av aktierna. En stor del av köpeskillingen finansieras genom lån med säkerhet i bolagets egna tillgångar. Resterande delar fördelas mellan investeringsbolagen Silver Lake och Affinity Partners. Med en prislapp på 55 miljarder dollar och en skuldtyngd finansieringsmodell kommer det bli en del press på EA att leverera starka resultat. Hur det nya ägarskapet kommer att forma framtida spelsläpp och strategier återstår att se när den nya eran inleds nästa vecka. L&auml;s vidare och kommentera: https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/ L&auml;s mer om Electronic Arts , PIF , Silver Lake , Affinity Partners , Saudiarabien , börsen , EA",
-      "link": "https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/ea-saljs-till-saudiarabien-nasta-vecka/494644/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785592800000
     },
     {
       "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
@@ -752,16 +682,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785589314000
-    },
-    {
-      "title": "Det blir ingen Blade med Mahershala Ali",
-      "description": "Har vänt på bladet Marvels kommande film om vampyrjägaren Blade har stött på en hel del farthinder sedan filmen offentliggjordes för ungefär sju år sedan. Tanken var då att Mahershala Ali skulle ta över stafettpinnen efter Wesley Snipes, vilket ju var ett ganska inspirerat val. Men nu är det bekräftat att Ali lämnat Blade bakom sig. I en intervju lägger han ansvaret för den uteblivna filmen på Marvel då filmen enligt honom haft alla förutsättningar som krävs för att filmen skulle bli av men att de inte lyckats komma loss. Även Marvel-chefen Kevin Feige har tidigare uttryckt sin frustration och beskrivit det som ett misslyckande att man inte lyckades förverkliga visionen med Ali i huvudrollen. Om Marvel har några andra planer för den ikoniska vampyrjägaren återstår att se. Men något mer än en mikroskopisk cameo från Ali som Blade kommer vi nog inte få. L&auml;s vidare och kommentera: https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/ L&auml;s mer om Blade , Marvel , Mahershala Ali , Kevin Feige , Wesley Snipes",
-      "link": "https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/det-blir-ingen-blade-med-mahershala-ali/494640/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785589200000
     },
     {
       "title": "Tiny aerosol particles could supercharge tropical storm clouds",
@@ -814,16 +734,6 @@
       "timestamp": 1785585623000
     },
     {
-      "title": "Nu ska det speedrunnas i Malmö i en vecka",
-      "description": "För välgörande ändamål Om man inte fick nog av all speedrunning som gjordes på Summer Games Done Quick så har nu European Speedrunner Assembly dragit igång nere i Malmö. Precis som sin amerikanska motsvarighet ska det spelas spel så snabbt som möjligt under en veckas tid. Under hela veckan tar man emot donationer som går till Alzheimerfonden och Make-A-Wish International. Förra året lyckades man samla ihop en dryg halv miljon kronor och det återstår väl att se vad de lyckas dra in i år. Du kan följa spektaklet på Twitch och om du vill se programmet hittar du det via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/nu-ska-det-speedrunnas-i-malmo-i-en-vecka/494650/ L&auml;s mer om European Speedrunner Assembly , Alzheimerfonden , Twitch , Malmö , Summer Games Done Quick , speedrunning",
-      "link": "https://feber.se/spel/nu-ska-det-speedrunnas-i-malmo-i-en-vecka/494650/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/nu-ska-det-speedrunnas-i-malmo-i-en-vecka/494650/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785585600000
-    },
-    {
       "title": "Godaste köttet på grillen – tre populära recept",
       "description": "Gillar du att grilla kött? Här hittar du tre härliga och populära recept på grillat nötkött, fläskkött och lammkött med goda tillbehör som äppeltsatsiki, potatissallad och persiljesmör.",
       "link": "https://alltommat.expressen.se/artiklar/godaste-kottet-pa-grillen-tre-populara-recept/",
@@ -832,16 +742,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785585600000
-    },
-    {
-      "title": "Hampus går igenom sin Volvo EX60",
-      "description": "Levererades av Håkan Samuelsson Det har varit många förståsigpåare som tyckt till om nya Volvo EX60, men vad tycker vanligt folk som faktiskt har köpt den? Hampus Granström känns igen från sociala medier där han bland annat räddar gamla trevliga bilar, men också från att han var en av de första att få sin Volvo EX60 och fick den levererad av ingen mindre än Håkan Samuelsson. Nu har han haft sin bil ett tag och Hampus tillsammans med Robin från Gör det med RW går igenom vad de tycker om bilen. Spoiler: de gillar den. Bra video för er som är nyfiken på bilen och vill veta annat än WLTP och laddkurvor, även om man pratar lite sånt också. L&auml;s vidare och kommentera: https://feber.se/bil/hampus-gar-igenom-sin-volvo-ex60/494636/ L&auml;s mer om Håkan Samuelsson , Hampus Granström , EX60 , Gör det med RW , elbil , bilrecension , Volvo EX60",
-      "link": "https://feber.se/bil/hampus-gar-igenom-sin-volvo-ex60/494636/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/hampus-gar-igenom-sin-volvo-ex60/494636/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785583800000
     },
     {
       "title": "Stödet till graffitiparken i Snösätra stoppas",
@@ -854,16 +754,6 @@
       "timestamp": 1785583219000
     },
     {
-      "title": "En titt på karriärläget i EA Sports FC 27",
-      "description": "Bjuder på återköpsklausuler och oväntade spelarkonflikter EA Sports visade i går upp lite mer från årets upplaga av FC där man pratade lite mer ingående om spelels karriärläge. I detta spelläge har bland annat transfermarknaden fått sig en uppdatering med ett system som ska efterlikna verklighetens förhandlingar. Genom nya avtalsformer kan klubbar nu inkludera allt från återköpsklausuler till prestationsbaserade bonusar. Samtidigt ska spelarnas utveckling bli mer organisk där spelarnas totalbetyg (OVR) inte längre är statiskt utan påverkas direkt av formtoppar, skador och lagmoral. För lite spänning i vardagen har EA även lagt in oväntade händelser som kan vara allt från interna spelarkonflikter till poängavdrag på grund av ekonomiska bekymmer. En av nyheterna för i år är Creator Challenges vilket är ett verktyg där användare kan skapa och dela egna scenarier med andra spelare. Det kan vara specifika utmaningar som man då ska lösa ut. En komplett genomgång på alla nyheter kan hittas via länken nedan. Som vanligt med FC-revisioner utlovas det mest djupgående och personliga karriärläget hittills i spelseriens historia. Om det blir det återstår att se när spelet släpps den 18 september. L&auml;s vidare och kommentera: https://feber.se/spel/en-titt-pa-karriarlaget-i-ea-sports-fc-27/494631/ L&auml;s mer om EA Sports , Creator Challenges , FC , karriärläge , EA Sports FC , transfermarknad",
-      "link": "https://feber.se/spel/en-titt-pa-karriarlaget-i-ea-sports-fc-27/494631/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/en-titt-pa-karriarlaget-i-ea-sports-fc-27/494631/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785582000000
-    },
-    {
       "title": "Scientists left water inside a battery and nearly doubled its power",
       "description": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researchers at the University of Surrey found that sodium vanadium oxide performs much better when its naturally occurring water is left inside instead of being removed during manufacturing.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
@@ -872,16 +762,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785580913000
-    },
-    {
-      "title": "Google gör en Apple och släpper spårare",
-      "description": "Nya läckor avslöjar Pixel Tag 9to5google rapporterar om att Google verkar ha egna spårare på gång. De rapporterar nämligen om nya läckor som avslöjar att Google har en produkt som heter Pixel Tag på gång. Detta är en Airtag-liknande pryl som ska hålla koll på dina prylar via Androids nätverk. Bilder på spårningsbrickan har börjat cirkulera och som man kan se på bilden ser den ju mer avlång istället för rund. Spåraren ska vara utrustad med en högtalare som kan spela upp en hög signal för att underlätta sökandet efter nycklarna när man tappat dem hemma någonstans. Det är oklart när den ska lanseras, men sannolikhet kommer Google visa upp Pixel Tag på Googles hårdvaruevent den 12 augusti. L&auml;s vidare och kommentera: https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/ L&auml;s mer om Google , Android , Airtag , Pixel Tag , 9to5google , Google Pixel Tag",
-      "link": "https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/google-gor-en-apple-och-slapper-sparare/494637/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785578400000
     },
     {
       "title": "Brist på spermier – måste köpa från Danmark",
@@ -902,46 +782,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785574842000
-    },
-    {
-      "title": "FIFA ska inte längre sälja delar av sina VM-turneringar",
-      "description": "Efter hård kritik drar FIFA tillbaka förslaget Efter en våg av hård kritik väljer FIFA och ordförande Gianni Infantino nu att skrota planerna på att sälja delar av sina VM-turneringar till privata investerare. En av dem var Joshua Kushner som är bror till den amerikanske presidentens svärson Jared Kushner. Det var tidigare i veckan som det internationella fotbollsförbundet FIFA presenterade ett förslag om att ta in riskkapitalbolag som delägare för sina VM-turneringar. Tanken var att locka med stora pengar till medlemsländerna, men idén möttes omedelbart av ett kraftigt motstånd från allt och alla. Nu meddelar Gianni Infantino att man skrotar planerna och i ett uttalande konstaterar han att förslaget har skapat en sådan djup splittring inom sporten att det inte längre är meningsfullt att driva det vidare. Det svenska fotbollförbundets ordförande Simon Åström välkomnar FIFA:s beslut och säger att det ligger i linje med deras förväntningar baserat på den bristfälliga processen och de reaktioner som förslaget har väckt. L&auml;s vidare och kommentera: https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/ L&auml;s mer om FIFA , Gianni Infantino , Joshua Kushner , Simon Åström , riskkapital , SvFF , fotbolls-VM , VM-turneringar",
-      "link": "https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/fifa-ska-inte-langre-salja-delar-av-sina-vm-turneringar/494648/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785574800000
-    },
-    {
-      "title": "Gigantiskt test jämför Volvo EX60, BMW iX3, Mercedes GLC och Audi Q6",
-      "description": "3,5 timmar lång genomgång! Välkända tyska kanalen Autogefühl har provat allt som rullar på fyra hjul och gör ofta bra genomgångar och tester. I den här videon, eller ska vi säga långfilmen, har man gett sig på att jämföra de nya eldrivna suvarna från Volvo, BMW, Mercedes och Audi. Genomgången är LÅNG, 3,5 timmar, och det är det perfekta klippet om du funderar på att köpa någon av dessa fyra. Man går helt enkelt igenom det mesta som finns att prata om de här bilarna. För dig som inte orkar kan man väl sammanfatta det så här: – BMW är roligast att köra och väl prissatt. – Mercedes har härligast väghållning, flest funktioner och skärmar, men är också dyrast. – Volvon är en mix av BMW och Mercedes, på ett bra sätt. Den är också bra prissatt. Den är väldigt tyst och har aktiv brusreducering, vilket Thomas som testar tycker är för aggressiv vilket gör att det blir konstigt. – Audins interiör är klart sämst och körningen är inte på topp. Thomas val är Mercedes, om pengarna finns. Välj BMW om du vill ha en rolig bil att köra, Volvon om du vill ha en bra mix och Audin om du får den billigt. L&auml;s vidare och kommentera: https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/ L&auml;s mer om Autogefühl , Volvo , BMW , Mercedes , Audi , elsuv , biltest",
-      "link": "https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/gigantiskt-test-jamfor-volvo-ex60-bmw-ix3-mercedes-glc-och-audi-q6/494639/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785573000000
-    },
-    {
-      "title": "Winamp gör comeback med Deezer",
-      "description": "Ny version ska förena lokal musik med streaming Den legendariska musikspelaren Winamp gör ett nytt försök att erövra musikvärlden då man under nästa år planerar att lansera en helt ny version av spelaren som ska förena nostalgi med modern teknik. Den stora grejen med detta är ett samarbete med den franska streamingjätten Deezer. Visionen för det nya Winamp är att skapa en \"allt-i-ett-lösning\" där man då ska kunna blanda sina lokala musikfiler med streaming från Deezers katalog, poddar och internetradio i samma gränssnitt. Målet är att ge lyssnaren mer kontroll och en mer personlig upplevelse än vad dagens algoritmdrivna tjänster erbjuder. Lite halvt oväntat så har Winamp fortfarande omkring 40 miljoner trogna användare så kanske kan detta glädja dem eller så blir det bara shitification av det hela och leder till att fler lämnar nostalgin bakom sig. L&auml;s vidare och kommentera: https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/ L&auml;s mer om Winamp , Deezer , musikspelare , streaming , poddar , internetradio , musikstreaming",
-      "link": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/winamp-gor-comeback-med-deezer/494635/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785571200000
-    },
-    {
-      "title": "Metal Slug fyller 30 år med ny modell",
-      "description": "Firas med ett bygge av stridsvagnen SV-001/I i skala 1/24 För att fira att det klassiska arkadspelserien Metal Slug fyller 30 år har SNK släppt en ny modell av stridsvagnen SV-001/I. Denna ikoniska maskin från de klassiska 2D-spelen blir nu återigen tillgänglig i skala 1/24. Modellen är cirka 12 centimeter hög när den är färdigbyggd. Om man som jag är lite rädd för att det ska bli klisterklibbigt när man bygger modeller kan man vara lugn. Detta kit sätter man ihop genom att klicka ihop delarna och plasten är redan färdigfärgad så man slipper även grundmåla något. Detta är tredje gången modellen släpps så om man missade att köpa denna 2015 och 2017 kan man passa på nu när det är jubileum. Priset för modellen ligger på 325 kronor . L&auml;s vidare och kommentera: https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/ L&auml;s mer om Metal Slug , SNK , SV-001/I , arkadspel , modellbygge",
-      "link": "https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/metal-slug-fyller-30-ar-med-ny-modell/494607/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785567600000
     },
     {
       "title": "Superheated magma may power towering lava fountains",
@@ -982,16 +822,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785564240000
-    },
-    {
-      "title": "Nu gäller EU-kravet på rätten att reparera",
-      "description": "Nya regler ska göra det lättare och billigare att laga trasig elektronik Nu har EU fått sitt nya direktiv som borde gynna oss europeiska konsumenter då initiativet om rätten att reparera nu har trätt i kraft. Tanken är att det ska leda till en mer hållbar ekonomi och minska berget av elektronikavfall. De nya reglerna innebär bland annat att tillverkare måste göra det enklare och billigare för privatpersoner att laga sina trasiga prylar. Företagen blir skyldiga att erbjuda reparationer till ett rimligt pris och inom en rimlig tidsram. Dessutom ska reparationsmanualer göras tillgängliga helt gratis, och priserna på reservdelar måste redovisas öppet. Som en extra morot för konsumenten förlängs produktens lagstadgade garantitid med ett år om man väljer att reparera den. I ett första skede omfattas bland annat smartphones, surfplattor, elcyklar och stora hushållsmaskiner som kylskåp och tvättmaskiner. Dammsugare ingår inte i just detta paket utan kommer att få ett eget regelverk längre fram. Trots att startskottet nu har gått kommer det troligen dröja några månader innan vi märker av de stora praktiska skillnaderna. Detta beror på att många medlemsländer fortfarande håller på att anpassa sin nationella lagstiftning efter direktivet. L&auml;s vidare och kommentera: https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/ L&auml;s mer om rätten att reparera , EU , elektronikavfall , smartphones , surfplattor , elcyklar , konsumenträtt",
-      "link": "https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/nu-galler-eu-kravet-pa-ratten-att-reparera/494634/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785564000000
     },
     {
       "title": "Bookmakertoast tillagad på muurikka",
@@ -1114,16 +944,6 @@
       "timestamp": 1785526210000
     },
     {
-      "title": "Har du koll på dina testosteronnivåer?",
-      "description": "Dagens fråga Ny forskning visar att mänsklighetens testosteronnivåer har halverats på ett halvt sekel. Men innan du drabbas av panik och börjar bygga ett eget gym i källaren med bara skrot och råa ägg menar experterna att fertiliteten inte verkar ha tagit skada på grund av just detta. En av de främsta förklaringarna till de sjunkande värdena tros vara livsstilsförändringar. Den ökande övervikten i samhället påstås spela en central roll, då kroppsfett påverkar hur hormonet registreras i kroppen utan att det för den sakens skull behöver innebära någon funktionell nedsättning. I samband med att de generella nivåerna går ner har intresset för att testa sig privat exploderat och privata kliniker säljer glatt labbtester med rabattkoder till oroade män vilket har gjort tröskeln att testa sig rekordlåg. Det reser ju den naturliga frågan hur läget ligger bland våra läsare. L&auml;s vidare och kommentera: https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/ L&auml;s mer om testosteron , fertilitet , övervikt , hormoner , livsstil , Labbtester , hormonell hälsa",
-      "link": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/har-du-koll-pa-dina-testosteronnivaer/494615/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785524400000
-    },
-    {
       "title": "DOXA SUB Army 200T for Hodinkee Watch",
       "description": "",
       "link": "https://uncrate.com/doxa-sub-army-200t-for-hodinkee-watch/",
@@ -1132,26 +952,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785524400000
-    },
-    {
-      "title": "Helldivers 2 får snart sin Warhammer 40k-DLC",
-      "description": "Den 12 augusti släpps Imperial Guard-utrustning Den 12 augusti släpps ett nytt DLC-paket till Helldivers 2 där man kommer kunna använda sig av utrustning baserad på Imperial Guards från Warhammer 40,000-universumet. Bland nyheterna finns klassiska vapen som en Bolt Pistol och en Meltagun. Om man undrar varför Arrowhead inte valt att inkludera några Space Marines i detta paket grundar sig det beslutet i att karaktärerna i Helldivers dör i rasande takt, vilket inte skulle stämma överens med den nästan odödliga status som en Space Marine har. L&auml;s vidare och kommentera: https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/ L&auml;s mer om Helldivers 2 , Warhammer 40000 , Arrowhead Game Studios , DLC , Bolt Pistol , Meltagun , Warhammer 40",
-      "link": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/helldivers-2-far-snart-sin-warhammer-40k-dlc/494610/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785522600000
-    },
-    {
-      "title": "AI kan nu generera bilder direkt i Google Earth",
-      "description": "And it's gone... Google har nu slängt in sin bildgenerator Nano Banana direkt i Google Earth så användare kan generera bilder på historiska miljöer eller framtida byggprojekt direkt på satellitbilderna. UPPDATERING: Google har nu tagit bort denna funktion, ungefär 24 timmar efter lanseringen. Anledningen var helt enkelt för att det visade sig vara alldeles för effektivt på att skapa trovärdiga förfalskningar av verkligheten. Folk lyckades snabbt generera manipulerade bilder föreställande allt från bombkratrar vid sjukhus till flyktingläger vid politiskt känsliga gränser. Trots att Google påstod att man hade inbyggda spärrar mot olämpligt innehåll och använde digitala vattenstämplar, visade det sig vara enkelt att kringgå systemen. Så Google har nu valt att pausa funktionen för att skydda användarnas förtroende för Google Earth som en pålitlig källa. Så via en enkel prompt kan verktyget förvandla ruiner till en romersk stadsmiljö från förr. Kritiker har dock redan ifrågasatt hur verklighetstrogna bilderna faktiskt är och påpekar att tekniken till stor del bygger på gissningar då det som bekant inte finns alltför mycket fotografiskt underlag från antiken. Google säger också att Nano Banana kan användas av arkitekter och fastighetsutvecklare så de kan visualisera nya byggnader på tomma ytor. Verktyget kan även skapa skräddarsydd infografik för kända landmärken. Genom att titta på exempelvis Frihetsgudinnan kan användaren få upp genererad grafik med teknisk data och historisk kuriosa. Precis som allt annan AI som slängs in överallt hela tiden återstår det dock att se om folk faktiskt kommer att använda detta. L&auml;s vidare och kommentera: https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/ L&auml;s mer om Nano Banana , Google Earth , Pompeji , artificiell intelligens , Frihetsgudinnan , stadsplanering",
-      "link": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/ai-kan-nu-generera-bilder-direkt-i-google-earth/494629/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785520800000
     },
     {
       "title": "Gerber Lockdown Pry",
@@ -1174,26 +974,6 @@
       "timestamp": 1785519128000
     },
     {
-      "title": "Bekanta dig med huvudkaraktärerna i 1666: Amsterdam",
-      "description": "Assassin's Creed-skaparens nya spel Panache Digital Games har släppt en ny trailer för sitt kommande spel 1666: Amsterdam. Spelet, som leds av Assassin's Creed-skaparen Patrice Désilets, kommer att blanda någon form av historisk realism med mörk magi och tidshopp. I centrum av berättelsen står Noa som kämpar mot en korrumperande magisk kraft genom att jaga rätt på varelser som kallas The Originals. Till sin hjälp har hon Aaron, en helt vanlig lärare från vår tid som under mystiska omständigheter förvandlats till en katt och skickats 300 år tillbaka i tiden. Som spelare ska man då kombinera Noas mystiska krafter med kattens smidighet för att navigera i 1600-talets Amsterdam. Något exakt lanseringsdatum är ännu inte spikad, men vill man få lite känsla för spelet kan man redan nu spela en kort prolog på PC. L&auml;s vidare och kommentera: https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/ L&auml;s mer om Panache Digital Games , Patrice Désilets , 1666: Amsterdam , Noa , 1666 Amsterdam , PC-spel , PC",
-      "link": "https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/bekanta-dig-med-huvudkaraktarerna-i-1666-amsterdam/494625/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785519000000
-    },
-    {
-      "title": "I Åre kan man nu panta kläder",
-      "description": "Panta tröjan och få slantar i retur Ett nytt pilotprojekt i Åre startar just nu om ett pantsystem för kläder kan införas. Det hela är då inspirerat av hur vi återvinner burkar och flaskor, men tanken är att man ska få en slant tillbaka vid inlämning av kläder. Målset är att göra modeindustrin mer cirkulär och minska det enorma textilsvinnet. Systemet fungerar genom att invånarna hämtar en särskild pantpåse hos kommunen. Genom att scanna en QR-kod kopplas påsen till ägaren, som sedan lämnar in sina använda plagg i kommunens insamlingsboxar. När kläderna har sorterats på den lokala återvinningscentralen får den som lämnat in dem en ekonomisk belöning. Ersättningen ligger på 25 procent av plaggens beräknade marknadsvärde. Så om du lämnar in kläder som bedöms vara värda en tusenlapp på second hand-marknaden, får du alltså 250 kronor tillbaka. Vem som värderar dessa kläder och om det skiftar beroende på vem som bedömer är oklart. Forskning visar att så mycket som 40 procent av alla textilier slängs trots att de ofta är i gott skick och kan användas. Så genom att erbjuda möjligheten att panta kläderna vill man se till att de antingen säljs vidare eller återvinns till nya material. Försöksprojektet i Åre är en del av ett EU-initiativ som pågår fram till december. L&auml;s vidare och kommentera: https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/ L&auml;s mer om Åre , textilåtervinning , QR-kod , modeindustri , klädpant , cirkulärt mode , second hand , EU-initiativ",
-      "link": "https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/i-are-kan-man-nu-panta-klader/494627/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785517200000
-    },
-    {
       "title": "Blind Barber 30 Proof Styling Cream",
       "description": "",
       "link": "https://uncrate.com/blind-barber-30-proof-styling-cream/",
@@ -1214,26 +994,6 @@
       "timestamp": 1785516300000
     },
     {
-      "title": "Snart kan man spela Metal Gear Solid 4 igen",
-      "description": "Metal Gear Solid: Master Collection Vol. 2 närmar sig Konami har nyligen släppt en ny trailer som knyter ihop Metal Gear Solid Delta: Snake Eater, som släpptes förra året, med kommande Metal Gear Solid: Master Collection Vol. 2. Metal Gear Solid: Master Collection Vol. 2 är en samling med spelen Metal Gear Solid: Peace Walker och Metal Gear Solid 4: Guns of the Patriots. Då Metal Gear Solid 4: Guns of the Patriots inte släppts på någon annan plattform än PlayStation 3 och innehåller ett av populärkulturens tuffaste moment så är det ju ett ypperligt tillfälle att spela genom detta spel igen. Metal Gear Solid: Master Collection Vol. 2 släpps den 27 augusti till PlayStation, Xbox, Windows och Switch. L&auml;s vidare och kommentera: https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/ L&auml;s mer om Konami , Metal Gear Solid , Peace Walker , Master Collection Vol. 2 , remaster , Guns of the Patriots",
-      "link": "https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/snart-kan-man-spela-metal-gear-solid-4-igen/494620/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785515400000
-    },
-    {
-      "title": "Tjänstefolket försvinner spårlöst",
-      "description": "Victorian Psycho bjuder på gotisk skräck i viktoriansk miljö Här har vi en trailer för filmen Victorian Psycho vilket är en gotisk berättelse som utspelar sig 1858 där en till synes vanlig guvernant anländer till den isolerade herrgården Ensor House i England. Men det visar sig att den viktorianska idyllen inte är allt för normal då tjänstefolket börjar försvinna spårlöst kort efter hennes ankomst. L&auml;s vidare och kommentera: https://feber.se/film/tjanstefolket-forsvinner-sparlost/494604/ L&auml;s mer om Victorian Psycho , Ensor House , film , England , gotisk film",
-      "link": "https://feber.se/film/tjanstefolket-forsvinner-sparlost/494604/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/tjanstefolket-forsvinner-sparlost/494604/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785513600000
-    },
-    {
       "title": "MING 37.06 Royal Selangor Watch",
       "description": "",
       "link": "https://uncrate.com/ming-3706-royal-selangor-watch/",
@@ -1242,16 +1002,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785513600000
-    },
-    {
-      "title": "Necrons-trailer för Dawn of War IV",
-      "description": "En uråldrig fasa har vaknat till liv I kommande Dawn of War IV kommer man kunna spela som Necrons som vill återställa sina gravkamrar och återta herraväldet över planeten Kronus. Nyligen släpptes det en trailer för just denna fraktion och den kan du kolla in i klippet ovan. Där visar man bland annat hur Necrons förlitar sig på uthållighet och metodisk expansion istället för snabb expansion. Genom att aktivera sin Power Matrix och återställa gamla monument kan Necrons sakta men säkert ta kontroll över slagfältet. Warhammer 40,000: Dawn of War IV släpps den 17 september till Windows via Steam. L&auml;s vidare och kommentera: https://feber.se/spel/necrons-trailer-for-dawn-of-war-iv/494605/ L&auml;s mer om Dawn of War IV , Necrons , Steam , Warhammer 40000 , strategispel , Kronus",
-      "link": "https://feber.se/spel/necrons-trailer-for-dawn-of-war-iv/494605/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/necrons-trailer-for-dawn-of-war-iv/494605/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785511800000
     },
     {
       "title": "Så påverkas trafiken av Stockholm Pride",
@@ -1274,16 +1024,6 @@
       "timestamp": 1785510035000
     },
     {
-      "title": "LinkedIn vill rensa bort AI-skräp ur flödet",
-      "description": "Vill återuppväcka den mänskliga kontakten Den som vågar använda LinkedIn någorlunda aktivt har väl märkt att mycket av det man hittar där är genererat via någon form av AI-tjänst. Det verkar som LinkedIn själva nu har tröttnat på flöden där majoriteten av inläggen är maskingjorda med automatiserade kommentarer. Därför rullar plattformen nu ut en plan med åtgärder för att återställa fokus på äkta mänskliga relationer och genuin expertis. Enligt produktchefen Hari Srinivasan är målet nu att prioritera verkliga perspektiv från riktiga människor. Bland annat ska LinkedIn uppgradera sina filter så de automatiskt kan identifiera och dölja inlägg som bedöms vara av låg kvalitet eller rent AI-skräp. Detta ska märkas tydligast i flödet från personer utanför ditt eget nätverk. Användare ska också kunna få en notis om deras inlägg flaggas av andra medlemmar för att låta AI-genererat, vilket då ska inspirera användare att hitta tillbaka till sin personliga röst. Automatisk textförbättring ska också försvinna då funktionen som tidigare erbjöd sig att skriva om dina inlägg ska skrotas. Det ska istället ersättas av ett enklare verktyg som bara rättar stavfel utan att ändra på textens personliga tonläge. Plattformen ska också bli bättre på att blockera spammiga kommentarer. Om man är en sådan person som vill se LinkedIn som en plats för professionellt utbyte mellan människor kan man ju hoppas att dessa åtgärder fungerar. L&auml;s vidare och kommentera: https://feber.se/internet/linkedin-vill-rensa-bort-ai-skrap-ur-flodet/494624/ L&auml;s mer om Linkedin , Sociala medier , AI-skräp , Artificiell intelligens , AI",
-      "link": "https://feber.se/internet/linkedin-vill-rensa-bort-ai-skrap-ur-flodet/494624/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/linkedin-vill-rensa-bort-ai-skrap-ur-flodet/494624/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785510000000
-    },
-    {
       "title": "Ford vs. Ferrari",
       "description": "",
       "link": "https://uncrate.com/ford-vs-ferrari/",
@@ -1294,16 +1034,6 @@
       "timestamp": 1785509760000
     },
     {
-      "title": "Högerklicksmenyn ska bli mer personlig i Windows 11",
-      "description": "Fan på tiden det När jag går igenom min högerklicksmeny i Windows så skulle jag nog vilja påstå att runt hälften av alternativen är totalt onödiga och saker jag aldrig använt eller sannolikt kommer att använda. Det verkar nästan som att Microsoft också insett detta då våra vänner borta på PC för alla rapporterar om att Windows 11 kommer att erbjuda en mer slimmad version av menyn som ska kännas betydligt mer responsiv än vad den är nu. Enligt rapporten ska de mest använda funktionerna prioriteras och onödigt ska skalas bort. Men det kanske viktigaste är att användarna själva ska få större kontroll över innehållet. Genom en ny inställning blir det möjligt att handplocka exakt vilka kommandon och appar som ska få synas i menyn vilket ju lite av ett av ett halleluja-moment. Om allt går enligt planerna kan den nya högerklicksmenyn börja rullas ut till användarna runt årsskiftet. L&auml;s vidare och kommentera: https://feber.se/pc/hogerklicksmenyn-ska-bli-mer-personlig-i-windows-11/494618/ L&auml;s mer om Windows 11 , Microsoft , högerklicksmeny , PC för alla , operativsystem , programvara , PCASFÖRALLA",
-      "link": "https://feber.se/pc/hogerklicksmenyn-ska-bli-mer-personlig-i-windows-11/494618/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/hogerklicksmenyn-ska-bli-mer-personlig-i-windows-11/494618/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785508200000
-    },
-    {
       "title": "UECL: Hammarby ställs mot Raków i kvalomgång 3",
       "description": "I och med torsdagskvällens resultat stod det klart att Hammarby spelar den tredje omgången av Europakvalet i UEFA Conference League. Polska Raków Czestochowa är motståndet, och Bajen inleder dubbelmöt",
       "link": "https://www.hammarbyfotboll.se/nyheter/uecl-hammarby-stalls-mot-rakow-i-kvalomgang-3",
@@ -1312,26 +1042,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785508165000
-    },
-    {
-      "title": "Xbox presenterar ny strategi för tillväxt",
-      "description": "Efter \"nollställningen\" Efter en period präglad av massuppsägningar och nedstängda spelstudior blickar Xbox nu framåt. The Verge rapporterar nämligen om ett internt meddelande från VD:n Asha Sharma där hon presenterade en ny strategi för att återföra företaget till tillväxt och lönsamhet. I meddelandet beskriver hon den senaste omstruktureringen som en nollställning och nu ska trenden vända. För att lyckas med detta har Sharma satt upp tydliga mål: till slutet av räkenskapsåret 2027 ska Xbox återigen öka sina intäkter och nå en vinstmarginal som ligger i linje med resten av spelbranschen. Enligt Sharma krävs förändringarna för att möta utmaningar som stigande hårdvarukostnader och en teknisk infrastruktur som inte längre håller måttet Den nya strategin vilar på fyra huvudpelare: Att stärka Xbox-konsolens position som kärnan i ekosystemet. Att förvandla framgångsrika titlar till globala varumärken. Att vidareutveckla Minecraft till världens ledande plattform för kreatörer. Att expandera de spelvärldar som spelarna redan älskar. Det återstår väl att se om divisionen lyckas med detta, men kör i vind säger jag! L&auml;s vidare och kommentera: https://feber.se/spel/xbox-presenterar-ny-strategi-for-tillvaxt/494616/ L&auml;s mer om Xbox , Asha Sharma , Minecraft , The Verge , Spelbranschen , spelstudior",
-      "link": "https://feber.se/spel/xbox-presenterar-ny-strategi-for-tillvaxt/494616/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/xbox-presenterar-ny-strategi-for-tillvaxt/494616/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785506400000
-    },
-    {
-      "title": "Razer släpper tangentbordet Huntsman V3 HE",
-      "description": "Med magnetiska brytare Razer släpper nu Huntsman V3 HE Magnetic 8KHz, ett tangentbord med magnetiska Hall Effect-brytare, 8000 Hz polling och fokus på låg latens. Det kommer i två formfaktorer: Tenkeyless och en kompakt Mini 65%, båda med nordisk layout. Brytarna är Razers nya Hall Effect Magnetic Switches och man kan justera aktiveringspunkten mellan 0,1 och 4,0 mm. Tangenborden ska vara snabba, 8000 Hz HyperPolling och 0,1 mm ska enligt Razer ge en latens på 0,6 ms, vilket ska vara 8 procent snabbare än den bästa konkurrenten. Brytarna ska förresten klara 100 miljoner nedslag. En kul grej är att man kan mappa olika saker på ned och upptryck. Man kan lägga fyra olika funktioner på en tangent, som avfyras beroende på om det är ned eller upptryck och hur långt ner man trycker. Tangentbordet fungerar både med Razer Synapse på PC, men också stöd för Synapse Web, så att du slipper installera något. Prislappen ligger på 1699 kronor för Tenkeyless och 1499 kronor för Mini 65%. L&auml;s vidare och kommentera: https://feber.se/pc/razer-slapper-tangentbordet-huntsman-v3-he/494614/ L&auml;s mer om Razer , Hall Effect , Razer Synapse , Huntsman V3 HE Magnetic 8KHz , 8KHz polling",
-      "link": "https://feber.se/pc/razer-slapper-tangentbordet-huntsman-v3-he/494614/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/razer-slapper-tangentbordet-huntsman-v3-he/494614/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785504600000
     },
     {
       "title": "Experts say blood pressure guidelines are missing half the equation",
