@@ -1,8 +1,98 @@
 {
-  "updatedAt": "2026-08-02T18:53:28.121Z",
+  "updatedAt": "2026-08-02T21:43:41.095Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "ISW: Ryska militären ljuger om framgångar till Putin",
+      "description": "Ryska militären uppges ljuga för Kreml. Militären uppges använda AI för att skapa falska segrar över intagna städer. Materialet används sedan till ”vackra rapporter” som visas för Putin, enligt ISW .",
+      "link": "https://www.expressen.se/nyheter/varlden/isw-ryska-militaren-ljuger-om-framgangar-till-putin/",
+      "guid": "https://www.expressen.se/nyheter/varlden/isw-ryska-militaren-ljuger-om-framgangar-till-putin/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785704805000
+    },
+    {
+      "title": "13-årig flicka försvunnen på Böda camping",
+      "description": "Såg senast på camping",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2a17fde3-c208-417c-acb0-0644fbec04ef",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2a17fde3-c208-417c-acb0-0644fbec04ef",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785704717000
+    },
+    {
+      "title": "Finländsk bergsbestigare försvunnen på Matterhorn",
+      "description": "Mannen besteg berget på fredagen men misstänks ha ramlat på vägen ner.",
+      "link": "https://yle.fi/a/7-10102985?origin=rss",
+      "guid": "https://yle.fi/a/7-10102985",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785703328000
+    },
+    {
+      "title": "Man död i trafikolycka",
+      "description": "Krock mellan två bilar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=858e1052-f5af-4e17-bc47-e5566e37efdd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=858e1052-f5af-4e17-bc47-e5566e37efdd",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785703167000
+    },
+    {
+      "title": "Konkurserna ökar igen",
+      "description": "Sammantaget gick 532 aktiebolag i konkurs under juli i år, skriver Dagens industri. Företagskonkurserna ökar igen – efter sju månaders nedgång, visar statistik från kreditupplysningsföretaget Syna. Sammantaget gick 532 aktiebolag i konkurs under juli i år, skriver Dagens industri. Storstadsregionerna hör till de hårdast drabbade. I Skåne ökade konkurserna med 39 procent jämfört med föregående […]",
+      "link": "https://www.dagensps.se/foretag/konkurserna-okar-igen/",
+      "guid": "https://www.dagensps.se/?p=1660627",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/storstadsregionerna-ar-hart-drabbade-nar.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785702473000
+    },
+    {
+      "title": "Målet för bombdådet i Moskva var sannolikt befälhavaren under massakern i Butja",
+      "description": "Aleksandr Tjajko, i dag befälhavare för Rysslands Luft-rymdstridskrafter, firade sin 55-årsdag på restaurangen där det small.",
+      "link": "https://yle.fi/a/7-10102984?origin=rss",
+      "guid": "https://yle.fi/a/7-10102984",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785700847000
+    },
+    {
+      "title": "Discgolfaren Eveliina Salonen vann i USA efter stark sista runda",
+      "description": "Eveliina Salonen gjorde en fin sista runda och klättrade upp till första plats i Ledgestone Open.",
+      "link": "https://yle.fi/a/7-10102983?origin=rss",
+      "guid": "https://yle.fi/a/7-10102983",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785698757000
+    },
+    {
+      "title": "Olof K Gustafsson: ”Jag ångrar ingenting”",
+      "description": "Affärsmannen Olof K Gustafsson har just dömts i USA till fyra års fängelse för bedrägeri, men har redan stora planer för framtiden. Han drömmer om en storfilm och en 1 000 sidor lång självbiografi. – Snart kommer jag ut och då blir det Hollywoodfilm, säger han – och lovar att aldrig mer begå brott.",
+      "link": "https://www.expressen.se/nyheter/sverige/olof-k-gustafsson-jag-angrar-ingenting/",
+      "guid": "https://www.expressen.se/nyheter/sverige/olof-k-gustafsson-jag-angrar-ingenting/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785697343000
+    },
+    {
+      "title": "Trumps osannolika golfvinst: ”Jag har TALANG”",
+      "description": "USA:s president Donald Trump har gjort det igen. På söndagen vann han ännu en golftävling – trots sparsamt med träning. ”Det kallas TALANG, och jag har det, medan de andra inte har det,” skriver han.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-osannolika-golfvinst-jag-har-talang/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-osannolika-golfvinst-jag-har-talang/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785697008000
+    },
     {
       "title": "Ossian, 10, såg tromben i Umeå",
       "description": "Mäktiga fenomenet fångas på film",
@@ -12,6 +102,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785696695000
+    },
+    {
+      "title": "Person hittad död i sjö i Växjö",
+      "description": "Polisen utreder dråp",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785696583000
     },
     {
       "title": "Förbud mot gräsklippning på söndagar: ”Finns ju gränser”",
@@ -38,7 +138,7 @@
       "description": "Miljöpartiet vill skapa ett regnbågshus i Stockholm.",
       "link": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
       "guid": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
-      "image": "https://www.mitti.se/image-3.377405.301387.20260802183800.0796d6c50c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377405.301387.20260802190106.4cd9e2bb8d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785695400000
@@ -62,16 +162,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785693452000
-    },
-    {
-      "title": "Person hittad död i sjö i Växjö",
-      "description": "Polisen utreder dråp",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b257738e-df3a-4a0e-b9ea-713e6e17921e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785692848000
     },
     {
       "title": "Tidigare Maga-profilerna startar ny rörelse",
@@ -194,16 +284,6 @@
       "timestamp": 1785681510000
     },
     {
-      "title": "Tromb i Umeå – SMHI bekräftar",
-      "description": "SMHI bekräftar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=50436a00-4b89-421a-a33b-5c969bf1a068",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=50436a00-4b89-421a-a33b-5c969bf1a068",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785680997000
-    },
-    {
       "title": "Här går skytten till attack – tre döda",
       "description": "Skjutning utanför hamburgerrestaurang i Idaho",
       "link": "https://www.expressen.se/tv/nyheter/varlden/har-gar-skytten-till-attack-utanfor-hamburgerkedjan",
@@ -324,16 +404,6 @@
       "timestamp": 1785675600000
     },
     {
-      "title": "Extrem skogsbrandsrisk – men regnet ger nya hot",
-      "description": "Skogsbrandsrisken är extremt stor i stora delar av landet, enligt SMHI. I mitten av veckan väntas regn som kan dämpa faran. Men då lurar nya varningar.",
-      "link": "https://www.expressen.se/nyheter/sverige/extrem-skogsbrandsrisk-men-regnet-ger-nya-hot/",
-      "guid": "https://www.expressen.se/nyheter/sverige/extrem-skogsbrandsrisk-men-regnet-ger-nya-hot/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785674475000
-    },
-    {
       "title": "Micke Leijnegard tillbaka i rutan",
       "description": "Micke Leijnegard får nytt program i SVT, rapporterar P4 Sörmland. Programmet heter ”Mickes segelbåt” och är hans första sedan han dömdes för sexuellt ofredande.",
       "link": "https://www.expressen.se/noje/micke-leijnegard-tillbaka-i-rutan/",
@@ -342,16 +412,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785674366000
-    },
-    {
-      "title": "Leopard avlivades på Nordens Ark",
-      "description": "En leopard på Nordens Ark har avlivats. En unge drog in sin pappa, från ett hägn till ett annat, vilket orsakade skador. Det var gäster som slog larm. – Skadorna blev så stora, det fanns inget att göra, säger Mats Höggren, vd.",
-      "link": "https://www.expressen.se/nyheter/sverige/leopard-avlivades-pa-nordens-ark-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/leopard-avlivades-pa-nordens-ark-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785672981000
     },
     {
       "title": "Flera döda och tiotals saknade efter färjebrand i Indonesien",
@@ -392,26 +452,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785671381000
-    },
-    {
-      "title": "Jordbävning i Europa nära kända turistmålet",
-      "description": "300 evakuerade • Se bilderna",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/jordbavning-i-italien-en-av-de-kraftigaste-nagonsin/",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/jordbavning-i-italien-en-av-de-kraftigaste-nagonsin/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785671267000
-    },
-    {
-      "title": "Myndigheten för civilt försvar rustar för brandrisken",
-      "description": "”Flygande resurser”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a79f3b27-5bdf-481f-8c96-f27382266747",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a79f3b27-5bdf-481f-8c96-f27382266747",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785670016000
     },
     {
       "title": "Sami Pajari skrev historia i Jyväskylärallyt: ”Speciellt att få vinna på hemmaplan”",
@@ -604,16 +644,6 @@
       "timestamp": 1785660180000
     },
     {
-      "title": "130 000 elektriker saknas när AI-hallarna ska byggas",
-      "description": "AI tar över jobben – men först måste det byggas och då behövs mängder av nya elektriker, rörmokare och byggnadsarbetare. Tjänstemän ersätts av AI – men enligt Nvidias vd Jensen Huang kan AI-boomen samtidigt skapa en stor efterfrågan på klassiska hantverksyrken. När nya datacenter byggs i snabb takt behövs människor som kan gjuta grunder, dra elkablar, […]",
-      "link": "https://www.dagensps.se/privatekonomi/jobb-karriar/130-000-elektriker-saknas-nar-ai-hallarna-ska-byggas/",
-      "guid": "https://www.dagensps.se/?p=1660546",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/elektriker.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785659001000
-    },
-    {
       "title": "Half-Life portat till PlayStation 1",
       "description": "Rätt imponerande ändå En snubbe som verkar ha koll på hur man optimerar kod har skrivit en helt ny spelmotor som kan köra Half-Life på PlayStation-hårdvara (PS1). Till skillnad från många andra liknande projekt handlar det varken om en emulator eller demake. Istället har snubben skrivit om spelets motor från grunden i Rust för att få det att fungera på PlayStation-konsolens begränsade resurser. Prestandan är lite sisådär dock med cirka 20 bildrutor per sekund, men det får man väl säga är en bedrift med tanke på att PS1-hårdvaran är flera år äldre än själva spelet. Utvecklaren är dock lite försiktig med den juridiska biten. Han har kontaktat Valve för att be om tillåtelse att släppa projektet offentligt men har inte fått någon respons ännu. Han säger dock att han tolkar tystnaden som att de inte har några åsikter och att han planerar att släppa källkoden om han inte får något svar inom en månad. För att kunna spela versionen kommer användare dock behöva äga en laglig kopia av Half-Life på Steam. L&auml;s vidare och kommentera: https://feber.se/spel/half-life-portat-till-playstation-1/494654/ L&auml;s mer om Half-Life , Rust , Valve , PlayStation , spelmotor , PS1",
       "link": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
@@ -712,36 +742,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785650400000
-    },
-    {
-      "title": "Så lyckas du få ut dina barn i naturen",
-      "description": "Naturutflykter behöver inte vara komplicerade eller dyra. Nadja Mäkelä är regelbundet är ute i naturen med sina barn. Här delar hon med sig av sina bästa tips.",
-      "link": "https://yle.fi/a/7-10102818?origin=rss",
-      "guid": "https://yle.fi/a/7-10102818",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785648926000
-    },
-    {
-      "title": "Nu måste företag berätta om innehåll skapat av AI",
-      "description": "EU inför nya regler för artificiell intelligens som påverkar chattbotar och AI-verktyg.",
-      "link": "https://yle.fi/a/7-10102969?origin=rss",
-      "guid": "https://yle.fi/a/7-10102969",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785648765000
-    },
-    {
-      "title": "Begravningsentreprenör sökes i Nyland: ”Vi hanterar inte döda så mycket som folk tror”",
-      "description": "Enligt begravningsentreprenören Denise Lönnblad missförstår många vad jobbet går ut på. Hon befarar att brist på arbetskraft kan leda till fler slarvfel.",
-      "link": "https://yle.fi/a/7-10102611?origin=rss",
-      "guid": "https://yle.fi/a/7-10102611",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785648613000
     },
     {
       "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
@@ -1708,7 +1708,7 @@
       "description": "En man sågs dricka öl innan han rattfull hoppade in i bilen och körde i väg med sitt barn.",
       "link": "https://www.mitti.se/nyheter/paverkad-forare-hade-barn-i-bilen-6.3.378247.ea8f713569",
       "guid": "https://www.mitti.se/nyheter/paverkad-forare-hade-barn-i-bilen-6.3.378247.ea8f713569",
-      "image": "https://www.mitti.se/image-3.354176.301381.20260731063755.1.06c533e562?format=jpeg",
+      "image": "https://www.mitti.se/image-3.354176.301381.20260802185758.1.b3a6e4b3d2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785477411000
@@ -1988,7 +1988,7 @@
       "description": "En 17-årig man döms i Solna tingsrätt efter att ha försökt smuggla in en rökmaskin i kalsongerna till en match på Strawberry Arena. Böterna sänks till 1 500 kronor.",
       "link": "https://www.mitti.se/nyheter/17aring-smugglade-bengaler-i-kalsongerna-till-fotbollsmatch-6.3.377695.eb57186309",
       "guid": "https://www.mitti.se/nyheter/17aring-smugglade-bengaler-i-kalsongerna-till-fotbollsmatch-6.3.377695.eb57186309",
-      "image": "https://www.mitti.se/image-3.251539.301318.20260802183653.98db1b1964?format=jpeg",
+      "image": "https://www.mitti.se/image-3.251539.301318.20260802184927.7666f016b8?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785405511000
@@ -2308,7 +2308,7 @@
       "description": "Louise Hallqvist och Ylva Johansson vann sitt första SM-guld i bridge efter EM-brons i Riga. Nu siktar systrarna från BK S:t Erik mot VM i Barbados – och vill få fler damer till sporten.",
       "link": "https://www.mitti.se/nyheter/systrarna-fran-stockholm-knep-smguld-i-bridge-6.3.377472.e14b462612",
       "guid": "https://www.mitti.se/nyheter/systrarna-fran-stockholm-knep-smguld-i-bridge-6.3.377472.e14b462612",
-      "image": "https://www.mitti.se/image-3.377090.301057.20260729111344.15ea17bd95?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377090.301057.20260802185503.aca046f194?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785321749000
