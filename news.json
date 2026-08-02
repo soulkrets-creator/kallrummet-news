@@ -1,8 +1,198 @@
 {
-  "updatedAt": "2026-08-02T05:46:06.190Z",
+  "updatedAt": "2026-08-02T08:03:42.446Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Half-Life portat till PlayStation 1",
+      "description": "Rätt imponerande ändå En snubbe som verkar ha koll på hur man optimerar kod har skrivit en helt ny spelmotor som kan köra Half-Life på PlayStation-hårdvara (PS1). Till skillnad från många andra liknande projekt handlar det varken om en emulator eller demake. Istället har snubben skrivit om spelets motor från grunden i Rust för att få det att fungera på PlayStation-konsolens begränsade resurser. Prestandan är lite sisådär dock med cirka 20 bildrutor per sekund, men det får man väl säga är en bedrift med tanke på att PS1-hårdvaran är flera år äldre än själva spelet. Utvecklaren är dock lite försiktig med den juridiska biten. Han har kontaktat Valve för att be om tillåtelse att släppa projektet offentligt men har inte fått någon respons ännu. Han säger dock att han tolkar tystnaden som att de inte har några åsikter och att han planerar att släppa källkoden om han inte får något svar inom en månad. För att kunna spela versionen kommer användare dock behöva äga en laglig kopia av Half-Life på Steam. L&auml;s vidare och kommentera: https://feber.se/spel/half-life-portat-till-playstation-1/494654/ L&auml;s mer om Half-Life , Rust , Valve , PlayStation , spelmotor , PS1",
+      "link": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/half-life-portat-till-playstation-1/494654/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785657600000
+    },
+    {
+      "title": "Ryskt containerfartyg sänkt i Svarta havet",
+      "description": "Ukraina har sänkt ett sanktionsbelagt ryskt containerfartyg i Svarta havet. Fartyget hade en kapacitet på över 100 000 ton. I ett inlägg på X meddelar Ukrainas president Volodymyr Zelenskyj att Ukraina sänkt det ryskflaggade containerfartyget Yanina i Svarta havet. Yanina var under sanktioner och uppges ha haft en kapacitet på mer än 100 000 ton. ”Våra mål […]",
+      "link": "https://www.dagensps.se/varlden/ryskt-containerfartyg-sankt-i-svarta-havet/",
+      "guid": "https://www.dagensps.se/?p=1660551",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlmcf2aghfvbm-nh-1-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785657542000
+    },
+    {
+      "title": "Hur stor är din risk att få demens? Vardagsvanor kan skydda mot problem med minnet och tänkandet",
+      "description": "Många faktorer är viktiga när det gäller att motverka kognitiva störningar, säger professor Miia Kivipelto. I artikeln kan du testa din risk att insjukna i demens.",
+      "link": "https://yle.fi/a/7-10098413?origin=rss",
+      "guid": "https://yle.fi/a/7-10098413",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785657370000
+    },
+    {
+      "title": "Han fick Trump att u-svänga – marknaderna lättade",
+      "description": "Efter samtal med den saudiske kronprinsen Mohammed bin Salman rev Trump upp sina planer på nya, massiva attacker mot Iran. Att USA:s president Donald Trump ändrat sig så snabbt från att så sent som i fredags ha hotat med en ny bombräd mot Iran kommer tveklöst att sätta positivt avtryck på både oljepriset och börsen […]",
+      "link": "https://www.dagensps.se/bors-finans/han-fick-trump-att-u-svanga-marknaderna-lattade/",
+      "guid": "https://www.dagensps.se/?p=1660548",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/mbstrump.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785657241000
+    },
+    {
+      "title": "Rostad potatissallad med dragondressing",
+      "description": "En krämig, rostad potatissallad som garneras med ätliga blommor som tagetes och krasse. Båda har en kryddigt god smak. Kronblad av ringblommor är också fint.",
+      "link": "https://alltommat.expressen.se/recept/rostad-potatissallad-med-dragondressing-kn4ij/",
+      "guid": "https://alltommat.expressen.se/recept/rostad-potatissallad-med-dragondressing-kn4ij/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785656040000
+    },
+    {
+      "title": "Rökbildning i köket på hotell i Vasa i natt",
+      "description": "En överhettad kompressor orsakade rökutveckling på Original Sokos Hotel Royal i Vasa. Ingen brand uppstod och ingen skadades.",
+      "link": "https://yle.fi/a/7-10102971?origin=rss",
+      "guid": "https://yle.fi/a/7-10102971",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785656002000
+    },
+    {
+      "title": "Misstänkt mordförsök i Ljusdal – två gripna",
+      "description": "Två gripna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cf1f0cc-5003-4681-afd9-639d06d25255",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1cf1f0cc-5003-4681-afd9-639d06d25255",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785655630000
+    },
+    {
+      "title": "Ukrainsk attack inatt",
+      "description": "Rysk infrastruktur i lågor",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/nya-ukrainska-attacker-mot-rysk-infrastruktur-/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/nya-ukrainska-attacker-mot-rysk-infrastruktur-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785654663000
+    },
+    {
+      "title": "Pistaschglass",
+      "description": "Superkrämig glass med riktigt god pistaschsmak. Glassen görs av pistaschnötter malda till en pasta eller med köpt pistaschkräm som blandas i en glassmet. Den kräver en glassmaskin. Köp en kräm eller pasta som innehåller minst 40 % pistaschnötter.",
+      "link": "https://alltommat.expressen.se/recept/pistaschglass/",
+      "guid": "https://alltommat.expressen.se/recept/pistaschglass/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785654540000
+    },
+    {
+      "title": "Sommarhus står stilla – samtidigt rasar lägenheter i Stockholm",
+      "description": "Priset på lägenheter faller och priset på sommarhus står och stampar. Och utvecklingen pekar mot en mer osäker bostadsmarknad. För den som vill fynda är tiden nu.",
+      "link": "https://www.expressen.se/nyheter/sverige/sommarhus-star-stilla-samtidigt-rasar-lagenheter-i-stockholm/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sommarhus-star-stilla-samtidigt-rasar-lagenheter-i-stockholm/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785654124000
+    },
+    {
+      "title": "Olof K Gustafsson dömd till fängelse",
+      "description": "Fick fyra års fängelse och får betala miljoner i skadestånd Olof K Gustafsson har nu dömts till fyra års fängelse i USA för allt fuffens han höll på med. Genom sitt bolag Escobar Inc, som han drev tillsammans med Pablo Escobars bror, lurade han kunder på över 13 miljoner kronor. Affärsidén gick ut på att sälja exklusiva produkter som guldpläterade mobiltelefoner, eldkastare och kryptovaluta till vrakpriser. Dock fick kunderna som betalade aldrig några varor, utan de fick istället reklam eller böcker. Gustafsson greps i Spanien i slutet av 2023 och utlämnades därefter till USA, där han erkände sig skyldig till fem åtalspunkter. Utöver fängelsestraffet på 48 månader ska han betala drygt 12 miljoner kronor i skadestånd till de drabbade samt böter på cirka 238 000 kronor. L&auml;s vidare och kommentera: https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/ L&auml;s mer om Olof K Gustafsson , Escobar Inc , USA , Pablo Escobar , kryptovaluta , bedrägeri , Bedrägerier",
+      "link": "https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/olof-k-gustafsson-domd-till-fangelse/494653/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785654000000
+    },
+    {
+      "title": "Kursrally i Buffetts livsverk – tre aktier draglok",
+      "description": "Börslegendaren Warren Buffetts Berkshire Hathaway rusar på aktiemarknaden och noterar hösta nivån på åtta månader. I veckan, närmare bestämt i tisdags, stängde B-aktierna i den ikoniske Wall Street-profilens investeringskonglomerat på 512,37 dollar, vilket uppges vara den högsta nivån sedan 28 november förra året då aktien avslutade handeln på 513,81 dollar. I fredags avslutade Berkshire Hathaway […]",
+      "link": "https://www.dagensps.se/bors-finans/kursrally-i-buffetts-livsverk-tre-aktier-draglok/",
+      "guid": "https://www.dagensps.se/?p=1660543",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/buffettrusar.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785653860000
+    },
+    {
+      "title": "Kan det här bli ett nytt radarpar? Robin Lod spelade fram till Robert Lewandowskis segermål",
+      "description": "Robert Lewandowski har presenterat sig på allvar i MLS. Under natten till söndag gjorde han två mål i Chicago Fires seger över Charlotte FC.",
+      "link": "https://yle.fi/a/7-10102970?origin=rss",
+      "guid": "https://yle.fi/a/7-10102970",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785652318000
+    },
+    {
+      "title": "Rhubarb pie spritz",
+      "description": "Somrig, snygg och sprudlande. Med få ingredienser blandar du en läskande drink som passar perfekt både före och efter maten.",
+      "link": "https://alltommat.expressen.se/recept/rhubarb-pie-spritz/",
+      "guid": "https://alltommat.expressen.se/recept/rhubarb-pie-spritz/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1785651720000
+    },
+    {
+      "title": "Tappad husvagn på E6",
+      "description": "Påverkar trafiken",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0dc7e4c4-f6a2-4ba4-acc3-21766e7b79d6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0dc7e4c4-f6a2-4ba4-acc3-21766e7b79d6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785651337000
+    },
+    {
+      "title": "Slår till mot den ryska flygbasen",
+      "description": "Ukrainas attack på Krimhalvön",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-slar-de-till-mot-ryska-malen/",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-slar-de-till-mot-ryska-malen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785650599000
+    },
+    {
+      "title": "Marvel skrotar säsong två av Wonder Man",
+      "description": "En säsong fick räcka Trots tidigare löften om en fortsättning står det nu klart att Marvel Studios lägger ner den planerade andra säsongen av tv-serien Wonder Man. Beslutet kommer som en överraskning för många, särskilt då huvudrollsinnehavaren Yahya Abdul-Mateen II nyligen belönats med en Emmy-nominering för sin prestation i serien. Även om serien läggs ner betyder det inte nödvändigtvis slutet för karaktärerna då de ju kan dyka upp i andra produktioner framöver. L&auml;s vidare och kommentera: https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/ L&auml;s mer om Marvel Studios , Wonder Man , Yahya Abdul-Mateen II , Emmy , TV-serier",
+      "link": "https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/marvel-skrotar-sasong-tva-av-wonder-man/494645/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785650400000
+    },
+    {
+      "title": "Prisras på lägenheter i juli: ”Sticker ut”",
+      "description": "Bostadspriserna i Sverige sjönk med 2,4 procent under juli som helhet. Lägenheter blev rejält billigare och mest rasade priserna i Storstockholm. – Det är överraskande, säger Robert Boije, chefsekonom på SBAB.",
+      "link": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
+      "guid": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785650017000
+    },
+    {
+      "title": "Man bröt sig in villa – flydde i kajak",
+      "description": "Vägrade komma in till land",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=93ee16ac-cdc1-4776-a707-04120491a844",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=93ee16ac-cdc1-4776-a707-04120491a844",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785649951000
+    },
     {
       "title": "Så lyckas du få ut dina barn i naturen",
       "description": "Naturutflykter behöver inte vara komplicerade eller dyra. Nadja Mäkelä är regelbundet är ute i naturen med sina barn. Här delar hon med sig av sina bästa tips.",
@@ -52,16 +242,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785647469000
-    },
-    {
-      "title": "Prisras på lägenheter i juli: ”Sticker ut”",
-      "description": "Bostadspriserna i Sverige sjönk med 2,4 procent under juli som helhet. Lägenheter blev rejält billigare och mest rasade priserna i Storstockholm. – Det är överraskande, säger Robert Boije, chefsekonom på SBAB.",
-      "link": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
-      "guid": "https://www.expressen.se/nyheter/sverige/prisras-pa-lagenheter-i-juli-sticker-ut/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785647381000
     },
     {
       "title": "Sommar i P1: Ebba Witt-Brattström om att försöka bli svensk",
@@ -224,26 +404,6 @@
       "timestamp": 1785639313000
     },
     {
-      "title": "Tre döda i explosion på restaurang i Moskva",
-      "description": "Tre personer har dött och 21 skadats i en explosion i centrala Moskva. Explosionen skedde vid en restaurang som abonnerats för en privat fest. Enligt uppgifter till ryska medier var en högt uppsatt person inom försvaret på restaurangen.",
-      "link": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tre-doda-i-explosion-pa-kafe-i-moskva-vpx9u/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785638596000
-    },
-    {
-      "title": "13 döda i flygkrasch i Peru",
-      "description": "Alla 13 ombord omkom när ett mindre flygplan med turister störtade i södra Peru på lördagen. Av de döda är elva passagerare och två piloter. Planet kraschade när det flög över en populär turistattraktion.",
-      "link": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
-      "guid": "https://www.expressen.se/nyheter/varlden/13-turister-doda-i-flygkrasch/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785627184000
-    },
-    {
       "title": "Ny demensupptäckt: En liten förändring i din dagliga promenad kan skydda dig mot det allvarliga tillståndet",
       "description": "Forskarna ger mycket specifika råd om hur du kan minska risken för att utveckla det allvarliga tillståndet.",
       "link": "https://illvet.se/halsa/en-liten-andring-i-din-dagliga-promenad-kan-skydda-dig-mot-demens-enligt-forskarna-bakom-ny-studie",
@@ -314,7 +474,7 @@
       "timestamp": 1785614126000
     },
     {
-      "title": "Tre döda i explosion i Moskva",
+      "title": "Tre döda i misstänkt bombattack i Moskva",
       "description": "Explosionen inträffade vid åttatiden på kvällen lokal tid.",
       "link": "https://yle.fi/a/7-10102964?origin=rss",
       "guid": "https://yle.fi/a/7-10102964",
@@ -322,16 +482,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785613194000
-    },
-    {
-      "title": "Barres chock – rovfågel föll ned",
-      "description": "Oväntade situationen • Inledde räddningsinsats",
-      "link": "https://www.expressen.se/tv/nyheter/fageln-foll-fran-ingenstans-berra-kom-till-undsattning-",
-      "guid": "https://www.expressen.se/tv/nyheter/fageln-foll-fran-ingenstans-berra-kom-till-undsattning-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785612689000
     },
     {
       "title": "Experter varnar: Dödligt virus kan löpa amok på bara ett par veckor",
@@ -362,16 +512,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785611331000
-    },
-    {
-      "title": "Blixt slog ner vid camping – Viktoria fick ström genom kroppen",
-      "description": "Campinglugnet i Bjurholm utanför Umeå förvandlades till dramatik när en blixt slog ner intill familjen Edlunds husvagn. Plötsligt kände Viktoria Edlund hur hon fick ström genom kroppen, vilket VK var först med att rapportera. – Det var väldigt, väldigt obehagligt, säger Viktoria.",
-      "link": "https://www.expressen.se/nyheter/sverige/blixt-slog-ner-vid-camping-viktoria-fick-strom-genom-kroppen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/blixt-slog-ner-vid-camping-viktoria-fick-strom-genom-kroppen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785610938000
     },
     {
       "title": "Se bilderna: Grönlands inuiter är det iskalla nords betvingare",
@@ -412,26 +552,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785609879000
-    },
-    {
-      "title": "Rysk Onlyfans-stjärna döms i Putins porrkrig – förbjuds från internet",
-      "description": "Den 21-åriga ryska modellen Sofya Vershinina döms i Moskva för att ha skapat och spridit pornografiskt innehåll. Hon slipper fängelse – men får villkorlig dom, böter och internetförbud i tre år. Fallet är ett av flera i Putins razzia mot porrindustrin.",
-      "link": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
-      "guid": "https://www.expressen.se/nyheter/varlden/rysk-onlyfans-stjarna-doms-i-putins-porrkrig-forbjuds-fran-internet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785608097000
-    },
-    {
-      "title": "Tre döda i explosion på kafé i Moskva",
-      "description": "Flera döda",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d077fc84-61d6-48dd-a0e8-485b3cfd0a6f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d077fc84-61d6-48dd-a0e8-485b3cfd0a6f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785608066000
     },
     {
       "title": "Olyckorna avlöser varandra i Jyväskylärallyt – Sébastien Ogier till sjukhus med helikopter",
@@ -484,16 +604,6 @@
       "timestamp": 1785600014000
     },
     {
-      "title": "En död i samband med båtracing i Kotka",
-      "description": "Enligt polisen krockade två båtar med varandra.",
-      "link": "https://yle.fi/a/7-10102959?origin=rss",
-      "guid": "https://yle.fi/a/7-10102959",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785599497000
-    },
-    {
       "title": "Nya EU-krav tvingar fram märkning av AI-innehåll",
       "description": "I morgon måste AI-grejer markeras så folk fattar I morgon kommer EU att skärpa kraven på transparens kring artificiell intelligens. Enligt det nya regelverket så måste allt AI-genererat innehåll som ser verklighetstroget ut förses med en tydlig märkning eller någon form av digitalt vattenmärke. Kravet omfattar både text, bilder och ljudfiler som kan misstas för att vara äkta. Man hoppas att dessa nya regler ska göra tekniken mer tydlig i områden där AI redan används flitigt utan att publiken alltid är medveten om det. Tanken är att detta ska skydda konsumenter från att bli vilseledda och att värna demokratin genom att säkra äktheten i den information som sprids online. De nya reglerna gäller omedelbart för nya AI-tjänster som lanseras från och med i morgon. Befintliga AI-tjänster får ytterligare fyra månader på sig att anpassa sig efter de nya reglerna. Företag som misslyckas med att märka sitt innehåll riskerar kännbara böter på upp till tre procent av sin totala globala omsättning. Det finns dock vissa undantag i reglerna. Privatpersoner som skapar AI-innehåll för internt bruk, exempelvis skämt i en chattgrupp, berörs inte. Dessutom görs undantag för uppenbart konstnärliga verk, satir eller fiktion. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/ L&auml;s mer om EU , artificiell intelligens , transparens , digitalt vattenmärke , AI-genererat innehåll",
       "link": "https://feber.se/samhalle/nya-eu-krav-tvingar-fram-markning-av-ai-innehall/494643/?utm_source=rss&utm_medium=feed",
@@ -502,26 +612,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785596400000
-    },
-    {
-      "title": "HIFK värvar svensk tränare – ”Masken” Carlsson ansluter",
-      "description": "Anders ”Masken” Carlsson är klar för HIFK:s tränarstab. Samtidigt meddelar klubben att Toni Lydman inte fortsätter.",
-      "link": "https://yle.fi/a/7-10102958?origin=rss",
-      "guid": "https://yle.fi/a/7-10102958",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785595779000
-    },
-    {
-      "title": "Efter 20 år flyttade Maj-Len Drockila tillbaka till familjegården: ”Jag vill att min dotter ska växa upp här”",
-      "description": "Maj-Len Drockila, 38, lämnade Pyttis som ung. Nu är hon tillbaka på gården, jobbar på kulturhuset som satt byn på kartan och vill föra svenskan vidare på orten.",
-      "link": "https://yle.fi/a/7-10099021?origin=rss",
-      "guid": "https://yle.fi/a/7-10099021",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785592814000
     },
     {
       "title": "EA säljs till Saudiarabien nästa vecka",
@@ -754,16 +844,6 @@
       "timestamp": 1785576874000
     },
     {
-      "title": "Oljejättarnas miljardregn – tjänar stort på kris och krig",
-      "description": "Krisen på oljemarknaden drabbar inte oljejättarna särskilt. Amerikanska Chevron femdubblade exempelvis sin vinst. De höga oljepriserna efter kriget mellan Iran och Israel gav ett rejält lyft för de amerikanska oljejättarna ExxonMobil och Chevron under årets andra kvartal. Båda bolagen redovisar kraftigt ökade vinster, även om Exxon missade analytikernas förväntningar. Oljepriset steg kraftigt under kvartalet när […]",
-      "link": "https://www.dagensps.se/bors-finans/ravaror/oljejattarnas-miljardregn-tjanar-stort-pa-kris-och-krig/",
-      "guid": "https://www.dagensps.se/?p=1660496",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/chevron.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785575626000
-    },
-    {
       "title": "Miljoner lider av sjukdomen – nu har åldrandeforskare upptäckt att den kan få din hjärna att åldras fortare",
       "description": "Deltagarna i en ny studie hade en hjärnålder som var flera år äldre än deras faktiska ålder.",
       "link": "https://illvet.se/halsa/miljoner-lider-av-sjukdomen-nu-har-aldrandeforskare-upptackt-att-den-kan-fa-din-hjarna-att-aldras-fortare",
@@ -782,26 +862,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785574800000
-    },
-    {
-      "title": "Meganotering – kan bli en av Nordens största i år",
-      "description": "Aker-bolag kan noteras för 240 miljarder norska kronor. Ett möte i New York står på agendan nästa vecka. Han kan skratta hela vägen till banken. Det är AI-infrastrukturföretaget Nscale, som i grunden är brittiskt men ägs till 23 procent av norska Aker, som nu uppges vara nära att ta klivet in på börsen. En stor […]",
-      "link": "https://www.dagensps.se/bors-finans/meganotering-kan-bli-en-av-nordens-storsta-i-ar/",
-      "guid": "https://www.dagensps.se/?p=1660492",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/kjellinge.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785574668000
-    },
-    {
-      "title": "AI skulle spara tid – i stället skapar den ”fabriker av utbrända”",
-      "description": "AI skulle frigöra tid och minska arbetsbördan. Men ny forskning visar att artificiell intelligens i stället kan leda till högre arbetstempo, fler arbetsuppgifter och en växande risk för utbrändhet. AI beskrivs ofta som tekniken som ska automatisera rutinuppgifter och ge människor mer tid över. Men verkligheten ser annorlunda ut på många arbetsplatser. En studie från […]",
-      "link": "https://www.dagensps.se/privatekonomi/jobb-karriar/ai-skulle-spara-tid-i-stallet-skapar-den-fabriker-av-utbranda/",
-      "guid": "https://www.dagensps.se/?p=1660490",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/aiburnout.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785573801000
     },
     {
       "title": "Gigantiskt test jämför Volvo EX60, BMW iX3, Mercedes GLC och Audi Q6",
@@ -1314,16 +1374,6 @@
       "timestamp": 1785499200000
     },
     {
-      "title": "Skriv anteckningar till låtar i en spellista",
-      "description": "Ny funktion i Spotify Spotify fortsätter att trycka ut funktioner, och deras senaste är väldigt trevlig för de som gillar att skapa och sprida spellistor. Nu kan man nämligen lägga små noteringar på låtarna i en spellista. Vilket ju är perfekt om man vill dela med sig om varför en låt är bra, eller om det finns en historia kring låten. Det kanske är en artist som är helt ny, men där medlemmarna har varit med i andra band. Funktionen ska finnas för alla över 16 år, både på gratis- och premiumabonnemang. Men tyvärr inte på alla marknader, och jag har inte fått det så jag antar att Sverige inte är en av dessa. Det verkar även bara vara en funktion som är tillgänglig på mobilen. L&auml;s vidare och kommentera: https://feber.se/internet/skriv-anteckningar-till-latar-i-en-spellista/494612/ L&auml;s mer om Spellistor , musikstreaming",
-      "link": "https://feber.se/internet/skriv-anteckningar-till-latar-i-en-spellista/494612/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/skriv-anteckningar-till-latar-i-en-spellista/494612/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785497400000
-    },
-    {
       "title": "A 42-year-old childhood obesity theory may be wrong",
       "description": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as children prepare for later growth. Researchers say this normal process has been mistakenly treated as an obesity warning sign for 42 years.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
@@ -1334,16 +1384,6 @@
       "timestamp": 1785497312000
     },
     {
-      "title": "De bygger om gamla Volvo XC90 till elbilar",
-      "description": "Dyrt men härligt! Den första generationen av Volvo XC90 lanserades 2002 på Detroit-salongen, vilket inte var en slump eftersom modellen hade siktet inställt på USA. Den första generationen producerades fram till 2014 och blev en enorm framgång för Volvo. Många av bilarna som tillverkades lever än, och ett bolag som heter Greentimer försöker få de gamla bilarna att leva ännu längre genom att konvertera dem till eldrift. Man tar helt enkelt en gammal Volvo XC90, stoppar in batterier från Volkswagens MEB-plattform och motorer från Tesla och så får kunden en bil som borde hålla ett gäng år till. Man kan välja mellan två olika batteripack på antingen 55 eller 82 kWh. Räckvidden ska ligga på 275 respektive 400 km. Snabbladdningen är inte så snabb, 70 kW, men det får man kanske leva med. Motorn levererar dock 220 kW, runt 300 hästar. Vilket är mer än alla motoralternativ som fanns till XC90, förutom den klassiska V8:an. Och den får man inte kassera, den är för mysig. Det blir inte billigt att bygga om bilen, priset ligger på ungefär 380.000 respektive 450.000 kronor inklusive moms. Svettigt, men vill man glida i en (blivande) klassiker kanske det kan vara värt det. Jag kan tycka att staten borde subventionera sånt här, speciellt om man använder begagnade batterier och motorer. För det stora utsläppet med en ny bil är ju tillverkningen, att återanvända en gammal bil är det klimatsmartaste man kan göra. Greentimer fokuserar just nu på XC90, men hoppas kunna utöka till andra modeller i framtiden. L&auml;s vidare och kommentera: https://feber.se/bil/de-bygger-om-gamla-volvo-xc90-till-elbilar/494628/ L&auml;s mer om Greentimer , XC90 , Tesla , MEB-plattform , Volkswagen , eldrift , Elbilskonvertering",
-      "link": "https://feber.se/bil/de-bygger-om-gamla-volvo-xc90-till-elbilar/494628/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/de-bygger-om-gamla-volvo-xc90-till-elbilar/494628/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785496200000
-    },
-    {
       "title": "16-årig supertalang tar plats i Djurgårdstruppen",
       "description": "16-årige Alexander Johansson från Danderyd tar plats i Djurgårdens herrtrupp. Mittfältstalangen lämnar IFK Stocksund och drömmer om spel inför fansen på 3Arena.",
       "link": "https://www.mitti.se/nyheter/16arig-supertalang-tar-plats-i-djurgardstruppen-6.3.377654.37e24f3b83",
@@ -1352,16 +1392,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785495972000
-    },
-    {
-      "title": "Snart slipper du starta om Chrome för uppdateringar",
-      "description": "Google vill ha en säkrare webbläsare Att behöva starta om webbläsaren mitt i arbetet för att installera de senaste uppdateringarna är sällan skoj, även om alla flikar öppnas precis normalt igen efteråt. Men den processen kan snart vara ett minne blott då Google jobbar på att utveckla en ny lösning som ska göra det möjligt för Chrome att uppdateras i bakgrunden utan att användaren märker något. Bakgrunden till att man tagit fram detta är att Google numera hittar allt fler säkerhetsbrister snabbare på grund av AI-verktygen som felsöker koden konstant. Antalet buggfixar har därför ökat dramatiskt vilket då leder till betydligt fler uppdateringar. Så genom att rulla ut säkerhetsfixar snabbare vill man bara trycka ut dem utan att användare ska behöva starta om sina webbläsare så att hackare inte kan utnyttja sårbarheter bara för att man inte vill att YouTube-klippet ska börja om från början igen. Google experimenterar också med att låta webbläsaren starta om sig själv vid strategiska tillfällen, till exempel när programmet körs i bakgrunden utan aktiva fönster. L&auml;s vidare och kommentera: https://feber.se/internet/snart-slipper-du-starta-om-chrome-for-uppdateringar/494611/ L&auml;s mer om Chrome , webbläsare , cybersäkerhet , AI-verktyg , YouTube , bakgrundsuppdateringar",
-      "link": "https://feber.se/internet/snart-slipper-du-starta-om-chrome-for-uppdateringar/494611/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/snart-slipper-du-starta-om-chrome-for-uppdateringar/494611/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785495600000
     },
     {
       "title": "Gratinerad varm kronärtskocksdipp med vitlöksbröd",
@@ -2264,16 +2294,6 @@
       "timestamp": 1785305048000
     },
     {
-      "title": "Madeleines lättlagade recept på gryta med kyckling",
-      "description": "En smidig gryta med kyckling i gräddig sås är en perfekt vardagsräddare när man har ont om tid. – Vill ni laga en enkel kyckling med ris och sås så tipsar jag om oreganokyckling, säger matprofilen Madeleine Sandahl som bjuder på sitt recept här.",
-      "link": "https://alltommat.expressen.se/artiklar/madeleines-lattlagade-recept-pa-gryta-med-kyckling/",
-      "guid": "https://alltommat.expressen.se/artiklar/madeleines-lattlagade-recept-pa-gryta-med-kyckling/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785304800000
-    },
-    {
       "title": "Brand i tältläger under Skansbron",
       "description": "Det brann i ett tältläger under Skanstullsbron i natt.",
       "link": "https://www.mitti.se/nyheter/brand-i-taltlager-under-skansbron-6.3.377666.a66ce631f8",
@@ -2464,16 +2484,6 @@
       "timestamp": 1785237404000
     },
     {
-      "title": "Ugnspannkaka med zucchini och grillad kalkonkassler",
-      "description": "En matig ugnspannkaka fylld med rivna grönsaker, potatis och gräslök. Kasslern ger sälta och lingonen frisk syra.",
-      "link": "https://alltommat.expressen.se/recept/ugnspannkaka-med-zucchini-och-grillad-kalkonkassler/",
-      "guid": "https://alltommat.expressen.se/recept/ugnspannkaka-med-zucchini-och-grillad-kalkonkassler/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785237096000
-    },
-    {
       "title": "Hackare stjäl Microsoft 365-konton via hotellens wifi",
       "description": "Besöker du ett hotell eller ett konferenscenter bör du vara på din vakt när du kopplar upp dig mot deras trådlösa nätverk. Enligt säkerhetsföretaget Relia Quest har nämligen dns-inställningarna för wifi-enheterna ändrats av hackare på ett antal hotell och konferenscenter runt om i världen. Syftet är att förmå användarna att skriva in sina kontouppgifter på falska inloggningssidor för Microsoft 365. Bästa sättet att skydda sig är att använda sig av en pålitlig vpn-tjänst och krypterad dns, rapporterar Bleeping Computer .",
       "link": "https://computersweden.se/article/4202184/hackare-stjal-microsoft-365-konton-via-hotellens-wifi.html",
@@ -2502,16 +2512,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785233403000
-    },
-    {
-      "title": "Sardenaira – ligurisk pizza",
-      "description": "Detta är en traditionell, frasig pizza från Sanremo som har spridit sig till närliggande städer längs kusten i Ligurien. Den toppas med tomat, sardeller, taggiascaoliver, kapris, vitlök och oregano. Den ”röda pizzan” skärs i fyrkanter och äts varm eller rumstempererad till mellanmål eller som enkel lunch på stranden.",
-      "link": "https://alltommat.expressen.se/recept/sardenaira-ligurisk-pizza/",
-      "guid": "https://alltommat.expressen.se/recept/sardenaira-ligurisk-pizza/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785233244000
     },
     {
       "title": "Publikinformation: Anderlecht borta",
