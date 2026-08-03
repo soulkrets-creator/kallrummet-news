@@ -1,8 +1,68 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-03T19:17:39.663Z",
+  "updatedAt": "2026-08-03T21:57:31.629Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Bulleit 87' Frontier Whiskey",
+      "description": "",
+      "link": "https://uncrate.com/bulleit-87-frontier-whiskey/",
+      "guid": "https://uncrate.com/bulleit-87-frontier-whiskey/",
+      "image": "https://uncrate.com/assets_c/2026/08/bullet-frontier-whiskey-2-thumb-960xauto-192434.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785794400000
+    },
+    {
+      "title": "Foxtrot-topp döms till livstid",
+      "description": "Ska sitta inlåst i Irak, uppger SVT",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=29aee102-8440-4506-ba10-ade5d66283f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=29aee102-8440-4506-ba10-ade5d66283f1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785792942000
+    },
+    {
+      "title": "25 delstater stämmer Trump",
+      "description": "Nya draget mot presidenten",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3dd092d0-beb5-405e-a208-514614d1ce83",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3dd092d0-beb5-405e-a208-514614d1ce83",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785792929000
+    },
+    {
+      "title": "2005 Porsche Carrera GT Rosso Fuoco",
+      "description": "",
+      "link": "https://uncrate.com/2005-porsche-carrera-gt-rosso-fuoco/",
+      "guid": "https://uncrate.com/2005-porsche-carrera-gt-rosso-fuoco/",
+      "image": "https://uncrate.com/assets_c/2026/08/porsche-carrera-gt-rosso-fuoco-2-thumb-960xauto-192430.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785790800000
+    },
+    {
+      "title": "Trumps desperata drag: Fyrverkerier mot Iran",
+      "description": "Framför kamerorna hotar Trump Iran med ”halshuggning”. Men bakom stängda dörrar söker han efter ”billiga och kreativa” sätt att skada Iran. Ett förslag från Trump är fyrverkerier, skriver CNN .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-desperata-drag-fyrverkerier-mot-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-desperata-drag-fyrverkerier-mot-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785790562000
+    },
+    {
+      "title": "Ny studie avslöjar hur kinesiska klippmålningar bevarats så otroligt väl – kalk, lera och blod från födande kvinnor",
+      "description": "Hur klippmålningarna på berget Huashan under 2 000 år har bevarats trots otaliga tyfoner, kraftiga regnskurar och intensiv hetta har länge varit ett mysterium. Nu verkar gåtan vara löst.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/ny-studie-avslojar-hur-kinesiska-klippmalningar-bevarats-sa-otroligt-val",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/ny-studie-avslojar-hur-kinesiska-klippmalningar-bevarats-sa-otroligt-val",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785789018000
+    },
     {
       "title": "Två döda av parasit",
       "description": "11 000 smittade",
@@ -11,7 +71,77 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785783749000
+      "timestamp": 1785787700000
+    },
+    {
+      "title": "Ryssland anklagar Ukraina för dödsbombning i Moskva",
+      "description": "Flera personer dödades i ett bombdåd på en restaurang i Moskva. Nu anklagas Ukraina för att ha försökt mörda en högt uppsatt rysk militär – samtidigt som han firade sin 55-årsdag, rapporter The Guardian .",
+      "link": "https://www.expressen.se/nyheter/varlden/ryssland-anklagar-ukraina-for-dodsbombning-i-moskva/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryssland-anklagar-ukraina-for-dodsbombning-i-moskva/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785787545000
+    },
+    {
+      "title": "Så ska vi lagra den gröna överskottselen – upphettat salt bevarar energin",
+      "description": "Utsikterna är strålande. Det 700 grader varma saltet kan inte bara lösa en av de största utmaningarna med de gröna energislagen. Om en viss ingrediens tillsätts kan saltet också ge oss i princip oändligt med energi.",
+      "link": "https://illvet.se/teknik/sa-ska-vi-lagra-den-grona-overskottselen-upphettat-salt-bevarar-energin",
+      "guid": "https://illvet.se/teknik/sa-ska-vi-lagra-den-grona-overskottselen-upphettat-salt-bevarar-energin",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785787228000
+    },
+    {
+      "title": "Ernest Hemingway Book Set",
+      "description": "",
+      "link": "https://uncrate.com/ernest-hemingway-book-set/",
+      "guid": "https://uncrate.com/ernest-hemingway-book-set/",
+      "image": "https://uncrate.com/assets_c/2026/08/ernest-hemingway-book-set-11-darkened-thumb-960xauto-192429.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785787200000
+    },
+    {
+      "title": "Max-arvingen dog på Mallorca – begravs nu i Sverige",
+      "description": "I maj dog Max-arvingen Wilhelm Bergfors i en tragisk olycka på Mallorca i Spanien. Nu ska han begravas hemma i Sverige. ”För alltid älskad, för alltid saknad”, skriver familjen.",
+      "link": "https://www.expressen.se/nyheter/sverige/max-arvingen-dog-pa-mallorca-begravs-nu-i-sverige/",
+      "guid": "https://www.expressen.se/nyheter/sverige/max-arvingen-dog-pa-mallorca-begravs-nu-i-sverige/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785785584000
+    },
+    {
+      "title": "Forskare kan ha hittat en förvånande orsak till spridningen av aggressiv cancerform – nu pekar de på en enkel, fördelaktig förändring",
+      "description": "Cancerforskare kan ha hittat ett näringsämne som kan spela en nyckelroll för spridningen av en vanlig form av cancerform i kroppen.",
+      "link": "https://illvet.se/halsa/forskare-kan-ha-hittat-en-forvanande-orsak-till-spridningen-av-aggressiv-cancerform-nu-pekar-de-pa-en-enkel-fordelaktig-forandring",
+      "guid": "https://illvet.se/halsa/forskare-kan-ha-hittat-en-forvanande-orsak-till-spridningen-av-aggressiv-cancerform-nu-pekar-de-pa-en-enkel-fordelaktig-forandring",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785785458000
+    },
+    {
+      "title": "Foot Locker Back-to-School Collection",
+      "description": "",
+      "link": "https://uncrate.com/-foot-locker-back-to-school-collection/",
+      "guid": "https://uncrate.com/-foot-locker-back-to-school-collection/",
+      "image": "https://uncrate.com/assets_c/2026/07/foot-locker-back-to-school-3-thumb-960xauto-192334.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785785427000
+    },
+    {
+      "title": "Stenålderns pionjärer: Här är de nio kulturer som banade väg för vår värld",
+      "description": "Glöm myten om primitiva grottmänniskor: stenålderns folk skapade städer, handel och astronomi. Läs om stenålderns gåtfulla kulturer.",
+      "link": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
+      "guid": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785783631000
     },
     {
       "title": "Vad använder du för väckarklocka?",
@@ -64,7 +194,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785783024000
     },
     {
-      "title": "Ryssland anklagar Ukraina för attack mot civila vid Svarta havet",
+      "title": "Ryssland anklagar Ukraina för att ha attackerat civila på badstrand",
       "description": "Ryssland beskyller Ukraina för att ha dödat civila avsiktligen.",
       "link": "https://yle.fi/a/7-10103038?origin=rss",
       "guid": "https://yle.fi/a/7-10103038",
@@ -434,6 +564,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785769668000
     },
     {
+      "title": "Låg dold i 40 000 år: Nu kan jättelitet grottfynd på två centimeter avslöja varför vår art överlevde",
+      "description": "Ibland kan de minsta fynden berätta den största historien.",
+      "link": "https://illvet.se/manniskan/lag-dold-i-40-000-ar-nu-kan-jattelitet-grottfynd-pa-tva-centimeter-avsloja-varfor-var-art-overlevde",
+      "guid": "https://illvet.se/manniskan/lag-dold-i-40-000-ar-nu-kan-jattelitet-grottfynd-pa-tva-centimeter-avsloja-varfor-var-art-overlevde",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785769258000
+    },
+    {
       "title": "Bentley Torcal får böjd skärm på insidan",
       "description": "Precis som i eldrivna Cayenne Bentleys kommande eldrivna modell Torcal är en Porsche Cayenne i lyxigare förpackning. Nu börjar man visa lite av interiören och här avslöjas bland annat att Torcal får samma böjda skärm som Cayenne har. Vi får även en skymt av grillen som ska vara en unik \"jewel-like floating diamond grille\" och en snabb titt på bakljusen som även de får ett diamantmönster. Premiären äger rum den 23 september. L&auml;s vidare och kommentera: https://feber.se/bil/bentley-torcal-far-bojd-skarm-pa-insidan/494668/ L&auml;s mer om Torcal , elbil , SUV , teaser , insida",
       "link": "https://feber.se/bil/bentley-torcal-far-bojd-skarm-pa-insidan/494668/?utm_source=rss&utm_medium=feed",
@@ -455,7 +595,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Adlercreutz tar avstånd från Rantanens uttalanden om Spanien: ”Det var hennes eget ställningstagande”",
-      "description": "Inrikesminister Mari Rantanens (Sannf) uttalanden om Spanien är inte regeringens linje, betonar SFP-ledaren Anders Adlercreutz. Finansminister Riikka Purra (Sannf) tycker däremot att Rantanen har rätt.",
+      "description": "Inrikesminister Mari Rantanens (Sannf) uttalanden om Spanien är inte regeringens linje, betonar SFP-ledaren Anders Adlercreutz. Men finansminister Riikka Purra (Sannf) tycker att Rantanen har rätt.",
       "link": "https://yle.fi/a/7-10103033?origin=rss",
       "guid": "https://yle.fi/a/7-10103033",
       "image": "",
@@ -594,16 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785764284000
     },
     {
-      "title": "Militären kallas in",
-      "description": "180 kilo sprängmedel • Ska hjälpa kärnkraftverk",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/180-kilo-sprangmedel-for-att-hjalpa-karnkraftverk",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/180-kilo-sprangmedel-for-att-hjalpa-karnkraftverk",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785764280000
-    },
-    {
       "title": "Egnahemshus brann i Kristinestad",
       "description": "En brand uppstod i ett hus på Granskogsvägen i Kristinestad på måndagseftermiddagen. Brandröken påverkade centrala delar av staden.",
       "link": "https://yle.fi/a/7-10103028?origin=rss",
@@ -704,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785761973000
     },
     {
-      "title": "Dambergs el-kritik mot Busch: Bluff",
-      "description": "Elpriserna i juli var dubbelt så höga som i fjol – och nu kommer varningar om en dyr vinter. Då anklagar Mikael Damberg (S) regeringen för att ha gjort för lite. – De har helt misslyckats, säger han.",
-      "link": "https://www.expressen.se/nyheter/politik/dambergs-el-kritik-mot-busch-bluff/",
-      "guid": "https://www.expressen.se/nyheter/politik/dambergs-el-kritik-mot-busch-bluff/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785761756000
-    },
-    {
       "title": "Slussens tillfälliga entré rivs efter åtta år",
       "description": "Slussens tillfälliga entré på Ryssgården rivs efter åtta år.",
       "link": "https://www.mitti.se/nyheter/slussens-tillfalliga-entre-rivs-efter-atta-ar-6.3.378353.cbe86cff85",
@@ -794,26 +914,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785760200000
     },
     {
-      "title": "Olycka på E45 – en till sjukhus",
-      "description": "Tre fordon i olycka – en person till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=17f4c360-f479-41b5-9b2f-e9876e28c9d4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=17f4c360-f479-41b5-9b2f-e9876e28c9d4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785759569000
-    },
-    {
-      "title": "Rysslands krisdrag för att rekrytera till fronten",
-      "description": "Pengar lockar inte längre. I stället ökar Kreml pressen för att fylla luckorna vid fronten i Ukraina. Ryska män förs bort, misshandlas och pressas att skriva på, enligt Wall Street Journal .",
-      "link": "https://www.expressen.se/nyheter/varlden/rysslands-krisdrag-for-att-rekrytera-till-fronten/",
-      "guid": "https://www.expressen.se/nyheter/varlden/rysslands-krisdrag-for-att-rekrytera-till-fronten/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785759400000
-    },
-    {
       "title": "Minipavlovor med äpple, kola och vaniljglass",
       "description": "Pavlovabakelser med karamelliserade äpplen som smakar äppelpaj.",
       "link": "https://alltommat.expressen.se/recept/minipavlovor-med-apple-kola-och-vaniljglass/",
@@ -882,16 +982,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785758110000
-    },
-    {
-      "title": "Stopp på Gröna linjen i Stockholm",
-      "description": "Olyckshändelse på Gröna linjen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f0c1de07-fac3-445f-9d54-b714ada350fa",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f0c1de07-fac3-445f-9d54-b714ada350fa",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785758023000
     },
     {
       "title": "Misstänkt rattfull kraschade i bostadsområde",
@@ -1564,16 +1654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785600900000
     },
     {
-      "title": "Nu händer det: Årets mest spektakulära meteorregn når jorden",
-      "description": "Ta chansen och upplev en natt full av meteorer.",
-      "link": "https://illvet.se/universum/solsystemet/meteor/perseiderna-meteorregn-malar-himlen",
-      "guid": "https://illvet.se/universum/solsystemet/meteor/perseiderna-meteorregn-malar-himlen",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785600027000
-    },
-    {
       "title": "Forskare ifrågasätter gamla myter om Egyptens röda pyramid – dolda ramper var i själva verket något helt annat",
       "description": "I mer än 180 år har två enorma konstruktioner i närheten av en av Egyptens äldsta pyramider tolkats som ramper för transport av byggstenar. Modern teknik och historiska kartor antyder dock en annan förklaring.",
       "link": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
@@ -1654,16 +1734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785585625000
     },
     {
-      "title": "I ett litet prov från månens baksida kan astronomer ha gjort en betydelsefull upptäckt",
-      "description": "Det kan skriva om en spridd berättelse om solsystemet.",
-      "link": "https://illvet.se/universum/i-ett-litet-prov-fran-manens-baksida-kan-astronomer-ha-gjort-en-betydelsefull-upptackt",
-      "guid": "https://illvet.se/universum/i-ett-litet-prov-fran-manens-baksida-kan-astronomer-ha-gjort-en-betydelsefull-upptackt",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785585623000
-    },
-    {
       "title": "Godaste köttet på grillen – tre populära recept",
       "description": "Gillar du att grilla kött? Här hittar du tre härliga och populära recept på grillat nötkött, fläskkött och lammkött med goda tillbehör som äppeltsatsiki, potatissallad och persiljesmör.",
       "link": "https://alltommat.expressen.se/artiklar/godaste-kottet-pa-grillen-tre-populara-recept/",
@@ -1702,16 +1772,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785578400000
-    },
-    {
-      "title": "Miljoner lider av sjukdomen – nu har åldrandeforskare upptäckt att den kan få din hjärna att åldras fortare",
-      "description": "Deltagarna i en ny studie hade en hjärnålder som var flera år äldre än deras faktiska ålder.",
-      "link": "https://illvet.se/halsa/miljoner-lider-av-sjukdomen-nu-har-aldrandeforskare-upptackt-att-den-kan-fa-din-hjarna-att-aldras-fortare",
-      "guid": "https://illvet.se/halsa/miljoner-lider-av-sjukdomen-nu-har-aldrandeforskare-upptackt-att-den-kan-fa-din-hjarna-att-aldras-fortare",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785574842000
     },
     {
       "title": "Superheated magma may power towering lava fountains",
@@ -1842,46 +1902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785530700000
-    },
-    {
-      "title": "Klaro 30 Caliber Smoke Can Humidor",
-      "description": "",
-      "link": "https://uncrate.com/klaro-30-caliber-smoke-can-humidor/",
-      "guid": "https://uncrate.com/klaro-30-caliber-smoke-can-humidor/",
-      "image": "https://uncrate.com/assets_c/2025/11/30-cal-humidor-2-thumb-960xauto-187170.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785528000000
-    },
-    {
-      "title": "DOXA SUB Army 200T for Hodinkee Watch",
-      "description": "",
-      "link": "https://uncrate.com/doxa-sub-army-200t-for-hodinkee-watch/",
-      "guid": "https://uncrate.com/doxa-sub-army-200t-for-hodinkee-watch/",
-      "image": "https://uncrate.com/assets_c/2026/07/doxa-sub-army-200t-hodinkee-watch-1-thumb-960xauto-192417.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785524400000
-    },
-    {
-      "title": "Gerber Lockdown Pry",
-      "description": "",
-      "link": "https://uncrate.com/gerber-lockdown-pry/",
-      "guid": "https://uncrate.com/gerber-lockdown-pry/",
-      "image": "https://uncrate.com/assets_c/2026/07/gerber-lockdown-pry-1-darkened-thumb-960xauto-192416.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785520800000
-    },
-    {
-      "title": "Hairmax Laser Hair Growth Cap",
-      "description": "",
-      "link": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
-      "guid": "https://uncrate.com/hairmax-laser-hair-growth-cap/",
-      "image": "https://uncrate.com/assets_c/2026/07/hairmax-cap-thumb-960xauto-192207.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785519128000
     },
     {
       "title": "Fotbollsstjärna besökte Kärrtorp: ”Bjussade på tips”",
@@ -2454,16 +2474,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785390222000
     },
     {
-      "title": "Marinarkeologer undersöker sensationellt skeppsvrak från antiken – mängden guld slår alla rekord",
-      "description": "Utgrävningar utanför Kroatiens kust har avslöjat en skatt som saknar motstycke inom Medelhavsarkeologin. Fynden tyder på en resa med mycket högt uppsatta ämbetsmän som slutade på havets botten.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/marinarkeologer-undersoker-sensationellt-skeppsvrak-fran-antiken-mangden-guld-slar-alla-rekord",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/marinarkeologer-undersoker-sensationellt-skeppsvrak-fran-antiken-mangden-guld-slar-alla-rekord",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785387642000
-    },
-    {
       "title": "BP testar huvudskydd på fotbollsspelarna",
       "description": "Fotbollsspelare i BP testar spela med huvudskydd",
       "link": "https://www.mitti.se/nyheter/bp-testar-huvudskydd-pa-fotbollsspelarna-6.3.377532.47b1e83d12",
@@ -2502,16 +2512,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785368656000
-    },
-    {
-      "title": "97 nya bombplan om dagen: USA skapade världens största vapenfabrik",
-      "description": "Europa kämpar just nu desperat för att hålla jämna steg med den ryska krigsproduktionen. När andra världskriget bröt ut befann sig USA i samma situation. Men då kallade presidenten in en man med helt speciella förmågor.",
-      "link": "https://varldenshistoria.se/teknik/vapen/vapen-under-andra-varldskriget/97-nya-bombplan-om-dagen-usa-skapade-varldens-storsta-vapenfabrik",
-      "guid": "https://varldenshistoria.se/teknik/vapen/vapen-under-andra-varldskriget/97-nya-bombplan-om-dagen-usa-skapade-varldens-storsta-vapenfabrik",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785351627000
     },
     {
       "title": "Bakslag för alkohol till åtta på morgonen: \"Ett svek\"",
