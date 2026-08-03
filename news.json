@@ -1,8 +1,178 @@
 {
-  "updatedAt": "2026-08-03T17:03:38.047Z",
+  "updatedAt": "2026-08-03T19:17:39.663Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Två döda av parasit",
+      "description": "11 000 smittade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e2ef57d1-5409-4bbc-8ea3-d72f70ab2df0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e2ef57d1-5409-4bbc-8ea3-d72f70ab2df0",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785783749000
+    },
+    {
+      "title": "Vad använder du för väckarklocka?",
+      "description": "Dagens fråga Tidigare idag skrev vi om att Apple snart äntligen låter oss justera ljudvolymen på alarm i iOS utan att även justera ringvolymen. Därför blir dagens fråga helt enkelt vilken typ av väckarklocka du använder för att vakna på morgonen? L&auml;s vidare och kommentera: https://feber.se/vad-anvander-du-for-vackarklocka/494685/ L&auml;s mer om Apple , iOS , väckarklocka , alarm , iPhone",
+      "link": "https://feber.se/vad-anvander-du-for-vackarklocka/494685/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vad-anvander-du-for-vackarklocka/494685/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785783600000
+    },
+    {
+      "title": "KEF LS LUXE Wireless Speakers",
+      "description": "",
+      "link": "https://uncrate.com/kef-ls-luxe-wireless-speakers/",
+      "guid": "https://uncrate.com/kef-ls-luxe-wireless-speakers/",
+      "image": "https://uncrate.com/assets_c/2026/08/kef-ls-luxe-wireless-speakers-1-thumb-960xauto-192428.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785783600000
+    },
+    {
+      "title": "Man död efter frontalkrock",
+      "description": "Kolliderade med lastbil",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c73995c-4ed8-4bab-aba1-275afe97fb90",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c73995c-4ed8-4bab-aba1-275afe97fb90",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785783515000
+    },
+    {
+      "title": "Segelbåt råkade i sjönöd i Helsingfors",
+      "description": "",
+      "link": "https://yle.fi/a/7-10103039?origin=rss",
+      "guid": "https://yle.fi/a/7-10103039",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785783318000
+    },
+    {
+      "title": "Zelenskyj fortsätter stuva om – ny toppost till allierad",
+      "description": "Volodymyr Zelenskyj fortsätter stuva om. Nu utser presidenten en nära allierad till nyckelposten som chef för Ukrainas utrikestjänst. President Volodymyr Zelenskyj utser Rustem Umerov, nu serketerare i Nationella säkerhets- och försvarsrådet, till chef för Ukrainas utrikestjänst. I ett annat dekret väljer Zelenskyj den tidigare inrikesministern Ihor Klymenko att efterträda Umerov i säkerhets- och försvarsrådet. Därför […]",
+      "link": "https://www.dagensps.se/varlden/zelenskyj-fortsatter-stuva-om-ny-toppost-till-allierad/",
+      "guid": "https://www.dagensps.se/?p=1661033",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdly-tjvjr-ni0-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785783024000
+    },
+    {
+      "title": "Ryssland anklagar Ukraina för attack mot civila vid Svarta havet",
+      "description": "Ryssland beskyller Ukraina för att ha dödat civila avsiktligen.",
+      "link": "https://yle.fi/a/7-10103038?origin=rss",
+      "guid": "https://yle.fi/a/7-10103038",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785782682000
+    },
+    {
+      "title": "SJK passerar Jaro i tabellen – Seinäjokilaget besegrade HJK med 3–0",
+      "description": "I herrarnas fotbollsliga inkasserade SJK en seger under måndagen. Segern innebär att laget stiger i tabellen.",
+      "link": "https://yle.fi/a/7-10103037?origin=rss",
+      "guid": "https://yle.fi/a/7-10103037",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785782259000
+    },
+    {
+      "title": "Swish strular",
+      "description": "Användare har problem",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d86008cb-8c25-4a95-8ae5-8ae8881ecb9a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d86008cb-8c25-4a95-8ae5-8ae8881ecb9a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785782124000
+    },
+    {
+      "title": "Ny italiensk superbil med V12:a och manuell låda",
+      "description": "Hyllar ingenjören bakom Ferrari F40 Silvestri Automobili är ett italienskt företag som nu visar upp renderingar på superbilen MN 40 Tributo. Initialerna står för Nicola Materazzi som är ingenjören som bland annat utvecklade Ferrari F40, Lancia Stratos och Bugatti EB110. Honom vill man hylla med denna bil som ska få V12:a utan överladdning på 6,8 liter och 900 hästar och 800 newtonmeter i vrid. Denna kopplas till en sjupetad manuell låda som i sin tur driver bakhjulen. Kolfiberkarossen är ritad av designern Francesco Rocco och under skalet ska det finnas elektroniskt justerbar fjädring och keramiska bromsar med tiokolvsok fram. Företaget planerar att bygga 15 exemplar över tre års tid och av dessa ska 13 säljas till kunder medan man behåller två själva. Vad det kommer att stå på prislappen och när de första leveranserna ska äga rum är fortfarande oklart. L&auml;s vidare och kommentera: https://feber.se/bil/ny-italiensk-superbil-med-v12a-och-manuell-lada/494663/ L&auml;s mer om Silvestri Automobili , Italien , superbil , MN 40 Tributo , Nicola Materazzi , hyllning",
+      "link": "https://feber.se/bil/ny-italiensk-superbil-med-v12a-och-manuell-lada/494663/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/ny-italiensk-superbil-med-v12a-och-manuell-lada/494663/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785781800000
+    },
+    {
+      "title": "Politikerna efter Expressens avslöjande: ”Djupt provocerande”",
+      "description": "Riksdagsledamoten Ilona Szatmári Waldau (V), skickade ett öppet brev till en dömd terrorist – vilket partiet förklarar som ett ”fel i faktagranskningen”. Nu rasar regeringen. – Jag blir djupt provocerad av Vänsterpartiets bortförklaringar, säger utrikesminister Maria Malmer Stenergard (M).",
+      "link": "https://www.expressen.se/nyheter/politik/politikerna-efter-expressens-avslojande-djupt-provocerande/",
+      "guid": "https://www.expressen.se/nyheter/politik/politikerna-efter-expressens-avslojande-djupt-provocerande/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785781693000
+    },
+    {
+      "title": "Jetlag: Så påverkas du och så här gör du",
+      "description": "Jetlag är en vanlig följd av flyg långa distanser och påverkar kroppen på flera sätt. Det finns sätt att hantera det. Här är tipsen. Svenskar i allmänhet har kanske inga svårartade problem med jetlag. I snitt genomför en svensk 1,4 flygresor per år. Det hindrar inte att jetlag är något som påverkar oss och kroppen […]",
+      "link": "https://www.dagensps.se/halsa/jetlag-sa-paverkas-du-och-sa-har-gor-du/",
+      "guid": "https://www.dagensps.se/?p=1661020",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlco3gagyat9c-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785781442000
+    },
+    {
+      "title": "Ungrarnas udda förslag på ny president: Rubiks kub-Rubik",
+      "description": "En våg av förändring sveper igenom den ungerska politiken. Efter skiftet av premiärminister letar man nu efter en ny president, och man tar folket till hjälp. Jakten på Ungerns nästa president har tagit en oväntad vändning. Premiärminister Péter Magyar har nämligen uppmanat allmänheten att föreslå kandidater. På sociala medier har allt från tv-profiler till världsberömda […]",
+      "link": "https://www.dagensps.se/varlden/ungrarnas-udda-forslag-pa-ny-president-rubiks-kub-rubik/",
+      "guid": "https://www.dagensps.se/?p=1661007",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl4vonwunihjq-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785780120000
+    },
+    {
+      "title": "Antalet svenska dramaproduktioner rasar",
+      "description": "Tuff marknad Ny statistik framtagen av Mediavision visar att antalet svenskproducerade dramaserier och direktsläppta streamingfilmer minskar markant, rapporterar Dagens Media. Under 2024 producerades 40 titlar, vilket sedan sjönk till 29 under 2025. Denna trend är inte heller unik för Sverige, utan syns även i övriga Norden och Europa. Beställarna ska ligga under allt större press att fatta lönsamma beslut kring sitt innehåll, vilket gör att kostsamma lokala dramaproduktioner i allt högre utsträckning prioriteras ned. L&auml;s vidare och kommentera: https://feber.se/samhalle/antalet-svenska-dramaproduktioner-rasar/494686/ L&auml;s mer om Mediavision , Dagens Media , streaming , filmproduktion , Streamingfilmer , svenska dramaserier",
+      "link": "https://feber.se/samhalle/antalet-svenska-dramaproduktioner-rasar/494686/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/antalet-svenska-dramaproduktioner-rasar/494686/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785780000000
+    },
+    {
+      "title": "Naval Watch Co. FRXC016 Chronograph Watch",
+      "description": "",
+      "link": "https://uncrate.com/naval-watch-co-frxc016-chronograph-watch/",
+      "guid": "https://uncrate.com/naval-watch-co-frxc016-chronograph-watch/",
+      "image": "https://uncrate.com/assets_c/2025/05/naval-watch-co-frxc016-21-darkened-thumb-960xauto-182839.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785780000000
+    },
+    {
+      "title": "Kontroversiell fond för Trumpanhängare skrotas – republikaner tvingade fram stopp",
+      "description": "Republikanska senatorer satte käppar i hjulen för fonden som har fått skarp kritik både bland republikaner och demokrater.",
+      "link": "https://yle.fi/a/7-10103036?origin=rss",
+      "guid": "https://yle.fi/a/7-10103036",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785778709000
+    },
+    {
+      "title": "Angelelli Automobili vill ta fram Porsche 911 med mittmotor",
+      "description": "Lättad med 3D-printade titan-delar Angelelli Automobili är ett företag som moddar och bygger om Porschar. Nu vill de ta fram något som Porsche inte själva har erbjudit - en 911 med mittmotor. Det hela går under namnet Project 754 och man håller just nu på att ta fram en motoruppsättning som skulle kunna fungera. Det lutar åt en boxersexa på 4,1 liter som då får specialtillverkat insug, kylsystem, avgassystem och omprogrammerad motorstyrning. Effektmässigt snackas det om mellan 700 och 800 hästar. Fokus ligger även på vikt och man hoppas kunna få vågen att stanna på så lite som 1,1 ton. Detta ska man lyckas med genom karosspaneler i kolfiber och 3D-printade titan-delar. När och om detta kommer bli verklighet återstår att se. L&auml;s vidare och kommentera: https://feber.se/bil/angelelli-automobili-vill-ta-fram-porsche-911-med-mittmotor/494662/ L&auml;s mer om Angelelli Automobili , Porsche , mittmotor , Project 754",
+      "link": "https://feber.se/bil/angelelli-automobili-vill-ta-fram-porsche-911-med-mittmotor/494662/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/angelelli-automobili-vill-ta-fram-porsche-911-med-mittmotor/494662/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785778200000
+    },
     {
       "title": "Hisense 100\" U7SG Smart Google TV",
       "description": "",
@@ -12,6 +182,16 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785778133000
+    },
+    {
+      "title": "Experten pekar ut avgörande regeln",
+      "description": "Åklagarens och advokatens versioner av båtolyckan utanför Tjörn går isär. Ännu är många frågor obesvarade – men experten Mats Gruvefeldt pekar ut en avgörande sjövägsregel. – Och det gäller oavsett andra regler om fartygen är i sikte av varandra, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/experten-pekar-ut-avgorande-regeln/",
+      "guid": "https://www.expressen.se/nyheter/sverige/experten-pekar-ut-avgorande-regeln/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785777721000
     },
     {
       "title": "Lamborghini hyllar Miura med special-Revuelto",
@@ -31,6 +211,16 @@
       "image": "https://uncrate.com/assets_c/2025/10/halfday-garment-duffel-uncrate-thumb-960xauto-186222.jpg",
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785776400000
+    },
+    {
+      "title": "KD: Tillåt högre musik i Slakthusområdet",
+      "description": "Kristdemokraterna vill tillåta högre musik i Slakthusområdet än i andra stadsdelar. Förslaget om en kulturljudzon ska stärka kultur- och nattlivet och minska klagomål från boende.",
+      "link": "https://www.mitti.se/nyheter/kd-tillat-hogre-musik-i-slakthusomradet-6.3.378284.e7a36f6204",
+      "guid": "https://www.mitti.se/nyheter/kd-tillat-hogre-musik-i-slakthusomradet-6.3.378284.e7a36f6204",
+      "image": "https://www.mitti.se/image-3.338538.301488.20260803180019.1.feff6ffef1?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785776400000
     },
     {
@@ -78,7 +268,7 @@
       "description": "Så tar du hand om trädäcket och får tips på saker du ska undvika.",
       "link": "https://www.mitti.se/nyheter/sju-tips-for-att-fa-tradacket-att-ma-battre-6.3.372687.fb3138569e",
       "guid": "https://www.mitti.se/nyheter/sju-tips-for-att-fa-tradacket-att-ma-battre-6.3.372687.fb3138569e",
-      "image": "https://www.mitti.se/image-3.375205.298383.20260803150202.1.d61a7d7b39?format=jpeg",
+      "image": "https://www.mitti.se/image-3.375205.298383.20260803171046.1.3303d1f250?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785775200000
@@ -94,7 +284,7 @@
       "timestamp": 1785775133000
     },
     {
-      "title": "Hyresgäst flydde betalning – körde över flyttgubbe",
+      "title": "Hyresgäst flydde betalning – körde på flyttgubbe",
       "description": "En flytt till Värnamo slutade i polisärende och rättegång. Nu döms en kvinna för misshandel efter en tvist om betalningen.",
       "link": "https://www.expressen.se/nyheter/sverige/hyresgast-flydde-betalning-korde-over-flyttgubbe-/",
       "guid": "https://www.expressen.se/nyheter/sverige/hyresgast-flydde-betalning-korde-over-flyttgubbe-/",
@@ -294,16 +484,6 @@
       "timestamp": 1785768714000
     },
     {
-      "title": "Biograferna fylls av folk – Spider-Man slog nytt rekord",
-      "description": "Aldrig tidigare har en biopremiär dragit in lika mycket pengar första helgen i USA som den nya Spider-Man-filmen. Dessutom går flera andra succéer på bio samtidigt. Den nya filmen Spider-Man: Brand New Day har fått en rekordstart på biografer världen över. Under premiärhelgen spelade filmen in omkring 927 miljoner dollar globalt. Det gör den till […]",
-      "link": "https://www.dagensps.se/weekend/noje-underhallning/biograferna-fylls-av-folk-spider-man-nara-nytt-rekord/",
-      "guid": "https://www.dagensps.se/?p=1660966",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdluprocknu47u-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785768595000
-    },
-    {
       "title": "Hundratals i blomtåg för Adriana",
       "description": "Runt 250 personer samlades i Norsborg för årets Blomtåg till minne av Adriana, som sköts ihjäl 2020. Under manifestationen delades Adrianastipendiet ut till Samira Lahdou.",
       "link": "https://www.mitti.se/nyheter/hundratals-i-blomtag-for-adriana-6.3.378374.a805163189",
@@ -322,16 +502,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785768500000
-    },
-    {
-      "title": "”Säkraste platsen för bitcoin” hackad – miljard borta",
-      "description": "En allvarlig säkerhetsbrist i den populära hårdvaruplånboken Coldcard har gjort det möjligt för hackare att komma över bitcoin värda över en miljard kronor. Hackare har utnyttjat en mjukvarubugg i Coldcard, en av marknadens mest välkända hårdvaruplånböcker för bitcoin. Enligt Galaxy Research har omkring 1 755 bitcoin, motsvarande cirka 110 miljoner dollar eller drygt en miljard […]",
-      "link": "https://www.dagensps.se/bors-finans/fintech/kryptovalutor/sakraste-platsen-for-bitcoin-hackad-miljard-borta/",
-      "guid": "https://www.dagensps.se/?p=1660961",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/coldcard.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785767797000
     },
     {
       "title": "Dubbla skogsbränder",
@@ -372,16 +542,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785766586000
-    },
-    {
-      "title": "Olja ned, guld upp på hopp om kanske-samtal",
-      "description": "Priset på olja faller och priset på guld stiger på hopp om fredssamtal – oavsett om sådana samtal existerar eller ej. Det pågår inga samtal och inga samtal är planerade, enligt den ena parten. Den andra parten hänvisar till diplomatiska kontakter som skäl för att backa ur ”massiva anfall”. USA:s president Donald Trump har sagt […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/olja-ned-guld-upp-pa-hopp-om-kanske-samtal/",
-      "guid": "https://www.dagensps.se/?p=1660951",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/oljaguld.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785766387000
     },
     {
       "title": "Brattåsmannen åtalas – misstänkt för 21 år gamla dubbelmordet",
@@ -584,16 +744,6 @@
       "timestamp": 1785760811000
     },
     {
-      "title": "SMHI: Lågtryck på väg mot Sverige",
-      "description": "Ett lågtryck är på väg mot Sverige. Så den som vill njuta av sommarsol får passa på. – Det kan bli ganska blåsigt. Och lite kraftigare skurar, säger meteorologen Max Schildt.",
-      "link": "https://www.expressen.se/nyheter/vader/smhi-lagtryck-pa-vag-mot-sverige-/",
-      "guid": "https://www.expressen.se/nyheter/vader/smhi-lagtryck-pa-vag-mot-sverige-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785760785000
-    },
-    {
       "title": "Tysk domstol: AI-musiktjänsten Suno bröt mot upphovsrätten",
       "description": "En domstol i Tyskland har slagit fast att den amerikanska AI-musiktjänsten Suno brutit mot upphovsrätten genom att träna sina AI-modeller på upphovsrättsskyddad musik utan tillstånd, rapporterar Deutsche Welle . Suno måste nu redovisa sina intäkter från den olovliga användningen och betala ett ej fastställt skadestånd. Målet väcktes av den tyska upphovsrättsorganisationen GEMA i januari 2025. Det är ett av de första större rättsfallen som prövar hur rådande upphovsrätt ska användas för generativ AI och AI-genererad musik. Suno motsätter sig domen och säger att de överväger alla tillgängliga rättsliga alternativ. Bland annat att överklaga.",
       "link": "https://computersweden.se/article/4204421/tysk-domstol-ai-musiktjansten-suno-brot-mot-upphovsratten.html",
@@ -754,16 +904,6 @@
       "timestamp": 1785757956000
     },
     {
-      "title": "Pojken fortsatt på sjukhus efter båtolyckan utanför Tjörn",
-      "description": "Pappan inte inlagd längre efter båtolyckan",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c25d644-5d34-4737-8144-1866393f14d8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c25d644-5d34-4737-8144-1866393f14d8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785757167000
-    },
-    {
       "title": "Nya Spider-Man fortsätter sin succé på bio",
       "description": "Största premiären sedan pandemin Den nya Marvel-filmen Spider-Man: Brand New Day har fått en historisk start på biograferna. Under sin globala premiärhelg har rullen, med Tom Holland och Zendaya i spetsen, redan spelat in massiva 927 miljoner dollar världen över. Det innebär att filmen står för den näst mest inkomstbringande öppningshelgen i filmhistorien, och den största sedan pandemin, slagen endast av giganten Avengers: Endgame från 2019 som inbringade hela 1,2 miljarder dollar under sin första helg. L&auml;s vidare och kommentera: https://feber.se/samhalle/nya-spider-man-fortsatter-sin-succe-pa-bio/494674/ L&auml;s mer om Spider-Man: Brand New Day , Marvel , Tom Holland , Zendaya , Avengers: Endgame",
       "link": "https://feber.se/samhalle/nya-spider-man-fortsatter-sin-succe-pa-bio/494674/?utm_source=rss&utm_medium=feed",
@@ -784,16 +924,6 @@
       "timestamp": 1785755827000
     },
     {
-      "title": "Fler förhör väntar efter dödsolyckan utanför Tjörn",
-      "description": "Statens haverikommission ska höra vittnen gällande dödsolyckan utanför Tjörn. Enligt åklagaren blev fritidsbåten påkörd av lastfartyget. – Det är ungefär där vi står också, säger haveriutredaren Daniel Söderman.",
-      "link": "https://www.expressen.se/nyheter/sverige/fler-forhor-vantar-efter-dodsolyckan-utanfor-tjorn/",
-      "guid": "https://www.expressen.se/nyheter/sverige/fler-forhor-vantar-efter-dodsolyckan-utanfor-tjorn/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785755461000
-    },
-    {
       "title": "Biljettinformation: Kvalomgång 3 i UECL",
       "description": "Hammarby ställs mot polska Raków Czestochowaden i den tredje omgången av Europakvalet i UEFA Conference League. Bajen inleder dubbelmötet på bortaplan på torsdag och i dag släpps biljetterna till bort",
       "link": "https://www.hammarbyfotboll.se/nyheter/biljettinformation-kvalomgang-3-i-uecl",
@@ -812,16 +942,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785754800000
-    },
-    {
-      "title": "Bekräftat: Emin Muqa Kulic gripen i Spanien",
-      "description": "Gängtoppen Emin Muqa Kulic har gripits i Spanien. Han greps i nyligen fängelsedömda Jonas Falks bostad, enligt Expressens uppgifter. Emin Muqa Kulic misstänks för att ha ”styrt” unga att utföra grova våldsbrott.",
-      "link": "https://www.expressen.se/nyheter/krim/bekraftat-emin-muqa-kulic-gripen-i-spanien/",
-      "guid": "https://www.expressen.se/nyheter/krim/bekraftat-emin-muqa-kulic-gripen-i-spanien/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785753495000
     },
     {
       "title": "En närmare titt på spindeltråd",
@@ -872,16 +992,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785752453000
-    },
-    {
-      "title": "Simmade över Östersjön – slog rekord",
-      "description": "Han klev ned i vattnet vid Kåseberga i Skåne för att ta en simtur hem till Polen. 55 timmar och 17 mil senare var Bartłomiej Kubkowski framme. Den polske simmaren blev därmed den förste att besegra Östersjön på den sträckan – efter fyra misslyckade försök hade han bra flyt i det femte.",
-      "link": "https://www.expressen.se/nyheter/sverige/simmade-over-ostersjon-slog-rekord/",
-      "guid": "https://www.expressen.se/nyheter/sverige/simmade-over-ostersjon-slog-rekord/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785751409000
     },
     {
       "title": "Brist på MacBook Air trots prishöjning",
@@ -1014,26 +1124,6 @@
       "timestamp": 1785745800000
     },
     {
-      "title": "Ariana Grande lämnar offentligheten efter ”ändlös offentlig granskning”",
-      "description": "Sångerskans viktminskning har länge kommenterats i sociala medier och diskussionen intensifierades efter hennes senaste musikvideo.",
-      "link": "https://yle.fi/a/7-10102995?origin=rss",
-      "guid": "https://yle.fi/a/7-10102995",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785744160000
-    },
-    {
-      "title": "Sorterar du ditt bioavfall? Om inte är du en miljöbov som samlar flugor",
-      "description": "En tredjedel av vårt blandavfall är fortfarande bioavfall som kunde bli biogas och gödsel. Experterna avslöjar misstagen – och hur du undviker flugor på köpet.",
-      "link": "https://yle.fi/a/7-10102534?origin=rss",
-      "guid": "https://yle.fi/a/7-10102534",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785744008000
-    },
-    {
       "title": "Microsoft ska trimma Windows 11 för 8 GB RAM",
       "description": "Får nya optimeringar för att dra mindre minne Microsoft arbetar på olika optimeringar i Windows 11 för att få operativsystemet att flyta bättre på datorer med 8 GB RAM. Operativsystemet är väl inte direkt känt för att vara särskilt lättdrivet och har fått kritik för sin höga minnesanvändning i viloläge, där upp till 6 GB RAM kan vara upptaget innan några program ens har öppnats. För att fixa detta har Microsoft börjat byta ut tunga komponenter till det lättare ramverket WinUI samt uppmanat utvecklare att bygga nativa appar i stället för webbaserade lösningar. Förbättringarna beräknas rullas ut stegvis fram till slutet av 2026. L&auml;s vidare och kommentera: https://feber.se/pc/microsoft-ska-trimma-windows-11-for-8-gb-ram/494665/ L&auml;s mer om Microsoft , Windows 11 , WinUI , RAM , operativsystem , prestanda",
       "link": "https://feber.se/pc/microsoft-ska-trimma-windows-11-for-8-gb-ram/494665/?utm_source=rss&utm_medium=feed",
@@ -1082,26 +1172,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785740400000
-    },
-    {
-      "title": "Uefa hotar Gianni Infantino med rättsliga åtgärder",
-      "description": "Uefa överväger att stämma Fifas ordförande Gianni Infantino efter att Fifa planerade sälja delar av VM-turneringarnas affärsverksamhet till privata investerare.",
-      "link": "https://yle.fi/a/7-10102993?origin=rss",
-      "guid": "https://yle.fi/a/7-10102993",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785740277000
-    },
-    {
-      "title": "Öppen maktkamp mellan Israels försvarsminister och militärledning",
-      "description": "En konflikt mellan försvarsministern och militären har brutit ut om huruvida Västbankens befälhavare har avskedats eller ej.",
-      "link": "https://yle.fi/a/7-10102989?origin=rss",
-      "guid": "https://yle.fi/a/7-10102989",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785738990000
     },
     {
       "title": "Kvinnor ska vara mer utsatta för AI än männen",
@@ -1322,46 +1392,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785672048000
-    },
-    {
-      "title": "En släpptrailer för Corsair Cove",
-      "description": "Som nu kan spelas på PC och Xbox För alla som vill ha ännu ett piratspel efter Black Flag så kan alla blivande piratkaptener nu ge sig på strategispelet Corsair Cove som nyligen släpptes till Xbox och PC. I detta stadsbyggarspel gäller det att man bygger upp ett eget laglöst imperium för att få till en fungerande fristad för sjörövare. Det räcker dock inte med att bara bygga hus på klipporna, utan som ledare måste du hantera produktionskedjor för att förse din besättning med allt från flintlåspistoler till rom. För att behålla makten över haven krävs det att du både kan tygla ditt stökiga manskap och rusta en flotta som kan stå upp mot den kungliga flottans försök att krossa ditt piratimperium. L&auml;s vidare och kommentera: https://feber.se/spel/en-slapptrailer-for-corsair-cove/494641/ L&auml;s mer om Corsair Cove , Xbox , PC , stadsbyggarspel , piratspel , Black Flag , strategi",
-      "link": "https://feber.se/spel/en-slapptrailer-for-corsair-cove/494641/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/en-slapptrailer-for-corsair-cove/494641/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785672000000
-    },
-    {
-      "title": "Alicia Silverstone gör comeback i ny Clueless-serie",
-      "description": "Cher Horowitz är clueless igen Den ikoniska 90-talskaraktären Cher Horowitz är på väg tillbaka till tv-rutan då Paramount nu har gett grönt ljus till en ny serie där Alicia Silverstone repriserar en av sina mest kända roller. I den nya versionen möter vi en vuxen Cher i nutid där hon har lyckats väl i arbetslivet och bemästrat rollen som mamma. Men trots framgångarna i vardagen känner hon sig... clueless när hon tvingas hantera sin dotters utmanande tonårsperiod på gymnasiet. Serien, som består av sex avsnitt, ska börja spelas in nästa år och originalfilmens regissör, Amy Heckerling, finns med som producent. L&auml;s vidare och kommentera: https://feber.se/film/alicia-silverstone-gor-comeback-i-ny-clueless-serie/494646/ L&auml;s mer om Cher Horowitz , Alicia Silverstone , Paramount , Amy Heckerling , Clueless , TV-serie",
-      "link": "https://feber.se/film/alicia-silverstone-gor-comeback-i-ny-clueless-serie/494646/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/alicia-silverstone-gor-comeback-i-ny-clueless-serie/494646/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785668400000
-    },
-    {
-      "title": "Vinn på att kändisarna trillar av pinn",
-      "description": "Statistik och svart humor möts när kompisgängets lek blir digital sajt Feber-läsaren Ludvig har vajbat ihop en mångårig tradition i kompisgänget till en färdig webbtjänst. Det som började för många år sedan med papper, penna och senare Excel-ark har nu blivit helt digitalt på webben. Grundidén är enkel: inför varje säsong väljer deltagarna ut ett antal kända personer. Om någon av dessa går bort delas poäng ut – och ju yngre personen är, desto högre blir poängen. Trots det mörka temat säger Ludvig att projektet inte handlar om respektlöshet. Snarare är det en social aktivitet som drivs av statistik, taktik och en stor dos svart humor. På sajten kan vem som helst starta privata ligor och bjuda in sina vänner. Den som vill testa myDeathMatch kan hitta sajten via länken nedan. L&auml;s vidare och kommentera: https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/ L&auml;s mer om myDeathMatch , Ludvig , webbtjänst , spel , statistik , humor , svart humor",
-      "link": "https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/vinn-pa-att-kandisarna-trillar-av-pinn/494638/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785664800000
-    },
-    {
-      "title": "Finska rallyälskare räddar bil",
-      "description": "Elfyn Evans kom i mål! Det pågår rally i Finland och där kraschade Elfyn Evans lite. Delar flög från bilen och de fastnade, men det gjorde inte så mycket för den finska publiken ryckte in och fick iväg bilen igen. L&auml;s vidare och kommentera: https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/ L&auml;s mer om Elfyn Evans , Finland , Rally Finland , rally , WRC , krasch",
-      "link": "https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/finska-rallyalskare-raddar-bil/494655/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785663000000
     },
     {
       "title": "Astronomer gör anmärkningsvärt fynd nära den gåtfulla stjärnan: ”Jag hoppade upp ur stolen.”",
@@ -1854,16 +1884,6 @@
       "timestamp": 1785519128000
     },
     {
-      "title": "Blind Barber 30 Proof Styling Cream",
-      "description": "",
-      "link": "https://uncrate.com/blind-barber-30-proof-styling-cream/",
-      "guid": "https://uncrate.com/blind-barber-30-proof-styling-cream/",
-      "image": "https://uncrate.com/assets_c/2026/07/blind-barber-30-proof-styling-cream-1-thumb-960xauto-192415.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785517200000
-    },
-    {
       "title": "Fotbollsstjärna besökte Kärrtorp: ”Bjussade på tips”",
       "description": "Tidigare United-stjärnan Wes Brown dök upp i Kärrtorp för att skriva autografer till glada fans och träna ihop med BKBK P2014.",
       "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besokte-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
@@ -1872,16 +1892,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785516300000
-    },
-    {
-      "title": "MING 37.06 Royal Selangor Watch",
-      "description": "",
-      "link": "https://uncrate.com/ming-3706-royal-selangor-watch/",
-      "guid": "https://uncrate.com/ming-3706-royal-selangor-watch/",
-      "image": "https://uncrate.com/assets_c/2026/07/ming-37-06-royal-selangor-watch-1-thumb-960xauto-192414.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785513600000
     },
     {
       "title": "Så påverkas trafiken av Stockholm Pride",
