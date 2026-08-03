@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-08-02T21:43:41.095Z",
+  "updatedAt": "2026-08-03T01:48:15.232Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Oljepriset sjunker",
+      "description": "Efter Iranbesked",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2f418e9-bc5e-4ee9-90b9-17ea3f018095",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2f418e9-bc5e-4ee9-90b9-17ea3f018095",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785720190000
+    },
+    {
+      "title": "35 döda i drönarattack",
+      "description": "Riktades mot domstol i Sudan",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=735bfbe9-ff1c-47fb-974c-d0ee38815afa",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=735bfbe9-ff1c-47fb-974c-d0ee38815afa",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785720182000
+    },
+    {
+      "title": "Trumps besked om Iran",
+      "description": "Förhandlingar inleds på måndag",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fd04be8c-6db3-4034-8f07-62a0c5f05927",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fd04be8c-6db3-4034-8f07-62a0c5f05927",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785720173000
+    },
+    {
+      "title": "Uppgifter: Marockanska agenter tog sig in i Ceuta",
+      "description": "Spanska polisförbundet har tidigare sagt att migrantstormen var en form av hybridkrigsföring. Nu menar det spanska Guardia Civil att underrättelseagenter från Marocko kan ha tagit sig in i Ceuta under krisen, enligt källor till El Español .",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-agenter-tog-sig-in-till-ceuta/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-agenter-tog-sig-in-till-ceuta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785720081000
+    },
     {
       "title": "ISW: Ryska militären ljuger om framgångar till Putin",
       "description": "Ryska militären uppges ljuga för Kreml. Militären uppges använda AI för att skapa falska segrar över intagna städer. Materialet används sedan till ”vackra rapporter” som visas för Putin, enligt ISW .",
@@ -11,7 +51,47 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785704805000
+      "timestamp": 1785719505000
+    },
+    {
+      "title": "AI-haussen fick tvärstopp – stjärnförvaltarens jätteförluster skakar marknaden",
+      "description": "AI-hypens underbarn blev Wall Streets varnande exempel. Leopold Aschenbrenners fond föll 67 procent i juli, och han tvingas sälja till hedgefonden Citadel. En av AI-världens mest omtalade hedgefonder heter Situational Awareness, och är grundad av den tidigare OpenAI-forskaren Leopold Aschenbrenner. Nu uppges fonden sälja innehav och försöka frigöra kapital för att klara sina betalningar som […]",
+      "link": "https://www.dagensps.se/bors-finans/ai-haussen-fick-tvarstopp-stjarnforvaltarens-jatteforluster-skakar-marknaden/",
+      "guid": "https://www.dagensps.se/?p=1660637",
+      "image": "https://images.dagensps.se/app/uploads/2025/08/sdlj0kHYkRWCTU-nh.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785718588000
+    },
+    {
+      "title": "Astra Zeneca i nytt samtal om jättefusion – intressant fört svenska fondsparare",
+      "description": "Läkemedelsjätten Astra Zeneca för enligt uppgifter samtal med amerikanska Bristol Myers Squibb om en möjlig sammanslagning – som skulle kunna bli en av de största affärerna i läkemedelsindustrins historia. Det kan påverka värdet i många svenskars sparande. Tidigare under sommaren drabbades Astra Zeneca av ett oväntat bakslag i en viktig klinisk studie, vilket fick aktien […]",
+      "link": "https://www.dagensps.se/bors-finans/astra-zeneca-i-nytt-samtal-om-jattefusion-intressant-fort-svenska-fondsparare/",
+      "guid": "https://www.dagensps.se/?p=1660631",
+      "image": "https://images.dagensps.se/app/uploads/2024/09/gmCsraJ2-Astra.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785714420000
+    },
+    {
+      "title": "Tidigare Maga-profilerna startar ny rörelse",
+      "description": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X .",
+      "link": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785713273000
+    },
+    {
+      "title": "Villa helt övertänd",
+      "description": "Insats i Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e645d58d-67da-4eff-bd60-2805bf3befd9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e645d58d-67da-4eff-bd60-2805bf3befd9",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785712256000
     },
     {
       "title": "13-årig flicka försvunnen på Böda camping",
@@ -62,6 +142,16 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785700847000
+    },
+    {
+      "title": "Mars månar har varit ett mysterium för forskarna, men nu får vi äntligen svar på en av solsystemets största gåtor",
+      "description": "Månarna Phobos och Deimos är små, deformerade och liknar inga andra månar i solsystemet. Tre teorier tävlar om att förklara Marsmånarnas existens – och en av dem sår tvivel kring huruvida de ens är månar.",
+      "link": "https://illvet.se/universum/mars-manar-har-varit-ett-mysterium-for-forskarna-men-nu-far-vi-antligen-svar-pa-en-av-solsystemets-storsta-gator",
+      "guid": "https://illvet.se/universum/mars-manar-har-varit-ett-mysterium-for-forskarna-men-nu-far-vi-antligen-svar-pa-en-av-solsystemets-storsta-gator",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785699007000
     },
     {
       "title": "Discgolfaren Eveliina Salonen vann i USA efter stark sista runda",
@@ -164,16 +254,6 @@
       "timestamp": 1785693452000
     },
     {
-      "title": "Tidigare Maga-profilerna startar ny rörelse",
-      "description": "De var tidigare högljudda, profilerade Trump-anhängare – men har alla hamnat i fejd med presidenten. Nu verkar de också bli konkurrenter till Trump. ”Han har svikit oss alla”, skriver Marjorie Taylor Greene på X .",
-      "link": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tidigare-maga-profilerna-startar-ny-rorelse/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785692549000
-    },
-    {
       "title": "Sanchez på semester mitt i krisen: ”Ceuta lider”",
       "description": "Spaniens premiärminister Pedro Sanchez tar semester mitt under krisen i Ceuta och lägger ut sin spellista för sommaren. Han och hans familj är i Lanzarote på Kanarieöarna – och får skarp kritik. Samtidigt bärgar spanska myndigheter migranters döda kroppar ur vattnet medan hundratals marockaner vägrar lämna Ceuta.",
       "link": "https://www.expressen.se/nyheter/varlden/sanchez-pa-semester-mitt-i-krisen-ceuta-lider/",
@@ -244,16 +324,6 @@
       "timestamp": 1785684614000
     },
     {
-      "title": "Åklagaren: Så gick olyckan vid Tjörn till – kaptenen häktas",
-      "description": "Nu är förloppet för den dödliga fartygsolyckan utanför Tjörn klarlagt, enligt åklagaren. Den svenska fritidsbåten ”blev påkörd, närmast överkörd” bakifrån av det norska lastfartyget. Fritidsbåten sögs ned under fartyget, sjönk genast till botten, två människor omkom – och föraren av fritidsbåten misstänks inte för att ha brutit mot någon sjövägsregel. – Det är en mänsklig tragedi, säger kaptenens försvarsadvokat, Taavi Tuula.",
-      "link": "https://www.expressen.se/nyheter/sverige/kaptenen-haktas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kaptenen-haktas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785683312000
-    },
-    {
       "title": "FC Inter klamrar sig fast vid andra platsen i fotbollsligan – besegrade VPS på bortaplan",
       "description": "I herrarnas fotbollsliga inkasserade Åbolaget FC Inter en 1–0-seger över VPS under söndagen.",
       "link": "https://yle.fi/a/7-10102980?origin=rss",
@@ -272,26 +342,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785682800000
-    },
-    {
-      "title": "Brandhelikoptrar har kolliderat i Grekland",
-      "description": "Två döda – släckte bränder vid Medelhavet",
-      "link": "https://www.expressen.se/nyheter/varlden/brandhelikoptrar-har-kolliderat-i-grekland/",
-      "guid": "https://www.expressen.se/nyheter/varlden/brandhelikoptrar-har-kolliderat-i-grekland/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785681510000
-    },
-    {
-      "title": "Här går skytten till attack – tre döda",
-      "description": "Skjutning utanför hamburgerrestaurang i Idaho",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-gar-skytten-till-attack-utanfor-hamburgerkedjan",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gar-skytten-till-attack-utanfor-hamburgerkedjan",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785680977000
     },
     {
       "title": "En dansk och en grek döda i helikopterkrock i Grekland",
@@ -332,16 +382,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785678977000
-    },
-    {
-      "title": "E6 avstängd vid Varberg efter krock",
-      "description": "Tre bilar i krock",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9c1e2837-18c9-43a8-9e4f-1505aae6166f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9c1e2837-18c9-43a8-9e4f-1505aae6166f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785678022000
     },
     {
       "title": "Tre till sjukhus efter frontalkrock på Merikartvägen i Vasa",
@@ -402,16 +442,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785675600000
-    },
-    {
-      "title": "Micke Leijnegard tillbaka i rutan",
-      "description": "Micke Leijnegard får nytt program i SVT, rapporterar P4 Sörmland. Programmet heter ”Mickes segelbåt” och är hans första sedan han dömdes för sexuellt ofredande.",
-      "link": "https://www.expressen.se/noje/micke-leijnegard-tillbaka-i-rutan/",
-      "guid": "https://www.expressen.se/noje/micke-leijnegard-tillbaka-i-rutan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785674366000
     },
     {
       "title": "Flera döda och tiotals saknade efter färjebrand i Indonesien",
@@ -584,16 +614,6 @@
       "timestamp": 1785663000000
     },
     {
-      "title": "BAE och Rolls-Royce i öppen konflikt – amerikansk motor vinner",
-      "description": "Det ”hel-brittiska” flygplansprojektet får en amerikansk motor efter att de brittiska försvarsjättarna BAE och Rolls-Royce hamnat i konflikt. Storbritanniens nya obemannade stridsflygplan Brontanax marknadsförs som ett helbrittiskt projekt. Men när drönaren nu utvecklas för det brittiska flygvapnets framtida ”loyal wingman”-program blir det en amerikansk motor i stället för en från Rolls-Royce. Konflikt om kostnaderna Enligt […]",
-      "link": "https://www.dagensps.se/bors-finans/bae-och-rolls-royce-i-oppen-konflikt-amerikansk-motor-vinner/",
-      "guid": "https://www.dagensps.se/?p=1660567",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/brontanax.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785662092000
-    },
-    {
       "title": "Kvinna nekades psykolog – på grund av graviditet",
       "description": "En kvinna nekades psykologbesök på grund av att hon var gravid, nu DO-anmäler hon försäkringsbolaget.",
       "link": "https://www.mitti.se/nyheter/kvinna-nekades-psykolog--pa-grund-av-graviditet-6.3.378288.2bd40705a1",
@@ -632,16 +652,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785661003000
-    },
-    {
-      "title": "Nya rön: Längden på låret kan avslöja om du har diabetes",
-      "description": "Enligt nya forskarrön kan lårets längd spåra om du har diabetes. Här är förklaringen till den överraskande upptäckten. Runt 450 000 svenskar uppges ha typ 2-diabetes, som är den vanligaste diabetesformen. Typ 1, som är kroniskt, är inte lika utbrett men ökar. Sverige har cirka 60 000 kända fall varav ungefär 8 000 är barn. […]",
-      "link": "https://www.dagensps.se/halsa/nya-ron-langden-pa-laret-kan-avsloja-om-du-har-diabetes/",
-      "guid": "https://www.dagensps.se/?p=1660564",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/lardiabetes.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785660180000
     },
     {
       "title": "Half-Life portat till PlayStation 1",
@@ -1732,16 +1742,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785474025000
-    },
-    {
-      "title": "En grupp fysiker har tittat in i universums enorma tomrum – och hittat något långt mer våldsamt än de hade väntat sig",
-      "description": "Universum borde egentligen se helt annorlunda ut än det gör. Nu kan en grupp astrofysiker ha hittat en överraskande förklaring i det enorma, tomma mörkret mellan galaxerna.",
-      "link": "https://illvet.se/universum/en-grupp-fysiker-har-tittat-in-i-universums-enorma-tomrum-och-hittat-nagot-langt-mer-valdsamt-an-de-hade-vantat-sig",
-      "guid": "https://illvet.se/universum/en-grupp-fysiker-har-tittat-in-i-universums-enorma-tomrum-och-hittat-nagot-langt-mer-valdsamt-an-de-hade-vantat-sig",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785474011000
     },
     {
       "title": "EU satsar 10 miljarder euro på sju AI-gigafabriker",
@@ -2922,66 +2922,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785125760000
-    },
-    {
-      "title": "Hjälp efterlyses – två nykomlingar behöver namn",
-      "description": "Två namnlösa getter flyttar in till Starrmyrans parklek i Hökarängen. Nu uppmanas folk att lämna namn-förslag via Farsta stadsförvaltnings Facebook.",
-      "link": "https://www.mitti.se/nyheter/hjalp-efterlyses--tva-nykomlingar-behover-namn-6.3.376841.b0abecc1e8",
-      "guid": "https://www.mitti.se/nyheter/hjalp-efterlyses--tva-nykomlingar-behover-namn-6.3.376841.b0abecc1e8",
-      "image": "https://www.mitti.se/image-3.377019.301027.20260726201204.405794fc94?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785094891000
-    },
-    {
-      "title": "Striktare kontroller – 49 personer nekades jobb i Botkyrka",
-      "description": "För att stärka kommunens integritet har Botkyrka infört striktare bakgrundskontroller vid rekryteringen till kommunala befattningar.",
-      "link": "https://www.mitti.se/nyheter/striktare-kontroller--49-personer-nekades-jobb-i-botkyrka-6.3.376840.3586c35f12",
-      "guid": "https://www.mitti.se/nyheter/striktare-kontroller--49-personer-nekades-jobb-i-botkyrka-6.3.376840.3586c35f12",
-      "image": "https://www.mitti.se/image-3.321621.300969.20260726164628.1.f580d86bee?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785082500000
-    },
-    {
-      "title": "19-åring fick pojke att spränga vid villa i Saltsjöbaden",
-      "description": "En 19-åring döms för anstiftan efter att en 15-åring sprängt vid en bostad i Saltsjöbaden.",
-      "link": "https://www.mitti.se/nyheter/19aring-fick-pojke-att-spranga-vid-villa-i-saltsjobaden-6.3.376844.ed0ce00510",
-      "guid": "https://www.mitti.se/nyheter/19aring-fick-pojke-att-spranga-vid-villa-i-saltsjobaden-6.3.376844.ed0ce00510",
-      "image": "https://www.mitti.se/image-3.304437.300980.20260728085337.1.926aac285f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785067200000
-    },
-    {
-      "title": "Anneli, 64, tipsar om Lenny Kravitz, Bad Bunny och annan läkande kultur",
-      "description": "Under namnet Kulturista STHLM delar Anneli Levin, 64, med sig av sina bästa kulturtips i Stockholm, en idé som kom till henne under sin sjukskrivning.",
-      "link": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-bad-bunny-och-annan-lakande-kultur-6.3.356039.21ee909d1b",
-      "guid": "https://www.mitti.se/nyheter/anneli-64-tipsar-om-lenny-kravitz-bad-bunny-och-annan-lakande-kultur-6.3.356039.21ee909d1b",
-      "image": "https://www.mitti.se/image-3.367891.288748.20260726172129.a1c68f5bb2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785061884000
-    },
-    {
-      "title": "Madeleine fick drömroll i världssuccén \"Legally Blonde\"",
-      "description": "Madeleine Hilleard från Tyresö kommer definitivt att få klä sig i rosa i höst. Hon är nämligen med i uppsättningen när Södra teatern sätter upp världssuccén \"Legally Blonde\" som musikal.",
-      "link": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
-      "guid": "https://www.mitti.se/nyheter/madeleine-fick-dromroll-i-varldssuccen-legally-blonde-6.3.377382.17b681497a",
-      "image": "https://www.mitti.se/image-3.377035.301029.20260727080539.1.dcf0aa5a1d?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785049494000
-    },
-    {
-      "title": "\"Kaosfärd\" i för liten ambulans när skottskadad fördes till sjukhus",
-      "description": "\"Kaos utan dess like\" i för liten ambulans när skottskadad fördes till sjukhus efter skjutning i Jordbro i Haninge.",
-      "link": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
-      "guid": "https://www.mitti.se/nyheter/kaosfard-i-for-liten-ambulans-nar-skottskadad-fordes-till-sjukhus-6.3.376849.4f27e00ac3",
-      "image": "https://www.mitti.se/image-3.248673.301005.20260802182200.c0d5e76588?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785041400000
     }
   ]
 }
