@@ -1,8 +1,98 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-04T19:17:28.751Z",
+  "updatedAt": "2026-08-04T22:02:47.876Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Fartyg sänkt i Röda havet",
+      "description": "Huthirörelsen anklagas för attacken",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=640dd6b8-a1ff-4424-ac0d-f9d661594f6e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=640dd6b8-a1ff-4424-ac0d-f9d661594f6e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785880401000
+    },
+    {
+      "title": "Space X gör förlust",
+      "description": "Första kvartalsrapporten efter noteringen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=57adcd8c-b99f-43d9-b59f-cc8b6a8931ec",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=57adcd8c-b99f-43d9-b59f-cc8b6a8931ec",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785880366000
+    },
+    {
+      "title": "Garb: Americano",
+      "description": "",
+      "link": "https://uncrate.com/garb-americano/",
+      "guid": "https://uncrate.com/garb-americano/",
+      "image": "https://uncrate.com/assets_c/2026/08/Garb-americano-darkened-thumb-960xauto-192458.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785877200000
+    },
+    {
+      "title": "Röd varning efter vulkanutbrott",
+      "description": "Röd varning utfärdad",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785877012000
+    },
+    {
+      "title": "Grönssakssäljare jagad – av rysk drönare",
+      "description": "Zelenskyj: ”Njuter av att döda”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785874695000
+    },
+    {
+      "title": "Kontroversiella våldsfilmen får uppföljare",
+      "description": "Våldsfilmen Citizen Vigilante har både kritiserats och hyllats. Nu får lågbudgetfilmen en uppföljare.",
+      "link": "https://www.expressen.se/nyheter/kontroversiella-valdsfilmen-far-uppfoljare/",
+      "guid": "https://www.expressen.se/nyheter/kontroversiella-valdsfilmen-far-uppfoljare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785874629000
+    },
+    {
+      "title": "Mardrömssiffror för Putin: Lägsta nivån på 24 år",
+      "description": "Ny dag – nya mardrömssiffror för Putin. Bloomberg rapporterar att Ryssland raffinerar rekordlite olja. I juli raffinerade man 3,6 miljoner fat per dag – det lägsta på 24 år.",
+      "link": "https://www.expressen.se/nyheter/varlden/mardromssiffror-for-putin-lagsta-siffran-pa-24-ar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/mardromssiffror-for-putin-lagsta-siffran-pa-24-ar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785873963000
+    },
+    {
+      "title": "Timex Giorgio Galli S2Ti Swiss Made Titanium Watch",
+      "description": "",
+      "link": "https://uncrate.com/timex-giorgio-galli-s2ti-swiss-made-titanium-watch/",
+      "guid": "https://uncrate.com/timex-giorgio-galli-s2ti-swiss-made-titanium-watch/",
+      "image": "https://uncrate.com/assets_c/2026/08/timex-giorgio-galli-swiss-made-titanium-watch-11-darkened-thumb-960xauto-192452.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785873600000
+    },
+    {
+      "title": "Våldtäktsläkaren åtalas för nytt övergrepp",
+      "description": "Christian Abi-Khalil dömdes i fjol för tio våldtäkter mot patienter. Nu åtalas han för ett nytt övergrepp. – Efter att ha tagit del av uppgifter i media har de känt att de inte har varit ensamma om sin upplevelse, säger åklagaren Gunnar Brodin till Nyhetsbyrån Siren.",
+      "link": "https://www.expressen.se/nyheter/sverige/valdtaktslakaren-atalas-for-nytt-overgrepp/",
+      "guid": "https://www.expressen.se/nyheter/sverige/valdtaktslakaren-atalas-for-nytt-overgrepp/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785872356000
+    },
     {
       "title": "Tmrw Longevity Powder",
       "description": "",
@@ -12,6 +102,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785871708000
+    },
+    {
+      "title": "Babylycka i brittiska kungahuset – prinsessan har fått barn",
+      "description": "Den brittiska prinsessan Eugenie har fött sitt tredje barn. Dottern gjorde entré i Portugal. ”Vi är bortom förälskade i vår lilla tjej”, skriver prinsessan på Instagram.",
+      "link": "https://www.expressen.se/nyheter/kungligt/babylycka-i-brittiska-kungahuset--prinsessan-har-fatt-barn/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/babylycka-i-brittiska-kungahuset--prinsessan-har-fatt-barn/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785871094000
     },
     {
       "title": "Kritiken mot kärlekstunneln: ”Perfekta kroppar”",
@@ -65,7 +165,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Polisinsats i Stockholms skärgård",
-      "description": "En stor polisinsats pågår i Stockholms skärgård. Enligt TV4:s uppgifter har en kvinna hittats med knivskador.",
+      "description": "En stor polisinsats pågår i Stockholms skärgård. En kvinna i 50-årsåldern har hittats död. Nu utreder polisen mord. Enligt TV4:s uppgifter hittades kvinnan med knivskador.",
       "link": "https://www.expressen.se/nyheter/sverige/polisinsats-i-stockholms-skargard/",
       "guid": "https://www.expressen.se/nyheter/sverige/polisinsats-i-stockholms-skargard/",
       "image": "",
@@ -82,16 +182,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785867300000
-    },
-    {
-      "title": "Grönssakssäljare jagad – av rysk drönare",
-      "description": "Zelenskyj: ”Njuter av att döda”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785867206000
     },
     {
       "title": "Boende efter explosionen i Vasa: ”Definitivt inte normalt”",
@@ -495,7 +585,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Amazon släpper dokumentärserie om Pep Guardiola",
-      "description": "Om hans tid som tränare för Manchester City För de som diggar fotboll på högsta nivå finns det möjlighet att kolla in lite sådant de kommande veckorna. Nästa vecka börjar Netflix visa en dokumentärserie om tränaren José Mourinho och veckan efter det är dags för en dokumentärserie om hans rival Pep Guardiola. Pep Guardiola har under sin karriär tränat både Barcelona och Bayern, men dokumentärserien A Beautiful Obsession handlar om de tio år han tränade Manchester City. Förutom Guardiola själv kommer en lång rad spelare från Manchester City medverka samt andra fotbollsprofiler. A Beautiful Obsession börjar visas på Prime Video den 19 augusti. Ni hittar trailern ovan. L&auml;s vidare och kommentera: https://feber.se/film/amazon-slapper-dokumentarserie-om-pep-guardiola/494711/ L&auml;s mer om Pep Guardiola , Manchester City , Prime Video , Netflix , José Mourinho , A Beautiful Obsession , Fotboll",
+      "description": "Om hans tid som tränare för Manchester City För de som diggar fotboll på högsta nivå finns det möjlighet att kolla in lite sådant de kommande veckorna. Nästa vecka börjar Netflix visa en dokumentärserie om tränaren José Mourinho och veckan efter det är dags för en dokumentärserie om hans rival Pep Guardiola. Pep Guardiola har under sin karriär tränat både Barcelona och Bayern Munchen, men dokumentärserien A Beautiful Obsession handlar om de tio år han tränade Manchester City. Förutom Guardiola själv kommer en lång rad spelare från Manchester City medverka samt andra fotbollsprofiler. A Beautiful Obsession börjar visas på Prime Video den 19 augusti. Ni hittar trailern ovan. L&auml;s vidare och kommentera: https://feber.se/film/amazon-slapper-dokumentarserie-om-pep-guardiola/494711/ L&auml;s mer om Pep Guardiola , Manchester City , Prime Video , Netflix , José Mourinho , A Beautiful Obsession , Fotboll",
       "link": "https://feber.se/film/amazon-slapper-dokumentarserie-om-pep-guardiola/494711/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/film/amazon-slapper-dokumentarserie-om-pep-guardiola/494711/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -532,16 +622,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785852000000
-    },
-    {
-      "title": "Brukare hade \"högsmittsam tuberkolos\" – hemtjänstanställda smittspåras",
-      "description": "30 utsatta för ”högsmittsam tuberkulos”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=24495870-9705-4ecf-954d-4a0f34b06238",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=24495870-9705-4ecf-954d-4a0f34b06238",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785851886000
     },
     {
       "title": "Ryssland ville ha 50 stycken TU-160 bombplan – fick bara två",
@@ -674,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785849314000
     },
     {
-      "title": "Här är alla rykten inför höstens Iphone-event",
-      "description": "Nya versioner av Iphone Pro-modellerna och Apple Watch kan få sällskap av en vikbar Iphone. Vi har sammanställt alla rykten inför höstens Apple-event.",
-      "link": "https://www.expressen.se/ekonomi/tech/har-ar-alla-rykten-infor-hostens-iphone-event/",
-      "guid": "https://www.expressen.se/ekonomi/tech/har-ar-alla-rykten-infor-hostens-iphone-event/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785849218000
-    },
-    {
       "title": "Finland kan snart vara först i världen att slutförvara använt kärnbränsle",
       "description": "Strålsäkerhetscentralen tillåter slutförvaring för använt kärnbränsle i Finland. Beslutet beskrivs som historiskt.",
       "link": "https://yle.fi/a/7-10103002?origin=rss",
@@ -732,16 +802,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785847866000
-    },
-    {
-      "title": "Forssell efter EU:s krismöte: Får inte hända igen",
-      "description": "Det får inte hända igen – och många länder efterlyser åtgärder för att förhindra en upprepning. Det säger migrationsminister Johan Forssell (M), efter EU:s extrainkallade möte om händelserna i den spanska exklaven Ceuta förra veckan.",
-      "link": "https://www.expressen.se/nyheter/varlden/forssell-efter-eus-krismote-far-inte-handa-igen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/forssell-efter-eus-krismote-far-inte-handa-igen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785847725000
     },
     {
       "title": "Sepp Blatter vill se Lise Klaveness som ny chef för Fifa",
@@ -794,16 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785846600000
     },
     {
-      "title": "Rysk soldat öppnade eld mot kollegor – fyra döda",
-      "description": "Fyra döda – flera skadade: ”Akutvård”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c84bec-978d-4968-94d1-07208671b46e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c84bec-978d-4968-94d1-07208671b46e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785846316000
-    },
-    {
       "title": "These underwater bones could solve a mystery about extinct giants",
       "description": "Animal bones preserved in South Australia’s underwater caves reveal distinctive clues shaped by darkness, algae, bacteria, and other environmental conditions. The findings give scientists a powerful new way to reconstruct how ancient megafauna remains entered and survived in submerged cave systems.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm",
@@ -834,16 +884,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785844800000
     },
     {
-      "title": "EU:s ledare skällde på fel land i migrantkrisen",
-      "description": "Marocko spelade en nyckelroll i migrantkrisen i spanska Ceuta. Men det var Spanien som blev utskällt. EU:s finaste stund har detta definitivt inte varit.",
-      "link": "https://www.expressen.se/kronikorer/mats-larsson/eus-ledare-skallde-pa--fel-land-i-migrantkrisen/",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/eus-ledare-skallde-pa--fel-land-i-migrantkrisen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785844533000
-    },
-    {
       "title": "Strange quantum experiment shows “negative time” is more than an illusion",
       "description": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the same negative dwell time. The finding does not break standard physics, but it reveals that one of quantum mechanics’ strangest effects is physically measurable.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
@@ -852,16 +892,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785843898000
-    },
-    {
-      "title": "Person fastklämd under takstolar – ambulans på väg",
-      "description": "SOS Alarm: ”Två ambulanser är på väg”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=62d19952-5d2f-4d7d-9c56-26f5dfbb70b9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62d19952-5d2f-4d7d-9c56-26f5dfbb70b9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785843202000
     },
     {
       "title": "Bartlomiej simmade 16 mil utan att vila",
@@ -1344,16 +1374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785785458000
     },
     {
-      "title": "Foot Locker Back-to-School Collection",
-      "description": "",
-      "link": "https://uncrate.com/-foot-locker-back-to-school-collection/",
-      "guid": "https://uncrate.com/-foot-locker-back-to-school-collection/",
-      "image": "https://uncrate.com/assets_c/2026/07/foot-locker-back-to-school-3-thumb-960xauto-192334.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785785427000
-    },
-    {
       "title": "Stenålderns pionjärer: Här är de nio kulturer som banade väg för vår värld",
       "description": "Glöm myten om primitiva grottmänniskor: stenålderns folk skapade städer, handel och astronomi. Läs om stenålderns gåtfulla kulturer.",
       "link": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
@@ -1371,16 +1391,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785783600000
-    },
-    {
-      "title": "KEF LS LUXE Wireless Speakers",
-      "description": "",
-      "link": "https://uncrate.com/kef-ls-luxe-wireless-speakers/",
-      "guid": "https://uncrate.com/kef-ls-luxe-wireless-speakers/",
-      "image": "https://uncrate.com/assets_c/2026/08/kef-ls-luxe-wireless-speakers-1-thumb-960xauto-192428.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785783600000
     },
     {
