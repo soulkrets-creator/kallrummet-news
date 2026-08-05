@@ -1,8 +1,148 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-05T19:12:58.022Z",
+  "updatedAt": "2026-08-05T22:04:46.028Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Stressforskarens bästa råd efter semestern: \"Om det finns en vana du bör prioritera, så är det denna\"",
+      "description": "När semestern är över och inkorgen återigen svämmar över av mejl och mötesinbjudningar kan arbetspressen snabbt börja tära på både kropp och hjärna. Många försöker bekämpa den med träning och hälsosam kost, men efter att ha följt tusentals människor i tio år kan stressforskaren Serra Al-Katib nu avslöja den vana som bäst skyddar dig mot arbetsrelaterad stress.",
+      "link": "https://illvet.se/halsa/hon-har-foljt-tusentals-manniskors-arbetsliv-i-tio-ar-detta-ar-stressforskarens-basta-rad-for-att-undvika-overbelastning-efter-semestern",
+      "guid": "https://illvet.se/halsa/hon-har-foljt-tusentals-manniskors-arbetsliv-i-tio-ar-detta-ar-stressforskarens-basta-rad-for-att-undvika-overbelastning-efter-semestern",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1785967257000
+    },
+    {
+      "title": "Kvinna död",
+      "description": "Bil med fyra personer körde in i träd",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc4bffe4-9b78-468f-a968-0de45e5f6462",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc4bffe4-9b78-468f-a968-0de45e5f6462",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785967041000
+    },
+    {
+      "title": "Misstänkt farligt föremål i Stockholm",
+      "description": "Delar av Folkkungagatan på Södermalm i Stockholm har spärrats av. Polisen utreder ett misstänkt farligt föremål på platsen. Enligt vittnen har två personer kastat in en påse i en restaurang.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankt-farligt-foremal-i-stockholm-4kbuz/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankt-farligt-foremal-i-stockholm-4kbuz/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785964558000
+    },
+    {
+      "title": "John Oliver snackar Polisens övervakningsteknologi",
+      "description": "Klockrent som vanligt Här har vi veckans avsnitt av Last Week Tonight with John Oliver, där John snackar lite om Polisens övervakningsteknologi. Vill man enbart se övervakningssnacket så kan man hitta det i klippet ovan. Vill man se avsnittet i sin helhet, så kan man hitta det nedan. L&auml;s vidare och kommentera: https://feber.se/video/john-oliver-snackar-polisens-overvakningsteknologi/494743/ L&auml;s mer om Last Week Tonight with John Oliver , John Oliver , HBO",
+      "link": "https://feber.se/video/john-oliver-snackar-polisens-overvakningsteknologi/494743/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/video/john-oliver-snackar-polisens-overvakningsteknologi/494743/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1785963600000
+    },
+    {
+      "title": "Everyday Carry: Outland",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-outland/",
+      "guid": "https://uncrate.com/everyday-carry-outland/",
+      "image": "https://uncrate.com/assets_c/2026/08/edc-outland-darkened-thumb-960xauto-192484.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785963600000
+    },
+    {
+      "title": "Kallade polis ”horunge” på Tiktok – pojke åtalas",
+      "description": "En 15-årig pojke filmade när polisen kontrollerade hans epa. I klipp på Tiktok kallade pojken sedan polisen för ”horunge” och ”horsnut”. Nu åtalas han. – Jag var väl lite arg tror jag, säger pojken i förhör.",
+      "link": "https://www.expressen.se/nyheter/sverige/kallade-polis-horunge-pa-tiktok-pojke-atalas/",
+      "guid": "https://www.expressen.se/nyheter/sverige/kallade-polis-horunge-pa-tiktok-pojke-atalas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785962529000
+    },
+    {
+      "title": "Låg gömd i flera tusen år: Jättarnas grav har hittats på Sardinien",
+      "description": "Genom historien har lokalbefolkningen på Sardinien trott att en rad stora gravmonument uppfördes av jättar. På 740 meters höjd har arkeologer nu hittat en av de äldsta av dessa så kallade ”jättgravar”.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/lag-gomd-i-flera-tusen-ar-jattegrav-har-hittats-pa-sardinien",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/lag-gomd-i-flera-tusen-ar-jattegrav-har-hittats-pa-sardinien",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785961806000
+    },
+    {
+      "title": "Flera tecken tyder på att Ryssland planerar mobilisering",
+      "description": "Medan Rysslands förvaltning verkar planera en större mobilisering fjärmas president Vladimir Putins och det ryska folkets syn på kriget från varandra.",
+      "link": "https://yle.fi/a/7-10103150?origin=rss",
+      "guid": "https://yle.fi/a/7-10103150",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785960993000
+    },
+    {
+      "title": "Gata avspärrad",
+      "description": "Misstänkt farligt föremål på krog i Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf43e7ba-bc5c-4655-a857-d45cd3f2593d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf43e7ba-bc5c-4655-a857-d45cd3f2593d",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785960941000
+    },
+    {
+      "title": "Whistlepig The Boss Hog XIII The Golden Pharaoh Rye Whiskey",
+      "description": "",
+      "link": "https://uncrate.com/whistlepig-the-boss-hog-xiii-the-golden-pharaoh-rye-whiskey/",
+      "guid": "https://uncrate.com/whistlepig-the-boss-hog-xiii-the-golden-pharaoh-rye-whiskey/",
+      "image": "https://uncrate.com/assets_c/2026/08/whistlepig-boss-hog-2-thumb-960xauto-192462.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785960001000
+    },
+    {
+      "title": "Trump har backat på alla krav",
+      "description": "Ett fredsavtal uppges närma sig mellan USA och Iran. Men Donald Trump har backat på allt han först ville uppnå, rapporterar Financial Times . – Den omedelbara överenskommelsen är sundet, säger utrikesminister Marco Rubio.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-har-backat-pa-alla-krav/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-har-backat-pa-alla-krav/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785959939000
+    },
+    {
+      "title": "E4 helt avstängd norrut",
+      "description": "Pågår till i morgon • Polisens vädjan",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fecc17f-f885-48ef-9ec0-0fdcb410b653",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fecc17f-f885-48ef-9ec0-0fdcb410b653",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785959463000
+    },
+    {
+      "title": "HTV: Röster inför Rakow borta",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-infoer-rakow-borta",
+      "guid": "b7e223e7-8232-4ae3-8c25-d18a3f9536ff",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/c7b26d55d593e3005f2b9cd2f5fe63cf6362a762-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1785959136000
+    },
+    {
+      "title": "Uppgifter: Ryssland har infiltrerat stora delar av fästningsstaden",
+      "description": "Staden Kostiantynivka beskrivs som en av tre viktiga stödpunkter i Ukrainas östra försvarsbälte. Nu pekar uppgifter på att Ryssland infiltrerat nyckelstaden – och ökar kontrollen i området, rapporterar Al Jazeera .",
+      "link": "https://www.expressen.se/nyheter/uppgifter-ryssland-har-infiltrerat-stora-delar-av-fastningsstaden/",
+      "guid": "https://www.expressen.se/nyheter/uppgifter-ryssland-har-infiltrerat-stora-delar-av-fastningsstaden/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785958277000
+    },
     {
       "title": "Mood Premium THC Products",
       "description": "",
@@ -14,6 +154,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785958218000
     },
     {
+      "title": "Experten: Så blir bostadsmarknaden i höst",
+      "description": "En stabil marknad som följer säsongsmönstren. Så spår SBAB:s chefsekonom Robert Boije höstens bostadsmarknad – men han lämnar en brasklapp. – Skulle vi få ett Hormuzsund som är fortsatt stängt hela året, då är det fara att inflationen sticker upp och att bolåneräntorna också höjs, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/experten-sa-blir-bostadsmarknaden-i-host/",
+      "guid": "https://www.expressen.se/nyheter/sverige/experten-sa-blir-bostadsmarknaden-i-host/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785958131000
+    },
+    {
       "title": "Mördad i direktsändning",
       "description": "Influencer sände live i Mexiko",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4985748a-b115-40df-a74b-f113abac671b",
@@ -22,6 +172,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1785956481000
+    },
+    {
+      "title": "Han var frustrerad över det höga antalet dödsfall på sin förlossningsavdelning, men hans lösning på problemet väckte ramaskri",
+      "description": "Läkarkåren hånade Ignaz Semmelweis, som förde en hård kamp för bättre hygien. Han blev utskrattad och förnedrad och lades in på ett mentalsjukhus.",
+      "link": "https://varldenshistoria.se/vetenskap/medicin/kollegor-drev-ungersk-lakare-till-sammanbrottets-rand-handtvatt-vackte-ramaskri",
+      "guid": "https://varldenshistoria.se/vetenskap/medicin/kollegor-drev-ungersk-lakare-till-sammanbrottets-rand-handtvatt-vackte-ramaskri",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1785956441000
     },
     {
       "title": "Drömstart för HJK i Europa – vann första matchen i CL-kvalet",
@@ -62,16 +222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785956136000
-    },
-    {
-      "title": "E4 helt avstängd norrut",
-      "description": "Pågår till i morgon • Polisens vädjan",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fecc17f-f885-48ef-9ec0-0fdcb410b653",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fecc17f-f885-48ef-9ec0-0fdcb410b653",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785955746000
     },
     {
       "title": "Kvarlevor hittade",
@@ -174,10 +324,10 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785951455000
     },
     {
-      "title": "Fler terrorister fick stöd av V – alla namnen",
-      "description": "Samtliga riksdagsledamöter och EU-parlamentariker för Vänsterpartiet skickade brev till fängslade palestinier för att visa solidaritet med dem. Nu kan Expressen avslöja hela listan på fångarna. En av dem låg bakom två självmordsbombningar för Hamas där drygt 20 människor dödades och över 350 skadades.",
-      "link": "https://www.expressen.se/nyheter/sverige/fler-terrorister-fick-stod-av-v-alla-namnen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/fler-terrorister-fick-stod-av-v-alla-namnen/",
+      "title": "Palestinska myndigheten: De fick brev av V",
+      "description": "Samtliga riksdagsledamöter och EU-parlamentariker för Vänsterpartiet skickade brev till fängslade palestinier för att visa solidaritet med dem, enligt Palestinska myndigheten. Vänsterpartiet nekar till att det har skett. En av fångarna låg bakom två självmordsbombningar för Hamas där drygt 20 människor dödades och över 350 skadades. Texten har uppdaterats sedan första publicering.",
+      "link": "https://www.expressen.se/nyheter/sverige/palestinska-myndigheten-de-fick-brev-av-v/",
+      "guid": "https://www.expressen.se/nyheter/sverige/palestinska-myndigheten-de-fick-brev-av-v/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
@@ -394,16 +544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785944093000
     },
     {
-      "title": "Stort pådrag på skärgårdsön efter kvinnans död",
-      "description": "En kvinna misstänks ha mördats i Stockholms skärgård. Nu trappar polisen upp insatsen igen på ön. Enligt Aftonbladets uppgifter söker man efter en misstänkt gärningsman. – En större brottsförebyggande resurs kommer befinna sig på ön, säger Robert Sennerdahl vid polisen.",
-      "link": "https://www.expressen.se/nyheter/stort-padrag-pa-skargardson-efter-kvinnans-dod/",
-      "guid": "https://www.expressen.se/nyheter/stort-padrag-pa-skargardson-efter-kvinnans-dod/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785944012000
-    },
-    {
       "title": "Ska du köpa en begagnad bil? Här är de dyra misstagen du vill undvika",
       "description": "Bilbesiktaren Jussi Ruuhinen ger sina bästa tips för att du ska bli nöjd med ditt begagnade bilköp.",
       "link": "https://yle.fi/a/7-10102798?origin=rss",
@@ -412,16 +552,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785943966000
-    },
-    {
-      "title": "Dadgostar om terroristhyllning: ”Ett misstag”",
-      "description": "Nu kommenterar V-ledaren Nooshi Dadgostar sin partikollegas terroristhyllning. – Ett misstag från en riksdagsledamot. Här borde vi ha haft bättre rutiner.",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-terroristhyllning-ett-misstag/",
-      "guid": "https://www.expressen.se/nyheter/politik/dadgostar-om-terroristhyllning-ett-misstag/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785943939000
     },
     {
       "title": "Här är open-ear-lurarna CMF Clip Pro",
@@ -452,16 +582,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785942049000
-    },
-    {
-      "title": "Babysängar återkallas",
-      "description": "Riskerar att strypa barnet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4ca441e1-10d0-41a3-a0c8-cc6443fe08eb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4ca441e1-10d0-41a3-a0c8-cc6443fe08eb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785942034000
     },
     {
       "title": "I 25 år har en grupp delfiner uppvisat ett mycket speciellt beteende – nu har forskare gjort en upptäckt i kroppen på de kloka däggdjuren",
@@ -522,16 +642,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785941713000
-    },
-    {
-      "title": "Explosion vid port i centrala Malmö",
-      "description": "”Var mycket folk på plats”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=91b804a0-7732-4fc2-bf78-4fa4cc4638e7",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=91b804a0-7732-4fc2-bf78-4fa4cc4638e7",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785941470000
     },
     {
       "title": "De söker jobbet som bildningschef i Ingå",
@@ -602,16 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785940183000
-    },
-    {
-      "title": "Man död efter bilbrand",
-      "description": "Började brinna på riksväg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=aa5f7d3e-697e-4901-8c73-059629f5f13b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=aa5f7d3e-697e-4901-8c73-059629f5f13b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785939951000
     },
     {
       "title": "Ligaföreningen i Europa kräver reform av Fifa",
@@ -712,36 +812,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785937643000
-    },
-    {
-      "title": "Fyra män knivhuggna",
-      "description": "Kvinna gripen i centrala London",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3d8c163b-28fb-48ea-887e-803c83274566",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3d8c163b-28fb-48ea-887e-803c83274566",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785937470000
-    },
-    {
-      "title": "Biljakt efter skottlossning",
-      "description": "Krockade med polisbil • Tomhylsor på marken",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=eafaeee5-98ed-4034-bef1-6ab275989023",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=eafaeee5-98ed-4034-bef1-6ab275989023",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785937189000
-    },
-    {
-      "title": "Drönare med sprängämnen hittades på Leipzig flygplats i Tyskland",
-      "description": "Drönaren hittades under natten och polisen bekräftade på onsdagen att den innehöll sprängämnen.",
-      "link": "https://yle.fi/a/7-10103135?origin=rss",
-      "guid": "https://yle.fi/a/7-10103135",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785937047000
     },
     {
       "title": "Svenske spionchefen: Sanningarna Ryssland döljer",
@@ -1414,16 +1484,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785868200000
     },
     {
-      "title": "Nike ACG Zegama Trail Shoe",
-      "description": "",
-      "link": "https://uncrate.com/nike-acg-zegama-trail-shoe/",
-      "guid": "https://uncrate.com/nike-acg-zegama-trail-shoe/",
-      "image": "https://uncrate.com/assets_c/2026/08/acg-zegma-camo-2-darkened-thumb-960xauto-192424.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785864420000
-    },
-    {
       "title": "Telegram togs bort från App Store",
       "description": "Men är nu tillbaka Meddelandeappen Telegram försvann under en kort period plötsligt från Apples App Store i flera länder. Enligt ett uttalande från Apple till 9to5Mac berodde den tillfälliga blockeringen på att man upptäckt innehåll som bröt mot företagets regler mot material som skildrar sexuella övergrepp på barn. Appen återställdes dock kort därefter sedan Telegram agerat genom att radera det aktuella innehållet och stänga av användaren som publicerat det. Det är inte första gången appen stöter på patrull, den har tidigare plockats bort tillfälligt av liknande skäl redan 2018 och har även blivit förbjuden i bland annat Kina och Brasilien under de senaste åren, då även av andra skäl. L&auml;s vidare och kommentera: https://feber.se/mobil/telegram-togs-bort-fran-app-store/494710/ L&auml;s mer om Telegram , Apple , App Store , X , Twitter , sexuella övergrepp på barn",
       "link": "https://feber.se/mobil/telegram-togs-bort-fran-app-store/494710/?utm_source=rss&utm_medium=feed",
@@ -1431,16 +1491,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785862800000
-    },
-    {
-      "title": "CMF Clip Pro Open-Ear Earbuds",
-      "description": "",
-      "link": "https://uncrate.com/cmf-clip-pro-open-ear-earbuds/",
-      "guid": "https://uncrate.com/cmf-clip-pro-open-ear-earbuds/",
-      "image": "https://uncrate.com/assets_c/2026/08/cmf-clip-pro-open-ear-earbuds-1-thumb-960xauto-192447.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1785862800000
     },
     {
@@ -1462,16 +1512,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785862800000
-    },
-    {
-      "title": "I morgon har en ny Star Wars-serie premiär",
-      "description": "Här är trailern för animeserien The Ninth Jedi I morgon drar Star Wars: Visions Presents - The Ninth Jedi igång, en animerad Star Wars-serie som är en spinoff från de båda kortfilmerna The Ninth Jedi och The Ninth Jedi - Child of Hope som tidigare visats i antologiserien Star Wars Visions . Den nya serien utspelas långt in i framtiden i Star Wars-universumet när jedi-riddare och Jedi-orden mer eller mindre har fallit i glömska. Tittarna kommer att få följa den unga jedi-lärlingen Kara när hon och andra i hennes team letar efter andra jedi-riddare som vill återupprätta Jedi-orden och besegra den allt mäktigare krigsherren Nawaam. Samtidigt letar de efter Karas tillfångatagne far Lah Zhima, en av de få personer som har kunskap om hur jedi-riddarnas ljussablar tillverkas. Star Wars: Visions Presents - The Ninth Jedi börjar visas på Disney+ den 5 augusti. Ni hittar trailern för serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/i-morgon-har-en-ny-star-wars-serie-premiar/494705/ L&auml;s mer om Disney+ , The Ninth Jedi , Kara , Lah Zhima , animerad serie , ljussablar , Jedi",
-      "link": "https://feber.se/film/i-morgon-har-en-ny-star-wars-serie-premiar/494705/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/i-morgon-har-en-ny-star-wars-serie-premiar/494705/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1785861000000
     },
     {
       "title": "HTV: Bakom kulisserna | Anderlecht",
@@ -1904,16 +1944,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785787228000
     },
     {
-      "title": "Forskare kan ha hittat en förvånande orsak till spridningen av aggressiv cancerform – nu pekar de på en enkel, fördelaktig förändring",
-      "description": "Cancerforskare kan ha hittat ett näringsämne som kan spela en nyckelroll för spridningen av en vanlig form av cancerform i kroppen.",
-      "link": "https://illvet.se/halsa/forskare-kan-ha-hittat-en-forvanande-orsak-till-spridningen-av-aggressiv-cancerform-nu-pekar-de-pa-en-enkel-fordelaktig-forandring",
-      "guid": "https://illvet.se/halsa/forskare-kan-ha-hittat-en-forvanande-orsak-till-spridningen-av-aggressiv-cancerform-nu-pekar-de-pa-en-enkel-fordelaktig-forandring",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785785458000
-    },
-    {
       "title": "Stenålderns pionjärer: Här är de nio kulturer som banade väg för vår värld",
       "description": "Glöm myten om primitiva grottmänniskor: stenålderns folk skapade städer, handel och astronomi. Läs om stenålderns gåtfulla kulturer.",
       "link": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
@@ -2192,16 +2222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785748962000
-    },
-    {
-      "title": "Öppna träningar vecka 32",
-      "description": "Här är veckans öppna träningar. Herrlaget tränar på Årsta IP. Damlaget tränar på Hammarby IP.Med reservation för ändringar med kort varsel.Herrlagets öppna träningar vecka 32Tisdag 4 augusti10.30-12.0",
-      "link": "https://www.hammarbyfotboll.se/nyheter/oeppna-traeningar-vecka-322026",
-      "guid": "c0c70de0-c302-4c64-be50-50a43450a895",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e045aa999f911f3c005db14fdffd5ea5015e46a9-6000x4000.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785748736000
     },
     {
       "title": "Hund smet från ägare – bet kvinna",
@@ -2494,16 +2514,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785615308000
     },
     {
-      "title": "Se bilderna: Grönlands inuiter är det iskalla nords betvingare",
-      "description": "Donald Trump vill köpa Grönland, men både i Nuuk och Köpenhamn har kravet avvisats. Landets invånare ska själva bestämma över sin framtid, lyder det. Grönländarna har överlevt i nästan 1 000 år i ett av världens tuffaste klimat – här får du en inblick i hur det har gått till.",
-      "link": "https://varldenshistoria.se/samhalle/vardagsliv/gronlands-inuiter-ar-det-iskalla-nords-betvingare",
-      "guid": "https://varldenshistoria.se/samhalle/vardagsliv/gronlands-inuiter-ar-det-iskalla-nords-betvingare",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785610810000
-    },
-    {
       "title": "Bildextra: Kolla in Stockholms prideparad 2026",
       "description": "- Jag är jätteglad! säger festivalarrangören Måns Axelsson som uppskattar att 50 000 gick i paraden och att en halv miljon såg på.",
       "link": "https://www.mitti.se/nyheter/bildextra-kolla-in-stockholms-prideparad-2026-6.3.378271.42646e41bd",
@@ -2522,16 +2532,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785600900000
-    },
-    {
-      "title": "Forskare ifrågasätter gamla myter om Egyptens röda pyramid – dolda ramper var i själva verket något helt annat",
-      "description": "I mer än 180 år har två enorma konstruktioner i närheten av en av Egyptens äldsta pyramider tolkats som ramper för transport av byggstenar. Modern teknik och historiska kartor antyder dock en annan förklaring.",
-      "link": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
-      "guid": "https://varldenshistoria.se/civilisationer/egyptier/forskare-ifragasatter-gamla-myter-om-egyptens-roda-pyramid",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785600014000
     },
     {
       "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
