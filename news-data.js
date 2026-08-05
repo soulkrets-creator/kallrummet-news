@@ -1,17 +1,287 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-05T01:29:47.291Z",
+  "updatedAt": "2026-08-05T05:35:51.183Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Slår tillbaka – efter krissiffrorna: ”Vi borde hata er mer”",
-      "description": "USA har använt upp nästan 80 procent av sina luftvärnsrobotar, enligt CNN. En lögn, menar försvarsminister Pete Hegseth. ”Vi borde hata fejkmedierna ännu mer”, skriver han på X .",
-      "link": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
-      "guid": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
+      "title": "Kvinna hittad död i Stockholms skärgård – misstänkt mord",
+      "description": "Ett intensivt polisarbete har pågått under natten efter att en kvinna i 50-årsåldern hittats död i Stockholms skärgård på tisdagen. – Vi har förhört mängder av personer, säger Ola Österling på polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/kvinna-hittad-dod-i-stockholms--skargard-misstankt-mord/",
+      "guid": "https://www.expressen.se/nyheter/sverige/kvinna-hittad-dod-i-stockholms--skargard-misstankt-mord/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785891996000
+      "timestamp": 1785907866000
+    },
+    {
+      "title": "BP-chefen: ”Nordsjön är inte konkurrenskraftig”",
+      "description": "BP lämnar Nordsjön. Nu förklarar vd Meg O´Neill varför. ”Nordsjön är inte konkurrenskraftig”, hävdar den brittiska energijättens chef. BP:s nye vd Meg O´Neill, som började jobbet i april, stämplar Nordsjön som icke konkurrenskraftig. Det beskedet kommer några dagar efter att den brittiske jätten lagt ut sina Nordsjö-tillgångar till försäljning. Meg O´Neill säger att hon talat […]",
+      "link": "https://www.dagensps.se/bors-finans/bp-chefen-nordsjon-ar-inte-konkurrenskraftig/",
+      "guid": "https://www.dagensps.se/?p=1661457",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlxohpx6rk6yq-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785907723000
+    },
+    {
+      "title": "Eldinferno i Ryssland",
+      "description": "Putins dilemma",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-i-ryssland",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/nya-attacker-i-ryssland",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785907177000
+    },
+    {
+      "title": "Grillande svenskar driver upp köttpriset",
+      "description": "Matpriserna låg nästan stilla i juli. Ordinariepriserna på livsmedel i dagligvarubutikerna sjönk med 0,2 procent jämfört med juni, enligt Matpriskollens månadsstatistik. Den långvariga bristen på slaktdjur och hög efterfrågan under grillsäsongen får priset på nötkött att fortsätta stiga i juli, enligt Matpriskollen. Matpriserna låg nästan stilla i juli. Ordinariepriserna på livsmedel i dagligvarubutikerna sjönk med […]",
+      "link": "https://www.dagensps.se/privatekonomi/grillande-svenskar-driver-upp-kottpriset/",
+      "guid": "https://www.dagensps.se/?p=1661441",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/grillsasongen-driver-upp-priset-pa-notko.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785907093000
+    },
+    {
+      "title": "Explosioner i Kiev – minst 14 döda",
+      "description": "Minst 14 civila har dödats och flera har skadats i ryska attacker mot Ukrainas huvudstad Kiev under natten mot onsdagen.",
+      "link": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-minst-14-doda/",
+      "guid": "https://www.expressen.se/nyheter/varlden/explosioner-i-kiev-minst-14-doda/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785907072000
+    },
+    {
+      "title": "Rekordmånga utrikesresor från Arlanda under juli",
+      "description": "Efterfrågan på utlandsresor från Swedavias tio svenska flygplatser fortsatte att öka under juli, enligt färsk flygstatistik. Samtidigt minskade inrikesresandet till följd av ett lägre utbud. Under juli uppnådde Arlanda det högsta antalet utrikesresenärer för en julimånad någonsin, uppger flygplatsoperatören Swedavia. Efterfrågan på utlandsresor från Swedavias tio svenska flygplatser fortsatte att öka under juli, enligt färsk […]",
+      "link": "https://www.dagensps.se/weekend/resor/rekordmanga-utrikesresor-fran-arlanda-under-juli/",
+      "guid": "https://www.dagensps.se/?p=1661443",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/flygplan-pa-arlanda-flygplats-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785907015000
+    },
+    {
+      "title": "Spotify når 300 miljoner betalande användare, men aktien faller",
+      "description": "Spotify passerade för första gången 300 miljoner betalande användare under andra kvartalet. Det är en milstolpe ingen streamingtjänst nått tidigare. Ändå föll aktien när rapporten presenterades. Förklaringen ligger inte i tillväxten, utan i vinsten per aktie och en försiktig prognos för resten av året. Spotify redovisade en omsättning på 4,78 miljarder euro för andra kvartalet, […]",
+      "link": "https://www.dagensps.se/bors-finans/spotify-nar-300-miljoner-betalande-anvandare-men-aktien-faller/",
+      "guid": "https://www.dagensps.se/?p=1661454",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/spotify.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785906890000
+    },
+    {
+      "title": "Nytt Iran-avtal nära",
+      "description": "Fördelaktigt för Iran, enligt uppgifter",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=25dfe3ba-7859-4d92-956e-f0ccc79de3be",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=25dfe3ba-7859-4d92-956e-f0ccc79de3be",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785906336000
+    },
+    {
+      "title": "Missade du låten? Här är all musik som årets sommarpratare spelat",
+      "description": "Låtarna är en viktig del av ett sommarprat. Här hittar du alla låtar som årets sommarpratare valt.",
+      "link": "https://yle.fi/a/7-10101450?origin=rss",
+      "guid": "https://yle.fi/a/7-10101450",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785906141000
+    },
+    {
+      "title": "Efter M:s tvärnej – LP tar strid för fritidsbank på Lidingö",
+      "description": "Lidingöpartiet backar nu en fritidsbank på Lidingö efter tidigare nej i styret. Partiet hänvisar till stark respons och vill göra frågan till ett krav i kommande förhandlingar.",
+      "link": "https://www.mitti.se/nyheter/efter-ms-tvarnej--lp-tar-strid-for-fritidsbank-pa-lidingo-6.3.378381.7a69a03066",
+      "guid": "https://www.mitti.se/nyheter/efter-ms-tvarnej--lp-tar-strid-for-fritidsbank-pa-lidingo-6.3.378381.7a69a03066",
+      "image": "https://www.mitti.se/image-3.374061.301663.20260805053035.847fc7e558?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785906000000
+    },
+    {
+      "title": "Börsen: Rekordhandel i USA och AI-eufori i Asien",
+      "description": "Asiens börser skuggar Wall Streets börsfest på tisdagen med Softbank i täten. Här är bakgrunden till de glada stämningen. bland investerare. Aktierna i japanska Softbank sticker i väg upp med över 10 procent på aktiemarknaden i Asien under onsdagen. Den muntra börsutvecklingen i regionen kommer sedan aktiemarknaden i USA på tisdagen avslutat på rekordnivåer. Tekniktunga […]",
+      "link": "https://www.dagensps.se/bors-finans/borsen-rekordhandel-i-usa-och-ai-eufori-i-asien/",
+      "guid": "https://www.dagensps.se/?p=1661451",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/nykospiidag.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785905874000
+    },
+    {
+      "title": "EU blir världens AI-polis: med bara 35 personer på jobbet",
+      "description": "Nu kan EU-kommissionen för första gången utreda, kräva åtgärder av och bötfälla utvecklare av kraftfulla AI-modeller som ChatGPT och Claude. Det gör Bryssel till världens mest inflytelserika AI-regulator. Men myndigheten som ska sköta jobbet är kraftigt underbemannad, och står nu i skottlinjen mellan Washington och en bransch som utvecklas snabbare än lagstiftningen hinner med. Den […]",
+      "link": "https://www.dagensps.se/foretag/digitalisering-ai/eu-blir-varldens-ai-polis-med-bara-35-personer-pa-jobbet/",
+      "guid": "https://www.dagensps.se/?p=1661450",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/eu-ai-google.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785905728000
+    },
+    {
+      "title": "Lottovinst på elva miljoner räddades ur sopbil",
+      "description": "En kvinna i södra Italien vann en miljon euro, cirka elva miljoner kronor, på lotto. Kupongen hamnade i en sopbil men kunde mirakulöst räddas av en sophämtningsfirma.",
+      "link": "https://www.expressen.se/nyheter/varlden/lottovinst-pa-elva-miljoner-raddades-ur-sopbil/",
+      "guid": "https://www.expressen.se/nyheter/varlden/lottovinst-pa-elva-miljoner-raddades-ur-sopbil/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785904998000
+    },
+    {
+      "title": "AI håller på att ersätta smartphone-appar i Kina",
+      "description": "Kinesiska smarttelefontillverkare har hittills varit efterföljare på den globala marknaden och anammat de koncept och paradigmer som Apple och Google har etablerat under de senaste 20 åren. Men AI kan ge kineserna en möjlighet att bryta sig loss och staka ut sin egen väg framåt. Mer specifikt integrerar kinesiska företag AI i större utsträckning i sina smartphones och använder även AI för begränsad robotik i telefonerna. Det kinesiska företaget ZTE visade nyligen upp sin Nubia NaviX Ultra. Telefonen kör Bytedances AI-agent Doubao, som användarna kan komma åt med röstkommandon eller genom att trycka på en knapp på telefonen. Telefonen har varken någon startskärm eller någon traditionell appbutik. Ett annat kinesiskt företag, Step Fun – som grundades 2023 av Jiang Daxin, tidigare vice vd och chefsforskare vid Microsofts Software Technology Center Asia – säljer en telefon som heter StepX Neo. Den kör ett eget operativsystem som heter Step AOS, baserat på Android, Linux och ett RTOS som innehåller en inbyggd AI-agent vid namn Step Amoo. StepX Neo delar upp telefonfunktionerna i fyra grundläggande delar (kommunikation, appar, filer, systemverktyg) som agenten kombinerar på nytt utifrån användarens angivna mål. Honor , en mobiltillverkare som knoppats av från Huawei, har en AI-agent som företaget utvecklat i samarbete med Alibaba och som kallas Yoyo Intelligent Agent. Den levereras med på hela Honors sortiment av enheter som är kompatibla med Magic OS 10. Observera: ett amerikanskt företag möjliggör detta. Alla tre telefonerna använder Anthropics Model Context Protocol (MCP) för att ge agenterna åtkomst på systemnivå. Ingen av dessa telefoner kommer att bli tillgänglig i USA. ZTE är förbjudet i USA av FCC på grund av nationella säkerhetshänsyn, medan Step Fun- och Honor-telefonerna är tillverkade för den kinesiska marknaden och ingen amerikansk version är planerad. Alla moderna smartphones kan köra AI. Genom att helt enkelt besöka Apple App Store eller Google Play Store kan vem som helst ladda ner dussintals AI-appar, inklusive de som erbjuds av de ledande modellföretagen. Eller så kan man använda de AI-tjänster och verktyg som Apple och Google har byggt in i sina telefoner. Hur agentbaserade AI-telefoner skiljer sig åt Det som skiljer de nya agentbaserade AI-telefonerna i Kina är att operativsystemet i sig har ett agentbaserat AI-lager som gör att det kan fungera tvärs över appar och istället för appar. Även om agentbaserade AI-telefoner utgör en minoritet på den nuvarande marknaden känns de som framtiden. Och den framtiden är betydelsefull. För det första är det ytterligare ett steg mot oberoende från Android. Googles tjänstelager har redan försvunnit från Kina. Nu ersätts Android-applagret av vertikalt integrerade agentstaplar som ägs av kinesiska superapp-företag. Trots att Apple och Google i viss utsträckning bygger in agentbaserade funktioner som överskrider appgränserna är det osannolikt att de inom en snar framtid kommer att tillåta att tredjepartsagenter ersätter applagret i deras mobila operativsystem. Apple tar 15-30 procent av appintäkterna. Och (enligt en uppskattning som presenterades under rättsprocessen Epic mot Apple/Google men som inte bekräftats av Google) har Play Store historiskt sett stått för någonstans mellan 17 och 26 procent av Googles rörelseintäkter. Hela den ekonomiska logiken bakom IOS och Android bygger på appar. Ett agentlager som bryter ner dessa appar till uppgifter är inget som något av företagen vill ens tänka på. De kinesiska tillverkarna kan spränga appmodellen eftersom de inte hade något att vinna på den. Samtidigt kväver AI-trenden köp inuti mobilappar, vilka minskade med ungefär 40 procent i början av 2026, även om människor betalar mer för dessa köp jämfört med för några år sedan (eftersom de domineras av prenumerationer på AI- och vibekodade appar). Med andra ord sker det även inom appbutikerna en övergång från den gamla appmodellen till AI-ersättare . AI förändrar inte bara mjukvarumodellen, utan även hårdvarumodellen. Robotmobiler Ett annat tydligt sätt på vilket Kina avviker från det globala smartphonekonceptet är den framväxande marknaden för robottelefoner. En robottelefon är en telefon som använder AI för att styra fysiska robotkomponenter på en faktisk telefon. Den ledande aktören inom detta område är en enhet som kallas Honor Robot Phone, som jag skrev om i mars . En läckt unboxing-video av Honor Robot Phone dök upp denna vecka på det kinesiska sociala nätverket Weibo. Robotelementet är en gimbal med en 200-megapixelkamera monterad på den. En grundläggande användning är att telefonen kan förbli stillastående medan den står uppställd på ett bord eller är fastklämd på ett stativ, samtidigt som kameran spårar ett rörligt motiv med hjälp av AI. En annan användning är att gå medan man använder den och låta gimbalen jämna ut skakningar och rörelser. Programvaran i telefonen möjliggör även automatiserade filmiska specialeffekter. Men det verkliga genombrottet ligger i telefonens ”självuttryck”. Honor Robot Phone uppvisar subtila funktioner inom ”Attachment Economy ”. Den skakar på ”huvudet” för att säga nej och nickar för att säga ja. Och den kan göra en ”bakåtvolt” för att ”muntra upp dig”. Telefonen får en personlighet. Honor planerar att lansera telefonen den 12 augusti i Kina. Så kallade ”robotmobiler” är fortfarande mer sällsynta i Kina än agentiska AI-mobiler. Ändå representerar Honor Robot Phone ännu ett kinesiskt avsteg från Silicon Valleys modell för smartphonemjukvara med en statisk glasskärm. Honor Robot Phone har en kropp. Den känns också som framtiden, eftersom den är en av de sällsynta produkterna i den framväxande ”Attachment Economy”, där människoliknande egenskaper (i detta fall gester och kroppsspråk) används för att göra konsumenten mer ”fäst” vid enheter som verkar ha tankar och känslor. AI-framtiden för telefoner I takt med att den kinesiska smartphonemarknaden skiljer sig från den amerikanska erbjuder den ett alternativ för världen. För om de agentbaserade AI-telefonerna lyckas i Kina kommer de nästan säkert att erbjudas internationellt. Det innebär inte bara försäljning av hårdvara, utan också en ökad spridning av kinesiska superappar, kinesiska finansiella tjänster och kinesisk AI-baserad information (och i och med det kan vi förvänta oss den kinesiska regeringens världsbild). Den enda frågan är: Kommer världen att föredra den kinesiska agentbaserade AI-modellen eller den amerikanska AI-appmodellen? Komplexiteten ökar ytterligare av den kommande vågen av bärbara AI-enheter, varav de flesta sannolikt kommer att vara trådlöst ”kopplade” till smartphones som tillhandahåller intelligens och uppkoppling. Snart kommer vi att konversera med våra glasögon och klockor. Våra glasögon och klockor kommer att ”konversera” med våra telefoner. Och våra telefoner kommer att konversera med AI-modeller som speglar sina skapares värderingar, övertygelser och fördomar. Den kinesiska agentbaserade AI-rörelsen representerar ett vägskäl i hur telefoner fungerar och hur människor världen över interagerar med information, teknik och varandra.",
+      "link": "https://computersweden.se/article/4204831/hur-ai-haller-pa-att-ersatta-smartphone-appar-i-kina.html",
+      "guid": "https://computersweden.se/article/4204831/hur-ai-haller-pa-att-ersatta-smartphone-appar-i-kina.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/08/4204831-0-99672100-1785904274-cio_cw_binary_map_of_china_by_guirong_hao__gettyimages-840021494_2400x1600-100815763-orig.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1785904200000
+    },
+    {
+      "title": "SpaceX slog förväntningarna i första rapporten, aktien rasade ändå",
+      "description": "SpaceX lämnade på tisdagen sin första kvartalsrapport som börsnoterat bolag, bara två månader efter historiens största börsintroduktion. Intäkterna slog förväntningarna med bred marginal, men aktien föll ändå kraftigt. Orsaken var investerares oro inför hur mycket bolaget lägger på sin AI-satsning. SpaceX redovisade en omsättning på 7,8 miljarder dollar för andra kvartalet, en ökning med 92 […]",
+      "link": "https://www.dagensps.se/bors-finans/spacex-slog-forvantningarna-i-forsta-rapporten-aktien-rasade-anda/",
+      "guid": "https://www.dagensps.se/?p=1661445",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/spacex.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785903778000
+    },
+    {
+      "title": "Nackas sommarplåga – högljudda nattfester",
+      "description": "Nackapolisen summerar sommarens insatser – bostadsinbrott, bedrägerier och rejvfester",
+      "link": "https://www.mitti.se/nyheter/nackas-sommarplaga--hogljudda-nattfester-6.3.378298.d5eab2a9bc",
+      "guid": "https://www.mitti.se/nyheter/nackas-sommarplaga--hogljudda-nattfester-6.3.378298.d5eab2a9bc",
+      "image": "https://www.mitti.se/image-3.354874.301423.20260805043036.86a9813833?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785902400000
+    },
+    {
+      "title": "Då är sista chansen att åka veterantåg i sommar",
+      "description": "Veterantåg i Stockholm – då kan du åka på Roslagsbanan",
+      "link": "https://www.mitti.se/nyheter/da-ar-sista-chansen-att-aka-veterantag-i-sommar-6.3.378410.3bed71e0ae",
+      "guid": "https://www.mitti.se/nyheter/da-ar-sista-chansen-att-aka-veterantag-i-sommar-6.3.378410.3bed71e0ae",
+      "image": "https://www.mitti.se/image-3.253588.301621.20260805043036.1.2cf9752a3e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785902400000
+    },
+    {
+      "title": "Storbrand i Laholm – en gripen",
+      "description": "Vittnet: ”Kastade på mig kläderna”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4252b05a-5a4b-4c19-bcde-968fd08f5fdb",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4252b05a-5a4b-4c19-bcde-968fd08f5fdb",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785902391000
+    },
+    {
+      "title": "Kratta löv eller riskera sänkt bidrag – pliktjobben för bidragstagare i Tyskland har startat",
+      "description": "Tyskland har gått från debatt till att agera: pliktjobben för den som får grundförsörjning är igång sedan 1 juli. Förespråkarna menar att personer som kan arbeta bör bidra till samhället och samtidigt få struktur i vardagen. Den svenska regeringen vill att vi kommer på fötter och jobbar, och därmed inte är lika beroende av statligt […]",
+      "link": "https://www.dagensps.se/varlden/kratta-lov-eller-riskera-sankt-bidrag-pliktjobben-for-bidragstagare-i-tyskland-har-startat/",
+      "guid": "https://www.dagensps.se/?p=1661435",
+      "image": "https://images.dagensps.se/app/uploads/2024/09/sdl2Mmm3UPM-bA.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785901027000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103090?origin=rss",
+      "guid": "https://yle.fi/a/7-10103090",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785901007000
+    },
+    {
+      "title": "Video visar hur drönare jagar en grönsakshandlare i Ukraina",
+      "description": "Natten till onsdagen attackerade Ryssland dessutom Ukrainas huvudstad Kiev och ett tjugovåningshus började brinna.",
+      "link": "https://yle.fi/a/7-10103089?origin=rss",
+      "guid": "https://yle.fi/a/7-10103089",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785900618000
+    },
+    {
+      "title": "Kan din robotgräsklippare påverkas av gps-störningar? Vi frågade experten",
+      "description": "Sjöfart och flyg drabbas allt oftare av gps-störningar. Vi frågade cybersäkerhetsexperten Ben Ottoman om din robotgräsklippare också ligger i riskzonen.",
+      "link": "https://yle.fi/a/7-10102913?origin=rss",
+      "guid": "https://yle.fi/a/7-10102913",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785899422000
+    },
+    {
+      "title": "Valkmusa nationalpark känns som en annan planet med sina 40 myrtyper",
+      "description": "Naturen kring vandringsleden Simonsaari i Valkmusa nationalpark får det att kännas som att man är utomlands.",
+      "link": "https://yle.fi/a/7-10100015?origin=rss",
+      "guid": "https://yle.fi/a/7-10100015",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785899294000
+    },
+    {
+      "title": "Sommaren på akuten: Turister syns tydligt men antalet elsparkcykelolyckor är oförändrade",
+      "description": "Sommarens svala väder gav lugnare läge på akuten vid Vasa centralsjukhus. Färre patienter fastnade i köerna och bemanningen fungerade bra, berättar personalen.",
+      "link": "https://yle.fi/a/7-10102816?origin=rss",
+      "guid": "https://yle.fi/a/7-10102816",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785898773000
+    },
+    {
+      "title": "Forcit säljer sjöminor för hundratals miljoner – men när, var och hur får minorna användas?",
+      "description": "Affären speglar det förändrade världsläget och Nato kan påverka Finlands användning av sjöminor. Det menar Henrik Ringbom, professor i havsjuridik.",
+      "link": "https://yle.fi/a/7-10101953?origin=rss",
+      "guid": "https://yle.fi/a/7-10101953",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785898161000
+    },
+    {
+      "title": "Efter dödliga båtolyckan vid Tjörn: Små båtar behöver inte alltid väja",
+      "description": "Små fritidsbåtar måste inte alltid väja för handelsfartyg. Men navigationsexperten Magnus Winberg ger ändå en skarp varning: Håll er borta från handelsfarleder.",
+      "link": "https://yle.fi/a/7-10103027?origin=rss",
+      "guid": "https://yle.fi/a/7-10103027",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785897929000
+    },
+    {
+      "title": "Handeln med sommarstugor omsatte mer pengar än i fjol",
+      "description": "Totalt handlades sommarstugor för närmare 230 miljoner euro.",
+      "link": "https://yle.fi/a/7-10103091?origin=rss",
+      "guid": "https://yle.fi/a/7-10103091",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1785897926000
+    },
+    {
+      "title": "Ny upptäckt: Diabetesmedicin påverkar hjärnan – reglerar blodsockret",
+      "description": "Metformin, som har använts för behandling av typ 2-diabetes i över 60 år, verkar inte bara påverka levern och tarmen – utan också hjärnan. Den nya upptäckten kan förändra synen på hur diabetes behandlas i framtiden. I takt med att det genomsnittliga globala midjemåttet växer påverkar det också världsekonomin. Diabetes påverkar vardagen för hundratals miljoner […]",
+      "link": "https://www.dagensps.se/halsa/ny-upptackt-diabetesmedicin-paverkar-hjarnan-reglerar-blodsockret/",
+      "guid": "https://www.dagensps.se/?p=1661431",
+      "image": "https://images.dagensps.se/app/uploads/2026/02/openai-slapper-microsoft-tecknar-miljard-6-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785895525000
     },
     {
       "title": "Stinkbomb i semesterparadis",
@@ -21,7 +291,27 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785891236000
+      "timestamp": 1785895054000
+    },
+    {
+      "title": "Nudistrestaurang öppnar – dyrare för män att äta",
+      "description": "Äta naken på restaurang? Absolut. En restaurang i Florida gör detta möjligt – med en twist.",
+      "link": "https://www.expressen.se/nyheter/varlden/nudistrestaurang-oppnar-dyrare-for-man-att-ata/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nudistrestaurang-oppnar-dyrare-for-man-att-ata/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785895032000
+    },
+    {
+      "title": "Slår tillbaka – efter krissiffrorna: ”Vi borde hata er mer”",
+      "description": "USA har använt upp nästan 80 procent av sina luftvärnsrobotar, enligt CNN. En lögn, menar försvarsminister Pete Hegseth. ”Vi borde hata fejkmedierna ännu mer”, skriver han på X .",
+      "link": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
+      "guid": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785891996000
     },
     {
       "title": "Beväpnad man gripen vid Trumps golfbana",
@@ -114,16 +404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785877200000
     },
     {
-      "title": "Grönsakssäljare jagad – av rysk drönare",
-      "description": "Zelenskyj: ”Njuter av att döda”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785874695000
-    },
-    {
       "title": "Kontroversiella våldsfilmen får uppföljare",
       "description": "Våldsfilmen Citizen Vigilante har både kritiserats och hyllats. Nu får lågbudgetfilmen en uppföljare.",
       "link": "https://www.expressen.se/nyheter/kontroversiella-valdsfilmen-far-uppfoljare/",
@@ -214,16 +494,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785869871000
     },
     {
-      "title": "Svensk kvinna gripen i Thailand – för bedrägeri",
-      "description": "En svensk kvinna har gripits i thailändska Phuket. Hon misstänks för ett mångmiljonbedrägeri, rapporterar Thai Examiner.",
-      "link": "https://www.expressen.se/nyheter/varlden/svensk-kvinna-gripen-i-thailand-for-bedrageri/",
-      "guid": "https://www.expressen.se/nyheter/varlden/svensk-kvinna-gripen-i-thailand-for-bedrageri/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785869115000
-    },
-    {
       "title": "En titt på hur Disney bygger sina nöjesfält",
       "description": "I den nya dokumentären Disney Worldbuilders Disney släpper snart en ny dokumentär som kanske kan vara intressant för dem som besökt något av Disneys nöjesfält eller bara har ett allmänt intresse av hur attraktionerna på dessa byggs upp. I dokumentären Disney Worldbuilders tar filmmakarna oss med bakom kulisserna och visar hur filmer som till exempel Frozen och Zootopia blev attraktioner på Disneys nöjesfält. Bland kända filmmakare och Disney-profiler som medverkar i dokumentären finns James Cameron, Jon Favreau, Dave Filoni, Kevin Feige och Bob Iger. Disney Worldbuilders börjar visas den 20 augusti. Trailer för dokumentären hittas nedan. L&auml;s vidare och kommentera: https://feber.se/film/en-titt-pa-hur-disney-bygger-sina-nojesfalt/494709/ L&auml;s mer om James Cameron , Disney Worldbuilders , Frozen , Zootopia , Jon Favreau , nöjesfält , dokumentär",
       "link": "https://feber.se/film/en-titt-pa-hur-disney-bygger-sina-nojesfalt/494709/?utm_source=rss&utm_medium=feed",
@@ -234,26 +504,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785868200000
     },
     {
-      "title": "Polisinsats i Stockholms skärgård",
-      "description": "En stor polisinsats pågår i Stockholms skärgård. En kvinna i 50-årsåldern har hittats död. Nu utreder polisen mord. Enligt TV4:s uppgifter hittades kvinnan med knivskador.",
-      "link": "https://www.expressen.se/nyheter/sverige/polisinsats-i-stockholms-skargard/",
-      "guid": "https://www.expressen.se/nyheter/sverige/polisinsats-i-stockholms-skargard/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785868055000
-    },
-    {
-      "title": "Hollywood har gått in i AI-eran – används allt mer i filmskapande",
-      "description": "Protesterna biter inte på filmbranschen. AI har blivit ett vanligt verktyg i Hollywood, och det används till en rad olika saker. AI har haft svårt att vinna offentligt gehör i filmbranschen och möter motstånd från många regissörer, skådespelare och andra kreatörer. Ändå står det klart att artificiell intelligens används i allt större utsträckning inom filmindustrin. […]",
-      "link": "https://www.dagensps.se/weekend/noje-underhallning/hollywood-har-gatt-in-i-ai-eran-anvands-allt-mer-i-filmskapande/",
-      "guid": "https://www.dagensps.se/?p=1661415",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdljvewq6mewu8-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785867300000
-    },
-    {
       "title": "Boende efter explosionen i Vasa: ”Definitivt inte normalt”",
       "description": "Explosionen i Korsnäståget i Vasa har chockat boende i området.",
       "link": "https://yle.fi/a/7-10103072?origin=rss",
@@ -262,26 +512,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785866287000
-    },
-    {
-      "title": "Stormen tog Anna-Cecilias lada: ”Helt plockepinn”",
-      "description": "En kraftig storm svepte förbi familjen Dufflins hem. Efteråt stod barnens plastleksaker orörda kvar på gården. Men ladan hade rasat. – Vi blev väldigt chockade, den är helt plockepinn, säger Anna-Cecilia Dufflin.",
-      "link": "https://www.expressen.se/nyheter/sverige/stormen-tog-anna-cecilias--lada-helt-plockepinn-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/stormen-tog-anna-cecilias--lada-helt-plockepinn-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785865458000
-    },
-    {
-      "title": "USA:s kris: ”Bortglömd svensk ekonom har förklaringen”",
-      "description": "Kan en bortglömd svensk ekonom förklara USA:s ekonomiska läge? Ja, säger forskare och centralbanker. Knut Wicksell är namnet. Det råkar vara exakt 100 år sedan Knut Wicksell dog. Han är ett namn som i nutida svensk debatt samlar damm. Det borde det inte göra. Knut Wicksell är Sveriges främste nationalekonom genom tiderna med stort internationellt […]",
-      "link": "https://www.dagensps.se/bors-finans/usas-kris-bortglomd-svensk-ekonom-har-forklaringen/",
-      "guid": "https://www.dagensps.se/?p=1661406",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlsd4p-3av6hy-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785865229000
     },
     {
       "title": "Jordaniens fotbollschef anklagar Fifa för utpressning",
@@ -354,26 +584,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785862571000
     },
     {
-      "title": "Bezos cashar in på Amazons rusning – säljer för 40 miljarder",
-      "description": "En stark börsrusning för Amazon innebär rejält klirr i kassan för Jeff Bezos. Han har nämligen bestämt sig för att sälja en del av sitt innehav. Amazongrundaren Jeff Bezos har lämnat in en anmälan om att sälja 15 miljoner aktier i e-handelsjätten, motsvarande ett värde på nästan 40 miljarder kronor. Beskedet kommer kort efter att […]",
-      "link": "https://www.dagensps.se/bors-finans/aktier/bezos-cashar-in-pa-amazons-rusning-saljer-for-40-miljarder/",
-      "guid": "https://www.dagensps.se/?p=1661403",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlo1zieetd3uu-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785862348000
-    },
-    {
-      "title": "Putins nya vapen: Billigt för Ryssland – dyrt för Ukraina",
-      "description": "Billig, snabb och lätt. Rysslands nya robot slår hårt mot Ukrainas hamnar. – Det är en mycket farlig sak, säger den ukrainske presidentens kommissionär Vladyslav Vlasyuk, enligt Bloomberg .",
-      "link": "https://www.expressen.se/nyheter/varlden/putins-nya-vapen-billigt-for-ryssland--dyrt-for-ukraina/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-nya-vapen-billigt-for-ryssland--dyrt-for-ukraina/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785861472000
-    },
-    {
       "title": "Jimi Hendrix Framed Print",
       "description": "",
       "link": "https://uncrate.com/jimi-hendrix-framed-print/",
@@ -394,16 +604,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785861000000
     },
     {
-      "title": "Ukraina i nya attacker mot ”Rysslands Amazon”",
-      "description": "Ukraina har nu attackerat totalt fem anläggningar som tillhör e-handlaren Wildberries, ofta kallat ”Rysslands Amazon”. Två lager tillhörande Wildberries träffades vid ukrainska anfall och ytterligare en anläggning med kopplingar till Wildberries nära Moskva träffades. Ukraina har under de senaste veckorna inriktat sig på anläggningar som drivs av e-handelsföretaget. Wildberries är Rysslands största e-handelsföretag, ofta kallat […]",
-      "link": "https://www.dagensps.se/varlden/ukraina-i-nya-attacker-mot-rysslands-amazon/",
-      "guid": "https://www.dagensps.se/?p=1661389",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlngrogw2di-g-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785860884000
-    },
-    {
       "title": "HTV: Bakom kulisserna | Anderlecht",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-bakom-kulisserna-or-anderlecht",
@@ -412,36 +612,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785860875000
-    },
-    {
-      "title": "Stor insats i skärgården",
-      "description": "Kvinna hittad med skärskador, uppger TV4",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a448dca-cca3-4aed-976a-6f9f2de9f624",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a448dca-cca3-4aed-976a-6f9f2de9f624",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785860787000
-    },
-    {
-      "title": "Lisa 39, har sett Håkan Hellström 100 gånger",
-      "description": "Det finns fans – och så finns Lisa Jansdotter, 39. Nu har hon sett Håkan Hellström 100 gånger – och jubileet slutade med en hyllning från scenen.",
-      "link": "https://www.expressen.se/nyheter/sverige/lisa-39-har-sett-hakan-hellstrom-100-ganger/",
-      "guid": "https://www.expressen.se/nyheter/sverige/lisa-39-har-sett-hakan-hellstrom-100-ganger/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785860229000
-    },
-    {
-      "title": "Polis använder ny spray för att stoppa brott på elsparkcykel",
-      "description": "Den brittiska polisen märkte att elsparkcyklar ofta användes vid brott. Därför har de tagit fram en ny spray. Polisstyrkor runt om i Storbritannien har börjat använda en ny märkningsteknik i arbetet mot brott där elcyklar, elsparkcyklar och motorcyklar används. Syftet är att minska behovet av riskfyllda jakter och samtidigt stärka möjligheterna att identifiera misstänkta i […]",
-      "link": "https://www.dagensps.se/varlden/polis-anvander-ny-spray-for-att-stoppa-brott-pa-elsparkcykel/",
-      "guid": "https://www.dagensps.se/?p=1661386",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlx3bnczcehne-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785859972000
     },
     {
       "title": "Att sladda med 900 hästkrafter är driftingföraren Kim Björklunds passion",
@@ -484,16 +654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785859200000
     },
     {
-      "title": "Välj rätt AI-modell – annars kan det bli dyrt",
-      "description": "Många tror att de mest tekniskt avancerade modellerna bör användas för alla arbetsuppgifter. Men så är det inte alls, menar experter. Företag bör använda de mest avancerade AI-modellerna mer som strategiska rådgivare än som verktyg för vardagliga arbetsuppgifter. Det är budskapet från flera AI-konsulter i takt med att företag försöker få bättre avkastning på sina […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/valj-ratt-ai-modell-annars-kan-det-bli-dyrt/",
-      "guid": "https://www.dagensps.se/?p=1661370",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-pavel-danilyuk-7654133.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785857935000
-    },
-    {
       "title": "Spelen som spelas mest på konsol",
       "description": "Inte helt oväntat kanske? En färsk analys visar att spel som Fortnite, Call of Duty och årliga sportspel fortfarande är de som lockar den stora massan på både PlayStation och Xbox. Enligt analysen är listorna för de två stora konsolplattformarna nästintill identiska. Längst upp hittar vi föga förvånande Fortnite, följt av Roblox, Call of Duty och GTA 5. Tydligen är det ytterst sällan som helt nya spel lyckas slå sig in på topp 20 och det enda nya spelet som lyckades med bedriften på Xbox var skräckspelet Shift at Midnight. På Steam ser det dock annorlunda ut; där hittar man betydligt fler indiespel som Meccha Chameleon och Slay the Spire 2 tillsammans med Valve-spelet Deadlock. Så folk vill ha trygga och välbekanta storspel på konsol helt enkelt. L&auml;s vidare och kommentera: https://feber.se/spel/spelen-som-spelas-mest-pa-konsol/494712/ L&auml;s mer om Fortnite , Call of Duty , PlayStation , Xbox , Steam , GTA 5 , Roblox",
       "link": "https://feber.se/spel/spelen-som-spelas-mest-pa-konsol/494712/?utm_source=rss&utm_medium=feed",
@@ -512,26 +672,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785857325000
-    },
-    {
-      "title": "Klart nu: Satsar 28 miljarder på att bygga ut flygplatsen",
-      "description": "Nu har domstolen gett grönt ljus. Utbyggnaden av Gatwick är klubbad efter att en domstol avvisat ett överklagande. Londons flygplats Heathrow är Europas största. Storbritanniens näst största flygplats är Gatwick, 45 kilometer söder om centrala London. Samtidigt är Gatwick känd för att vara en av världens mest trafikerade flygplatser med endast en aktiv landningsbana. Det […]",
-      "link": "https://www.dagensps.se/varlden/klart-nu-satsar-28-miljarder-pa-att-bygga-ut-flygplatsen/",
-      "guid": "https://www.dagensps.se/?p=1661371",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlnm2ch-li1rm-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785857073000
-    },
-    {
-      "title": "Uppgifter: USA har använt ”nästan alla” missiler",
-      "description": "USA har förbrukat i princip hela sitt lager av arméns mest avancerade långdistansrobotar under det fem månader långa kriget mot Iran. Nu varnar experter för att bristen på robotar som Patriot och ATACMS kan drabba Ukraina direkt, och även Nato. Samtidigt som frågan om USA:s beredskap mot Kina och Ryssland blir alltmer akut. USA har […]",
-      "link": "https://www.dagensps.se/varlden/uppgifter-usa-har-anvant-nastan-alla-missiler/",
-      "guid": "https://www.dagensps.se/?p=1661366",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/patriotmissil.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785856636000
     },
     {
       "title": "Motion: Sjundeå måste bli bättre på att ta med lokala företag i välfärdsarbetet",
@@ -604,16 +744,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785855300000
     },
     {
-      "title": "Palantir: ”Inget bolag har vuxit ens hälften så snabbt”",
-      "description": "Palantir lyfter 27 procent på börsen efter en succérapport. Vd Alex Karp beskriver utvecklingen som ”utomjordisk”. Mjukvaru-, data- och AI-bolaget Palantir ökade omsättningen med 93 procent till 1,94 miljarder dollar under det andra kvartalet, medan intäkterna från den kommersiella verksamheten steg med hela 149 procent. Bolaget stiger 27 procent på tisdagen, vid 16.45 svensk tid. […]",
-      "link": "https://www.dagensps.se/bors-finans/palantir-inget-bolag-har-vuxit-ens-halften-sa-snabbt/",
-      "guid": "https://www.dagensps.se/?p=1661367",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/alexkarp.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785854779000
-    },
-    {
       "title": "Nu ändras reglerna för att övningsköra",
       "description": "Från 1 augusti blir privat övningskörning billigare när introduktionsutbildningen tas bort. Körskolor varnar samtidigt för sämre trafiksäkerhet och fler olyckor.",
       "link": "https://www.mitti.se/nyheter/nu-andras-reglerna-for-att-ovningskora-6.3.369984.fb47f30995",
@@ -674,26 +804,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785851476000
     },
     {
-      "title": "Kvinna drunknade i Åbo",
-      "description": "Kvinnans liv gick inte att rädda trots återupplivningsförsök.",
-      "link": "https://yle.fi/a/7-10103084?origin=rss",
-      "guid": "https://yle.fi/a/7-10103084",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785851353000
-    },
-    {
-      "title": "En allvarligt skadad efter olycka på olaglig mopedträff i Seinäjoki",
-      "description": "En minderårig mc-förare körde på bakhjulet och krockade med en mopedist i lördags.",
-      "link": "https://yle.fi/a/7-10103083?origin=rss",
-      "guid": "https://yle.fi/a/7-10103083",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785851230000
-    },
-    {
       "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
       "description": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
@@ -724,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785849767000
     },
     {
-      "title": "Robotarna använder hissen på Åbo huvudbibliotek – du får vänta",
-      "description": "Tre robotar sköter nu boktransporter på Åbo huvudbibliotek. Biblioteksrobotarna ersätter boktransportbandet och delvis också personalens bokvagnar.",
-      "link": "https://yle.fi/a/7-10103051?origin=rss",
-      "guid": "https://yle.fi/a/7-10103051",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785849705000
-    },
-    {
       "title": "518-million-year-old creature reveals the origins of spider fangs",
       "description": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
@@ -754,36 +854,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785849439000
     },
     {
-      "title": "Finansminister Riikka Purra budgeterar för ränteutgifter på över 4 miljarder 2027",
-      "description": "Finansministern har presenterat sitt förslag till statsbudget. Det går 12,9 miljarder på minus.",
-      "link": "https://yle.fi/a/7-10103080?origin=rss",
-      "guid": "https://yle.fi/a/7-10103080",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785849314000
-    },
-    {
-      "title": "Finland kan snart vara först i världen att slutförvara använt kärnbränsle",
-      "description": "Strålsäkerhetscentralen tillåter slutförvaring för använt kärnbränsle i Finland. Beslutet beskrivs som historiskt.",
-      "link": "https://yle.fi/a/7-10103002?origin=rss",
-      "guid": "https://yle.fi/a/7-10103002",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785849088000
-    },
-    {
-      "title": "Filmskaparen Klaus Härö får årets Espoo Ciné-pris",
-      "description": "Regissören Klaus Härö får pris för att främja den inhemska filmkulturen mot en mångfaldig europeiskhet.",
-      "link": "https://yle.fi/a/7-10103073?origin=rss",
-      "guid": "https://yle.fi/a/7-10103073",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785848687000
-    },
-    {
       "title": "This hydrogen turbine turns controlled explosions into electricity",
       "description": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically more efficient power systems for clean energy and future aviation.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
@@ -802,36 +872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1785848400000
-    },
-    {
-      "title": "Inrikesminister Rantanen om gränskrisen i Ceuta: Spanien har alla EU-länders stöd",
-      "description": "EU:s inrikesministrar höll ett möte för att diskutera migrantsituationen i spanska Ceuta. Mari Rantanen säger att Spanien inte utesluts ur Schengen.",
-      "link": "https://yle.fi/a/7-10103045?origin=rss",
-      "guid": "https://yle.fi/a/7-10103045",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785847866000
-    },
-    {
-      "title": "Sepp Blatter vill se Lise Klaveness som ny chef för Fifa",
-      "description": "Det är dags för en kvinna i ledningen för Fifa, anser den tidigare presidenten Sepp Blatter. Han för nu fram norskan Lise Klaveness som en potentiell efterträdare till Gianni Infantino.",
-      "link": "https://yle.fi/a/7-10103078?origin=rss",
-      "guid": "https://yle.fi/a/7-10103078",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785847469000
-    },
-    {
-      "title": "Snart flyttar elever in i gamla tobaksfabriken i Jakobstad",
-      "description": "Ombyggnationen är klar och klassrummen har pulpeter. Nästa vecka får eleverna i Etelänummi skola flytta in i Strengbergs fastighet i Jakobstad.",
-      "link": "https://yle.fi/a/7-10103077?origin=rss",
-      "guid": "https://yle.fi/a/7-10103077",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1785847339000
     },
     {
       "title": "17-årig pojke döms för handgranatattack – hund dog",
@@ -2662,16 +2702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785413617000
-    },
-    {
-      "title": "USA förbjuder nya robotdammsugare och robotgräsklippare",
-      "description": "Nu står det klart att USA:s importrestriktioner mot utlandsbyggda robotar även omfattar nya modeller av robotdammsugare och robotgräsklippare. Kinesiska företag står i dagsläget bakom en stor majoritet av alla robotdammsugare, däribland Roomba, Roborock, Ecovacs, Dreame, Xiaomi och Narwal. – Det finns väldigt få icke-kinesiska varumärken nuförtiden och deras andel är så liten att den knappt kan mätas, säger IDC-analytikern Jitesh Ubrani i en kommentar till The Verge . Redan godkända modeller får däremot fortsätta säljas och användas, detta trots att de teoretiskt sett också kan utgöra ett ”hot mot den nationella säkerheten”.",
-      "link": "https://computersweden.se/article/4203351/usa-forbjuder-nya-robotdammsugare-och-robotgrasklippare.html",
-      "guid": "https://computersweden.se/article/4203351/usa-forbjuder-nya-robotdammsugare-och-robotgrasklippare.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/07/4203351-0-71024200-1785408440-Roomba-105-Combo-Robot.png",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1785408426000
     },
     {
       "title": "Här är polisens nya Pridetröja – stopp för uniform i paraden",
