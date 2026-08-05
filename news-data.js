@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-04T22:02:47.876Z",
+  "updatedAt": "2026-08-05T01:29:47.291Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Slår tillbaka – efter krissiffrorna: ”Vi borde hata er mer”",
+      "description": "USA har använt upp nästan 80 procent av sina luftvärnsrobotar, enligt CNN. En lögn, menar försvarsminister Pete Hegseth. ”Vi borde hata fejkmedierna ännu mer”, skriver han på X .",
+      "link": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
+      "guid": "https://www.expressen.se/nyheter/varlden/slar-tillbaka-efter-krissiffrorna-vi-borde-hata-er-mer/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785891996000
+    },
+    {
+      "title": "Stinkbomb i semesterparadis",
+      "description": "Presidenten avsätter en miljard kronor",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e76e925-64e9-4d05-828d-22c1766f1d85",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e76e925-64e9-4d05-828d-22c1766f1d85",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785891236000
+    },
+    {
+      "title": "Beväpnad man gripen vid Trumps golfbana",
+      "description": "Flera vapen hittade • Trump besöker klubben i kväll",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=193284eb-30ed-46c2-9e5a-befebdda9927",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=193284eb-30ed-46c2-9e5a-befebdda9927",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785890352000
+    },
+    {
+      "title": "Putins nya taktik – härmar Iran: ”Gör det farligt”",
+      "description": "Ukraina har i sommar attackerat flera ryska fraktfartyg i Svarta havet. Men i augusti har Ryssland svarat – genom att hota en specifik ukrainsk farled. – De behöver inte stänga farleden helt, de behöver bara göra den farlig, säger Sky News analytiker Michael Clarke.",
+      "link": "https://www.expressen.se/nyheter/varlden/putins-nya-taktik-harmar-iran-gor-det-farligt/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-nya-taktik-harmar-iran-gor-det-farligt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785888167000
+    },
+    {
+      "title": "Stort frågetecken kring Astra Zenecas nya sammanslagning – ”ingen som är jättetaggad”",
+      "description": "Det råder fortfarande frågetecken kring läkemedelsjätten Astra Zeneca eventuella sammanslagning med amerikanska konkurrenten Bristol Myers Squibb. Enligt experter ser det inte ut som en bra idé alls. Läkemedelsjätten Astra Zeneca kan som Dagens PS berättat slås samman med amerikanska Bristol Myers Squibb – som då kan bli en av de största affärerna i läkemedelsindustrins historia. […]",
+      "link": "https://www.dagensps.se/foretag/stort-fragetecken-kring-astra-zenecas-nya-sammanslagning-ingen-som-ar-jattetaggad/",
+      "guid": "https://www.dagensps.se/?p=1661428",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlzwsb7x84zag-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1785887286000
+    },
+    {
+      "title": "Tonåring åtalas för pennattack efter städbråk på häktet",
+      "description": "En man på häktet anklagade en medhäktad tonåring för att vara slarvig. Då högg han honom i huvudet med en penna. Nu åtalas tonåringen, skriver SN .",
+      "link": "https://www.expressen.se/nyheter/sverige/tonaring-atalas-for-pennattack-efter-stadbrak-pa-haktet/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tonaring-atalas-for-pennattack-efter-stadbrak-pa-haktet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785883108000
+    },
+    {
+      "title": "Röd varning efter vulkanutbrott",
+      "description": "Röd varning utfärdad",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1785881063000
+    },
+    {
+      "title": "1988 Cizeta-Moroder V16T Prototype",
+      "description": "",
+      "link": "https://uncrate.com/1988-cizeta-moroder-v16t-prototype/",
+      "guid": "https://uncrate.com/1988-cizeta-moroder-v16t-prototype/",
+      "image": "https://uncrate.com/assets_c/2026/08/1988-cizeta-moroder-v16t-prototype-5-thumb-960xauto-192456.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1785880800000
+    },
     {
       "title": "Fartyg sänkt i Röda havet",
       "description": "Huthirörelsen anklagas för attacken",
@@ -34,17 +114,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785877200000
     },
     {
-      "title": "Röd varning efter vulkanutbrott",
-      "description": "Röd varning utfärdad",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/rod-varning-efter-vulkanutbrott",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785877012000
-    },
-    {
-      "title": "Grönssakssäljare jagad – av rysk drönare",
+      "title": "Grönsakssäljare jagad – av rysk drönare",
       "description": "Zelenskyj: ”Njuter av att döda”",
       "link": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
       "guid": "https://www.expressen.se/tv/nyheter/varlden/gronssakssaljare-jagad-av-rysk-dronare",
@@ -374,16 +444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785859972000
     },
     {
-      "title": "USA har slut på robotar",
-      "description": "Flera säkerhetskällor larmar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bcee84bd-ad24-493a-8dae-bcfa488dc19f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bcee84bd-ad24-493a-8dae-bcfa488dc19f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785859788000
-    },
-    {
       "title": "Att sladda med 900 hästkrafter är driftingföraren Kim Björklunds passion",
       "description": "När Kim Björklunds planerade isbilsprojekt spårade ur blev det i stället starten på en karriär inom drifting – motorsportens svar på konståkning.",
       "link": "https://yle.fi/a/7-10099348?origin=rss",
@@ -514,16 +574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785855600000
     },
     {
-      "title": "Första dödsfallen bekräftade efter explosiva diarré-viruset",
-      "description": "Över 17 000 personer misstänks ha smittats av det explosiva diarré-viruset. Men var utbrottet kommer i från har inte gått att slå fast. Nu har de två första dödsfallen bekräftats.",
-      "link": "https://www.expressen.se/nyheter/varlden/forsta-dodsfallen-bekraftade--efter-explosiva-diarre-viruset/",
-      "guid": "https://www.expressen.se/nyheter/varlden/forsta-dodsfallen-bekraftade--efter-explosiva-diarre-viruset/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785855459000
-    },
-    {
       "title": "P-brist på Järvafältet – staden undersöker lösning",
       "description": "Brist på parkeringsplatser vid Järva begravningsplats",
       "link": "https://www.mitti.se/nyheter/pbrist-pa-jarvafaltet--staden-undersoker-losning-6.3.378397.975d97377a",
@@ -562,16 +612,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1785854779000
-    },
-    {
-      "title": "Man död",
-      "description": "Försvann vid bad",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d371bd1-df55-4b57-8a08-dfe312dd2e91",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d371bd1-df55-4b57-8a08-dfe312dd2e91",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785853991000
     },
     {
       "title": "Nu ändras reglerna för att övningsköra",
@@ -624,16 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785852000000
     },
     {
-      "title": "Ryssland ville ha 50 stycken TU-160 bombplan – fick bara två",
-      "description": "När Ryssland 2015 beslutade att återuppta tillverkningen av bombplanet TU-160 talade flygvapnet om att på sikt köpa minst femtio. Nu kan vi konstatera att det inte har gått enligt plan. Kontraktet som följde var det första som inte gick enligt plan. Ordern låg på 10 plan istället för de initiala 50. Det första nybyggda exemplaret […]",
-      "link": "https://www.dagensps.se/varlden/ryssland-ville-ha-50-stycken-tu-160-bombplan-fick-bara-tva/",
-      "guid": "https://www.dagensps.se/?p=1661323",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-5.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1785851556000
-    },
-    {
       "title": "Man häktad efter misstänkta mordbranden på Värmdö",
       "description": "En man i 35-årsåldern har häktats misstänkt för grov mordbrand på Värmdö. Branden i Evlinge föregicks av en explosion, och mannen nekar till brott.",
       "link": "https://www.mitti.se/nyheter/man-haktad-efter-misstankta-mordbranden-pa-varmdo-6.3.378504.140cb4b4c6",
@@ -674,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785850417000
     },
     {
-      "title": "Kvinna död efter frontalkrock",
-      "description": "Frontalkrock med lastbil",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c3fbb28-1c8b-4328-b281-2fdc72cc368e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c3fbb28-1c8b-4328-b281-2fdc72cc368e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785850319000
-    },
-    {
       "title": "Nu kan Fitbit Air synka med Apple Hälsa",
       "description": "För över data från Google Health Den senaste uppdateringen av Google Health-appen för iOS gör det äntligen möjligt att synka data direkt till Apple Hälsa. Appen, som tidigare gick under namnet Fitbit, kan nu föra över mätvärden för träningspass, sömn, puls och steg. Viss specifik data, som pulsvariabilitet (HRV), verkar dock i nuläget inte följa med i överföringen. Tidigare har det bara varit möjligt att synka data åt andra hållet. Funktionen aktiveras enkelt under appens anslutningsinställningar. L&auml;s vidare och kommentera: https://feber.se/mobil/nu-kan-fitbit-air-synka-med-apple-halsa/494707/ L&auml;s mer om Google Health , Fitbit , Pixel Watch , iOS , Apple Hälsa , Smart Health Links , wearables , tvåvägssynkning",
       "link": "https://feber.se/mobil/nu-kan-fitbit-air-synka-med-apple-halsa/494707/?utm_source=rss&utm_medium=feed",
@@ -712,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1785849705000
-    },
-    {
-      "title": "SD:s svar i quislingbråket – kraven på Kristersson",
-      "description": "SD-toppen Richard Jomshofs quisling-påhopp har lett till politiskt storbråk. Själv slår han tillbaka med ett klipp på ett tidigare V-uttalande, Samtidigt uttalar sig nu SD-ledaren Jimmie Åkesson: ” Aldrig har väl ordet krokodiltårar varit mer passande.”",
-      "link": "https://www.expressen.se/nyheter/sverige/kraven-pa-kristersson-efter-quisling-braket-visa-ryggrad/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kraven-pa-kristersson-efter-quisling-braket-visa-ryggrad/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1785849612000
     },
     {
       "title": "518-million-year-old creature reveals the origins of spider fangs",
@@ -1354,16 +1364,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785787228000
     },
     {
-      "title": "Ernest Hemingway Book Set",
-      "description": "",
-      "link": "https://uncrate.com/ernest-hemingway-book-set/",
-      "guid": "https://uncrate.com/ernest-hemingway-book-set/",
-      "image": "https://uncrate.com/assets_c/2026/08/ernest-hemingway-book-set-11-darkened-thumb-960xauto-192429.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785787200000
-    },
-    {
       "title": "Forskare kan ha hittat en förvånande orsak till spridningen av aggressiv cancerform – nu pekar de på en enkel, fördelaktig förändring",
       "description": "Cancerforskare kan ha hittat ett näringsämne som kan spela en nyckelroll för spridningen av en vanlig form av cancerform i kroppen.",
       "link": "https://illvet.se/halsa/forskare-kan-ha-hittat-en-forvanande-orsak-till-spridningen-av-aggressiv-cancerform-nu-pekar-de-pa-en-enkel-fordelaktig-forandring",
@@ -1768,7 +1768,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Gängtoppp gripen i Spanien – misstänkts för flera grova våldsbrott",
       "link": "https://www.mitti.se/nyheter/gangtopp-gripen-i-spanien--misstankt-i-krogskjutning-6.3.378361.56d196cc89",
       "guid": "https://www.mitti.se/nyheter/gangtopp-gripen-i-spanien--misstankt-i-krogskjutning-6.3.378361.56d196cc89",
-      "image": "https://www.mitti.se/image-3.350606.301507.20260804105639.1.f491e518a5?format=jpeg",
+      "image": "https://www.mitti.se/image-3.350606.301507.20260804224938.1.e4f316da74?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785747713000
@@ -2932,136 +2932,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785297600000
-    },
-    {
-      "title": "Känner mig tjock – hur gör jag för att tycka om min kropp?",
-      "description": "Hur gör man för att tycka om sin kropp?",
-      "link": "https://www.mitti.se/nyheter/kanner-mig-tjock--hur-gor-jag-for-att-tycka-om-min-kropp-6.3.371240.eb59214511",
-      "guid": "https://www.mitti.se/nyheter/kanner-mig-tjock--hur-gor-jag-for-att-tycka-om-min-kropp-6.3.371240.eb59214511",
-      "image": "https://www.mitti.se/image-3.374344.297192.20260728182721.1.4ce525e724?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785261420000
-    },
-    {
-      "title": "Efter mordet i Hässelby: \"Man kan nästan ta på sorgen\"",
-      "description": "Bostadsområdet i Hässelby villastad skakas av skjutningen 24 juli då en man sköts till döds i ett bostadsområde i Smedshagen.",
-      "link": "https://www.mitti.se/nyheter/efter-mordet-i-hasselby-man-kan-nastan-ta-pa-sorgen-6.3.377600.74819b3443",
-      "guid": "https://www.mitti.se/nyheter/efter-mordet-i-hasselby-man-kan-nastan-ta-pa-sorgen-6.3.377600.74819b3443",
-      "image": "https://www.mitti.se/image-3.377123.301216.20260730125815.55b9898f20?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785251294000
-    },
-    {
-      "title": "Påfågel har rymt från Skansen – här är den nu",
-      "description": "En påfågel har flytt från Skansen.",
-      "link": "https://www.mitti.se/nyheter/pafagel-har-rymt-fran-skansen--har-ar-den-nu-6.3.377662.287f4148fe",
-      "guid": "https://www.mitti.se/nyheter/pafagel-har-rymt-fran-skansen--har-ar-den-nu-6.3.377662.287f4148fe",
-      "image": "https://www.mitti.se/image-3.377133.301282.20260728150612.079086ba6e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785249306000
-    },
-    {
-      "title": "Man sökte vård för benbrott – fick fel ben gipsat",
-      "description": "En man med fraktur i vänster ben fick sitt friska högra ben gipsat på Danderyds sjukhus. Ivo utreder händelsen och sjukhuset skärper nu rutinerna.",
-      "link": "https://www.mitti.se/nyheter/man-sokte-vard-for-benbrott--fick-fel-ben-gipsat-6.3.377493.5fc6de93d0",
-      "guid": "https://www.mitti.se/nyheter/man-sokte-vard-for-benbrott--fick-fel-ben-gipsat-6.3.377493.5fc6de93d0",
-      "image": "https://www.mitti.se/image-3.374770.301219.20260731091255.261ae77bdf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785243745000
-    },
-    {
-      "title": "SMHI meddelar \"extremt stor\" risk för skogsbränder",
-      "description": "SMHI varnar lokalt om extremt stor risk för skogsbrand.",
-      "link": "https://www.mitti.se/nyheter/smhi-meddelar-extremt-stor-risk-for-skogsbrander-6.3.377604.07bfde34e6",
-      "guid": "https://www.mitti.se/nyheter/smhi-meddelar-extremt-stor-risk-for-skogsbrander-6.3.377604.07bfde34e6",
-      "image": "https://www.mitti.se/image-3.338150.301221.20260728131811.1.0daccef2c1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785242856000
-    },
-    {
-      "title": "Rektorn om ihjälskjutna medarbetaren: \"Chock och sorg\"",
-      "description": "Den man som dog i skjutningen i fredags jobbade på Grimstaskolan i Vällingby.",
-      "link": "https://www.mitti.se/nyheter/rektorn-om-ihjalskjutna-medarbetaren-chock-och-sorg-6.3.377474.0f09d7eff6",
-      "guid": "https://www.mitti.se/nyheter/rektorn-om-ihjalskjutna-medarbetaren-chock-och-sorg-6.3.377474.0f09d7eff6",
-      "image": "https://www.mitti.se/image-3.377124.301215.20260729100425.ea8735d3f1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785239370000
-    },
-    {
-      "title": "Eurovisionvinnaren till Allsång på Skansen i kväll",
-      "description": "Eurovisionvinnaren DARA gästar Allsång på Skansen.",
-      "link": "https://www.mitti.se/nyheter/eurovisionvinnaren-till-allsang-pa-skansen-i-kvall-6.3.377490.4ead81bc21",
-      "guid": "https://www.mitti.se/nyheter/eurovisionvinnaren-till-allsang-pa-skansen-i-kvall-6.3.377490.4ead81bc21",
-      "image": "https://www.mitti.se/image-3.377111.301094.20260728104034.1.e3a7fc01cf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785233403000
-    },
-    {
-      "title": "Tre tonåringar har häktats för mordet i Hässelby",
-      "description": "Tre personer begärs häktade misstänkta för mordet i Hässelby.",
-      "link": "https://www.mitti.se/nyheter/tre-tonaringar-har-haktats-for-mordet-i-hasselby-6.3.377517.44438f6cf8",
-      "guid": "https://www.mitti.se/nyheter/tre-tonaringar-har-haktats-for-mordet-i-hasselby-6.3.377517.44438f6cf8",
-      "image": "https://www.mitti.se/image-3.350606.301124.20260728161625.1.e0a3da3d2f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785228697000
-    },
-    {
-      "title": "Deirdre stötte på en säl vid Ekerö: \"Häftigt!\"",
-      "description": "Det blir vanligare med säl i Mälaren när strömmingen minskar i Östersjön – Ekeröbon såg en säl utanför Gällstaö.",
-      "link": "https://www.mitti.se/nyheter/deirdre-stotte-pa-en-sal-vid-ekero-haftigt-6.3.377379.36d34a417d",
-      "guid": "https://www.mitti.se/nyheter/deirdre-stotte-pa-en-sal-vid-ekero-haftigt-6.3.377379.36d34a417d",
-      "image": "https://www.mitti.se/image-3.377110.301058.20260728132642.9b09ad28b7?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785226545000
-    },
-    {
-      "title": "Skärholmsborna bjuds in till musikfest",
-      "description": "Folk i Skärholmen bjuder in till Folk på Gården – gratis konserter utomhus under augusti 2026.",
-      "link": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
-      "guid": "https://www.mitti.se/nyheter/skarholmsborna-bjuds-in-till-musikfest-6.3.375754.6b2c3ffd6b",
-      "image": "https://www.mitti.se/image-3.292472.300366.20260801201341.500c87a756?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785218520000
-    },
-    {
-      "title": "Skottlossning mot hus i Upplands Väsby – en gripen",
-      "description": "Polisen utreder en skjutning mot ett flerfamiljshus i Upplands Väsby i natt.",
-      "link": "https://www.mitti.se/nyheter/skottlossning-mot-hus-i-upplands-vasby--en-gripen-6.3.377485.08dbf40e69",
-      "guid": "https://www.mitti.se/nyheter/skottlossning-mot-hus-i-upplands-vasby--en-gripen-6.3.377485.08dbf40e69",
-      "image": "https://www.mitti.se/image-3.375463.301089.20260728113655.1.bf18bb769d?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785218054000
-    },
-    {
-      "title": "Misstänkt mordbrand på Värmdö",
-      "description": "Misstänkt morbrand i villa i Evlinge på Värmdö.",
-      "link": "https://www.mitti.se/nyheter/misstankt-mordbrand-pa-varmdo-6.3.377486.00ae50df8b",
-      "guid": "https://www.mitti.se/nyheter/misstankt-mordbrand-pa-varmdo-6.3.377486.00ae50df8b",
-      "image": "https://www.mitti.se/image-3.295261.301088.20260728115402.1.c8e07c3f05?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785217093000
-    },
-    {
-      "title": "Michael vägrar det digitala – handlar bara med kontanter",
-      "description": "Pensionären Mikael i Skärholmen väljer bort kort och appar för att leva helt med kontanter. Nu varnar experten för att livsstilen blir allt svårare i Sveriges kontantlösa samhälle.",
-      "link": "https://www.mitti.se/nyheter/michael-vagrar-det-digitala--handlar-bara-med-kontanter-6.3.376843.9fd089e4bc",
-      "guid": "https://www.mitti.se/nyheter/michael-vagrar-det-digitala--handlar-bara-med-kontanter-6.3.376843.9fd089e4bc",
-      "image": "https://www.mitti.se/image-3.377106.301084.20260730203339.c82e14e696?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785214359000
     }
   ]
 };
