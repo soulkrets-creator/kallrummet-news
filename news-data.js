@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-06T23:48:47.487Z",
+  "updatedAt": "2026-08-07T02:04:25.326Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Dell-sonen ska göra elförsörjningen i hemmet bättre – bygger miljardbolag",
+      "description": "Michael Dells son bygger miljardbolag inom hemmabatterier. Zach Dell ska därmed göra elförsörjningen i hemmet stabilare. Som ung student investerade Michael Dell bara några tusenlappar i det företag som nu gjort honom till en av världens rikaste personer. Drygt 40 år senare är det dags för förändring. I början av året uppgav ledningen att företaget […]",
+      "link": "https://www.dagensps.se/bors-finans/dell-sonen-ska-gora-elforsorjningen-i-hemmet-battre-bygger-miljardbolag/",
+      "guid": "https://www.dagensps.se/?p=1662053",
+      "image": "https://images.dagensps.se/app/uploads/2026/01/sdlwe4hw8DMw7k-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786066606000
+    },
+    {
+      "title": "Storböter för Meta",
+      "description": "Ska betala över nio miljarder kronor",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786064983000
+    },
+    {
+      "title": "Fler Space X-aktier släpps fria – investerare dumpar innehav",
+      "description": "Det handlar om hundratals Space X-aktier som kan säljas av framöver. Det kan leda till en ännu skakigare tid för det börsnoterade bolaget. Space X lämnade på tisdagen sin första kvartalsrapport som börsnoterat bolag, bara två månader efter historiens största börsintroduktion. Aktien föll kraftigt som Dagens PS berättat, sedan investerare oroar sig hur mycket bolaget […]",
+      "link": "https://www.dagensps.se/bors-finans/fler-space-x-aktier-slapps-fria-investerare-dumpar-innehav/",
+      "guid": "https://www.dagensps.se/?p=1662050",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl3re60x-fdvq-normalhires-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786062707000
+    },
+    {
+      "title": "Artist fattade eld på Medeltidsveckan",
+      "description": "Olycka på Medeltidsveckan • Förd till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786062360000
+    },
+    {
+      "title": "Akut vattenläcka",
+      "description": "Hela staden berörs",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c2c2de-9ed6-4437-815f-0ce87be9d260",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c2c2de-9ed6-4437-815f-0ce87be9d260",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786060243000
+    },
     {
       "title": "Hennessey Blackbird Hypercar",
       "description": "",
@@ -32,16 +82,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786053600000
-    },
-    {
-      "title": "Akut vattenläcka",
-      "description": "Hela staden berörs",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c2c2de-9ed6-4437-815f-0ce87be9d260",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8c2c2de-9ed6-4437-815f-0ce87be9d260",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786053439000
     },
     {
       "title": "Nya attacker i Hormuzsundet",
@@ -444,16 +484,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786032942000
     },
     {
-      "title": "6 000 resenärer sitter fast",
-      "description": "Kontaktledning nedriven • Stopp i tågtrafiken",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=edd32d85-7df8-43ed-82b6-49e95da3a31d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=edd32d85-7df8-43ed-82b6-49e95da3a31d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786032335000
-    },
-    {
       "title": "Så här lyckades Sannfinländarna ta väljare från Samlingspartiet och Centern",
       "description": "En politikforskare ser speciellt två områden där Sannfinländarna kört hårt. Sannfinländaren Wille Rydman konstaterar nöjt att hans parti fått sätta agendan.",
       "link": "https://yle.fi/a/7-10103191?origin=rss",
@@ -724,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786023600000
     },
     {
-      "title": "När fartkameror släcks: Det händer med fortkörningen",
-      "description": "Sverige fortsätter att bygga ut med fartkameror – vilket visat sig effektivt på ett väldigt tydligt sätt i Ontario, Kanada där de förbjudits. Fortkörningen exploderade nämligen. Kan fartkameror verkligen få bilister att lätta på gasen? Ja, så är det faktiskt. Det frågan har fått ett ovanligt tydligt svar i den kanadensiska provinsen Ontario. Sedan provinsregeringen […]",
-      "link": "https://www.dagensps.se/motor/nar-fartkameror-slacks-det-hander-med-fortkorningen/",
-      "guid": "https://www.dagensps.se/?p=1661984",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/fartkamera.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786023506000
-    },
-    {
       "title": "Blåbärstartelett med citron och brynt smör",
       "description": "Ett krispigt mördegsskal med mazarinfyllning med brynt smör och citron, toppad med vaniljkräm, färska blåbär, blåbärskräm och krispiga chokladsmulor.",
       "link": "https://alltommat.expressen.se/recept/blabarstartelett-med-citron-och-brynt-smor/",
@@ -752,16 +772,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786023000000
-    },
-    {
-      "title": "EA: Nu tar Saudiarabien över Battlefield och The Sims",
-      "description": "Köpet av Electronic Arts är nu klart. Spelstudion bakom bland annat Battlefield, Dice i Stockholm, styrs därmed av Saudiarabiens statliga investeringsfond, tillsammans med spel såsom The Sims. Konsortiet slutförde köpet den 4 augusti, uppger EA i ett pressmeddelande. Aktieägarna får 210 dollar, motsvarande cirka 1 990 kronor, kontant per aktie. Aktien har slutat handlas och avnoteras […]",
-      "link": "https://www.dagensps.se/bors-finans/aktier/ea-nu-tar-saudiarabien-over-battlefield-och-the-sims/",
-      "guid": "https://www.dagensps.se/?p=1661973",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-12.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786022690000
     },
     {
       "title": "Nu är Dolby Vision 2 här",
