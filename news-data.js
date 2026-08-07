@@ -1,8 +1,238 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-07T02:04:25.326Z",
+  "updatedAt": "2026-08-07T04:46:42.986Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Airbnb rusade 11 procent på börsen, men tuffare EU-regler väntar",
+      "description": "Airbnb slog analytikernas förväntningar rejält i sitt andra kvartal och höjde helårsprognosen, vilket fick aktien att rusa nästan 11 procent. Men bakom de starka siffrorna växer ett regeltryck i Europa som redan kostat bolaget miljonböter i Spanien och stängt marknader som Barcelona helt inom några år. Airbnb redovisade en omsättning på 3,61 miljarder dollar för […]",
+      "link": "https://www.dagensps.se/bors-finans/fastigheter/airbnb-rusade-11-procent-pa-borsen-anda-vantar-tuffare-eu-regler/",
+      "guid": "https://www.dagensps.se/?p=1662077",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/airbnb.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786077351000
+    },
+    {
+      "title": "Artist fattade eld på Medeltidsveckan",
+      "description": "Olycka på Medeltidsveckan",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786077008000
+    },
+    {
+      "title": "Cio:er riskerar att stängas ute från företagens AI-initiativ",
+      "description": "AI-revolutionen har skapat nya möjligheter för it-chefer, med utökat ansvar och större befogenheter, men experter ser att det motsatta sker inom vissa organisationer. Medan många cio:er har blivit de främsta ledarna för AI-strategin och -initiativen har vissa organisationer lagt ansvaret för införandet och användningen av AI på en annan ledande befattningshavare. Detta innebär en reell risk för att cio:er hamnar i bakgrunden under den interna AI-debatten, enligt vissa it-ledare och experter. Många organisationer har till exempel utsett Chief AI Officers , och andra branschexperter menar att AI-initiativ bör ligga inom vd:ns ansvarsområde. Införandet av AI är för viktigt och genomgripande för att begränsas till en enda avdelning, menar Nishith Rastogi , grundare samt vd och teknikchef på Locus, en leverantör av AI-drivna logistiklösningar. Därför måste vd vara den främsta förespråkaren för tekniken, säger han. Rastogi har nyligen slagit samman rollerna som vd och teknikchef på Locus för att fokusera på AI. För tillfället vill han vara direkt involverad i alla nya AI-initiativ på Locus, som för närvarande saknar en it-chef. – En vd:s uppgift är att hålla koll på både ledande och eftersläpande indikatorer, och vi är ett teknikföretag. Vi måste ligga i absolut framkant inom detta område, och den genomgripande förändringen som sker i dag är att AI är den nya IT:n, säger han. Vid någon tidpunkt under Locus tillväxtresa kommer företaget dock att behöva en cio, och denna kommer att vara starkt involverad i AI-relaterad verksamhet, förutspår Rastogi. – Jag kanske sätter bollen i rullning, jag sätter hamsterhjulet i rörelse, men jag skulle definitivt behöva en cio och en cto för att driva det till slut och verkligen förverkliga alla effekter. Om alla börjar använda stora språkmodeller och AI och alla blir mer effektiva, ökar faktiskt behovet av någon som hanterar, implementerar och skapar infrastruktur. Fler AI-chefer När det inte är vd:n som tar rodret väljer många företag att gå förbi cio:n och inrätta en ny befattning för att leda implementeringsarbetet. En rapport från IBM:s Institute for Business Value visar att 76 procent av de tillfrågade organisationerna nu har en AI-chef, en ökning från bara 26 procent år 2025. Att utse en AI-chef kan i vissa fall undergräva cio:ns befogenheter, säger Debbie Madden , grundare och styrelseordförande för AI-konsult- och mjukvaruutvecklingsföretaget Stride. – Så här kan det se ut. Styrelsen utövar påtryckningar för att införa AI, cio:n svarar med lösningar som rör infrastruktur eller kostnadsbesparingar, och nu finns det en Chief AI Officer som förfogar över företagets mest strategiska budget. Men att hamna i en maktkamp om AI- och it-budgetar är fel strategi för cio:er, säger Madden. – I det ögonblick du försvarar it-budgeten har du redan positionerat dig som en kostnadscentral, och kostnadscentraler får inte ansvaret för AI, säger hon. I stället kopplar de cio:er som utökar sitt inflytande inom sina organisationer varje AI-initiativ till omsättningstillväxt, vinstmarginalskydd, riskminskning eller snabbhet, säger hon. Proaktiva cio:er tar också itu med svåra frågor kring AI-styrning. – De tar upp styrningsfrågorna innan någon annan hinner göra det: vem som äger resultatet, vem som granskar det innan det når kunden och vilken återgångsplan som finns när systemet gör fel. Den som besvarar dessa frågor äger AI. Det är den positionen som är värd att ta. Madden ser att cio-rollen splittras i takt med att AI blir allt mer utbredd inom företagen. – Det finns infrastrukturarbetet, att hålla systemen igång, och det finns värdeskapandet, att avgöra var AI förändrar hur arbetet utförs. AI skiljer dessa åt, och de cio:er som konsoliderar makten är de som tar sig an värdeskapandet. En bredare definition Dustin Engel , grundare och huvudkonsult på AI-konsultföretaget Elegant Disruption, ser också att cio:er potentiellt kan förlora ansvar när organisationen inför AI, men det beror ofta på att cio-rollen är för snävt definierad. – Cio:er hamnar inte i bakgrunden för att AI är för tekniskt. De hamnar i bakgrunden när AI blir för strategiskt för den roll som cio:n har definierats att ha inom företaget. När vissa organisationer utser en AI-chef signalerar det att ledningen inte tror att cio:ns befintliga teknikfunktion kan omvandla AI till en praktisk verksamhetsagenda, menar han. – Om cio:n ses som den som ser till att systemen fungerar kommer AI att kringgå dem. Om cio:n ses som den som hjälper verksamheten att omforma hur arbetet utförs, utökar AI deras inflytande. Engel håller med om att cio:er bör undvika revirstrider. I många företag kommer AI att dyka upp över hela organisationen – inom marknadsföring, försäljning, ekonomi, juridik, HR, drift och produktteamet – och cio:n kan inte vara överallt. – Om cio:n försöker styra allt detta centralt kommer verksamheten antingen att bromsas upp eller gå förbi it. Cio:n behöver inte äga varje AI-projekt. Cio:n måste se till att företaget inte hamnar med osammanhängande experiment, svag styrning och verktyg som inte går att skala upp. Det finns också en risk med att ta bort AI-ansvaret från den högsta it-chefen i en organisation, menar vissa experter. Duktiga cio:er kan hjälpa till att integrera AI i andra it-system, säger Ken Ringdahl , cto hos Emburse, en leverantör av lösningar för utgiftshantering. – Om AI hamnar utanför cio:ns ansvarsområde kan cio:n förlora inflytande, men företaget förlorar också sammanhållningen, säger han. – AI är inte en funktion som bara kan klämmas fast på verksamheten. Den måste integreras i applikationer, data, säkerhetskontroller och dagliga arbetsflöden, och utan den integrationen hamnar organisationer med fragmenterade experiment, inkonsekventa resultat och en mycket tyngre börda när det gäller utbildning och implementering. En AI-chef kan tillföra fokus och expertis till AI-implementeringar, men rollen har ofta inte befogenhet att förändra system, arbetsflöden och verksamhetsmodeller i hela företaget, tillägger han. Cio:n har däremot vanligtvis det ansvarsområdet. – En Chief AI Officer kan påskynda AI-agendan men kan inte ersätta den befogenhet som krävs för att omvandla organisationen, säger han. Samarbete Precis som Rastogi på Locus anser Ringdahl att vd:n har en viktig roll att spela under AI-implementeringen och -integrationen. Men även cio:n har en roll. – Vd:n äger AI-uppdraget; cio:n äger den infrastruktur som förverkligar det, säger han. – Vv:n måste fastställa varför AI är viktigt, var det ska skapa värde och hur ledare ska hållas ansvariga för införandet och resultaten. Cio:n omvandlar sedan det uppdraget till en integrerad, säker och skalbar kapacitet i företagets system och arbetsflöden. Rastogi uppmuntrar it-chefer att hänga med i utvecklingen genom att själva bli AI-experter. – Det uppmuntrande här är att hela området bara är ett par år gammalt, så på mindre än en månad kan man i stort sett komma ikapp de allra främsta. I samma stund som man gör det blir man bokstavligen den mest oumbärliga och mest efterfrågade resursen i organisationen, eftersom varje ledare vill samarbeta med dig för att få en kraftig boost.",
+      "link": "https://computersweden.se/article/4205980/it-chefer-riskerar-att-hamna-i-bakgrunden-i-foretagens-ai-initiativ.html",
+      "guid": "https://computersweden.se/article/4205980/it-chefer-riskerar-att-hamna-i-bakgrunden-i-foretagens-ai-initiativ.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/08/4205980-0-72340700-1786077080-shutterstock_2353086675.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1786077000000
+    },
+    {
+      "title": "Microsoft lämnar in ansökan om bygglov för datacentret – blir Korsholms största bygglov någonsin",
+      "description": "Microsoft har meddelat att de ska lämna in sin bygglovsansökan för datacentret i Korsholm på fredag. Den mellan sju och åtta hektar stora datahallen blir den största bygglovsansökan som någonsin lämnats in till kommunen.",
+      "link": "https://yle.fi/a/7-10103168?origin=rss",
+      "guid": "https://yle.fi/a/7-10103168",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786076999000
+    },
+    {
+      "title": "Stal bil – fick med sig två-åriga flickan",
+      "description": "Hör mammans förtvivlan i larmsamtalet",
+      "link": "https://www.expressen.se/tv/nyheter/har-raddas-flickan-biltjuv-rakar-fa-med-sig-tvaaring-i-baksatet",
+      "guid": "https://www.expressen.se/tv/nyheter/har-raddas-flickan-biltjuv-rakar-fa-med-sig-tvaaring-i-baksatet",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786076603000
+    },
+    {
+      "title": "Enni Virjonen höll undan och kammade hem det efterlängtade JVM-guldet – sjukampslöftet satte nytt personbästa Eugene",
+      "description": "Enni Virjonen är juniorvärldsmästare i sjukamp. Tävlingens förhandsfavorit var i en klass för sig i U20-VM i Eugene, USA.",
+      "link": "https://yle.fi/a/7-10103210?origin=rss",
+      "guid": "https://yle.fi/a/7-10103210",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786075864000
+    },
+    {
+      "title": "Flera döda och skadade i skolskjutning i Thailand",
+      "description": "Den misstänkta gärningsmannen har tagit sitt eget liv. Han uppges vara elev på skolan.",
+      "link": "https://yle.fi/a/7-10103209?origin=rss",
+      "guid": "https://yle.fi/a/7-10103209",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786075633000
+    },
+    {
+      "title": "Nils och Julia grillar partiledarna inför valet",
+      "description": "Duon från Täby och Skogås lyfter IF-frågor i politiken genom intervjuer med partiledarna i Klartext. Fokus ligger på arbete, inkludering och större plats i samhällsdebatten.",
+      "link": "https://www.mitti.se/nyheter/nils-och-julia-grillar-partiledarna-infor-valet-6.3.378411.e655c7e8a5",
+      "guid": "https://www.mitti.se/nyheter/nils-och-julia-grillar-partiledarna-infor-valet-6.3.378411.e655c7e8a5",
+      "image": "https://www.mitti.se/image-3.377524.301702.20260807043021.1.3f39660cc0?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786075200000
+    },
+    {
+      "title": "Skolskjutning",
+      "description": "Minst två döda i Thailand",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2aa667fe-04b0-4efb-9812-5857fb69b128",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2aa667fe-04b0-4efb-9812-5857fb69b128",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786074680000
+    },
+    {
+      "title": "Tiktokstjärnan Sydney Towle död i cancer – blev 26 år",
+      "description": "Den 26-åriga tiktokstjärnan Sydney Towle har dött, berättar familjen. Hon levde flera år med en svår cancerform. ”Vi är så stolta över hur hårt Sydney kämpade”, skriver hennes anhöriga på Instagram.",
+      "link": "https://www.expressen.se/noje/tiktokstjarnan-sydney-towle-dod-i-cancer-blev-26-ar/",
+      "guid": "https://www.expressen.se/noje/tiktokstjarnan-sydney-towle-dod-i-cancer-blev-26-ar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786074389000
+    },
+    {
+      "title": "Takterrass, vinkyl och ”tyst lyx” – Beneteaus nya utmanare tar för sig",
+      "description": "Med bakåtlutad vindruta, multifunktionellt tak för leksaker eller solbädd och plats för både tvättmaskin och vinkyl i källaren siktar Beneteau Swift Trawler 43 Fly rakt mot långdistansseglare som vägrar pruta på komforten. Den franska båttillverkaren Beneteau har tidigare gasat på med sina försäljningssiffror. Även Volvo Penta har surfat på den framgången där man har tagit […]",
+      "link": "https://www.dagensps.se/motor/bat/takterrass-vinkyl-och-tyst-lyx-beneteaus-nya-utmanare-tar-for-sig/",
+      "guid": "https://www.dagensps.se/?p=1662063",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/hero-st43-fly-header-mobilejpg-copy-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786074212000
+    },
+    {
+      "title": "Tusentals evakueras",
+      "description": "Tyfon på väg till Japan",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=02e080f9-d632-4030-b0b6-f345bc3fcfbd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=02e080f9-d632-4030-b0b6-f345bc3fcfbd",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786074171000
+    },
+    {
+      "title": "Morgonkollen: Fyra nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103129?origin=rss",
+      "guid": "https://yle.fi/a/7-10103129",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786073423000
+    },
+    {
+      "title": "Livräddare varnar föräldrar på stranden men kan mötas av ilska: ”Vi har hittat små barn ensamma i vattnet”",
+      "description": "Helsingfors har i år satsat på fler livräddare på stränderna än tidigare. Nytt för i år är också att personalen jobbat mer med att förebygga olyckor.",
+      "link": "https://yle.fi/a/7-10103107?origin=rss",
+      "guid": "https://yle.fi/a/7-10103107",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786072514000
+    },
+    {
+      "title": "Tiotals döda då huthirebellernas attacker eskalerar i Mellanöstern",
+      "description": "De Iranstödda huthirebellerna i Jemen har skapat en andra front i kriget i Mellanöstern. Attackerna har trappats upp de senaste veckorna.",
+      "link": "https://yle.fi/a/7-10103208?origin=rss",
+      "guid": "https://yle.fi/a/7-10103208",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786072192000
+    },
+    {
+      "title": "Lovisa kyrka har fått in nästan 3 000 euro på de nyinförda inträdesavgifterna",
+      "description": "I sommar införde Lovisa kyrka en inträdesavgift på två euro. Intäkterna ska täcka renoveringar och göra det möjligt att anställa sommarjobbare.",
+      "link": "https://yle.fi/a/7-10103054?origin=rss",
+      "guid": "https://yle.fi/a/7-10103054",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786071614000
+    },
+    {
+      "title": "De stöter på motgångar i Finland utan fast adress",
+      "description": "Krånglig byråkrati och brist på svar har lett till att Johanna Parikka Altenstedt och Niklas Altenstedt börjat tvivla på finländska myndigheter och företag.",
+      "link": "https://yle.fi/a/7-10103029?origin=rss",
+      "guid": "https://yle.fi/a/7-10103029",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786071546000
+    },
+    {
+      "title": "Viltexpert efter utbrottet av afrikansk svinpest: ”En av de sämsta nyheterna på länge”",
+      "description": "I våras började Jan-Ove Nyman på nytt jobb. Uppdraget: Att arbeta för att afrikansk svinpest inte når Finland. Förra veckan vändes allt upp och ner.",
+      "link": "https://yle.fi/a/7-10103104?origin=rss",
+      "guid": "https://yle.fi/a/7-10103104",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786071088000
+    },
+    {
+      "title": "Finlands första gågata fyller 60 år och lockar fortfarande besökare",
+      "description": "Gågatan i Ekenäs invigdes 1966 och är därmed Finlands första gågata. Hit kommer folk för hemkänslan och servicen på svenska.",
+      "link": "https://yle.fi/a/7-10102583?origin=rss",
+      "guid": "https://yle.fi/a/7-10102583",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786070791000
+    },
+    {
+      "title": "Svenskarma rekordsparar – här är de största fondvinsterna",
+      "description": "Vi fondsparar som aldrig förr, varav mycket i aktiefonder. Det står klart att det är storbankerna som leder racet. Svenska pensionssparare har fått en ovanligt stark start på året. Tech och andra tillväxtmarknader har fått många fonder att lyfta, ibland med över 20 procent. Svenskarna är flitiga sparare. Svenska hushåll sparar, i genomsnitt, drygt 5 […]",
+      "link": "https://www.dagensps.se/privatekonomi/svenskarma-rekordsparar-har-ar-de-storsta-fondvinsterna/",
+      "guid": "https://www.dagensps.se/?p=1662057",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlrxh0qsmqn-q-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786070597000
+    },
+    {
+      "title": "Meta fälls i domstol för att ha skadat barn",
+      "description": "Tvingas böta en halv miljard dollar.",
+      "link": "https://yle.fi/a/7-10103207?origin=rss",
+      "guid": "https://yle.fi/a/7-10103207",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786069656000
+    },
+    {
+      "title": "Storböter för Meta",
+      "description": "Ska betala över nio miljarder kronor",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786068832000
+    },
+    {
+      "title": "Generalen varnar – Nato måste förnyas: ”Ryssland har svaren”",
+      "description": "Nato måste förnya sina försvarsdoktriner. Det varnar Ukrainas tidigare överbefälhavare för. – Ryssland har redan hittat sätt att motverka i stort sett alla typer av vapen som Ukraina har fått från sina västliga allierade, säger Valerij Zaluzjnyj.",
+      "link": "https://www.expressen.se/nyheter/varlden/generalen-varnar-nato-maste-fornyas-ryssland-har-svaren/",
+      "guid": "https://www.expressen.se/nyheter/varlden/generalen-varnar-nato-maste-fornyas-ryssland-har-svaren/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786068633000
+    },
     {
       "title": "Dell-sonen ska göra elförsörjningen i hemmet bättre – bygger miljardbolag",
       "description": "Michael Dells son bygger miljardbolag inom hemmabatterier. Zach Dell ska därmed göra elförsörjningen i hemmet stabilare. Som ung student investerade Michael Dell bara några tusenlappar i det företag som nu gjort honom till en av världens rikaste personer. Drygt 40 år senare är det dags för förändring. I början av året uppgav ledningen att företaget […]",
@@ -14,16 +244,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786066606000
     },
     {
-      "title": "Storböter för Meta",
-      "description": "Ska betala över nio miljarder kronor",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=68044a10-ef7b-4805-9cb2-48b3f0945f61",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786064983000
-    },
-    {
       "title": "Fler Space X-aktier släpps fria – investerare dumpar innehav",
       "description": "Det handlar om hundratals Space X-aktier som kan säljas av framöver. Det kan leda till en ännu skakigare tid för det börsnoterade bolaget. Space X lämnade på tisdagen sin första kvartalsrapport som börsnoterat bolag, bara två månader efter historiens största börsintroduktion. Aktien föll kraftigt som Dagens PS berättat, sedan investerare oroar sig hur mycket bolaget […]",
       "link": "https://www.dagensps.se/bors-finans/fler-space-x-aktier-slapps-fria-investerare-dumpar-innehav/",
@@ -32,16 +252,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786062707000
-    },
-    {
-      "title": "Artist fattade eld på Medeltidsveckan",
-      "description": "Olycka på Medeltidsveckan • Förd till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dde4053d-2f08-4b31-8b8c-48f37a763c11",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786062360000
     },
     {
       "title": "Akut vattenläcka",
@@ -264,16 +474,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786039200000
     },
     {
-      "title": "Stopp i tågtrafiken till Stockholm – 6 000 drabbas",
-      "description": "Tågtrafiken är åter i gång efter ett stopp på Stockholms central. En kontaktledning har rivits ner och ligger mot ett tåg. – 27 tåg och cirka 6 000 resenärer kan bli drabbade de närmsta två timmarna, sade SJ:s presstalesperson Johanna Jedenius.",
-      "link": "https://www.expressen.se/nyheter/sverige/stopp-i-tagtrafiken-till-stockholm-6-000-drabbas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/stopp-i-tagtrafiken-till-stockholm-6-000-drabbas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786038891000
-    },
-    {
       "title": "Buss körde på barn",
       "description": "Allvarligt skadat",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e9bfc4ad-9a7c-4e45-8313-27cfd73acb4a",
@@ -314,16 +514,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786037772000
     },
     {
-      "title": "Dömd mördare har klippt fotboja – efterlyst av polisen",
-      "description": "Silvano Karoli dömdes till nio års fängelse för mord 2019. Han är villkorligt frigiven och har nu klippt sönder sin fotboja – och är spårlöst försvunnen. – Han är efterlyst, säger Björn Boode, pressekreterare vid Kriminalvården.",
-      "link": "https://www.expressen.se/nyheter/sverige/domd-mordare-har-klippt-fotboja-efterlyst-av-polisen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/domd-mordare-har-klippt-fotboja-efterlyst-av-polisen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786037487000
-    },
-    {
       "title": "Xbox får snart en variant av PlayStations Platinum-trofé",
       "description": "Microsoft bekräftar att en motsvarighet är på gång Trots att Xbox en gång i tiden banade väg för hur prestationer i spel mäts, har deras system för achievements stått och trampat vatten ett tag. I dagsläget samlar Xbox-spelare poäng (Gamerscore) genom att utföra prestationer i spelen men det saknas en specifik utmärkelse som markerar att man har klarat av precis allt i ett spel. Alltså något som motsvarar en Platinum-trofé som man kan få på PlayStation, som då fungerar som det slutgiltiga beviset på att ett spel är fullbordat. Xbox-chefen Asha Sharma meddelade nyligen på sociala medier att de jobbar på att införa något liknande och att det förväntas dyka upp senare i år. Så om man är en sådan som vill ha någon form av bekräftelse att man klarat samliga spelets utmaningar kan man ju kanske glädjas åt detta. L&auml;s vidare och kommentera: https://feber.se/spel/xbox-far-snart-en-variant-av-playstations-platinum-trofe/494761/ L&auml;s mer om Xbox , Gamerscore , PlayStation , Asha Sharma , achievements , Platinum-trofé",
       "link": "https://feber.se/spel/xbox-far-snart-en-variant-av-playstations-platinum-trofe/494761/?utm_source=rss&utm_medium=feed",
@@ -352,26 +542,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786036855000
-    },
-    {
-      "title": "Mc påkörd av lastbil på E4",
-      "description": "Vägen avstängd",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f9663400-4c39-48eb-a820-964a0a8461a5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f9663400-4c39-48eb-a820-964a0a8461a5",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786036825000
-    },
-    {
-      "title": "Barn skadat efter biljakt",
-      "description": "Polis avlossade skott mot bil i Helsingborg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2dbe52f5-dc8a-4c4b-bdaf-d7ef6dc3e648",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2dbe52f5-dc8a-4c4b-bdaf-d7ef6dc3e648",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786035624000
     },
     {
       "title": "Svenskodlad regnbågslax till ICA-butiker",
@@ -422,16 +592,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786035032000
-    },
-    {
-      "title": "Svensk ambulans bombad i Ukraina ”Mänsklig safari”",
-      "description": "En svensk ambulans har sprängts i Ukraina. Nu rasar hjälporganisationen mot den ryska ”mänskliga safarin”. – Det här är ett tydligt brott mot humanitär rätt, säger Malin Dahlberg Markstedt på OperationAid.",
-      "link": "https://www.expressen.se/nyheter/svensk-ambulans-bombad-i-ukraina-mansklig-safari/",
-      "guid": "https://www.expressen.se/nyheter/svensk-ambulans-bombad-i-ukraina-mansklig-safari/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786034638000
     },
     {
       "title": "Ville Koivunens jättelika kontraktsförlängning med Pittsburgh Penguins väcker förvåning: ”Finns en del risk”",
@@ -544,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786030956000
     },
     {
-      "title": "Bråk på toppnivå: Trump och Hegseth rök ihop om missiler",
-      "description": "Donald Trump rök ihop med Pete Hegseth efter brist på ammunition att använda mot Iran. Trump krävde försvarsministern på besked. Vid ett toppmöte på Camp David den gångna healgen krävde Donald Trump besked från försvarsminister Pete Hegseth angående den extrema bristen på ammunition. Trump ska ha ”kokat över” efter frustration kring konflikten med Iran, där […]",
-      "link": "https://www.dagensps.se/varlden/brak-pa-toppniva-trump-och-hegseth-rok-ihop-om-missiler/",
-      "guid": "https://www.dagensps.se/?p=1662006",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlfq5ho4qapvg-nh-300x300.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786030446000
-    },
-    {
       "title": "Fabian Silén tvingades mima i kören och gör nu upp med sin tondövhet i nytt ljuddrama",
       "description": "Skådespelaren Fabian Silén har alltid känt sig utanför den musikaliska gemenskap han längtat efter. Nu har han omvandlat kampen till ljuddramat ”Tondöv”.",
       "link": "https://yle.fi/a/7-10101627?origin=rss",
@@ -584,16 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786029034000
     },
     {
-      "title": "Ann-Britt Felin-Aalto blev årets modeinfluerare i en 25 år gammal morgonrock: ”Viktigast att du trivs i dig själv”",
-      "description": "För Ann-Britt Felin-Aalto, känd som Kirppismummo på sociala medier, handlar stil och mode inte om dyra plagg eller att jaga trender.",
-      "link": "https://yle.fi/a/7-10102997?origin=rss",
-      "guid": "https://yle.fi/a/7-10102997",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786028418000
-    },
-    {
       "title": "Peregryn Automotive flyttar tillverkningen av Ultima till USA",
       "description": "Har köpt alla rättigheter Peregryn Automotive har köpt rättigheterna och alla tillverkningsverktyg till brittiska Ultima och flyttar nu produktionen av den potenta banracern till USA. Nu visar man upp GT-S och GT-R som verkar vara en vidareutveckling av modellen RS som presenterades 2019. GT-S är för gatbruk medan GT-R är tänkt för bankörning. Den förstnämnda har V8:a från Chevrolet på över 500 hästar och ska toppa 322 km/h. GT-R vrider istället upp allt några snäpp till och har 700 hästar, och en torrvikt på bara 953 kilo. Den får även vassare fjädring, en sekventiell växellåda, race-elektronik och ett mer aerodynamiskt kit i kolfiber som kan genererar över 544 kilo i marktryck. Man får även bromsar från AP Racing som ska göra att man kan bromsar från 160 km/h till stillastående på bara 3,6 sekunder. Man hoppas kunna börja leverera nästa vår och prislappen börjar runt 195.000 dollar. L&auml;s vidare och kommentera: https://feber.se/bil/peregryn-automotive-flyttar-tillverkningen-av-ultima-till-usa/494756/ L&auml;s mer om Peregryn Automotive , Peregryn GT-R , Ultima , superbil",
       "link": "https://feber.se/bil/peregryn-automotive-flyttar-tillverkningen-av-ultima-till-usa/494756/?utm_source=rss&utm_medium=feed",
@@ -612,36 +752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786028400000
-    },
-    {
-      "title": "Esbo stad föreslår omställningsförhandlingar – trehundra anställningar är hotade",
-      "description": "Förhandlingarna skulle omfatta en tredjedel av stadens anställda. Det föreslås att staden inleder förhandlingarna i början av september.",
-      "link": "https://yle.fi/a/7-10103201?origin=rss",
-      "guid": "https://yle.fi/a/7-10103201",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786028063000
-    },
-    {
-      "title": "Försvaret och spårvägar hör till vinnarna i Finansministeriets budgetförslag",
-      "description": "Finland lånar nästan 13 miljarder nästa år. Vårdavgifterna höjs och integrationen förlorar hälften av sina pengar.",
-      "link": "https://yle.fi/a/7-10103178?origin=rss",
-      "guid": "https://yle.fi/a/7-10103178",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786027514000
-    },
-    {
-      "title": "Ny studie: Livet på jorden uppstod två gånger",
-      "description": "Ny forskning utmanar en av biologins mest grundläggande teorier. Livet på jorden kan ha uppstått två gånger – inte en, enligt forskare. De flesta forskare utgår från att allt liv på jorden härstammar från en gemensam urfader, som hypotesen kallar LUCA (Last Universal Common Ancestor). En ny studie i den vetenskapliga tidskriften Science Advances ifrågasätter […]",
-      "link": "https://www.dagensps.se/life-science/ny-studie-livet-pa-jorden-uppstod-tva-ganger/",
-      "guid": "https://www.dagensps.se/?p=1661987",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlkxl8oshtxl4-normalhires-scaled.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786026988000
     },
     {
       "title": "Säkerhetsbrist hittad i iCloud Privat reläservice",
@@ -664,16 +774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786026536000
     },
     {
-      "title": "Otäck skada i damernas Pitsiturnering – tacklingar tilläts för första gången i finländsk damishockey",
-      "description": "HPK:s Emmi Loponen tacklades hårt av HIFK:s Nelly Andersson i sexlagsturneringen Pitsiturnaus. Turneringen är den första där tacklingar är tillåtna i finländsk damishockey.",
-      "link": "https://yle.fi/a/7-10103199?origin=rss",
-      "guid": "https://yle.fi/a/7-10103199",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786026536000
-    },
-    {
       "title": "Robert Pattinson jagar pedofiler",
       "description": "Spelar tv-profilen Chris Hansen i filmen Primetime Robert Pattinson spelar huvudrollen i den kommande filmen Primetime , som skildrar det debatterade ämnet stingoperationer mot pedofiler. I filmen spelar Pattinson den verklige amerikanske programledaren Chris Hansen, känd från tv-programmet To Catch a Predator . Han konfronterade under åren 2004 till 2007 i TV vuxna män som lurats till en plats i tron att de stämt träff med minderåriga. För regin står Lance Oppenheim, och i rollistan syns utöver Pattinson även namn som Anna Faris, Skyler Gisondo och artisten Phoebe Bridgers, som här gör sin filmdebut. Primetime går upp på de amerikanska biograferna den 25 september. Något svenskt premiärdatum finns inte i nuläget. L&auml;s vidare och kommentera: https://feber.se/film/robert-pattinson-jagar-pedofiler/494781/ L&auml;s mer om Robert Pattinson , Primetime , Chris Hansen , Lance Oppenheim , To Catch a Predator , film",
       "link": "https://feber.se/film/robert-pattinson-jagar-pedofiler/494781/?utm_source=rss&utm_medium=feed",
@@ -682,26 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786025400000
-    },
-    {
-      "title": "Fem länder köper minor – alla vill minera Östersjön",
-      "description": "Östersjön är långt från beteckningen ”Fredens hav”. Nu vill fem länder Östersjön köpa sjöminor och placera ut i havet. Finska Forcit kan se fram emot strålande tider. Företaget tillverkar sjöminor och sprängämnen och nu vill fem länder runt Östersjön köpa sjöminor av företaget. Affären speglar det förändrade världsläget och Nato kan påverka Finlands användning av […]",
-      "link": "https://www.dagensps.se/varlden/fem-lander-koper-minor-alla-vill-minera-ostersjon/",
-      "guid": "https://www.dagensps.se/?p=1661988",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdle4cid7endxa-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786025399000
-    },
-    {
-      "title": "Arctials vätefluoridutsläpp oroar i Karleby – staden kräver att myndighet tar ställning till utsläppen",
-      "description": "Karleby stad ställer sig kritisk till en del av de utsläpp som är att vänta ifall den aluminiumfabrik som bolaget Arctial planerar på gränsen mellan Karleby och Kronoby blir verklighet.",
-      "link": "https://yle.fi/a/7-10103198?origin=rss",
-      "guid": "https://yle.fi/a/7-10103198",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786025367000
     },
     {
       "title": "Efter badklådan – tar bort bryggorna",
@@ -722,26 +802,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786024800000
-    },
-    {
-      "title": "En liten segelbåt sjönk utanför Hangö",
-      "description": "En liten segelbåt har sjunkit utanför Hangö. Räddningsverket fick in ett larm om en olycka till havs vid 16-tiden på eftermiddagen.",
-      "link": "https://yle.fi/a/7-10103197?origin=rss",
-      "guid": "https://yle.fi/a/7-10103197",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786024252000
-    },
-    {
-      "title": "Ny satsning: Elever ska röra på sig mera under skoldagen",
-      "description": "Skolorna ska satsa på att ge möjlighet för fysisk aktivitet under både lektioner och raster för att hjälpa elever att hållas pigga.",
-      "link": "https://yle.fi/a/7-10103105?origin=rss",
-      "guid": "https://yle.fi/a/7-10103105",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786024219000
     },
     {
       "title": "Rockstar visar upp mer från GTA 6 i slutet av augusti",
@@ -782,16 +842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786022400000
-    },
-    {
-      "title": "Barn som börjar använda sociala medier tidigt presterar sämre i skolan",
-      "description": "Elever som börjar använda sociala medier vid 11–12 års ålder presterar sämre i matematik och läsning. Det visar en italiensk studie på över 5 000 skolbarn.",
-      "link": "https://yle.fi/a/7-10103121?origin=rss",
-      "guid": "https://yle.fi/a/7-10103121",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786022112000
     },
     {
       "title": "Mitsubishi ska utmana RAV4 med en mindre Pajero",
@@ -844,26 +894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786020189000
     },
     {
-      "title": "Unga sommarjobbare får beröm på Lovisa camping – fick utmärkelse",
-      "description": "Sommarjobbarna på Lovisa camping säger sig ha en fin gemenskap. De har i sommar också fått ett positivitetsdiplom.",
-      "link": "https://yle.fi/a/7-10103023?origin=rss",
-      "guid": "https://yle.fi/a/7-10103023",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786019801000
-    },
-    {
-      "title": "Om ett år tar Axxell över den svenskspråkiga yrkesutbildningen i Åbo – det här innebär det",
-      "description": "I höst inleder de sista svenskspråkiga studerandena sina studier på linjen för handel och data vid Åbo yrkesinstitut.",
-      "link": "https://yle.fi/a/7-10103169?origin=rss",
-      "guid": "https://yle.fi/a/7-10103169",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786019519000
-    },
-    {
       "title": "Snart är det dags att räkna taggar!",
       "description": "Nästa vecka är det än en gång dags för Igelkottsveckan På bara tolv år har populationen av svenska igelkotten nästan halverats, vilket har lett till att djuret numera klassas som sårbart på listan med rödlistade djur. För att vända denna trenden arrangeras än en gång Igelkottsveckan, vilket är ett initiativ där allmänheten kan vara med och hjälpa till att kartlägga var våra taggiga vänner finns och var de saknas. Mellan den 10 och 16 augusti är det då dags för den årliga räkningen. Genom att rapportera in dina observationer bidrar du med viktig data till forskare vid SLU Artdatabanken. Det spelar ingen roll om du ser en levande igelkott, en trafikskadad eller ingen alls; all information är värdefull för att förstå hur arten mår och var de största hoten finns. Eftersom igelkottar är nattaktiva djur har du störst chans att se dem från skymning till gryning. WWF har några tips för en lyckad observation: Locka med mat: Ställ ut lite kattmat och vatten i ett lugnt hörn av trädgården. Var tyst och tålmodig: Igelkottar är känsliga för ljud och rörelse. Håll avstånd och se till att hundar inte skrämmer bort dem. Spana i grannskapet: Du behöver inte ha en egen trädgård; en kvällspromenad i bostadsområdet fungerar lika bra. Genom att delta i Igelkottsveckan menar WWF att du hjälper till att bygga upp den kunskap som krävs för att skydda arten på lång sikt. L&auml;s vidare och kommentera: https://feber.se/vetenskap/snart-ar-det-dags-att-rakna-taggar/494746/ L&auml;s mer om Igelkottsveckan , SLU Artdatabanken , WWF , Igelkott , Igelkottar",
       "link": "https://feber.se/vetenskap/snart-ar-det-dags-att-rakna-taggar/494746/?utm_source=rss&utm_medium=feed",
@@ -872,16 +902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786019400000
-    },
-    {
-      "title": "The Guardian: Gianni Infantino var delaktig i planerna på Superligan",
-      "description": "För drygt fem år sedan presenterades planerna på utbrytarligan Super League. Nu avslöjar The Guardian att Gianni Infantino var delaktig i projektet.",
-      "link": "https://yle.fi/a/7-10103185?origin=rss",
-      "guid": "https://yle.fi/a/7-10103185",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786018679000
     },
     {
       "title": "A star’s violent death exposed a hidden supermassive black hole",
@@ -2272,16 +2292,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1785829037000
-    },
-    {
-      "title": "Deepseeks nya modell är över 100 gånger billigare än Anthropics Claude Fable 5",
-      "description": "Det amerikanska analysföretaget Artificial Analysis har kommit fram till att kinesiska Deepseeks nya V4-Flash är den överlägset billigaste välkända AI-modellen på marknaden, rapporterar Reuters . Enligt företagets tester är AI-modellen 103 gånger billigare än Anthropics Claude Fable 5. V4-Flash kostade i genomsnitt bara 3 cent per benchmark, medan den kinesiska konkurrenten Moonshoots Kimi K3 kostade 86 cent. Amerikanska Open AI:s GPT-5.6 Sol kostade istället 1,86 dollar medan Anthropics Claude Fable 5 kostade hela 3,15 dollar. Enligt Artificial Analysis ger benchmarkkostnader en tydligare bild av verkliga driftkostnader än enbart pris per token. Detta eftersom den tar hänsyn till hur mycket data modellen behöver bearbeta för att lösa en uppgift. Pris per token ligger istället på 0,14 dollar per miljon inmatningstokens och 0,28 dollar per miljon utmatningstokens. Prestandamässigt placerar sig V4-Flash i mellanskiktet, på samma nivå som Googles Gemini 3.6 Flash, men efter Moonshots, Open AI:s och Anthropics senaste modeller.",
-      "link": "https://computersweden.se/article/4204802/deepseeks-nya-modell-ar-over-100-ganger-billigare-an-anthropics-claude-fable-5.html",
-      "guid": "https://computersweden.se/article/4204802/deepseeks-nya-modell-ar-over-100-ganger-billigare-an-anthropics-claude-fable-5.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/08/4204802-0-89818900-1785829017-Deepseek-AI.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1785829008000
     },
     {
       "title": "Scientists just 3D printed one of the hardest metals on Earth",
