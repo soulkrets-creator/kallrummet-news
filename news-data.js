@@ -1,8 +1,218 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-07T15:43:17.771Z",
+  "updatedAt": "2026-08-07T18:38:23.803Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "mRNA-vaccin mot influensa godkänns i USA",
+      "description": "För vuxna över 50 Den amerikanska läkemedelsmyndigheten FDA har gett grönt ljus till vaccinet mFLUSIVA (mRNA-1010), vilket därmed blir Modernas allra första mRNA-baserade influensavaccin. Vaccinet har godkänts för vuxna mellan 50 och 64 år, och har samtidigt fått ett påskyndat godkännande för personer från 65 år och uppåt i väntan på de slutgiltiga resultaten från en studie. Moderna planerar att lansera vaccinet redan nu till hösten. L&auml;s vidare och kommentera: https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/ L&auml;s mer om Moderna , mFLUSIVA , FDA , influensavaccin , Robert F. Kennedy Jr , mRNA-1010",
+      "link": "https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786127400000
+    },
+    {
+      "title": "Insamling efter tragiska båtolyckan vid Tjörn uppe i nära 150 000 kronor",
+      "description": "En insamling till pappan och sonen efter den tragiska båtolyckan utanför Tjörn har startats. Nu har närmare 150 000 kronor samlats in. – Det känns fint att det är så många som har velat vara med och göra det lilla man kan, säger initiativtagaren Amanda Josefsson.",
+      "link": "https://www.expressen.se/gt/insamling-efter-tragiska-batolyckan-vid-tjorn-uppe-i-nara-150-000-kronor/",
+      "guid": "https://www.expressen.se/gt/insamling-efter-tragiska-batolyckan-vid-tjorn-uppe-i-nara-150-000-kronor/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786127288000
+    },
+    {
+      "title": "Fullträff av Roman Eremenko – IF Gnistan klättrar en placering trots oavgjort mot SJK",
+      "description": "I herrarnas fotbollsliga slutade fredagens enda match oavgjort. Gnistan klättrar en placering medan SJK behåller sin tionde plats.",
+      "link": "https://yle.fi/a/7-10103255?origin=rss",
+      "guid": "https://yle.fi/a/7-10103255",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786126914000
+    },
+    {
+      "title": "Domstol stoppar Trumps bygge av en balsal vid Vita huset",
+      "description": "Bygget av en balsal i Vita huset kräver kongressens godkännande. Det kräver en ny domstol i USA på fredagen. Beskedet får presidenten att rasa. ”Vi kommer omedelbart att överklaga till högsta domstolen,” skriver Trump på Truth Social.",
+      "link": "https://www.expressen.se/nyheter/varlden/domstol-stoppar-trumps-bygge--av-en-balsal-vid-vita-huset/",
+      "guid": "https://www.expressen.se/nyheter/varlden/domstol-stoppar-trumps-bygge--av-en-balsal-vid-vita-huset/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786125901000
+    },
+    {
+      "title": "Engångsplast är på väg bort – men målet är svårt att nå",
+      "description": "Svårt att uppnå kravet om minskad användning av engångsartiklar i plast.",
+      "link": "https://www.mitti.se/nyheter/engangsplast-ar-pa-vag-bort--men-malet-ar-svart-att-na-6.3.371215.e8475524ef",
+      "guid": "https://www.mitti.se/nyheter/engangsplast-ar-pa-vag-bort--men-malet-ar-svart-att-na-6.3.371215.e8475524ef",
+      "image": "https://www.mitti.se/image-3.374326.297167.20260807181320.7ea094f2b3?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786125720000
+    },
+    {
+      "title": "Misstänkt mordförsök i Katrineholm",
+      "description": "Polisen jagar gärningsperson",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5783400d-ff72-42b5-b098-f0d84963f387",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5783400d-ff72-42b5-b098-f0d84963f387",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786125711000
+    },
+    {
+      "title": "Luxeed berättar lite mer om eldrivna suven RX",
+      "description": "Orderböckerna öppnar den här månaden Tidigare i somras visade Chery Automobile och Huawei upp RX från märket Luxeed. Det är en eldriven SUV som man påstår ritats av en Ferrari-designer. Nu berättar man en aning mer om bilen och vad som finns under skalet. Bilen baseras på nästa generation av Giant Whale-plattformen. Man kan välja mellan tre olika batteripack och insteget är på 81.1 kWh medan de två andra är på 100 kWh. Enligt CLTC-cykeln ska räckvidden ligga på 85 mil för den version som kommer allra längst. Den klenaste versionen har en elmotor på 380 hästar och så finns det en med dubbla som istället bjuder på 590 hästar. På tekniksidan hittar vi bland annat fyra Lidar-sensorer. Någon prisuppgift för modellen har vi dock inte fått än. Orderböckerna i Kina kommer att öppna nu i augusti. L&auml;s vidare och kommentera: https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/ L&auml;s mer om Luxeed , Luxeed RX , information , elbil , räckvidd , Kina , Chery , Huawei",
+      "link": "https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786125600000
+    },
+    {
+      "title": "Amerikaner väljer bort snabbmat – McDonald’s tvingas tänka nytt",
+      "description": "Att laga mat hemma och välja nyttigare rätter har blivit vanligare i USA. Det får snabbmatsrestaurangerna att utforska nya alternativ. Amerikaner har varit kända som stora anhängare av snabbtmatskedjor. Men det håller på att förändras. Statistik visar att invånarna i USA besöker snabbmatskedjor allt mer sällan, trots kampanjer med rabatter och uppmärksammade marknadsföringsinsatser. Flera av […]",
+      "link": "https://www.dagensps.se/bors-finans/amerikaner-valjer-bort-snabbmat-mcdonalds-tvingas-tanka-nytt/",
+      "guid": "https://www.dagensps.se/?p=1662358",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlle99ajbepzm-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786124280000
+    },
+    {
+      "title": "Nothing växlar upp",
+      "description": "Planerar att lansera sex nya telefoner under 2027 Nothing kan komma att dubbla antalet telefonlanseringar och släppa hela sex nya modeller under 2027. I en intervju med Times Now Tech säger företaget att man även planerar att bredda sin produktportfölj över flera kategorier som ljud. – Det är fortfarande för tidigt att diskutera enskilda produkter, men jag kan säga att vi har lanserat tre smartphones (Nothing Phone 4a, Phone 4a Pro och Phone 4b) i år, och vi siktar på att lansera dubbelt så många nästa år. Vi kommer att dela med oss av mer information ju närmare lanseringen vi kommer, men tanken är att ha ett bredare utbud av smartphones, säger Nothings medgrundare Akis Evangelidis. L&auml;s vidare och kommentera: https://feber.se/mobil/nothing-vaxlar-upp/494817/ L&auml;s mer om smartphones , Akis Evangelidis , Times Now Tech , Nothing Phone 4a , Phone 4a Pro",
+      "link": "https://feber.se/mobil/nothing-vaxlar-upp/494817/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/nothing-vaxlar-upp/494817/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786123800000
+    },
+    {
+      "title": "Trumps balsal stoppas",
+      "description": "Domstolens krav",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=74a9cba5-d3e5-4c6e-9ea8-2eb89a6534a0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=74a9cba5-d3e5-4c6e-9ea8-2eb89a6534a0",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786122981000
+    },
+    {
+      "title": "Brita, 92, bor med fladdermöss: ”Inga mygg i alla fall”",
+      "description": "Brita Sundberg-Weitman har fladdermöss i sitt hus Villa Solhem på Djurgården.",
+      "link": "https://www.mitti.se/nyheter/brita-92-bor-med-fladdermoss-inga-mygg-i-alla-fall-6.3.378536.18f799a2f9",
+      "guid": "https://www.mitti.se/nyheter/brita-92-bor-med-fladdermoss-inga-mygg-i-alla-fall-6.3.378536.18f799a2f9",
+      "image": "https://www.mitti.se/image-3.377592.301781.20260807173345.2ac99b0ea4?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786122180000
+    },
+    {
+      "title": "Moddare väcker liv i raderat Destiny 2-innehåll",
+      "description": "Mest för nostalgiker dock Bungie har under Destiny 2:s livstid arkiverat en hel del innehål vilket innebar att man helt enkelt inte längre kunde spela banor som man faktiskt hade betalat för. Nu har dock en moddare tagit saken i egna händer och trixat lite med spelkoden så entusiaster kan återvända till de vaultade platserna. Modden Shadowkeep Singleplayer Exploration Mode kan spelare snart återigen besöka områden som varit otillgängliga i flera år. Det finns dock en rätt så rejäl och trickig hake. Det rör sig nämligen inte om en fullständig spelupplevelse då modden saknar fiender, uppdrag och generell stridsmekanik. Det är mest bara för att springa omkring i miljöerna som ett slags digitalt museum. Du hittar projektet via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/ L&auml;s mer om Bungie , Destiny 2 , Shadowkeep Singleplayer Exploration Mode , arkiverat innehål , modding , Shadowkeep",
+      "link": "https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786122000000
+    },
+    {
+      "title": "Craighill Desk Knife",
+      "description": "",
+      "link": "https://uncrate.com/craighill-desk-knife/",
+      "guid": "https://uncrate.com/craighill-desk-knife/",
+      "image": "https://uncrate.com/assets_c/2026/08/craighill-desk-knife-11-darkened-thumb-960xauto-192499.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786122000000
+    },
+    {
+      "title": "Domstol beordrar Trump att pausa bygget av jättebalsal i Vita huset",
+      "description": "Enligt domstolen kräver bygget kongressens godkännande.",
+      "link": "https://yle.fi/a/7-10103253?origin=rss",
+      "guid": "https://yle.fi/a/7-10103253",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786121181000
+    },
+    {
+      "title": "”Inget Disney”: Hårda tider hos revisionsjätten",
+      "description": "Tuffa tider kan ta sig olika uttryck. Hos revisionsjätten PwC i form av att den årliga resan till Disney World blir inställd. Revisionsjättens PwC har ställt in den stora finalen på sitt program för sommarpraktikanterna. Den flerdagarsresa till Disney World i Orlando som avslutat 15 av de 20 senaste årens sommarpraktik är inställd. Evenemanget är […]",
+      "link": "https://www.dagensps.se/foretag/inget-disney-harda-tider-hos-revisionsjatten/",
+      "guid": "https://www.dagensps.se/?p=1662349",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlxhxvo2dnqay-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786121073000
+    },
+    {
+      "title": "Nu finns det en instegsversion av eldrivna AMG GT",
+      "description": "Fejkar ljudet av en rak sexa I maj dundrade Mercedes ut nya AMG GT med eldrift. Då handlade det om värstingen GT 63 med över 1000 hästar, men så många kanske man inte behöver. Därför presenteras nu även instegsversionen GT 53 som istället för tre \"bara\" har två elmotorer. Dessa ger tillsammans 544 hästar och 800 newtonmeter i vrid och ser till att driva alla fyra hjulen. Det räcker för att kunna ta sig från 0-100 km/h på 3,9 sekunder medan toppfarten anges till 230 km/h. Köper man till AMG Driver’s Package höjs dock detta till 250 km/h istället. Batteripacket är fortfarande på 106 kWh och enligt WLTP ska man kunna komma 80 mil på en laddning. Man ska kunna ladda med upp till hela 600 kW. Om alla stjärnor står rätt ska man i optimala förhållanden med rätt typ av laddare kunna få 53 mils räckvidd på bara tio minuters tankande. I GT 55 och GT 63 simuleras V8:a-ljud både i och utanför bilen, men i GT 53 är det istället en fejkad turbomatad rak sexa som får stå för ljudspexandet. Mercedes säger att man använt den gamla AMG-motorns riktiga ljud och spelat in detta i alla olika frekvenser innan man återskapat allt digitalt. Till ljudkulissen får man även fejkade växlingar som man kan leka med via paddlar bakom ratten. Insteg innebär lägre kostnad och denna är 40 procent billigare än flaggskeppet då det står 115.430 euro på prislappen. Det gör att denna hamnar strax under Porsche Taycan 4S som går loss på 122.000 euro. L&auml;s vidare och kommentera: https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/ L&auml;s mer om AMG GT , AMG GT 53 , instegsversion , elbil , prestanda , eldrift",
+      "link": "https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786120200000
+    },
+    {
+      "title": "Irriterat i ECB – hade ingen aning om USA:s yen-plan",
+      "description": "ECB brukar vara välinformerat om USA:s valutaplaner. Men när USA sålde av euro för att köpa yen var det inget som banken kände till i förväg. Den amerikanska regeringens beslut att sälja euro för att stödköpa japanska yen kom som en överraskning för Europeiska centralbanken, ECB. ECB ska ha informerats först efter att valutainterventionen redan […]",
+      "link": "https://www.dagensps.se/bors-finans/irriterat-i-ecb-hade-ingen-aning-om-usas-yen-plan/",
+      "guid": "https://www.dagensps.se/?p=1662348",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl9pozi6565au-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786119884000
+    },
+    {
+      "title": "Här gömmer de sig för skytten",
+      "description": "Minst sju döda i Bangkok",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-gommer-eleverna-sig-for-skytten",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gommer-eleverna-sig-for-skytten",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786119595000
+    },
+    {
+      "title": "Inkamumier gav avgörande bevis: Européerna förde med sig kopporna till Amerika",
+      "description": "Hittills har denna berättelse dock främst baserats på samtida skriftliga källor, men nu bekräftas historien av dna från inkamumier.",
+      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/inka-mumier-er-kommet-med-det-endelige-bevis-europaerne-bragte-kopper-til-amerika",
+      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/inka-mumier-er-kommet-med-det-endelige-bevis-europaerne-bragte-kopper-til-amerika",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786118458000
+    },
+    {
+      "title": "John Turturro spelar ficktjuv i New York",
+      "description": "Se trailern för The Only Living Pickpocket in New York Här har vi trailern för den kommande filmen The Only Living Pickpocket in New York. Filmen handlar om Harry Lehman (spelad av John Turturro), en åldrande ficktjuv som märker att hans hantverk håller på att dö ut. I ett digitaliserat New York har kontanter ersatts av plastkort, och Harry kämpar för att få ekonomin att gå ihop samtidigt som han tar hand om sin sjuka fru. Berättelsen tar en dramatisk vändning när Harry av misstag stjäl ett värdefullt USB-minne. Det som verkade vara ett rutinmässigt stöldbyte förvandlas snabbt till en jobbig vardag med en hämndlysten maffiafamilj. Tillsammans med Turturro hittar vi skådespelare som Giancarlo Esposito, Steve Buscemi och Jamie Lee Curtis i filmen. The Only Living Pickpocket in New York har amerikansk biopremiär i slutet av oktober. L&auml;s vidare och kommentera: https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/ L&auml;s mer om The Only Living Pickpocket in New York , John Turturro , Giancarlo Esposito , Steve Buscemi , film",
+      "link": "https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786118400000
+    },
+    {
+      "title": "Electronic Materials Office Altar II Keyboard",
+      "description": "",
+      "link": "https://uncrate.com/electronic-materials-office-altar-ii-keyboard/",
+      "guid": "https://uncrate.com/electronic-materials-office-altar-ii-keyboard/",
+      "image": "https://uncrate.com/assets_c/2026/08/electronic-materials-office-altar-ii-keyboard-1-thumb-960xauto-192498.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786118400000
+    },
     {
       "title": "Upptäcktes av en slump: Djupt inuti din kropp har forskare hittat en helt oväntad förhistorisk rest",
       "description": "Ett 1,8 miljoner år gammalt spår av dina förfäder spökar fortfarande.",
@@ -12,6 +222,36 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786118316000
+    },
+    {
+      "title": "Bankens analys: Optimismen bland investerare är alldeles för stor",
+      "description": "Riskaptiten på de finansiella marknaderna i USA är stor just nu. Då kan det vara klokt att gå åt andra hållet, menar Bank of America. Bank of America varnar för att investerarnas optimism har blivit så utbredd att det kan vara läge att minska exponeringen mot riskfyllda tillgångar. Bankens så kallade bull and bear-indikator har […]",
+      "link": "https://www.dagensps.se/bors-finans/bankens-analys-optimismen-bland-investerare-ar-alldeles-for-stor/",
+      "guid": "https://www.dagensps.se/?p=1662344",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl2rlrbrg-4s8-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786117746000
+    },
+    {
+      "title": "Åklagare i Skärgårdsmordet: ”Spår av omfattande skador”",
+      "description": "Kvinnan som hittades död i Stockholms skärgård hade stora skador, både av ett vasst föremål och av trubbigt våld. Men enligt åklagare Emma Olsson är dödsorsaken ännu oklar. – Det är spår av omfattande skador, det är två olika typer av skadebilder, säger hon.",
+      "link": "https://www.expressen.se/nyheter/krim/aklagare-i-skargardsmordet-spar-av-omfattande-skador/",
+      "guid": "https://www.expressen.se/nyheter/krim/aklagare-i-skargardsmordet-spar-av-omfattande-skador/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786117283000
+    },
+    {
+      "title": "Attack mot viktiga hamnen",
+      "description": "”Parad” av havsdrönare utanför Krim",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786117119000
     },
     {
       "title": "Hideo Kojima släpper genomskinlig CD-spelare",
@@ -28,7 +268,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Man onanerade på kvinna på Gröna Lund – döms av hovrätten",
       "link": "https://www.mitti.se/nyheter/man-ejakulerade-pa-kvinna-pa-grona-lund--doms-6.3.379166.daa62631c0",
       "guid": "https://www.mitti.se/nyheter/man-ejakulerade-pa-kvinna-pa-grona-lund--doms-6.3.379166.daa62631c0",
-      "image": "https://www.mitti.se/image-3.354023.301969.20260807153002.1.f97f4cf0ed?format=jpeg",
+      "image": "https://www.mitti.se/image-3.354023.301969.20260807160043.1.08eaa78608?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786116600000
@@ -122,16 +362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786113609000
-    },
-    {
-      "title": "Attack mot viktiga hamnen",
-      "description": "”Parad” av havsdrönare utanför Krim",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786113507000
     },
     {
       "title": "AI-agenterna gick till attack under test, igen",
@@ -294,16 +524,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786109400000
     },
     {
-      "title": "Skedböjarens nya drag: Ska påverka Trump genom tankekraft",
-      "description": "Uri Geller fyller 80 i december och har åtagit sig ett sista uppdrag. Målet är Donald Trumps medvetande, som han ska styra genom tankekraft. Geller har tidigare åtagit sig uppdrag som mer eller mindre har ”lyckats” Besvikelsen grundar sig i det som Uri Geller kallar för presidentens svek mot Israel och mot Benjamin Netanyahu i […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/skedbojarens-nya-drag-ska-paverka-trump-genom-tankekraft/",
-      "guid": "https://www.dagensps.se/?p=1662299",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-3-1.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786108959000
-    },
-    {
       "title": "Äldre man drunknade i Lojo",
       "description": "Västra Nylands räddningsverk och polisen meddelar att en äldre man omkom i samband med en fiskeutfärd i Karislojo under fredagen.",
       "link": "https://yle.fi/a/7-10103250?origin=rss",
@@ -414,26 +634,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786107600000
     },
     {
-      "title": "Flygbolagen skärper batterivarningarna: Ta inte med vape-pennan",
-      "description": "Tillhör du skaran som tar med powerbanks eller vapes på semestern? Lämna då dessa hemma. Flera nödlandningar har skett den senaste tiden som beror på att batterierna fattat eld i planet och utsatt passagerare för fara. Litiumjonbatterier är bland flygbranschens tre största risker, säger Jonathan Nicholson vid brittiska Civil Aviation Authority till BBC. Powerbanken får […]",
-      "link": "https://www.dagensps.se/teknik/flygbolagen-skarper-batterivarningarna-ta-inte-med-vape-pennan/",
-      "guid": "https://www.dagensps.se/?p=1662290",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-2-1.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786107473000
-    },
-    {
-      "title": "Exportboom i Kina – överträffar alla prognoser",
-      "description": "Kinas export når nya rekordnivåer. Utvecklingen är långt bättre än analytikernas förväntningar, både för juli månad och för hela året. Mycket tack vare AI. Den kinesiska exporten ökade med 24 procent i juli jämfört med samma månad i fjol, räknat i amerikanska dollar. Det var något lägre än junis ökning på 27 procent, men betydligt […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/exportboom-i-kina-overtraffar-alla-prognoser/",
-      "guid": "https://www.dagensps.se/?p=1662302",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl7qmlp9frq7w-normalhires-scaled.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786107369000
-    },
-    {
       "title": "Kung Harald till sjukhus",
       "description": "Fördes i väg med ambulans, enligt norska Se og hør",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8fbf3a78-ace7-4613-9cc0-255fc34268f0",
@@ -482,16 +682,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786106310000
-    },
-    {
-      "title": "Köttprotein i sallad – nytt genombrott av forskare",
-      "description": "Labbodlat kött och växtbaserade kopior har varit med oss ett tag, men med en ny metod kan framtidens sallad innehålla köttprotein. Forskare vid Imperial College London har för första gången lyckats få högre växter att producera myoglobin, ett protein som ger kött mycket av dess smak, färg och konsistens. Resultaten publiceras i den vetenskapliga tidskriften […]",
-      "link": "https://www.dagensps.se/life-science/kottprotein-i-sallad-nytt-genombrott-av-forskare/",
-      "guid": "https://www.dagensps.se/?p=1662289",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlbfdgwvtl0qc-normalhires-scaled.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786105804000
     },
     {
       "title": "Nya Bugattin hyllar Type 57SC Atlantic",
@@ -674,16 +864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786099524000
     },
     {
-      "title": "Ovanligt mycket cyanobakterier i vattnen just nu",
-      "description": "Mängden cyanobakterier har ökat i både insjöar och kustvatten. Läget är nu sämre än normalt för årstiden.",
-      "link": "https://yle.fi/a/7-10103233?origin=rss",
-      "guid": "https://yle.fi/a/7-10103233",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786099336000
-    },
-    {
       "title": "Polaris presenterar riktigt effektstinn RZR",
       "description": "Leksak för den som redan har allt Om man vill busa runt bland sanddynor eller hoppa runt i terrängen och gärna kör något med fyra hjul kanske en sån här kunde vara något. Det är Polaris senaste RZR som de kallar för Pro R Boost och här har man verkligen inte sparat på krutet. Under skalet på sandloppan har man smackat in en turbomatad fyra på 2,0 liter som ger 280 hästar och 300 newtonmeter i vrid. Det är inte helt lite i denna typ av förpackning. Drivningen sker på alla fyra men man kan få den att bara driva på bakhjulen om man vill. Det går att få två eller fyra dörrar och den lättaste varianten väger in på 1212 kilo medan den tyngsta ligger på 1366 kilo. För att klara underlaget på bästa sätt sitter det elektroniskt ställbar fjädring från Fox runt om. Fälgarna mäter 15 tum och är skodda med 32-tum stora offroad-däck. Markfrigången anges till 40 centimeter. Prislappen börjar på ganska svettiga 49.999 dollar och ska du ha Ultra-versionen med fyra dörrar snackar vi istället om från 56.999 dollar. L&auml;s vidare och kommentera: https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/ L&auml;s mer om Polaris , RZR Pro R Boost , leksak , prestanda , effekt , turbo",
       "link": "https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/?utm_source=rss&utm_medium=feed",
@@ -702,16 +882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786098292000
-    },
-    {
-      "title": "Norges fotbollsförbund kräver Gianni Infantinos avgång: ”Finns ingen väg tillbaka nu”",
-      "description": "Norges fotbollsförbund, med ordföranden Lise Klaveness i spetsen, kräver att Fifa-presidenten Gianni Infantino avgår.",
-      "link": "https://yle.fi/a/7-10103232?origin=rss",
-      "guid": "https://yle.fi/a/7-10103232",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786098026000
     },
     {
       "title": "AI används till sånt som ingen bryr sig om",
@@ -944,26 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786088400000
     },
     {
-      "title": "Begärs häktad",
-      "description": "Misstänks för skärgårdsmordet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a41753f9-8c2d-4bb1-b57f-b921b54371df",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a41753f9-8c2d-4bb1-b57f-b921b54371df",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786088303000
-    },
-    {
-      "title": "Hittad i Ungern",
-      "description": "Danska flickan var försvunnen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ec965d2e-e3ed-43a7-9587-c576a342644c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ec965d2e-e3ed-43a7-9587-c576a342644c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786088069000
-    },
-    {
       "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
       "description": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain circuits tied to emotion.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
@@ -974,16 +1124,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786087912000
     },
     {
-      "title": "Varnar för regn",
-      "description": "SMHI: kan bli översvämning",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dfa4273b-895c-4aa8-afad-ebe7026e42ea",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dfa4273b-895c-4aa8-afad-ebe7026e42ea",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786087894000
-    },
-    {
       "title": "Quake fyller 30 år med gratis expansion",
       "description": "MachineGames släpper ny kampanj med 19 banor Om man vill känna sig lite gammal kan man ju tänka på att det har gått tre decennier sedan id Software revolutionerade spelvärlden med släppet av Quake. För att markera jubileet och fira att även QuakeCon fyller 30, har den svenska spelutvecklaren MachineGames släppt en helt ny episod för det 30 år gamla spelet som man kan ladda ner och lira. Expansionen är helt gratis för alla som äger Quake och bjuder på en sammanhängande kampanj med 19 banor, en ny karta för Deathmatch och ett helt nyskrivet soundtrack. Till skillnad från tidigare expansioner har MachineGames valt att satsa på en linjär resa. Det betyder att spelarens framsteg och vapen följer med under hela kampanjen, vilket skapar ett mer modernt flyt i spelupplevelsen. Till sitt förfogande har man som spelare också tillgång till nya vapenvarianter, såsom en Laser Cannon och en Super Axe. Dessa får man då se till att använda på både klassiska och nya fiender. Folket från Digital Foundry har tagit sig en närmare titt på denna expansion och deras analys kan du kolla in nedan och via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/quake-fyller-30-ar-med-gratis-expansion/494792/ L&auml;s mer om id Software , Quake , MachineGames , QuakeCon , datorspel , Laser Cannon",
       "link": "https://feber.se/spel/quake-fyller-30-ar-med-gratis-expansion/494792/?utm_source=rss&utm_medium=feed",
@@ -992,16 +1132,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786087800000
-    },
-    {
-      "title": "Oväntade juveltjuven – smycken för 100 tusen",
-      "description": "Tas på bar gärning",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ovantade-tjuven-stal-juveler",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ovantade-tjuven-stal-juveler",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786087294000
     },
     {
       "title": "Snart dags för ny omgång av The Grand Tour",
@@ -1044,16 +1174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786083720000
     },
     {
-      "title": "Efter dubbelmordet i Härnösand – nu väcks åtal",
-      "description": "Mordet har gäckat polisen i nästan två decennier. Nu åtalas en man i 45-årsåldern för det 21 år gamla dubbelmordet i Brattås i Härnösand 2005. – Min bedömning är att bevisläget är gott, säger åklagare Hanna Flordal.",
-      "link": "https://www.expressen.se/nyheter/sverige/efter-dubbelmordet-i-harnosand-nu-vacks-atal/",
-      "guid": "https://www.expressen.se/nyheter/sverige/efter-dubbelmordet-i-harnosand-nu-vacks-atal/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786082861000
-    },
-    {
       "title": "Morgonens nyheter i Stockholm",
       "description": "Nils Olding från Täby och Julia Blomqvist har grillat partiledarna i frågor som rör personer med intellektuell funktionsnedsättning.",
       "link": "https://www.mitti.se/nyheter/morgonens-nyheter-i-stockholm-6.3.379138.ee8b21c79b",
@@ -1062,16 +1182,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786082619000
-    },
-    {
-      "title": "Pojke påkörd",
-      "description": "Åkte elsparkcykel",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=788904ba-f966-47f1-8f0f-1f68fc376d68",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=788904ba-f966-47f1-8f0f-1f68fc376d68",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786082570000
     },
     {
       "title": "Stor dataläcka hos elsparkuthyraren Ryde",
@@ -1244,16 +1354,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786042509000
     },
     {
-      "title": "Rezvanis nya best ska bjuda på nästan 1600 hästar",
-      "description": "Är en Corvette i nya kläder 2015 presenterade Rezvani sin allra första modell Beast. Det handlar om en sportbil som baseras på Ariel Atom men som fått sig ett helt eget utseende. Nu är det en helt ny Beast på gång som kallas för Beast X. Under denna bor det dock ingen Atom utan precis som i Beast generation två en Corvette. Det går dock inte att se längre och Rezvani lovar att detta blir den vildaste upplagan av Beast hittills. Motorn är en V8:a på 6,2 liter och bilen ska bjuda på en effekt på hela 1582 hästar. Drivningen sker på alla fyra hjulen och det gör att tankarna går till att det nog är Corvette E-Ray man har använt som bas. 0-100 km/h ska gå på strax över 2,5 sekunder. E-Ray har dock \"bara\" 664 hästar så var Rezvani har gjort för att få upp effekten nästan 1000 hästar till är fortfarande oklart. Karossen är i kolfiber och via teaserbilden här ovan kan vi se att den får ett ganska så aggressivt utseende med luftintag och utsläpp lite här och var. Endast fem exemplar kommer att bli till och du kan reservera ditt nu för 1500 dollar. Avtäckningen kommer att ske den 10 augusti. L&auml;s vidare och kommentera: https://feber.se/bil/rezvanis-nya-best-ska-bjuda-pa-nastan-1600-hastar/494750/ L&auml;s mer om Rezvani , Rezvani Beast X , Corvette , superbil , prestanda , effekt , hästkrafter",
-      "link": "https://feber.se/bil/rezvanis-nya-best-ska-bjuda-pa-nastan-1600-hastar/494750/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/rezvanis-nya-best-ska-bjuda-pa-nastan-1600-hastar/494750/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786041000000
-    },
-    {
       "title": "Federer",
       "description": "",
       "link": "https://uncrate.com/federer/",
@@ -1264,26 +1364,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786041000000
     },
     {
-      "title": "Fler skivbolag hoppar på Spotifys AI-remixer",
-      "description": "Remixa fler av dina favoritartister Spotify breddar sitt AI-drivna remixverktyg genom ett nytt avtal med licensieringsorganisationen Merlin. Det innebär att du snart kan göra AI-remixer med artister från en lång rad oberoende skivbolag som Sub Pop, Warp, Ninja Tune, Domino och Epitaph – om de väljer att delta. Det nya remixverktyget introducerades först i maj i år med Universal Music Group (UMG) som första stora samarbetspartner. L&auml;s vidare och kommentera: https://feber.se/internet/fler-skivbolag-hoppar-pa-spotifys-ai-remixer/494771/ L&auml;s mer om Merlin , Sub Pop , Warp , Ninja Tune , Domino , AI-remix , Epitaph",
-      "link": "https://feber.se/internet/fler-skivbolag-hoppar-pa-spotifys-ai-remixer/494771/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/fler-skivbolag-hoppar-pa-spotifys-ai-remixer/494771/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786039200000
-    },
-    {
-      "title": "Xbox får snart en variant av PlayStations Platinum-trofé",
-      "description": "Microsoft bekräftar att en motsvarighet är på gång Trots att Xbox en gång i tiden banade väg för hur prestationer i spel mäts, har deras system för achievements stått och trampat vatten ett tag. I dagsläget samlar Xbox-spelare poäng (Gamerscore) genom att utföra prestationer i spelen men det saknas en specifik utmärkelse som markerar att man har klarat av precis allt i ett spel. Alltså något som motsvarar en Platinum-trofé som man kan få på PlayStation, som då fungerar som det slutgiltiga beviset på att ett spel är fullbordat. Xbox-chefen Asha Sharma meddelade nyligen på sociala medier att de jobbar på att införa något liknande och att det förväntas dyka upp senare i år. Så om man är en sådan som vill ha någon form av bekräftelse att man klarat samliga spelets utmaningar kan man ju kanske glädjas åt detta. L&auml;s vidare och kommentera: https://feber.se/spel/xbox-far-snart-en-variant-av-playstations-platinum-trofe/494761/ L&auml;s mer om Xbox , Gamerscore , PlayStation , Asha Sharma , achievements , Platinum-trofé",
-      "link": "https://feber.se/spel/xbox-far-snart-en-variant-av-playstations-platinum-trofe/494761/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/xbox-far-snart-en-variant-av-playstations-platinum-trofe/494761/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786037400000
-    },
-    {
       "title": "Luca Faloni Summer Guide",
       "description": "",
       "link": "https://uncrate.com/luca-faloni-summer-guide/",
@@ -1292,16 +1372,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786037400000
-    },
-    {
-      "title": "Svenskodlad regnbågslax till ICA-butiker",
-      "description": "Ett skifte i svenska fiskdiskar Traditionellt har den norska laxen dominerat stort i Sverige, medan den fisk som odlas här hemma ofta gått på export. Nu vill man ändra på detta. Tack vare nya lagändringar som trädde i kraft i somras har det blivit enklare att driva fiskodlingar i Sverige, något regeringen hoppas ska stärka landets livsmedelsberedskap. Genom ett nytt samarbete mellan livsmedelsjätten ICA och producenten Nordic Trout kommer svenskodlad regnbågslax att bli mer tillgänglig för konsumenterna. Satsningen välkomnas dock inte av alla. Världsnaturfonden (WWF) ställer sig kritiska till expansionen och varnar för miljökonsekvenserna. Trots att många odlingar är miljöcertifierade, pekar WWF på problem med foder som bidrar till utfiskning och risken för att fisk rymmer från odlingarna. Enligt deras ”Fiskguide” får svenskodlad regnbåge gult ljus, vilket innebär att konsumenter bör vara försiktiga. L&auml;s vidare och kommentera: https://tjock.se/strupen/svenskodlad-regnbagslax-till-ica-butiker/494767/ L&auml;s mer om ICA , Nordic Trout , regnbågslax , WWF , fiskodling , livsmedelsberedskap",
-      "link": "https://tjock.se/strupen/svenskodlad-regnbagslax-till-ica-butiker/494767/?utm_source=rss&utm_medium=feed",
-      "guid": "https://tjock.se/strupen/svenskodlad-regnbagslax-till-ica-butiker/494767/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786035600000
     },
     {
       "title": "Assouline Moon Candle",
@@ -1324,16 +1394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786035600000
     },
     {
-      "title": "Kan MS Paint köra DOOM?",
-      "description": "Klart det kan! DOOM är ju spelet som är känt för att det kan köras på in princip vad som helst, allt från Husqvarnas gräsklippare till digitala graviditetstester. Nu har någon entusiast fått spelet att snurra i Microsoft Paint vilket ju är lite kul. Projektet, som går under namnet DoomPaint, har utvecklats av Mark Russinovich, teknisk chef för Microsoft Azure. Det körs dock inte helt bara i programmet då lösningen istället använder Paints rityta för att visa spelet. Tekniken bakom är lika enkel som genial då varje bildruta kopieras till Windows urklipshanterare och klistras sedan automatiskt in i Paint som en ny redigering. Trots denna spartanska metod presterar spelet förvånansvärt bra då det kan komma upp i hastighet på 35 bilder i sekunden, vilket matchar 90-talsflytet rätt bra. För den som vill testa själv har Russinovich lagt ut både instruktioner och källkod på GitHub. L&auml;s vidare och kommentera: https://feber.se/pc/kan-ms-paint-kora-doom/494763/ L&auml;s mer om DOOM , Mark Russinovich , Microsoft Paint , DoomPaint , Microsoft Azure , GitHub , Retrogaming",
-      "link": "https://feber.se/pc/kan-ms-paint-kora-doom/494763/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/kan-ms-paint-kora-doom/494763/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786033800000
-    },
-    {
       "title": "Ett speciellt vattenfall i Antarktis har länge omgärdats av mystik – nu har forskare gjort en häpnadsväckande upptäckt under isen",
       "description": "Under den roströda substansen har en forskargrupp hittat något mycket anmärkningsvärt.",
       "link": "https://illvet.se/naturen/ett-speciellt-vattenfall-i-antarktis-har-lange-omgardats-av-mystik-nu-har-forskare-gjort-en-hapnadsvackande-upptackt-under-isen",
@@ -1342,16 +1402,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786032942000
-    },
-    {
-      "title": "Nu tar AI över Reddit",
-      "description": "Språkmodeller kliver in för att hålla ordning i forumen The Verge rapporterar om att Reddit ska börja använda AI för att hålla ordning i sina forum. Detta ska göras via verktyget Rules Hub där moderatorer ska få hjälp av stora språkmodeller som då ska automatiskt granska både inlägg och kommentarer. Till skillnad från det nuvarande systemet Automod, som främst letar efter specifika nyckelord, ska den nya AI-tekniken förstå sammanhang och nyanser i språket. Man hoppas att detta ska göra det lättare att hantera gränsfall och mer komplexa regelbrott. Verktyget har redan testats i över 700 communities och förväntas bli tillgängligt för alla nya forum under året. Reddit säger dock att de kommer att samarbeta med moderatorer och utvecklare under övergångsperioden för att se till att de nya verktygen faktiskt fungerar bättre än de gamla innan några gamla funktioner stängs ner permanent. L&auml;s vidare och kommentera: https://feber.se/internet/nu-tar-ai-over-reddit/494766/ L&auml;s mer om Rules Hub , Automod , The Verge , AI , språkmodeller , moderering , stora språkmodeller",
-      "link": "https://feber.se/internet/nu-tar-ai-over-reddit/494766/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/nu-tar-ai-over-reddit/494766/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786032000000
     },
     {
       "title": "Nike Hybrid Fly and RN Training Shoes",
@@ -1864,16 +1914,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785961806000
     },
     {
-      "title": "Whistlepig The Boss Hog XIII The Golden Pharaoh Rye Whiskey",
-      "description": "",
-      "link": "https://uncrate.com/whistlepig-the-boss-hog-xiii-the-golden-pharaoh-rye-whiskey/",
-      "guid": "https://uncrate.com/whistlepig-the-boss-hog-xiii-the-golden-pharaoh-rye-whiskey/",
-      "image": "https://uncrate.com/assets_c/2026/08/whistlepig-boss-hog-2-thumb-960xauto-192462.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785960001000
-    },
-    {
       "title": "HTV: Röster inför Raków borta",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-infoer-rakow-borta",
@@ -1882,16 +1922,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1785959136000
-    },
-    {
-      "title": "Mood Premium THC Products",
-      "description": "",
-      "link": "https://uncrate.com/mood-premium-thc-products/",
-      "guid": "https://uncrate.com/mood-premium-thc-products/",
-      "image": "https://uncrate.com/assets_c/2026/08/mood-cannabis-soda-1-darkened-thumb-960xauto-192478.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1785958218000
     },
     {
       "title": "Han var frustrerad över det höga antalet dödsfall på sin förlossningsavdelning, men hans lösning på problemet väckte ramaskri",
@@ -2992,16 +3022,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785695400000
-    },
-    {
-      "title": "Arkeologer fann imponerande järnåldersby med minst 30 långhus – nära platsen för legendarisk massaker",
-      "description": "Den överraskande stora germanska bosättningen kastar nytt ljus över de nära handelsförbindelserna med romarriket – i ett område som annars är känt för något helt annat än handel mellan de två folken.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/arkeologer-fann-imponerande-jarnaldersby-med-minst-30-langhus",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/arkeologer-fann-imponerande-jarnaldersby-med-minst-30-langhus",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785686428000
     },
     {
       "title": "Dark matter’s secret force does the opposite of what scientists expected",
