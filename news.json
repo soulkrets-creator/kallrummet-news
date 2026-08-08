@@ -1,8 +1,218 @@
 {
-  "updatedAt": "2026-08-08T04:03:41.525Z",
+  "updatedAt": "2026-08-08T06:33:23.481Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Båt sjönk utanför Vasa",
+      "description": "En båtolycka inträffade utanför Vasa natten mot lördag. Personerna i båten klarade sig oskadda, meddelar räddningsverket.",
+      "link": "https://yle.fi/a/7-10103261?origin=rss",
+      "guid": "https://yle.fi/a/7-10103261",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786170145000
+    },
+    {
+      "title": "AI ger få negativa effekter på jobben i Stockholm",
+      "description": "Stockholm är en stad där många AI-startups och AI-företag, som Lovable och Legora, har sina huvudkontor. Martin Svedmark jobbar på ett stort AI-bolag och berättar om sin vardag.",
+      "link": "https://www.mitti.se/nyheter/ai-ger-fa-negativa-effekter-pa-jobben-i-stockholm-6.3.370415.ddb0ad714f",
+      "guid": "https://www.mitti.se/nyheter/ai-ger-fa-negativa-effekter-pa-jobben-i-stockholm-6.3.370415.ddb0ad714f",
+      "image": "https://www.mitti.se/image-3.374616.297002.20260808061956.1.6ad83f8115?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786169700000
+    },
+    {
+      "title": "Därför är Stockholm störst på AI",
+      "description": "Ali Leylani är ordförande för Stockholm AI, och han berättar att Stockholm är världsledande vad gäller AI-startups och AI-företag.",
+      "link": "https://www.mitti.se/nyheter/darfor-ar-stockholm-storst-pa-ai-6.3.371500.ac52a4c5e2",
+      "guid": "https://www.mitti.se/nyheter/darfor-ar-stockholm-storst-pa-ai-6.3.371500.ac52a4c5e2",
+      "image": "https://www.mitti.se/image-3.286732.297651.20260808061952.4014863f56?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786169580000
+    },
+    {
+      "title": "Tiotals döda personer i Finland har aldrig identifierats – så jobbar polisen för att lösa mysterierna",
+      "description": "I Finland finns 40 avlidna personer, vars identitet man inte känner till. En av dem är en man som hittades iklädd lager på lager mitt i sommaren, i en skog i Rusko norr om Åbo.",
+      "link": "https://yle.fi/a/7-10103193?origin=rss",
+      "guid": "https://yle.fi/a/7-10103193",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786169406000
+    },
+    {
+      "title": "Dödlig rysk attack mot Kiev",
+      "description": "Huvudstaden i lågor",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/dodlig-rysk-attack-mot-kiev-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/dodlig-rysk-attack-mot-kiev-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786169332000
+    },
+    {
+      "title": "Babylon Berlin återvänder med sista säsongen",
+      "description": "Med lite Hitler och nazism Den vettiga tyska serien Babylon Berlin har redan levererat ett antal bra säsonger och snart får vi äntligen en ny säsong. I denna femte och sista säsong får vi se vad som händer när Tyskland utser Adolf Hitler till rikskansler samt vad seriens karaktärer får göra när nazismen kopplar sitt grepp om landet. I Tyskland har säsongen premiär den 10 september och det är för tillfället oklart när säsongen dyker upp här i Sverige. L&auml;s vidare och kommentera: https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/ L&auml;s mer om Babylon Berlin , Adolf Hitler , Tyskland , nazism , TV-serier",
+      "link": "https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786168800000
+    },
+    {
+      "title": "Kusliga sekunderna innan grova mordet",
+      "description": "USA skakas av misstänkt clownmördare • Otäcka besöket",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-dyker-den-misstankta-mordaren-upp-i-clowndrakt",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-dyker-den-misstankta-mordaren-upp-i-clowndrakt",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786168417000
+    },
+    {
+      "title": "20-tal i storbråk",
+      "description": "Trängde sig före kön i Grebbestad",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=97682cd4-18f3-4d50-bffc-5dd440cf0aba",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=97682cd4-18f3-4d50-bffc-5dd440cf0aba",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786167336000
+    },
+    {
+      "title": "Lingonlimpa – recept på saftigt lingonbröd",
+      "description": "Grov och god limpa med sötma från lingonen, passar perfekt till frukost.",
+      "link": "https://alltommat.expressen.se/recept/lingonlimpa-recept-pa-saftigt-lingonbrod/",
+      "guid": "https://alltommat.expressen.se/recept/lingonlimpa-recept-pa-saftigt-lingonbrod/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1786167240000
+    },
+    {
+      "title": "Varningen: Avgiftsfria månader kan ge skattesmäll",
+      "description": "Under det första halvåret i år ökade försäljningen av nyproducerade hus och lägenheter jämfört med motsvarande period i fjol. Det visar statistik från bostadssajten Booli, ett dotterbolag till banken SBAB. Försäljningen av nyproducerade hus och lägenheter ökar men går fortsatt trögt jämfört med äldre bostäder. För att locka fler köpare erbjuder en del bolag “avgiftsfria […]",
+      "link": "https://www.dagensps.se/privatekonomi/bostad/varningen-avgiftsfria-manader-kan-ge-skattesmall/",
+      "guid": "https://www.dagensps.se/?p=1662382",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/forsaljningen-av-nyproducerade-bostader.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786167097000
+    },
+    {
+      "title": "Letar efter ”symbolisk” seger åt Trump",
+      "description": "USA:s högste militär Dan Caine varnar för att en upptrappning av kriget i Iran kan slå tillbaka mot USA. Nu uppges han leta efter en lösning som ger Trump en ”symbolisk” seger. – Caine letar efter en väg ut, säger en källa till CNN .",
+      "link": "https://www.expressen.se/nyheter/varlden/letar-efter-symbolisk-seger-at-trump/",
+      "guid": "https://www.expressen.se/nyheter/varlden/letar-efter-symbolisk-seger-at-trump/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786166247000
+    },
+    {
+      "title": "Larm om måsar ökar i Stockholm: ”Otroligt många”",
+      "description": "Skadedjuren har legat lågt i sommar – nästan",
+      "link": "https://www.mitti.se/nyheter/larm-om-masar-okar-i-stockholm-otroligt-manga-6.3.377687.681e89dc47",
+      "guid": "https://www.mitti.se/nyheter/larm-om-masar-okar-i-stockholm-otroligt-manga-6.3.377687.681e89dc47",
+      "image": "https://www.mitti.se/image-3.377534.301319.20260808054614.1.ffef77a1bd?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786166133000
+    },
+    {
+      "title": "Colombias nya president lovar kamp mot narkotika i sitt installationstal",
+      "description": "President Abelardo de la Espriellas installationsceremoni ordnades undantagsvis inte i huvudstaden. Bland annat Gianni Infantino och kung Felipe VI deltog.",
+      "link": "https://yle.fi/a/7-10103258?origin=rss",
+      "guid": "https://yle.fi/a/7-10103258",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786165315000
+    },
+    {
+      "title": "Forskare observerade en val på natten – när det stora djuret plötsligt gjorde något vi aldrig tidigare har sett",
+      "description": "Forskare har i åratal försökt förstå ett mystiskt beteende bland valar och nu har de äntligen listat ut vad som sker där nere i mörkret.",
+      "link": "https://illvet.se/naturen/forskare-observerade-en-val-pa-natten-nar-det-stora-djuret-plotsligt-gjorde-nagot-vi-aldrig-tidigare-har-sett",
+      "guid": "https://illvet.se/naturen/forskare-observerade-en-val-pa-natten-nar-det-stora-djuret-plotsligt-gjorde-nagot-vi-aldrig-tidigare-har-sett",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786165236000
+    },
+    {
+      "title": "Bärplockaren är sommarens nya strandredskap – men inte för blåbär",
+      "description": "Under slutet av badsäsongen har man på stranden i Sandudd testat att plocka skräp med bärplockare.",
+      "link": "https://yle.fi/a/7-10103218?origin=rss",
+      "guid": "https://yle.fi/a/7-10103218",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786165215000
+    },
+    {
+      "title": "Över 100 krigsfartyg sjönk under katastrofal kampanj – nu kan du dyka bland dem",
+      "description": "Nu kan dykare, historieintresserade och äventyrssugna besöka de otaliga vrak som fyller en av världens största skeppskyrkogårdar – och den har mer att erbjuda än bara krigshistoria.",
+      "link": "https://varldenshistoria.se/krig/forsta-varldskriget/over-100-krigsfartyg-sjonk-under-katastrofal-kampanj-nu-kan-du-dyka-bland-dem",
+      "guid": "https://varldenshistoria.se/krig/forsta-varldskriget/over-100-krigsfartyg-sjonk-under-katastrofal-kampanj-nu-kan-du-dyka-bland-dem",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786165212000
+    },
+    {
+      "title": "Vill se ”mammabonus”",
+      "description": "KD:s förslag: 36 900 kronor",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e48b60cf-99bc-4519-b833-b53a54f02636",
+      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e48b60cf-99bc-4519-b833-b53a54f02636",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786164931000
+    },
+    {
+      "title": "Aleksi Ahlfors imponerade i JVM – löpte nytt personbästa och nosade på medalj",
+      "description": "De blåvita idrottarna fortsätter att rada upp fina resultat i U20-VM i friidrott i USA. På 3 000 meter noterades Aleksi Ahlfors för ett nytt personligt rekord och slutade femma.",
+      "link": "https://yle.fi/a/7-10103259?origin=rss",
+      "guid": "https://yle.fi/a/7-10103259",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786164492000
+    },
+    {
+      "title": "Kvinnor slogs",
+      "description": "Blodigt bråk i lägenhet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=53f34265-52db-4a48-be54-89e48514b670",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=53f34265-52db-4a48-be54-89e48514b670",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786164133000
+    },
+    {
+      "title": "”Ni anar inte hur tungt det är att aldrig duga för sina föräldrar”",
+      "description": "Vi fick ett brev av en frustrerad mamma som har en slö tonåring hemma, som inte verkar ha några ambitioner alls. Många reagerade starkt på brevet.",
+      "link": "https://yle.fi/a/7-10103158?origin=rss",
+      "guid": "https://yle.fi/a/7-10103158",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786162980000
+    },
+    {
+      "title": "Notan för AI kan vara lika dyr som en nyanställd",
+      "description": "AI kostar mer än många tror, och snart kan företag komma billigare undan genom nyanställningar i stället för att betala allt dyrare licenser.",
+      "link": "https://yle.fi/a/7-10102644?origin=rss",
+      "guid": "https://yle.fi/a/7-10102644",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786162621000
+    },
     {
       "title": "Jenny Strömstedt: ”Tänker alltid att jag ska få sparken”",
       "description": "Hon har den tyngsta rollen i TV4:s valbevakning. Trots det är Jenny Strömstedt hela tiden beredd på att nästa dag på jobbet kan bli hennes sista. – Jag tänker alltid att jag ska få sparken.",
@@ -18,7 +228,7 @@
       "description": "Dammen i Långbro park är dåligt skett tycker en del besökare. Det är för mycket alger och andra vattenväxter menar bland andra Tony Walther som skrivit ett medborgarförslag om att stadsdelsförvaltningen och inte trafikkontoret ska sköta om naturdammen.",
       "link": "https://www.mitti.se/nyheter/forslaget-lat-stadsdelen-tar-over-parkdammen-6.3.378537.9d306efe8f",
       "guid": "https://www.mitti.se/nyheter/forslaget-lat-stadsdelen-tar-over-parkdammen-6.3.378537.9d306efe8f",
-      "image": "https://www.mitti.se/image-3.377564.301824.20260807134301.1.2b80d16d44?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377564.301824.20260808043113.1.28048bc15d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786161600000
@@ -85,7 +295,7 @@
     },
     {
       "title": "Uppgifter: Putin planerar attack mot Nato",
-      "description": "Putin planerar en attack mot Nato-länder. Offensiven skulle kunna ske redan i höst och i syfte av att splittra försvarsalliansen. – Det har alltid varit ett mål att utmana Natos trovärdighet och att skilja USA från dess allierade, säger Heather Conley, expert, till Wall Street Journal .",
+      "description": "Putin planerar en attack mot Nato-länder – redan i höst. Det varnar amerikanska underrättelsekällor för, enligt uppgifter till WSJ . – Det har alltid varit ett mål att utmana Natos trovärdighet och att skilja USA från dess allierade, säger Heather Conley, expert, till tidningen.",
       "link": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
       "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
       "image": "",
@@ -194,26 +404,6 @@
       "timestamp": 1786132801000
     },
     {
-      "title": "Kvinna påkörd av traktor",
-      "description": "”Måste ha ramlat”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0ee40c12-26ca-413d-b104-e9811d95a80d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0ee40c12-26ca-413d-b104-e9811d95a80d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786132467000
-    },
-    {
-      "title": "Misstänkt mordförsök i Katrineholm",
-      "description": "Polisen jagar gärningsperson",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5783400d-ff72-42b5-b098-f0d84963f387",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5783400d-ff72-42b5-b098-f0d84963f387",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786132446000
-    },
-    {
       "title": "HS: Domstolen ville inte höja Joona Räsänens böter enligt hans egen önskan",
       "description": "Räsänen begärde att Västra Nylands tingsrätt skulle höja hans böter, eftersom bötessumman inte motsvarade hans inkomst.",
       "link": "https://yle.fi/a/7-10103256?origin=rss",
@@ -304,16 +494,6 @@
       "timestamp": 1786127400000
     },
     {
-      "title": "Insamling efter tragiska båtolyckan vid Tjörn uppe i nära 150 000 kronor",
-      "description": "En insamling till pappan och sonen efter den tragiska båtolyckan utanför Tjörn har startats. Nu har närmare 150 000 kronor samlats in. – Det känns fint att det är så många som har velat vara med och göra det lilla man kan, säger initiativtagaren Amanda Josefsson.",
-      "link": "https://www.expressen.se/gt/insamling-efter-tragiska-batolyckan-vid-tjorn-uppe-i-nara-150-000-kronor/",
-      "guid": "https://www.expressen.se/gt/insamling-efter-tragiska-batolyckan-vid-tjorn-uppe-i-nara-150-000-kronor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786127288000
-    },
-    {
       "title": "Fullträff av Roman Eremenko – IF Gnistan klättrar en placering trots oavgjort mot SJK",
       "description": "I herrarnas fotbollsliga slutade fredagens enda match oavgjort. Gnistan klättrar en placering medan SJK behåller sin tionde plats.",
       "link": "https://yle.fi/a/7-10103255?origin=rss",
@@ -322,16 +502,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786126914000
-    },
-    {
-      "title": "Domstol stoppar Trumps bygge av en balsal vid Vita huset",
-      "description": "Bygget av en balsal i Vita huset kräver kongressens godkännande. Det kräver en ny domstol i USA på fredagen. Beskedet får presidenten att rasa. ”Vi kommer omedelbart att överklaga till högsta domstolen,” skriver Trump på Truth Social.",
-      "link": "https://www.expressen.se/nyheter/varlden/domstol-stoppar-trumps-bygge--av-en-balsal-vid-vita-huset/",
-      "guid": "https://www.expressen.se/nyheter/varlden/domstol-stoppar-trumps-bygge--av-en-balsal-vid-vita-huset/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786125901000
     },
     {
       "title": "Engångsplast är på väg bort – men målet är svårt att nå",
@@ -392,16 +562,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786123800000
-    },
-    {
-      "title": "Trumps balsal stoppas",
-      "description": "Domstolens krav",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=74a9cba5-d3e5-4c6e-9ea8-2eb89a6534a0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=74a9cba5-d3e5-4c6e-9ea8-2eb89a6534a0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786122981000
     },
     {
       "title": "Brita, 92, bor med fladdermöss: ”Inga mygg i alla fall”",
@@ -472,16 +632,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786119884000
-    },
-    {
-      "title": "Här gömmer de sig för skytten",
-      "description": "Minst sju döda i Bangkok",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-gommer-eleverna-sig-for-skytten",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gommer-eleverna-sig-for-skytten",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786119595000
     },
     {
       "title": "Inkamumier gav avgörande bevis: Européerna förde med sig kopporna till Amerika",
@@ -664,16 +814,6 @@
       "timestamp": 1786112840000
     },
     {
-      "title": "Kravet: Trump måste kompromissa med Iran",
-      "description": "Ett avtal med Iran om Hormuzsundet kan kräva att Donald Trump gör något han inte är bra på – kompromissa kring en lösning. Fem månader har gått sedan USA och Israel gick till attack mot Iran. Trots uttalanden om seger ett antal gånger, är USA i läget att det i princip enda som finns inom […]",
-      "link": "https://www.dagensps.se/varlden/kravet-trump-maste-kompromissa-med-iran/",
-      "guid": "https://www.dagensps.se/?p=1662317",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlfu6fleviow4-nh-300x300.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786112835000
-    },
-    {
       "title": "Finlands nyaste modellflygplansfält finns i Kullo i Borgå",
       "description": "Ett flygparadis, så beskriver en av modellflygplansentusiasterna det nya flygfältet. Här finns dessutom en sällsynt specialitet: En hinderbana för drönare.",
       "link": "https://yle.fi/a/7-10103189?origin=rss",
@@ -764,36 +904,6 @@
       "timestamp": 1786109400000
     },
     {
-      "title": "Äldre man drunknade i Lojo",
-      "description": "Västra Nylands räddningsverk och polisen meddelar att en äldre man omkom i samband med en fiskeutfärd i Karislojo under fredagen.",
-      "link": "https://yle.fi/a/7-10103250?origin=rss",
-      "guid": "https://yle.fi/a/7-10103250",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786108865000
-    },
-    {
-      "title": "Finländsk travtränare avstängd – fångades på film då han misshandlade häst",
-      "description": "Travtränaren Veikko Haapakangas stängs av efter att ha slagit en häst i huvudet. I väntan på utredning dras hans tävlingslicens tillfälligt in.",
-      "link": "https://yle.fi/a/7-10103246?origin=rss",
-      "guid": "https://yle.fi/a/7-10103246",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786108261000
-    },
-    {
-      "title": "Inbrottsförsök på minigolfbana i Borgå – kiosk vandaliserad",
-      "description": "Morgonpersonalen möttes av en otrevlig överraskning när de kom till JS Minigolf på fredagen. Någon hade försökt bryta sig in i kiosken under natten.",
-      "link": "https://yle.fi/a/7-10103247?origin=rss",
-      "guid": "https://yle.fi/a/7-10103247",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786108034000
-    },
-    {
       "title": "Enormt rymdobjekt kommer att susa nära förbi jorden: Nu har forskare upptäckt en oväntad risk",
       "description": "Allt tyder på att den kommer att susa säkert förbi vår planet. Men nu har två italienska astronomer upptäckt att något annat kan komma i vägen när den besöker oss.",
       "link": "https://illvet.se/universum/enormt-rymdobjekt-kommer-att-susa-nara-forbi-jorden-nu-har-forskare-upptackt-en-ovantad-risk",
@@ -854,16 +964,6 @@
       "timestamp": 1786106773000
     },
     {
-      "title": "Finlands östligaste kommun vill locka turister som vill skjuta björn",
-      "description": "Jord- och skogsbruksministeriet föreslår jaktkvoter på björn i stället för undantagslov. Jaktföreningar jublar, medan naturföreningar är upprörda.",
-      "link": "https://yle.fi/a/7-10103227?origin=rss",
-      "guid": "https://yle.fi/a/7-10103227",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786106714000
-    },
-    {
       "title": "Plockade skräp och onanerade i Obsevatorielunden",
       "description": "Sexuellt ofredande i Vasastan – polis larmades till park.",
       "link": "https://www.mitti.se/nyheter/plockade-skrap-och-onanerade-i-obsevatorielunden-6.3.379140.dcc2815c81",
@@ -904,16 +1004,6 @@
       "timestamp": 1786105368000
     },
     {
-      "title": "Slukhålet i Dalsbruk lappades – oklart när trasiga vägtrumman byts ut",
-      "description": "Det slukhål på Hertsbölevägen i Kimitoön som oroat invånare i området har lappats av myndigheterna.",
-      "link": "https://yle.fi/a/7-10103242?origin=rss",
-      "guid": "https://yle.fi/a/7-10103242",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786105142000
-    },
-    {
       "title": "Nu kan du streama Netflix i 4K via Google Chrome",
       "description": "Äntligen! Nu kan du äntligen titta på Netflix i 4K-upplösning direkt i Google Chrome. Tidigare har tjänsten hänvisat till Microsoft Edge (eller Safari på Mac) för att komma runt streamingtjänstens upplösningsspärr på 1080p. Uppdateringen gäller från och med Chrome version 117, men har en begränsning: 4K-stödet fungerar i nuläget enbart om du använder Windows 11. Sitter du på macOS är det alltså fortfarande Safari som gäller för 4K, och på Linux är kvaliteten i Chrome fortsatt strypt till ynka 720p. Webbläsarversionen saknar fortfarande stöd för mer avancerade bild- och ljudformat som Dolby Vision, HDR10+ och Dolby Atmos. L&auml;s vidare och kommentera: https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/ L&auml;s mer om Google Chrome , Windows 11 , 4K , Dolby Vision , Safari , Microsoft Edge",
       "link": "https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/?utm_source=rss&utm_medium=feed",
@@ -924,16 +1014,6 @@
       "timestamp": 1786104600000
     },
     {
-      "title": "TBE-fallen ökar kraftigt i Västnyland – nu krävs gratis påfyllnadsdoser",
-      "description": "Antalen fall av fästingburen hjärninflammation, TBE, har ökat kraftigt i Västnyland. Politiker vill nu att reglerna för gratis vaccin förbättras.",
-      "link": "https://yle.fi/a/7-10103243?origin=rss",
-      "guid": "https://yle.fi/a/7-10103243",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786104151000
-    },
-    {
       "title": "Japan ryter ifrån mot USA:s användning av Nintendo-memes",
       "description": "Kräver ett stopp för statens användning av japanska karaktärer Den japanska regeringen har vid upprepade tillfällen uppmanat USA:s administration att sluta upp med att använda kända japanska karaktärer i sina sociala medier. Figurer från bland annat Pokémon, Naruto och Mario har dykt upp i allt från politiska inlägg till krigspropaganda. Det japanska utrikesdepartementet ryter nu till lite hårdare och säger att det är direkt olämpligt för statliga institutioner att använda upphovsrättsskyddat material utan tillstånd från rättighetsinnehavarna. De oroar sig också över att de folkkära varumärkenas rykte kan skadas när de kopplas samman med kontroversiella politiska agendor eller militära budskap. Bland annat har den amerikanska regeringen publicerat videor där klipp från Nintendo-spel varvats med bilder på luftanfall, samt montage där Pokémon-karaktärer används i samband med insatser från gränspolisen. Senast i juni väckte en AI-genererad video, där presidenten framställdes som ninjan Naruto, stor irritation från japanskt håll. Från amerikanskt håll har man hittills försvarat strategin med att använda memes då företrädare för administrationen menar att memes är ett effektivt och modernt sätt att nå ut med sitt budskap till allmänheten. Japan har dock klargjort via diplomatiska kanaler att respekt för immaterialrätten måste gå före viral kommunikation. L&auml;s vidare och kommentera: https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/ L&auml;s mer om Pokémon , Naruto , Nintendo , USA , Mario , upphovsrätt",
       "link": "https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/?utm_source=rss&utm_medium=feed",
@@ -942,16 +1022,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786104000000
-    },
-    {
-      "title": "Lyckad sommarsäsong för Lurens sommarteater trots byggkaos",
-      "description": "Nästan 10 000 i publikantal och en nyinvigd läktare. Lurens sommarteater blickar tillbaka på en framgångsrik säsong, trots utmanande förhållanden för ensemblen.",
-      "link": "https://yle.fi/a/7-10103241?origin=rss",
-      "guid": "https://yle.fi/a/7-10103241",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786102937000
     },
     {
       "title": "Extremhettan fortsätter i Europa",
@@ -1282,16 +1352,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786082619000
-    },
-    {
-      "title": "Stor dataläcka hos elsparkuthyraren Ryde",
-      "description": "Personuppgifter för miljontals användare har läckt ut Elsparkcykelföretaget Ryde har utsatts för ett stort dataintrång där hackare kommit åt personuppgifter från samtliga användare. Totalt berörs 4,5 miljoner konton i norra Europa, varav en betydande del då är från Sverige. Det var under natten till söndagen den 2 augusti som Ryde upptäckte att obehöriga tagit sig in i deras system. Enligt företaget har banditerna lyckats kopiera en stor mängd kunddata. De läckta uppgifterna inkluderar bland annat telefonnummer, e-postadresser, födelsedatum och delar av användarnas betalkortsinformation. Trots att delar av kortnumren har läckt, meddelar Ryde att kunderna i nuläget inte behöver spärra sina bankkort. Däremot uppmanas alla användare att vara extra vaksamma på misstänkt kommunikation, då läckta kontaktuppgifter kan användas för framtida nätfiske och bedrägerier. Företaget har anmält händelsen till berörda myndigheter och arbetar nu med att stärka sina system för att förhindra liknande händelser. Nu kanske man kan tycka att man borde gjort det innan intrånget, men man kan väl inte få allt här i världen. L&auml;s vidare och kommentera: https://feber.se/fordon/stor-datalacka-hos-elsparkuthyraren-ryde/494794/ L&auml;s mer om Ryde , dataintrång , personuppgifter , nätfiske",
-      "link": "https://feber.se/fordon/stor-datalacka-hos-elsparkuthyraren-ryde/494794/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/stor-datalacka-hos-elsparkuthyraren-ryde/494794/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786082400000
     },
     {
       "title": "Katter lämnades kvar på hotell – omhändertogs",
@@ -2334,16 +2394,6 @@
       "timestamp": 1785906012000
     },
     {
-      "title": "Idén till denna uppfinning kommer från ett specifikt djur i naturen – nu ska forskare få den att rädda människoliv",
-      "description": "Den ser kanske lite konstig ut – men den har en mycket viktig uppgift.",
-      "link": "https://illvet.se/teknik/iden-till-denna-uppfinning-kommer-fran-ett-specifikt-djur-i-naturen-nu-ska-forskare-fa-den-att-radda-manniskoliv",
-      "guid": "https://illvet.se/teknik/iden-till-denna-uppfinning-kommer-fran-ett-specifikt-djur-i-naturen-nu-ska-forskare-fa-den-att-radda-manniskoliv",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785906002000
-    },
-    {
       "title": "Efter M:s tvärnej – LP tar strid för fritidsbank på Lidingö",
       "description": "Lidingöpartiet backar nu en fritidsbank på Lidingö efter tidigare nej i styret. Partiet hänvisar till stark respons och vill göra frågan till ett krav i kommande förhandlingar.",
       "link": "https://www.mitti.se/nyheter/efter-ms-tvarnej--lp-tar-strid-for-fritidsbank-pa-lidingo-6.3.378381.7a69a03066",
@@ -2924,16 +2974,6 @@
       "timestamp": 1785747713000
     },
     {
-      "title": "Niinis enkla gratäng med smak av populär dippmix",
-      "description": "Sugen på en snabblagad middag med spännande kryddning? Då borde du testa populära matprofilen Nina ”Niinis” Hermasens falukorvsgratäng med Holiday-dipp. – En liten påshjälte som förvandlar hela rätten till en krämig smakbomb, enligt receptmakaren själv.",
-      "link": "https://alltommat.expressen.se/artiklar/niinis-enkla-gratang-med-smak-av-popular-dippmix/",
-      "guid": "https://alltommat.expressen.se/artiklar/niinis-enkla-gratang-med-smak-av-popular-dippmix/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785740400000
-    },
-    {
       "title": "Han öppnar pub i Jungfrusund – helt utan mat",
       "description": "En pub där man också kan spela golf – det öppnar i Jungfrusund på Ekerö i september – Tee and tap kommer ha Guinness och golfsimulatorer.",
       "link": "https://www.mitti.se/nyheter/han-oppnar-pub-i-jungfrusund--helt-utan-mat-6.3.377727.bf02748249",
@@ -2962,16 +3002,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785736299000
-    },
-    {
-      "title": "Arkeologer fann 120 romerska inskriptioner djupt inne i en spansk grotta: Kopplas till hittills okänd gudinnekult",
-      "description": "200 meter in i vad som genom historien kallats ”Kvinnornas grotta” har forskare hittat ett otal romerska inskriptioner tillägnade en mystisk gudinna.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/120-romerska-inskriptioner-i-spansk-grotta-avslojar-hittills-okand-gudinnekult",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/120-romerska-inskriptioner-i-spansk-grotta-avslojar-hittills-okand-gudinnekult",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785733216000
     },
     {
       "title": "Scientists twist crystal layers and reshape matter from within",
