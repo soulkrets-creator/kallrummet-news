@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-08T00:49:27.268Z",
+  "updatedAt": "2026-08-08T04:03:41.525Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Jenny Strömstedt: ”Tänker alltid att jag ska få sparken”",
+      "description": "Hon har den tyngsta rollen i TV4:s valbevakning. Trots det är Jenny Strömstedt hela tiden beredd på att nästa dag på jobbet kan bli hennes sista. – Jag tänker alltid att jag ska få sparken.",
+      "link": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
+      "guid": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786161600000
+    },
+    {
+      "title": "Förslaget: Låt stadsdelen tar över parkdammen",
+      "description": "Dammen i Långbro park är dåligt skett tycker en del besökare. Det är för mycket alger och andra vattenväxter menar bland andra Tony Walther som skrivit ett medborgarförslag om att stadsdelsförvaltningen och inte trafikkontoret ska sköta om naturdammen.",
+      "link": "https://www.mitti.se/nyheter/forslaget-lat-stadsdelen-tar-over-parkdammen-6.3.378537.9d306efe8f",
+      "guid": "https://www.mitti.se/nyheter/forslaget-lat-stadsdelen-tar-over-parkdammen-6.3.378537.9d306efe8f",
+      "image": "https://www.mitti.se/image-3.377564.301824.20260807134301.1.2b80d16d44?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786161600000
+    },
+    {
+      "title": "Brand i villa",
+      "description": "Brandfarlig vätska kastades in",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc7a4dc-7055-47c0-9e52-ab70bc1655a4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc7a4dc-7055-47c0-9e52-ab70bc1655a4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786160643000
+    },
+    {
+      "title": "Så här eldade sociala medier på ruschen till Ceuta",
+      "description": "Entusiastiska inlägg i sociala medier ger unga marockaner hopp om en enkel väg till EU. Fattigdom och arbetslöshet driver dem till den livsfarliga simturen.",
+      "link": "https://yle.fi/a/7-10103001?origin=rss",
+      "guid": "https://yle.fi/a/7-10103001",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786158144000
+    },
+    {
+      "title": "”Helena” gillar gruppsex: ”Njuter och tar för mig”",
+      "description": "”Anna” skiljer på kärlek och sex, och ligger gärna med välutrustade män. ”Helena”, som är chef inom näringslivet, tycker om ”gangbang”. De lever i fasta relationer – men gillar att ha sex med fler än sina partners. Vi möter dem på ett hemligt ställe där de njuter tillsammans med likasinnade. Bilderna visar sex och nakenhet.",
+      "link": "https://www.expressen.se/nyheter/sverige/helena-gillar-gruppsex-njuter-och-tar-for-mig/",
+      "guid": "https://www.expressen.se/nyheter/sverige/helena-gillar-gruppsex-njuter-och-tar-for-mig/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786158000000
+    },
     {
       "title": "Ryska robotattacker",
       "description": "Minst tre döda i Kiev",
@@ -11,7 +61,27 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786149860000
+      "timestamp": 1786156115000
+    },
+    {
+      "title": "Joe Bidens cancer har spridit sig",
+      "description": "Den aggressiva prostatacancern har spridit sig",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786156107000
+    },
+    {
+      "title": "Varnar för explosionsartad ökning av rabies-sälar",
+      "description": "Väderfenomenet El Niño riskerar att få en oväntad konsekvens: Ett explosionsartat globalt utbrott av sälar smittade med rabies, skriver Telegraph .",
+      "link": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786150591000
     },
     {
       "title": "Uppgifter: Putin planerar attack mot Nato",
@@ -24,24 +94,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786147770000
     },
     {
-      "title": "Varnar för explosionsartad ökning av rabies-sälar",
-      "description": "Väderfenomenet El Niño riskerar att få en oväntad konsekvens: Ett explosionsartat globalt utbrott av sälar smittade med rabies, skriver Telegraph .",
-      "link": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
-      "guid": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786146744000
-    },
-    {
-      "title": "Joe Bidens cancer har spridit sig",
-      "description": "Den aggressiva prostatacancern har spridit sig",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786146732000
+      "title": "Bugatti Destrier One-of-One Hypercar",
+      "description": "",
+      "link": "https://uncrate.com/bugatti-destrier-one-of-one-hypercar/",
+      "guid": "https://uncrate.com/bugatti-destrier-one-of-one-hypercar/",
+      "image": "https://uncrate.com/assets_c/2026/08/bugatti-destrier-one-of-one-hypercar-1-thumb-960xauto-192503.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786143600000
     },
     {
       "title": "Oväntade presenten till Trump",
@@ -474,16 +534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786117746000
     },
     {
-      "title": "Åklagare i Skärgårdsmordet: ”Spår av omfattande skador”",
-      "description": "Kvinnan som hittades död i Stockholms skärgård hade stora skador, både av ett vasst föremål och av trubbigt våld. Men enligt åklagare Emma Olsson är dödsorsaken ännu oklar. – Det är spår av omfattande skador, det är två olika typer av skadebilder, säger hon.",
-      "link": "https://www.expressen.se/nyheter/krim/aklagare-i-skargardsmordet-spar-av-omfattande-skador/",
-      "guid": "https://www.expressen.se/nyheter/krim/aklagare-i-skargardsmordet-spar-av-omfattande-skador/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786117283000
-    },
-    {
       "title": "Hideo Kojima släpper genomskinlig CD-spelare",
       "description": "Har designat en specialutgåva med Death Stranding-tema Speldesignern Hideo Kojima har satt sin prägel på en genomskinlig CD-spelare. Det handlar om en orange, begränsad specialutgåva med Death Stranding-tema av modellen CP1 från tillverkaren km5. Spelaren är bärbar med en batteritid på 7–8 timmar och bjuder på moderna grejer som USB-C-laddning och Bluetooth, men har också ett klassiskt 3,5 mm-uttag och fästen för väggmontering. Den unika Kojima-utgåvan är tyvärr redan slutsåld, men för den som nöjer sig med enbart den transparenta designen finns modellen fortfarande tillgänglig i en neongul version. L&auml;s vidare och kommentera: https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/ L&auml;s mer om Hideo Kojima , Death Stranding , km5 , CP1 , CD-spelare",
       "link": "https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/?utm_source=rss&utm_medium=feed",
@@ -562,26 +612,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786114584000
-    },
-    {
-      "title": "Svensk hittad död i Tyskland",
-      "description": "Låg i kanal",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4822a02d-6960-4a3b-aa2d-1b85c4673299",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4822a02d-6960-4a3b-aa2d-1b85c4673299",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786114076000
-    },
-    {
-      "title": "Patriks chock när renen dyker upp",
-      "description": "Oväntade besöket i Ljungdalen",
-      "link": "https://www.expressen.se/tv/nyheter/ovantade-besoket-en-ren-i-hallen",
-      "guid": "https://www.expressen.se/tv/nyheter/ovantade-besoket-en-ren-i-hallen",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786114027000
     },
     {
       "title": "AI-agenterna gick till attack under test, igen",
@@ -952,16 +982,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786101962000
-    },
-    {
-      "title": "Kärnvapenmakt och Natojätte i nytt försvarsavtal: ”Angrepp mot en är angrepp mot alla”",
-      "description": "Saudiarabien, Turkiet och Pakistan har undertecknat ett gemensamt avtal där man lovar stöd om ett av länderna attackeras.",
-      "link": "https://yle.fi/a/7-10103239?origin=rss",
-      "guid": "https://yle.fi/a/7-10103239",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786101855000
     },
     {
       "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
@@ -1424,16 +1444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786042509000
     },
     {
-      "title": "Federer",
-      "description": "",
-      "link": "https://uncrate.com/federer/",
-      "guid": "https://uncrate.com/federer/",
-      "image": "https://uncrate.com/assets_c/2026/08/federer-book-11-darkened-thumb-960xauto-192490.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786041000000
-    },
-    {
       "title": "Legendariska skivbolaget firar 30 år med konsert",
       "description": "Redline recordings firar 30 år med konsert på Skansen den 29 augusti.",
       "link": "https://www.mitti.se/nyheter/legendariska-skivbolaget-firar-30-ar-med-konsert-6.3.378363.fb0c9844cb",
@@ -1814,21 +1824,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785994811000
     },
     {
-      "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
-      "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
-      "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
-      "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
-      "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785992400000
-    },
-    {
       "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
       "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
       "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
       "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
       "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785992400000
+    },
+    {
+      "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
+      "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
+      "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
+      "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
+      "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785992400000
