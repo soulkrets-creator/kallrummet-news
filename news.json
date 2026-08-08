@@ -1,8 +1,258 @@
 {
-  "updatedAt": "2026-08-08T12:24:36.019Z",
+  "updatedAt": "2026-08-08T15:19:03.335Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Kraftig brand på ö",
+      "description": "”Är stort, snabb spridning”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=548ada4f-0720-4ab2-ba8c-9b3e2ea6c42f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=548ada4f-0720-4ab2-ba8c-9b3e2ea6c42f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786201912000
+    },
+    {
+      "title": "Stor påverkan på E4 efter olycka",
+      "description": "A-traktor påkörd – vägen avstängd",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a4f3f37-f9fa-418f-9281-2e760d0b776b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a4f3f37-f9fa-418f-9281-2e760d0b776b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786201885000
+    },
+    {
+      "title": "Använder du hjälm när du kör elsparkcykel?",
+      "description": "Helgens fråga Ny forskning visar att elsparkcyklar orsakar betydligt fler traumatiska hjärnskador än både vanliga cyklar och motorcyklar, huvudsakligen på grund av att nästan ingen använder hjälm. Kombinationen av låga skärmar, små hjul och en tendens att rulla hem i nattmörkret efter ett par öl gör fordonet till en nästan daglig standardpunkt i akutmottagningens statistik. Transportstyrelsen håller på att reda ut reglerna för fordonen så folk ska sluta upp och skada sig så himla mycket med dem. Men fram tills det händer undrar vi ju hur det ser ut med säkerheten bland er kära läsare. L&auml;s vidare och kommentera: https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/ L&auml;s mer om elsparkcyklar , Transportstyrelsen , hjärnskador , trafiksäkerhet , cykelolyckor",
+      "link": "https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786201200000
+    },
+    {
+      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "description": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786201134000
+    },
+    {
+      "title": "Bästa begagnade kombi i långtest – budget slog Mercedes och BMW",
+      "description": "Tyska AUTO BILD har kört 20 kombibilar 10 000 mil vardera och sedan plockat isär dem skruv för skruv. Resultatet utmanar en av bilköpets äldsta sanningar, för billiga arbetshästar från Ford och Hyundai höll bättre än både Mercedes E-klass och BMW 5-serie. Det är ett av bilvärldens mest kompromisslösa tester. Sedan 2014 kör tyska AUTO […]",
+      "link": "https://www.dagensps.se/motor/basta-begagnade-kombi-i-langtest-budget-slog-mercedes-och-bmw/",
+      "guid": "https://www.dagensps.se/?p=1662523",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/image-8-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786198457000
+    },
+    {
+      "title": "New fuel cell breakthrough could help power energy-hungry data centers",
+      "description": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more practical way to power data centers, vehicles, and other energy-intensive technologies.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786198142000
+    },
+    {
+      "title": "Eppu Normaali blev Nea Härkönens väg in i finskan – i kväll spelar bandet för sista gången",
+      "description": "Efter 50 år och 1,5 miljoner sålda skivor tar Eppu Normaali i kväll avsked av sina fans med en sista livekonsert hemma i Tammerfors.",
+      "link": "https://yle.fi/a/7-10103263?origin=rss",
+      "guid": "https://yle.fi/a/7-10103263",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786198063000
+    },
+    {
+      "title": "Kvinnopissoarer testas på festival",
+      "description": "För första gången i Sverige En fördel med att vara man är att det ofta är betydligt enklare att gå på toa på många platser runtom i världen. För det mesta är det ju bara till att svepa fram den, kissa lite, skaka lite och sen är det bara att fortsätta leva. Den processen brukar ju inte ta så lång tid vilket innebär att herrtoaletterna sällan har samma milslånga köer som damtoan. Under årets Malmöfestival, som drog i gång under gårdagen, testas nu en lösning som ska jämna ut oddsen. För första gången i Sverige introduceras nämligen pissoarer speciellt framtagna för kvinnor. Förhoppningen är att detta ska få upp tempot för toabesöken så fler kan kissa utan att behöva stå kissnödig allt för länge. Via länken nedan kan man se en video som visar hur dessa toaletter är tänkta att fungera. L&auml;s vidare och kommentera: https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/ L&auml;s mer om pissoarer , toaletter , Malmöfestivalen , kvinnor , Sverige , jämställdhet , Malmöfestival",
+      "link": "https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786197600000
+    },
+    {
+      "title": "Lionel Messis pappa är död",
+      "description": "Lionel Messis pappa och agent, Jorge Messi har dött. Han somnade in efter en tids sjukdom.",
+      "link": "https://yle.fi/a/7-10103275?origin=rss",
+      "guid": "https://yle.fi/a/7-10103275",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786197461000
+    },
+    {
+      "title": "Ukrainska attacker hotar hennes affärsimperium",
+      "description": "Hon byggde Rysslands svar på Amazon och blev landets rikaste kvinna. Nu slår ukrainska attacker mot Tatjana Kims affärsimperium och hotar dess överlevnad, skriver New York Times.",
+      "link": "https://www.expressen.se/nyheter/varlden/ukrainska-attacker-hotar-hennes-affarsimperium-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ukrainska-attacker-hotar-hennes-affarsimperium-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786197421000
+    },
+    {
+      "title": "Familjen lurad – blev hemlös efter bluffen",
+      "description": "En annons på sociala medier såg ut att erbjuda en snabb lösning på familjens bostadsjakt. I stället blev de hemlösa och förlorade flera tusen kronor.",
+      "link": "https://www.expressen.se/nyheter/familjen-lurad-blev-hemlos-efter-bluffen-/",
+      "guid": "https://www.expressen.se/nyheter/familjen-lurad-blev-hemlos-efter-bluffen-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786197158000
+    },
+    {
+      "title": "Scientists reveal how much exercise you really need to protect your heart",
+      "description": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610 minutes a week—nearly 9 to 10 hours of brisk walking, running, cycling, or similar activity.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786196942000
+    },
+    {
+      "title": "Ryska gymnaster stoppas från EM – tilldelas inte visum av värdlandet",
+      "description": "Nio personer ur den ryska truppen tilldelas inte visum till EM i artistisk gymnastik.",
+      "link": "https://yle.fi/a/7-10103274?origin=rss",
+      "guid": "https://yle.fi/a/7-10103274",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786196934000
+    },
+    {
+      "title": "HTV: Henrik inför söndagens hemmamatch mot Häcken",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-henrik-infoer-soendagens-hemmamatch-mot-haecken",
+      "guid": "eebb9560-b051-4926-90e1-bf68ee6a52ad",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/629248e20395e515a3f8284c37fbe223b2331ce5-2684x1785.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786196145000
+    },
+    {
+      "title": "A protein older than blood circulation could transform cancer immunotherapy",
+      "description": "A protein that evolved long before the human circulatory system may help unlock stronger cancer treatments. When C3 is produced inside tumors, it blocks immune-suppressing cells and gives immunotherapy a better chance to work. Researchers were even able to recreate this effect in resistant tumors, significantly improving survival in mice.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786195881000
+    },
+    {
+      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+      "description": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from a gold film carved with hundreds of microscopic structures, the ultrathin “metacrystal” acts like a filter that directs different kinds of quantum light along separate paths while preserving the information they carry.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786195052000
+    },
+    {
+      "title": "Ryssland bombade fotbollsarena i Ukraina",
+      "description": "En fotbollsarena i Odessa, en av Ukrainas största, skadades allvarligt efter ett ryskt anfall mot arenan under dagtid. Två personer skadades. Chornomorets Stadium i Odessa skadades allvarligt vid ett ryskt anfall mot Odessa dagtid. Arenan är hemmaarena för FC Chornomorets, med smeknamnet ”Morayaky” eller ”Sjömännen” som spelar i högsta ukrainska ligan, Premjer-liha. Laget var för […]",
+      "link": "https://www.dagensps.se/varlden/ryssland-bombade-fotbollsarena-i-ukraina/",
+      "guid": "https://www.dagensps.se/?p=1662511",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlpsmarsgdbjg-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786195018000
+    },
+    {
+      "title": "S slår tillbaka mot SD",
+      "description": "I det klassiskt röda länet i norr tycks SD se ett växande stöd. Nu avfärdar Socialdemokraterna hotet. – Han för nu ett kulturkrig mot den gröna nyindustrialisering som inte minst norra Sverige står för, säger Tobias Baudin, partisekreterare.",
+      "link": "https://www.expressen.se/nyheter/politik/s-slar-tillbaka-mot-sd/",
+      "guid": "https://www.expressen.se/nyheter/politik/s-slar-tillbaka-mot-sd/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786194860000
+    },
+    {
+      "title": "Drönare slog ner i solrosfält i Bulgarien",
+      "description": "En oidentifierad drönare tog sig på lördagsmorgonen in i Bulgariens luftrum. Den exploderade nära gränsen mot Rumänien, uppger Bulgariens premiärminister.",
+      "link": "https://yle.fi/a/7-10103273?origin=rss",
+      "guid": "https://yle.fi/a/7-10103273",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786194708000
+    },
+    {
+      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+      "description": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786194231000
+    },
+    {
+      "title": "Kinesisk AI fuskade under säkerhetstest",
+      "description": "Kimi K3 hämtade färdig kod från GitHub istället för att lösa uppgiften själv Vi har på senare tid vid ett flertal tillfällen rapporterat om att några av världens ledande AI-modeller lyckats bryta sig ut ur sina säkra testmiljöer, tagit sig ut på nätet och i vissa fall hackat externa databaser. Det senaste exemplet i denna genre av dystopi kommer från Kina, men till skillnad från sina amerikanska motsvarigheter valde den modellen en mer diskret väg. För när den kinesiska modellen Kimi K3 nyligen testades av det brittiska säkerhetsinstitutet AISI, var tanken att den skulle lösa en komplex uppgift enbart med hjälp av sin egen logik. Men Kimi hittade ett kryphål i testmiljöns begränsningar så istället för att behöva tänka själv smög den ut på GitHub och där hämtade den helt enkelt den färdiga koden den behövde. I detta fall handlade det alltså inte om någon form av dataintrång, utan snarare om en elev som såg att dörren var öppen till där facit fanns och helt enkelt gick in för att skriva av svaren. Men det är fortfarande ett exempel på att AI-modellerna i många fall inte bryr sig alltför mycket om hur de når sina mål, utan bara att de gör det. På tal om AI från Kina visar nya rapporter att TikTok-ägaren ByteDance nu tränar en ny gigantisk AI-modell som sägs vara tre gånger större än Kimi K3 och ska hålla samma nivå som Anthropics modell Mythos. L&auml;s vidare och kommentera: https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/ L&auml;s mer om Kimi K3 , Bytedance , AISI , GitHub , Mythos , Kina , AI-säkerhet",
+      "link": "https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786194000000
+    },
+    {
+      "title": "40 förråd dränktes vid läcka: ”Som en krigszon”",
+      "description": "Översvämning Norrtullsgatan: 40 förråd förstörda efter felkoppling.",
+      "link": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
+      "guid": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
+      "image": "https://www.mitti.se/image-3.183827.301950.20260808133109.1.2fd2064941?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786194000000
+    },
+    {
+      "title": "App-turism trendar: Här är det fria alternativet till campingplatsen",
+      "description": "Allt fler husbilsturister använder appar som Park4night för att hitta gratis eller billiga ställplatser i Stockholmsområdet – ett friare och naturnära alternativ till campingplatser.",
+      "link": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
+      "guid": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
+      "image": "https://www.mitti.se/image-3.377404.301428.20260808133109.e9b7b067c0?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786194000000
+    },
+    {
+      "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+      "description": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1786193719000
+    },
+    {
+      "title": "De springer för mördade Ida – och kvinnors trygghet",
+      "description": "Elva år efter mordet på Ida: kampen för kvinnors trygghet i motionsspår.",
+      "link": "https://www.mitti.se/nyheter/de-springer-for-mordade-ida--och-kvinnors-trygghet-6.3.378597.3bd12b6a5e",
+      "guid": "https://www.mitti.se/nyheter/de-springer-for-mordade-ida--och-kvinnors-trygghet-6.3.378597.3bd12b6a5e",
+      "image": "https://www.mitti.se/image-3.377583.301876.20260808130110.1e3625212e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786192200000
+    },
     {
       "title": "USA:s senat godkände Trumps tidigare advokat som justitieminister",
       "description": "Utnämningen godkändes med minsta möjliga marginal. Demokraterna men också två republikaner röstade nej.",
@@ -32,6 +282,16 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786190572000
+    },
+    {
+      "title": "Legosoldat blev sin tids mest fruktade man – i 33 år plundrade han rika städer på löpande band",
+      "description": "År 1361 anlitade påven John Hawkwood och hans legotrupper för ett krig i Italien. Det skulle den katolska kyrkan komma att ångra bittert – för den svekfulle Hawkwood var en iskall handelsresande i död.",
+      "link": "https://varldenshistoria.se/samhalle/medeltiden/legosoldat-satte-italien-i-brand-2",
+      "guid": "https://varldenshistoria.se/samhalle/medeltiden/legosoldat-satte-italien-i-brand-2",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786190458000
     },
     {
       "title": "Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga",
@@ -144,7 +404,7 @@
       "timestamp": 1786186337000
     },
     {
-      "title": "Flera skadade när turistbuss välte i Norge",
+      "title": "Vittnen hjälpte skadade när turistbuss välte i Norge",
       "description": "Enligt medier är det en tysk turistbuss som vält omkull.",
       "link": "https://yle.fi/a/7-10103269?origin=rss",
       "guid": "https://yle.fi/a/7-10103269",
@@ -224,7 +484,7 @@
       "timestamp": 1786182264000
     },
     {
-      "title": "Brand på kraftverket i Vasa – räddningsverket varnar för lukt",
+      "title": "Brand på kraftverket i Vasa – räddningsverket varnar för röklukt",
       "description": "En mindre brand har brutit ut i en silo på Vasklot kraftverk i Vasa under lördagen.",
       "link": "https://yle.fi/a/7-10103267?origin=rss",
       "guid": "https://yle.fi/a/7-10103267",
@@ -414,26 +674,6 @@
       "timestamp": 1786175807000
     },
     {
-      "title": "Norge köper artillerigranater från USA",
-      "description": "Amerikanska utrikesdepartementet har gett grönt ljus för Norge för att köpa artillerigranater från USA. Köpet sker inom ett bilateralt avtal. Nu har USA:s utrikesdepartement gett klartecken för en potentiell försäljning av artillerigranater till Norge. Köpet sker inom ramarna för ett befintligt ramavtal mellan Norge och USA. Bråk på toppnivå: Trump och Hegseth rök ihop om […]",
-      "link": "https://www.dagensps.se/varlden/norge-koper-artillerigranater-fran-usa/",
-      "guid": "https://www.dagensps.se/?p=1662414",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlde3eqx6lcm8-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786175732000
-    },
-    {
-      "title": "Experten till svenskarna: Se över era fonder – ”förlorat en kvarts miljon”",
-      "description": "Dyrare är inte alltid bättre. Det gäller i allra högsta grad fondsparande. Nu uppmanas svenska sparare att granska sina fondval. Svenskarnas fondförmögenhet har stigit kraftigt. I juni ökade den samlade fondförmögenheten i Sverige med 306 miljarder kronor och vid halvårsskiftet uppgick den till rekordnivån 10 016 miljarder kronor. Problemet är att många svenska fondsparare parallellt betalar […]",
-      "link": "https://www.dagensps.se/privatekonomi/experten-till-svenskarna-se-over-era-fonder-forlorat-en-kvarts-miljon/",
-      "guid": "https://www.dagensps.se/?p=1662397",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlqblnb4irguk-normalhires.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786173337000
-    },
-    {
       "title": "EU kräver att Tiktok och Meta hejdar desinformation i kristider",
       "description": "Desinformation i sociala medier tros ha spelat en stor roll i att tusentals människor tog sig från Marocko till spanska Ceuta i slutet av juli.",
       "link": "https://yle.fi/a/7-10103260?origin=rss",
@@ -514,26 +754,6 @@
       "timestamp": 1786172280000
     },
     {
-      "title": "20-tal i storbråk",
-      "description": "Trängde sig före kön i Grebbestad",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=97682cd4-18f3-4d50-bffc-5dd440cf0aba",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=97682cd4-18f3-4d50-bffc-5dd440cf0aba",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786172132000
-    },
-    {
-      "title": "Båt sjönk utanför Vasa",
-      "description": "En båtolycka inträffade utanför Vasa natten mot lördag. Personerna i båten klarade sig oskadda.",
-      "link": "https://yle.fi/a/7-10103261?origin=rss",
-      "guid": "https://yle.fi/a/7-10103261",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786170145000
-    },
-    {
       "title": "AI ger få negativa effekter på jobben i Stockholm",
       "description": "Stockholm är en stad där många AI-startups och AI-företag, som Lovable och Legora, har sina huvudkontor. Martin Svedmark jobbar på ett stort AI-bolag och berättar om sin vardag.",
       "link": "https://www.mitti.se/nyheter/ai-ger-fa-negativa-effekter-pa-jobben-i-stockholm-6.3.370415.ddb0ad714f",
@@ -552,16 +772,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786169580000
-    },
-    {
-      "title": "Tiotals döda personer i Finland har aldrig identifierats – så jobbar polisen för att lösa mysterierna",
-      "description": "I Finland finns 40 avlidna personer, vars identitet man inte känner till. En av dem är en man som hittades iklädd lager på lager mitt i sommaren, i en skog i Rusko norr om Åbo.",
-      "link": "https://yle.fi/a/7-10103193?origin=rss",
-      "guid": "https://yle.fi/a/7-10103193",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786169406000
     },
     {
       "title": "Babylon Berlin återvänder med sista säsongen",
@@ -594,16 +804,6 @@
       "timestamp": 1786167240000
     },
     {
-      "title": "Letar efter ”symbolisk” seger åt Trump",
-      "description": "USA:s högste militär Dan Caine varnar för att en upptrappning av kriget i Iran kan slå tillbaka mot USA. Nu uppges han leta efter en lösning som ger Trump en ”symbolisk” seger. – Caine letar efter en väg ut, säger en källa till CNN .",
-      "link": "https://www.expressen.se/nyheter/varlden/letar-efter-symbolisk-seger-at-trump/",
-      "guid": "https://www.expressen.se/nyheter/varlden/letar-efter-symbolisk-seger-at-trump/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786166247000
-    },
-    {
       "title": "Larm om måsar ökar i Stockholm: ”Otroligt många”",
       "description": "Skadedjuren har legat lågt i sommar – nästan",
       "link": "https://www.mitti.se/nyheter/larm-om-masar-okar-i-stockholm-otroligt-manga-6.3.377687.681e89dc47",
@@ -612,16 +812,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786166133000
-    },
-    {
-      "title": "Colombias nya president lovar kamp mot narkotika i sitt installationstal",
-      "description": "President Abelardo de la Espriellas installationsceremoni ordnades undantagsvis inte i huvudstaden. Bland annat Gianni Infantino och kung Felipe VI deltog.",
-      "link": "https://yle.fi/a/7-10103258?origin=rss",
-      "guid": "https://yle.fi/a/7-10103258",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786165315000
     },
     {
       "title": "Forskare observerade en val på natten – när det stora djuret plötsligt gjorde något vi aldrig tidigare har sett",
@@ -634,16 +824,6 @@
       "timestamp": 1786165236000
     },
     {
-      "title": "Bärplockaren är sommarens nya strandredskap – men inte för blåbär",
-      "description": "Under slutet av badsäsongen har man på stranden i Sandudd testat att plocka skräp med bärplockare.",
-      "link": "https://yle.fi/a/7-10103218?origin=rss",
-      "guid": "https://yle.fi/a/7-10103218",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786165215000
-    },
-    {
       "title": "Över 100 krigsfartyg sjönk under katastrofal kampanj – nu kan du dyka bland dem",
       "description": "Nu kan dykare, historieintresserade och äventyrssugna besöka de otaliga vrak som fyller en av världens största skeppskyrkogårdar – och den har mer att erbjuda än bara krigshistoria.",
       "link": "https://varldenshistoria.se/krig/forsta-varldskriget/over-100-krigsfartyg-sjonk-under-katastrofal-kampanj-nu-kan-du-dyka-bland-dem",
@@ -652,36 +832,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1786165212000
-    },
-    {
-      "title": "Vill se ”mammabonus”",
-      "description": "KD:s förslag: 36 900 kronor",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e48b60cf-99bc-4519-b833-b53a54f02636",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e48b60cf-99bc-4519-b833-b53a54f02636",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786164931000
-    },
-    {
-      "title": "Kvinnor slogs",
-      "description": "Blodigt bråk i lägenhet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=53f34265-52db-4a48-be54-89e48514b670",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=53f34265-52db-4a48-be54-89e48514b670",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786164133000
-    },
-    {
-      "title": "TV4-profilens hårda tid: ”Var skoningslös”",
-      "description": "Hon har den tyngsta rollen i TV4:s valbevakning. Trots det är Jenny Strömstedt hela tiden beredd på att nästa dag på jobbet kan bli hennes sista. – Jag tänker alltid att jag ska få sparken.",
-      "link": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
-      "guid": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786161600000
     },
     {
       "title": "Förslaget: Låt stadsdelen tar över parkdammen",
@@ -1274,16 +1424,6 @@
       "timestamp": 1786097714000
     },
     {
-      "title": "Dags att damma av Ghost Recon Wildlands",
-      "description": "Spelet kan nu köras i 4K med 60 FPS och fått nytt uppdrag Ubisoft slängde lite oväntat ut en rätt rejäl gratisuppdatering till det trevliga spelet Ghost Recon Wildlands under gårdagen. Denna uppdatering går under namnet Last Rites och är lite av en hyllning till seriens 25-årsjubileum. Den största nyheten för många är att spelet nu får stöd för 4K-upplösning och 60 FPS på PlayStation 5, Xbox Series X/S samt PC. Förutom den förbättrade grafiken introduceras nya Ghost Parameters där spelare kan skräddarsy sin upplevelse för maximal realism genom att justera allt från ammunitionsladdning och antal lagkamrater till väderleksförhållanden samt gränssnittet. Uppdateringen innehåller även ett nytt uppdrag där man ska ta sig an en skurk vid namn La Llorona, en kvinna som likt legenden är driven av hämnd. Man kan nu även spela Rovdjuret-uppdraget som togs bort från spelet 2020 på grund av utgångna licenser. Ubisoft passar även på att rensa upp i spelets ekonomi. Lootboxar tas bort och hundratals föremål som tidigare krävde köp eller specifika utmaningar låses nu upp gratis för alla spelare. Firandet stannar inte vid Wildlands. Under en begränsad period (fram till den 13 augusti) kan PC-spelare hämta hem det klassiska Ghost Recon: Future Soldier helt gratis via Ubisoft Connect. Dessutom håller Ubisoft en stor rea på hela serien med prissänkningar på upp till 95 procent. L&auml;s vidare och kommentera: https://feber.se/spel/dags-att-damma-av-ghost-recon-wildlands/494790/ L&auml;s mer om Ghost Recon Wildlands , PlayStation 5 , Ubisoft , Xbox Series X/S , Xbox Series X , Last Rites , PC",
-      "link": "https://feber.se/spel/dags-att-damma-av-ghost-recon-wildlands/494790/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/dags-att-damma-av-ghost-recon-wildlands/494790/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786096800000
-    },
-    {
       "title": "Öppet biljettsläpp till hemmamötet med Raków",
       "description": "Den 13 augusti spelas hemmareturen mot Raków. Efter att medlemmar haft möjlighet att säkra sina platser är över 13 000 biljetter sålda. Nu öppnar försäljningen på Hammarbys sektioner upp för allmänhet",
       "link": "https://www.hammarbyfotboll.se/nyheter/oppet-biljettslapp-till-hemmamotet-med-rakow",
@@ -1312,26 +1452,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786095549000
-    },
-    {
-      "title": "Lamborghini Revuelto SV har redan satt varvrekord",
-      "description": "Den vassare versionen presenteras om några dagar Lamborghini har en vassare SV-version av modellen Revuelto på gång och den kommer att presenteras den 14 augusti. Nu berättar man att bilen redan slagit varvrekord. Man har lyckats klocka tiden 1:41.6 på Hockenheim vilket innebär att denna är 5,7 sekunder snabbare än gamla Aventador SVJ på samma plats. Revuelto SV kommer få mer effekt, lägre vikt och bättre aerodynamik än sitt syskon men några smaskiga detaljer kring detta har vi inte fått än. Premiären kommer att äga rum på motoreventet The Quail. L&auml;s vidare och kommentera: https://feber.se/bil/lamborghini-revuelto-sv-har-redan-satt-varvrekord/494801/ L&auml;s mer om Revuelto SV , varvrekord , Hockenheim , snabb , prestanda , SV",
-      "link": "https://feber.se/bil/lamborghini-revuelto-sv-har-redan-satt-varvrekord/494801/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/lamborghini-revuelto-sv-har-redan-satt-varvrekord/494801/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786095000000
-    },
-    {
-      "title": "Ny valkompass låter dig swajpa politik",
-      "description": "Från Feber-läsaren Ernst Feber-läsaren Ernst har byggt ett lite annorlunda valkompas där han ville få politisk granskning lika enkel som att använda en modern dejtingapp. Många traditionella valkompasser baseras på vad partierna lovar att göra i framtiden. Men på Ernsts sajt, mindemokrati.se, är det istället tagna beslut som är fokuset. Här får man som användare ta ställning till beslut som redan klubbats i riksdagen genom att swajpa höger eller vänster på olika förslag. Plattformen hämtar data direkt från riksdagens omröstningar, vilket gör att du kan jämföra dina egna åsikter med hur partierna agerat i praktiken. För att göra upplevelsen mer relevant går det även att filtrera frågorna utifrån specifika utskott, så att du kan fokusera på de ämnen som intresserar dig mest, oavsett om det rör miljö, ekonomi eller utbildning. Ernst säger att han har lagt stort fokus på att sänka trösklarna för användaren. Bland annat genom att man varken behöver ladda ner någon app eller skapa ett konto för att komma igång. Allt sker direkt i webbläsaren och inga personuppgifter lagras. L&auml;s vidare och kommentera: https://feber.se/internet/ny-valkompass-later-dig-swajpa-politik/494793/ L&auml;s mer om mindemokrati.se , riksdagen , valkompass , politik , Ernst , webbtjänster , valkompas , omröstningar",
-      "link": "https://feber.se/internet/ny-valkompass-later-dig-swajpa-politik/494793/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/ny-valkompass-later-dig-swajpa-politik/494793/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786093200000
     },
     {
       "title": "Expressen granskade inlägg – lokal S-kandidat hoppar av",
@@ -1954,21 +2074,21 @@
       "timestamp": 1785994811000
     },
     {
-      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
-      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
-      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785992400000
-    },
-    {
       "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
       "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
       "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785992400000
+    },
+    {
+      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
+      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
+      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785992400000
@@ -2102,16 +2222,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1785942033000
-    },
-    {
-      "title": "Publikinformation: Raków borta",
-      "description": "På torsdag spelas den första matchen mot Raków i kvalomgång 3 av UEFA Conference League. Kvalomgången inleds på bortaplan i Polen och här hittar du som reser ner till Czestochowa viktig information in",
-      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-rakow-borta",
-      "guid": "32575453-297d-48b8-ad1c-0109c25eef41",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/1e00837bdf6c0051f1bf05641636867bbe50c8cf-1253x835.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785941713000
     },
     {
       "title": "Nu erbjuds dubbelt så många IVF-behandlingar",
@@ -2474,21 +2584,21 @@
       "timestamp": 1785898308000
     },
     {
-      "title": "Här betalar du lägst skatt i länet",
-      "description": "Här är kommunen med lägst skatt i Stockholms län – och här är skatten högst",
-      "link": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
-      "guid": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
-      "image": "https://www.mitti.se/image-3.377466.301550.20260806120236.1.9b1b14fa97?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785862800000
-    },
-    {
       "title": "Hur ökar jag självmedkänslan?",
       "description": "Pskologen Hanna Delby om självmedkänsla.",
       "link": "https://www.mitti.se/nyheter/hur-okar-jag-sjalvmedkanslan-6.3.371848.6a53689137",
       "guid": "https://www.mitti.se/nyheter/hur-okar-jag-sjalvmedkanslan-6.3.371848.6a53689137",
       "image": "https://www.mitti.se/image-3.374344.297960.20260804173006.1.37edd04460?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785862800000
+    },
+    {
+      "title": "Här betalar du lägst skatt i länet",
+      "description": "Här är kommunen med lägst skatt i Stockholms län – och här är skatten högst",
+      "link": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
+      "guid": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
+      "image": "https://www.mitti.se/image-3.377466.301550.20260806120236.1.9b1b14fa97?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785862800000
@@ -2914,16 +3024,6 @@
       "timestamp": 1785758839000
     },
     {
-      "title": "En mus i munnen skulle bota tandvärk",
-      "description": "Här är receptet på en egyptisk kur mot tandvärk.",
-      "link": "https://varldenshistoria.se/civilisationer/egyptier/en-mus-i-munnen-skulle-bota-tandvark",
-      "guid": "https://varldenshistoria.se/civilisationer/egyptier/en-mus-i-munnen-skulle-bota-tandvark",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785758434000
-    },
-    {
       "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
       "description": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its explosive expansion. This acceleration may do far more than move the fluid, potentially changing its temperature-like behavior, influencing particle spins, and even reshaping how matter transitions between fundamental states.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
@@ -3014,36 +3114,6 @@
       "timestamp": 1785737209000
     },
     {
-      "title": "Two deadly flowers could inspire powerful new medicines",
-      "description": "Scientists have figured out how two famously poisonous plants create chemicals with surprising medical potential. After tracking thousands of genes in wolfsbane and larkspur, they identified six enzymes needed to build a complex compound called atisinium. The team recreated the process inside tobacco plants, offering a sustainable way to produce and test these rare molecules in larger amounts.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785736299000
-    },
-    {
-      "title": "Scientists twist crystal layers and reshape matter from within",
-      "description": "Researchers have found a way to build much larger “twisted” oxide materials while precisely controlling how their atomic layers line up. Because these materials can be made over large areas and transferred onto different surfaces, the technique could help turn twistronics from a laboratory curiosity into a practical platform for next-generation electronics.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785731808000
-    },
-    {
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "description": "The solar wind may be stripping away Mars’ atmosphere by creating giant rolling waves along its outer edge. Data from MAVEN and Tianwen-1 show that these waves form plasma clouds that carry atmospheric particles into space. The process is concentrated on one side of Mars and may have played a major role in drying out the once potentially habitable planet.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785730074000
-    },
-    {
       "title": "Kvinna nekades psykolog – på grund av graviditet",
       "description": "En kvinna nekades psykologbesök på grund av att hon var gravid, nu DO-anmäler hon försäkringsbolaget.",
       "link": "https://www.mitti.se/nyheter/kvinna-nekades-psykolog--pa-grund-av-graviditet-6.3.378288.2bd40705a1",
@@ -3064,16 +3134,6 @@
       "timestamp": 1785725662000
     },
     {
-      "title": "Some coastal cities are sinking faster than the ocean is rising",
-      "description": "Coastal communities are facing a hidden threat that is making rising seas far more dangerous: the land beneath them is sinking. New research shows that people in densely populated coastal regions experience an average relative sea-level rise of about 6 millimeters per year, nearly three times the global coastal average. Groundwater pumping, oil and gas extraction, heavy urban development, sediment compaction, and natural geological processes are all contributing to the problem.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785721978000
-    },
-    {
       "title": "MP vill öppna regnbågshus i Stockholm: \"Oerhört viktigt\"",
       "description": "Miljöpartiet vill skapa ett regnbågshus i Stockholm.",
       "link": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
@@ -3082,36 +3142,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785695400000
-    },
-    {
-      "title": "Dark matter’s secret force does the opposite of what scientists expected",
-      "description": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of cosmic structure rather than accelerating it.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785677171000
-    },
-    {
-      "title": "Without this protein, damaged muscle turns to fat and scar tissue",
-      "description": "A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries. Researchers found that TRF2 helps these cells maintain their identity and coordinate the cycle of rest, repair, and renewal.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785677014000
-    },
-    {
-      "title": "This once-a-week workout may help cut belly fat, study shows",
-      "description": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in a single weekly session reduced body fat, trimmed waistlines, and improved cardiovascular fitness about as effectively as splitting the same exercise across three days.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1785656021000
     },
     {
       "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
