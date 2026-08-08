@@ -1,8 +1,148 @@
 {
-  "updatedAt": "2026-08-08T18:21:01.872Z",
+  "updatedAt": "2026-08-08T21:19:24.191Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Barn dött efter olycka med traktor Svenljunga",
+      "description": "Ett barn har dött efter en olycka med en traktor på en gård i Svenljunga kommun. Polisen utreder vårdslöshet i trafik och vållande till annans död. – Av allt att döma så är det ju en tragisk olycka, säger Adam Isaksson Samara, vid polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
+      "guid": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786222695000
+    },
+    {
+      "title": "Expert: Kamala Harris trolig presidentkandidat",
+      "description": "Kamala Harris har inte stängt dörren för presidentvalet 2028. USA-experten Jan Hallenberg ser henne som en trolig kandidat till att försöka ta över makten från nuvarande president Donald Trump.",
+      "link": "https://www.expressen.se/nyheter/varlden/expert-kamala-harris-trolig-presidentkandidat/",
+      "guid": "https://www.expressen.se/nyheter/varlden/expert-kamala-harris-trolig-presidentkandidat/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786221791000
+    },
+    {
+      "title": "Butiker stänger, fartkameror och Rysslands bombplan",
+      "description": "Plantagen stänger butiker, nya fartkameror granskar mer än hastigheten och Rysslands bombplanssatsning går trögt. Första nyhetsveckan i augusti innehöll mycket intressant, här är ett axplock av de nyheter som engagerade Dagens PS läsare mest: Plantagen stänger elva svenska butiker när den krisdrabbade trädgårdskedjan fortsätter att krympa. Beskedet är en del av företagets rekonstruktion och innebär […]",
+      "link": "https://www.dagensps.se/varlden/butiker-stanger-fartkameror-och-rysslands-bombplan/",
+      "guid": "https://www.dagensps.se/?p=1662535",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/nyhetsveckan.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786221433000
+    },
+    {
+      "title": "“I'm not a crook”: 10 citat som lurade världen – och förändrade historien",
+      "description": "Ett förfalskat dokument gav påven makt, ett manipulerat meddelande utlöste ett krig som förändrade Europas historia, och en president förnekade allt. Här är tio historiska bedrägerier som fick enorma konsekvenser.",
+      "link": "https://varldenshistoria.se/kultur/im-not-a-crook-10-citat-som-lurade-varlden-och-forandrade-historien",
+      "guid": "https://varldenshistoria.se/kultur/im-not-a-crook-10-citat-som-lurade-varlden-och-forandrade-historien",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786221037000
+    },
+    {
+      "title": "Tusentals samlades – för att be till Jesus",
+      "description": "”Anden är närvarande på riktigt”",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/tusentals-samlades-for-att-be-till-jesus",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/tusentals-samlades-for-att-be-till-jesus",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786220006000
+    },
+    {
+      "title": "Från onsdag: Nya EU-regler för förpackningar",
+      "description": "Från onsdag börjar EU nya förordning för förpackningar att tillämpas. De kommande åren väntar nya märkningar, förbud och regler. Den nya förordningen, PPWR, ersätter det tidigare EU-direktivet och gäller direkt i samtliga medlemsländer från den 12 augusti. Högre krav på företagen Däremot kommer inte butikshyllorna att plötsligt se annorlunda ut på onsdag, reglernas genomförande sker […]",
+      "link": "https://www.dagensps.se/foretag/fran-onsdag-nya-eu-regler-for-forpackningar/",
+      "guid": "https://www.dagensps.se/?p=1662531",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/plast-1.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786219949000
+    },
+    {
+      "title": "Allvarlig olycka",
+      "description": "Fick klippa upp bilen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc6f2d4d-9a34-46bb-8897-4aa1d4e2a94a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc6f2d4d-9a34-46bb-8897-4aa1d4e2a94a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786219196000
+    },
+    {
+      "title": "Förlust för HJK:s damer i finalen av CL-kvalet",
+      "description": "De nederländska mästarna PSV Eindhoven var för starka för HJK. PSV vann med 3–1.",
+      "link": "https://yle.fi/a/7-10103280?origin=rss",
+      "guid": "https://yle.fi/a/7-10103280",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786218765000
+    },
+    {
+      "title": "Barn dött efter olycka med traktor",
+      "description": "Inträffade på en gård",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d7dcc086-e621-40aa-95d2-a39fb1899920",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d7dcc086-e621-40aa-95d2-a39fb1899920",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786217485000
+    },
+    {
+      "title": "Analyser av 5 000 år gammalt fynd ger överraskande svar: Så förvandlades vargen till hund",
+      "description": "När arkeologer år 1888 utforskade en grotta på Stora Karlsö utanför Gotland blev de förvånade över att hitta benrester som de inte kunde artbestämma. Det har nu forskare vid University of East Anglia och Francis Crick Institute i London gjort. De kallar resultatet ”väldigt överraskande”.",
+      "link": "https://illvet.se/naturen/analyser-av-5-000-ar-gammalt-fynd-ger-overraskande-svar-sa-forvandlades-vargen-till-hund",
+      "guid": "https://illvet.se/naturen/analyser-av-5-000-ar-gammalt-fynd-ger-overraskande-svar-sa-forvandlades-vargen-till-hund",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786217449000
+    },
+    {
+      "title": "Video: Polisen trängde flyende moped av vägen",
+      "description": "Polisen säger till Yle att mopedisten inte svävar i livsfara.",
+      "link": "https://yle.fi/a/7-10103279?origin=rss",
+      "guid": "https://yle.fi/a/7-10103279",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786216936000
+    },
+    {
+      "title": "Ryssarnas största kärlek: Vodkaruset har varat i 500 år",
+      "description": "De ryska makthavarna var i hundratals år beroende av vodka, eftersom den starka drycken fyllde statskassan med rubel. Men vodkan hade en bitter eftersmak – för i dess kölvatten följde olyckor, militära nederlag och blodiga revolutioner.",
+      "link": "https://varldenshistoria.se/samhalle/rysslands-historia/ryssarnas-storsta-karlek-vodkaruset-har-varat-i-500-ar",
+      "guid": "https://varldenshistoria.se/samhalle/rysslands-historia/ryssarnas-storsta-karlek-vodkaruset-har-varat-i-500-ar",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786215655000
+    },
+    {
+      "title": "Föll 8 meter",
+      "description": "Olycka på höghöjdsbana",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786215519000
+    },
+    {
+      "title": "Sexdocka hittades dumpad i myr: ”Otäckt”",
+      "description": "En sexdocka har hittats dumpad i en myr i Drevdagen. Brösten är avskurna och dockan saknar huvud. Men enligt lokalbon Vanja Halvarsson var dockans storlek det värsta. – Det var riktigt otäckt. Man börjar ju fundera, säger Vanja Halvarsson.",
+      "link": "https://www.expressen.se/nyheter/sverige/sexdocka-hittades-dumpad-i-myr-otackt-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sexdocka-hittades-dumpad-i-myr-otackt-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786215378000
+    },
     {
       "title": "VPS inkasserade derbyseger över FF Jaro – vann med 3–1 i Jakobstad",
       "description": "I herrarnas fotbollsliga drog VPS det längre strået i derbymatchen mot FF Jaro. Vasalaget vann med 3–1.",
@@ -42,16 +182,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786210647000
-    },
-    {
-      "title": "Föll 8 meter",
-      "description": "Olycka på höghöjdsbana",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786210505000
     },
     {
       "title": "Bil i krock med lastbil",
@@ -122,6 +252,26 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786205617000
+    },
+    {
+      "title": "Marinarkeologer fann 2 400 år gammalt skeppsvrak med hundratals amforor",
+      "description": "Arkeologer har hittat ett antikt handelsfartyg med ett nästan intakt lastrum. Lasten antyder ett omfattande handelsnätverk under antiken.",
+      "link": "https://varldenshistoria.se/civilisationer/greker/marinarkeologer-fann-grekiskt-skeppsvrak-med-over-600-amforor",
+      "guid": "https://varldenshistoria.se/civilisationer/greker/marinarkeologer-fann-grekiskt-skeppsvrak-med-over-600-amforor",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786204834000
+    },
+    {
+      "title": "Färgglada nebulosor pryder just nu natthimlen: Så här ser du dem med egna ögon",
+      "description": "De är några av de vackraste synerna på stjärnhimlen. Lagunnebulosan och Trifidnebulosan är färgglada gasmoln som sträcker sig över mer än 100 ljusår i diameter. Och du kan se dem själv om du tittar upp vid precis rätt tidpunkt.",
+      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/just-nu-soderns-nebulosor-kommer-pa-besok",
+      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/just-nu-soderns-nebulosor-kommer-pa-besok",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786204812000
     },
     {
       "title": "Stjärnforskare avgår efter anklagelser om fusk",
@@ -204,8 +354,8 @@
       "timestamp": 1786198142000
     },
     {
-      "title": "I kväll spelar Eppu Normaali för sista gången – vad har bandet betytt för dig?",
-      "description": "Efter 50 år och 1,5 miljoner sålda skivor tar Eppu Normaali i kväll avsked av sina fans med en sista livekonsert hemma i Tammerfors.",
+      "title": "Eppu Normaali lägger lapp på luckan – vad har bandet betytt för dig?",
+      "description": "Efter 50 år och 1,5 miljoner sålda skivor tog Eppu Normaali avsked av sina fans med en sista livekonsert hemma i Tammerfors på lördagskvällen.",
       "link": "https://yle.fi/a/7-10103263?origin=rss",
       "guid": "https://yle.fi/a/7-10103263",
       "image": "",
@@ -474,16 +624,6 @@
       "timestamp": 1786189664000
     },
     {
-      "title": "På flykt i 33 timmar: Mystisk man i kajak",
-      "description": "Den misstänkte mördaren höll sig undan i 33 timmar efter det att hans partner hittats död i ett sommarhus. Han gick till fots på en skärgårdsö, simmade, använde kajak och annan båt – och en granne såg en man i kajak som betedde sig ”skumt”. – Det känns väldigt olustigt, han kanske rekade vår ö, säger grannen.",
-      "link": "https://www.expressen.se/nyheter/pa-flykt-i-33-timmar-mystisk-man-i-kajak/",
-      "guid": "https://www.expressen.se/nyheter/pa-flykt-i-33-timmar-mystisk-man-i-kajak/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786189599000
-    },
-    {
       "title": "Rysare väntar då Jaro möter VPS på hemmaplan: ”Vi måste upp och ta fajten”",
       "description": "Jaro möter VPS på hemmaplan och har laddat för ett spännande derby. Nu är varje poäng viktig för Jaro som ligger näst sist i tabellen.",
       "link": "https://yle.fi/a/7-10103270?origin=rss",
@@ -534,16 +674,6 @@
       "timestamp": 1786186523000
     },
     {
-      "title": "Man död under rally-SM",
-      "description": "Polisen söker vittnen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f67d6425-dd05-417b-9a88-e622808b379e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f67d6425-dd05-417b-9a88-e622808b379e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786186337000
-    },
-    {
       "title": "Vittnen hjälpte skadade när turistbuss välte i Norge",
       "description": "Enligt medier är det en tysk turistbuss som vält omkull.",
       "link": "https://yle.fi/a/7-10103269?origin=rss",
@@ -552,16 +682,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786185051000
-    },
-    {
-      "title": "Blev plötsligt attackerad av gädda – fick sy elva stygn",
-      "description": "En lugn kväll vid bryggan slutade i blod och sjukhusbesök. När Izabella Walkowiak doppade fötterna i vattnet högg plötsligt en gädda och blodet forsade ur de djupa såren. – Så småningom ska jag äta upp den, säger Izabella Walkowiak.",
-      "link": "https://www.expressen.se/nyheter/sverige/blev-plotsligt-attackerad-av-gadda-fick-sy-elva-stygn-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/blev-plotsligt-attackerad-av-gadda-fick-sy-elva-stygn-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786184368000
     },
     {
       "title": "Kommunägt bolag polisanmält igen för miljöbrott",
@@ -584,16 +704,6 @@
       "timestamp": 1786183541000
     },
     {
-      "title": "Buss har vält",
-      "description": "Flera skadade i Norge",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=30143da0-7ee5-445e-bcda-b9c9d150779b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30143da0-7ee5-445e-bcda-b9c9d150779b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786183289000
-    },
-    {
       "title": "Några trailers för filmer och tv-serier",
       "description": "Lite gott och blandat I veckan dök det upp ett gäng nya trailers för filmer och tv-serier. För att inte spamma sajten med alltför mycket sådant dyker ett gäng av dem upp här i samlad form istället. High Value Target: The Hunt for Saddam Först ut är trailern för den kommande serien High Value Target: The Hunt for Saddam med Joel Kinnaman i huvudrollen. Serien följer USA:s invasion av Irak och jakten på Saddam Hussein. Serien bygger på CIA-analytikern John Nixons memoarer och har premiär i USA den 13 september. Lion Den som vill ha lite mer naturfilm i sitt liv kan ju se fram emot Lion från Jon Favreau och BBC Studios. Denna dokumentär sträcker sig över fyra år och följer lejonungen Kio, från utsatt unge till en mäktig kung. Lion ska kombinera klassiskt naturfilmsfoto med ett filmiskt berättande, vilket då ska göra allt lite extra spännande för tittarna. Fall 2: Deadpoint Här är trailern för Fall 2: Deadpoint vilket då är uppföljaren till filmen Fall från 2022. I uppföljaren möter vi Jax, som försöker hedra sin syster Hunters minne genom att genomföra en riskfylld klättring på Mount Kwan tillsammans med en av systerns närmaste vänner. Inte helt oväntat går det ju lite sisådär bra. L&auml;s vidare och kommentera: https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/ L&auml;s mer om Joel Kinnaman , Jon Favreau , Fall 2: Deadpoint , High Value Target: The Hunt for Saddam",
       "link": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
@@ -602,16 +712,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786183200000
-    },
-    {
-      "title": "Köper Ozempic för miljarder till anställda",
-      "description": "Företaget spenderar miljarder för att de anställda ska gå ner i vikt. Kostnaden har gått från noll till hundra på några år. – Vi ser en stor påverkan på våra anställda, säger Brian Moynihan, vd för Bank of America, till CNBC .",
-      "link": "https://www.expressen.se/nyheter/varlden/koper-ozempic-for-miljarder-till-anstallda/",
-      "guid": "https://www.expressen.se/nyheter/varlden/koper-ozempic-for-miljarder-till-anstallda/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786182264000
     },
     {
       "title": "Brand på kraftverket i Vasa – räddningsverket varnar för röklukt",
@@ -642,16 +742,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786181213000
-    },
-    {
-      "title": "Stora tillslaget – här stoppas knarkbåten",
-      "description": "Tre gripna ombord",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/stora-tillslaget-har-stoppas-knarkbaten",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-tillslaget-har-stoppas-knarkbaten",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786179915000
     },
     {
       "title": "En viss grupp barn löper betydligt lägre risk att drabbas av astma och allergi än andra – forskare påstår sig ha avslöjat hemligheten",
@@ -724,26 +814,6 @@
       "timestamp": 1786178371000
     },
     {
-      "title": "EU och USA: Nya sanktioner mot Ryssland",
-      "description": "EU och USA inför nya sanktioner mot Ryssland. Nu handlar det bland annat om fem personer kopplade till Rysslands militärindustriella komplex. Det blir nya sanktioner mot Ryssland när EU nu agerar mot fem personer. Det handlar, enligt EU:s utrikeskommissionär Kaja Kallas, om fem personer som alla har kopplingar till Rysslands militärindustriella komplex. Kallas uppger att […]",
-      "link": "https://www.dagensps.se/varlden/eu-och-usa-nya-sanktioner-mot-ryssland/",
-      "guid": "https://www.dagensps.se/?p=1662429",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlxqsvf1o32ug-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786177425000
-    },
-    {
-      "title": "Noora Shinglers barn spydde hela natten efter att ha badat i vatten med cyanobakterier",
-      "description": "Miljöaktivisten Noora Shinglers 11-åriga son spydde tio gånger efter ett kvällsdopp i Åbolands skärgård. ”Uselt om vi måste börja bada bara i pooler”, säger hon.",
-      "link": "https://yle.fi/a/7-10102753?origin=rss",
-      "guid": "https://yle.fi/a/7-10102753",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786176281000
-    },
-    {
       "title": "Appsända matcher mot Mjällby och BP i dag – här är Bajen-helgen",
       "description": "P17-killarna i HTFF tjuvstartade matchhelgen, då man på fredagskvällen tog andra raka segern i höstserien – 4-1 borta mot Nordic United. I dag lördag väntar Forza Bajen-sända hemmamatcher mot Mjällby",
       "link": "https://www.hammarbyfotboll.se/nyheter/appsaenda-matcher-mot-mjaellby-och-bp-i-dag-haer-aer-bajen-helgen",
@@ -754,16 +824,6 @@
       "timestamp": 1786176254000
     },
     {
-      "title": "Brännolja läckte ut i vattnet i Larsmo",
-      "description": "Räddningsverket har fått sanera vid Nabbsundet i Larsmo efter upptäckten av brännolja i vattnet.",
-      "link": "https://yle.fi/a/7-10103264?origin=rss",
-      "guid": "https://yle.fi/a/7-10103264",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786176082000
-    },
-    {
       "title": "Peter Esse har kört Volvo EX60 i Sverige",
       "description": "Här berättar han om den upplevelsen Volvo EX60 har kommit till Sverige på riktigt och de första kunderna har fått sina bilar. Peter Esse bestämde sig för att ta ut ett exemplar och köra bilen på svensk mark. Han säger bland annat att den som är intresserad bör köpa till Ultra-paketet för då blir bilen så mycket bättre. L&auml;s vidare och kommentera: https://feber.se/bil/peter-esse-har-kort-volvo-ex60-i-sverige/494816/ L&auml;s mer om Peter Esse , EX60 , Volvo EX60 , Sverige",
       "link": "https://feber.se/bil/peter-esse-har-kort-volvo-ex60-i-sverige/494816/?utm_source=rss&utm_medium=feed",
@@ -772,16 +832,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786176000000
-    },
-    {
-      "title": "Här är de 7 stegen till ekonomisk frihet – vilket är du på?",
-      "description": "Vägen till ekonomisk frihet behöver inte tas i ett enda jättesprång. En universitetslärare har i stället delat upp resan i sju nivåer – från skuldfri till riktigt gott om pengar. Miguel Marquez började på allvar jaga ekonomisk frihet först vid 38 års ålder. I dag är han 47, undervisar i franska, spanska och privatekonomi vid […]",
-      "link": "https://www.dagensps.se/privatekonomi/har-ar-de-7-stegen-till-ekonomisk-frihet-vilket-ar-du-pa/",
-      "guid": "https://www.dagensps.se/?p=1662405",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/kopia-av-kopia-2026-08-08t094620723.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786175807000
     },
     {
       "title": "Rättegång inleds för mordet på Tupac",
@@ -2184,16 +2234,6 @@
       "timestamp": 1785976415000
     },
     {
-      "title": "Stressforskarens bästa råd efter semestern: \"Om det finns en vana du bör prioritera, så är det denna\"",
-      "description": "När semestern är över och inkorgen återigen svämmar över av mejl och mötesinbjudningar kan arbetspressen snabbt börja tära på både kropp och hjärna. Många försöker bekämpa den med träning och hälsosam kost, men efter att ha följt tusentals människor i tio år kan stressforskaren Serra Al-Katib nu avslöja den vana som bäst skyddar dig mot arbetsrelaterad stress.",
-      "link": "https://illvet.se/halsa/hon-har-foljt-tusentals-manniskors-arbetsliv-i-tio-ar-detta-ar-stressforskarens-basta-rad-for-att-undvika-overbelastning-efter-semestern",
-      "guid": "https://illvet.se/halsa/hon-har-foljt-tusentals-manniskors-arbetsliv-i-tio-ar-detta-ar-stressforskarens-basta-rad-for-att-undvika-overbelastning-efter-semestern",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785967257000
-    },
-    {
       "title": "Låg gömd i flera tusen år: Jättarnas grav har hittats på Sardinien",
       "description": "Genom historien har lokalbefolkningen på Sardinien trott att en rad stora gravmonument uppfördes av jättar. På 740 meters höjd har arkeologer nu hittat en av de äldsta av dessa så kallade ”jättgravar”.",
       "link": "https://varldenshistoria.se/kultur/arkeologi/lag-gomd-i-flera-tusen-ar-jattegrav-har-hittats-pa-sardinien",
@@ -2232,16 +2272,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785945615000
-    },
-    {
-      "title": "I 25 år har en grupp delfiner uppvisat ett mycket speciellt beteende – nu har forskare gjort en upptäckt i kroppen på de kloka däggdjuren",
-      "description": "Det har visat sig att det finns något som skiljer dem från deras artfränder.",
-      "link": "https://illvet.se/naturen/i-25-ar-har-en-grupp-delfiner-uppvisat-ett-mycket-speciellt-beteende-nu-har-forskare-gjort-en-upptackt-i-kroppen-pa-de-kloka-daggdjuren",
-      "guid": "https://illvet.se/naturen/i-25-ar-har-en-grupp-delfiner-uppvisat-ett-mycket-speciellt-beteende-nu-har-forskare-gjort-en-upptackt-i-kroppen-pa-de-kloka-daggdjuren",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785942033000
     },
     {
       "title": "Nu erbjuds dubbelt så många IVF-behandlingar",
@@ -2542,16 +2572,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785906652000
-    },
-    {
-      "title": "”Årets fynd”: Arkeologer fann 40 000 år gamla fåglar av elfenben i tysk grotta",
-      "description": "Två figurer, stora som en tumnagel, har hittats i en berömd tysk istidsgrotta. Deras otroliga konstnärliga precision förvånar forskarna.",
-      "link": "https://varldenshistoria.se/stenalder/arets-fynd-arkeologer-fann-40-000-ar-gamla-faglar-av-elfenben-i-tysk-grotta",
-      "guid": "https://varldenshistoria.se/stenalder/arets-fynd-arkeologer-fann-40-000-ar-gamla-faglar-av-elfenben-i-tysk-grotta",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785906012000
     },
     {
       "title": "Efter M:s tvärnej – LP tar strid för fritidsbank på Lidingö",
@@ -2902,26 +2922,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785806339000
-    },
-    {
-      "title": "Ny studie avslöjar hur kinesiska klippmålningar bevarats så otroligt väl – kalk, lera och blod från födande kvinnor",
-      "description": "Hur klippmålningarna på berget Huashan under 2 000 år har bevarats trots otaliga tyfoner, kraftiga regnskurar och intensiv hetta har länge varit ett mysterium. Nu verkar gåtan vara löst.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/ny-studie-avslojar-hur-kinesiska-klippmalningar-bevarats-sa-otroligt-val",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/ny-studie-avslojar-hur-kinesiska-klippmalningar-bevarats-sa-otroligt-val",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785789018000
-    },
-    {
-      "title": "Stenålderns pionjärer: Här är de nio kulturer som banade väg för vår värld",
-      "description": "Glöm myten om primitiva grottmänniskor: stenålderns folk skapade städer, handel och astronomi. Läs om stenålderns gåtfulla kulturer.",
-      "link": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
-      "guid": "https://varldenshistoria.se/stenalder/stenalderns-pionjarer-de-banade-vag-for-en-ny-varld",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1785783631000
     },
     {
       "title": "Slussens tillfälliga entré rivs efter åtta år",
