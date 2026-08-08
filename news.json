@@ -1,8 +1,108 @@
 {
-  "updatedAt": "2026-08-08T15:19:03.335Z",
+  "updatedAt": "2026-08-08T18:21:01.872Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "VPS inkasserade derbyseger över FF Jaro – vann med 3–1 i Jakobstad",
+      "description": "I herrarnas fotbollsliga drog VPS det längre strået i derbymatchen mot FF Jaro. Vasalaget vann med 3–1.",
+      "link": "https://yle.fi/a/7-10103278?origin=rss",
+      "guid": "https://yle.fi/a/7-10103278",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786213022000
+    },
+    {
+      "title": "Köat sedan 07 – för att se stjärnan",
+      "description": "The Weeknd gör tre spelningar i Stockholm",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/the-weeknd-i-stockholm-koat-i-timmar",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/the-weeknd-i-stockholm-koat-i-timmar",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786211946000
+    },
+    {
+      "title": "Säsongens första bortaseger för Ekenäs IF: ”Det här var viktiga tre poäng”",
+      "description": "Thadee Kaleba blev matchhjälte för EIF i Åggelby i Helsingfors. Han nickade in matchens enda mål som gav Ekenäslaget segern.",
+      "link": "https://yle.fi/a/7-10102988?origin=rss",
+      "guid": "https://yle.fi/a/7-10102988",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786211387000
+    },
+    {
+      "title": "Segelbåten kraschade in i bröllopet: ”Oj, vi måste hålla i oss”",
+      "description": "En segelbåt och en mindre passagerarfärja krockade i Riddarfjärden i Stockholm. Ombord på färjan pågick bröllop med 90 gäster. – Jag hör bara min kompis säga: ”Oj, nu måste vi nog hålla i oss. Det ser ut som att segelbåten är på väg mot oss”, säger Olof Svanberg, 32.",
+      "link": "https://www.expressen.se/nyheter/sverige/segelbaten-kraschade-in-i-brollopet-oj-vi-maste-halla-i-oss/",
+      "guid": "https://www.expressen.se/nyheter/sverige/segelbaten-kraschade-in-i-brollopet-oj-vi-maste-halla-i-oss/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786210647000
+    },
+    {
+      "title": "Föll 8 meter",
+      "description": "Olycka på höghöjdsbana",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=085d9c8d-7e63-4ae3-a884-7ea628bee996",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786210505000
+    },
+    {
+      "title": "Bil i krock med lastbil",
+      "description": "Ung kvinna skadad",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8feffc98-d08c-467c-b3ee-8e252c46d1fe",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8feffc98-d08c-467c-b3ee-8e252c46d1fe",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786209519000
+    },
+    {
+      "title": "Folkfester: Planket och Nytorgsfesten snart tillbaka",
+      "description": "Nytorgsfesten och Planket närmar sig.",
+      "link": "https://www.mitti.se/nyheter/folkfester-planket-och-nytorgsfesten-snart-tillbaka-6.3.379167.65fbf0d77d",
+      "guid": "https://www.mitti.se/nyheter/folkfester-planket-och-nytorgsfesten-snart-tillbaka-6.3.379167.65fbf0d77d",
+      "image": "https://www.mitti.se/image-3.377754.301956.20260808173117.6a0bdac094?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786208400000
+    },
+    {
+      "title": "Åland United nollade Ilves på hemmaplan – befäster andra platsen i tabellen",
+      "description": "I damernas nationella liga i fotboll kammade HPS och Åland United hem full pott under lördagen.",
+      "link": "https://yle.fi/a/7-10103276?origin=rss",
+      "guid": "https://yle.fi/a/7-10103276",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786208200000
+    },
+    {
+      "title": "Sveriges första bilbomb exploderade på Pipersgatan",
+      "description": "Piperska smällen – Sveriges första bilbom exploderade på Kungsholmen 1926.",
+      "link": "https://www.mitti.se/nyheter/sveriges-forsta-bilbomb-exploderade-pa-pipersgatan-6.3.379155.d0a897ae7b",
+      "guid": "https://www.mitti.se/nyheter/sveriges-forsta-bilbomb-exploderade-pa-pipersgatan-6.3.379155.d0a897ae7b",
+      "image": "https://www.mitti.se/image-3.338899.301938.20260808170116.66968ef4fc?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786206600000
+    },
+    {
+      "title": "Färja i krock med segelbåt",
+      "description": "Räddningstjänsten på plats",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8019a3a1-1b89-494c-a5a8-c71a4670b6e2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8019a3a1-1b89-494c-a5a8-c71a4670b6e2",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786206101000
+    },
     {
       "title": "Kraftig brand på ö",
       "description": "”Är stort, snabb spridning”",
@@ -11,7 +111,47 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786201912000
+      "timestamp": 1786205718000
+    },
+    {
+      "title": "Polisen grep ryska turister i tält: ”Säkerhetsrisker”",
+      "description": "Svensk polis har gripit två ryska turister som tältade utanför Gävle. Paret Tatjana och Semjon betraktas som säkerhetsrisker, enligt ryska antikrigsaktivister. De är aktiva motståndare till Ukrainakriget, men riskerar att utvisas till Ryssland, säger aktivisterna.",
+      "link": "https://www.expressen.se/nyheter/polisen-grep-ryska-turister-i-talt-sakerhetsrisker/",
+      "guid": "https://www.expressen.se/nyheter/polisen-grep-ryska-turister-i-talt-sakerhetsrisker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786205617000
+    },
+    {
+      "title": "Stjärnforskare avgår efter anklagelser om fusk",
+      "description": "En jätteskandal skakar ett av världens finaste universitet. Jason Arday gjorde kometkarriär på brittiska Cambridge som dess yngste svarte professor. Men stjärnforskaren avslöjades som fuskare och har nu lämnat sin post.",
+      "link": "https://www.expressen.se/nyheter/varlden/stjarnforskare-avgar-efter-anklagelser-om-fusk/",
+      "guid": "https://www.expressen.se/nyheter/varlden/stjarnforskare-avgar-efter-anklagelser-om-fusk/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786203162000
+    },
+    {
+      "title": "Motståndarkollen: Häcken",
+      "description": "På söndagseftermiddagen tar Bajen emot fyran Häcken i den sextonde allsvenska omgången. Här är en titt på säsongen sedan vårsäsongens slutomgång, hos bollklubben från Hisingen.BK Häckens historik kika",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-haecken__",
+      "guid": "107203d1-ea2a-4fe6-b596-fa68b439e2c3",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/14da181b5bbc7bdf19f9a8145bcd7434eee5c9ab-5744x2872.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786202409000
+    },
+    {
+      "title": "Publikinformation: Hemmamötet med Häcken",
+      "description": "Det är dags för allsvensk hemmamatch igen när Hammarby tar emot Häcken på 3Arena. Här hittar du som ser mötet på plats samlad publikinformation – avspark sker 14.00 på söndagen. Vi vill be dig som ser",
+      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamotet-med-hacken",
+      "guid": "07b87b75-dd95-4057-b3c6-cbe181e50c4c",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/da8b3d7871784dbfe42f3888b04d5fdc1f694384-1766x1177.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786201935000
     },
     {
       "title": "Stor påverkan på E4 efter olycka",
@@ -64,7 +204,7 @@
       "timestamp": 1786198142000
     },
     {
-      "title": "Eppu Normaali blev Nea Härkönens väg in i finskan – i kväll spelar bandet för sista gången",
+      "title": "I kväll spelar Eppu Normaali för sista gången – vad har bandet betytt för dig?",
       "description": "Efter 50 år och 1,5 miljoner sålda skivor tar Eppu Normaali i kväll avsked av sina fans med en sista livekonsert hemma i Tammerfors.",
       "link": "https://yle.fi/a/7-10103263?origin=rss",
       "guid": "https://yle.fi/a/7-10103263",
@@ -184,7 +324,7 @@
       "timestamp": 1786194860000
     },
     {
-      "title": "Drönare slog ner i solrosfält i Bulgarien",
+      "title": "Bulgariens försvarsministerium: Drönare var av samma modell som Ukrainas militär ofta använder",
       "description": "En oidentifierad drönare tog sig på lördagsmorgonen in i Bulgariens luftrum. Den exploderade nära gränsen mot Rumänien, uppger Bulgariens premiärminister.",
       "link": "https://yle.fi/a/7-10103273?origin=rss",
       "guid": "https://yle.fi/a/7-10103273",
@@ -214,21 +354,21 @@
       "timestamp": 1786194000000
     },
     {
-      "title": "40 förråd dränktes vid läcka: ”Som en krigszon”",
-      "description": "Översvämning Norrtullsgatan: 40 förråd förstörda efter felkoppling.",
-      "link": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
-      "guid": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
-      "image": "https://www.mitti.se/image-3.183827.301950.20260808133109.1.2fd2064941?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786194000000
-    },
-    {
       "title": "App-turism trendar: Här är det fria alternativet till campingplatsen",
       "description": "Allt fler husbilsturister använder appar som Park4night för att hitta gratis eller billiga ställplatser i Stockholmsområdet – ett friare och naturnära alternativ till campingplatser.",
       "link": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
       "guid": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
       "image": "https://www.mitti.se/image-3.377404.301428.20260808133109.e9b7b067c0?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786194000000
+    },
+    {
+      "title": "40 förråd dränktes vid läcka: ”Som en krigszon”",
+      "description": "Översvämning Norrtullsgatan: 40 förråd förstörda efter felkoppling.",
+      "link": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
+      "guid": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
+      "image": "https://www.mitti.se/image-3.183827.301950.20260808133109.1.2fd2064941?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786194000000
@@ -464,16 +604,6 @@
       "timestamp": 1786183200000
     },
     {
-      "title": "Här brinner Putins olja",
-      "description": "Ukrainska attacken – enorma lågorna",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786182924000
-    },
-    {
       "title": "Köper Ozempic för miljarder till anställda",
       "description": "Företaget spenderar miljarder för att de anställda ska gå ner i vikt. Kostnaden har gått från noll till hundra på några år. – Vi ser en stor påverkan på våra anställda, säger Brian Moynihan, vd för Bank of America, till CNBC .",
       "link": "https://www.expressen.se/nyheter/varlden/koper-ozempic-for-miljarder-till-anstallda/",
@@ -574,16 +704,6 @@
       "timestamp": 1786179287000
     },
     {
-      "title": "Trump går till attack mot åklagaren igen",
-      "description": "Utredningen kring den påstådda vandaliseringen vid spegeldammen lades ner. Trump rasade och har nu återigen gått till attack mot åklagaren – som han själv handplockade. ”Jeanine Pirro borde ompröva sitt förhastade beslut”, skriver Trump på Truth Social .",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-gar-till-attack-mot-aklagaren-igen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-gar-till-attack-mot-aklagaren-igen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786178683000
-    },
-    {
       "title": "Se sista Augustinatten i bilder!",
       "description": "På fredag kväll ordnades festivalen Augustinatten i Ekenäs för tionde och sista gången. Omkring 3 500 personer besökte evenemanget.",
       "link": "https://yle.fi/a/7-10103115?origin=rss",
@@ -604,16 +724,6 @@
       "timestamp": 1786178371000
     },
     {
-      "title": "Atlantvärmen på ingång till Sverige",
-      "description": "Efter några dagar med växlande väder slår det snart om. Nästa vecka når den engelska hettan Sverige. – Det kan bli varmt och fuktigt, säger Linnea Rehn-Wittskog, meteorolog på SMHI.",
-      "link": "https://www.expressen.se/nyheter/vader/atlantvarmen-pa-ingang-till-sverige/",
-      "guid": "https://www.expressen.se/nyheter/vader/atlantvarmen-pa-ingang-till-sverige/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786177645000
-    },
-    {
       "title": "EU och USA: Nya sanktioner mot Ryssland",
       "description": "EU och USA inför nya sanktioner mot Ryssland. Nu handlar det bland annat om fem personer kopplade till Rysslands militärindustriella komplex. Det blir nya sanktioner mot Ryssland när EU nu agerar mot fem personer. Det handlar, enligt EU:s utrikeskommissionär Kaja Kallas, om fem personer som alla har kopplingar till Rysslands militärindustriella komplex. Kallas uppger att […]",
       "link": "https://www.dagensps.se/varlden/eu-och-usa-nya-sanktioner-mot-ryssland/",
@@ -625,7 +735,7 @@
     },
     {
       "title": "Noora Shinglers barn spydde hela natten efter att ha badat i vatten med cyanobakterier",
-      "description": "Miljöaktivisten Noora Shinglers 11-åriga son spydde tio gånger efter ett kvällsdopp i Åbo skärgård. ”Uselt om vi måste börja bada bara i pooler”, säger hon.",
+      "description": "Miljöaktivisten Noora Shinglers 11-åriga son spydde tio gånger efter ett kvällsdopp i Åbolands skärgård. ”Uselt om vi måste börja bada bara i pooler”, säger hon.",
       "link": "https://yle.fi/a/7-10102753?origin=rss",
       "guid": "https://yle.fi/a/7-10102753",
       "image": "",
@@ -672,66 +782,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786175807000
-    },
-    {
-      "title": "EU kräver att Tiktok och Meta hejdar desinformation i kristider",
-      "description": "Desinformation i sociala medier tros ha spelat en stor roll i att tusentals människor tog sig från Marocko till spanska Ceuta i slutet av juli.",
-      "link": "https://yle.fi/a/7-10103260?origin=rss",
-      "guid": "https://yle.fi/a/7-10103260",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786173142000
-    },
-    {
-      "title": "Åkesson: Samebyarnas inflytande ett jätteproblem",
-      "description": "Jimmie Åkesson hoppas vända Tidökrisen genom att locka S-väljare med frågor om jakt och fiske på samebyars mark. Han har ännu inte gett upp hoppet om L – men utesluter inte att det kan ändras. – Om ett par veckor så kanske det inte är lika hypotetiskt längre.",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-samebyarnas-inflytande-ett-jatteproblem/",
-      "guid": "https://www.expressen.se/nyheter/politik/akesson-samebyarnas-inflytande-ett-jatteproblem/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786173088000
-    },
-    {
-      "title": "Femte värmebölja på väg mot Storbritannien",
-      "description": "Efter en redan ovanligt varm och torr sommar väntar fortsatt brittisk värme. Nu laddar landet för ännu en rejäl värmeknock – och nästa vecka kan den femte värmeböljan för året vara ett faktum.",
-      "link": "https://www.expressen.se/nyheter/vader/femte-varmebolja-pa-vag-mot-storbritannien/",
-      "guid": "https://www.expressen.se/nyheter/vader/femte-varmebolja-pa-vag-mot-storbritannien/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786173016000
-    },
-    {
-      "title": "Spritstigen i Lappträsk föddes ur smugglarnas fotspår under förbudstiden",
-      "description": "En gång i tiden fungerade stigen i Lappträskskogarna som gömsle för spritsmugglare, nu är den en populär naturstig att vandra längs.",
-      "link": "https://yle.fi/a/7-10100013?origin=rss",
-      "guid": "https://yle.fi/a/7-10100013",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786173014000
-    },
-    {
-      "title": "Dödlig rysk attack mot Kiev",
-      "description": "Barn bland de avlidna efter robotattack i Ukraina",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/dodlig-rysk-attack-mot-kiev-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/dodlig-rysk-attack-mot-kiev-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786172817000
-    },
-    {
-      "title": "Malaxparet älskar att rädda gamla hus – här är deras bästa råd",
-      "description": "Byggnadsvårdarna Jenny Lindholm och Joachim Högväg råder den som ska renovera ett gammalt hus att vänta sig överraskningar och låta arbetet ta tid.",
-      "link": "https://yle.fi/a/7-10103075?origin=rss",
-      "guid": "https://yle.fi/a/7-10103075",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786172620000
     },
     {
       "title": "Rättegång inleds för mordet på Tupac",
@@ -782,16 +832,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786168800000
-    },
-    {
-      "title": "Kusliga sekunderna innan grova mordet",
-      "description": "USA skakas av misstänkt clownmördare • Otäcka besöket",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-dyker-den-misstankta-mordaren-upp-i-clowndrakt",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-dyker-den-misstankta-mordaren-upp-i-clowndrakt",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786168417000
     },
     {
       "title": "Lingonlimpa – recept på saftigt lingonbröd",
@@ -992,6 +1032,16 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786123800000
+    },
+    {
+      "title": "Everyday Carry: Brush",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-brush/",
+      "guid": "https://uncrate.com/everyday-carry-brush/",
+      "image": "https://uncrate.com/assets_c/2026/07/edc-brush-darkened-thumb-960xauto-192404.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786122600000
     },
     {
       "title": "Brita, 92, bor med fladdermöss: ”Inga mygg i alla fall”",
@@ -1674,16 +1724,6 @@
       "timestamp": 1786050000000
     },
     {
-      "title": "Narwal Flow 2 Robot Vacuum",
-      "description": "",
-      "link": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "guid": "https://uncrate.com/narwal-flow-2-robot-vacuum/",
-      "image": "https://uncrate.com/assets_c/2026/07/narwal-robot-vacuum-2-thumb-960xauto-192163.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786044632000
-    },
-    {
       "title": "Krysset med hem från Polen",
       "description": "Hammarby hade god kontroll på kvällens inledande bortakvalmöte med Raków i Częstochowa. Likväl fick Warner Hahn plocka fram matchens två vassaste räddningar, då fasta-starka polacker nickavslutade frå",
       "link": "https://www.hammarbyfotboll.se/nyheter/0-0-i-czestochowa",
@@ -2044,16 +2084,6 @@
       "timestamp": 1785997507000
     },
     {
-      "title": "Matchdag: Bortamötet med Raków – avspark 19.00",
-      "description": "I kväll spelas den första matchen i kvalomgång 3 mot Raków. Matchen sparkas igång 19.00 på Miejski Stadion Pilkarski Raków i Polen och du som inte är på plats ser matchen hos Aftonbladet Plus. Här hit",
-      "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-bortamotet-med-rakow-avspark-19-00",
-      "guid": "a4a720e9-e909-4bd2-8ee8-6cc4b79db175",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/7c47bb239cadc586d38a1b54ce642d55fc1d6813-1330x887.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785996652000
-    },
-    {
       "title": "Farligt föremål kastades in på krog – två gripna",
       "description": "Två gripna efter att ett misstänkt farligt föremål slänges in på en krog på Folkungagatan på Södermalm",
       "link": "https://www.mitti.se/nyheter/farligt-foremal-kastades-in-pa-krog--tva-gripna-6.3.378583.5a9df2274a",
@@ -2172,16 +2202,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1785961806000
-    },
-    {
-      "title": "HTV: Röster inför Raków borta",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-roester-infoer-rakow-borta",
-      "guid": "b7e223e7-8232-4ae3-8c25-d18a3f9536ff",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/c7b26d55d593e3005f2b9cd2f5fe63cf6362a762-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785959136000
     },
     {
       "title": "Han var frustrerad över det höga antalet dödsfall på sin förlossningsavdelning, men hans lösning på problemet väckte ramaskri",
