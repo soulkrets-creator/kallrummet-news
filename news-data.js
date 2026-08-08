@@ -1,8 +1,258 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-08T09:27:00.745Z",
+  "updatedAt": "2026-08-08T12:24:36.019Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "USA:s senat godkände Trumps tidigare advokat som justitieminister",
+      "description": "Utnämningen godkändes med minsta möjliga marginal. Demokraterna men också två republikaner röstade nej.",
+      "link": "https://yle.fi/a/7-10103266?origin=rss",
+      "guid": "https://yle.fi/a/7-10103266",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786191319000
+    },
+    {
+      "title": "Amanda Knox slår ifrån sig efter kritiken mot humorshowen",
+      "description": "Amanda Knox dömdes och friades senare för mordet på sin brittiska rumskamrat Meredith Kercher i Italien 2007. Nu gör Knox en humorshow om fängelsetiden – som väcker starka reaktioner inför premiären i Edinburgh.",
+      "link": "https://www.expressen.se/nyheter/varlden/amanda-knox-slar-ifran-sig-efter-kritiken-mot-humorshowen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/amanda-knox-slar-ifran-sig-efter-kritiken-mot-humorshowen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786191169000
+    },
+    {
+      "title": "Nytt läkemedel mot Alzheimers: ”Viktigt steg”",
+      "description": "I en ny studie har forskare testat ett läkemedel som agerar mot Alzheimers. ”Ett viktigt steg framåt”, säger en expert om läkemedlet. Två specifika förändringar sker i hjärnan vid Alzheimers sjukdom. Plack bestående av beta-amyloid-proteiner ansamlas mellan nervcellerna. Detta verkar få fina trådar inuti nervcellerna att börja bilda nystan. Dessa nystan består av tau-proteiner, vilket […]",
+      "link": "https://www.dagensps.se/life-science/nytt-lakemedel-mot-alzheimers-viktigt-steg/",
+      "guid": "https://www.dagensps.se/?p=1662500",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdld-x3tsg-n-c-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786190572000
+    },
+    {
+      "title": "Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga",
+      "description": "Under 11 000 år har ett mycket speciellt reservat fått utvecklas – helt obemärkt.",
+      "link": "https://illvet.se/naturen/forskare-upptacker-en-dold-varld-av-liv-500-meter-under-jordens-yta-nu-vacker-fyndet-en-viktig-fraga",
+      "guid": "https://illvet.se/naturen/forskare-upptacker-en-dold-varld-av-liv-500-meter-under-jordens-yta-nu-vacker-fyndet-en-viktig-fraga",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786190456000
+    },
+    {
+      "title": "Frivilliga brandkåren ryckte ut till liten brand i Kimitoöns skärgård",
+      "description": "Invånarna i sommarstugan lyckades stoppa branden själva.",
+      "link": "https://yle.fi/a/7-10103272?origin=rss",
+      "guid": "https://yle.fi/a/7-10103272",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786190423000
+    },
+    {
+      "title": "Sony märker om PlayStation 5-kartonger",
+      "description": "Varnar nya kunder om att fysiska skivor försvinner år 2028 Som bekant planerar Sony att fasa ut fysiska skivor till PlayStation med start 1 januari 2028. Detta känns ju lite som en oundviklig framtid men samtidigt lite tråkig för folk som vill ha sina spel på skivor. Hur som helst har ju Sony fått en del kritik för att det sker lite för hastigt. Tydligen har Sony nu valt att börja förvarna nya kunder genom att sätta varningsetiketter på PlayStation 5-kartongen där det står klart och tydligt att nya titlar efter deadlinen endast kommer finnas tillgängliga via PlayStation Store eller som digitala köp hos återförsäljare. L&auml;s vidare och kommentera: https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/ L&auml;s mer om Sony , PS5 , PlayStation Store , digitala spel , fysiska spel",
+      "link": "https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786190400000
+    },
+    {
+      "title": "Spekulationerna kring Trumps utseende",
+      "description": "Trumps tal har väckt uppmärksamhet. Men inte för vad han sa utan för hur han såg ut, enligt flera amerikanska medier. – Ljussättningen är allt, säger Vita husets pressekreterare Karoline Leavitt, enligt Wall Street Journal .",
+      "link": "https://www.expressen.se/nyheter/varlden/spekulationerna-kring-trumps-utseende/",
+      "guid": "https://www.expressen.se/nyheter/varlden/spekulationerna-kring-trumps-utseende/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786189664000
+    },
+    {
+      "title": "På flykt i 33 timmar: Mystisk man i kajak",
+      "description": "Den misstänkte mördaren höll sig undan i 33 timmar efter det att hans partner hittats död i ett sommarhus. Han gick till fots på en skärgårdsö, simmade, använde kajak och annan båt – och en granne såg en man i kajak som betedde sig ”skumt”. – Det känns väldigt olustigt, han kanske rekade vår ö, säger grannen.",
+      "link": "https://www.expressen.se/nyheter/pa-flykt-i-33-timmar-mystisk-man-i-kajak/",
+      "guid": "https://www.expressen.se/nyheter/pa-flykt-i-33-timmar-mystisk-man-i-kajak/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786189599000
+    },
+    {
+      "title": "Rysare väntar då Jaro möter VPS på hemmaplan: ”Vi måste upp och ta fajten”",
+      "description": "Jaro möter VPS på hemmaplan och har laddat för ett spännande derby. Nu är varje poäng viktig för Jaro som ligger näst sist i tabellen.",
+      "link": "https://yle.fi/a/7-10103270?origin=rss",
+      "guid": "https://yle.fi/a/7-10103270",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786188201000
+    },
+    {
+      "title": "Fem filmer att ha koll på inför hösten",
+      "description": "Dune, Hunger Games och Avengers nämns ofta som slutårets stora filmer, men mycket intressant visas redan i höst. Här en handfull jag sett – eller ser fram emot.",
+      "link": "https://yle.fi/a/7-10103014?origin=rss",
+      "guid": "https://yle.fi/a/7-10103014",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786187528000
+    },
+    {
+      "title": "Mette Baas missar friidrotts-EM – baklårsskada sätter stopp för resan till Birmingham",
+      "description": "Friidrottaren Matte Baas har skadat sig och kan inte delta i EM-tävlingarna i Birmingham. 25-åringens säsong är därmed över.",
+      "link": "https://yle.fi/a/7-10103271?origin=rss",
+      "guid": "https://yle.fi/a/7-10103271",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786187306000
+    },
+    {
+      "title": "Meta tjänade pengar på övergreppsannonser",
+      "description": "Vidriga AI-skapade annonser som slank igenom filtren Wired rapporterar om en ny granskning som visar att Meta har godkänt och tjänat pengar på annonser med AI-genererat material som föreställer sexuella övergrepp på barn. I artikeln kan man läsa om att organisationen Tech Transparency Project (TTP) avslöjat över 50 annonser som lyckats ta sig förbi Metas säkerhetsfilter. Det handlar alltså inte om vanliga inlägg från användare, utan om betalda annonser som visats för tusentals personer i bland annat Sverige, USA och Storbritannien. Materialet som upptäckts är minst sagt vidrigt där annonserna i vissa fall använt oskyldiga bilder på barn som utgångspunkt. När användaren sedan klickat på annonsen har bilden i stället lett till AI-genererade videoklipp som visar sexuella handlingar. Andra annonser har gjort reklam för så kallade nudify-appar, verktyg som med hjälp av AI kan skapa nakenbilder av personer som egentligen har kläder på sig. Men det kanske mest anmärkningsvärda här är ju att annonserna har passerat Metas egna automatiserade kontroller. Företaget har ju sagt att de har nolltolerans mot den här typen av material. Trots det har annonserna kunnat publiceras och Meta har dessutom tjänat pengar på dem. Meta försvarar sig med att de arbetar aktivt med att stoppa sådana här annonser och att de flesta av annonserna hade en begränsad räckvidd innan de togs bort. Företaget försöker också skylla ifrån sig lite genom att säga att utvecklingen av tekniken bakom AI-genererade bilder och videor går snabbare än kontrollsystem som ska stoppa dem. L&auml;s vidare och kommentera: https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/ L&auml;s mer om Meta , Tech Transparency Project , nudify-appar , AI , Wired , annonsering",
+      "link": "https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786186800000
+    },
+    {
+      "title": "Reseexperten: ”Fyra saker jag aldrig skulle göra”",
+      "description": "Åka på all inclusive till Kanarieäöarna. En av de saker reseexperten aldrig skulle göra. Här avslöjar han de andra. Erik Lundberg älskar att resa så att han blev forskare i turism är kanske inte så konstigt. I dag är han universitetslektor vid Handelshögskolan i Göteborg och forskar kring hur turisters konsumtion påverkar lokalsamhället. Nu avslöjar […]",
+      "link": "https://www.dagensps.se/varlden/reseexperten-fyra-saker-jag-aldrig-skulle-gora/",
+      "guid": "https://www.dagensps.se/?p=1662488",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdln6s-mgp31ks-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786186523000
+    },
+    {
+      "title": "Man död under rally-SM",
+      "description": "Polisen söker vittnen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f67d6425-dd05-417b-9a88-e622808b379e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f67d6425-dd05-417b-9a88-e622808b379e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786186337000
+    },
+    {
+      "title": "Flera skadade när turistbuss välte i Norge",
+      "description": "Enligt medier är det en tysk turistbuss som vält omkull.",
+      "link": "https://yle.fi/a/7-10103269?origin=rss",
+      "guid": "https://yle.fi/a/7-10103269",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786185051000
+    },
+    {
+      "title": "Blev plötsligt attackerad av gädda – fick sy elva stygn",
+      "description": "En lugn kväll vid bryggan slutade i blod och sjukhusbesök. När Izabella Walkowiak doppade fötterna i vattnet högg plötsligt en gädda och blodet forsade ur de djupa såren. – Så småningom ska jag äta upp den, säger Izabella Walkowiak.",
+      "link": "https://www.expressen.se/nyheter/sverige/blev-plotsligt-attackerad-av-gadda-fick-sy-elva-stygn-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/blev-plotsligt-attackerad-av-gadda-fick-sy-elva-stygn-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786184368000
+    },
+    {
+      "title": "Kommunägt bolag polisanmält igen för miljöbrott",
+      "description": "Ett kommunägt energibolag har polisanmält för miljöbrott. ”En olycklig händelse”, är kommentaren från bolaget. I slutet av juli lämnade det kommunägda bolaget Övik energi in en anmälan om en driftstörning gällande sin anläggning vid Hörneborgsverket till länsstyrelsen i Västernorrland. Orsaken var att bolaget sett att det under juni funnits för höga halter av koppar när […]",
+      "link": "https://www.dagensps.se/foretag/kommunagt-bolag-polisanmalt-igen-for-miljobrott/",
+      "guid": "https://www.dagensps.se/?p=1662476",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlzpjkzeu7lse-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786183938000
+    },
+    {
+      "title": "Jaro rustar upp inför ligahösten – Adri Sabriye ansluter från allsvenskan",
+      "description": "FF Jaro har förstärkt laget med yttern Adbi Sabriye. Han lånas ut till Jakobstad från allsvenska Kalmar.",
+      "link": "https://yle.fi/a/7-10103268?origin=rss",
+      "guid": "https://yle.fi/a/7-10103268",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786183541000
+    },
+    {
+      "title": "Buss har vält",
+      "description": "Flera skadade i Norge",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=30143da0-7ee5-445e-bcda-b9c9d150779b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30143da0-7ee5-445e-bcda-b9c9d150779b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786183289000
+    },
+    {
+      "title": "Några trailers för filmer och tv-serier",
+      "description": "Lite gott och blandat I veckan dök det upp ett gäng nya trailers för filmer och tv-serier. För att inte spamma sajten med alltför mycket sådant dyker ett gäng av dem upp här i samlad form istället. High Value Target: The Hunt for Saddam Först ut är trailern för den kommande serien High Value Target: The Hunt for Saddam med Joel Kinnaman i huvudrollen. Serien följer USA:s invasion av Irak och jakten på Saddam Hussein. Serien bygger på CIA-analytikern John Nixons memoarer och har premiär i USA den 13 september. Lion Den som vill ha lite mer naturfilm i sitt liv kan ju se fram emot Lion från Jon Favreau och BBC Studios. Denna dokumentär sträcker sig över fyra år och följer lejonungen Kio, från utsatt unge till en mäktig kung. Lion ska kombinera klassiskt naturfilmsfoto med ett filmiskt berättande, vilket då ska göra allt lite extra spännande för tittarna. Fall 2: Deadpoint Här är trailern för Fall 2: Deadpoint vilket då är uppföljaren till filmen Fall från 2022. I uppföljaren möter vi Jax, som försöker hedra sin syster Hunters minne genom att genomföra en riskfylld klättring på Mount Kwan tillsammans med en av systerns närmaste vänner. Inte helt oväntat går det ju lite sisådär bra. L&auml;s vidare och kommentera: https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/ L&auml;s mer om Joel Kinnaman , Jon Favreau , Fall 2: Deadpoint , High Value Target: The Hunt for Saddam",
+      "link": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786183200000
+    },
+    {
+      "title": "Här brinner Putins olja",
+      "description": "Ukrainska attacken – enorma lågorna",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786182924000
+    },
+    {
+      "title": "Köper Ozempic för miljarder till anställda",
+      "description": "Företaget spenderar miljarder för att de anställda ska gå ner i vikt. Kostnaden har gått från noll till hundra på några år. – Vi ser en stor påverkan på våra anställda, säger Brian Moynihan, vd för Bank of America, till CNBC .",
+      "link": "https://www.expressen.se/nyheter/varlden/koper-ozempic-for-miljarder-till-anstallda/",
+      "guid": "https://www.expressen.se/nyheter/varlden/koper-ozempic-for-miljarder-till-anstallda/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786182264000
+    },
+    {
+      "title": "Brand på kraftverket i Vasa – räddningsverket varnar för lukt",
+      "description": "En mindre brand har brutit ut i en silo på Vasklot kraftverk i Vasa under lördagen.",
+      "link": "https://yle.fi/a/7-10103267?origin=rss",
+      "guid": "https://yle.fi/a/7-10103267",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786181635000
+    },
+    {
+      "title": "Forskare: ”Humlor har ett inre liv”",
+      "description": "”Surt sade räven”? Snarare ”Surt sade humlan”. Ny forskning visar hur humlor och andra djur reagerar precis som vi människor. ”Detta är ytterligare ett steg mot att visa att bin har ett inre liv”, säger en forskare, Andrew Barron. Det han syftar på är att humlor gör grimaser när de smakar något bittert, precis som […]",
+      "link": "https://www.dagensps.se/life-science/forskare-humlor-reagerar-som-vi/",
+      "guid": "https://www.dagensps.se/?p=1662461",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlzizveb-1zku-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786181566000
+    },
+    {
+      "title": "Köp söndagens matchprogram!",
+      "description": "Mitt i det intensiva Europaspelet sticker vi mellan med en allsvensk match. Och då blir det 32-sidigt matchprogram.– En grej som jag sällan lyfter fram men som jag kanske borde göra i större utsträckn",
+      "link": "https://www.hammarbyfotboll.se/nyheter/koep-soendagens-matchprogram",
+      "guid": "415278dd-fd80-45b9-9e12-3c8a0fb19d70",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/5ae5a307fe4601cf3a54201de5013106537a2a58-2574x1190.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786181213000
+    },
     {
       "title": "Stora tillslaget – här stoppas knarkbåten",
       "description": "Tre gripna ombord",
@@ -14,14 +264,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786179915000
     },
     {
-      "title": "Här brinner Putins olja",
-      "description": "Ukrainska attacken – enorma lågorna",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-brinner-putins-olja",
+      "title": "En viss grupp barn löper betydligt lägre risk att drabbas av astma och allergi än andra – forskare påstår sig ha avslöjat hemligheten",
+      "description": "Hundratals miljoner människor lider av astma och allergi. Nu har forskare gjort en upptäckt som kan få stor betydelse för kampen mot de vanliga sjukdomarna.",
+      "link": "https://illvet.se/halsa/en-viss-grupp-barn-loper-betydligt-lagre-risk-att-drabbas-av-astma-och-allergi-an-andra-forskare-pastar-sig-ha-avslojat-hemligheten",
+      "guid": "https://illvet.se/halsa/en-viss-grupp-barn-loper-betydligt-lagre-risk-att-drabbas-av-astma-och-allergi-an-andra-forskare-pastar-sig-ha-avslojat-hemligheten",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786179825000
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786179652000
     },
     {
       "title": "Surströmmingskrisen har vänt",
@@ -134,8 +384,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786176254000
     },
     {
-      "title": "Oljeläcka i Larsmo – sanering på gång",
-      "description": "Räddningsverket arbetar med sanering vid Nabbsundet i Larsmo efter upptäckten av en oljeläcka under fredagen.",
+      "title": "Brännolja läckte ut i vattnet i Larsmo",
+      "description": "Räddningsverket har fått sanera vid Nabbsundet i Larsmo efter upptäckten av brännolja i vattnet.",
       "link": "https://yle.fi/a/7-10103264?origin=rss",
       "guid": "https://yle.fi/a/7-10103264",
       "image": "",
@@ -274,16 +524,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786172132000
     },
     {
-      "title": "Din personlighet förändras mer än du tror – kan påverka din förmögenhet",
-      "description": "”Sån är jag”. En bekväm förklaring när gamla vanor sitter hårt. Men ny forskning pekar åt ett annat håll. Personligheten förändras mer genom livet än de flesta tror – och ett av dragen som förändras mest har i tidigare forskning kopplats till både sparande och förmögenhet. Föreställningen om att personligheten formas tidigt och sedan ligger […]",
-      "link": "https://www.dagensps.se/privatekonomi/din-personlighet-forandras-mer-an-du-tror-kan-paverka-din-formogenhet/",
-      "guid": "https://www.dagensps.se/?p=1662385",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-olly-3979175.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786171428000
-    },
-    {
       "title": "Båt sjönk utanför Vasa",
       "description": "En båtolycka inträffade utanför Vasa natten mot lördag. Personerna i båten klarade sig oskadda.",
       "link": "https://yle.fi/a/7-10103261?origin=rss",
@@ -352,16 +592,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1786167240000
-    },
-    {
-      "title": "Varningen: Avgiftsfria månader kan ge skattesmäll",
-      "description": "Under det första halvåret i år ökade försäljningen av nyproducerade hus och lägenheter jämfört med motsvarande period i fjol. Det visar statistik från bostadssajten Booli, ett dotterbolag till banken SBAB. Försäljningen av nyproducerade hus och lägenheter ökar men går fortsatt trögt jämfört med äldre bostäder. För att locka fler köpare erbjuder en del bolag “avgiftsfria […]",
-      "link": "https://www.dagensps.se/privatekonomi/bostad/varningen-avgiftsfria-manader-kan-ge-skattesmall/",
-      "guid": "https://www.dagensps.se/?p=1662382",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/forsaljningen-av-nyproducerade-bostader.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786167097000
     },
     {
       "title": "Letar efter ”symbolisk” seger åt Trump",
@@ -434,16 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786164931000
     },
     {
-      "title": "Aleksi Ahlfors imponerade i JVM – löpte nytt personbästa och nosade på medalj",
-      "description": "De blåvita idrottarna fortsätter att rada upp fina resultat i U20-VM i friidrott i USA. På 3 000 meter noterades Aleksi Ahlfors för ett nytt personligt rekord och slutade femma.",
-      "link": "https://yle.fi/a/7-10103259?origin=rss",
-      "guid": "https://yle.fi/a/7-10103259",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786164492000
-    },
-    {
       "title": "Kvinnor slogs",
       "description": "Blodigt bråk i lägenhet",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=53f34265-52db-4a48-be54-89e48514b670",
@@ -454,27 +674,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786164133000
     },
     {
-      "title": "”Ni anar inte hur tungt det är att aldrig duga för sina föräldrar”",
-      "description": "Vi fick ett brev av en frustrerad mamma som har en slö tonåring hemma, som inte verkar ha några ambitioner alls. Många reagerade starkt på brevet.",
-      "link": "https://yle.fi/a/7-10103158?origin=rss",
-      "guid": "https://yle.fi/a/7-10103158",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786162980000
-    },
-    {
-      "title": "Notan för AI kan vara lika dyr som en nyanställd",
-      "description": "AI kostar mer än många tror, och snart kan företag komma billigare undan genom nyanställningar i stället för att betala allt dyrare licenser.",
-      "link": "https://yle.fi/a/7-10102644?origin=rss",
-      "guid": "https://yle.fi/a/7-10102644",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786162621000
-    },
-    {
-      "title": "Jenny Strömstedt: ”Tänker alltid att jag ska få sparken”",
+      "title": "TV4-profilens hårda tid: ”Var skoningslös”",
       "description": "Hon har den tyngsta rollen i TV4:s valbevakning. Trots det är Jenny Strömstedt hela tiden beredd på att nästa dag på jobbet kan bli hennes sista. – Jag tänker alltid att jag ska få sparken.",
       "link": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
       "guid": "https://www.expressen.se/nyheter/sverige/jenny-stromstedt-tanker--alltid-att-jag-ska-fa-sparken/",
@@ -504,56 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786160966000
     },
     {
-      "title": "Brand i villa",
-      "description": "Brandfarlig vätska kastades in",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc7a4dc-7055-47c0-9e52-ab70bc1655a4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc7a4dc-7055-47c0-9e52-ab70bc1655a4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786160643000
-    },
-    {
-      "title": "Sociala medier eldade på drömmen som fick 70 000 unga att simma till Ceuta",
-      "description": "Entusiastiska inlägg i sociala medier ger unga marockaner hopp om en enkel väg till EU. Fattigdom och arbetslöshet driver dem till den livsfarliga simturen.",
-      "link": "https://yle.fi/a/7-10103001?origin=rss",
-      "guid": "https://yle.fi/a/7-10103001",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786158144000
-    },
-    {
-      "title": "”Helena” gillar gruppsex: ”Njuter och tar för mig”",
-      "description": "”Anna” skiljer på kärlek och sex, och ligger gärna med välutrustade män. ”Helena”, som är chef inom näringslivet, tycker om ”gangbang”. De lever i fasta relationer – men gillar att ha sex med fler än sina partners. Vi möter dem på ett hemligt ställe där de njuter tillsammans med likasinnade. Bilderna visar sex och nakenhet.",
-      "link": "https://www.expressen.se/nyheter/sverige/helena-gillar-gruppsex-njuter-och-tar-for-mig/",
-      "guid": "https://www.expressen.se/nyheter/sverige/helena-gillar-gruppsex-njuter-och-tar-for-mig/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786158000000
-    },
-    {
-      "title": "Ryska robotattacker",
-      "description": "Minst tre döda i Kiev",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9866ea8-0b81-48a8-8ea9-61458df3679f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9866ea8-0b81-48a8-8ea9-61458df3679f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786156115000
-    },
-    {
-      "title": "Joe Bidens cancer har spridit sig",
-      "description": "Den aggressiva prostatacancern har spridit sig",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786156107000
-    },
-    {
       "title": "Teen cannabis use linked to slower memory and thinking growth",
       "description": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
@@ -562,26 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786152325000
-    },
-    {
-      "title": "Varnar för explosionsartad ökning av rabies-sälar",
-      "description": "Väderfenomenet El Niño riskerar att få en oväntad konsekvens: Ett explosionsartat globalt utbrott av sälar smittade med rabies, skriver Telegraph .",
-      "link": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
-      "guid": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786150591000
-    },
-    {
-      "title": "Uppgifter: Putin planerar attack mot Nato",
-      "description": "Putin planerar en attack mot Nato-länder – redan i höst. Det varnar amerikanska underrättelsekällor för, enligt uppgifter till WSJ . – Det har alltid varit ett mål att utmana Natos trovärdighet och att skilja USA från dess allierade, säger Heather Conley, expert, till tidningen.",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786147770000
     },
     {
       "title": "Bugatti Destrier One-of-One Hypercar",
@@ -604,16 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786140000000
     },
     {
-      "title": "Brand på återvinningscentral",
-      "description": "Pappersbalar i lågor – inte under kontroll",
-      "link": "https://www.expressen.se/nyheter/sverige/brand-pa-atervinningscentral/",
-      "guid": "https://www.expressen.se/nyheter/sverige/brand-pa-atervinningscentral/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786137297000
-    },
-    {
       "title": "Everyday Carry: Element",
       "description": "",
       "link": "https://uncrate.com/everyday-carry-element/",
@@ -634,26 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786132801000
     },
     {
-      "title": "HS: Domstolen ville inte höja Joona Räsänens böter enligt hans egen önskan",
-      "description": "Räsänen begärde att Västra Nylands tingsrätt skulle höja hans böter, eftersom bötessumman inte motsvarade hans inkomst.",
-      "link": "https://yle.fi/a/7-10103256?origin=rss",
-      "guid": "https://yle.fi/a/7-10103256",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786131819000
-    },
-    {
-      "title": "Formbesked av Vasa Sport i herrarnas Pitsiturnering – slutade tvåa efter HPK",
-      "description": "HPK är vinnare av Pitsiturneringen i Raumo. Tavastehuslaget vann tre av fyra matcher. Vasalaget Sport slutade tvåa.",
-      "link": "https://yle.fi/a/7-10103254?origin=rss",
-      "guid": "https://yle.fi/a/7-10103254",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786131657000
-    },
-    {
       "title": "Nike ACG Zegama Hiking Shoe",
       "description": "",
       "link": "https://uncrate.com/nike-acg-zegama-hiking-shoe/",
@@ -662,16 +762,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786131021000
-    },
-    {
-      "title": "Slår hårt: El Niño höjer matpriserna 5-9 procent 2027",
-      "description": "Den ”Super-El Niño” som orsakar rekordtemperaturer över hela Europa kan öka inflationen rejält nästa år. En hel procentenhet väntas ”Super-El Niño” kunna öka inflationen med under 2027. Det försvårar centralbankernas försök att dämpa prisökningarna, varnar en ledande investmentbank för. Enligt en analys från Jefferies kommer det extrema väder som fenomenet för med sig att utgöra […]",
-      "link": "https://www.dagensps.se/bors-finans/slar-hart-el-nino-hojer-matpriserna-5-9-procent-2027/",
-      "guid": "https://www.dagensps.se/?p=1662365",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdls0be-62aj-o-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786129447000
     },
     {
       "title": "Blir det någon kräftskiva i år?",
@@ -694,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786129200000
     },
     {
-      "title": "Pinja Kärhä klar för släggfinal i U20-VM: Klarade kvalgränsen i första försöket",
-      "description": "Släggkastaren Pinja Kärhä behövde endast ett kast för att ta sig till final i U20-VM. Också häcklöparna Linnea Hirvelä och Anni Niskala avancerade.",
-      "link": "https://yle.fi/a/7-10103257?origin=rss",
-      "guid": "https://yle.fi/a/7-10103257",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786128539000
-    },
-    {
       "title": "mRNA-vaccin mot influensa godkänns i USA",
       "description": "För vuxna över 50 Den amerikanska läkemedelsmyndigheten FDA har gett grönt ljus till vaccinet mFLUSIVA (mRNA-1010), vilket därmed blir Modernas allra första mRNA-baserade influensavaccin. Vaccinet har godkänts för vuxna mellan 50 och 64 år, och har samtidigt fått ett påskyndat godkännande för personer från 65 år och uppåt i väntan på de slutgiltiga resultaten från en studie. Moderna planerar att lansera vaccinet redan nu till hösten. L&auml;s vidare och kommentera: https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/ L&auml;s mer om Moderna , mFLUSIVA , FDA , influensavaccin , Robert F. Kennedy Jr , mRNA-1010",
       "link": "https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/?utm_source=rss&utm_medium=feed",
@@ -712,16 +792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786127400000
-    },
-    {
-      "title": "Fullträff av Roman Eremenko – IF Gnistan klättrar en placering trots oavgjort mot SJK",
-      "description": "I herrarnas fotbollsliga slutade fredagens enda match oavgjort. Gnistan klättrar en placering medan SJK behåller sin tionde plats.",
-      "link": "https://yle.fi/a/7-10103255?origin=rss",
-      "guid": "https://yle.fi/a/7-10103255",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786126914000
     },
     {
       "title": "Engångsplast är på väg bort – men målet är svårt att nå",
@@ -752,16 +822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786125600000
-    },
-    {
-      "title": "Amerikaner väljer bort snabbmat – McDonald’s tvingas tänka nytt",
-      "description": "Att laga mat hemma och välja nyttigare rätter har blivit vanligare i USA. Det får snabbmatsrestaurangerna att utforska nya alternativ. Amerikaner har varit kända som stora anhängare av snabbtmatskedjor. Men det håller på att förändras. Statistik visar att invånarna i USA besöker snabbmatskedjor allt mer sällan, trots kampanjer med rabatter och uppmärksammade marknadsföringsinsatser. Flera av […]",
-      "link": "https://www.dagensps.se/bors-finans/amerikaner-valjer-bort-snabbmat-mcdonalds-tvingas-tanka-nytt/",
-      "guid": "https://www.dagensps.se/?p=1662358",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlle99ajbepzm-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786124280000
     },
     {
       "title": "Hisense 100\" U6 Pro Series Series TV",
@@ -1284,16 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786092043000
     },
     {
-      "title": "Det här är Huaweis nya flaggskepps-SUV",
-      "description": "Kommer som elbil och med räckviddsförlängare Det är inte lätt att hänga med kring alla kinesiska biltillverkare som finns. Nu har i alla fall Huawei tillsammans med BAIC genom deras HIMA-allians visat upp den nya bilen G9 under märket Stelato. Det här beskrivs som en flaggskepps-SUV och man kan få den som elbil eller med elmotor som kopplas ihop med en räckviddsförlängare. G9 mäter hela 5,2 meter på längden, är strax över två meter bred, 1,89 hög och har en hjulbas på 3,16 meter. Elversionen har ett batteripack på 120 kWh som matar två elmotorer som sammanlagt ger nästan 600 hästar. Räckvidden anges till 72 mil enligt CLTC-cykeln. Den med räckviddsförlängare kombinerar en turbomatad bensinfyra på 1,5 liter med två elmotorer och ett batteripack på 75 kWh. Denna ska komma upp till 136 mil med fulla tankar, också enligt CLTC-cykeln bör tilläggas. Man kan få bilen med två eller tre sätesrader. Försäljningen har dragit igång i Kina och där kostar bilen från 439.800 yuan vilket direkt översatt i svenska pengar blir 616.775 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/det-har-ar-huaweis-nya-flaggskepps-suv/494799/ L&auml;s mer om Stelato , Stelato G9 , Huawei , flaggskepp , SUV , Kina",
-      "link": "https://feber.se/bil/det-har-ar-huaweis-nya-flaggskepps-suv/494799/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/det-har-ar-huaweis-nya-flaggskepps-suv/494799/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786091400000
-    },
-    {
       "title": "Man åtalas för mordbrand på Stora Essingen",
       "description": "Bränderna på Stora Essingen: Man i 30-årsåldern åtalas.",
       "link": "https://www.mitti.se/nyheter/man-atalas-for-mordbrand-pa-stora-essingen-6.3.378607.6b7a9067aa",
@@ -1302,16 +1352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786089969000
-    },
-    {
-      "title": "Conan O’Brien är tillbaka",
-      "description": "Och redo att utforska nya länder Talkshow-profilen Conan O’Brien gör sig återigen redo att korsa gränser då den tredje säsongen av reseserien Conan O’Brien Must Go drar igång på HBO Max den 21 augusti. I den kommande säsongen får vi följa med när Conan besöker fyra olika länder. Som vanligt kan tittarna förvänta sig en rejäl dos humor och total avsaknad av skamkänsla när han möter fans och utforskar lokala kulturer. L&auml;s vidare och kommentera: https://feber.se/film/conan-obrien-ar-tillbaka/494789/ L&auml;s mer om Conan O’Brien , Conan O’Brien Must Go , reseserie , HBO Max , talkshow , Max",
-      "link": "https://feber.se/film/conan-obrien-ar-tillbaka/494789/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/conan-obrien-ar-tillbaka/494789/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786089600000
     },
     {
       "title": "Forskare har använt AI för att skapa virus för första gången",
@@ -1342,16 +1382,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1786088650000
-    },
-    {
-      "title": "Trevor Noah leder Googles lansering av nya Pixel-serien",
-      "description": "Tar över efter Jimmy Fallon Den 12 augusti är det dags för Googles Made by Google-event, och i år är det komikern Trevor Noah som kommer att leda presentationen i New York. Enligt en ny video från Google kommer eventet även att gästas av en rad andra kändisar och profiler, som podcast-stjärnan Alex Cooper, basketspelaren Stephen Curry och den japanska skådespelerskan Ayami Nakajo. Upplägget skvallrar om att Google, likt förra årets event som leddes av Jimmy Fallon, återigen satsar på ett mer talkshow-liknande format för att nå en bredare publik. L&auml;s vidare och kommentera: https://feber.se/mobil/trevor-noah-leder-googles-lansering-av-nya-pixel-serien/494812/ L&auml;s mer om Made by Google , Trevor Noah , Stephen Curry , Alex Cooper , Ayami Nakajo , New York",
-      "link": "https://feber.se/mobil/trevor-noah-leder-googles-lansering-av-nya-pixel-serien/494812/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/trevor-noah-leder-googles-lansering-av-nya-pixel-serien/494812/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786088400000
     },
     {
       "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
@@ -2134,16 +2164,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785931788000
     },
     {
-      "title": "Forskare kan äntligen ha hittat biologisk förklaring på omdiskuterad och smärtsam sjukdom: Kan spåras till en specifik del av kroppen",
-      "description": "”I årtionden har patienter avfärdats eller fått höra att deras smärta helt enkelt var psykologisk. Våra resultat bekräftar att sjukdomen har en tydlig biologisk grund”, säger Dr. Michael Wainberg vid forskningsinstitutet Lunenfeld-Tanenbaum. Tillsammans med en internationell forskargrupp har han granskat genetiska data från inte mindre än 2,5 miljoner människor och gjort en viktig upptäckt om en sjukdom som kännetecknas av utbredd smärta, svår trötthet, sömnstörningar och problem med minne och koncentration.",
-      "link": "https://illvet.se/halsa/forskare-kan-antligen-ha-hittat-biologisk-forklaring-pa-omdiskuterad-och-smartsam-sjukdom-kan-sparas-till-en-specifik-del-av-kroppen",
-      "guid": "https://illvet.se/halsa/forskare-kan-antligen-ha-hittat-biologisk-forklaring-pa-omdiskuterad-och-smartsam-sjukdom-kan-sparas-till-en-specifik-del-av-kroppen",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785931236000
-    },
-    {
       "title": "Kioskrån med kniv i Haninge – ingen gripen",
       "description": "Rån i Haninge",
       "link": "https://www.mitti.se/nyheter/kioskran-med-kniv-i-haninge--ingen-gripen-6.3.378557.77e7e6a812",
@@ -2152,16 +2172,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785930956000
-    },
-    {
-      "title": "Öppet biljettsläpp till derbyt mot AIK",
-      "description": "Söndag den 30 augusti möter herrarna AIK på Strawberry Arena. I måndags släpptes biljetterna på Hammarbys sektion för medlemmar. Etage 1 och 2 är slutsålda, men det finns fortfarande en del platser kv",
-      "link": "https://www.hammarbyfotboll.se/nyheter/oppet-biljettslapp-till-derbyt-mot-aik",
-      "guid": "4572cfe1-0ba5-4938-aa13-b207e3cbb7cc",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/1f345d1ebf254c0a9e2a03f3a1caa54af6c3a3e0-1890x1260.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1785930600000
     },
     {
       "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
@@ -2272,16 +2282,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1785921557000
-    },
-    {
-      "title": "Geologiska fakta tyder på att jorden har genomlevt våldsamma växthuseffekter under 85 procent av sitt liv",
-      "description": "Jordens frysbox var en gång täckt av ... regnskog.",
-      "link": "https://illvet.se/klimat/klimatforandringar/har-jorden-haft-varmevallningar",
-      "guid": "https://illvet.se/klimat/klimatforandringar/har-jorden-haft-varmevallningar",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1785920438000
     },
     {
       "title": "Blåbärsgalette med honung",
