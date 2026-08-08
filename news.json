@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-08-07T21:27:55.488Z",
+  "updatedAt": "2026-08-08T00:49:27.268Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Ryska robotattacker",
+      "description": "Minst tre döda i Kiev",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9866ea8-0b81-48a8-8ea9-61458df3679f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9866ea8-0b81-48a8-8ea9-61458df3679f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786149860000
+    },
+    {
+      "title": "Uppgifter: Putin planerar attack mot Nato",
+      "description": "Putin planerar en attack mot Nato-länder. Offensiven skulle kunna ske redan i höst och i syfte av att splittra försvarsalliansen. – Det har alltid varit ett mål att utmana Natos trovärdighet och att skilja USA från dess allierade, säger Heather Conley, expert, till Wall Street Journal .",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-putin-planerar-attack-mot-nato/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786147770000
+    },
+    {
+      "title": "Varnar för explosionsartad ökning av rabies-sälar",
+      "description": "Väderfenomenet El Niño riskerar att få en oväntad konsekvens: Ett explosionsartat globalt utbrott av sälar smittade med rabies, skriver Telegraph .",
+      "link": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/varnar-for-explosionsartad-okning-av-rabies-salar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786146744000
+    },
+    {
+      "title": "Joe Bidens cancer har spridit sig",
+      "description": "Den aggressiva prostatacancern har spridit sig",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a4db0797-ca06-4820-8a18-0a0d2b9123b4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786146732000
+    },
+    {
+      "title": "Oväntade presenten till Trump",
+      "description": "Stora glädjen under mötet",
+      "link": "https://www.expressen.se/tv/nyheter/ovantade-presenten-till-trump",
+      "guid": "https://www.expressen.se/tv/nyheter/ovantade-presenten-till-trump",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786142998000
+    },
+    {
+      "title": "TVS Raider Doomsday Edition Motorcycle",
+      "description": "",
+      "link": "https://uncrate.com/tvs-raider-doomsday-edition-motorcycle/",
+      "guid": "https://uncrate.com/tvs-raider-doomsday-edition-motorcycle/",
+      "image": "https://uncrate.com/assets_c/2026/08/tvs-raider-doomsday-edition-motorcycle-1-thumb-960xauto-192502.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786140000000
+    },
     {
       "title": "Brand på återvinningscentral",
       "description": "Pappersbalar i lågor – inte under kontroll",
@@ -24,14 +84,14 @@
       "timestamp": 1786137126000
     },
     {
-      "title": "Oväntade presenten till Trump",
-      "description": "Stora glädjen under mötet",
-      "link": "https://www.expressen.se/tv/nyheter/ovantade-presenten-till-trump",
-      "guid": "https://www.expressen.se/tv/nyheter/ovantade-presenten-till-trump",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786136443000
+      "title": "Everyday Carry: Element",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-element/",
+      "guid": "https://uncrate.com/everyday-carry-element/",
+      "image": "https://uncrate.com/assets_c/2026/08/edc-element-darkened-thumb-960xauto-192507.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786136400000
     },
     {
       "title": "Senaten röstar ja till sanktionspaket mot Putin",
@@ -62,6 +122,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786135004000
+    },
+    {
+      "title": "Woody Creek Colorado Bourbon Set",
+      "description": "",
+      "link": "https://uncrate.com/woody-creek-colorado-bourbon-set/",
+      "guid": "https://uncrate.com/woody-creek-colorado-bourbon-set/",
+      "image": "https://uncrate.com/assets_c/2026/08/woody-creek-distillers-22-thumb-960xauto-192497.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786132801000
     },
     {
       "title": "Kvinna påkörd av traktor",
@@ -414,16 +484,6 @@
       "timestamp": 1786117283000
     },
     {
-      "title": "Attack mot viktiga hamnen",
-      "description": "”Parad” av havsdrönare utanför Krim",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-viktiga-hamnen",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786117119000
-    },
-    {
       "title": "Hideo Kojima släpper genomskinlig CD-spelare",
       "description": "Har designat en specialutgåva med Death Stranding-tema Speldesignern Hideo Kojima har satt sin prägel på en genomskinlig CD-spelare. Det handlar om en orange, begränsad specialutgåva med Death Stranding-tema av modellen CP1 från tillverkaren km5. Spelaren är bärbar med en batteritid på 7–8 timmar och bjuder på moderna grejer som USB-C-laddning och Bluetooth, men har också ett klassiskt 3,5 mm-uttag och fästen för väggmontering. Den unika Kojima-utgåvan är tyvärr redan slutsåld, men för den som nöjer sig med enbart den transparenta designen finns modellen fortfarande tillgänglig i en neongul version. L&auml;s vidare och kommentera: https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/ L&auml;s mer om Hideo Kojima , Death Stranding , km5 , CP1 , CD-spelare",
       "link": "https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/?utm_source=rss&utm_medium=feed",
@@ -522,16 +582,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786114027000
-    },
-    {
-      "title": "350 tog farväl av Christian Zedig",
-      "description": "Polisen Christian Zedig, 32, begravdes på fredagen. 350 personer samlades i en arena för att ta ett sista farväl. ”När vår älskade Christian togs ifrån oss på ett så ofattbart sätt har vi mötts av en värme och medmänsklighet som burit oss genom den mörkaste tiden i våra liv,” skriver familjen.",
-      "link": "https://www.expressen.se/nyheter/sverige/350-tog-farval-av-christian-zedig/",
-      "guid": "https://www.expressen.se/nyheter/sverige/350-tog-farval-av-christian-zedig/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786113609000
     },
     {
       "title": "AI-agenterna gick till attack under test, igen",
@@ -692,26 +742,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786108865000
-    },
-    {
-      "title": "Romina Pourmokhtari: S smygfotar oss",
-      "description": "S-kopplade personer smygfilmar liberala tjänstemän. Det hävdar klimatminister Romina Pourmokhtari som tycker att Socialdemokraterna ägnar sig åt sabotage. – Förtjänar inte väljarna bättre? säger hon till Aftonbladet . S avfärdar helt anklagelserna.",
-      "link": "https://www.expressen.se/nyheter/politik/romina-pourmokhtari-s-smygfotar-oss/",
-      "guid": "https://www.expressen.se/nyheter/politik/romina-pourmokhtari-s-smygfotar-oss/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786108726000
-    },
-    {
-      "title": "Man begärd häktad efter skärgårdsmordet",
-      "description": "Den 57-åriga mannen som misstänks för mordet i Stockholms skärgård har häktats misstänkt på sannolika skäl för mord. I kajaken som mannen tros ha lämnat ön i hittades en handduk med vad som tycks vara blod. – Det här är en händelse som är lite chockerande, säger åklagare Emma Olsson.",
-      "link": "https://www.expressen.se/nyheter/sverige/man-begard-haktad-efter-skargardsmordet/",
-      "guid": "https://www.expressen.se/nyheter/sverige/man-begard-haktad-efter-skargardsmordet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786108439000
     },
     {
       "title": "Finländsk travtränare avstängd – fångades på film då han misshandlade häst",
@@ -1404,26 +1434,6 @@
       "timestamp": 1786041000000
     },
     {
-      "title": "Luca Faloni Summer Guide",
-      "description": "",
-      "link": "https://uncrate.com/luca-faloni-summer-guide/",
-      "guid": "https://uncrate.com/luca-faloni-summer-guide/",
-      "image": "https://uncrate.com/assets_c/2026/07/luca-faloni-summer-guide-43-thumb-960xauto-191944.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786037400000
-    },
-    {
-      "title": "Assouline Moon Candle",
-      "description": "",
-      "link": "https://uncrate.com/assouline-moon-candle/",
-      "guid": "https://uncrate.com/assouline-moon-candle/",
-      "image": "https://uncrate.com/assets_c/2026/08/assouline-moon-candle-11-darkened-thumb-960xauto-192489.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786035600000
-    },
-    {
       "title": "Legendariska skivbolaget firar 30 år med konsert",
       "description": "Redline recordings firar 30 år med konsert på Skansen den 29 augusti.",
       "link": "https://www.mitti.se/nyheter/legendariska-skivbolaget-firar-30-ar-med-konsert-6.3.378363.fb0c9844cb",
@@ -1442,16 +1452,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786032942000
-    },
-    {
-      "title": "Nike Hybrid Fly and RN Training Shoes",
-      "description": "",
-      "link": "https://uncrate.com/nike-hybrid-fly-and-rn-training-shoes/",
-      "guid": "https://uncrate.com/nike-hybrid-fly-and-rn-training-shoes/",
-      "image": "https://uncrate.com/assets_c/2026/08/nike-hybrid-fly-rn-training-shoes-1-thumb-960xauto-192488.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786032000000
     },
     {
       "title": "Startelvan i bortamötet med Raków",
@@ -3162,86 +3162,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785558300000
-    },
-    {
-      "title": "Fotbollsstjärna besökte Kärrtorp: ”Bjussade på tips”",
-      "description": "Tidigare United-stjärnan Wes Brown dök upp i Kärrtorp för att skriva autografer till glada fans och träna ihop med BKBK P2014.",
-      "link": "https://www.mitti.se/nyheter/fotbollsstjarna-besokte-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
-      "guid": "https://www.mitti.se/nyheter/fotbollsstjarna-besokte-karrtorp-bjussade-pa-tips-6.3.378270.c097c8ad08",
-      "image": "https://www.mitti.se/image-3.377416.301439.20260801170219.8439003852?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785516300000
-    },
-    {
-      "title": "Så påverkas trafiken av Stockholm Pride",
-      "description": "Stockholm Pride 2026 påverkar trafiken kraftigt på lördag. Flera vägar stängs av vid prideparaden och polisen uppmanar bilister att undvika city. SL ställer även in avgångar av spårvagn samt ändrar flera busslinjer.",
-      "link": "https://www.mitti.se/nyheter/sa-paverkas-trafiken-av-stockholm-pride-6.3.378277.ab9c84b02d",
-      "guid": "https://www.mitti.se/nyheter/sa-paverkas-trafiken-av-stockholm-pride-6.3.378277.ab9c84b02d",
-      "image": "https://www.mitti.se/image-3.258624.301392.20260731151105.c33967f7e1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785510606000
-    },
-    {
-      "title": "Smaka på Upplands-Bro tillbaka för fjärde året i rad",
-      "description": "Smaka på Upplands-Bro är tillbaka den 15 augusti i Bro. Gratis festival med foodtrucks, lokala hantverkare, scenföreställningar, ponnyridning och ny trubadurhörna.",
-      "link": "https://www.mitti.se/nyheter/smaka-pa-upplandsbro-tillbaka-for-fjarde-aret-i-rad-6.3.377681.e8aace6963",
-      "guid": "https://www.mitti.se/nyheter/smaka-pa-upplandsbro-tillbaka-for-fjarde-aret-i-rad-6.3.377681.e8aace6963",
-      "image": "https://www.mitti.se/image-3.334190.301357.20260731134136.b1f4b4b1a8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785503409000
-    },
-    {
-      "title": "16-årig supertalang tar plats i Djurgårdstruppen",
-      "description": "16-årige Alexander Johansson från Danderyd tar plats i Djurgårdens herrtrupp. Mittfältstalangen lämnar IFK Stocksund och drömmer om spel inför fansen på 3Arena.",
-      "link": "https://www.mitti.se/nyheter/16arig-supertalang-tar-plats-i-djurgardstruppen-6.3.377654.37e24f3b83",
-      "guid": "https://www.mitti.se/nyheter/16arig-supertalang-tar-plats-i-djurgardstruppen-6.3.377654.37e24f3b83",
-      "image": "https://www.mitti.se/image-3.377169.301323.20260731115128.1.3de46979dc?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785495972000
-    },
-    {
-      "title": "Stor makeover planeras i kulturskyddade Bromma blocks",
-      "description": "Hangar 3 i Bromma blocks kan byggas om",
-      "link": "https://www.mitti.se/nyheter/stor-makeover-planeras-i-kulturskyddade-bromma-blocks-6.3.377724.efc58edcaf",
-      "guid": "https://www.mitti.se/nyheter/stor-makeover-planeras-i-kulturskyddade-bromma-blocks-6.3.377724.efc58edcaf",
-      "image": "https://www.mitti.se/image-3.364253.301351.20260731104430.0f716456b8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785492858000
-    },
-    {
-      "title": "60 hyresgäster ska ut – fick två månaders förvarning",
-      "description": "60 personer i Hallonbergen måste lämna sina hem kort varsel",
-      "link": "https://www.mitti.se/nyheter/60-hyresgaster-ska-ut--fick-tva-manaders-forvarning-6.3.378252.89b0471552",
-      "guid": "https://www.mitti.se/nyheter/60-hyresgaster-ska-ut--fick-tva-manaders-forvarning-6.3.378252.89b0471552",
-      "image": "https://www.mitti.se/image-3.367991.301383.20260803072800.1.28a0c61c1f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785478975000
-    },
-    {
-      "title": "Fler turister än någonsin väntas – hissar och dissar stan",
-      "description": "Turister berättar om vad som förde dem till Stockholm och vad de gillar och inte gillar med staden.",
-      "link": "https://www.mitti.se/nyheter/fler-turister-an-nagonsin-vantas--hissar-och-dissar-stan-6.3.376629.aa6f085665",
-      "guid": "https://www.mitti.se/nyheter/fler-turister-an-nagonsin-vantas--hissar-och-dissar-stan-6.3.376629.aa6f085665",
-      "image": "https://www.mitti.se/image-3.377235.301361.20260731100932.3e72421119?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785478055000
-    },
-    {
-      "title": "Påverkad förare hade barn i bilen",
-      "description": "En man sågs dricka öl innan han rattfull hoppade in i bilen och körde i väg med sitt barn.",
-      "link": "https://www.mitti.se/nyheter/paverkad-forare-hade-barn-i-bilen-6.3.378247.ea8f713569",
-      "guid": "https://www.mitti.se/nyheter/paverkad-forare-hade-barn-i-bilen-6.3.378247.ea8f713569",
-      "image": "https://www.mitti.se/image-3.354176.301381.20260802185758.1.b3a6e4b3d2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785477411000
     }
   ]
 }
