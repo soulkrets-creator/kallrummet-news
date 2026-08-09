@@ -1,17 +1,37 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-09T00:52:49.314Z",
+  "updatedAt": "2026-08-09T04:09:27.978Z",
   "feedCount": 12,
-  "sourceCount": 11,
+  "sourceCount": 12,
   "items": [
     {
       "title": "Sköt flera skott genom dörr – stor insats i Trångsund",
-      "description": "Under natten till söndag har det skjutits flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningspersonen.",
+      "description": "Under natten till söndag sköts flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningspersonen.",
       "link": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
       "guid": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786236376000
+      "timestamp": 1786246748000
+    },
+    {
+      "title": "Grill i lågor",
+      "description": "Brand i grillrestaurang",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e35b8b2-c5ce-4e3f-9cae-e8f9e082c5d7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e35b8b2-c5ce-4e3f-9cae-e8f9e082c5d7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786245984000
+    },
+    {
+      "title": "Tiktok väckte läslusten hos Sara Törnroos som nu läser 50 böcker per år",
+      "description": "Sara läste samma böcker om och om igen, tills hon hittade booktok. Det har öppnat dörren till nya genrer, engelska böcker och en känsla av gemenskap.",
+      "link": "https://yle.fi/a/7-10102910?origin=rss",
+      "guid": "https://yle.fi/a/7-10102910",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786244954000
     },
     {
       "title": "Zelenskyjs varning",
@@ -21,7 +41,37 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786231599000
+      "timestamp": 1786244758000
+    },
+    {
+      "title": "Laddplats kan göra bostaden mer attraktiv men alla vill inte betala",
+      "description": "Bostadsbolagen bygger de kommande åren allt fler laddstationer för elbilar. Många invånare ser utvecklingen som dyr och onödig.",
+      "link": "https://yle.fi/a/7-10098119?origin=rss",
+      "guid": "https://yle.fi/a/7-10098119",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786244536000
+    },
+    {
+      "title": "Svenska doldisarna stenrika på avtalet med Ikea",
+      "description": "Ulla och Anders Alm har i decennier levt utanför offentlighetens ljus – samtidigt som de byggt upp en förmögenhet genom sina Ikea-franchiseavtal. På Mallorca lever de i lyx och bor i ett över tusen kvadratmeter stort palats – långt från den sparsmakade image som förknippades med Ikea-grundaren Ingvar Kamprad.",
+      "link": "https://www.expressen.se/nyheter/varlden/svenska-doldisarna-stenrika-pa-avtalet-med-ikea/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svenska-doldisarna-stenrika-pa-avtalet-med-ikea/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786244400000
+    },
+    {
+      "title": "Förbisedd matvara kan kanske gynna din tarmhälsa – ny upptäckt har fått forskare att ändra en viss del av sina kostvanor",
+      "description": "Biokemisten Joshua Rabinowitz har forskat i människans matsmältning i tjugo år. I en ny studie av möss har han och hans forskarkolleger upptäckt en matvara som kan ha mer gynnsamma effekter på vår tarmhälsa än de vanligen rekommenderade fibrerna. Därför har han själv har börjat äta mer av ett visst livsmedel.",
+      "link": "https://illvet.se/halsa/forbisedd-matvara-kan-kanske-gynna-din-tarmhalsa-ny-upptackt-har-fatt-forskare-att-andra-en-viss-del-av-sina-kostvanor",
+      "guid": "https://illvet.se/halsa/forbisedd-matvara-kan-kanske-gynna-din-tarmhalsa-ny-upptackt-har-fatt-forskare-att-andra-en-viss-del-av-sina-kostvanor",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786226436000
     },
     {
       "title": "Barn dött efter olycka med traktor Svenljunga",
@@ -31,7 +81,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786225479000
+      "timestamp": 1786225478000
     },
     {
       "title": "Tusentals flyr lågorna",
@@ -344,6 +394,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786201885000
     },
     {
+      "title": "Använder du hjälm när du kör elsparkcykel?",
+      "description": "Helgens fråga Ny forskning visar att elsparkcyklar orsakar betydligt fler traumatiska hjärnskador än både vanliga cyklar och motorcyklar, huvudsakligen på grund av att nästan ingen använder hjälm. Kombinationen av låga skärmar, små hjul och en tendens att rulla hem i nattmörkret efter ett par öl gör fordonet till en nästan daglig standardpunkt i akutmottagningens statistik. Transportstyrelsen håller på att reda ut reglerna för fordonen så folk ska sluta upp och skada sig så himla mycket med dem. Men fram tills det händer undrar vi ju hur det ser ut med säkerheten bland er kära läsare. L&auml;s vidare och kommentera: https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/ L&auml;s mer om elsparkcyklar , Transportstyrelsen , hjärnskador , trafiksäkerhet , cykelolyckor",
+      "link": "https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786201200000
+    },
+    {
       "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
       "description": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
@@ -384,6 +444,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786198063000
     },
     {
+      "title": "Kvinnopissoarer testas på festival",
+      "description": "För första gången i Sverige En fördel med att vara man är att det ofta är betydligt enklare att gå på toa på många platser runtom i världen. För det mesta är det ju bara till att svepa fram den, kissa lite, skaka lite och sen är det bara att fortsätta leva. Den processen brukar ju inte ta så lång tid vilket innebär att herrtoaletterna sällan har samma milslånga köer som damtoan. Under årets Malmöfestival, som drog i gång under gårdagen, testas nu en lösning som ska jämna ut oddsen. För första gången i Sverige introduceras nämligen pissoarer speciellt framtagna för kvinnor. Förhoppningen är att detta ska få upp tempot för toabesöken så fler kan kissa utan att behöva stå kissnödig allt för länge. Via länken nedan kan man se en video som visar hur dessa toaletter är tänkta att fungera. L&auml;s vidare och kommentera: https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/ L&auml;s mer om pissoarer , toaletter , Malmöfestivalen , kvinnor , Sverige , jämställdhet , Malmöfestival",
+      "link": "https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786197600000
+    },
+    {
       "title": "Lionel Messis pappa är död",
       "description": "Lionel Messis pappa och agent, Jorge Messi har dött. Han somnade in efter en tids sjukdom.",
       "link": "https://yle.fi/a/7-10103275?origin=rss",
@@ -392,26 +462,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786197461000
-    },
-    {
-      "title": "Ukrainska attacker hotar hennes affärsimperium",
-      "description": "Hon byggde Rysslands svar på Amazon och blev landets rikaste kvinna. Nu slår ukrainska attacker mot Tatjana Kims affärsimperium och hotar dess överlevnad, skriver New York Times.",
-      "link": "https://www.expressen.se/nyheter/varlden/ukrainska-attacker-hotar-hennes-affarsimperium-/",
-      "guid": "https://www.expressen.se/nyheter/varlden/ukrainska-attacker-hotar-hennes-affarsimperium-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786197421000
-    },
-    {
-      "title": "Familjen lurad – blev hemlös efter bluffen",
-      "description": "En annons på sociala medier såg ut att erbjuda en snabb lösning på familjens bostadsjakt. I stället blev de hemlösa och förlorade flera tusen kronor.",
-      "link": "https://www.expressen.se/nyheter/familjen-lurad-blev-hemlos-efter-bluffen-/",
-      "guid": "https://www.expressen.se/nyheter/familjen-lurad-blev-hemlos-efter-bluffen-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786197158000
     },
     {
       "title": "Scientists reveal how much exercise you really need to protect your heart",
@@ -492,6 +542,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786194231000
+    },
+    {
+      "title": "Kinesisk AI fuskade under säkerhetstest",
+      "description": "Kimi K3 hämtade färdig kod från GitHub istället för att lösa uppgiften själv Vi har på senare tid vid ett flertal tillfällen rapporterat om att några av världens ledande AI-modeller lyckats bryta sig ut ur sina säkra testmiljöer, tagit sig ut på nätet och i vissa fall hackat externa databaser. Det senaste exemplet i denna genre av dystopi kommer från Kina, men till skillnad från sina amerikanska motsvarigheter valde den modellen en mer diskret väg. För när den kinesiska modellen Kimi K3 nyligen testades av det brittiska säkerhetsinstitutet AISI, var tanken att den skulle lösa en komplex uppgift enbart med hjälp av sin egen logik. Men Kimi hittade ett kryphål i testmiljöns begränsningar så istället för att behöva tänka själv smög den ut på GitHub och där hämtade den helt enkelt den färdiga koden den behövde. I detta fall handlade det alltså inte om någon form av dataintrång, utan snarare om en elev som såg att dörren var öppen till där facit fanns och helt enkelt gick in för att skriva av svaren. Men det är fortfarande ett exempel på att AI-modellerna i många fall inte bryr sig alltför mycket om hur de når sina mål, utan bara att de gör det. På tal om AI från Kina visar nya rapporter att TikTok-ägaren ByteDance nu tränar en ny gigantisk AI-modell som sägs vara tre gånger större än Kimi K3 och ska hålla samma nivå som Anthropics modell Mythos. L&auml;s vidare och kommentera: https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/ L&auml;s mer om Kimi K3 , Bytedance , AISI , GitHub , Mythos , Kina , AI-säkerhet",
+      "link": "https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/kinesisk-ai-fuskade-under-sakerhetstest/494832/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786194000000
     },
     {
       "title": "App-turism trendar: Här är det fria alternativet till campingplatsen",
@@ -584,6 +644,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786190423000
     },
     {
+      "title": "Sony märker om PlayStation 5-kartonger",
+      "description": "Varnar nya kunder om att fysiska skivor försvinner år 2028 Som bekant planerar Sony att fasa ut fysiska skivor till PlayStation med start 1 januari 2028. Detta känns ju lite som en oundviklig framtid men samtidigt lite tråkig för folk som vill ha sina spel på skivor. Hur som helst har ju Sony fått en del kritik för att det sker lite för hastigt. Tydligen har Sony nu valt att börja förvarna nya kunder genom att sätta varningsetiketter på PlayStation 5-kartongen där det står klart och tydligt att nya titlar efter deadlinen endast kommer finnas tillgängliga via PlayStation Store eller som digitala köp hos återförsäljare. L&auml;s vidare och kommentera: https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/ L&auml;s mer om Sony , PS5 , PlayStation Store , digitala spel , fysiska spel",
+      "link": "https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/sony-marker-om-playstation-5-kartonger/494833/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786190400000
+    },
+    {
       "title": "Rysare väntar då Jaro möter VPS på hemmaplan: ”Vi måste upp och ta fajten”",
       "description": "Jaro möter VPS på hemmaplan och har laddat för ett spännande derby. Nu är varje poäng viktig för Jaro som ligger näst sist i tabellen.",
       "link": "https://yle.fi/a/7-10103270?origin=rss",
@@ -612,6 +682,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786187306000
+    },
+    {
+      "title": "Meta tjänade pengar på övergreppsannonser",
+      "description": "Vidriga AI-skapade annonser som slank igenom filtren Wired rapporterar om en ny granskning som visar att Meta har godkänt och tjänat pengar på annonser med AI-genererat material som föreställer sexuella övergrepp på barn. I artikeln kan man läsa om att organisationen Tech Transparency Project (TTP) avslöjat över 50 annonser som lyckats ta sig förbi Metas säkerhetsfilter. Det handlar alltså inte om vanliga inlägg från användare, utan om betalda annonser som visats för tusentals personer i bland annat Sverige, USA och Storbritannien. Materialet som upptäckts är minst sagt vidrigt där annonserna i vissa fall använt oskyldiga bilder på barn som utgångspunkt. När användaren sedan klickat på annonsen har bilden i stället lett till AI-genererade videoklipp som visar sexuella handlingar. Andra annonser har gjort reklam för så kallade nudify-appar, verktyg som med hjälp av AI kan skapa nakenbilder av personer som egentligen har kläder på sig. Men det kanske mest anmärkningsvärda här är ju att annonserna har passerat Metas egna automatiserade kontroller. Företaget har ju sagt att de har nolltolerans mot den här typen av material. Trots det har annonserna kunnat publiceras och Meta har dessutom tjänat pengar på dem. Meta försvarar sig med att de arbetar aktivt med att stoppa sådana här annonser och att de flesta av annonserna hade en begränsad räckvidd innan de togs bort. Företaget försöker också skylla ifrån sig lite genom att säga att utvecklingen av tekniken bakom AI-genererade bilder och videor går snabbare än kontrollsystem som ska stoppa dem. L&auml;s vidare och kommentera: https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/ L&auml;s mer om Meta , Tech Transparency Project , nudify-appar , AI , Wired , annonsering",
+      "link": "https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786186800000
     },
     {
       "title": "Reseexperten: ”Fyra saker jag aldrig skulle göra”",
@@ -654,6 +734,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786183541000
     },
     {
+      "title": "Några trailers för filmer och tv-serier",
+      "description": "Lite gott och blandat I veckan dök det upp ett gäng nya trailers för filmer och tv-serier. För att inte spamma sajten med alltför mycket sådant dyker ett gäng av dem upp här i samlad form istället. High Value Target: The Hunt for Saddam Först ut är trailern för den kommande serien High Value Target: The Hunt for Saddam med Joel Kinnaman i huvudrollen. Serien följer USA:s invasion av Irak och jakten på Saddam Hussein. Serien bygger på CIA-analytikern John Nixons memoarer och har premiär i USA den 13 september. Lion Den som vill ha lite mer naturfilm i sitt liv kan ju se fram emot Lion från Jon Favreau och BBC Studios. Denna dokumentär sträcker sig över fyra år och följer lejonungen Kio, från utsatt unge till en mäktig kung. Lion ska kombinera klassiskt naturfilmsfoto med ett filmiskt berättande, vilket då ska göra allt lite extra spännande för tittarna. Fall 2: Deadpoint Här är trailern för Fall 2: Deadpoint vilket då är uppföljaren till filmen Fall från 2022. I uppföljaren möter vi Jax, som försöker hedra sin syster Hunters minne genom att genomföra en riskfylld klättring på Mount Kwan tillsammans med en av systerns närmaste vänner. Inte helt oväntat går det ju lite sisådär bra. L&auml;s vidare och kommentera: https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/ L&auml;s mer om Joel Kinnaman , Jon Favreau , Fall 2: Deadpoint , High Value Target: The Hunt for Saddam",
+      "link": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786183200000
+    },
+    {
       "title": "Brand på kraftverket i Vasa – räddningsverket varnar för röklukt",
       "description": "En mindre brand har brutit ut i en silo på Vasklot kraftverk i Vasa under lördagen.",
       "link": "https://yle.fi/a/7-10103267?origin=rss",
@@ -694,6 +784,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786179652000
     },
     {
+      "title": "Surströmmingskrisen har vänt",
+      "description": "Från enorm brist till överskott Förra året rapporterade vi att det rådde surströmmingspanik runtom i landet då burkarna var svåra att hitta i butik och de som dök upp sålde slut på direkten. Det var till och med så att folk letade sig till sidor som Blocket för att betala överpris för sina fermenterade sillar. Men årets säsong ser helt annorlunda ut. Nu ekar beställningarna efter de nya burkarna tomma vilket sägs bero på just den massiva hamstringen som skedde under fjolåret. För både handlare och privatpersoner passade på att fylla sina förråd för att det inte skulle bli en repris från förra året. SR har pratat med en veteran i branschen som konstaterar att läget är kritiskt och beskriver årets försäljningssituation som nästintill hopplös. För att överhuvudtaget få plats med årets produktion tvingas nu många butiker sänka priserna rejält på förra årets burkar. L&auml;s vidare och kommentera: https://tjock.se/strupen/surstrommingskrisen-har-vant/494825/ L&auml;s mer om surströmming , Blocket , livsmedel , SR , handel",
+      "link": "https://tjock.se/strupen/surstrommingskrisen-har-vant/494825/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/strupen/surstrommingskrisen-har-vant/494825/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786179600000
+    },
+    {
       "title": "Nya detaljer om Joe Bidens sjukdom: Cancern har spridit sig",
       "description": "Sonen Hunter Biden säger att sjukdomen är smärtsam och försvagande.",
       "link": "https://yle.fi/a/7-10103262?origin=rss",
@@ -714,26 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786179519000
     },
     {
-      "title": "Försvarsmakten utreder uteblivna uppbådsbrev",
-      "description": "Problemet med uppbådsbrev som aldrig kom fram verkar gälla framför allt svenskspråkiga. De förväntas infinna sig på uppbådet i alla fall.",
-      "link": "https://yle.fi/a/7-10103265?origin=rss",
-      "guid": "https://yle.fi/a/7-10103265",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786179287000
-    },
-    {
-      "title": "Se sista Augustinatten i bilder!",
-      "description": "På fredag kväll ordnades festivalen Augustinatten i Ekenäs för tionde och sista gången. Omkring 3 500 personer besökte evenemanget.",
-      "link": "https://yle.fi/a/7-10103115?origin=rss",
-      "guid": "https://yle.fi/a/7-10103115",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786178639000
-    },
-    {
       "title": "Militärforskarna varnar: Hotet mot internet växer",
       "description": "Det mesta av världens internettrafik färdas inte genom luften, utan längs kablar på havsbotten. Nu varnar kinesiska forskare för att billiga undervattensdrönare kan göra den infrastrukturen betydligt lättare att slå mot. Internet kan förvisso upplevas som trådlöst. Men mellan kontinenterna är verkligheten en annan. Omkring 99 procent av den interkontinentala datatrafiken går genom fiberkablar som […]",
       "link": "https://www.dagensps.se/teknik/militarforskarna-varnar-hotet-mot-internet-vaxer/",
@@ -752,6 +832,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786176254000
+    },
+    {
+      "title": "Peter Esse har kört Volvo EX60 i Sverige",
+      "description": "Här berättar han om den upplevelsen Volvo EX60 har kommit till Sverige på riktigt och de första kunderna har fått sina bilar. Peter Esse bestämde sig för att ta ut ett exemplar och köra bilen på svensk mark. Han säger bland annat att den som är intresserad bör köpa till Ultra-paketet för då blir bilen så mycket bättre. L&auml;s vidare och kommentera: https://feber.se/bil/peter-esse-har-kort-volvo-ex60-i-sverige/494816/ L&auml;s mer om Peter Esse , EX60 , Volvo EX60 , Sverige",
+      "link": "https://feber.se/bil/peter-esse-har-kort-volvo-ex60-i-sverige/494816/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/peter-esse-har-kort-volvo-ex60-i-sverige/494816/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786176000000
+    },
+    {
+      "title": "Rättegång inleds för mordet på Tupac",
+      "description": "Sista chans att skipa rättvisa för Tupac? Nästan tre decennier har passerat sedan hiphop-ikonen Tupac Shakur sköts till döds i Las Vegas. Någon gärningsman har man fortfarande inte dömt för mordet men på måndag inleds en rättegång mot en 63-årig man som misstänks ligga bakom dådet. Den åtalade mannen pekas ut som hjärnan bakom attacken 1996 och har själv erkänt att han befann sig i den bil varifrån de dödande skotten avlossades. Dock nekar han att han varit delaktig i själva mordet. Men eftersom alla andra personer som befann sig i den bilen numera är döda så är 63-åringen den siste som kan ställas till svars för händelsen. Tupac Shakur avled på sjukhus sex dagar efter att ha blivit skjuten och blev endast 25 år gammal. L&auml;s vidare och kommentera: https://feber.se/samhalle/rattegang-inleds-for-mordet-pa-tupac/494824/ L&auml;s mer om Tupac Shakur , Las Vegas , hiphop , Rättegång , mordrättegång , Mord",
+      "link": "https://feber.se/samhalle/rattegang-inleds-for-mordet-pa-tupac/494824/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/rattegang-inleds-for-mordet-pa-tupac/494824/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786172400000
     },
     {
       "title": "Olivoljebröd med rosmarin och flingsalt",
@@ -782,6 +882,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786169580000
+    },
+    {
+      "title": "Babylon Berlin återvänder med sista säsongen",
+      "description": "Med lite Hitler och nazism Den vettiga tyska serien Babylon Berlin har redan levererat ett antal bra säsonger och snart får vi äntligen en ny säsong. I denna femte och sista säsong får vi se vad som händer när Tyskland utser Adolf Hitler till rikskansler samt vad seriens karaktärer får göra när nazismen kopplar sitt grepp om landet. I Tyskland har säsongen premiär den 10 september och det är för tillfället oklart när säsongen dyker upp här i Sverige. L&auml;s vidare och kommentera: https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/ L&auml;s mer om Babylon Berlin , Adolf Hitler , Tyskland , nazism , TV-serier",
+      "link": "https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/babylon-berlin-atervander-med-sista-sasongen/494823/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786168800000
     },
     {
       "title": "Lingonlimpa – recept på saftigt lingonbröd",
@@ -904,6 +1014,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786131021000
     },
     {
+      "title": "Blir det någon kräftskiva i år?",
+      "description": "Dagens fråga Kräftskivans framtid hänger på en skör tråd, åtminstone om vi ska tro tv-kocken Jan Boris-Möller. Han varnar för att den yngre generationen knappt vet vad en kräftskiva är – och i bästa fall bara vrider av stjärten innan de ger upp. När sörplande ur skalet uteblir och klorna lämnas orörda ställs den klassiska augustitraditionen på sin spets. Blir det faktiskt något klassiskt kräftkalas i år, eller har festen förvandlats till en vanlig buffé med västerbottenpaj? L&auml;s vidare och kommentera: https://feber.se/blir-det-nagon-kraftskiva-i-ar/494796/ L&auml;s mer om Jan Boris-Möller , kräftskiva , västerbottenpaj , matkultur , kräftkalas",
+      "link": "https://feber.se/blir-det-nagon-kraftskiva-i-ar/494796/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/blir-det-nagon-kraftskiva-i-ar/494796/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786129200000
+    },
+    {
       "title": "DSPTCH Bottle Case",
       "description": "",
       "link": "https://uncrate.com/dsptch-bottle-case/",
@@ -914,6 +1034,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786129200000
     },
     {
+      "title": "mRNA-vaccin mot influensa godkänns i USA",
+      "description": "För vuxna över 50 Den amerikanska läkemedelsmyndigheten FDA har gett grönt ljus till vaccinet mFLUSIVA (mRNA-1010), vilket därmed blir Modernas allra första mRNA-baserade influensavaccin. Vaccinet har godkänts för vuxna mellan 50 och 64 år, och har samtidigt fått ett påskyndat godkännande för personer från 65 år och uppåt i väntan på de slutgiltiga resultaten från en studie. Moderna planerar att lansera vaccinet redan nu till hösten. L&auml;s vidare och kommentera: https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/ L&auml;s mer om Moderna , mFLUSIVA , FDA , influensavaccin , Robert F. Kennedy Jr , mRNA-1010",
+      "link": "https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/mrna-vaccin-mot-influensa-godkanns-i-usa/494822/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786127400000
+    },
+    {
       "title": "Engångsplast är på väg bort – men målet är svårt att nå",
       "description": "Svårt att uppnå kravet om minskad användning av engångsartiklar i plast.",
       "link": "https://www.mitti.se/nyheter/engangsplast-ar-pa-vag-bort--men-malet-ar-svart-att-na-6.3.371215.e8475524ef",
@@ -922,6 +1052,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786125720000
+    },
+    {
+      "title": "Luxeed berättar lite mer om eldrivna suven RX",
+      "description": "Orderböckerna öppnar den här månaden Tidigare i somras visade Chery Automobile och Huawei upp RX från märket Luxeed. Det är en eldriven SUV som man påstår ritats av en Ferrari-designer. Nu berättar man en aning mer om bilen och vad som finns under skalet. Bilen baseras på nästa generation av Giant Whale-plattformen. Man kan välja mellan tre olika batteripack och insteget är på 81.1 kWh medan de två andra är på 100 kWh. Enligt CLTC-cykeln ska räckvidden ligga på 85 mil för den version som kommer allra längst. Den klenaste versionen har en elmotor på 380 hästar och så finns det en med dubbla som istället bjuder på 590 hästar. På tekniksidan hittar vi bland annat fyra Lidar-sensorer. Någon prisuppgift för modellen har vi dock inte fått än. Orderböckerna i Kina kommer att öppna nu i augusti. L&auml;s vidare och kommentera: https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/ L&auml;s mer om Luxeed , Luxeed RX , information , elbil , räckvidd , Kina , Chery , Huawei",
+      "link": "https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/luxeed-berattar-lite-mer-om-eldrivna-suven-rx/494800/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786125600000
     },
     {
       "title": "Casio Moonphase Analog Watch",
@@ -944,6 +1084,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786123824000
     },
     {
+      "title": "Nothing växlar upp",
+      "description": "Planerar att lansera sex nya telefoner under 2027 Nothing kan komma att dubbla antalet telefonlanseringar och släppa hela sex nya modeller under 2027. I en intervju med Times Now Tech säger företaget att man även planerar att bredda sin produktportfölj över flera kategorier som ljud. – Det är fortfarande för tidigt att diskutera enskilda produkter, men jag kan säga att vi har lanserat tre smartphones (Nothing Phone 4a, Phone 4a Pro och Phone 4b) i år, och vi siktar på att lansera dubbelt så många nästa år. Vi kommer att dela med oss av mer information ju närmare lanseringen vi kommer, men tanken är att ha ett bredare utbud av smartphones, säger Nothings medgrundare Akis Evangelidis. L&auml;s vidare och kommentera: https://feber.se/mobil/nothing-vaxlar-upp/494817/ L&auml;s mer om smartphones , Akis Evangelidis , Times Now Tech , Nothing Phone 4a , Phone 4a Pro",
+      "link": "https://feber.se/mobil/nothing-vaxlar-upp/494817/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/nothing-vaxlar-upp/494817/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786123800000
+    },
+    {
       "title": "Everyday Carry: Brush",
       "description": "",
       "link": "https://uncrate.com/everyday-carry-brush/",
@@ -964,6 +1114,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786122180000
     },
     {
+      "title": "Moddare väcker liv i raderat Destiny 2-innehåll",
+      "description": "Mest för nostalgiker dock Bungie har under Destiny 2:s livstid arkiverat en hel del innehål vilket innebar att man helt enkelt inte längre kunde spela banor som man faktiskt hade betalat för. Nu har dock en moddare tagit saken i egna händer och trixat lite med spelkoden så entusiaster kan återvända till de vaultade platserna. Modden Shadowkeep Singleplayer Exploration Mode kan spelare snart återigen besöka områden som varit otillgängliga i flera år. Det finns dock en rätt så rejäl och trickig hake. Det rör sig nämligen inte om en fullständig spelupplevelse då modden saknar fiender, uppdrag och generell stridsmekanik. Det är mest bara för att springa omkring i miljöerna som ett slags digitalt museum. Du hittar projektet via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/ L&auml;s mer om Bungie , Destiny 2 , Shadowkeep Singleplayer Exploration Mode , arkiverat innehål , modding , Shadowkeep",
+      "link": "https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/moddare-vacker-liv-i-raderat-destiny-2-innehall/494795/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786122000000
+    },
+    {
       "title": "Craighill Desk Knife",
       "description": "",
       "link": "https://uncrate.com/craighill-desk-knife/",
@@ -974,6 +1134,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786122000000
     },
     {
+      "title": "Nu finns det en instegsversion av eldrivna AMG GT",
+      "description": "Fejkar ljudet av en rak sexa I maj dundrade Mercedes ut nya AMG GT med eldrift. Då handlade det om värstingen GT 63 med över 1000 hästar, men så många kanske man inte behöver. Därför presenteras nu även instegsversionen GT 53 som istället för tre \"bara\" har två elmotorer. Dessa ger tillsammans 544 hästar och 800 newtonmeter i vrid och ser till att driva alla fyra hjulen. Det räcker för att kunna ta sig från 0-100 km/h på 3,9 sekunder medan toppfarten anges till 230 km/h. Köper man till AMG Driver’s Package höjs dock detta till 250 km/h istället. Batteripacket är fortfarande på 106 kWh och enligt WLTP ska man kunna komma 80 mil på en laddning. Man ska kunna ladda med upp till hela 600 kW. Om alla stjärnor står rätt ska man i optimala förhållanden med rätt typ av laddare kunna få 53 mils räckvidd på bara tio minuters tankande. I GT 55 och GT 63 simuleras V8:a-ljud både i och utanför bilen, men i GT 53 är det istället en fejkad turbomatad rak sexa som får stå för ljudspexandet. Mercedes säger att man använt den gamla AMG-motorns riktiga ljud och spelat in detta i alla olika frekvenser innan man återskapat allt digitalt. Till ljudkulissen får man även fejkade växlingar som man kan leka med via paddlar bakom ratten. Insteg innebär lägre kostnad och denna är 40 procent billigare än flaggskeppet då det står 115.430 euro på prislappen. Det gör att denna hamnar strax under Porsche Taycan 4S som går loss på 122.000 euro. L&auml;s vidare och kommentera: https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/ L&auml;s mer om AMG GT , AMG GT 53 , instegsversion , elbil , prestanda , eldrift",
+      "link": "https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/nu-finns-det-en-instegsversion-av-eldrivna-amg-gt/494807/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786120200000
+    },
+    {
       "title": "Inkamumier gav avgörande bevis: Européerna förde med sig kopporna till Amerika",
       "description": "Hittills har denna berättelse dock främst baserats på samtida skriftliga källor, men nu bekräftas historien av dna från inkamumier.",
       "link": "https://varldenshistoria.se/samhalle/amerikas-historia/inka-mumier-er-kommet-med-det-endelige-bevis-europaerne-bragte-kopper-til-amerika",
@@ -982,6 +1152,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1786118458000
+    },
+    {
+      "title": "John Turturro spelar ficktjuv i New York",
+      "description": "Se trailern för The Only Living Pickpocket in New York Här har vi trailern för den kommande filmen The Only Living Pickpocket in New York. Filmen handlar om Harry Lehman (spelad av John Turturro), en åldrande ficktjuv som märker att hans hantverk håller på att dö ut. I ett digitaliserat New York har kontanter ersatts av plastkort, och Harry kämpar för att få ekonomin att gå ihop samtidigt som han tar hand om sin sjuka fru. Berättelsen tar en dramatisk vändning när Harry av misstag stjäl ett värdefullt USB-minne. Det som verkade vara ett rutinmässigt stöldbyte förvandlas snabbt till en jobbig vardag med en hämndlysten maffiafamilj. Tillsammans med Turturro hittar vi skådespelare som Giancarlo Esposito, Steve Buscemi och Jamie Lee Curtis i filmen. The Only Living Pickpocket in New York har amerikansk biopremiär i slutet av oktober. L&auml;s vidare och kommentera: https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/ L&auml;s mer om The Only Living Pickpocket in New York , John Turturro , Giancarlo Esposito , Steve Buscemi , film",
+      "link": "https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/john-turturro-spelar-ficktjuv-i-new-york/494791/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786118400000
     },
     {
       "title": "Electronic Materials Office Altar II Keyboard",
@@ -1004,6 +1184,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786118316000
     },
     {
+      "title": "Hideo Kojima släpper genomskinlig CD-spelare",
+      "description": "Har designat en specialutgåva med Death Stranding-tema Speldesignern Hideo Kojima har satt sin prägel på en genomskinlig CD-spelare. Det handlar om en orange, begränsad specialutgåva med Death Stranding-tema av modellen CP1 från tillverkaren km5. Spelaren är bärbar med en batteritid på 7–8 timmar och bjuder på moderna grejer som USB-C-laddning och Bluetooth, men har också ett klassiskt 3,5 mm-uttag och fästen för väggmontering. Den unika Kojima-utgåvan är tyvärr redan slutsåld, men för den som nöjer sig med enbart den transparenta designen finns modellen fortfarande tillgänglig i en neongul version. L&auml;s vidare och kommentera: https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/ L&auml;s mer om Hideo Kojima , Death Stranding , km5 , CP1 , CD-spelare",
+      "link": "https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/hideo-kojima-slapper-genomskinlig-cd-spelare/494815/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786116600000
+    },
+    {
       "title": "Man ejakulerade på kvinna på Gröna lund – döms",
       "description": "Man onanerade på kvinna på Gröna Lund – döms av hovrätten",
       "link": "https://www.mitti.se/nyheter/man-ejakulerade-pa-kvinna-pa-grona-lund--doms-6.3.379166.daa62631c0",
@@ -1012,6 +1202,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786116600000
+    },
+    {
+      "title": "Xpeng har nu sålt över 100.000 elbilar utanför Kina",
+      "description": "Finns nu på 65 olika marknader Xpeng slår nu på trumman och meddelar att de nått en ny milstolpe. För sex år sedan började de sälja sina bilar i Norge som första land utanför Kina, och nu har man alltså lyckats sälja över 100.000 bilar på 65 olika marknader. I Sverige är de modeller som sålts bäst G6 och G9 och totalt har Xpeng sålt runt 2500 bilar här. L&auml;s vidare och kommentera: https://feber.se/bil/xpeng-har-nu-salt-over-100000-elbilar-utanfor-kina/494806/ L&auml;s mer om milstolpe , Kina , elbil , tillverkning , försäljning",
+      "link": "https://feber.se/bil/xpeng-har-nu-salt-over-100000-elbilar-utanfor-kina/494806/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/xpeng-har-nu-salt-over-100000-elbilar-utanfor-kina/494806/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786114800000
     },
     {
       "title": "Timex x NASA Q Chronograph Watch",
@@ -1024,6 +1224,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786114800000
     },
     {
+      "title": "OpenAIs nya pryl verkar bli en skärmlös högtalare",
+      "description": "Samarbete med Jony Ive ska lanseras 2027 Den kommande AI-enheten som OpenAI utvecklar i samarbete med den tidigare Apple-designern Jony Ive uppges bli en batteridriven, skärmlös smart högtalare. Enligt Bloombergs reporter Mark Gurman blir prylen ungefär lika stor som en hockeypuck och förväntas lanseras under 2027 med en prislapp på över 300 dollar. Enheten ska vara lätt att bära med sig runt i hemmet med en hand och ha en design \"som inte alls påminner om Apples produkter\". Den uppges också få ett inbyggt kamerasystem, inbyggda lampor och rörliga delar som fysiskt anpassar sig och rör sig när assistenten kommunicerar med användaren. Mjukvarumässigt ska den fungera i stil med röstläget för ChatGPT, men med ännu mer avancerade AI-modeller för en mer naturlig och mänsklig dialog. L&auml;s vidare och kommentera: https://feber.se/internet/openais-nya-pryl-verkar-bli-en-skarmlos-hogtalare/494813/ L&auml;s mer om Jony Ive , ChatGPT , smart högtalare , Mark Gurman , Apple , AI-enhet",
+      "link": "https://feber.se/internet/openais-nya-pryl-verkar-bli-en-skarmlos-hogtalare/494813/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/openais-nya-pryl-verkar-bli-en-skarmlos-hogtalare/494813/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786113000000
+    },
+    {
       "title": "Grönt ljus för Tvärförbindelse Södertörn",
       "description": "Högsta förvaltningsdomstolen avslår överklagan mot regeringens beslut. Tvärförbindelse Södertörn kan nu börja byggas, med planerad trafiköppning år 2040.",
       "link": "https://www.mitti.se/nyheter/gront-ljus-for-tvarforbindelse-sodertorn-6.3.378599.39667c3fd4",
@@ -1032,6 +1242,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786112840000
+    },
+    {
+      "title": "Teslas AI till bilen är helt skogstokig",
+      "description": "Har inget filter I Teslas senaste mjukvaruuppdatering \"Summer Release 2026\" introducerades AI-assistenten Grok för Europa. Denna har funnits i USA tidigare men kommer nu alltså även hit. Assistenten kan hjälpa dig att ringa telefonsamtal, spela upp musik, ändra temperaturen i kupén och liknande saker. Adrian som har en Tesla har testat och i det här klippet går han igenom det som är bra och det som är dåligt med den nya tekniken. Och eftersom AI:n inte har något filter och är långt från PK blir det ganska intressanta konversationer, och Adrian tycker till och med att bilen flörtar med honom. Och det med finsk dialekt, ibland. L&auml;s vidare och kommentera: https://feber.se/bil/teslas-ai-till-bilen-ar-helt-skogstokig/494773/ L&auml;s mer om Grok , AI , assistent , teknik",
+      "link": "https://feber.se/bil/teslas-ai-till-bilen-ar-helt-skogstokig/494773/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/teslas-ai-till-bilen-ar-helt-skogstokig/494773/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786111200000
     },
     {
       "title": "Slutspurt för Fritidsbankens popup i det gröna",
@@ -1062,6 +1282,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786109744000
+    },
+    {
+      "title": "Vision Pro kan snabba upp operationer",
+      "description": "Kortar ner tiden med 20 procent En ny studie från UC San Diegos Shiley Eye Institute visar att Apples headset Vision Pro kan effektivisera kirurgiska ingrepp och korta ner tiden rejält. Forskarna jämförde 16 endoskopiska tårkanalsoperationer som genomfördes med Vision Pro mot 16 operationer med traditionella skärmar. Resultaten visade att ingreppen med headsetet i snitt tog 34,4 minuter, jämfört med 42,7 minuter för kontrollgruppen – alltså en tidsbesparing på cirka 19 procent. Samtliga inblandade kirurger föredrog också att använda Vision Pro. En stor fördel var att de kunde behålla en naturlig, framåtriktad hållning istället för att behöva vrida överkroppen mot en delad skärm. Forskarna uppskattar också att den förkortade tiden kan ge en besparing på upp till 420 dollar per ingrepp. L&auml;s vidare och kommentera: https://feber.se/mac/vision-pro-kan-snabba-upp-operationer/494811/ L&auml;s mer om UC San Diego , Apple , mixed reality , Shiley Eye Institute , kirurgi",
+      "link": "https://feber.se/mac/vision-pro-kan-snabba-upp-operationer/494811/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mac/vision-pro-kan-snabba-upp-operationer/494811/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786109400000
     },
     {
       "title": "Enormt rymdobjekt kommer att susa nära förbi jorden: Nu har forskare upptäckt en oväntad risk",
@@ -1104,6 +1334,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786107736000
     },
     {
+      "title": "Google uppdaterar Ask Maps",
+      "description": "Kan nu beställa mat och kopplas till Gmail Google rullar nu ut nya funktioner till den Gemini-drivna funktionen Ask Maps i Google Maps. Assistenten ska bland annat nu klara av att hantera uppgifter i flera steg, vilket gör det möjligt att be appen hitta en restaurang längs din resväg, välja ut en specifik maträtt och lägga den i varukorgen för upphämtning. Utöver det ska den också kunna jämföra hotellpriser i realtid, ge tips på lokala evenemang och erbjuda liveuppdateringar om förseningar i kollektivtrafiken via en ny widget. En annan stor nyhet är funktionen Personal Intelligence som, om du aktivt väljer att slå på den, kan kopplas till Gmail för att automatiskt hämta in kontext kring kommande resplaner. Systemet kan även minnas tidigare konversationer. Funktionerna för kollektivtrafik och personliga svar rullas ut globalt där Ask Maps finns tillgängligt, medan matbeställningar och hotellsökningar till en början endast fungerar i USA. L&auml;s vidare och kommentera: https://feber.se/internet/google-uppdaterar-ask-maps/494810/ L&auml;s mer om Gemini , Ask Maps , Personal Intelligence , Gmail , Google Maps , AI-assistent",
+      "link": "https://feber.se/internet/google-uppdaterar-ask-maps/494810/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/google-uppdaterar-ask-maps/494810/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786107600000
+    },
+    {
       "title": "Larmet: pressat läge på neonatalavdelningen",
       "description": "Hög belastning på sjukhusens barnavdelningar i sommar larmar Vårdförbundet i Stockholm",
       "link": "https://www.mitti.se/nyheter/larmet-pressat-lage-pa-neonatalavdelningen-6.3.378358.773a1bc3f6",
@@ -1134,6 +1374,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786106310000
     },
     {
+      "title": "Nya Bugattin hyllar Type 57SC Atlantic",
+      "description": "Low but not slow Klart det kan tryckas ut ytterligare en specialare från Bugatti. Här har vi Destrier som får godis från den extrema banracern Bolide och som ska vara en hyllning till klassikern Type 57SC Atlantic . Under skalet på denna hittar vi samma kolfibermonocoque som återfinns i Bolide och sen har man klätt allt i ett unikt skal, som enligt mig är riktigt lyckat. Här finns lite av allt från Bugatti men ändå något eget, och eftersom bilen bara är en meter hög så ser den riktigt rå ut på vägen där den breder ut sig. Insidan är även den helt unik och ger nästan en cockpit-känsla. Stolarna är en del av monocoquen och ratten känns som något som bara finns i framtiden. Bakom cockpiten hittar vi den mäktiga W16-spisen. Den är på 8,0 liter, har fyra turbo och ger här 1600 hästar. 0-100 km/h sägs gå på 2,2 sekunder vilket är samma tid man anger för Bolide. Vad den förmodligen förväntansfulla kunden har fått betala för sitt speciella åk framgår inte. Premiärvisningen äger rum idag på Monterey Car Week. L&auml;s vidare och kommentera: https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/ L&auml;s mer om Destrier , Type 57SC Atlantic , superbil , hyperbil , W16 , specialare , unik , Bolide",
+      "link": "https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786105800000
+    },
+    {
       "title": "UCLA scientists discover how to guide heat like light at room temperature",
       "description": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
@@ -1142,6 +1392,46 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786105368000
+    },
+    {
+      "title": "Nu kan du streama Netflix i 4K via Google Chrome",
+      "description": "Äntligen! Nu kan du äntligen titta på Netflix i 4K-upplösning direkt i Google Chrome. Tidigare har tjänsten hänvisat till Microsoft Edge (eller Safari på Mac) för att komma runt streamingtjänstens upplösningsspärr på 1080p. Uppdateringen gäller från och med Chrome version 117, men har en begränsning: 4K-stödet fungerar i nuläget enbart om du använder Windows 11. Sitter du på macOS är det alltså fortfarande Safari som gäller för 4K, och på Linux är kvaliteten i Chrome fortsatt strypt till ynka 720p. Webbläsarversionen saknar fortfarande stöd för mer avancerade bild- och ljudformat som Dolby Vision, HDR10+ och Dolby Atmos. L&auml;s vidare och kommentera: https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/ L&auml;s mer om Google Chrome , Windows 11 , 4K , Dolby Vision , Safari , Microsoft Edge",
+      "link": "https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786104600000
+    },
+    {
+      "title": "Japan ryter ifrån mot USA:s användning av Nintendo-memes",
+      "description": "Kräver ett stopp för statens användning av japanska karaktärer Den japanska regeringen har vid upprepade tillfällen uppmanat USA:s administration att sluta upp med att använda kända japanska karaktärer i sina sociala medier. Figurer från bland annat Pokémon, Naruto och Mario har dykt upp i allt från politiska inlägg till krigspropaganda. Det japanska utrikesdepartementet ryter nu till lite hårdare och säger att det är direkt olämpligt för statliga institutioner att använda upphovsrättsskyddat material utan tillstånd från rättighetsinnehavarna. De oroar sig också över att de folkkära varumärkenas rykte kan skadas när de kopplas samman med kontroversiella politiska agendor eller militära budskap. Bland annat har den amerikanska regeringen publicerat videor där klipp från Nintendo-spel varvats med bilder på luftanfall, samt montage där Pokémon-karaktärer används i samband med insatser från gränspolisen. Senast i juni väckte en AI-genererad video, där presidenten framställdes som ninjan Naruto, stor irritation från japanskt håll. Från amerikanskt håll har man hittills försvarat strategin med att använda memes då företrädare för administrationen menar att memes är ett effektivt och modernt sätt att nå ut med sitt budskap till allmänheten. Japan har dock klargjort via diplomatiska kanaler att respekt för immaterialrätten måste gå före viral kommunikation. L&auml;s vidare och kommentera: https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/ L&auml;s mer om Pokémon , Naruto , Nintendo , USA , Mario , upphovsrätt",
+      "link": "https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786104000000
+    },
+    {
+      "title": "Extremhettan fortsätter i Europa",
+      "description": "Nya värmerekord hotar elförsörjningen Den extrema sommarhettan i Europa håller i sig och drabbar nu i första hand länder som Slovakien, där man uppmätt ett nytt värmerekord på hela 42 grader, och även i Ungern och Österrike rapporteras extrema temperaturer. Värmen har också lett till låga vattennivåer i bland annat Donau, vilket har skapat oro för att kraftverk ska tvingas stänga ner. Tidigare i veckan slogs även värmerekord i Wien, där temperaturen steg till 40,8 grader, vilket slår det tidigare värmerekordet från 2013 med 0,3 grader. L&auml;s vidare och kommentera: https://feber.se/samhalle/extremhettan-fortsatter-i-europa/494820/ L&auml;s mer om Slovakien , Ungern , Donau , Österrike , Paks , Péter Magyar",
+      "link": "https://feber.se/samhalle/extremhettan-fortsatter-i-europa/494820/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/extremhettan-fortsatter-i-europa/494820/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786102800000
+    },
+    {
+      "title": "Meta döms att betala miljarder för ungas hälsa",
+      "description": "Amerikansk domstol anser att Instagram och Facebook skadar unga En domstol i den amerikanska delstaten New Mexico har slagit fast att Meta bär ett ansvar för den rådande krisen kring ungas psykiska hälsa. Bolaget, som bekant ligger bakom plattformarna Instagram och Facebook, döms nu att betala cirka 5,4 miljarder kronor i skadestånd. Enligt domstolen har Metas tjänster fungerat som en \"allmän olägenhet\" och bidragit till negativa effekter för barn och ungdomar. De utdömda pengarna ska placeras i en fond som ska se till att hjälpa drabbade personer och finansiera förebyggande insatser. Domen kan även leda till krav på att Meta tvingas bygga om sina appar för att öka säkerheten och tryggheten för unga. Inte helt oväntat så är Meta inte helt nöjda med domen och tillbakavisar anklagelserna. De säger att de tänker överklaga domen och att menar att de lägger stora resurser på att skapa en trygg plattform för sina användare. L&auml;s vidare och kommentera: https://feber.se/internet/meta-doms-att-betala-miljarder-for-ungas-halsa/494809/ L&auml;s mer om Meta , Instagram , Facebook , New Mexico , skadestånd , psykisk hälsa",
+      "link": "https://feber.se/internet/meta-doms-att-betala-miljarder-for-ungas-halsa/494809/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/meta-doms-att-betala-miljarder-for-ungas-halsa/494809/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786102200000
     },
     {
       "title": "Förseningar efter stopp i pendeltågstrafiken",
@@ -1164,6 +1454,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786101481000
     },
     {
+      "title": "Serietillverkningen av BMW i3 igång",
+      "description": "Dags för ny klass att ta plats Nu har BMW dragit igång serietillverkningen av den nya elbilen i3 och detta sker på fabriken i München. På plats har man under fyra år byggt om för att vara redo för nästa generation med elbilar. Stället har fått en flera nya ytor för logistik, en ny monteringshall och en helt ny fabriksdel där karosserna blir till. Från och med nästa år kommer fabriken bara att tillverka elbilar. Ombyggnationen har gjort att tillverkningen blivit mer effektiv och BMW säger att produktionskostnaden ska ha minskat med runt tio procent genom per bil. Batterierna till i3 tillverkar BMW själva i en ny batterifabrik som ligger i Bayern. Även motorerna gör man själva men dessa blir istället till i BMW:s fabrik i Österrike. L&auml;s vidare och kommentera: https://feber.se/bil/serietillverkningen-av-bmw-i3-igang/494803/ L&auml;s mer om i3 , serietillverkning , fabrik , Tyskland , München , elbil , Neue Klasse",
+      "link": "https://feber.se/bil/serietillverkningen-av-bmw-i3-igang/494803/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/serietillverkningen-av-bmw-i3-igang/494803/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786100400000
+    },
+    {
       "title": "HTV: Sammandrag | Raków Czestochowa 0-0 Hammarby",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-sammandrag-or-rakow-czestochowa-0-0-hammarby",
@@ -1172,6 +1472,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786099903000
+    },
+    {
+      "title": "Polaris presenterar riktigt effektstinn RZR",
+      "description": "Leksak för den som redan har allt Om man vill busa runt bland sanddynor eller hoppa runt i terrängen och gärna kör något med fyra hjul kanske en sån här kunde vara något. Det är Polaris senaste RZR som de kallar för Pro R Boost och här har man verkligen inte sparat på krutet. Under skalet på sandloppan har man smackat in en turbomatad fyra på 2,0 liter som ger 280 hästar och 300 newtonmeter i vrid. Det är inte helt lite i denna typ av förpackning. Drivningen sker på alla fyra men man kan få den att bara driva på bakhjulen om man vill. Det går att få två eller fyra dörrar och den lättaste varianten väger in på 1212 kilo medan den tyngsta ligger på 1366 kilo. För att klara underlaget på bästa sätt sitter det elektroniskt ställbar fjädring från Fox runt om. Fälgarna mäter 15 tum och är skodda med 32-tum stora offroad-däck. Markfrigången anges till 40 centimeter. Prislappen börjar på ganska svettiga 49.999 dollar och ska du ha Ultra-versionen med fyra dörrar snackar vi istället om från 56.999 dollar. L&auml;s vidare och kommentera: https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/ L&auml;s mer om Polaris , RZR Pro R Boost , leksak , prestanda , effekt , turbo",
+      "link": "https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786098600000
     },
     {
       "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
@@ -1602,16 +1912,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786017782000
-    },
-    {
-      "title": "Astronomer gick igenom en nästan 20 år gammal bild från vårt närliggande solsystem – och fick syn på något mycket märkligt",
-      "description": "Först trodde forskarna att det var ett fel i detektorn – men det visade sig inte stämma alls.",
-      "link": "https://illvet.se/universum/astronomer-gick-igenom-en-nastan-20-ar-gammal-bild-fran-vart-narliggande-solsystem-och-fick-syn-pa-nagot-mycket-markligt",
-      "guid": "https://illvet.se/universum/astronomer-gick-igenom-en-nastan-20-ar-gammal-bild-fran-vart-narliggande-solsystem-och-fick-syn-pa-nagot-mycket-markligt",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786017633000
     },
     {
       "title": "World’s most-used weedkiller disrupts honeybee brains",
