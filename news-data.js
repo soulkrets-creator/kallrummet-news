@@ -1,17 +1,117 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-09T09:28:06.646Z",
+  "updatedAt": "2026-08-09T12:26:49.161Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Nya problemet: Felkissande golfare",
-      "description": "Det finns stora och små problem. Du får själv välja i vilken kategori du vill placera ämnet ”felkissande golfare”. Det är från Örebro nödropet (obs ej ordvits) kommer om felaktigt kissande golfare. Närmare bestämt hör de hemma på banan vid Gustavsviks golfklubb och väljer att kissa i det öppna i stället för att ta stegen […]",
-      "link": "https://www.dagensps.se/varlden/nya-problemet-felkissande-golfare/",
-      "guid": "https://www.dagensps.se/?p=1662614",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl3g-pcesv7ti-nh.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786267533000
+      "title": "Dödlig natt på båda sidor i Ukrainakriget",
+      "description": "Ryska attacker dödade två personer och skadade ett tjugotal i Ukraina under natten till söndagen, samtidigt som en ukrainsk drönarattack dödade tre personer i den ryska Belgorodregionen.",
+      "link": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
+      "guid": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786277398000
+    },
+    {
+      "title": "Nästa säsong av The Witcher verkar inte komma i år",
+      "description": "Ser ut som man får vänta tills nästa år för att se slutet Det ser ut som att fans av Netflix-serien The Witcher får se till att förbereda sig på att få vänta ett tag innan de får titta på seriens femte och sista säsong. En ny rapport nämner nämligen att säsongen inte kommer ha premiär i år utan att den istället kommer att dyka upp tidigast under 2027. Säsong fyra och fem spelades nämligen in mer eller mindre i ett svep, och seriens showrunner Lauren Schmidt Hissrich har tidigare beskrivit de två sista säsongerna som en enda stor, sammanhängande historia. Men trots detta verkar Netflix nu ha valt att dra ut på tiden mellan säsongerna. L&auml;s vidare och kommentera: https://feber.se/film/nasta-sasong-av-the-witcher-verkar-inte-komma-i-ar/494842/ L&auml;s mer om The Witcher , Netflix , Lauren Schmidt Hissrich , TV-serier , streaming , säsong 5",
+      "link": "https://feber.se/film/nasta-sasong-av-the-witcher-verkar-inte-komma-i-ar/494842/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nasta-sasong-av-the-witcher-verkar-inte-komma-i-ar/494842/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786276800000
+    },
+    {
+      "title": "Svenska laget har full förståelse för Nora Lindahls val: ”Ingen idrottare ställer sig bakom SOK:s agerande”",
+      "description": "Vägen till OS som svensk idrottare kan vara snårig. De blågula idrottarna håller inte tillbaka när de kritiserar den nationella olympiska kommittén.",
+      "link": "https://yle.fi/a/7-10103288?origin=rss",
+      "guid": "https://yle.fi/a/7-10103288",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786276619000
+    },
+    {
+      "title": "Vasa IFK vill rädda barnens spelglädje – satsar på kravlös hobbyfotboll",
+      "description": "Idrottsföreningen Vasa IFK ska börja erbjuda kravlös hobbyfotboll för barn som vill spela utan prestationskrav. Fokus ligger på glädje och gemenskap.",
+      "link": "https://yle.fi/a/7-10103106?origin=rss",
+      "guid": "https://yle.fi/a/7-10103106",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786274252000
+    },
+    {
+      "title": "Socialdemokraterna lovar extra barnbidrag",
+      "description": "Socialdemokraterna vill ge barnfamiljer dubbelt barn- och studiebidrag två gånger om året – inför jul- och sommarlov. För en tvåbarnsfamilj skulle det innebära 5 000 kronor mer om året.",
+      "link": "https://www.expressen.se/nyheter/sverige/socialdemokraterna-presenterar-valloften-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/socialdemokraterna-presenterar-valloften-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786273323000
+    },
+    {
+      "title": "OpenAI pausar sin AI-modell Astra",
+      "description": "Modellen anses för effektiv och utgör en säkerhetsrisk OpenAI har valt att lägga sin nya AI-modell Astra på is för att den helt enkelt visat sig vara nästan för effektiv. Enligt AI-jätten så är modellen så pass kraftfull att den på egen hand kan hitta säkerhetshål och genomföra avancerade it-attacker vilket har gjort att den bedöms utgöra en potentiell fara, vilket ju inte alltid är önskvärt. Så för att minimera riskerna kommer bolaget nu att samarbeta med både myndigheter och säkerhetsexperter för att grundligt testa vad Astra faktiskt är kapabel till innan projektet går vidare. För att hantera situationen har bolaget nu infört strikta restriktioner och arbetet med Astra ska nu ske i helt isolerade testmiljöer med begränsad åtkomst till nätverk samt verktyg. Man har även satt upp system som övervakar modellens tankegångar i realtid för att kunna avbryta processen om den börjar planera något riskfyllt. I sitt blogginlägg så klargör OpenAI också att Astra inte hade något att göra med det intrånget hos AI-plattformen Hugging Face och säger att det var en annan modell. L&auml;s vidare och kommentera: https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/ L&auml;s mer om OpenAI , Astra , Hugging Face , it-attacker , säkerhetshål , AI",
+      "link": "https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786273200000
+    },
+    {
+      "title": "Elvan i hemmamötet med Häcken",
+      "description": "Så här ställer Hammarby upp i söndagens hemmamatch, som sparkas igång klockan 14.00 på 3Arena. Mötet visas i TV4 Play för dig som inte är på plats.1. Warner Hahn (k)2. Hampus Skoglund6. Ibrahima Fofan",
+      "link": "https://www.hammarbyfotboll.se/nyheter/elvan-i-hemmamotet-med-hacken",
+      "guid": "7c140f01-1cc4-4694-84c0-b9c436a19d4e",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/40c1a75ab2792febb3f317dba2f3cf6e20034ad2-1787x1191.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786273140000
+    },
+    {
+      "title": "Avliden man hittades i Pargas under veckoslutet",
+      "description": "En avliden man har hittats i Pargas. Det kan vara mannen som anmälts som försvunnen.",
+      "link": "https://yle.fi/a/7-10103289?origin=rss",
+      "guid": "https://yle.fi/a/7-10103289",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786273063000
+    },
+    {
+      "title": "Rättsvetare kritisk till polisens mopedjakt i Tusby: ”Situationen kunde ha fått ett ödesdigert slut”",
+      "description": "Docent Henri Rikander kritiserar att polisen prejade en mopedförare i Tusby: ”Jag kan inte komma på ett brott som skulle göra polisens agerande försvarbart”, säger han.",
+      "link": "https://yle.fi/a/7-10103287?origin=rss",
+      "guid": "https://yle.fi/a/7-10103287",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786272576000
+    },
+    {
+      "title": "Stoppas för fortkörning – skyller på sin Tesla",
+      "description": "Föraren vägrar ge sig • ”Jag körde inte”",
+      "link": "https://www.expressen.se/tv/nyheter/stoppas-for-fortkorning-skyller-pa-bilen-jag-korde-inte",
+      "guid": "https://www.expressen.se/tv/nyheter/stoppas-for-fortkorning-skyller-pa-bilen-jag-korde-inte",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786272434000
+    },
+    {
+      "title": "Polisen övervakar skolstartstrafiken i hela landet",
+      "description": "Trafik i tätorter nära skolor kommer att övervakas i två veckor framöver. Polisen uppmanar förare att vara särskilt uppmärksamma då barn rör sig i trafiken.",
+      "link": "https://yle.fi/a/7-10103286?origin=rss",
+      "guid": "https://yle.fi/a/7-10103286",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786271465000
     },
     {
       "title": "Tog löpet med resväska",
@@ -21,7 +121,57 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786267042000
+      "timestamp": 1786270985000
+    },
+    {
+      "title": "Föreningen Hope samlar in ryggsäckar inför skolstarten: ”Situationen för barnfamiljer blir bara svårare”",
+      "description": "Allt fler barnfamiljer söker hjälp hos välgörenhetsföreningen Hope i Åbo. Även behovet av ryggsäckar inför skolstarten väntas öka.",
+      "link": "https://yle.fi/a/7-10103222?origin=rss",
+      "guid": "https://yle.fi/a/7-10103222",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786270039000
+    },
+    {
+      "title": "Kristerssons vädjan till S: ”Rösta med oss”",
+      "description": "Snart ska riksdagen rösta om slopandet av den så kallade mängdrabatten. Nu vänder sig Ulf Kristersson direkt till S-ledaren Magdalena Andersson. – Det är viktigt att vi håller i och håller ihop, säger statsministern. Andersson själv tycker statsministern verkar ”lite desperat”.",
+      "link": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
+      "guid": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786270034000
+    },
+    {
+      "title": "Hur Villeneuve gick från okänd mekaniker till legendarisk ikon",
+      "description": "Trailern för filmen om Gilles Villeneuves liv Här har vi trailern för filmen Villeneuve: Rise of a Champion som följer en ung Gilles Villeneuve som på 70-talet valde att satsa precis allt på ett kort för att slå sig in i racingvärlden. Till skillnad från många andra förare kom Villeneuve från relativt enkla förhållanden i Kanada och saknade de ekonomiska musklerna som krävs i branschen. Men tack vare en galen passion för bilar och en sällsynt råtalang utmanade han oddsen att gå från en okänd mekaniker i Kanada till att bli en av sportens största ikoner. Bonus-Villeneuve nedan. L&auml;s vidare och kommentera: https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/ L&auml;s mer om Gilles Villeneuve , Villeneuve , Kanada , Racing , Formel 1 , motorsport , Film",
+      "link": "https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786269600000
+    },
+    {
+      "title": "EU trappar upp rymdsatsning: Vill minska beroendet av Elon Musk och USA",
+      "description": "Ett nytt satellitnät ska säkra uppkoppling i Europas mest avlägsna områden.",
+      "link": "https://yle.fi/a/7-10103285?origin=rss",
+      "guid": "https://yle.fi/a/7-10103285",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786269595000
+    },
+    {
+      "title": "Nya problemet: Felkissande golfare",
+      "description": "Det finns stora och små problem. Du får själv välja i vilken kategori du vill placera ämnet ”felkissande golfare”. Det är från Örebro nödropet (obs ej ordvits) kommer om felaktigt kissande golfare. Närmare bestämt hör de hemma på banan vid Gustavsviks golfklubb och väljer att kissa i det öppna i stället för att ta stegen […]",
+      "link": "https://www.dagensps.se/varlden/nya-problemet-felkissande-golfare/",
+      "guid": "https://www.dagensps.se/?p=1662614",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl3g-pcesv7ti-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786267533000
     },
     {
       "title": "Ser du igelkottar? Ring!",
@@ -35,7 +185,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Allvarligt skadad man hittad nära sjukhuset i Uddevalla",
-      "description": "En man i kostym har hittats medvetslös i närheten av sjukhuset i Uddevalla. Han vårdas nu med allvarliga skador – och polisen söker svar. – Vi har ingen uppfattning om vad som har hänt, säger presstalespersonen Christian Brattgård till GP .",
+      "description": "En man i kostym har hittats medvetslös i närheten av sjukhuset i Uddevalla. Han vårdas nu med allvarliga skador – och polisen söker svar. – Det är oklart vad som har hänt, platsen är avspärrad för undersökning, säger presstalespersonen Christian Brattgård.",
       "link": "https://www.expressen.se/nyheter/sverige/allvarligt-skadad-man-hittad-nara-sjukhuset-i-uddevalla/",
       "guid": "https://www.expressen.se/nyheter/sverige/allvarligt-skadad-man-hittad-nara-sjukhuset-i-uddevalla/",
       "image": "",
@@ -114,8 +264,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786263493000
     },
     {
-      "title": "Det här vet vi nu om mopedjakten i Tusby",
-      "description": "En polisbil trängde en mopedist av vägen på lördagen. Mopedisten spelade in situationen och delade videon på Youtube.",
+      "title": "Både polisen och föraren under utredning efter mopedjakten i Tusby",
+      "description": "En polisbil trängde en mopedist av vägen på lördagen. Både mopedistens och polisens agerande utreds.",
       "link": "https://yle.fi/a/7-10103283?origin=rss",
       "guid": "https://yle.fi/a/7-10103283",
       "image": "",
@@ -504,16 +654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786226436000
     },
     {
-      "title": "Barn dött efter olycka med traktor Svenljunga",
-      "description": "Ett barn har dött efter en olycka med en traktor på en gård i Svenljunga kommun. Polisen utreder vårdslöshet i trafik och vållande till annans död. – Av allt att döma så är det ju en tragisk olycka, säger Adam Isaksson Samara, vid polisen.",
-      "link": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
-      "guid": "https://www.expressen.se/nyheter/sverige/barn-dott-efter-olycka-med-traktor-svenljunga/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786225478000
-    },
-    {
       "title": "Tusentals flyr lågorna",
       "description": "Jättebrand i Kanada",
       "link": "https://www.expressen.se/tv/nyheter/varlden/jattebrand-rasar-i-kanada",
@@ -522,16 +662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786225454000
-    },
-    {
-      "title": "Expert: Kamala Harris trolig presidentkandidat",
-      "description": "Kamala Harris har inte stängt dörren för presidentvalet 2028. USA-experten Jan Hallenberg ser henne som en trolig kandidat till att försöka ta över makten från nuvarande president Donald Trump.",
-      "link": "https://www.expressen.se/nyheter/varlden/expert-kamala-harris-trolig-presidentkandidat/",
-      "guid": "https://www.expressen.se/nyheter/varlden/expert-kamala-harris-trolig-presidentkandidat/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786221791000
     },
     {
       "title": "Butiker stänger, fartkameror och Rysslands bombplan",
@@ -554,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786221037000
     },
     {
-      "title": "Tusentals samlades – för att be till Jesus",
-      "description": "”Anden är närvarande på riktigt”",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/tusentals-samlades-for-att-be-till-jesus",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/tusentals-samlades-for-att-be-till-jesus",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786220006000
-    },
-    {
       "title": "Från onsdag: Nya EU-regler för förpackningar",
       "description": "Från onsdag börjar EU nya förordning för förpackningar att tillämpas. De kommande åren väntar nya märkningar, förbud och regler. Den nya förordningen, PPWR, ersätter det tidigare EU-direktivet och gäller direkt i samtliga medlemsländer från den 12 augusti. Högre krav på företagen Däremot kommer inte butikshyllorna att plötsligt se annorlunda ut på onsdag, reglernas genomförande sker […]",
       "link": "https://www.dagensps.se/foretag/fran-onsdag-nya-eu-regler-for-forpackningar/",
@@ -584,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786218765000
     },
     {
-      "title": "Barn dött efter olycka med traktor",
-      "description": "Inträffade på en gård",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d7dcc086-e621-40aa-95d2-a39fb1899920",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d7dcc086-e621-40aa-95d2-a39fb1899920",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786217485000
-    },
-    {
       "title": "Analyser av 5 000 år gammalt fynd ger överraskande svar: Så förvandlades vargen till hund",
       "description": "När arkeologer år 1888 utforskade en grotta på Stora Karlsö utanför Gotland blev de förvånade över att hitta benrester som de inte kunde artbestämma. Det har nu forskare vid University of East Anglia och Francis Crick Institute i London gjort. De kallar resultatet ”väldigt överraskande”.",
       "link": "https://illvet.se/naturen/analyser-av-5-000-ar-gammalt-fynd-ger-overraskande-svar-sa-forvandlades-vargen-till-hund",
@@ -602,16 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786217449000
-    },
-    {
-      "title": "Video: Polisen trängde flyende moped av vägen",
-      "description": "Polisen säger till Yle att mopedisten inte svävar i livsfara.",
-      "link": "https://yle.fi/a/7-10103279?origin=rss",
-      "guid": "https://yle.fi/a/7-10103279",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786216936000
     },
     {
       "title": "Ryssarnas största kärlek: Vodkaruset har varat i 500 år",
@@ -624,26 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786215655000
     },
     {
-      "title": "VPS inkasserade derbyseger över FF Jaro – vann med 3–1 i Jakobstad",
-      "description": "I herrarnas fotbollsliga drog VPS det längre strået i derbymatchen mot FF Jaro. Vasalaget vann med 3–1.",
-      "link": "https://yle.fi/a/7-10103278?origin=rss",
-      "guid": "https://yle.fi/a/7-10103278",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786213022000
-    },
-    {
-      "title": "Säsongens första bortaseger för Ekenäs IF: ”Det här var viktiga tre poäng”",
-      "description": "Thadee Kaleba blev matchhjälte för EIF i Åggelby i Helsingfors. Han nickade in matchens enda mål som gav Ekenäslaget segern.",
-      "link": "https://yle.fi/a/7-10102988?origin=rss",
-      "guid": "https://yle.fi/a/7-10102988",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786211387000
-    },
-    {
       "title": "Folkfester: Planket och Nytorgsfesten snart tillbaka",
       "description": "Nytorgsfesten och Planket närmar sig.",
       "link": "https://www.mitti.se/nyheter/folkfester-planket-och-nytorgsfesten-snart-tillbaka-6.3.379167.65fbf0d77d",
@@ -652,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786208400000
-    },
-    {
-      "title": "Åland United nollade Ilves på hemmaplan – befäster andra platsen i tabellen",
-      "description": "I damernas nationella liga i fotboll kammade HPS och Åland United hem full pott under lördagen.",
-      "link": "https://yle.fi/a/7-10103276?origin=rss",
-      "guid": "https://yle.fi/a/7-10103276",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786208200000
     },
     {
       "title": "Sveriges första bilbomb exploderade på Pipersgatan",
@@ -744,16 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786198142000
     },
     {
-      "title": "Eppu Normaali spelade för sista gången – vad har bandet betytt för dig?",
-      "description": "Efter 50 år och 1,5 miljoner sålda skivor tog Eppu Normaali avsked av sina fans med en sista livekonsert hemma i Tammerfors på lördagskvällen.",
-      "link": "https://yle.fi/a/7-10103263?origin=rss",
-      "guid": "https://yle.fi/a/7-10103263",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786198063000
-    },
-    {
       "title": "Kvinnopissoarer testas på festival",
       "description": "För första gången i Sverige En fördel med att vara man är att det ofta är betydligt enklare att gå på toa på många platser runtom i världen. För det mesta är det ju bara till att svepa fram den, kissa lite, skaka lite och sen är det bara att fortsätta leva. Den processen brukar ju inte ta så lång tid vilket innebär att herrtoaletterna sällan har samma milslånga köer som damtoan. Under årets Malmöfestival, som drog i gång under gårdagen, testas nu en lösning som ska jämna ut oddsen. För första gången i Sverige introduceras nämligen pissoarer speciellt framtagna för kvinnor. Förhoppningen är att detta ska få upp tempot för toabesöken så fler kan kissa utan att behöva stå kissnödig allt för länge. Via länken nedan kan man se en video som visar hur dessa toaletter är tänkta att fungera. L&auml;s vidare och kommentera: https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/ L&auml;s mer om pissoarer , toaletter , Malmöfestivalen , kvinnor , Sverige , jämställdhet , Malmöfestival",
       "link": "https://tjock.se/kroppen/kvinnopissoarer-testas-pa-festival/494829/?utm_source=rss&utm_medium=feed",
@@ -764,16 +824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786197600000
     },
     {
-      "title": "Lionel Messis pappa är död",
-      "description": "Lionel Messis pappa och agent, Jorge Messi har dött. Han somnade in efter en tids sjukdom.",
-      "link": "https://yle.fi/a/7-10103275?origin=rss",
-      "guid": "https://yle.fi/a/7-10103275",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786197461000
-    },
-    {
       "title": "Scientists reveal how much exercise you really need to protect your heart",
       "description": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610 minutes a week—nearly 9 to 10 hours of brisk walking, running, cycling, or similar activity.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
@@ -782,16 +832,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786196942000
-    },
-    {
-      "title": "Ryska gymnaster stoppas från EM – tilldelas inte visum av värdlandet",
-      "description": "Nio personer ur den ryska truppen tilldelas inte visum till EM i artistisk gymnastik.",
-      "link": "https://yle.fi/a/7-10103274?origin=rss",
-      "guid": "https://yle.fi/a/7-10103274",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786196934000
     },
     {
       "title": "HTV: Henrik inför söndagens hemmamatch mot Häcken",
@@ -1514,16 +1554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786106310000
     },
     {
-      "title": "Nya Bugattin hyllar Type 57SC Atlantic",
-      "description": "Low but not slow Klart det kan tryckas ut ytterligare en specialare från Bugatti. Här har vi Destrier som får godis från den extrema banracern Bolide och som ska vara en hyllning till klassikern Type 57SC Atlantic . Under skalet på denna hittar vi samma kolfibermonocoque som återfinns i Bolide och sen har man klätt allt i ett unikt skal, som enligt mig är riktigt lyckat. Här finns lite av allt från Bugatti men ändå något eget, och eftersom bilen bara är en meter hög så ser den riktigt rå ut på vägen där den breder ut sig. Insidan är även den helt unik och ger nästan en cockpit-känsla. Stolarna är en del av monocoquen och ratten känns som något som bara finns i framtiden. Bakom cockpiten hittar vi den mäktiga W16-spisen. Den är på 8,0 liter, har fyra turbo och ger här 1600 hästar. 0-100 km/h sägs gå på 2,2 sekunder vilket är samma tid man anger för Bolide. Vad den förmodligen förväntansfulla kunden har fått betala för sitt speciella åk framgår inte. Premiärvisningen äger rum idag på Monterey Car Week. L&auml;s vidare och kommentera: https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/ L&auml;s mer om Destrier , Type 57SC Atlantic , superbil , hyperbil , W16 , specialare , unik , Bolide",
-      "link": "https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nya-bugattin-hyllar-type-57sc-atlantic/494804/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786105800000
-    },
-    {
       "title": "UCLA scientists discover how to guide heat like light at room temperature",
       "description": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
@@ -1532,26 +1562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786105368000
-    },
-    {
-      "title": "Nu kan du streama Netflix i 4K via Google Chrome",
-      "description": "Äntligen! Nu kan du äntligen titta på Netflix i 4K-upplösning direkt i Google Chrome. Tidigare har tjänsten hänvisat till Microsoft Edge (eller Safari på Mac) för att komma runt streamingtjänstens upplösningsspärr på 1080p. Uppdateringen gäller från och med Chrome version 117, men har en begränsning: 4K-stödet fungerar i nuläget enbart om du använder Windows 11. Sitter du på macOS är det alltså fortfarande Safari som gäller för 4K, och på Linux är kvaliteten i Chrome fortsatt strypt till ynka 720p. Webbläsarversionen saknar fortfarande stöd för mer avancerade bild- och ljudformat som Dolby Vision, HDR10+ och Dolby Atmos. L&auml;s vidare och kommentera: https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/ L&auml;s mer om Google Chrome , Windows 11 , 4K , Dolby Vision , Safari , Microsoft Edge",
-      "link": "https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/nu-kan-du-streama-netflix-i-4k-via-google-chrome/494821/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786104600000
-    },
-    {
-      "title": "Japan ryter ifrån mot USA:s användning av Nintendo-memes",
-      "description": "Kräver ett stopp för statens användning av japanska karaktärer Den japanska regeringen har vid upprepade tillfällen uppmanat USA:s administration att sluta upp med att använda kända japanska karaktärer i sina sociala medier. Figurer från bland annat Pokémon, Naruto och Mario har dykt upp i allt från politiska inlägg till krigspropaganda. Det japanska utrikesdepartementet ryter nu till lite hårdare och säger att det är direkt olämpligt för statliga institutioner att använda upphovsrättsskyddat material utan tillstånd från rättighetsinnehavarna. De oroar sig också över att de folkkära varumärkenas rykte kan skadas när de kopplas samman med kontroversiella politiska agendor eller militära budskap. Bland annat har den amerikanska regeringen publicerat videor där klipp från Nintendo-spel varvats med bilder på luftanfall, samt montage där Pokémon-karaktärer används i samband med insatser från gränspolisen. Senast i juni väckte en AI-genererad video, där presidenten framställdes som ninjan Naruto, stor irritation från japanskt håll. Från amerikanskt håll har man hittills försvarat strategin med att använda memes då företrädare för administrationen menar att memes är ett effektivt och modernt sätt att nå ut med sitt budskap till allmänheten. Japan har dock klargjort via diplomatiska kanaler att respekt för immaterialrätten måste gå före viral kommunikation. L&auml;s vidare och kommentera: https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/ L&auml;s mer om Pokémon , Naruto , Nintendo , USA , Mario , upphovsrätt",
-      "link": "https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/japan-ryter-ifran-mot-usas-anvandning-av-nintendo-memes/494786/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786104000000
     },
     {
       "title": "Förseningar efter stopp i pendeltågstrafiken",
@@ -1862,16 +1872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786053600000
-    },
-    {
-      "title": "HTV: \"Tess\" och Warner efter krysset mot Raków",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-tess-och-warner-efter-krysset-mot-rakow",
-      "guid": "8d2129b7-a446-48da-9e46-fe86950989e2",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/7ff15a21649f31247c203e9ea2e43c58e3519aaa-2941x1961.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1786050963000
     },
     {
       "title": "Garb: Carbon Copy",
