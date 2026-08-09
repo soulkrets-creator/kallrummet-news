@@ -1,11 +1,201 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-09T04:09:27.978Z",
+  "updatedAt": "2026-08-09T06:36:52.439Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Pavlovakrans med choklad och björnbär",
+      "description": "En pavlovakrans med swirlad mörk choklad i marängen. Fylld med en len, fluffig chokladgrädde och en sötsyrlig björnbärskompott.",
+      "link": "https://alltommat.expressen.se/recept/pavlovakrans-med-choklad-och-bjornbar/",
+      "guid": "https://alltommat.expressen.se/recept/pavlovakrans-med-choklad-och-bjornbar/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1786257060000
+    },
+    {
+      "title": "Matchdag: Avspark 14.00 hemma mot Häcken",
+      "description": "I eftermiddag är det dags för allsvensk hemmamatch igen när Bajen ställs mot Häcken i omgång 16 av Allsvenskan. Över 27 000 biljetter är sålda, matchen sparkas igång 14.00 och här hittar du samlad inf",
+      "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-avspark-14-00-hemma-mot-haecken",
+      "guid": "87dc9bda-37ae-4d4f-9697-27b6bca1b439",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/48c79cc380cbb2ef1aa5eb39c8cd1a226dc639d1-1954x1303.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786256365000
+    },
+    {
+      "title": "Meteorologen bekräftar: Sommaren i Österbotten svalare än på länge",
+      "description": "Moln och svalare temperaturer har hittills präglat sommaren i Österbotten. Antalet dagar med 30 grader går att räkna på en hand.",
+      "link": "https://yle.fi/a/7-10103164?origin=rss",
+      "guid": "https://yle.fi/a/7-10103164",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786256281000
+    },
+    {
+      "title": "Glöm pensionen – nu sparar vi till utbrändhet: Så mycket behövs",
+      "description": "Det finns en sparpott för allt. Nu också för dagen då jobbet inte längre går att stå ut med. Möt utbrändhetsfonden. Antalet stressrelaterade sjukskrivningar ökade med 25 procent mellan 2019 och 2024. En ny högstanivå. Uppskattningsvis drabbas runt 20 000 personer av den medicinska diagnosen utmattningssyndrom – eller ”utbrändhet” – varje år. Och det kan […]",
+      "link": "https://www.dagensps.se/privatekonomi/glom-pensionen-nu-sparar-vi-till-utbrandhet-sa-mycket-behovs/",
+      "guid": "https://www.dagensps.se/?p=1662540",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-cottonbro-6636106.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786255959000
+    },
+    {
+      "title": "Tävlingsryttaren Axel Lindberg måste resa konstant – jättestor hästbil möjliggör internationell karriär",
+      "description": "Sibboryttaren Axel Lindberg har tre hästar på toppnivå. Nästa vecka deltar han i VM i fälttävlan i Aachen.",
+      "link": "https://yle.fi/a/7-10103096?origin=rss",
+      "guid": "https://yle.fi/a/7-10103096",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786255214000
+    },
+    {
+      "title": "Fredskronk åker buss hela vägen från Arlanda till Berlin",
+      "description": "Den som rullar hela sträckan utan byte Om man vill åka från Arlanda till Berlin så känns nog flyget som det enda rimliga alternativet. Men det här med flyg är ju inget som YouTubern Fredskronk håller på med så därför tog han FlixBussen istället. Denna buss, som går en gång om dagen, kostar från 860 kronor och tar ungefär 19 timmar. Som referens så hade det tagit cirka 1,5 timme att flyga och kostat någon hundralapp mindre. Så om du vill kolla in Fredskronks resa så kan du göra det i klippet ovan. L&auml;s vidare och kommentera: https://feber.se/fordon/fredskronk-aker-buss-hela-vagen-fran-arlanda-till-berlin/494835/ L&auml;s mer om Arlanda , Berlin , Fredskronk , FlixBus , YouTube",
+      "link": "https://feber.se/fordon/fredskronk-aker-buss-hela-vagen-fran-arlanda-till-berlin/494835/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/fredskronk-aker-buss-hela-vagen-fran-arlanda-till-berlin/494835/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786255200000
+    },
+    {
+      "title": "Här är lägenheterna i bostadskön som ingen vill ha",
+      "description": "Många hyresrätter på Bostadsförmedlingen i Stockholm förmedlas inte.",
+      "link": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "guid": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "image": "https://www.mitti.se/image-3.374425.297227.20260809063047.1.c05fc3ed69?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786255200000
+    },
+    {
+      "title": "Vitteludd i Houtskär lockar med en varm och grund badstrand",
+      "description": "På badstranden i Vitteludd är det sällan cyanobakterier och stranden passar bra för barn, tycker strandens besökare.",
+      "link": "https://yle.fi/a/7-10102934?origin=rss",
+      "guid": "https://yle.fi/a/7-10102934",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786254058000
+    },
+    {
+      "title": "Storbråk på McDonald's",
+      "description": "Storbråk på McDonald's – och Max",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d620f93-87e9-4934-ade9-ac5c0f4afbaf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d620f93-87e9-4934-ade9-ac5c0f4afbaf",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786253989000
+    },
+    {
+      "title": "Vill stanna i riksdagen",
+      "description": "Tidigare partiledarens besked",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b0d034a8-b98c-4b27-885c-7e5771cda65f",
+      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b0d034a8-b98c-4b27-885c-7e5771cda65f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786253699000
+    },
+    {
+      "title": "Nattjästa lingonfrallor",
+      "description": "Lättbakade frallor som får jäsa över natten och snabbt bakas ut på morgonen lagom till frukost.",
+      "link": "https://alltommat.expressen.se/recept/nattjasta-lingonfrallor/",
+      "guid": "https://alltommat.expressen.se/recept/nattjasta-lingonfrallor/",
+      "image": "",
+      "source": "Allt om Mat",
+      "sourceKey": "https://feeds.expressen.se/alltommat/",
+      "timestamp": 1786253640000
+    },
+    {
+      "title": "Kanada utlyser nödläge på grund av snabbt växande skogsbränder",
+      "description": "Över 20 000 människor har evakuerats i den kanadensiska provinsen British Columbia.",
+      "link": "https://yle.fi/a/7-10103281?origin=rss",
+      "guid": "https://yle.fi/a/7-10103281",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786253214000
+    },
+    {
+      "title": "Heliövaara och Patten vidare till kvartsfinal i Montreal",
+      "description": "Dubbelspelarna Harri Heliövaara och Henry Patten besegrade nordiskt motstånd i den andra omgången.",
+      "link": "https://yle.fi/a/7-10103282?origin=rss",
+      "guid": "https://yle.fi/a/7-10103282",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786252544000
+    },
+    {
+      "title": "Nattliga attacker mot ryska staden Belgorod",
+      "description": "Ukrainska attacker • Explosioner och brinnande hus",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/nattliga-attacker-mot-ryska-staden-belgorod",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/nattliga-attacker-mot-ryska-staden-belgorod",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786252501000
+    },
+    {
+      "title": "”Jag är lycklig med min sambo, men kär i en annan också! Vad ska jag göra?”",
+      "description": "Är det ett tecken på att något är fel i parrelationen om ens hjärta börjar göra kullerbyttor för någon helt annan? Vad tycker du?",
+      "link": "https://yle.fi/a/7-10103159?origin=rss",
+      "guid": "https://yle.fi/a/7-10103159",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786251734000
+    },
+    {
+      "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
+      "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
+      "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
+      "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
+      "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Dömdes för grov människoexploatering – överklagar",
+      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
+      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Lättare hitta parkering vid Mälarhöjdsbadet efter avgift",
+      "description": "Efter sommarens p-avgift vid Mälarhöjdsbadet och Sätrastrandsbadet upplever badgäster färre felparkeringar och lättare att hitta plats. Syftet är bättre framkomlighet för blåljus och mindre kaos.",
+      "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
+      "guid": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
+      "image": "https://www.mitti.se/image-3.377721.301931.20260809053045.1.47c022940e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Zelenskyjs varning",
+      "description": "50 000 nordkoreaner på väg",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c2921fb-4c8b-4ddb-ad24-2a0cb342e899",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c2921fb-4c8b-4ddb-ad24-2a0cb342e899",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786250532000
+    },
+    {
       "title": "Sköt flera skott genom dörr – stor insats i Trångsund",
-      "description": "Under natten till söndag sköts flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningspersonen.",
+      "description": "Under natten till söndag sköts flera skott genom en lägenhetsdörr i södra Stockholm. Flera personer var hemma – men ingen skadades. Nu pågår en stor insats i jakten på den misstänkta gärningsmannen.",
       "link": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
       "guid": "https://www.expressen.se/nyheter/sverige/skot-flera-skott-genom-dorr-stor-insats-i-stockholm/",
       "image": "",
@@ -14,8 +204,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786246748000
     },
     {
-      "title": "Grill i lågor",
-      "description": "Brand i grillrestaurang",
+      "title": "Gatukök brinner",
+      "description": "Öppna lågor",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e35b8b2-c5ce-4e3f-9cae-e8f9e082c5d7",
       "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e35b8b2-c5ce-4e3f-9cae-e8f9e082c5d7",
       "image": "",
@@ -25,23 +215,13 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Tiktok väckte läslusten hos Sara Törnroos som nu läser 50 böcker per år",
-      "description": "Sara läste samma böcker om och om igen, tills hon hittade booktok. Det har öppnat dörren till nya genrer, engelska böcker och en känsla av gemenskap.",
+      "description": "Sara Törnroos läste samma böcker om och om igen, tills hon hittade booktok. Det har öppnat dörren till nya genrer, engelska böcker och en känsla av gemenskap.",
       "link": "https://yle.fi/a/7-10102910?origin=rss",
       "guid": "https://yle.fi/a/7-10102910",
       "image": "",
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786244954000
-    },
-    {
-      "title": "Zelenskyjs varning",
-      "description": "Upp till 50 000 nordkoreaner på väg till Ryssland",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c2921fb-4c8b-4ddb-ad24-2a0cb342e899",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1c2921fb-4c8b-4ddb-ad24-2a0cb342e899",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786244758000
     },
     {
       "title": "Laddplats kan göra bostaden mer attraktiv men alla vill inte betala",
@@ -304,26 +484,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786206600000
     },
     {
-      "title": "Färja i krock med segelbåt",
-      "description": "Räddningstjänsten på plats",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8019a3a1-1b89-494c-a5a8-c71a4670b6e2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8019a3a1-1b89-494c-a5a8-c71a4670b6e2",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786206101000
-    },
-    {
-      "title": "Kraftig brand på ö",
-      "description": "”Är stort, snabb spridning”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=548ada4f-0720-4ab2-ba8c-9b3e2ea6c42f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=548ada4f-0720-4ab2-ba8c-9b3e2ea6c42f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786205718000
-    },
-    {
       "title": "Polisen grep ryska turister i tält: ”Säkerhetsrisker”",
       "description": "Svensk polis har gripit två ryska turister som tältade utanför Gävle. Paret Tatjana och Semjon betraktas som säkerhetsrisker, enligt ryska antikrigsaktivister. De är aktiva motståndare till Ukrainakriget, men riskerar att utvisas till Ryssland, säger aktivisterna.",
       "link": "https://www.expressen.se/nyheter/polisen-grep-ryska-turister-i-talt-sakerhetsrisker/",
@@ -384,16 +544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786201935000
     },
     {
-      "title": "Stor påverkan på E4 efter olycka",
-      "description": "A-traktor påkörd – vägen avstängd",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a4f3f37-f9fa-418f-9281-2e760d0b776b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a4f3f37-f9fa-418f-9281-2e760d0b776b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786201885000
-    },
-    {
       "title": "Använder du hjälm när du kör elsparkcykel?",
       "description": "Helgens fråga Ny forskning visar att elsparkcyklar orsakar betydligt fler traumatiska hjärnskador än både vanliga cyklar och motorcyklar, huvudsakligen på grund av att nästan ingen använder hjälm. Kombinationen av låga skärmar, små hjul och en tendens att rulla hem i nattmörkret efter ett par öl gör fordonet till en nästan daglig standardpunkt i akutmottagningens statistik. Transportstyrelsen håller på att reda ut reglerna för fordonen så folk ska sluta upp och skada sig så himla mycket med dem. Men fram tills det händer undrar vi ju hur det ser ut med säkerheten bland er kära läsare. L&auml;s vidare och kommentera: https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/ L&auml;s mer om elsparkcyklar , Transportstyrelsen , hjärnskador , trafiksäkerhet , cykelolyckor",
       "link": "https://feber.se/anvander-du-hjalm-nar-du-kor-elsparkcykel/494831/?utm_source=rss&utm_medium=feed",
@@ -434,7 +584,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786198142000
     },
     {
-      "title": "Eppu Normaali lägger lapp på luckan – vad har bandet betytt för dig?",
+      "title": "Eppu Normaali spelade för sista gången – vad har bandet betytt för dig?",
       "description": "Efter 50 år och 1,5 miljoner sålda skivor tog Eppu Normaali avsked av sina fans med en sista livekonsert hemma i Tammerfors på lördagskvällen.",
       "link": "https://yle.fi/a/7-10103263?origin=rss",
       "guid": "https://yle.fi/a/7-10103263",
@@ -664,26 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786188201000
     },
     {
-      "title": "Fem filmer att ha koll på inför hösten",
-      "description": "Dune, Hunger Games och Avengers nämns ofta som slutårets stora filmer, men mycket intressant visas redan i höst. Här en handfull jag sett – eller ser fram emot.",
-      "link": "https://yle.fi/a/7-10103014?origin=rss",
-      "guid": "https://yle.fi/a/7-10103014",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786187528000
-    },
-    {
-      "title": "Mette Baas missar friidrotts-EM – baklårsskada sätter stopp för resan till Birmingham",
-      "description": "Friidrottaren Matte Baas har skadat sig och kan inte delta i EM-tävlingarna i Birmingham. 25-åringens säsong är därmed över.",
-      "link": "https://yle.fi/a/7-10103271?origin=rss",
-      "guid": "https://yle.fi/a/7-10103271",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786187306000
-    },
-    {
       "title": "Meta tjänade pengar på övergreppsannonser",
       "description": "Vidriga AI-skapade annonser som slank igenom filtren Wired rapporterar om en ny granskning som visar att Meta har godkänt och tjänat pengar på annonser med AI-genererat material som föreställer sexuella övergrepp på barn. I artikeln kan man läsa om att organisationen Tech Transparency Project (TTP) avslöjat över 50 annonser som lyckats ta sig förbi Metas säkerhetsfilter. Det handlar alltså inte om vanliga inlägg från användare, utan om betalda annonser som visats för tusentals personer i bland annat Sverige, USA och Storbritannien. Materialet som upptäckts är minst sagt vidrigt där annonserna i vissa fall använt oskyldiga bilder på barn som utgångspunkt. När användaren sedan klickat på annonsen har bilden i stället lett till AI-genererade videoklipp som visar sexuella handlingar. Andra annonser har gjort reklam för så kallade nudify-appar, verktyg som med hjälp av AI kan skapa nakenbilder av personer som egentligen har kläder på sig. Men det kanske mest anmärkningsvärda här är ju att annonserna har passerat Metas egna automatiserade kontroller. Företaget har ju sagt att de har nolltolerans mot den här typen av material. Trots det har annonserna kunnat publiceras och Meta har dessutom tjänat pengar på dem. Meta försvarar sig med att de arbetar aktivt med att stoppa sådana här annonser och att de flesta av annonserna hade en begränsad räckvidd innan de togs bort. Företaget försöker också skylla ifrån sig lite genom att säga att utvecklingen av tekniken bakom AI-genererade bilder och videor går snabbare än kontrollsystem som ska stoppa dem. L&auml;s vidare och kommentera: https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/ L&auml;s mer om Meta , Tech Transparency Project , nudify-appar , AI , Wired , annonsering",
       "link": "https://feber.se/internet/meta-tjanade-pengar-pa-overgreppsannonser/494828/?utm_source=rss&utm_medium=feed",
@@ -704,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786186523000
     },
     {
-      "title": "Vittnen hjälpte skadade när turistbuss välte i Norge",
-      "description": "Enligt medier är det en tysk turistbuss som vält omkull.",
-      "link": "https://yle.fi/a/7-10103269?origin=rss",
-      "guid": "https://yle.fi/a/7-10103269",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786185051000
-    },
-    {
       "title": "Kommunägt bolag polisanmält igen för miljöbrott",
       "description": "Ett kommunägt energibolag har polisanmält för miljöbrott. ”En olycklig händelse”, är kommentaren från bolaget. I slutet av juli lämnade det kommunägda bolaget Övik energi in en anmälan om en driftstörning gällande sin anläggning vid Hörneborgsverket till länsstyrelsen i Västernorrland. Orsaken var att bolaget sett att det under juni funnits för höga halter av koppar när […]",
       "link": "https://www.dagensps.se/foretag/kommunagt-bolag-polisanmalt-igen-for-miljobrott/",
@@ -724,16 +844,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786183938000
     },
     {
-      "title": "Jaro rustar upp inför ligahösten – Adri Sabriye ansluter från allsvenskan",
-      "description": "FF Jaro har förstärkt laget med yttern Adbi Sabriye. Han lånas ut till Jakobstad från allsvenska Kalmar.",
-      "link": "https://yle.fi/a/7-10103268?origin=rss",
-      "guid": "https://yle.fi/a/7-10103268",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786183541000
-    },
-    {
       "title": "Några trailers för filmer och tv-serier",
       "description": "Lite gott och blandat I veckan dök det upp ett gäng nya trailers för filmer och tv-serier. För att inte spamma sajten med alltför mycket sådant dyker ett gäng av dem upp här i samlad form istället. High Value Target: The Hunt for Saddam Först ut är trailern för den kommande serien High Value Target: The Hunt for Saddam med Joel Kinnaman i huvudrollen. Serien följer USA:s invasion av Irak och jakten på Saddam Hussein. Serien bygger på CIA-analytikern John Nixons memoarer och har premiär i USA den 13 september. Lion Den som vill ha lite mer naturfilm i sitt liv kan ju se fram emot Lion från Jon Favreau och BBC Studios. Denna dokumentär sträcker sig över fyra år och följer lejonungen Kio, från utsatt unge till en mäktig kung. Lion ska kombinera klassiskt naturfilmsfoto med ett filmiskt berättande, vilket då ska göra allt lite extra spännande för tittarna. Fall 2: Deadpoint Här är trailern för Fall 2: Deadpoint vilket då är uppföljaren till filmen Fall från 2022. I uppföljaren möter vi Jax, som försöker hedra sin syster Hunters minne genom att genomföra en riskfylld klättring på Mount Kwan tillsammans med en av systerns närmaste vänner. Inte helt oväntat går det ju lite sisådär bra. L&auml;s vidare och kommentera: https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/ L&auml;s mer om Joel Kinnaman , Jon Favreau , Fall 2: Deadpoint , High Value Target: The Hunt for Saddam",
       "link": "https://feber.se/film/nagra-trailers-for-filmer-och-tv-serier/494827/?utm_source=rss&utm_medium=feed",
@@ -742,16 +852,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786183200000
-    },
-    {
-      "title": "Brand på kraftverket i Vasa – räddningsverket varnar för röklukt",
-      "description": "En mindre brand har brutit ut i en silo på Vasklot kraftverk i Vasa under lördagen.",
-      "link": "https://yle.fi/a/7-10103267?origin=rss",
-      "guid": "https://yle.fi/a/7-10103267",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786181635000
     },
     {
       "title": "Forskare: ”Humlor har ett inre liv”",
@@ -794,16 +894,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786179600000
     },
     {
-      "title": "Nya detaljer om Joe Bidens sjukdom: Cancern har spridit sig",
-      "description": "Sonen Hunter Biden säger att sjukdomen är smärtsam och försvagande.",
-      "link": "https://yle.fi/a/7-10103262?origin=rss",
-      "guid": "https://yle.fi/a/7-10103262",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786179529000
-    },
-    {
       "title": "Det stora slaget om Londons pubar",
       "description": "Debatten är het och engagerar alla. Ämnet? Hur man ska få dricka på puben i London. Nu säger premiärministern sitt. Det handlar om något så urbrittiskt som puben och mer konkret hur och under vilka former man ska få dricka på puben. Debatten gäller ”vertical drinking”, något svåröversatt till ”stående drickande”. I den debatten har […]",
       "link": "https://www.dagensps.se/foretag/det-stora-slaget-om-londons-pubar/",
@@ -812,16 +902,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786179519000
-    },
-    {
-      "title": "Militärforskarna varnar: Hotet mot internet växer",
-      "description": "Det mesta av världens internettrafik färdas inte genom luften, utan längs kablar på havsbotten. Nu varnar kinesiska forskare för att billiga undervattensdrönare kan göra den infrastrukturen betydligt lättare att slå mot. Internet kan förvisso upplevas som trådlöst. Men mellan kontinenterna är verkligheten en annan. Omkring 99 procent av den interkontinentala datatrafiken går genom fiberkablar som […]",
-      "link": "https://www.dagensps.se/teknik/militarforskarna-varnar-hotet-mot-internet-vaxer/",
-      "guid": "https://www.dagensps.se/?p=1662437",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/nott-peera-e-nqg-njikk-unsplash.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786178371000
     },
     {
       "title": "Appsända matcher mot Mjällby och BP i dag – här är Bajen-helgen",
@@ -1474,16 +1554,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786099903000
     },
     {
-      "title": "Polaris presenterar riktigt effektstinn RZR",
-      "description": "Leksak för den som redan har allt Om man vill busa runt bland sanddynor eller hoppa runt i terrängen och gärna kör något med fyra hjul kanske en sån här kunde vara något. Det är Polaris senaste RZR som de kallar för Pro R Boost och här har man verkligen inte sparat på krutet. Under skalet på sandloppan har man smackat in en turbomatad fyra på 2,0 liter som ger 280 hästar och 300 newtonmeter i vrid. Det är inte helt lite i denna typ av förpackning. Drivningen sker på alla fyra men man kan få den att bara driva på bakhjulen om man vill. Det går att få två eller fyra dörrar och den lättaste varianten väger in på 1212 kilo medan den tyngsta ligger på 1366 kilo. För att klara underlaget på bästa sätt sitter det elektroniskt ställbar fjädring från Fox runt om. Fälgarna mäter 15 tum och är skodda med 32-tum stora offroad-däck. Markfrigången anges till 40 centimeter. Prislappen börjar på ganska svettiga 49.999 dollar och ska du ha Ultra-versionen med fyra dörrar snackar vi istället om från 56.999 dollar. L&auml;s vidare och kommentera: https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/ L&auml;s mer om Polaris , RZR Pro R Boost , leksak , prestanda , effekt , turbo",
-      "link": "https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/polaris-presenterar-riktigt-effektstinn-rzr/494802/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786098600000
-    },
-    {
       "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
       "description": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
@@ -1812,16 +1882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786032942000
-    },
-    {
-      "title": "Startelvan i bortamötet med Raków",
-      "description": "Så här ställer Hammarby upp i det första mötet med Raków i kvalomgång 3 av UEFA Conference League. Matchen sparkas igång klockan 19.00 i Polen och sänds i Aftonbladet Plus för dig som inte är på plats",
-      "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-bortamotet-med-rakow",
-      "guid": "e7950b33-703c-40b1-90e3-4aa47318e4bd",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/f26c5a6b46afc71ca5e818d72b1bba552a6b551c-1543x1029.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1786031100000
     },
     {
       "title": "Nu gäller badavrådan på Långholmen",
@@ -3024,16 +3084,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785760327000
     },
     {
-      "title": "Minipavlovor med äpple, kola och vaniljglass",
-      "description": "Pavlovabakelser med karamelliserade äpplen som smakar äppelpaj.",
-      "link": "https://alltommat.expressen.se/recept/minipavlovor-med-apple-kola-och-vaniljglass/",
-      "guid": "https://alltommat.expressen.se/recept/minipavlovor-med-apple-kola-och-vaniljglass/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785759235000
-    },
-    {
       "title": "Förseningar på gröna linjen efter olyckshändelse",
       "description": "Förseningar gröna linjen",
       "link": "https://www.mitti.se/nyheter/forseningar-pa-grona-linjen-efter-olyckshandelse-6.3.378380.8a83e5d472",
@@ -3082,16 +3132,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1785752453000
-    },
-    {
-      "title": "Tomat- och bönsallad med parmesankrutonger",
-      "description": "Här kommer sommarens tomater, bönor och lök till sin rätt i en färgglad och saftig sallad.",
-      "link": "https://alltommat.expressen.se/recept/tomat--och-bonsallad-med-parmesankrutonger/",
-      "guid": "https://alltommat.expressen.se/recept/tomat--och-bonsallad-med-parmesankrutonger/",
-      "image": "",
-      "source": "Allt om Mat",
-      "sourceKey": "https://feeds.expressen.se/alltommat/",
-      "timestamp": 1785750537000
     },
     {
       "title": "Hund smet från ägare – bet kvinna",
