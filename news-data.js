@@ -1,8 +1,188 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-09T15:20:30.922Z",
+  "updatedAt": "2026-08-09T18:23:51.819Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Tidigare kollegan i chock efter skärgårdsmordet: ”Vilken tragedi”",
+      "description": "I över ett decennium arbetade hon med den mördade 56-åriga kvinnan på banken SEB. De åt lunch ihop, umgicks och blev nära vänner. När beskedet nådde den tidigare kollegan hade hon svårt att ta in det. – Jag har varit helt chockad hela helgen.",
+      "link": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
+      "guid": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786299448000
+    },
+    {
+      "title": "Flera skadade i skjutning i Danmark",
+      "description": "Skjutning i Danmark • ”15-20 svartklädda män”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c030ee4c-0e97-471c-af9e-59dbda609c17",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c030ee4c-0e97-471c-af9e-59dbda609c17",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786297981000
+    },
+    {
+      "title": "Paniken – försöker öppna nödutgången",
+      "description": "Misstänks för mordförsök • Förklaringen",
+      "link": "https://www.expressen.se/tv/nyheter/paniken-9-000-meter-upp-i-luften-forsoker-oppna-nodutgang-",
+      "guid": "https://www.expressen.se/tv/nyheter/paniken-9-000-meter-upp-i-luften-forsoker-oppna-nodutgang-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786297851000
+    },
+    {
+      "title": "Minister Mika Poutala på sjukhus efter traktorolycka: ”Aldrig känt en liknande smärta”",
+      "description": "Mika Poutala har opererats två gånger sedan fredagen.",
+      "link": "https://yle.fi/a/7-10103297?origin=rss",
+      "guid": "https://yle.fi/a/7-10103297",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786297651000
+    },
+    {
+      "title": "Regn överallt – sen kommer brittiska värmen",
+      "description": "Regn, regn, regn. Det är måndagens väderprognos. Men det håller inte i sig särskilt länge. – När det här passerar från tisdag, onsdag så börjar det växa till sig ett högtryck, säger Hilda Westberg på SMHI.",
+      "link": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
+      "guid": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786297013000
+    },
+    {
+      "title": "Bära eller brista för Nathalie Blomqvist inför osäkra EM-starten: ”Jag vet vad jag är kapabel till”",
+      "description": "Nathalie Blomqvist försvarar en femteplats på 5000 meter i EM i friidrott i Birmingham. Men formen är ett frågetecken.",
+      "link": "https://yle.fi/a/7-10102843?origin=rss",
+      "guid": "https://yle.fi/a/7-10102843",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786296665000
+    },
+    {
+      "title": "Jimmie Åkesson: Jag är rädd för fiskar",
+      "description": "Ingenting som levt i vatten hamnar på Jimmie Åkessons tallrik. Orsaken? – Jag är rädd för fiskar, säger SD-ledaren.",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-jag-ar-radd-for-fiskar/",
+      "guid": "https://www.expressen.se/nyheter/politik/jimmie-akesson-jag-ar-radd-for-fiskar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786294790000
+    },
+    {
+      "title": "Wilma, 19, fick operera bort en meter av tarmen",
+      "description": "Det som avfärdades som magsjuka slutade med att Wilma tvingades operera bort över en meter av sin tarm. – Det var som en feberdröm, säger 19-åringen. Nu riktar hon kritik mot vården.",
+      "link": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786293947000
+    },
+    {
+      "title": "Fick sparken efter mordförsöksdom – stämmer Google",
+      "description": "En kvinna som dömdes till 12 års fängelse för mordförsök genom att ha förgiftat sin man stämmer nu sin tidigare arbetsgivare Google.",
+      "link": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
+      "guid": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
+      "image": "https://www.mitti.se/image-3.377746.301909.20260809171606.1.1dff4908c1?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786293900000
+    },
+    {
+      "title": "Tre skadade i skottlossning i Danmark",
+      "description": "Skottlossningen ägde rum i Holbæk väster om Köpenhamn vid 16-tiden på söndagen lokal tid.",
+      "link": "https://yle.fi/a/7-10103295?origin=rss",
+      "guid": "https://yle.fi/a/7-10103295",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786293578000
+    },
+    {
+      "title": "Premiär för Farsta Folkfest",
+      "description": "Folkmusik i Farsta gård söndagen den 16 augusti när Farsta Folkfest bjuder in till galej",
+      "link": "https://www.mitti.se/nyheter/premiar-for-farsta-folkfest-6.3.378382.6d28868d94",
+      "guid": "https://www.mitti.se/nyheter/premiar-for-farsta-folkfest-6.3.378382.6d28868d94",
+      "image": "https://www.mitti.se/image-3.377471.301594.20260809170836.590312752d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786293483000
+    },
+    {
+      "title": "Svårt att somna – även på militär order",
+      "description": "Militärens sömnmetod utlovar att du kan somna på två minuter – med lite träning. Om det är en metod som fungerar? Vi kommer till det. Militärens sömnmetod utlovar alltså att du kan somna på två minuter. Teknikerna är väl utprovade och allt du behöver är lite träning, hävdar förespråkarna. Låter det för bra för att […]",
+      "link": "https://www.dagensps.se/life-science/svart-att-somna-aven-pa-militar-order/",
+      "guid": "https://www.dagensps.se/?p=1662651",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl-zapg0mwxre-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786293370000
+    },
+    {
+      "title": "TPS snuvade ligaledaren på segern på stopptid – Inter fick nöja sig med en poäng",
+      "description": "KuPS hade chansen att befästa sin serieledning när TPS kom på besök. Gästerna ville dock annat och fick med sig en poäng efter en sen kvittering.",
+      "link": "https://yle.fi/a/7-10103292?origin=rss",
+      "guid": "https://yle.fi/a/7-10103292",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786293028000
+    },
+    {
+      "title": "M: Flytta ambulanshelikoptern till Bromma",
+      "description": "Moderaterna i Region Stockholm vill flytta ambulanshelikopterns bas från Norrtälje till Bromma.",
+      "link": "https://www.mitti.se/nyheter/m-flytta-ambulanshelikoptern-till-bromma-6.3.379162.c94a499c25",
+      "guid": "https://www.mitti.se/nyheter/m-flytta-ambulanshelikoptern-till-bromma-6.3.379162.c94a499c25",
+      "image": "https://www.mitti.se/image-3.377758.301962.20260809170103.1.8009fb9e10?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786293000000
+    },
+    {
+      "title": "Datacenter i fem punkter – du kan bli tvungen att betala för dem",
+      "description": "Datacentren slukar mindre el än man tror. Men de kan leda till kostnader för skattebetalarna.",
+      "link": "https://yle.fi/a/7-10102873?origin=rss",
+      "guid": "https://yle.fi/a/7-10102873",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786291214000
+    },
+    {
+      "title": "Här ses hundratals – och springer långsamt",
+      "description": "Expressen testar löpargruppen i Stockholm",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/har-ses-hundratals-och-springer-langsamt",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/har-ses-hundratals-och-springer-langsamt",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786290485000
+    },
+    {
+      "title": "Riksdagens tidigare talman Erkki Pystynen har dött",
+      "description": "Pystynen var riksdagsledamot i 16 år.",
+      "link": "https://yle.fi/a/7-10103294?origin=rss",
+      "guid": "https://yle.fi/a/7-10103294",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786289509000
+    },
+    {
+      "title": "Flera skogsbränder – ”extremt hög brandrisk”",
+      "description": "Det brinner på flera platser i landet. Risken nya skogsbränder är extremt stor, enligt SMHI. – Man låter bli och elda, säger Alexander Westerberg från Storstockholms brandförsvar.",
+      "link": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
+      "guid": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786289261000
+    },
     {
       "title": "Hotar ta försäkringen från bil med Jesusbudskap",
       "description": "Bilägaren klistrade stora dekaler med texten ”Jesus älskar dig” på sin Nissan Pixo. Då hotar det brittiska försäkringsbolaget att upphäva hans försäkring. ”Vi kräver att dekalen avlägsnas för att policyn ska fortsätta att gälla”, skriver bolaget till honom.",
@@ -254,6 +434,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786277398000
     },
     {
+      "title": "Forskare bakom en ny studie med 5 200 barn pekar ut en utbredd vana som är förknippad med sämre skolresultat",
+      "description": "Om du bara väntar några år med att låta ditt barn göra en viss sak tycks det göra stor skillnad.",
+      "link": "https://illvet.se/manniskan/forskare-bakom-en-ny-studie-med-5-200-barn-har-identifierat-nagot-som-ar-forknippat-med-samre-skolresultat",
+      "guid": "https://illvet.se/manniskan/forskare-bakom-en-ny-studie-med-5-200-barn-har-identifierat-nagot-som-ar-forknippat-med-samre-skolresultat",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786276854000
+    },
+    {
       "title": "Nästa säsong av The Witcher verkar inte komma i år",
       "description": "Ser ut som man får vänta tills nästa år för att se slutet Det ser ut som att fans av Netflix-serien The Witcher får se till att förbereda sig på att få vänta ett tag innan de får titta på seriens femte och sista säsong. En ny rapport nämner nämligen att säsongen inte kommer ha premiär i år utan att den istället kommer att dyka upp tidigast under 2027. Säsong fyra och fem spelades nämligen in mer eller mindre i ett svep, och seriens showrunner Lauren Schmidt Hissrich har tidigare beskrivit de två sista säsongerna som en enda stor, sammanhängande historia. Men trots detta verkar Netflix nu ha valt att dra ut på tiden mellan säsongerna. L&auml;s vidare och kommentera: https://feber.se/film/nasta-sasong-av-the-witcher-verkar-inte-komma-i-ar/494842/ L&auml;s mer om The Witcher , Netflix , Lauren Schmidt Hissrich , TV-serier , streaming , säsong 5",
       "link": "https://feber.se/film/nasta-sasong-av-the-witcher-verkar-inte-komma-i-ar/494842/?utm_source=rss&utm_medium=feed",
@@ -454,26 +644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786267533000
     },
     {
-      "title": "Ser du igelkottar? Ring!",
-      "description": "Ber allmänheten om hjälp",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3888e1b2-04d6-449a-911d-09696d2636ad",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3888e1b2-04d6-449a-911d-09696d2636ad",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786266582000
-    },
-    {
-      "title": "Allvarligt skadad man hittad nära sjukhuset i Uddevalla",
-      "description": "En man i kostym har hittats medvetslös i närheten av sjukhuset i Uddevalla. Han vårdas nu med allvarliga skador – och polisen söker svar. – Det är oklart vad som har hänt, platsen är avspärrad för undersökning, säger presstalespersonen Christian Brattgård.",
-      "link": "https://www.expressen.se/nyheter/sverige/allvarligt-skadad-man-hittad-nara-sjukhuset-i-uddevalla/",
-      "guid": "https://www.expressen.se/nyheter/sverige/allvarligt-skadad-man-hittad-nara-sjukhuset-i-uddevalla/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786266267000
-    },
-    {
       "title": "Rheinmetall-chefen har livvakter dygnet runt efter ryska mordplaner",
       "description": "Att backa är inget alternativ, säger försvarsbolagets Rheinmetalls chef Armin Papperger om de ryska planerna på att mörda honom. Rheinmetallchefen Armin Papperger är föremål ryska mordplaner, som Dagens PS tidigare rapporterat om. Trots hoten tänker den tyske försvarschefen inte backa. ”Man måste göra jobbet, och den som viker ner sig hör inte hemma på en […]",
       "link": "https://www.dagensps.se/bors-finans/rheinmetall-chefen-har-livvakter-dygnet-runt-efter-ryska-mordplaner/",
@@ -564,26 +734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786262400000
     },
     {
-      "title": "50-tal i storbråk",
-      "description": "Flera skadade i natt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bca488cc-63b8-4b36-9a54-33367e03358a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bca488cc-63b8-4b36-9a54-33367e03358a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786262216000
-    },
-    {
-      "title": "Man hittad vid sjukhus",
-      "description": "Okänd man hittades medvetslös – vårdas på sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f795ee3-5bd0-4350-8309-c8d4792ab97a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f795ee3-5bd0-4350-8309-c8d4792ab97a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786262170000
-    },
-    {
       "title": "Chefsekonomen: AI tar inte jobben – ännu: ”Vi är i bankomatfasen”",
       "description": "AI skulle slå ut stora delar av arbetsmarknaden. Så lät varningarna när ChatGPT slog igenom. Nästan fyra år senare pekar Vanguards chefsekonom på en annan utveckling – och jämför dagens AI med 1980-talets bankomater. När bankomaterna började breda ut sig på 1980-talet låg slutsatsen nära till hands: snart behövs inga banktjänstemän längre. Så blev det […]",
       "link": "https://www.dagensps.se/foretag/digitalisering-ai/chefsekonomen-ai-tar-inte-jobben-annu-vi-ar-i-bankomatfasen/",
@@ -604,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786261770000
     },
     {
-      "title": "Ny turistprotest",
-      "description": "Ilska på Mallorca – igen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=345c3162-3ab5-4425-956f-cf711d657e46",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=345c3162-3ab5-4425-956f-cf711d657e46",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786260752000
-    },
-    {
       "title": "Många sparar för mycket – experten: Använd pengarna nu",
       "description": "Svenska arv blir allt större. Problemet är bara att pengarna ofta kommer när mottagaren redan hunnit klara de dyraste åren på egen hand. Nu tycker experter att fler äldre borde våga använda sina pengar medan de lever. ”Barn får i dag ofta vänta tills båda föräldrarna har avlidit innan arvet faller ut. Det kan bli […]",
       "link": "https://www.dagensps.se/privatekonomi/manga-sparar-for-mycket-experten-anvand-pengarna-nu/",
@@ -622,26 +762,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786260621000
-    },
-    {
-      "title": "Därför kan matpriserna bli högre igen",
-      "description": "Väderfenomenet El Niño väntas i år bli värre än vanligt. Därmed finns risk för högre matpriser även i Sverige, spår experter.",
-      "link": "https://www.expressen.se/nyheter/sverige/darfor-kan-matpriserna-bli-hogre-igen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/darfor-kan-matpriserna-bli-hogre-igen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786259615000
-    },
-    {
-      "title": "Quiz: Känner du igen personerna som kan landa på de nya eurosedlarna?",
-      "description": "Eurosedlarna ska få ett helt nytt utseende och kommer antingen att prydas av kända kulturpersoner eller fåglar. Känner du igen ansiktena?",
-      "link": "https://yle.fi/a/7-10103220?origin=rss",
-      "guid": "https://yle.fi/a/7-10103220",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786259479000
     },
     {
       "title": "Netflix sägs ha skrotat amerikanska Squid Game",
@@ -664,26 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786258680000
     },
     {
-      "title": "Här är Finlands tio hetaste medaljhopp i EM i friidrott",
-      "description": "Friidrotts-EM börjar i Birmingham och tre finländare går in som statistikettor. Ingen av dem toppar Yle Sportens rankning.",
-      "link": "https://yle.fi/a/7-10102841?origin=rss",
-      "guid": "https://yle.fi/a/7-10102841",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786258403000
-    },
-    {
-      "title": "Putins paranoia: Stoppar oppositionen",
-      "description": "Kreml går till allt hårdare angrepp mot oppositionen. Flera politiker har nu förbjudits från att delta i höstens val. – Rädslan för någon form av utmaning underifrån är så djup att det finns en slags säkerhetsinriktad reflex som rycker allt kraftigare, säger Rysslandsexperten Nigel Gould-Davies till The Telegraph .",
-      "link": "https://www.expressen.se/nyheter/varlden/putins-paranoia-stoppar-oppositionen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-paranoia-stoppar-oppositionen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786258127000
-    },
-    {
       "title": "Träder i kraft på tisdag: 800 000 kronor i böter – per samtal",
       "description": "Säljsamtal har retat folk i åratal. Nu tar den franska regeringen till storsläggan. Från tisdag kan ett oönskat samtal sluta med böter på tiotusentals euro. Det franska förbudet lär dock märkas långt utanför landets gränser. I Sverige har frågan om telefonförsäljning hamnat på regeringens bord. Redan 2025 fick Konsumentverket i uppdrag att se över skärpta […]",
       "link": "https://www.dagensps.se/foretag/trader-i-kraft-pa-tisdag-800-000-kronor-i-boter-per-samtal/",
@@ -692,16 +792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786257995000
-    },
-    {
-      "title": "Storbråk på McDonald's",
-      "description": "Storbråk på McDonald's – och Max",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d620f93-87e9-4934-ade9-ac5c0f4afbaf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d620f93-87e9-4934-ade9-ac5c0f4afbaf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786257691000
     },
     {
       "title": "Pavlovakrans med choklad och björnbär",
@@ -724,26 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786256365000
     },
     {
-      "title": "Meteorologen bekräftar: Sommaren i Österbotten svalaste på länge",
-      "description": "Moln och svalare temperaturer har hittills präglat sommaren i Österbotten. Antalet dagar med 30 grader går att räkna på en hand.",
-      "link": "https://yle.fi/a/7-10103164?origin=rss",
-      "guid": "https://yle.fi/a/7-10103164",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786256281000
-    },
-    {
-      "title": "Glöm pensionen – nu sparar vi till utbrändhet: Så mycket behövs",
-      "description": "Det finns en sparpott för allt. Nu också för dagen då jobbet inte längre går att stå ut med. Möt utbrändhetsfonden. Antalet stressrelaterade sjukskrivningar ökade med 25 procent mellan 2019 och 2024. En ny högstanivå. Uppskattningsvis drabbas runt 20 000 personer av den medicinska diagnosen utmattningssyndrom – eller ”utbrändhet” – varje år. Och det kan […]",
-      "link": "https://www.dagensps.se/privatekonomi/glom-pensionen-nu-sparar-vi-till-utbrandhet-sa-mycket-behovs/",
-      "guid": "https://www.dagensps.se/?p=1662540",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-cottonbro-6636106.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786255959000
-    },
-    {
       "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
       "description": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now engineered that atomic interface to protect electron flow while still allowing extremely thin insulating layers. The resulting transistors delivered an unusually strong combination of electrical control and performance.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
@@ -752,16 +822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786255543000
-    },
-    {
-      "title": "Tävlingsryttaren Axel Lindberg måste resa konstant – jättestor hästbil möjliggör internationell karriär",
-      "description": "Sibboryttaren Axel Lindberg har tre hästar på toppnivå. Nästa vecka deltar han i VM i fälttävlan i Aachen.",
-      "link": "https://yle.fi/a/7-10103096?origin=rss",
-      "guid": "https://yle.fi/a/7-10103096",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786255214000
     },
     {
       "title": "Fredskronk åker buss hela vägen från Arlanda till Berlin",
@@ -784,16 +844,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786255200000
     },
     {
-      "title": "Vitteludd i Houtskär lockar med en varm och grund badstrand",
-      "description": "På badstranden i Vitteludd är det sällan cyanobakterier och stranden passar bra för barn, tycker strandens besökare.",
-      "link": "https://yle.fi/a/7-10102934?origin=rss",
-      "guid": "https://yle.fi/a/7-10102934",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786254058000
-    },
-    {
       "title": "Nattjästa lingonfrallor",
       "description": "Lättbakade frallor som får jäsa över natten och snabbt bakas ut på morgonen lagom till frukost.",
       "link": "https://alltommat.expressen.se/recept/nattjasta-lingonfrallor/",
@@ -804,14 +854,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786253640000
     },
     {
-      "title": "Kanada utlyser nödläge på grund av snabbt växande skogsbränder",
-      "description": "Över 20 000 människor har evakuerats i den kanadensiska provinsen British Columbia.",
-      "link": "https://yle.fi/a/7-10103281?origin=rss",
-      "guid": "https://yle.fi/a/7-10103281",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786253214000
+      "title": "Dömdes för grov människoexploatering – överklagar",
+      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
+      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
     },
     {
       "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
@@ -819,16 +869,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
-      "title": "Dömdes för grov människoexploatering – överklagar",
-      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
-      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
@@ -1074,21 +1114,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786194000000
     },
     {
-      "title": "App-turism trendar: Här är det fria alternativet till campingplatsen",
-      "description": "Allt fler husbilsturister använder appar som Park4night för att hitta gratis eller billiga ställplatser i Stockholmsområdet – ett friare och naturnära alternativ till campingplatser.",
-      "link": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
-      "guid": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
-      "image": "https://www.mitti.se/image-3.377404.301428.20260808133109.e9b7b067c0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786194000000
-    },
-    {
       "title": "40 förråd dränktes vid läcka: ”Som en krigszon”",
       "description": "Översvämning Norrtullsgatan: 40 förråd förstörda efter felkoppling.",
       "link": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
       "guid": "https://www.mitti.se/nyheter/40-forrad-dranktes-vid-lacka-som-en-krigszon-6.3.379161.a74a863b18",
       "image": "https://www.mitti.se/image-3.183827.301950.20260808133109.1.2fd2064941?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786194000000
+    },
+    {
+      "title": "App-turism trendar: Här är det fria alternativet till campingplatsen",
+      "description": "Allt fler husbilsturister använder appar som Park4night för att hitta gratis eller billiga ställplatser i Stockholmsområdet – ett friare och naturnära alternativ till campingplatser.",
+      "link": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
+      "guid": "https://www.mitti.se/nyheter/appturism-trendar-har-ar-det-fria-alternativet-till-campingplatsen-6.3.378302.5468289040",
+      "image": "https://www.mitti.se/image-3.377404.301428.20260808133109.e9b7b067c0?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786194000000
@@ -1924,16 +1964,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786080562000
     },
     {
-      "title": "Forskare med uppseendeväckande teori: 540 miljoner år gammal avföring kan vara orsaken till att du existerar i dag",
-      "description": "En av de mest händelserika perioderna i jordens historia kan ha en lite oväntad förklaring.",
-      "link": "https://illvet.se/forntiden/forskare-med-uppseendevackande-teori-540-miljoner-ar-gammal-avforing-kan-vara-orsaken-till-att-du-existerar-i-dag",
-      "guid": "https://illvet.se/forntiden/forskare-med-uppseendevackande-teori-540-miljoner-ar-gammal-avforing-kan-vara-orsaken-till-att-du-existerar-i-dag",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786078841000
-    },
-    {
       "title": "Laserteknik avslöjar upp till 30 000 strukturer i Amazonas från en 2 000 år gammal kultur",
       "description": "Amazonas täta regnskog har i åratal betraktats som orörd vildmark, där endast mindre grupper av människor tidigare bott. Nu tyder nya fynd på att området haft en befolkning som kan ha uppgått till flera miljoner.",
       "link": "https://varldenshistoria.se/kultur/arkeologi/laserteknik-avslojar-upp-till-30-000-strukturer-i-amazonas-fran-en-2-000-ar-gammal-kultur",
@@ -2364,21 +2394,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785994811000
     },
     {
-      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
-      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
-      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785992400000
-    },
-    {
       "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
       "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
       "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785992400000
+    },
+    {
+      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
+      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
+      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785992400000
