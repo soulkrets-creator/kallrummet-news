@@ -1,10 +1,110 @@
 {
-  "updatedAt": "2026-08-09T18:23:51.819Z",
+  "updatedAt": "2026-08-09T21:21:01.457Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Tidigare kollegan i chock efter skärgårdsmordet: ”Vilken tragedi”",
+      "title": "Flera bilar i krock",
+      "description": "Stor påverkan på trafiken mot Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=dd70ae43-7b36-4cc6-937b-2c939fdac93e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dd70ae43-7b36-4cc6-937b-2c939fdac93e",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786309473000
+    },
+    {
+      "title": "Ny Trumptaktik",
+      "description": "Avslöjar – så ska han pressa Iran",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f6dee033-2086-492f-b3fc-0ebd6295c0f7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f6dee033-2086-492f-b3fc-0ebd6295c0f7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786308666000
+    },
+    {
+      "title": "Experten om Iran-kriget: ”Ett fullständigt misslyckande”",
+      "description": "Kriget, som enligt Trump, skulle vara över efter ett par veckor har nu pågått i nästan ett halvår. Presidenten står nu inför tre möjliga vägar framåt. – Kriget framstår som ett fullständigt misslyckande, säger den norska Mellanösternexperten Dag Henrik Tuastad till VG .",
+      "link": "https://www.expressen.se/nyheter/varlden/experten-om-iran-kriget-ett-fullstandigt-misslyckande/",
+      "guid": "https://www.expressen.se/nyheter/varlden/experten-om-iran-kriget-ett-fullstandigt-misslyckande/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786308559000
+    },
+    {
+      "title": "Trump: Vi har en dämpad taktik mot Iran",
+      "description": "Bara drygt en vecka sedan han hotat Iran med ”den största attacken sedan andra världskriget” säger han till nyhetssajten Axios att USA nu bara ”delvis förhandlar” och snarare än aktiv krigföring försöker vänta ut Iran. Donald Trump säger att han delvis har bytt taktik mot Iran och att USA nu använder sig av en ”dämpad” […]",
+      "link": "https://www.dagensps.se/varlden/konflikter/trump-vi-har-en-dampad-taktik-mot-iran/",
+      "guid": "https://www.dagensps.se/?p=1662665",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/usas-president-donald-trump-har-pa-vag-o.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786306403000
+    },
+    {
+      "title": "Regn överallt – sen kommer brittiska värmen",
+      "description": "Regn, regn, regn. Det är måndagens väderprognos. Men det håller inte i sig särskilt länge. – När det här passerar från tisdag, onsdag så börjar det växa till sig ett högtryck, säger Hilda Westberg på SMHI.",
+      "link": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
+      "guid": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786304473000
+    },
+    {
+      "title": "Ex-prinsen kan få kunglig begravning – trots Epsteinskandal: ”En skam”",
+      "description": "Ex-prins Andrew kan få en kunglig begravning – trots att han förlorat sina titlar efter Epsteinskandalen, enligt uppgifter till Daily Mail. Nu rasar kritiker mot upplägget. – Det är en skam för kronan, säger en företrädare för Epsteins offer.",
+      "link": "https://www.expressen.se/nyheter/kungligt/ex-prinsen-kan-fa-kunglig-begravning-trots-epsteinskandal-en-skam/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/ex-prinsen-kan-fa-kunglig-begravning-trots-epsteinskandal-en-skam/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786303655000
+    },
+    {
+      "title": "Unga från mopedträffen i Tusby: ”Såg nog ganska skrämmande ut”",
+      "description": "Personer som deltog i mopedträffen i Tusby funderar på om polisen agerade rätt när de prejade en moped av vägen i hög fart.",
+      "link": "https://yle.fi/a/7-10103296?origin=rss",
+      "guid": "https://yle.fi/a/7-10103296",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786302636000
+    },
+    {
+      "title": "Flerbilskrock på E4",
+      "description": "Stor påverkan på trafiken • ”Helt blockerat”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=da47a310-9261-46a5-a407-b4be2ef119e6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=da47a310-9261-46a5-a407-b4be2ef119e6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786301780000
+    },
+    {
+      "title": "Misstänkta skärgårdsmördaren fåordig i förhör",
+      "description": "Efter mordet på Sollenkroka ö höll sig den misstänkta 57-åriga mannen undan i omkring 33 timmar. Men i förhör har mannen varit fåordig om flykten. ”Han har själv inte lämnat så mycket information ännu”, skriver åklagare Emma Olsson i ett mejl.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordaren-faordig-i-forhor/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordaren-faordig-i-forhor/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786300617000
+    },
+    {
+      "title": "Tre skadade i skjutning: ”Hårdkokta kriminella”",
+      "description": "En kriminell uppgörelse på öppen gata skakar den danska staden Holbæk. Tre personer skadades när en maskerad man öppnade eld på söndagen. – Jag är upprörd över att hårdkokta kriminella sätter andras säkerhet i fara, säger stadens borgmästare Christina Krzyrosiak Hansen.",
+      "link": "https://www.expressen.se/nyheter/varlden/tre-skadade-i-skjutning-hardkokta-kriminella/",
+      "guid": "https://www.expressen.se/nyheter/varlden/tre-skadade-i-skjutning-hardkokta-kriminella/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786300223000
+    },
+    {
+      "title": "Tidigare kollegan efter skärgårdsmordet: ”Vilken tragedi”",
       "description": "I över ett decennium arbetade hon med den mördade 56-åriga kvinnan på banken SEB. De åt lunch ihop, umgicks och blev nära vänner. När beskedet nådde den tidigare kollegan hade hon svårt att ta in det. – Jag har varit helt chockad hela helgen.",
       "link": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
       "guid": "https://www.expressen.se/nyheter/sverige/tidigare-kollegan-i-chock-efter--skargardsmordet-vilken-tragedi/",
@@ -42,16 +142,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786297651000
-    },
-    {
-      "title": "Regn överallt – sen kommer brittiska värmen",
-      "description": "Regn, regn, regn. Det är måndagens väderprognos. Men det håller inte i sig särskilt länge. – När det här passerar från tisdag, onsdag så börjar det växa till sig ett högtryck, säger Hilda Westberg på SMHI.",
-      "link": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
-      "guid": "https://www.expressen.se/nyheter/vader/regn-overallt-sen-kommer-brittiska-varmen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786297013000
     },
     {
       "title": "Bära eller brista för Nathalie Blomqvist inför osäkra EM-starten: ”Jag vet vad jag är kapabel till”",
@@ -94,8 +184,8 @@
       "timestamp": 1786293900000
     },
     {
-      "title": "Tre skadade i skottlossning i Danmark",
-      "description": "Skottlossningen ägde rum i Holbæk väster om Köpenhamn vid 16-tiden på söndagen lokal tid.",
+      "title": "Två män i 20-årsåldern gripna efter skottlossning i Danmark",
+      "description": "Skottlossningen ägde rum i Holbæk väster om Köpenhamn vid 16-tiden på söndagen lokal tid. Efter klockan 22 finsk tid uppgav polisen att de gripit två personer.",
       "link": "https://yle.fi/a/7-10103295?origin=rss",
       "guid": "https://yle.fi/a/7-10103295",
       "image": "",
@@ -254,16 +344,6 @@
       "timestamp": 1786284841000
     },
     {
-      "title": "Polisen jagar drönare",
-      "description": "Vattenbombar utanför Stockholm",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=50180bac-02d0-4a9f-b447-8bef8a40d74f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=50180bac-02d0-4a9f-b447-8bef8a40d74f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786284761000
-    },
-    {
       "title": "Smarta dubbar, utfällbar husvagn och Audis comeback",
       "description": "Veckan i bilvärlden bjöd på ett finskt däck som tänker själv, en husvagn som växer till 28 kvadratmeter på en minut och fartkameror som läser av din mobil. Samtidigt rullar en av bilhistoriens mest älskade modeller tillbaka in på scenen. Här är vad läsarna uppskattade mest denna vecka blandat med de färskaste nyheterna från fabrikerna: […]",
       "link": "https://www.dagensps.se/motor/smarta-dubbar-utfallbar-husvagn-och-audis-comeback/",
@@ -305,23 +385,13 @@
     },
     {
       "title": "Varnar Trump-kopplade bolaget – efter oljeplanerna",
-      "description": "Ett Trump-kopplat oljebolag vill borra på Grönland. Nyligen förde bolaget i land utrustning för provborrning – utan något godkännande. Nu utfärdar den Grönländska regeringen en kraftig varning, skriver The Guardian .",
+      "description": "Ett Trump-kopplat oljebolag vill borra på Grönland. Nyligen förde bolaget i land utrustning för provborrning – utan något godkännande. Nu utfärdar den grönländska regeringen en kraftig varning, skriver The Guardian .",
       "link": "https://www.expressen.se/nyheter/varlden/varnar-trump-kopplade-bolaget-efter-oljeplanerna/",
       "guid": "https://www.expressen.se/nyheter/varlden/varnar-trump-kopplade-bolaget-efter-oljeplanerna/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786282940000
-    },
-    {
-      "title": "Misstänkt mord i Malung",
-      "description": "Person hittad död",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7caba7c3-5e90-4f70-bbb1-2a453b75cd22",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7caba7c3-5e90-4f70-bbb1-2a453b75cd22",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786282588000
     },
     {
       "title": "Netanyahu stoppar Trumps Gazaplan – kräver total avväpning av Hamas",
@@ -424,16 +494,6 @@
       "timestamp": 1786277566000
     },
     {
-      "title": "Dödlig natt på båda sidor i Ukrainakriget",
-      "description": "Ryska attacker dödade två personer och skadade ett tjugotal i Ukraina under natten till söndagen, samtidigt som en ukrainsk drönarattack dödade tre personer i den ryska Belgorodregionen.",
-      "link": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
-      "guid": "https://www.expressen.se/nyheter/varlden/dodlig-natt-pa-bada-sidor-i-ukrainakriget/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786277398000
-    },
-    {
       "title": "Forskare bakom en ny studie med 5 200 barn pekar ut en utbredd vana som är förknippad med sämre skolresultat",
       "description": "Om du bara väntar några år med att låta ditt barn göra en viss sak tycks det göra stor skillnad.",
       "link": "https://illvet.se/manniskan/forskare-bakom-en-ny-studie-med-5-200-barn-har-identifierat-nagot-som-ar-forknippat-med-samre-skolresultat",
@@ -494,16 +554,6 @@
       "timestamp": 1786274252000
     },
     {
-      "title": "Socialdemokraterna lovar extra barnbidrag",
-      "description": "Socialdemokraterna vill ge barnfamiljer dubbelt barn- och studiebidrag två gånger om året – inför jul- och sommarlov. För en tvåbarnsfamilj skulle det innebära 5 000 kronor mer om året.",
-      "link": "https://www.expressen.se/nyheter/politik/socialdemokraterna-presenterar-valloften-/",
-      "guid": "https://www.expressen.se/nyheter/politik/socialdemokraterna-presenterar-valloften-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786273323000
-    },
-    {
       "title": "Chemists set electrons free and break a decades-old chemistry barrier",
       "description": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously out of reach.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
@@ -554,16 +604,6 @@
       "timestamp": 1786272576000
     },
     {
-      "title": "Stoppas för fortkörning – skyller på sin Tesla",
-      "description": "Föraren vägrar ge sig • ”Jag körde inte”",
-      "link": "https://www.expressen.se/tv/nyheter/stoppas-for-fortkorning-skyller-pa-bilen-jag-korde-inte",
-      "guid": "https://www.expressen.se/tv/nyheter/stoppas-for-fortkorning-skyller-pa-bilen-jag-korde-inte",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786272434000
-    },
-    {
       "title": "Polisen övervakar skolstartstrafiken i hela landet",
       "description": "Trafik i tätorter nära skolor kommer att övervakas i två veckor framöver. Polisen uppmanar förare att vara särskilt uppmärksamma då barn rör sig i trafiken.",
       "link": "https://yle.fi/a/7-10103286?origin=rss",
@@ -572,16 +612,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786271465000
-    },
-    {
-      "title": "Tog löpet med resväska",
-      "description": "Man tog sig förbi säkerheten på Arlanda",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1f9f4048-2e4b-4397-942f-99ed2749b383",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1f9f4048-2e4b-4397-942f-99ed2749b383",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786270985000
     },
     {
       "title": "Dinosaurs became giants — so why did they never become tiny?",
@@ -602,16 +632,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786270039000
-    },
-    {
-      "title": "Kristerssons vädjan till S: ”Rösta med oss”",
-      "description": "Snart ska riksdagen rösta om slopandet av den så kallade mängdrabatten. Nu vänder sig Ulf Kristersson direkt till S-ledaren Magdalena Andersson. – Det är viktigt att vi håller i och håller ihop, säger statsministern. Andersson själv tycker statsministern verkar ”lite desperat”.",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
-      "guid": "https://www.expressen.se/nyheter/politik/kristerssons-vadjan--till-s-rosta-med-oss/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786270034000
     },
     {
       "title": "Hur Villeneuve gick från okänd mekaniker till legendarisk ikon",
@@ -714,16 +734,6 @@
       "timestamp": 1786263493000
     },
     {
-      "title": "Både polisen och föraren under utredning efter mopedjakten i Tusby",
-      "description": "En polisbil trängde en mopedist av vägen på lördagen. Både mopedistens och polisens agerande utreds.",
-      "link": "https://yle.fi/a/7-10103283?origin=rss",
-      "guid": "https://yle.fi/a/7-10103283",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786263457000
-    },
-    {
       "title": "Wreckfest 2 visas upp i ny trailer",
       "description": "Folkrace med fart Under helgens THQ Nordic-event fick vi oss en ny titt på vad Bugbear Entertainment har kokat ihop i Wreckfest 2. Det bjuds på precis det vi förväntar oss, det vill säga plåt mot plåt, höga hastigheter och bilar som flyger åt alla håll. Den här gången har utvecklarna byggt om spelmekaniken från grunden och det utlovas en betydligt större frihet när det kommer till att meka med samt anpassa sina skrotbilar. Spelet redan tillgängligt via Early Access på PC. Siktar du däremot på att spela på Playstation eller Xbox så är det för tillfället fortfarande oklart när den versionen släpps. L&auml;s vidare och kommentera: https://feber.se/spel/wreckfest-2-visas-upp-i-ny-trailer/494838/ L&auml;s mer om Bugbear Entertainment , Wreckfest 2 , THQ Nordic Showcase , PC , PlayStation 5 , racingspel",
       "link": "https://feber.se/spel/wreckfest-2-visas-upp-i-ny-trailer/494838/?utm_source=rss&utm_medium=feed",
@@ -782,16 +792,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1786258680000
-    },
-    {
-      "title": "Träder i kraft på tisdag: 800 000 kronor i böter – per samtal",
-      "description": "Säljsamtal har retat folk i åratal. Nu tar den franska regeringen till storsläggan. Från tisdag kan ett oönskat samtal sluta med böter på tiotusentals euro. Det franska förbudet lär dock märkas långt utanför landets gränser. I Sverige har frågan om telefonförsäljning hamnat på regeringens bord. Redan 2025 fick Konsumentverket i uppdrag att se över skärpta […]",
-      "link": "https://www.dagensps.se/foretag/trader-i-kraft-pa-tisdag-800-000-kronor-i-boter-per-samtal/",
-      "guid": "https://www.dagensps.se/?p=1662552",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/berkeley-communications-weddt-u3q3o-unsp.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786257995000
     },
     {
       "title": "Pavlovakrans med choklad och björnbär",
