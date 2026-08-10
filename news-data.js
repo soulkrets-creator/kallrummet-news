@@ -1,8 +1,148 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-10T18:41:10.290Z",
+  "updatedAt": "2026-08-10T21:31:24.339Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trumps kryptiska besked",
+      "description": "Orden på pressträffen: ”Kommer få veta”",
+      "link": "https://www.expressen.se/tv/nyheter/trumps-kryptiska-svar-du-kommer-fa-veta",
+      "guid": "https://www.expressen.se/tv/nyheter/trumps-kryptiska-svar-du-kommer-fa-veta",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786397252000
+    },
+    {
+      "title": "Kaptenen om olycksnatten: \"Måttlig sikt\"",
+      "description": "Två dog i olyckan vid Tjörn",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=62cf1fa0-5362-4bf0-9450-26e815d23254",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62cf1fa0-5362-4bf0-9450-26e815d23254",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786396460000
+    },
+    {
+      "title": "John Oliver snackar USA:s justitiedepartement",
+      "description": "Klockrent som vanligt Här har vi veckans avsnitt av Last Week Tonight with John Oliver, där John snackar lite om USA:s justitiedepartement. Vill man enbart se justitiedepartementsnacket så kan man hitta det i klippet ovan. Vill man se avsnittet i sin helhet, så kan man hitta det nedan. L&auml;s vidare och kommentera: https://feber.se/video/john-oliver-snackar-usas-justitiedepartement/494853/ L&auml;s mer om Last Week Tonight with John Oliver , John Oliver , HBO",
+      "link": "https://feber.se/video/john-oliver-snackar-usas-justitiedepartement/494853/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/video/john-oliver-snackar-usas-justitiedepartement/494853/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786395600000
+    },
+    {
+      "title": "Garb: Low Key",
+      "description": "",
+      "link": "https://uncrate.com/garb-low-key/",
+      "guid": "https://uncrate.com/garb-low-key/",
+      "image": "https://uncrate.com/assets_c/2026/08/GARB-LOW-KEY-darkened-thumb-960xauto-192518.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786395600000
+    },
+    {
+      "title": "Greps nära bostad kopplad till Saabs vd",
+      "description": "Det ryska paret greps när de tältade i Gävle. Gripandet ska ha skett nära en bostad som kopplas till Saabs vd, rapporterar SVT. – Det Saab håller på med är naturligtvis väldigt viktigt för vår försvarsmakt och även för andra länder, säger vd:n, Micael Johansson, till SVT Gävleborg .",
+      "link": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
+      "guid": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786395203000
+    },
+    {
+      "title": "Willett Pot Still Reserve Cask Strength Bourbon",
+      "description": "",
+      "link": "https://uncrate.com/willett-pot-still-reserve-cask-strength-bourbon/",
+      "guid": "https://uncrate.com/willett-pot-still-reserve-cask-strength-bourbon/",
+      "image": "https://uncrate.com/assets_c/2026/08/willet-bourbon-whiskey-2-thumb-960xauto-192520.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786394341000
+    },
+    {
+      "title": "Stor synagoga förstördes av både nazisterna och kommunisterna: Nu tas ruinerna fram i dagsljuset",
+      "description": "Vilnius i Litauen kallades ”Nordens Jerusalem” och hade från 1500-talet en av Europas största synagogor. Andra världskriget förändrade allt för stadens judar, men nu har arkeologer återupptäckt resterna av den imponerande byggnaden.",
+      "link": "https://varldenshistoria.se/krig/andra-varldskriget/stor-synagoga-forstordes-av-bade-nazisterna-och-kommunisterna-nu-tas-ruinerna-fram-i-dagsljuset",
+      "guid": "https://varldenshistoria.se/krig/andra-varldskriget/stor-synagoga-forstordes-av-bade-nazisterna-och-kommunisterna-nu-tas-ruinerna-fram-i-dagsljuset",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786393856000
+    },
+    {
+      "title": "Elizabeth Svantesson rasar mot Nooshi Dadgostar i SVT",
+      "description": "Finansminister Elisabeth Svantesson (M) anklagar Nooshi Dadgostar för att förminska de senaste avslöjandena om Vänsterpartiet. I Aktuellt säger hon att hon blir ”mållös”. – För mig är det helt absurt.",
+      "link": "https://www.expressen.se/nyheter/sverige/elizabeth-svantesson-rasar-mot-nooshi-dadgostar-i-svt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/elizabeth-svantesson-rasar-mot-nooshi-dadgostar-i-svt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786392333000
+    },
+    {
+      "title": "Krista Tervo rörd efter räddade medaljchansen: ”Jag är stolt att jag vågade åka till EM”",
+      "description": "Statistikettan Krista Tervo kastar i EM-final i slägga på onsdag. Men det var ingen självklarhet att hon ens ställde upp i Birmingham.",
+      "link": "https://yle.fi/a/7-10102837?origin=rss",
+      "guid": "https://yle.fi/a/7-10102837",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786392116000
+    },
+    {
+      "title": "Man hittad skadad",
+      "description": "Förd till sjukhus • En gripen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=214a9bbf-77c3-4b29-98e4-2cb52456cda5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=214a9bbf-77c3-4b29-98e4-2cb52456cda5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786390854000
+    },
+    {
+      "title": "Virusforskaren Ian Brown har följt fågelinfluensan i över 20 år – en ny, skrämmande utveckling förvånar honom",
+      "description": "Fågelinfluensa sprids i dag mellan arter runtom i världen. Det är en utveckling som går utöver allt som virusforskaren Ian Brown tidigare har sett. Här är hans bedömning av hur nära vi är en epidemi bland människor.",
+      "link": "https://illvet.se/halsa/virusforskaren-ian-brown-har-foljt-fagelinfluensan-i-over-20-ar-en-ny-skrammande-utveckling-forvanar-honom",
+      "guid": "https://illvet.se/halsa/virusforskaren-ian-brown-har-foljt-fagelinfluensan-i-over-20-ar-en-ny-skrammande-utveckling-forvanar-honom",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786390248000
+    },
+    {
+      "title": "Investing in America: The Rise of the 250-Year Bull Market",
+      "description": "",
+      "link": "https://uncrate.com/investing-in-america-the-rise-of-the-250-year-bull-market/",
+      "guid": "https://uncrate.com/investing-in-america-the-rise-of-the-250-year-bull-market/",
+      "image": "https://uncrate.com/assets_c/2026/06/investing-in-america-2-thumb-960xauto-191781.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786389617000
+    },
+    {
+      "title": "Magritte: Mystikern i plommonstopet",
+      "description": "I Magrittes konst är ingenting vad det ger sken av att vara. Den prydlige reklamillustratören i kostym och plommonstop försökte leva ett metodiskt liv, men rycktes ändå ur sin balans av ångest, nazisterna och självmord.",
+      "link": "https://varldenshistoria.se/kultur/kulturpersonligheter/magritte-mystikern-i-plommonstopet",
+      "guid": "https://varldenshistoria.se/kultur/kulturpersonligheter/magritte-mystikern-i-plommonstopet",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786388431000
+    },
+    {
+      "title": "Vad har du för bredband hemma?",
+      "description": "Dagens internetfråga Idag passar vi på att fråga er läsare hur ni kopplar upp er online hemma, främst för att läsa Feber såklart. Dagens fråga blir då vad ni har för bredband hemma? Svara gärna på enkäten nedan. L&auml;s vidare och kommentera: https://feber.se/vad-har-du-for-bredband-hemma/494876/ L&auml;s mer om bredband , Feber , internet , enkät , hemmanätverk",
+      "link": "https://feber.se/vad-har-du-for-bredband-hemma/494876/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vad-har-du-for-bredband-hemma/494876/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786388400000
+    },
     {
       "title": "Mickey Mantle Helmet Fling Framed Print",
       "description": "",
@@ -12,6 +152,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786388400000
+    },
+    {
+      "title": "S-kandidat petad efter inlägg om SD: ”Israels kuksugare”",
+      "description": "”S är bättre än jävla SD rasisterna Israels kuksugare.” Så skrev S-kandidaten Acke Ahmed Ahunzada, 31, under ett Facebookinlägg från Ungsvenskarna. Nu är han borttagen från partiets lista.",
+      "link": "https://www.expressen.se/nyheter/sverige/s-kandidat-petad-efter-inlagg-om-sd-israels-kuksugare/",
+      "guid": "https://www.expressen.se/nyheter/sverige/s-kandidat-petad-efter-inlagg-om-sd-israels-kuksugare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786387215000
+    },
+    {
+      "title": "Byggnader rasar – flera döda",
+      "description": "Kraftig jordbävning i Sydamerika",
+      "link": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
+      "guid": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786387092000
     },
     {
       "title": "En allvarligt skadad efter mc-olycka",
@@ -104,16 +264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786383938000
     },
     {
-      "title": "S-kandidat petad efter inlägg om SD: ”Israels kuksugare”",
-      "description": "”S är bättre än jävla SD rasisterna Israels kuksugare.” Så skrev S-kandidaten Acke Ahmed Ahunzada, 31, under ett Facebookinlägg från Ungsvenskarna. Nu är han borttagen från partiets lista.",
-      "link": "https://www.expressen.se/nyheter/sverige/s-kandidat-petad-efter-inlagg-om-sd-israels-kuksugare/",
-      "guid": "https://www.expressen.se/nyheter/sverige/s-kandidat-petad-efter-inlagg-om-sd-israels-kuksugare/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786383502000
-    },
-    {
       "title": "Sony uppges släppa billigare version av WH-1000XM4",
       "description": "Med ännu fler bokstäver och siffror Efter att ha lanserat de lyxiga och svindyra hörlurarna The Collexion tidigare i år uppges Sony nu gå åt andra hållet med en mer plånboksvänlig nyutgåva av sina klassiska brusreducerande hörlurar WH-1000XM4. Enligt läckaren billbil-kun väntas den nya modellen få det klockrena namnet WH-1000XM4C och lanseras i början av september för cirka 250 euro. Den uppdaterade modellen uppges behålla det gamla hopfällbara formatet från originalet samt specifikationer som QN1-chippet för aktiv brusreducering, stöd för högupplöst ljud och touchkontroller på kåporna. Den enda egentliga kompromissen uppges vara en något kortare batteritid: upp till 27 timmar med brusreducering påslagen (eller 34 timmar utan), jämfört med originalets 30 respektive 38 timmar. Hörlurarna väntas också släppas i nya roliga färger. L&auml;s vidare och kommentera: https://feber.se/pryl/sony-uppges-slappa-billigare-version-av-wh-1000xm4/494875/ L&auml;s mer om Sony , WH-1000XM4 , WH-1000XM4C , billbil-kun , brusreducering",
       "link": "https://feber.se/pryl/sony-uppges-slappa-billigare-version-av-wh-1000xm4/494875/?utm_source=rss&utm_medium=feed",
@@ -162,6 +312,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786381800000
+    },
+    {
+      "title": "Enormt studie av mer än 10 miljoner människor: Din plats i syskonskaran kan avslöja något om din risk att drabbas av adhd och autism",
+      "description": "En grupp forskare har funnit ett ganska häpnadsväckande samband genom att titta på siffror från mer än tio miljoner människor från fler än fem miljoner familjer.",
+      "link": "https://illvet.se/halsa/enormt-studie-av-mer-an-10-miljoner-manniskor-din-plats-i-syskonskaran-kan-avsloja-nagot-om-din-risk-att-drabbas-av-adhd-och-autism",
+      "guid": "https://illvet.se/halsa/enormt-studie-av-mer-an-10-miljoner-manniskor-din-plats-i-syskonskaran-kan-avsloja-nagot-om-din-risk-att-drabbas-av-adhd-och-autism",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786381229000
     },
     {
       "title": "Så går det till att speca en Pagani Utopia",
@@ -305,7 +465,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Åklagaren om misstänkta skärgårdsmördaren: Inga indikationer på våldsamhet tidigare",
-      "description": "Den misstänkte 57-åringen har inte delat nya detaljer efter mordet på Sollenkroka. Inga indikationer har kommit på att mannen varit våldsam tidigare. – Inget sånt har framkommit i nuläget, säger åklagare Emma Olsson.",
+      "description": "Den misstänkte 57-åringen har inte delat nya detaljer efter mordet på Sollenkroka Ö. Inga indikationer har kommit på att mannen varit våldsam tidigare. – Inget sånt har framkommit i nuläget, säger åklagare Emma Olsson.",
       "link": "https://www.expressen.se/nyheter/sverige/aklagaren-om-misstankta-skargardsmordaren-inga-indikationer-pa-valdsamhet-tidigare/",
       "guid": "https://www.expressen.se/nyheter/sverige/aklagaren-om-misstankta-skargardsmordaren-inga-indikationer-pa-valdsamhet-tidigare/",
       "image": "",
@@ -342,6 +502,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786375336000
+    },
+    {
+      "title": "Demens kan fördröjas med 13 år, visar ny studie som förknippar det allvarliga tillståndet med tre konkreta råd",
+      "description": "Josef Coresh, professor och demensforskare sedan 30 år, anser att vi bör ta hand om en mycket speciell del av kroppen för att förhindra att vår hjärna blir mottaglig för sjukdomar.",
+      "link": "https://illvet.se/halsa/tre-saker-kan-skjuta-upp-demens-13-ar-nu-gar-professor-ut-med-en-speciell-uppmaning-till-dig-som-vill-minska-risken-for-det-allvarliga-tillstandet",
+      "guid": "https://illvet.se/halsa/tre-saker-kan-skjuta-upp-demens-13-ar-nu-gar-professor-ut-med-en-speciell-uppmaning-till-dig-som-vill-minska-risken-for-det-allvarliga-tillstandet",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786374916000
     },
     {
       "title": "Parkeringsoro i Röda bergen inför återstarten",
@@ -452,26 +622,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786373400000
-    },
-    {
-      "title": "Byggnader rasar – flera döda",
-      "description": "Kraftig jordbävning i Sydamerika",
-      "link": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
-      "guid": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786373150000
-    },
-    {
-      "title": "KD-politikern om Pride: ”Sex med vem som helst”",
-      "description": "Kristdemokraterna i Kramfors tycker att ”sexfixeringen i samhället är alldeles för stor” – och att ”RFSL har fått alldeles för stort inflytande”. Det har partiet svarat på en fråga om Pride i SVT:s valkompass. Nu tvärvänder ordföranden Anna Larsson.",
-      "link": "https://www.expressen.se/nyheter/sverige/kd-politikern-om-pride--sex-med-vem-som-helst/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kd-politikern-om-pride--sex-med-vem-som-helst/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786372527000
     },
     {
       "title": "Två finländska rekord såg dagens ljus i EM i simning – stafettherrarna krossade 34 år gammal notering",
@@ -745,7 +895,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Olyckan i Tusby upprör unga och frivilliga i mopedförening: ”Det såg exceptionellt vilt ut”",
-      "description": "Frivilligarbetare Roni Suorela är skakad över fallet i Tusby, då en bilburen polis tvingande en ung mopedist av vägen. Mopedisten skadades lindrigt.",
+      "description": "Frivilligarbetare Roni Suorela är skakad över fallet i Tusby, då en bilburen polis tvingade en ung mopedist av vägen, med flera frakturer som följd.",
       "link": "https://yle.fi/a/7-10103331?origin=rss",
       "guid": "https://yle.fi/a/7-10103331",
       "image": "",
@@ -782,26 +932,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786362884000
-    },
-    {
-      "title": "DR avslöjar: Dansk nazist som donerade sperma har biologiska barn också i Finland",
-      "description": "En dansk SS-soldat donerade sperma och blev på 1960-talet biologisk far till minst 15 barn, men de kan vara långt fler.",
-      "link": "https://yle.fi/a/7-10103337?origin=rss",
-      "guid": "https://yle.fi/a/7-10103337",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786362827000
-    },
-    {
-      "title": "Erik, 5, släpades efter Postnordbilen: Hoppas mardrömmarna avtar",
-      "description": "Erik, 5, cyklade när han blev påkörd av en Postnord-bil. Han släpades efter den flera meter och fördes allvarligt skadad till sjukhus. Varje natt drömmer han mardrömmar. – Vi kan inte förstå hur någon kunde utsätta vår son för detta, säger pappa Gustav.",
-      "link": "https://www.expressen.se/nyheter/sverige/erik-5-slapades-efter-postnordbilen-hoppas-mardrommarna-avtar/",
-      "guid": "https://www.expressen.se/nyheter/sverige/erik-5-slapades-efter-postnordbilen-hoppas-mardrommarna-avtar/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786362281000
     },
     {
       "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
@@ -894,26 +1024,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786359082000
     },
     {
-      "title": "9 000 år gammal kvinna",
-      "description": "Upptäckten: Är gravid",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5e54fdf-c457-4b27-b738-04fbca86d213",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5e54fdf-c457-4b27-b738-04fbca86d213",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786358263000
-    },
-    {
-      "title": "Brutala morden skakar landet – sågs av tusentals",
-      "description": "César Gastélum blev skjuten i huvudet samtidigt som han livestreamade. Under de senaste åren har flera influencers mördats i Mexiko. Nu utreder myndigheterna flera mord som kan ha kopplingar till landets knarkkarteller, skriver CNN .",
-      "link": "https://www.expressen.se/nyheter/varlden/brutala-morden-skakar-landet-sags-av-tusentals/",
-      "guid": "https://www.expressen.se/nyheter/varlden/brutala-morden-skakar-landet-sags-av-tusentals/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786356650000
-    },
-    {
       "title": "Betty är äldsta personen som \"wingwalkar\"",
       "description": "Slog sitt egna världsrekord De senaste tio åren har Betty Bromage genomfört sex så kallade \"wingwalks\" där man spänns fast på vingen till ett flygplan och tar sig en tur. Och trots sina 97 år fyllda har hon inga planer på att sluta. Nyligen slog hon sitt egna världsrekord och är den äldsta kvinnan i världen att utföra denna typ av stunt. Förra året fick Betty en stroke och har därför sett till att genom sitt rekord samla in pengar till välgörenhetsorganisationen Cheltenham and Gloucester Hospitals och dess strokeavdelning. L&auml;s vidare och kommentera: https://feber.se/video/betty-ar-aldsta-personen-som-wingwalkar/494869/ L&auml;s mer om Betty Bromage , wingwalker , stunt , äldst , världsrekord , imponerande",
       "link": "https://feber.se/video/betty-ar-aldsta-personen-som-wingwalkar/494869/?utm_source=rss&utm_medium=feed",
@@ -922,16 +1032,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786356000000
-    },
-    {
-      "title": "Traktor och skåpbil i krock",
-      "description": "En person till sjukhus efter frontalkrock",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d1df781c-51f8-4cbf-8ea7-fe7d5d3e6495",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d1df781c-51f8-4cbf-8ea7-fe7d5d3e6495",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786355988000
     },
     {
       "title": "Voyager 2 was running out of power. NASA just bought it more time",
@@ -1444,16 +1544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786273323000
     },
     {
-      "title": "OpenAI pausar sin AI-modell Astra",
-      "description": "Modellen anses för effektiv och utgör en säkerhetsrisk OpenAI har valt att lägga sin nya AI-modell Astra på is för att den helt enkelt visat sig vara nästan för effektiv. Enligt AI-jätten så är modellen så pass kraftfull att den på egen hand kan hitta säkerhetshål och genomföra avancerade it-attacker vilket har gjort att den bedöms utgöra en potentiell fara, vilket ju inte alltid är önskvärt. Så för att minimera riskerna kommer bolaget nu att samarbeta med både myndigheter och säkerhetsexperter för att grundligt testa vad Astra faktiskt är kapabel till innan projektet går vidare. För att hantera situationen har bolaget nu infört strikta restriktioner och arbetet med Astra ska nu ske i helt isolerade testmiljöer med begränsad åtkomst till nätverk samt verktyg. Man har även satt upp system som övervakar modellens tankegångar i realtid för att kunna avbryta processen om den börjar planera något riskfyllt. I sitt blogginlägg så klargör OpenAI också att Astra inte hade något att göra med det intrånget hos AI-plattformen Hugging Face och säger att det var en annan modell. L&auml;s vidare och kommentera: https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/ L&auml;s mer om OpenAI , Astra , Hugging Face , it-attacker , säkerhetshål , AI",
-      "link": "https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/openai-pausar-sin-ai-modell-astra/494841/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786273200000
-    },
-    {
       "title": "Elvan i hemmamötet med Häcken",
       "description": "Så här ställer Hammarby upp i söndagens hemmamatch, som sparkas igång klockan 14.00 på 3Arena. Mötet visas i TV4 Play för dig som inte är på plats.1. Warner Hahn (k)2. Hampus Skoglund6. Ibrahima Fofan",
       "link": "https://www.hammarbyfotboll.se/nyheter/elvan-i-hemmamotet-med-hacken",
@@ -1472,16 +1562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786270511000
-    },
-    {
-      "title": "Hur Villeneuve gick från okänd mekaniker till legendarisk ikon",
-      "description": "Trailern för filmen om Gilles Villeneuves liv Här har vi trailern för filmen Villeneuve: Rise of a Champion som följer en ung Gilles Villeneuve som på 70-talet valde att satsa precis allt på ett kort för att slå sig in i racingvärlden. Till skillnad från många andra förare kom Villeneuve från relativt enkla förhållanden i Kanada och saknade de ekonomiska musklerna som krävs i branschen. Men tack vare en galen passion för bilar och en sällsynt råtalang utmanade han oddsen att gå från en okänd mekaniker i Kanada till att bli en av sportens största ikoner. Bonus-Villeneuve nedan. L&auml;s vidare och kommentera: https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/ L&auml;s mer om Gilles Villeneuve , Villeneuve , Kanada , Racing , Formel 1 , motorsport , Film",
-      "link": "https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786269600000
     },
     {
       "title": "700 meter långa strukturer nära en av Egyptens äldsta pyramider förvånar forskare – kan innehålla nyckeln till ett av historiens största mysterier",
@@ -1824,26 +1904,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786190458000
     },
     {
-      "title": "Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga",
-      "description": "Under 11 000 år har ett mycket speciellt reservat fått utvecklas – helt obemärkt.",
-      "link": "https://illvet.se/naturen/forskare-upptacker-en-dold-varld-av-liv-500-meter-under-jordens-yta-nu-vacker-fyndet-en-viktig-fraga",
-      "guid": "https://illvet.se/naturen/forskare-upptacker-en-dold-varld-av-liv-500-meter-under-jordens-yta-nu-vacker-fyndet-en-viktig-fraga",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786190456000
-    },
-    {
-      "title": "En viss grupp barn löper betydligt lägre risk att drabbas av astma och allergi än andra – forskare påstår sig ha avslöjat hemligheten",
-      "description": "Hundratals miljoner människor lider av astma och allergi. Nu har forskare gjort en upptäckt som kan få stor betydelse för kampen mot de vanliga sjukdomarna.",
-      "link": "https://illvet.se/halsa/en-viss-grupp-barn-loper-betydligt-lagre-risk-att-drabbas-av-astma-och-allergi-an-andra-forskare-pastar-sig-ha-avslojat-hemligheten",
-      "guid": "https://illvet.se/halsa/en-viss-grupp-barn-loper-betydligt-lagre-risk-att-drabbas-av-astma-och-allergi-an-andra-forskare-pastar-sig-ha-avslojat-hemligheten",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786179652000
-    },
-    {
       "title": "Olivoljebröd med rosmarin och flingsalt",
       "description": "Ett härligt gott och luftigt bröd som kräver ”starkt” mjöl.",
       "link": "https://alltommat.expressen.se/recept/olivoljebrod-med-rosmarin-och-flingsalt/",
@@ -1892,16 +1952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786166133000
-    },
-    {
-      "title": "Forskare observerade en val på natten – när det stora djuret plötsligt gjorde något vi aldrig tidigare har sett",
-      "description": "Forskare har i åratal försökt förstå ett mystiskt beteende bland valar och nu har de äntligen listat ut vad som sker där nere i mörkret.",
-      "link": "https://illvet.se/naturen/forskare-observerade-en-val-pa-natten-nar-det-stora-djuret-plotsligt-gjorde-nagot-vi-aldrig-tidigare-har-sett",
-      "guid": "https://illvet.se/naturen/forskare-observerade-en-val-pa-natten-nar-det-stora-djuret-plotsligt-gjorde-nagot-vi-aldrig-tidigare-har-sett",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786165236000
     },
     {
       "title": "Över 100 krigsfartyg sjönk under katastrofal kampanj – nu kan du dyka bland dem",
@@ -1994,16 +2044,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786131021000
     },
     {
-      "title": "DSPTCH Bottle Case",
-      "description": "",
-      "link": "https://uncrate.com/dsptch-bottle-case/",
-      "guid": "https://uncrate.com/dsptch-bottle-case/",
-      "image": "https://uncrate.com/assets_c/2026/08/dsptch-bottle-case-1-darkened-thumb-960xauto-192501.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786129200000
-    },
-    {
       "title": "Engångsplast är på väg bort – men målet är svårt att nå",
       "description": "Svårt att uppnå kravet om minskad användning av engångsartiklar i plast.",
       "link": "https://www.mitti.se/nyheter/engangsplast-ar-pa-vag-bort--men-malet-ar-svart-att-na-6.3.371215.e8475524ef",
@@ -2014,26 +2054,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786125720000
     },
     {
-      "title": "Casio Moonphase Analog Watch",
-      "description": "",
-      "link": "https://uncrate.com/casio-moonphase-analog-watch/",
-      "guid": "https://uncrate.com/casio-moonphase-analog-watch/",
-      "image": "https://uncrate.com/assets_c/2026/08/casio-moonphase-analog-watch-1-darkened-thumb-960xauto-192500.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786125600000
-    },
-    {
-      "title": "Hisense 100\" U6 Pro Series Series TV",
-      "description": "",
-      "link": "https://uncrate.com/hisense-100-u6-pro-series-series-tv/",
-      "guid": "https://uncrate.com/hisense-100-u6-pro-series-series-tv/",
-      "image": "https://uncrate.com/assets_c/2026/08/hisense-prominiled-1-thumb-960xauto-192486.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786123824000
-    },
-    {
       "title": "Brita, 92, bor med fladdermöss: ”Inga mygg i alla fall”",
       "description": "Brita Sundberg-Weitman har fladdermöss i sitt hus Villa Solhem på Djurgården.",
       "link": "https://www.mitti.se/nyheter/brita-92-bor-med-fladdermoss-inga-mygg-i-alla-fall-6.3.378536.18f799a2f9",
@@ -2042,16 +2062,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786122180000
-    },
-    {
-      "title": "Inkamumier gav avgörande bevis: Européerna förde med sig kopporna till Amerika",
-      "description": "Hittills har denna berättelse dock främst baserats på samtida skriftliga källor, men nu bekräftas historien av dna från inkamumier.",
-      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/inka-mumier-er-kommet-med-det-endelige-bevis-europaerne-bragte-kopper-til-amerika",
-      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/inka-mumier-er-kommet-med-det-endelige-bevis-europaerne-bragte-kopper-til-amerika",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1786118458000
     },
     {
       "title": "Man ejakulerade på kvinna på Gröna lund – döms",
@@ -2352,16 +2362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786080562000
-    },
-    {
-      "title": "Laserteknik avslöjar upp till 30 000 strukturer i Amazonas från en 2 000 år gammal kultur",
-      "description": "Amazonas täta regnskog har i åratal betraktats som orörd vildmark, där endast mindre grupper av människor tidigare bott. Nu tyder nya fynd på att området haft en befolkning som kan ha uppgått till flera miljoner.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/laserteknik-avslojar-upp-till-30-000-strukturer-i-amazonas-fran-en-2-000-ar-gammal-kultur",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/laserteknik-avslojar-upp-till-30-000-strukturer-i-amazonas-fran-en-2-000-ar-gammal-kultur",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1786078838000
     },
     {
       "title": "Cio:er riskerar att stängas ute från företagens AI-initiativ",
