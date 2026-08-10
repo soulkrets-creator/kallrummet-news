@@ -1,8 +1,228 @@
 {
-  "updatedAt": "2026-08-10T00:54:29.411Z",
+  "updatedAt": "2026-08-10T04:21:46.783Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Rekordvarm sommar i delar av Europa",
+      "description": "Västeuropa upplever sin hittills hetaste sommar, och havet har aldrig varit varmare under en julimånad.",
+      "link": "https://www.expressen.se/nyheter/varlden/rekordvarm-sommar-i-delar-av-europa/",
+      "guid": "https://www.expressen.se/nyheter/varlden/rekordvarm-sommar-i-delar-av-europa/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786334906000
+    },
+    {
+      "title": "Drygt 83 procent av solen försvinner – så ser du den på onsdag",
+      "description": "På onsdagskvällen skyms drygt 80 procent av solen över Sverige. Nästa förmörkelse som syns härifrån kommer redan 2027 – men då täcks som mest en fjärdedel. Den 12 augusti drar en total solförmörkelse in över Europas fastland för första gången sedan 1999. I Sverige blir förmörkelsen partiell, men månen kan ändå täcka uppemot 85 procent […]",
+      "link": "https://www.dagensps.se/varlden/drygt-83-procent-av-solen-forsvinner-sa-ser-du-den-pa-onsdag/",
+      "guid": "https://www.dagensps.se/?p=1662689",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/avellanosa-oeste-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786334854000
+    },
+    {
+      "title": "Mystisk brand",
+      "description": "Boende fick utrymmas",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5538dde8-7795-44c1-9c68-5e156f34202f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5538dde8-7795-44c1-9c68-5e156f34202f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786334535000
+    },
+    {
+      "title": "Lös mysteriet – räkna de hotade igelkottarna i kvarteret",
+      "description": "Då börjar igelkottsveckan 2026 i Stockholm",
+      "link": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
+      "guid": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
+      "image": "https://www.mitti.se/image-3.293143.301787.20260810040052.1.96e6a4326a?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786334400000
+    },
+    {
+      "title": "Pinja Kärhä besviken silvermedaljör i U20-VM: ”Borde ha kastat mer avslappnat”",
+      "description": "Släggkastaren Pinja Kärhä såg till att Finland fick sin andra medalj när U20-VM avslutades på söndagskvällen. Men det blev inte den valör som den unga finländskan hade hoppats på.",
+      "link": "https://yle.fi/a/7-10103302?origin=rss",
+      "guid": "https://yle.fi/a/7-10103302",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786334303000
+    },
+    {
+      "title": "Två terrängbränder på ett dygn – elledning orsakade brand i Lappträsk",
+      "description": "Det råder varning för terrängbrand i hela Nyland. Två terrängbränder härjade under helgen i östra Nyland.",
+      "link": "https://yle.fi/a/7-10103301?origin=rss",
+      "guid": "https://yle.fi/a/7-10103301",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786334245000
+    },
+    {
+      "title": "Uppåt på börserna i Asien",
+      "description": "Efter en spretig och volatil handel förra veckan inleder flera av de stora indexen måndagen åt samma håll: uppåt. Flera börsindex i Asien ökar i måndagens förmiddagshandel. Efter en spretig och volatil handel förra veckan inleder flera av de stora indexen måndagen åt samma håll: uppåt. I Tokyo klättrar Nikkei 225 2,0 procent medan bredare […]",
+      "link": "https://www.dagensps.se/bors-finans/uppat-pa-borserna-i-asien-2/",
+      "guid": "https://www.dagensps.se/?p=1662687",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/uppat-i-sydkorea-arkivbild.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786334124000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103214?origin=rss",
+      "guid": "https://yle.fi/a/7-10103214",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786332149000
+    },
+    {
+      "title": "Nu kan du åka tåg mellan Finland och Sverige",
+      "description": "Tågresan tar en timme och 40 minuter.",
+      "link": "https://yle.fi/a/7-10103300?origin=rss",
+      "guid": "https://yle.fi/a/7-10103300",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786331816000
+    },
+    {
+      "title": "Nykarleby efterlyser tomma hus: ”Det finns en potential”",
+      "description": "Staden vill föra samman renoveringsobjekt och möjliga köpare på en mässa under Juthbackamarknaden.",
+      "link": "https://yle.fi/a/7-10103200?origin=rss",
+      "guid": "https://yle.fi/a/7-10103200",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786331230000
+    },
+    {
+      "title": "Frågor och svar: Så ska du som båtförare agera om försvaret förbjuder båttrafik i östra Finska viken",
+      "description": "Under sommaren har havsområdet och luftrummet i östra Finska viken stängts flera gånger, som en försiktighetsåtgärd mot eventuella bortkomna drönare.",
+      "link": "https://yle.fi/a/7-10103234?origin=rss",
+      "guid": "https://yle.fi/a/7-10103234",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786330818000
+    },
+    {
+      "title": "Information om stängda havsområden når inte båtfarare i Lovisa",
+      "description": "När Försvarsmakten stänger luftrummet och havsområdet i östra Finska viken ska man hålla sig borta. Få båtfarare i Lovisa känner till begränsningarna.",
+      "link": "https://yle.fi/a/7-10103048?origin=rss",
+      "guid": "https://yle.fi/a/7-10103048",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786330814000
+    },
+    {
+      "title": "Rekordvarm sommar i Västeuropa, men normal julitemperatur i Finland",
+      "description": "Västra Europa upplever den varmasta sommaren i mäthistorien. Globalt sett var juli den nästvarmaste som uppmätts.",
+      "link": "https://yle.fi/a/7-10103299?origin=rss",
+      "guid": "https://yle.fi/a/7-10103299",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786330352000
+    },
+    {
+      "title": "Försvarsmakten övar i Sibbo",
+      "description": "Soldater i stridsutrustning kommer att röra sig runt i området. Ingen övningsammunition kommer att användas och övningarna kommer inte att förorsaka buller.",
+      "link": "https://yle.fi/a/7-10103188?origin=rss",
+      "guid": "https://yle.fi/a/7-10103188",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786330214000
+    },
+    {
+      "title": "Barnet ville inte spänna fast sig – då ställdes hela flighten in",
+      "description": "Ett litet barn stod upp i sätet och vägrade spänna fast bältet. Planet rullade tillbaka till gaten, alla fick kliva av – och flighten ställdes in helt. Det har skett en rad uppmärksammade incidenter på sistone som rör batterier – där flygbolagen nu skärper sina regler. Flyg i all sin ära, men nu börjar många […]",
+      "link": "https://www.dagensps.se/weekend/resor/barnet-ville-inte-spanna-fast-sig-da-stalldes-hela-flighten-in/",
+      "guid": "https://www.dagensps.se/?p=1662683",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/3cb4a37c3bf91013-300x300.avif",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786330061000
+    },
+    {
+      "title": "Företagare i Nagu gästhamn nöjda trots tomma försäljningsbodar: ”Vi säljer mer i Nagu än i Hangö”",
+      "description": "Strandpromenaden i Nagu med sina röda bodar är ett populärt litet shoppingstråk i skärgården. Pargas stad hoppas att alla bodar ska hitta hyresgäster och gör upp nya avtal vid årsskiftet.",
+      "link": "https://yle.fi/a/7-10103244?origin=rss",
+      "guid": "https://yle.fi/a/7-10103244",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786329462000
+    },
+    {
+      "title": "Oljepriset klättrar",
+      "description": "Efter attack i Hormuzsundet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b71c791d-48e8-4072-94ae-3cd057e06de5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b71c791d-48e8-4072-94ae-3cd057e06de5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786329372000
+    },
+    {
+      "title": "Sju döda",
+      "description": "Attack i Jemen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3c281fc-b4fa-4a55-a131-2bdba332b580",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d3c281fc-b4fa-4a55-a131-2bdba332b580",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786329361000
+    },
+    {
+      "title": "Hangö Museum sitter på unik samling med dammode i sex generationer",
+      "description": "I Hangö Museums arkiv finns omkring 500 välbevarade damkläder från sent 1700-tal fram till 1930-talet. Nu ställer museet ut delar av samlingen.",
+      "link": "https://yle.fi/a/7-10103056?origin=rss",
+      "guid": "https://yle.fi/a/7-10103056",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786329190000
+    },
+    {
+      "title": "Bristande språkkunskaper hos närvårdarstuderande kan äventyra patientsäkerheten",
+      "description": "Närvårdarstuderande med annat modersmål än finska eller svenska har ofta för dåliga språkunskaper för att kommunicera med patienter i praktiken.",
+      "link": "https://yle.fi/a/7-10100556?origin=rss",
+      "guid": "https://yle.fi/a/7-10100556",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786329014000
+    },
+    {
+      "title": "Trumps nya måltavla: ”Full av skit”",
+      "description": "Donald Trump har riktat in sig på demokraten Abdul El-Sayed. Presidenten har gått till upprepade angrepp – och beskriver honom som en ”katastrof för landet”. – Abdul El-Sayed verkar vara en trevlig man, men han är fylld av hat, säger Trump, enligt Politico .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-nya-maltavla-full-av-skit/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-maltavla-full-av-skit/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786328314000
+    },
+    {
+      "title": "Europas börser rusar vidare – investerare ser grönt",
+      "description": "Europas börser fortsätter att gå starkt. Efter en längre period där amerikanska aktier dominerade investerarnas intresse har den europeiska aktiemarknaden fått ett tydligt uppsving under 2026. De europeiska börserna stängde på plus i fredags, samtidigt som investerare följer utvecklingen i Mellanöstern. Europas börser hade rekordår förra året och de gröna siffrorna har i stort sett […]",
+      "link": "https://www.dagensps.se/bors-finans/europas-borser-rusar-vidare-investerare-ser-gront/",
+      "guid": "https://www.dagensps.se/?p=1662678",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-tima-miroshnichenko-7567565.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786326148000
+    },
     {
       "title": "Familjen sa nej till 30 euro kvadratmetern – nu tvingas de lämna den för två",
       "description": "Familjen Garza tackade nej till 25 euro kvadratmetern för marken intill Zaragozas största köpcentrum. Nu tas marken över för två euro per kvadratmeter för Microsofts datacenter. AI-bommen kräver energi, mycket sådan. Google, Meta och Microsoft bygger egna gaskraftverk i rekordfart för att få energi till sina AI-datacenter. Beställningarna har redan slagit 25-årsrekord, där lösningen stavas […]",
@@ -174,16 +394,6 @@
       "timestamp": 1786299448000
     },
     {
-      "title": "Flera skadade i skjutning i Danmark",
-      "description": "Skjutning i Danmark • ”15-20 svartklädda män”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c030ee4c-0e97-471c-af9e-59dbda609c17",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c030ee4c-0e97-471c-af9e-59dbda609c17",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786297981000
-    },
-    {
       "title": "Paniken – försöker öppna nödutgången",
       "description": "Misstänks för mordförsök • Förklaringen",
       "link": "https://www.expressen.se/tv/nyheter/paniken-9-000-meter-upp-i-luften-forsoker-oppna-nodutgang-",
@@ -222,16 +432,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786294790000
-    },
-    {
-      "title": "Wilma, 19, fick operera bort en meter av tarmen",
-      "description": "Det som avfärdades som magsjuka slutade med att Wilma tvingades operera bort över en meter av sin tarm. – Det var som en feberdröm, säger 19-åringen. Nu riktar hon kritik mot vården.",
-      "link": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/wilma-19-fick-operera-bort-en-meter-av-tarmen-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786293947000
     },
     {
       "title": "Fick sparken efter mordförsöksdom – stämmer Google",
@@ -304,16 +504,6 @@
       "timestamp": 1786291214000
     },
     {
-      "title": "Här ses hundratals – och springer långsamt",
-      "description": "Expressen testar löpargruppen i Stockholm",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/har-ses-hundratals-och-springer-langsamt",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/har-ses-hundratals-och-springer-langsamt",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786290485000
-    },
-    {
       "title": "Riksdagens tidigare talman Erkki Pystynen har dött",
       "description": "Pystynen var riksdagsledamot i 16 år.",
       "link": "https://yle.fi/a/7-10103294?origin=rss",
@@ -324,26 +514,6 @@
       "timestamp": 1786289509000
     },
     {
-      "title": "Flera skogsbränder – ”extremt hög brandrisk”",
-      "description": "Det brinner på flera platser i landet. Risken nya skogsbränder är extremt stor, enligt SMHI. – Man låter bli och elda, säger Alexander Westerberg från Storstockholms brandförsvar.",
-      "link": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
-      "guid": "https://www.expressen.se/nyheter/sverige/flera-skogsbrander-extremt-hog-brandrisk/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786289261000
-    },
-    {
-      "title": "Hotar ta försäkringen från bil med Jesusbudskap",
-      "description": "Bilägaren klistrade stora dekaler med texten ”Jesus älskar dig” på sin Nissan Pixo. Då hotar det brittiska försäkringsbolaget att upphäva hans försäkring. ”Vi kräver att dekalen avlägsnas för att policyn ska fortsätta att gälla”, skriver bolaget till honom.",
-      "link": "https://www.expressen.se/nyheter/varlden/hotar-ta-forsakringen-fran-bil-med-jesusbudskap/",
-      "guid": "https://www.expressen.se/nyheter/varlden/hotar-ta-forsakringen-fran-bil-med-jesusbudskap/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786288388000
-    },
-    {
       "title": "Skräcknota krympte till småpengar",
       "description": "Vad gör du när verkstaden ger dig en galet dyr offert? Här har vi ett klipp från YouTube-kanalen TeamOdiffat där de snackar lite om hur en bilfirma konstaterade att en reparation på en Volvo V60 skulle landa på över 110 000 kronor. Det lät ju som ganska mycket pengar så när bilen undersöktes på nytt på annat håll så visade sig att det endast var en trasig vakuumventil som var problemet. En ny ventil kostade bara 270 kronor vilket, även med jobb, ju blev betydligt billigare än 110 000 kronor. L&auml;s vidare och kommentera: https://feber.se/fordon/skracknota-krympte-till-smapengar/494844/ L&auml;s mer om TeamOdiffat , Volvo V60 , bilreparation , vakuumventil , YouTube , bilverkstad",
       "link": "https://feber.se/fordon/skracknota-krympte-till-smapengar/494844/?utm_source=rss&utm_medium=feed",
@@ -352,16 +522,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786287600000
-    },
-    {
-      "title": "Krock på E4",
-      "description": "Stor påverkan på trafiken",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6fc037d2-751d-4e6c-b725-41a7317a5b8f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6fc037d2-751d-4e6c-b725-41a7317a5b8f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786287498000
     },
     {
       "title": "Nya strider i Tigray väcker rädsla för storkrig i Östafrika",
@@ -382,16 +542,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786285794000
-    },
-    {
-      "title": "Nina Chydenius missar EM på grund av sjukdom: ”Väldigt tråkigt”",
-      "description": "Löparen Nina Chydenius kommer inte att delta i EM-tävlingarna i Birmingham. Stavhopparen Elina Lampela ger besked om sitt deltagande vid ett senare tillfälle.",
-      "link": "https://yle.fi/a/7-10103293?origin=rss",
-      "guid": "https://yle.fi/a/7-10103293",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786285392000
     },
     {
       "title": "Smarta dubbar, utfällbar husvagn och Audis comeback",
@@ -424,16 +574,6 @@
       "timestamp": 1786283464000
     },
     {
-      "title": "Netanyahu stoppar Trumps Gazaplan – kräver total avväpning av Hamas",
-      "description": "Hamas har redan sagt ja till den amerikanska fredsplanen – men Israel vägrar lämna Gaza.",
-      "link": "https://yle.fi/a/7-10103290?origin=rss",
-      "guid": "https://yle.fi/a/7-10103290",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786282408000
-    },
-    {
       "title": "Nu drar sommarbion i Rålis i gång – med en hemlig rulle",
       "description": "Utomhusbio i Rålambshovsparken – program: här är filmerna som visas 2026",
       "link": "https://www.mitti.se/nyheter/nu-drar-sommarbion-i-ralis-i-gang--med-en-hemlig-rulle-6.3.378588.a2cabf5daa",
@@ -442,16 +582,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786282200000
-    },
-    {
-      "title": "Kolbranden på Vasklot kraftverk fortfarande inte släckt",
-      "description": "Ett dygn efter larmet arbetar personalen på Vasklot kraftverk fortfarande med att släcka branden som bröt ut under lördagen.",
-      "link": "https://yle.fi/a/7-10103291?origin=rss",
-      "guid": "https://yle.fi/a/7-10103291",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786281743000
     },
     {
       "title": "Ät rätt nu – du kan behöva det om 20 år",
@@ -472,16 +602,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786280400000
-    },
-    {
-      "title": "Soc & koms rektor: Wille Rydmans beslut blottar ett kryphål i forskningsfinansieringen",
-      "description": "Rektor Petra Kouvonen reagerar kraftigt på minister Rydmans agerande och pekar nu ut sätt som skulle stärka forskningens roll i beslut som berör socialt arbete.",
-      "link": "https://yle.fi/a/7-10103196?origin=rss",
-      "guid": "https://yle.fi/a/7-10103196",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786279887000
     },
     {
       "title": "De fixar husvagnspizzeria i trädgården",
@@ -544,16 +664,6 @@
       "timestamp": 1786276800000
     },
     {
-      "title": "Svenska laget har full förståelse för Nora Lindahls val: ”Ingen idrottare ställer sig bakom SOK:s agerande”",
-      "description": "Vägen till OS som svensk idrottare kan vara snårig. De blågula idrottarna håller inte tillbaka när de kritiserar den nationella olympiska kommittén.",
-      "link": "https://yle.fi/a/7-10103288?origin=rss",
-      "guid": "https://yle.fi/a/7-10103288",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786276619000
-    },
-    {
       "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
       "description": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
@@ -572,16 +682,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786275017000
-    },
-    {
-      "title": "Vasa IFK vill rädda barnens spelglädje – satsar på kravlös hobbyfotboll",
-      "description": "Idrottsföreningen Vasa IFK ska börja erbjuda kravlös hobbyfotboll för barn som vill spela utan prestationskrav. Fokus ligger på glädje och gemenskap.",
-      "link": "https://yle.fi/a/7-10103106?origin=rss",
-      "guid": "https://yle.fi/a/7-10103106",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786274252000
     },
     {
       "title": "Chemists set electrons free and break a decades-old chemistry barrier",
@@ -614,36 +714,6 @@
       "timestamp": 1786273140000
     },
     {
-      "title": "Avliden man hittades i Pargas under veckoslutet",
-      "description": "En avliden man har hittats i Pargas. Det kan vara mannen som anmälts som försvunnen.",
-      "link": "https://yle.fi/a/7-10103289?origin=rss",
-      "guid": "https://yle.fi/a/7-10103289",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786273063000
-    },
-    {
-      "title": "Det kunde ha slutat illa för mopedföraren i Tusby, säger expert och kritiserar polisen",
-      "description": "Docent Henri Rikander kritiserar att polisen prejade en mopedförare i Tusby: ”Jag kan inte komma på ett brott som skulle göra polisens agerande försvarbart”, säger han.",
-      "link": "https://yle.fi/a/7-10103287?origin=rss",
-      "guid": "https://yle.fi/a/7-10103287",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786272576000
-    },
-    {
-      "title": "Polisen övervakar skolstartstrafiken i hela landet",
-      "description": "Trafik i tätorter nära skolor kommer att övervakas i två veckor framöver. Polisen uppmanar förare att vara särskilt uppmärksamma då barn rör sig i trafiken.",
-      "link": "https://yle.fi/a/7-10103286?origin=rss",
-      "guid": "https://yle.fi/a/7-10103286",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786271465000
-    },
-    {
       "title": "Dinosaurs became giants — so why did they never become tiny?",
       "description": "Dinosaurs conquered the land at enormous sizes, but strangely, they almost never evolved into truly tiny animals. New research suggests that physiology alone can’t explain this missing miniature end of the dinosaur spectrum—and that early mammals may have been partly responsible. While dinosaurs kept mammals from becoming large, small mammals may have returned the favor by occupying ecological niches that could otherwise have supported mouse-sized dinosaurs.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
@@ -654,16 +724,6 @@
       "timestamp": 1786270511000
     },
     {
-      "title": "Föreningen Hope samlar in ryggsäckar till behövande skolbarn",
-      "description": "Allt fler barnfamiljer söker hjälp hos välgörenhetsföreningen Hope i Åbo. Även behovet av ryggsäckar inför skolstarten väntas öka.",
-      "link": "https://yle.fi/a/7-10103222?origin=rss",
-      "guid": "https://yle.fi/a/7-10103222",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786270039000
-    },
-    {
       "title": "Hur Villeneuve gick från okänd mekaniker till legendarisk ikon",
       "description": "Trailern för filmen om Gilles Villeneuves liv Här har vi trailern för filmen Villeneuve: Rise of a Champion som följer en ung Gilles Villeneuve som på 70-talet valde att satsa precis allt på ett kort för att slå sig in i racingvärlden. Till skillnad från många andra förare kom Villeneuve från relativt enkla förhållanden i Kanada och saknade de ekonomiska musklerna som krävs i branschen. Men tack vare en galen passion för bilar och en sällsynt råtalang utmanade han oddsen att gå från en okänd mekaniker i Kanada till att bli en av sportens största ikoner. Bonus-Villeneuve nedan. L&auml;s vidare och kommentera: https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/ L&auml;s mer om Gilles Villeneuve , Villeneuve , Kanada , Racing , Formel 1 , motorsport , Film",
       "link": "https://feber.se/film/hur-villeneuve-gick-fran-okand-mekaniker-till-legendarisk-ikon/494845/?utm_source=rss&utm_medium=feed",
@@ -672,46 +732,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786269600000
-    },
-    {
-      "title": "EU trappar upp rymdsatsning: Vill minska beroendet av Elon Musk och USA",
-      "description": "Ett nytt satellitnät ska säkra uppkoppling i Europas mest avlägsna områden.",
-      "link": "https://yle.fi/a/7-10103285?origin=rss",
-      "guid": "https://yle.fi/a/7-10103285",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786269595000
-    },
-    {
-      "title": "Nya problemet: Felkissande golfare",
-      "description": "Det finns stora och små problem. Du får själv välja i vilken kategori du vill placera ämnet ”felkissande golfare”. Det är från Örebro nödropet (obs ej ordvits) kommer om felaktigt kissande golfare. Närmare bestämt hör de hemma på banan vid Gustavsviks golfklubb och väljer att kissa i det öppna i stället för att ta stegen […]",
-      "link": "https://www.dagensps.se/varlden/nya-problemet-felkissande-golfare/",
-      "guid": "https://www.dagensps.se/?p=1662614",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl3g-pcesv7ti-nh.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786267533000
-    },
-    {
-      "title": "Rheinmetall-chefen har livvakter dygnet runt efter ryska mordplaner",
-      "description": "Att backa är inget alternativ, säger försvarsbolagets Rheinmetalls chef Armin Papperger om de ryska planerna på att mörda honom. Rheinmetallchefen Armin Papperger är föremål ryska mordplaner, som Dagens PS tidigare rapporterat om. Trots hoten tänker den tyske försvarschefen inte backa. ”Man måste göra jobbet, och den som viker ner sig hör inte hemma på en […]",
-      "link": "https://www.dagensps.se/bors-finans/rheinmetall-chefen-har-livvakter-dygnet-runt-efter-ryska-mordplaner/",
-      "guid": "https://www.dagensps.se/?p=1662597",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlkksji7-8qso-normalhires-scaled.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786266166000
-    },
-    {
-      "title": "USA: Drönare på tysk flygplats ”sannolikt rysk”",
-      "description": "USA:s underrättelsetjänster bedömer att den drönare med sprängämnen som upptäcktes på en tysk flygplats ”sannolikt” är rysk. En drönare utrustad med sprängämnen och hittad på flygplatsen i tyska Leipzig är sannolikt rysk, enligt amerikanska media som hänvisar till källor inom USA:s underrättelsetjänster. Uppgifterna kommer några dagar efter att ett ukrainskt fraktflygplan lastat med ammunition utsattes […]",
-      "link": "https://www.dagensps.se/varlden/usa-dronare-pa-tysk-flygplats-sannolikt-rysk/",
-      "guid": "https://www.dagensps.se/?p=1662594",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlcnignym88-0-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786266071000
     },
     {
       "title": "700 meter långa strukturer nära en av Egyptens äldsta pyramider förvånar forskare – kan innehålla nyckeln till ett av historiens största mysterier",
@@ -742,26 +762,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786265248000
-    },
-    {
-      "title": "Emma Juntunen blev fem hundradelar från final i U20-VM – flera blåvita medaljkandidater i elden i kväll",
-      "description": "Emma Juntunen slutade femma i sin semifinal på 400 meter häck. Juntunen noterades för nytt personligt rekord, men det räckte inte ända till final.",
-      "link": "https://yle.fi/a/7-10103284?origin=rss",
-      "guid": "https://yle.fi/a/7-10103284",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786265246000
-    },
-    {
-      "title": "Nya vapnet ska stoppa drönare",
-      "description": "En ny typ av ammunition ska vara effektiv mot mindre drönare. Nu testas den av USA:s marinkår som ett vapen mot fiberoptiskt styrda drönare. USA:s marinkår har köpt in en ny typ av ammunition som är utformad för att vara effektiv mot mindre drönare. Marinen kommer att använda den nya ammunitionen, av typen 5.56 L, […]",
-      "link": "https://www.dagensps.se/varlden/nya-vapnet-ska-stoppa-dronare/",
-      "guid": "https://www.dagensps.se/?p=1662583",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/513484.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786263493000
     },
     {
       "title": "Wreckfest 2 visas upp i ny trailer",
@@ -864,16 +864,6 @@
       "timestamp": 1786253640000
     },
     {
-      "title": "Dömdes för grov människoexploatering – överklagar",
-      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
-      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
       "title": "Lättare hitta parkering vid Mälarhöjdsbadet efter avgift",
       "description": "Efter sommarens p-avgift vid Mälarhöjdsbadet och Sätrastrandsbadet upplever badgäster färre felparkeringar och lättare att hitta plats. Syftet är bättre framkomlighet för blåljus och mindre kaos.",
       "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
@@ -889,6 +879,16 @@
       "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Dömdes för grov människoexploatering – överklagar",
+      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
+      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
