@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-09T21:21:01.457Z",
+  "updatedAt": "2026-08-10T00:54:29.411Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Familjen sa nej till 30 euro kvadratmetern – nu tvingas de lämna den för två",
+      "description": "Familjen Garza tackade nej till 25 euro kvadratmetern för marken intill Zaragozas största köpcentrum. Nu tas marken över för två euro per kvadratmeter för Microsofts datacenter. AI-bommen kräver energi, mycket sådan. Google, Meta och Microsoft bygger egna gaskraftverk i rekordfart för att få energi till sina AI-datacenter. Beställningarna har redan slagit 25-årsrekord, där lösningen stavas […]",
+      "link": "https://www.dagensps.se/teknik/familjen-sa-nej-till-30-euro-kvadratmetern-nu-tvingas-de-lamna-den-for-tva/",
+      "guid": "https://www.dagensps.se/?p=1662673",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl2ml5z-wx2v0-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786322683000
+    },
+    {
+      "title": "Gängboss häktas",
+      "description": "Greps i Dubai",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fd201ada-b4de-4ce1-9339-c6300d50ebd7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fd201ada-b4de-4ce1-9339-c6300d50ebd7",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786320409000
+    },
+    {
+      "title": "19 tåg för två miljarder euro – nu utmanas Eurostar på allvar",
+      "description": "Trenitalia France beställer 19 höghastighetståg av Hitachi för omkring två miljarder euro. Tio av tågen ska trafikera Paris–London från 2029. Det händer mycket på tågsidan i Europa. Flera nya satsningar gör det lättare att resa långt utan att behöva pussla ihop resan själv. Ett exempel är nattågstrafiken – den fortsätter att byggas ut. Österrikiska ÖBB […]",
+      "link": "https://www.dagensps.se/weekend/resor/19-tag-for-tva-miljarder-euro-nu-utmanas-eurostar-pa-allvar/",
+      "guid": "https://www.dagensps.se/?p=1662669",
+      "image": "https://images.dagensps.se/app/uploads/2026/04/pexels-shox-32707616-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786317256000
+    },
+    {
+      "title": "Pekas ut – hjälpte inte strandsatt båt",
+      "description": "En liten motorbåt fick soppatorsk i Alaska. I närheten fanns Mark Zuckerbergs superyacht. Trots upprepade nödanrop kom inte Facebook-grundarens yacht till undsättning, skriver The Guardian .",
+      "link": "https://www.expressen.se/nyheter/varlden/pekas-ut-hjalpte-inte-strandsatt-bat/",
+      "guid": "https://www.expressen.se/nyheter/varlden/pekas-ut-hjalpte-inte-strandsatt-bat/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786313144000
+    },
+    {
+      "title": "Markerar mot Zelenskyj",
+      "description": "Plockar ner ukrainska flaggorna",
+      "link": "https://www.expressen.se/tv/nyheter/har-tas-den-ukrainska-flaggan-ner-",
+      "guid": "https://www.expressen.se/tv/nyheter/har-tas-den-ukrainska-flaggan-ner-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786310827000
+    },
     {
       "title": "Flera bilar i krock",
       "description": "Stor påverkan på trafiken mot Stockholm",
@@ -52,6 +102,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786304473000
+    },
+    {
+      "title": "Universums fem mest gigantiska explosioner – får solen att framstå som en liten smällare",
+      "description": "Universums mest explosiva fenomen motsvarar 16,8 solmassor omvandlade till energi.",
+      "link": "https://illvet.se/universum/universums-fem-mest-gigantiska-explosioner-far-solen-att-framsta-som-en-liten-smallare",
+      "guid": "https://illvet.se/universum/universums-fem-mest-gigantiska-explosioner-far-solen-att-framsta-som-en-liten-smallare",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786303821000
     },
     {
       "title": "Ex-prinsen kan få kunglig begravning – trots Epsteinskandal: ”En skam”",
@@ -334,16 +394,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786285392000
     },
     {
-      "title": "En miljon evakueras",
-      "description": "Kraftig tyfon drar in över Kina",
-      "link": "https://www.expressen.se/tv/nyheter/tyfon-drar-in-over-kina-en-miljon-evakueras",
-      "guid": "https://www.expressen.se/tv/nyheter/tyfon-drar-in-over-kina-en-miljon-evakueras",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786284841000
-    },
-    {
       "title": "Smarta dubbar, utfällbar husvagn och Audis comeback",
       "description": "Veckan i bilvärlden bjöd på ett finskt däck som tänker själv, en husvagn som växer till 28 kvadratmeter på en minut och fartkameror som läser av din mobil. Samtidigt rullar en av bilhistoriens mest älskade modeller tillbaka in på scenen. Här är vad läsarna uppskattade mest denna vecka blandat med de färskaste nyheterna från fabrikerna: […]",
       "link": "https://www.dagensps.se/motor/smarta-dubbar-utfallbar-husvagn-och-audis-comeback/",
@@ -352,16 +402,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786284596000
-    },
-    {
-      "title": "Kyrkan håller öppet efter dödsolyckan: ”Jättetragiskt”",
-      "description": "Under lördagen dog ett ett litet barn i en traktorolycka i Svenljunga kommun. Nu öppnar kyrkan i bygden för stöd till sörjande. – Det är jättetragiskt, säger prästen Hans Leander.",
-      "link": "https://www.expressen.se/nyheter/sverige/kyrkan-haller-oppet-efter-dodsolyckan-jattetragiskt/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kyrkan-haller-oppet-efter-dodsolyckan-jattetragiskt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786284234000
     },
     {
       "title": "El Niño kan göra matkassen dyrare",
@@ -382,16 +422,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786283464000
-    },
-    {
-      "title": "Varnar Trump-kopplade bolaget – efter oljeplanerna",
-      "description": "Ett Trump-kopplat oljebolag vill borra på Grönland. Nyligen förde bolaget i land utrustning för provborrning – utan något godkännande. Nu utfärdar den grönländska regeringen en kraftig varning, skriver The Guardian .",
-      "link": "https://www.expressen.se/nyheter/varlden/varnar-trump-kopplade-bolaget-efter-oljeplanerna/",
-      "guid": "https://www.expressen.se/nyheter/varlden/varnar-trump-kopplade-bolaget-efter-oljeplanerna/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786282940000
     },
     {
       "title": "Netanyahu stoppar Trumps Gazaplan – kräver total avväpning av Hamas",
@@ -744,16 +774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786262400000
     },
     {
-      "title": "Chefsekonomen: AI tar inte jobben – ännu: ”Vi är i bankomatfasen”",
-      "description": "AI skulle slå ut stora delar av arbetsmarknaden. Så lät varningarna när ChatGPT slog igenom. Nästan fyra år senare pekar Vanguards chefsekonom på en annan utveckling – och jämför dagens AI med 1980-talets bankomater. När bankomaterna började breda ut sig på 1980-talet låg slutsatsen nära till hands: snart behövs inga banktjänstemän längre. Så blev det […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/chefsekonomen-ai-tar-inte-jobben-annu-vi-ar-i-bankomatfasen/",
-      "guid": "https://www.dagensps.se/?p=1662574",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl9kkvvqro0e8-normalhires.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786261991000
-    },
-    {
       "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
       "description": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk. Moderate wine drinkers had a 21% lower risk of cardiovascular death compared with people who rarely or never drank.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
@@ -762,16 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786261770000
-    },
-    {
-      "title": "Många sparar för mycket – experten: Använd pengarna nu",
-      "description": "Svenska arv blir allt större. Problemet är bara att pengarna ofta kommer när mottagaren redan hunnit klara de dyraste åren på egen hand. Nu tycker experter att fler äldre borde våga använda sina pengar medan de lever. ”Barn får i dag ofta vänta tills båda föräldrarna har avlidit innan arvet faller ut. Det kan bli […]",
-      "link": "https://www.dagensps.se/privatekonomi/manga-sparar-for-mycket-experten-anvand-pengarna-nu/",
-      "guid": "https://www.dagensps.se/?p=1662563",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-onurcanelma-35973274.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786260621000
     },
     {
       "title": "Netflix sägs ha skrotat amerikanska Squid Game",
@@ -864,21 +874,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786251600000
     },
     {
-      "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
-      "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
-      "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
-      "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
-      "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
       "title": "Lättare hitta parkering vid Mälarhöjdsbadet efter avgift",
       "description": "Efter sommarens p-avgift vid Mälarhöjdsbadet och Sätrastrandsbadet upplever badgäster färre felparkeringar och lättare att hitta plats. Syftet är bättre framkomlighet för blåljus och mindre kaos.",
       "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
       "guid": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
       "image": "https://www.mitti.se/image-3.377721.301931.20260809053045.1.47c022940e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
+      "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
+      "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
+      "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
+      "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
@@ -1682,16 +1692,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786109744000
-    },
-    {
-      "title": "Enormt rymdobjekt kommer att susa nära förbi jorden: Nu har forskare upptäckt en oväntad risk",
-      "description": "Allt tyder på att den kommer att susa säkert förbi vår planet. Men nu har två italienska astronomer upptäckt att något annat kan komma i vägen när den besöker oss.",
-      "link": "https://illvet.se/universum/enormt-rymdobjekt-kommer-att-susa-nara-forbi-jorden-nu-har-forskare-upptackt-en-ovantad-risk",
-      "guid": "https://illvet.se/universum/enormt-rymdobjekt-kommer-att-susa-nara-forbi-jorden-nu-har-forskare-upptackt-en-ovantad-risk",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786107974000
     },
     {
       "title": "Fick larm om vapenliknande föremål – var kofot",
@@ -3262,26 +3262,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785730020000
-    },
-    {
-      "title": "MP vill öppna regnbågshus i Stockholm: \"Oerhört viktigt\"",
-      "description": "Miljöpartiet vill skapa ett regnbågshus i Stockholm.",
-      "link": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
-      "guid": "https://www.mitti.se/nyheter/mp-vill-oppna-regnbagshus-i-stockholm-oerhort-viktigt-6.3.378275.0b7957a266",
-      "image": "https://www.mitti.se/image-3.377405.301387.20260803103422.1.8ca86fc5ff?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785695400000
-    },
-    {
-      "title": "Villkorligt frigiven man väntade vid svägerskas bostad – döms igen",
-      "description": "En man i 50-årsåldern i Täby döms för hot och kontaktförbudsbrott mot sin ex-fru och hennes syster under sin villkorliga frigivning.",
-      "link": "https://www.mitti.se/nyheter/villkorligt-frigiven-man-vantade-vid-svagerskas-bostad--doms-igen-6.3.377489.9e48f7f3b1",
-      "guid": "https://www.mitti.se/nyheter/villkorligt-frigiven-man-vantade-vid-svagerskas-bostad--doms-igen-6.3.377489.9e48f7f3b1",
-      "image": "https://www.mitti.se/image-3.351485.301092.20260802053039.1.7c8220e172?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785646800000
     }
   ]
 };
