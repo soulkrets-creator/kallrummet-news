@@ -1,8 +1,138 @@
 {
-  "updatedAt": "2026-08-11T18:45:10.562Z",
+  "updatedAt": "2026-08-11T21:34:37.241Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Amerikanska fången släpps efter Trumps samtal med Putin",
+      "description": "Amerikanen Robert Gilman är på väg hem till USA – efter fyra år i ryskt fängelse. Han uppges ha varit ”nära döden”. Enligt Donald Trump släpps den före detta marinsoldaten efter att presidenten pratat med Vladimir Putin.",
+      "link": "https://www.expressen.se/nyheter/varlden/amerikanska-fangen-slapps-efter-trumps-samtal-med-putin/",
+      "guid": "https://www.expressen.se/nyheter/varlden/amerikanska-fangen-slapps-efter-trumps-samtal-med-putin/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786483855000
+    },
+    {
+      "title": "Saga Andersson gick i mentalt baklås i EM-kvalet: ”Jag ville bara bort”",
+      "description": "Det som skulle bli första finalplatsen blev karriärens största besvikelse. Saga Andersson var knäckt efter finalmissen i friidrotts-EM i Birmingham.",
+      "link": "https://yle.fi/a/7-10102835?origin=rss",
+      "guid": "https://yle.fi/a/7-10102835",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786483558000
+    },
+    {
+      "title": "Strömstedts tabbe i TV4",
+      "description": "”Jag lider inte av urinläckage”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=944e0eb6-6b45-4b40-8b1e-72156fe10266",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=944e0eb6-6b45-4b40-8b1e-72156fe10266",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786480444000
+    },
+    {
+      "title": "Kissattack på universitetsbiblioteket i Uppsala",
+      "description": "Någon har kissat bland mikrofilmerna på universitetsbiblioteket i Uppsala, rapporterar UNT. Dessutom upprepade gånger. Nu finns en risk att gammalt tidningsmaterial har skadats.",
+      "link": "https://www.expressen.se/nyheter/sverige/kissattack-pa-universitetsbiblioteket-i-uppsala/",
+      "guid": "https://www.expressen.se/nyheter/sverige/kissattack-pa-universitetsbiblioteket-i-uppsala/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786480389000
+    },
+    {
+      "title": "Oljepriset stiger",
+      "description": "Börserna faller i New York",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=51dc67d6-7d6f-4afa-a393-afb1c7b741c5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51dc67d6-7d6f-4afa-a393-afb1c7b741c5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786480171000
+    },
+    {
+      "title": "Här gör Carola en ny blomkupp",
+      "description": "Flörten med klassiska Allsångs-ögonblicket",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/carolas-nya-blomkupp-under-allsangen",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/carolas-nya-blomkupp-under-allsangen",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786479490000
+    },
+    {
+      "title": "Peanuts x Timex Marlin Chronograph Joe Cool Watch",
+      "description": "",
+      "link": "https://uncrate.com/peanuts-x-timex-marlin-chronograph-joe-cool-watch/",
+      "guid": "https://uncrate.com/peanuts-x-timex-marlin-chronograph-joe-cool-watch/",
+      "image": "https://uncrate.com/assets_c/2026/05/peanuts-x-timex-marlin-chronograph-joe-cool-watch-1-thumb-960xauto-190857.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786478400000
+    },
+    {
+      "title": "Nathalie Blomqvist knäcktes i tudelade finalen: ”Förr eller senare är jag tillbaka”",
+      "description": "Det gick inte vägen för Nathalie Blomqvist på 5000 meter i EM i friidrott i Birmingham. Stallkamratens succé ger kraft inför framtiden.",
+      "link": "https://yle.fi/a/7-10102834?origin=rss",
+      "guid": "https://yle.fi/a/7-10102834",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786477241000
+    },
+    {
+      "title": "Foot Locker Back-to-School Collection",
+      "description": "",
+      "link": "https://uncrate.com/-foot-locker-back-to-school-collection/",
+      "guid": "https://uncrate.com/-foot-locker-back-to-school-collection/",
+      "image": "https://uncrate.com/assets_c/2026/07/foot-locker-back-to-school-3-thumb-960xauto-192334.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786476627000
+    },
+    {
+      "title": "Misstänkta skärgårdsmördarens exfru larmade polis",
+      "description": "Den 57-årige man som misstänks för skärgårdsmordet på Sollenkroka ö har tidigare varit föremål för polisingripande. Flera år innan det misstänkta mordet larmade en tidigare sambo polisen. ”Exet har uttalat underliggande hot. Anmälaren är rädd att det skall eskalera”, står det i polisens händelserapport.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordarens-exfru-larmade-polis/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankta-skargardsmordarens-exfru-larmade-polis/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786475837000
+    },
+    {
+      "title": "USA granskar hissbolaget Kones jätteaffär",
+      "description": "Hissbolaget Kones plan att köpa det tyska bolaget TK Elevator utreds av USA:s justitieministerium.",
+      "link": "https://yle.fi/a/7-10103413?origin=rss",
+      "guid": "https://yle.fi/a/7-10103413",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786475382000
+    },
+    {
+      "title": "Vi har testat Dreame X60 Pro Ultra Complete",
+      "description": "En dammsugare som lyckas med det mesta Att hålla reda på namnen när det gäller Dreames olika modeller är inte helt lätt, vilket ofta gör det lite svårt att reda ut vilken modell man faktiskt behöver. Dreames senaste X60-variant, X60 Pro Ultra Complete, är företagets flaggskepp, och som namnet antyder har den lite extra allt. Det som Dreame vill att man ska fastna för med denna robot är att den har en extra flexibel arm som kommer åt bättre där vanliga sugare inte gör det. Till skillnad från robotklor och rengöringsmedelssprutare så är detta faktiskt en funktion som är vettig samt användbar i vardagen. Det är dess Dual Ultra Extend Arm-teknik som gör att sidoborsten kan komma ut 12 cm och moppen hela 18 cm. Resultatet? Den når faktiskt hela vägen in i hörn och runt stolsben istället för att bara lämna en retlig dammremsa kvar längs golvlisten där man har sina element. Den navigerar med hjälp av en LiDAR-sensor, vilket är ett system som är välbeprövat och generellt känner jag att det fortfarande är det bästa systemet för navigering. Sensorn är infällbar, så om den ska in under lägre soffor eller stolar kan den komma ner till 8 cm höjd. När LiDAR-sensorn fälls in i chassit förlitar sig roboten helt på sina frontkameror, vilket gör att den backar blint när sensorn är nere. Det gör att vissa områden kan ta lite längre tid då den ofta kör lite extra turer. Men generellt så sköter den navigeringen i hemmet utmärkt, och jag kände aldrig att den körde in i något alltför aggressivt som flera andra flaggskepp har en tendens att göra ibland. L&auml;s vidare och kommentera: https://feber.se/pryl/vi-har-testat-dreame-x60-pro-ultra-complete/494857/ L&auml;s mer om Dreame , Dual Ultra extend Arm , Dreame X60 Pro Ultra Complete , LiDAR , ProLeap , robotdammsugare",
+      "link": "https://feber.se/pryl/vi-har-testat-dreame-x60-pro-ultra-complete/494857/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/vi-har-testat-dreame-x60-pro-ultra-complete/494857/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786474800000
+    },
+    {
+      "title": "Uppgifter: Pojkvän misstänktes efter nio minuter",
+      "description": "Larmet från Sollenkroka ö inkom strax före halv fem på eftermiddagen. Då hade pojkvännens telefon varit avstängd i över fyra timmar, enligt uppgifter till TV4 Nyheterna . Nio minuter efter att kvinnan hittades mördad var han misstänkt.",
+      "link": "https://www.expressen.se/nyheter/krim/uppgifter-pojkvan-misstanktes-efter-nio-minuter/",
+      "guid": "https://www.expressen.se/nyheter/krim/uppgifter-pojkvan-misstanktes-efter-nio-minuter/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786474121000
+    },
     {
       "title": "Miraklet – här räddas bebisen",
       "description": "Dras fram ur rasmassorna i Colombia",
@@ -51,7 +181,7 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786471930000
+      "timestamp": 1786471929000
     },
     {
       "title": "Icas hamburgerost återkallas",
@@ -105,7 +235,7 @@
     },
     {
       "title": "Statsministers diss: ”Centern är mjuka”",
-      "description": "Elisabeth Thand Ringqvist (C) presenterar ny trygghetspolitik. Partiet kräver bland annat polisiär närvaro i alla landets kommuner. Men statsminister Ulf Kristersson (M) är inte imponerad. – De är soft-on-crime.",
+      "description": "Elisabeth Thand Ringqvist (C) presenterar ny trygghetspolitik. Partiet kräver bland annat polisiär närvaro i alla landets kommuner. Men statsminister Ulf Kristersson (M) är inte imponerad. – De är soft-on-crime. Nu svarar centerledaren. – Ulf har helt tappat markkontakten.",
       "link": "https://www.expressen.se/nyheter/politik/statsministers-diss--centern-ar-mjuka/",
       "guid": "https://www.expressen.se/nyheter/politik/statsministers-diss--centern-ar-mjuka/",
       "image": "",
@@ -458,7 +588,7 @@
       "description": "Stockholm Parkering köper parkeringshuset vid Tensta Centrum. 25 miljoner investeras i renovering, 250 laddplatser, ökad trygghet, cykelparkering och bilpooler fram till 2028.",
       "link": "https://www.mitti.se/nyheter/otryggt-phus-i-tensta-far-250-elbilsladdare--inflytt-fran-stan-6.3.379255.cbd8d47617",
       "guid": "https://www.mitti.se/nyheter/otryggt-phus-i-tensta-far-250-elbilsladdare--inflytt-fran-stan-6.3.379255.cbd8d47617",
-      "image": "https://www.mitti.se/image-3.377808.302124.20260811154033.1eb072f03b?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377808.302124.20260811183855.23e423e149?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786461000000
@@ -604,16 +734,6 @@
       "timestamp": 1786458558000
     },
     {
-      "title": "Enormt kärnkraftverk stoppat",
-      "description": "Maneter korkar igen kylsystemet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5c368b33-cd3e-4300-b910-dc7e3e722083",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5c368b33-cd3e-4300-b910-dc7e3e722083",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786457773000
-    },
-    {
       "title": "Nasa ger Voyager 2 konstgjord andning",
       "description": "Har gett den nästan 50-åriga sonden ett extra år Rymdsonden Voyager 2 har svävat runt i rymden i nästan 50 år, men är inte riktigt redo för pension ännu. Genom en lyckad manöver som Nasa kallar för operation Big Bang har man lyckats spara tillräckligt med energi för att sonden ska kunna fortsätta samla in vetenskaplig data i ytterligare ett år. Sonden drivs av en sorts generator som omvandlar värme från sönderfallande plutonium till elektricitet, vilket gör att strömförsörjningen minskar med ungefär 4 W årligen. När den sköts upp 1977 hade den tio fungerande instrument, men idag återstår endast tre. L&auml;s vidare och kommentera: https://feber.se/vetenskap/nasa-ger-voyager-2-konstgjord-andning/494913/ L&auml;s mer om Voyager 2 , NASA , plutonium , Operation Big Bang , rymdforskning , rymdsond , plutoniumgenerator",
       "link": "https://feber.se/vetenskap/nasa-ger-voyager-2-konstgjord-andning/494913/?utm_source=rss&utm_medium=feed",
@@ -724,16 +844,6 @@
       "timestamp": 1786454787000
     },
     {
-      "title": "Försvann från Ukraina – krigar nu för Ryssland",
-      "description": "15-åringen från Ukraina försvann från byn i Chersonregionen. Nu har han hittats och tros tjänstgöra för den ryska armén. Fallet är, enligt Ukraina, det första beviset på att kidnappade ukrainska barn får slåss mot sitt eget hemland, skriver United24media .",
-      "link": "https://www.expressen.se/nyheter/varlden/forsvann-fran-ukraina-krigar-nu-for-ryssland/",
-      "guid": "https://www.expressen.se/nyheter/varlden/forsvann-fran-ukraina-krigar-nu-for-ryssland/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786454569000
-    },
-    {
       "title": "Anthropic inför osynliga vattenstämplar för text och bild",
       "description": "För att märka AI-genererat innehåll För att leva upp till de nya reglerna i EU:s AI-förordning ska Anthropic nu börja märka text och bilder som genereras av Claude. Genom att baka in en osynlig vattenstämpel direkt i texten ska innehållet kunna spåras maskinellt utan att textens läslighet eller kvalitet påverkas. Eftersom märkningen är en inbyggd del av själva texten ska den också i många fall finnas kvar även om innehållet kopieras, klistras in någon annanstans eller genomgår lättare redigering. För bildfiler ska man börja använda metadatastandarden C2PA. Förändringen kommer att rullas ut globalt och gälla oavsett var Claude används, som via molnpartners som Google Cloud och AWS. Nya Claude-modeller får funktionen från dag ett, medan äldre modeller ska uppdateras under den fyra månader långa övergångsperiod som EU-lagen tillåter. L&auml;s vidare och kommentera: https://feber.se/internet/anthropic-infor-osynliga-vattenstamplar-for-text-och-bild/494914/ L&auml;s mer om Anthropic , Claude , AI Act , C2PA , vattenstämpel , EU",
       "link": "https://feber.se/internet/anthropic-infor-osynliga-vattenstamplar-for-text-och-bild/494914/?utm_source=rss&utm_medium=feed",
@@ -794,16 +904,6 @@
       "timestamp": 1786453109000
     },
     {
-      "title": "Skräcken på planet – lågor slår ut ur motorn",
-      "description": "Tvingas nödlanda efter olyckan",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-slar-lagorna-ut-fran-flygplansmotorn",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-slar-lagorna-ut-fran-flygplansmotorn",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786453004000
-    },
-    {
       "title": "Stor bokkedja öppnar nytt i city – och stänger butik",
       "description": "Adlibris öppnar ny flaggskepssbutik på Drottninggatan under 2027. Samtidigt lämnar de butiken på Kungsgatan.",
       "link": "https://www.mitti.se/nyheter/stor-bokkedja-oppnar-nytt-i-city--och-stanger-butik-6.3.379339.b97080e07b",
@@ -822,16 +922,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786452551000
-    },
-    {
-      "title": "Bensinpriset stiger",
-      "description": "Nu blir det dyrare",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=01813874-8789-42ac-87f8-c21e661e7d8c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=01813874-8789-42ac-87f8-c21e661e7d8c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786451789000
     },
     {
       "title": "Silvia – och Kristina – firas i jubileumskonsert",
@@ -854,16 +944,6 @@
       "timestamp": 1786451400000
     },
     {
-      "title": "JK: Hangö borde följa sina egna regler – gjorde fel när Fabriksuddens lägenhetshotell blev bostäder",
-      "description": "Hangö gjorde fel då de tillät att inkvarteringsbyggnaderna på Fabriksudden i Hangö blev bostadsvåningshus. Det slår justitiekanslern fast.",
-      "link": "https://yle.fi/a/7-10103401?origin=rss",
-      "guid": "https://yle.fi/a/7-10103401",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786451354000
-    },
-    {
       "title": "Hisense 100\" U7SG Smart Google TV",
       "description": "",
       "link": "https://uncrate.com/hisense-100-u7sg-smart-google-tv/",
@@ -872,16 +952,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786451333000
-    },
-    {
-      "title": "Hemtjänstpersonal körde 190 på 100-väg – varnas",
-      "description": "En hemtjänstanställd i Ystad kommun körde i 190 kilometer i timmen på en 100-väg i början av juli. Kollegan i bilen beskriver färden som mycket obehaglig och vill aldrig åka med honom igen, skriver Ystads Allehanda.",
-      "link": "https://www.expressen.se/nyheter/sverige/hemtjanstpersonal-korde-190-pa-100-vag-varnas/",
-      "guid": "https://www.expressen.se/nyheter/sverige/hemtjanstpersonal-korde-190-pa-100-vag-varnas/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786450603000
     },
     {
       "title": "Snittkakor med lingoncurd",
@@ -912,16 +982,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786449600000
-    },
-    {
-      "title": "Vändning för Kristinestads gymnasium – 30 nya studerande i höst",
-      "description": "Med 30 nya studerande inleddes läsåret i Kristinestads gymnasium med ett rekordstort antal ettor – fler än på ett tiotal år. Samtidigt flyttade skolan in i en tillfällig modulbyggnad.",
-      "link": "https://yle.fi/a/7-10103235?origin=rss",
-      "guid": "https://yle.fi/a/7-10103235",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786449470000
     },
     {
       "title": "Ny Mazda CX-3 lanseras nästa år",
@@ -984,16 +1044,6 @@
       "timestamp": 1786446181000
     },
     {
-      "title": "Illamående och utslagen – drömmen om medalj sprack för Hilla Uusimäki",
-      "description": "Karriärens tredje bästa tid räckte inte till EM-final på 400 meter häck för Hilla Uusimäki.",
-      "link": "https://yle.fi/a/7-10102833?origin=rss",
-      "guid": "https://yle.fi/a/7-10102833",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786446161000
-    },
-    {
       "title": "Ny mus från Corsair har inbyggd Stream Deck-knapp",
       "description": "Kombinerar prestanda med genvägar Corsairs nya mus Nightsword v2 Wireless SD blir världens första gamingmus utrustad med en dedikerad Stream Deck-knapp. Tanken är att man med ett enkelt tryck ska kunna få upp en virtuell Stream Deck-meny direkt på skärmen, där man snabbt och enkelt kan styra allt man kan tänka sig göra med hjälp av en Stream Deck. Själva musen är utrustad med Corsairs Marksman S-sensor som har en precision på 33 000 DPI och stödjer upp till 8 000 Hz hyper-polling. Den kan köras både trådlöst och med sladd om man nu vill det. Kör man trådlöst har den en batteritid på 170 timmar med 2,4 GHz-anslutning. Musen har nu släppts på den svenska marknaden och kan köpas för 1 490 kronor. L&auml;s vidare och kommentera: https://feber.se/pc/ny-mus-fran-corsair-har-inbyggd-stream-deck-knapp/494897/ L&auml;s mer om Corsair , Stream Deck , Nightsword v2 Wireless SD , gamingmus , Marksman S , Web Hub , OBS",
       "link": "https://feber.se/pc/ny-mus-fran-corsair-har-inbyggd-stream-deck-knapp/494897/?utm_source=rss&utm_medium=feed",
@@ -1002,26 +1052,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786446000000
-    },
-    {
-      "title": "Solförmörkelse och meteorregn – samma kväll",
-      "description": "I veckan inträffar ett ovanligt sammanträffande. Två sällsynta himlafenomen kan ses från Sverige under samma dygn – något som hör till ovanligheterna. Här är tiderna då chansen är störst att få en skymt av dem.",
-      "link": "https://www.expressen.se/nyheter/sverige/solformorkelse-och-meteorregn-samma-kvall/",
-      "guid": "https://www.expressen.se/nyheter/sverige/solformorkelse-och-meteorregn-samma-kvall/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786445440000
-    },
-    {
-      "title": "Nytt vittne om Katja Nybergs bilkrasch: Hon ville direkt köra därifrån",
-      "description": "Katja Nyberg ville direkt lämna olycksplatsen efter att hon mejat ner trafikskyltar när hon kraschade sin bil i mellandagarna. Det berättar ett nytt vittne som åklagaren nu vill kalla till rättegången mot riksdagsledamoten. – Hon plöjer ner alla skyltar, säger vittnet i polisförhör.",
-      "link": "https://www.expressen.se/nyheter/politik/nytt-vittne-om-katja-nybergs-bilkrasch-hon-ville-direkt-kora-darifran/",
-      "guid": "https://www.expressen.se/nyheter/politik/nytt-vittne-om-katja-nybergs-bilkrasch-hon-ville-direkt-kora-darifran/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786445381000
     },
     {
       "title": "Knarkgömma i Majroskogen – 20-åring dömd till fängelse",
@@ -1138,7 +1168,7 @@
       "description": "Sollentuna Seniorgymnastik, SSG, firar 10 årsjubileum i Edsbergsparken.",
       "link": "https://www.mitti.se/nyheter/sollentuna-seniorgymnastik-firar-10-ar-6.3.379314.7c93e97b12",
       "guid": "https://www.mitti.se/nyheter/sollentuna-seniorgymnastik-firar-10-ar-6.3.379314.7c93e97b12",
-      "image": "https://www.mitti.se/image-3.377843.302223.20260811091529.03475d7c41?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377843.302223.20260811194841.687f7ece49?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786436524000
@@ -1404,16 +1434,6 @@
       "timestamp": 1786388431000
     },
     {
-      "title": "Vad har du för bredband hemma?",
-      "description": "Dagens internetfråga Idag passar vi på att fråga er läsare hur ni kopplar upp er online hemma, främst för att läsa Feber såklart. Dagens fråga blir då vad ni har för bredband hemma? Svara gärna på enkäten nedan. L&auml;s vidare och kommentera: https://feber.se/vad-har-du-for-bredband-hemma/494876/ L&auml;s mer om bredband , Feber , internet , enkät , hemmanätverk",
-      "link": "https://feber.se/vad-har-du-for-bredband-hemma/494876/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vad-har-du-for-bredband-hemma/494876/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786388400000
-    },
-    {
       "title": "Mickey Mantle Helmet Fling Framed Print",
       "description": "",
       "link": "https://uncrate.com/mickey-mantle-helmet-fling-framed-print/",
@@ -1434,16 +1454,6 @@
       "timestamp": 1786384800000
     },
     {
-      "title": "SimpleTire",
-      "description": "",
-      "link": "https://uncrate.com/simpletire/",
-      "guid": "https://uncrate.com/simpletire/",
-      "image": "https://uncrate.com/assets_c/2026/08/truck-1-thumb-960xauto-192493.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786382537000
-    },
-    {
       "title": "Parkeringsoro i Röda bergen inför återstarten",
       "description": "Gatuarbete Röda Bergen: Parkeringar stängs av i Vasastan.",
       "link": "https://www.mitti.se/nyheter/parkeringsoro-i-roda-bergen-infor-aterstarten-6.3.379142.93d93a3225",
@@ -1462,16 +1472,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786381229000
-    },
-    {
-      "title": "ATECH Clip-On Air Conduction Buds",
-      "description": "",
-      "link": "https://uncrate.com/atech-clip-on-air-conduction-buds/",
-      "guid": "https://uncrate.com/atech-clip-on-air-conduction-buds/",
-      "image": "https://uncrate.com/assets_c/2026/08/clip-on-air-conduction-buds-1-thumb-960xauto-192511.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786381200000
     },
     {
       "title": "Tysk militär motorcykel från andra världskriget hittad nästan intakt – hade legat i Donau i 80 år",
