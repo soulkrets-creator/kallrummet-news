@@ -1,17 +1,207 @@
 {
-  "updatedAt": "2026-08-11T00:53:57.760Z",
+  "updatedAt": "2026-08-11T04:10:54.747Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Miljardsmällen för Trump",
+      "title": "I morgon börjar Kulturfestivalen – här är programmet",
+      "description": "Programmet för Kulturfestivalen 2026 i Stockholm. Artisterna som spelar.",
+      "link": "https://www.mitti.se/nyheter/i-morgon-borjar-kulturfestivalen--har-ar-programmet-6.3.379259.3dc83a6e68",
+      "guid": "https://www.mitti.se/nyheter/i-morgon-borjar-kulturfestivalen--har-ar-programmet-6.3.379259.3dc83a6e68",
+      "image": "https://www.mitti.se/image-3.371203.302125.20260811040141.1.46d57704c2?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786420800000
+    },
+    {
+      "title": "Försvarar Infantino",
+      "description": "Oväntade hyllningen från Trump",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=238d3c58-ee49-44c5-af0a-6508a480019a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=238d3c58-ee49-44c5-af0a-6508a480019a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786420433000
+    },
+    {
+      "title": "Familj i sjönöd i Lovisa när motorbåt körde på grund",
+      "description": "Den kraftiga sjögången ledde till att en motorbåt i Lovisa körde på grund och började ta in vatten.",
+      "link": "https://yle.fi/a/7-10103365?origin=rss",
+      "guid": "https://yle.fi/a/7-10103365",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786418501000
+    },
+    {
+      "title": "Stor rysk attack",
+      "description": "Flera döda i natt",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786418370000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103313?origin=rss",
+      "guid": "https://yle.fi/a/7-10103313",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786418079000
+    },
+    {
+      "title": "Parkmåltiderna lockade många i Sibbo den här sommaren – betydligt fler portioner delades ut än tidigare år",
+      "description": "Efterfrågan på gratisluncherna under sommarlovet har ökat på grund av de ekonomiskt kärva tiderna, tror man i Sibbo.",
+      "link": "https://yle.fi/a/7-10103334?origin=rss",
+      "guid": "https://yle.fi/a/7-10103334",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786417694000
+    },
+    {
+      "title": "Bänkarna står kvar men havsutsikten är borta – nu stirrar invånarna i Stensvik in i en betongvägg",
+      "description": "Översvämningsskyddet påverkar utsikten från Strandpromenaden. Enligt Esbos miljöplanerare kunde skyddet inte byggas på annat sätt.",
+      "link": "https://yle.fi/a/7-10103112?origin=rss",
+      "guid": "https://yle.fi/a/7-10103112",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786417214000
+    },
+    {
+      "title": "Över 130 döda",
+      "description": "Dödstalet stiger efter jordbävningen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=65afadff-b0e3-487d-8e6a-79839b891713",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65afadff-b0e3-487d-8e6a-79839b891713",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786416385000
+    },
+    {
+      "title": "Miljardsmäll för Trumps mediebolag",
       "description": "Trumps sociala mediebolag redovisar miljardförluster. Bolaget har i närtid lanserat en kritiserad betaltjänst – där användare kan betala för att få ”Truths” från presidenten i förtid. Under 2026 har bolagets aktie rasat med 29 procent, rapporterar Bloomberg .",
       "link": "https://www.expressen.se/nyheter/varlden/miljardsmallen-for-trump/",
       "guid": "https://www.expressen.se/nyheter/varlden/miljardsmallen-for-trump/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786408629000
+      "timestamp": 1786416377000
+    },
+    {
+      "title": "252 miljoner euro i kassan och noll produkter på marknaden – så länge räcker pengarna",
+      "description": "Det belgiska läkemedelsbolaget Agomab har fyllt kassan med 252 miljoner euro och en Nasdaq-notering. Första produkten på marknaden finns fortfarande inte. Läkemedel och biotech har blivit tillflykten för kapital som lämnar AI-hajpen och techbolagen. Om man ska tro på historisk statistik är Astra Zeneca ett fynd. Dagens PS har vidare följt kampen om fetmamarknaden ända […]",
+      "link": "https://www.dagensps.se/bors-finans/252-miljoner-euro-i-kassan-och-noll-produkter-pa-marknaden-sa-lange-racker-pengarna/",
+      "guid": "https://www.dagensps.se/?p=1663130",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/agomab-ipo.jpeg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786416355000
+    },
+    {
+      "title": "Prover visar: Inomhusluften okej på Vasa centralsjukhus",
+      "description": "Efter många svängar ska problemet nu vara löst.",
+      "link": "https://yle.fi/a/7-10103316?origin=rss",
+      "guid": "https://yle.fi/a/7-10103316",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786415889000
+    },
+    {
+      "title": "Spenderar kunder mer pengar i matbutiken nu?",
+      "description": "Livsmedelskedjorna har lagt märke till en förändring i kundernas vanor i matbutiken efter flera år av sparsamt köpbeteende.",
+      "link": "https://yle.fi/a/7-10102740?origin=rss",
+      "guid": "https://yle.fi/a/7-10102740",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786415809000
+    },
+    {
+      "title": "Trump: Mycket bra relation till Netanyahu trots oenighet om Gazaplan",
+      "description": "Israels premiärminister Benjamin Netanyahu meddelade i söndags att han direkt motsätter sig den amerikanska presidentens plan för Gazaremsan.",
+      "link": "https://yle.fi/a/7-10103363?origin=rss",
+      "guid": "https://yle.fi/a/7-10103363",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786415752000
+    },
+    {
+      "title": "Bergsguide om försvunnen finländare: ”Chansen att överleva är minimal”",
+      "description": "Det är svårt att leta efter försvunna personer på berg. Terrängen är oländig och området enormt.",
+      "link": "https://yle.fi/a/7-10103122?origin=rss",
+      "guid": "https://yle.fi/a/7-10103122",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786415414000
+    },
+    {
+      "title": "Bastustugor och förråd utan bygglov har blivit vanligare men reglerna måste följas",
+      "description": "Bastustugor och ekonomibyggnader under 30 kvadratmeter har blivit populära i Raseborg sedan den nya bygglagen trädde i kraft. Tröskeln att bygga upplevs lägre.",
+      "link": "https://yle.fi/a/7-10101169?origin=rss",
+      "guid": "https://yle.fi/a/7-10101169",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786415338000
+    },
+    {
+      "title": "Greps nära bostad kopplad till Saabs vd",
+      "description": "Det ryska paret greps när de tältade i Gävle. Gripandet ska ha skett nära en bostad som kopplas till Saabs vd, rapporterar SVT. – Det Saab håller på med är naturligtvis väldigt viktigt för vår försvarsmakt och även för andra länder, säger vd:n, Micael Johansson, till SVT Gävleborg .",
+      "link": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
+      "guid": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786415273000
+    },
+    {
+      "title": "Trump smugglades ut ur Turkiet efter mordplan",
+      "description": "Enligt nya uppgifter gjorde Trump en spektakulär undanmanöver efter att den iranska mordplanen blev känd. Presidenten bytte plan tre gånger – och smugglades ut med hjälp av mattransport, skriver Washington Post.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-smugglades-ut-ur-turkiet-efter-irans-mordplan/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-smugglades-ut-ur-turkiet-efter-irans-mordplan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786414770000
+    },
+    {
+      "title": "”Big short”-profilens dom över AI-bygget – tusen miljarder dollar utan kunder",
+      "description": "Michael Burry, mannen bakom ”The Big Short”, säger att mer än tusen miljarder dollar i AI-finansiering saknar verkliga kunder i andra änden. Michael Burry har inte hållit tillbaka när det gäller att kritisera AI-satsningarna, snarare tvärtom, där han kallat det hela för en ”härlig dårskap”. Han har tidigare även blankat AI som i sin tur […]",
+      "link": "https://www.dagensps.se/bors-finans/big-short-profilens-dom-over-ai-bygget-tusen-miljarder-dollar-utan-kunder/",
+      "guid": "https://www.dagensps.se/?p=1663128",
+      "image": "https://images.dagensps.se/app/uploads/2025/12/AI-bubbla.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786413897000
+    },
+    {
+      "title": "Politiker fattar miljardbeslut utifrån vaga gissningar, uppger socialdemokratisk tankesmedja",
+      "description": "En ny rapport riktar vass kritik mot ekonomiska prognoser i Finland. Skribenterna intygar att syftet inte är att undergräva skuldbromsen.",
+      "link": "https://yle.fi/a/7-10103249?origin=rss",
+      "guid": "https://yle.fi/a/7-10103249",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786413614000
+    },
+    {
+      "title": "Fonderna som halverade fallet – så fungerar spartipset för den som inte tål gungningar",
+      "description": "Det finns indexfonder byggda för att svänga mindre än börsen. De dämpar fallen, men släpar efter i uppgångarna, och kostar oftast mer. Många svenskar förlorar stora summor varje år på sina fondsparande, där experter uppmanar att granska fondvalen. Det kommer i tider då Europas börser fortsätter att gå starkt. Efter en längre period där amerikanska […]",
+      "link": "https://www.dagensps.se/bors-finans/fonderna-som-halverade-fallet-sa-fungerar-spartipset-for-den-som-inte-tal-gungningar/",
+      "guid": "https://www.dagensps.se/?p=1663124",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlnn-mhero4r4-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786410736000
     },
     {
       "title": "230 000 kubikmeter vatten bakom två vallar – så kan pyramiden ha byggts",
@@ -22,16 +212,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786408375000
-    },
-    {
-      "title": "Flera döda",
-      "description": "Efter ryska attacker robotattacker",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786405179000
     },
     {
       "title": "1938 Talbot-Lago T150-C SS Teardrop Coupe",
@@ -72,6 +252,16 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786400220000
+    },
+    {
+      "title": "Så här ser du solförmörkelsen: Läs guiden om exakt när och vart du ska rikta blicken",
+      "description": "I sommar har du en sällsynt chans att se en solförmörkelse. Vi guidar dig till det fantastiska fenomenet så att du vet exakt när du ska titta upp.",
+      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/solformorkelsen-ar-snart-har-men-du-maste-vara-redo-vid-helt-ratt-tidpunkt",
+      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/solformorkelsen-ar-snart-har-men-du-maste-vara-redo-vid-helt-ratt-tidpunkt",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786399208000
     },
     {
       "title": "Timex Marlin GMT Watch",
@@ -122,16 +312,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786395600000
-    },
-    {
-      "title": "Greps nära bostad kopplad till Saabs vd",
-      "description": "Det ryska paret greps när de tältade i Gävle. Gripandet ska ha skett nära en bostad som kopplas till Saabs vd, rapporterar SVT. – Det Saab håller på med är naturligtvis väldigt viktigt för vår försvarsmakt och även för andra länder, säger vd:n, Micael Johansson, till SVT Gävleborg .",
-      "link": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
-      "guid": "https://www.expressen.se/nyheter/sverige/greps-nara-bostad-kopplad-till-saabs-vd/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786395203000
     },
     {
       "title": "Willett Pot Still Reserve Cask Strength Bourbon",
@@ -242,16 +422,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786387215000
-    },
-    {
-      "title": "Byggnader rasar – flera döda",
-      "description": "Kraftig jordbävning i Sydamerika",
-      "link": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
-      "guid": "https://www.expressen.se/tv/nyheter/kraftig-jordbavning-i-colombia-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786387092000
     },
     {
       "title": "En allvarligt skadad efter mc-olycka",
@@ -444,28 +614,8 @@
       "timestamp": 1786379400000
     },
     {
-      "title": "Ukraina: Spannmålsexporten halverad",
-      "description": "Ukraina sänker sina prognoser kraftigt när det gäller exporten av spannmål. Nya siffror visar en dryg halvering av exporten. Spannmålsmarknaderna stärkes i början av förra veckan, när priset på vete steg med cirka två procent i spåren av ny oro för exporten via Svarta havet. Turkiet stoppade sedan under helgen fartygstrafiken genom Svarta havet tillfälligt. […]",
-      "link": "https://www.dagensps.se/bors-finans/ukraina-spannmalsexporten-halverad/",
-      "guid": "https://www.dagensps.se/?p=1663074",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlfxmmxbusjty-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786379132000
-    },
-    {
-      "title": "”YONO”– nytt motto minskar konsumtionen i Kina",
-      "description": "Från ”you only live once” till ”you only need one”. I Kina börjar en ny trend spridas som kan utgöra ett hot mot lyxbolagen. Den kinesiska medelklassen har börjat dra ned på köp av dyra lyxväskor och andra exklusiva accessoarer. I stället ökar intresset för premiumprodukter inom skönhet, som hudvård, smink och parfym. Förändringen sker […]",
-      "link": "https://www.dagensps.se/bors-finans/yono-nytt-motto-minskar-konsumtionen-i-kina/",
-      "guid": "https://www.dagensps.se/?p=1663072",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlr2fm50qygus-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786378713000
-    },
-    {
-      "title": "Esbo inleder omställningsförhandlingar i september: ”Situationen är otrevlig men ingen överraskning”",
-      "description": "Från och med den andra september inleder Esbo stad omställningsförhandlingar med sina anställda.",
+      "title": "Esbo och Vanda inleder snart samarbetsförhandlingar: ”Situationen är otrevlig men ingen överraskning”",
+      "description": "Från och med den andra september inleder Esbo stad samarbetsförhandlingar med sina anställda. I Vanda börjar förhandlingarna i slutet av augusti.",
       "link": "https://yle.fi/a/7-10103345?origin=rss",
       "guid": "https://yle.fi/a/7-10103345",
       "image": "",
@@ -501,16 +651,6 @@
       "image": "https://uncrate.com/assets_c/2026/08/fiio-snowsky-echo-nano-1-thumb-960xauto-192508.jpg",
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786377600000
-    },
-    {
-      "title": "Finska ”Google Maps för gravplatser” lanserat – Sverige ligger efter",
-      "description": "Uleåborgs församlingar meddelade den 15 juli att de tagit den gratis karttjänsten hautakartta.fi i bruk, där vem som helst kan söka fram en grav på den avlidnes namn. Sverige hade också vunnit på att utveckla en sådan app. Sökningen visar begravningsplats och läge på karta. Används den i mobilen på plats, visas kortaste vägen till […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/finska-google-maps-for-gravplatser-lanserat-sverige-ligger-efter/",
-      "guid": "https://www.dagensps.se/?p=1663052",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-1-4.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786377600000
     },
     {
@@ -584,16 +724,6 @@
       "timestamp": 1786374710000
     },
     {
-      "title": "Högljudda bilar beslagtas – Ferrari värd 40 miljoner",
-      "description": "Kampanj mot ”antisociala förare” i Storbritannien",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/har-beslagtas-40-miljoners-bilen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-beslagtas-40-miljoners-bilen",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786374700000
-    },
-    {
       "title": "Säpo avslöjar rysk operation – möten fångades på bild",
       "description": "Säpo har stoppat en rysk underrättelseoperation.",
       "link": "https://www.mitti.se/nyheter/sapo-avslojar-rysk-operation--moten-fangades-pa-bild-6.3.379274.ed23716ad9",
@@ -602,16 +732,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786374423000
-    },
-    {
-      "title": "Misstänkt matförgiftning på Lisebergsrestaurang – nu avslöjas nya brister",
-      "description": "Kräkningar och diarré drabbade gäster på Järnvägsrestaurangen på Liseberg. Efter en kontroll avslöjades ännu en gång allvarliga brister i restaurangens mathantering. Nu stänger krogen helt.",
-      "link": "https://www.expressen.se/nyheter/sverige/matforgiftning-pa-lisebergsrestaurang-nu-avslojas-nya-brister/",
-      "guid": "https://www.expressen.se/nyheter/sverige/matforgiftning-pa-lisebergsrestaurang-nu-avslojas-nya-brister/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786374308000
     },
     {
       "title": "Recension: Hellsinki Metal Festival är ett evenemang dit publiken går oavsett vem som står på scen",
@@ -704,36 +824,6 @@
       "timestamp": 1786372200000
     },
     {
-      "title": "Bensinpriset höjs",
-      "description": "Så mycket dyrare blir det",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc683f1c-4d65-4209-b237-157903788247",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc683f1c-4d65-4209-b237-157903788247",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786371154000
-    },
-    {
-      "title": "Dödssiffran stiger efter jordskalv i Colombia – regeringen utlyser nationellt nödläge",
-      "description": "Skalvet fick marken att skaka också i andra länder.",
-      "link": "https://yle.fi/a/7-10103353?origin=rss",
-      "guid": "https://yle.fi/a/7-10103353",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786370514000
-    },
-    {
-      "title": "Fejknyhetsquizet: Massinvasion från Marocko, Trump på fotbolls-VM och AI-manipulerat vaccin",
-      "description": "Migranter som fyller en hel stad, vaccin som förändrar ditt DNA och Erling Haaland som är rädd för sin egen spegelbild. Kolla här om du lyckas avslöja lögnerna!",
-      "link": "https://yle.fi/a/7-10103321?origin=rss",
-      "guid": "https://yle.fi/a/7-10103321",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786370414000
-    },
-    {
       "title": "MySpace gör nytt försök att komma tillbaka",
       "description": "Bröderna bakom sajten planerar en stor nylansering Ägarna till MySpace, bröderna Tim och Chris Vanderhook, planerar att göra en nylansering av sajten. Man hoppas fånga folk som känner någon form av nostalgi till en enklare tid på nätet då MysSpace var en grej som folk använde som sociala medier. Målgruppen är inte bara millennials som vill tillbaka till det tidiga 2000-talet, utan även Generation Z som i allt högre grad påstås söka sig bort från dagens algoritmbaserade plattformar. Hur väl denna nylansering kommer att ske återstår att se. Men eftersom tidigare försök att återuppliva sajten har kostat ägarna över 1,4 miljarder kronor, utan några vettiga resultat, så har jag lite svårt att se att de kan lyckas denna gång. Men skam den som ger sig och så vidare... L&auml;s vidare och kommentera: https://feber.se/internet/myspace-gor-nytt-forsok-att-komma-tillbaka/494870/ L&auml;s mer om Myspace , Tim Vanderhook , Chris Vanderhook , sociala medier , Generation Z , nylansering , Nostalgi",
       "link": "https://feber.se/internet/myspace-gor-nytt-forsok-att-komma-tillbaka/494870/?utm_source=rss&utm_medium=feed",
@@ -754,26 +844,6 @@
       "timestamp": 1786370400000
     },
     {
-      "title": "Polisen ber om tips kring grova stölder i Sydösterbotten",
-      "description": "Polisen utreder ett par grova stölder, en i Kristinestad och en i Bötom. Tjuvarna har farit iväg med bland annat dyrbar gps-utrustning, elkablar och kopparrör.",
-      "link": "https://yle.fi/a/7-10103354?origin=rss",
-      "guid": "https://yle.fi/a/7-10103354",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786369886000
-    },
-    {
-      "title": "Beställd mordbrand på Drumsö har koppling till utlandet – misstänkt greps i Storbritannien",
-      "description": "Polisen misstänker tio personer för brott efter en anlagd brand i en cykelaffär i Helsingfors. Tre personer bosatta i utlandet misstänks ligga bakom.",
-      "link": "https://yle.fi/a/7-10103346?origin=rss",
-      "guid": "https://yle.fi/a/7-10103346",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786369763000
-    },
-    {
       "title": "Så ska matbuden bort från cykelbanan",
       "description": "Mopeder i Stockholms stad, så många har anmält mopeder och matbud som kör på cykelvägar",
       "link": "https://www.mitti.se/nyheter/sa-ska-matbuden-bort-fran-cykelbanan-6.3.370493.014c876156",
@@ -792,26 +862,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786368600000
-    },
-    {
-      "title": "Hisstornet i Hirvensalo i Åbo flyttas längre från strandlinjen",
-      "description": "I höstas krävde Åbo byggnadstillsyn att byggarbetet stoppas då tornet inte följde beviljade tillstånd. Nu ansöker ägaren om en ändring.",
-      "link": "https://yle.fi/a/7-10103344?origin=rss",
-      "guid": "https://yle.fi/a/7-10103344",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786368450000
-    },
-    {
-      "title": "Minister Mika Poutala opereras två gånger till efter olyckan",
-      "description": "Mika Poutala ligger på sjukhus efter att hans ben fastnade under en traktor på söndagen.",
-      "link": "https://yle.fi/a/7-10103347?origin=rss",
-      "guid": "https://yle.fi/a/7-10103347",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786368167000
     },
     {
       "title": "Så rymde getterna vid Kärsön",
@@ -842,16 +892,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786366800000
-    },
-    {
-      "title": "Nivån dalar på universiteten, varnar föreläsare",
-      "description": "AI-fusk och krav på snabb utexaminering orsakar huvudvärk vid universiteten. Rektor betonar ändå att man inte tummar på undervisningens kvalitet.",
-      "link": "https://yle.fi/a/7-10100629?origin=rss",
-      "guid": "https://yle.fi/a/7-10100629",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786365822000
     },
     {
       "title": "Stora prisskillnader på vatten – här är det dyrast",
@@ -894,16 +934,6 @@
       "timestamp": 1786364850000
     },
     {
-      "title": "Lokalt bolag fortsätter köra Raseborgs kollektivtrafik men som underleverantör",
-      "description": "Tidigare i år förlorade Amper Wikström upphandlingen av Raseborgstrafiken. De fortsätter ändå köra kollektivtrafiken och en del av skoltransporterna.",
-      "link": "https://yle.fi/a/7-10103338?origin=rss",
-      "guid": "https://yle.fi/a/7-10103338",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786363282000
-    },
-    {
       "title": "Forskare lät skiktröntga kranium från legendarisk förhistorisk fågel – nu visar det sig att det ikoniska djuret hade en stor överraskning",
       "description": "Den berömda varelsens historia kan behöva skrivas om helt.",
       "link": "https://illvet.se/naturen/forskare-lat-skiktrontga-kranium-fran-legendarisk-forhistorisk-fagel-nu-visar-det-sig-att-det-ikoniska-djuret-hade-en-stor-overraskning",
@@ -912,16 +942,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786363250000
-    },
-    {
-      "title": "Olyckan i Tusby upprör unga och frivilliga i mopedförening: ”Det såg exceptionellt vilt ut”",
-      "description": "Frivilligarbetare Roni Suorela är skakad över fallet i Tusby, då en bilburen polis tvingade en ung mopedist av vägen, med flera frakturer som följd.",
-      "link": "https://yle.fi/a/7-10103331?origin=rss",
-      "guid": "https://yle.fi/a/7-10103331",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786363239000
     },
     {
       "title": "Våghalsen överlevde Niagarafallen innan han mötte sin tragiska död",
@@ -942,16 +962,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786363200000
-    },
-    {
-      "title": "Trafiken löper över Alexandersgatans bro igen men byggarbetet fortsätter till november",
-      "description": "Två månader med trafikstockningar är nu över i Borgå. Nu samsas fotgängare, cyklister och bilar med byggarbetare på den långa bron lagom till skolstarten.",
-      "link": "https://yle.fi/a/7-10103212?origin=rss",
-      "guid": "https://yle.fi/a/7-10103212",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786362884000
     },
     {
       "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
@@ -1344,21 +1354,21 @@
       "timestamp": 1786336200000
     },
     {
-      "title": "Här är lägenheterna i bostadskön som ingen vill ha",
-      "description": "Många hyresrätter på Bostadsförmedlingen i Stockholm förmedlas inte.",
-      "link": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
-      "guid": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
-      "image": "https://www.mitti.se/image-3.374425.297227.20260810055203.1.efd976a79a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786334400000
-    },
-    {
       "title": "Lös mysteriet – räkna de hotade igelkottarna i kvarteret",
       "description": "Då börjar igelkottsveckan 2026 i Stockholm",
       "link": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
       "guid": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
       "image": "https://www.mitti.se/image-3.293143.301787.20260810064916.1.334106042d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786334400000
+    },
+    {
+      "title": "Här är lägenheterna i bostadskön som ingen vill ha",
+      "description": "Många hyresrätter på Bostadsförmedlingen i Stockholm förmedlas inte.",
+      "link": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "guid": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "image": "https://www.mitti.se/image-3.374425.297227.20260810055203.1.efd976a79a?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786334400000
@@ -1664,6 +1674,16 @@
       "timestamp": 1786253640000
     },
     {
+      "title": "Lättare hitta parkering vid Mälarhöjdsbadet efter avgift",
+      "description": "Efter sommarens p-avgift vid Mälarhöjdsbadet och Sätrastrandsbadet upplever badgäster färre felparkeringar och lättare att hitta plats. Syftet är bättre framkomlighet för blåljus och mindre kaos.",
+      "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
+      "guid": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
+      "image": "https://www.mitti.se/image-3.377721.301931.20260809053045.1.47c022940e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
       "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
       "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
       "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
@@ -1679,16 +1699,6 @@
       "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
       "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
       "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
-      "title": "Lättare hitta parkering vid Mälarhöjdsbadet efter avgift",
-      "description": "Efter sommarens p-avgift vid Mälarhöjdsbadet och Sätrastrandsbadet upplever badgäster färre felparkeringar och lättare att hitta plats. Syftet är bättre framkomlighet för blåljus och mindre kaos.",
-      "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
-      "guid": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
-      "image": "https://www.mitti.se/image-3.377721.301931.20260809053045.1.47c022940e?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
@@ -1782,16 +1792,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1786204834000
-    },
-    {
-      "title": "Färgglada nebulosor pryder just nu natthimlen: Så här ser du dem med egna ögon",
-      "description": "De är några av de vackraste synerna på stjärnhimlen. Lagunnebulosan och Trifidnebulosan är färgglada gasmoln som sträcker sig över mer än 100 ljusår i diameter. Och du kan se dem själv om du tittar upp vid precis rätt tidpunkt.",
-      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/just-nu-soderns-nebulosor-kommer-pa-besok",
-      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/just-nu-soderns-nebulosor-kommer-pa-besok",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786204812000
     },
     {
       "title": "Motståndarkollen: Häcken",
@@ -2734,21 +2734,21 @@
       "timestamp": 1785994811000
     },
     {
-      "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
-      "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
-      "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
-      "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
-      "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785992400000
-    },
-    {
       "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
       "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
       "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
       "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
       "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785992400000
+    },
+    {
+      "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
+      "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
+      "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
+      "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
+      "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785992400000
@@ -3074,21 +3074,21 @@
       "timestamp": 1785902400000
     },
     {
-      "title": "Här betalar du lägst skatt i länet",
-      "description": "Här är kommunen med lägst skatt i Stockholms län – och här är skatten högst",
-      "link": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
-      "guid": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
-      "image": "https://www.mitti.se/image-3.377466.301550.20260806120236.1.9b1b14fa97?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785862800000
-    },
-    {
       "title": "Hur ökar jag självmedkänslan?",
       "description": "Pskologen Hanna Delby om självmedkänsla.",
       "link": "https://www.mitti.se/nyheter/hur-okar-jag-sjalvmedkanslan-6.3.371848.6a53689137",
       "guid": "https://www.mitti.se/nyheter/hur-okar-jag-sjalvmedkanslan-6.3.371848.6a53689137",
       "image": "https://www.mitti.se/image-3.374344.297960.20260804173006.1.37edd04460?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785862800000
+    },
+    {
+      "title": "Här betalar du lägst skatt i länet",
+      "description": "Här är kommunen med lägst skatt i Stockholms län – och här är skatten högst",
+      "link": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
+      "guid": "https://www.mitti.se/nyheter/har-betalar-du-lagst-skatt-i-lanet-6.3.378376.2fe58b8149",
+      "image": "https://www.mitti.se/image-3.377466.301550.20260806120236.1.9b1b14fa97?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785862800000
