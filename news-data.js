@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-10T21:31:24.339Z",
+  "updatedAt": "2026-08-11T00:53:57.760Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Miljardsmällen för Trump",
+      "description": "Trumps sociala mediebolag redovisar miljardförluster. Bolaget har i närtid lanserat en kritiserad betaltjänst – där användare kan betala för att få ”Truths” från presidenten i förtid. Under 2026 har bolagets aktie rasat med 29 procent, rapporterar Bloomberg .",
+      "link": "https://www.expressen.se/nyheter/varlden/miljardsmallen-for-trump/",
+      "guid": "https://www.expressen.se/nyheter/varlden/miljardsmallen-for-trump/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786408629000
+    },
+    {
+      "title": "230 000 kubikmeter vatten bakom två vallar – så kan pyramiden ha byggts",
+      "description": "Sju meter höga vallar som löper 700 meter genom ökendalen vid Röda pyramiden. Forskarna tror nu att de är dammar, inte ramper. Det kommer hela tiden nya upptäckter kring Egyptens pyramider, där en av dem har väckt stor uppmärksamhet. Nya inskriptioner och gravfynd pekar på att det inte var slavar som byggde den stora pyramiden […]",
+      "link": "https://www.dagensps.se/varlden/230-000-kubikmeter-vatten-bakom-tva-vallar-sa-kan-pyramiden-ha-byggts/",
+      "guid": "https://www.dagensps.se/?p=1663118",
+      "image": "https://images.dagensps.se/app/uploads/2024/08/dmitrii-zhodzishskii-UcnaHnDVGxA-unsplash.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786408375000
+    },
+    {
+      "title": "Flera döda",
+      "description": "Efter ryska attacker robotattacker",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=297db651-54df-4a67-b63b-1874a01e1b1f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786405179000
+    },
+    {
+      "title": "1938 Talbot-Lago T150-C SS Teardrop Coupe",
+      "description": "",
+      "link": "https://uncrate.com/1938-talbot-lago-t150-c-ss-teardrop-coupe/",
+      "guid": "https://uncrate.com/1938-talbot-lago-t150-c-ss-teardrop-coupe/",
+      "image": "https://uncrate.com/assets_c/2026/08/talbot-lago-t150c-ss-teardrop-coupe-1-thumb-960xauto-192509.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786402800000
+    },
+    {
+      "title": "Nu kan du semestra billigt på andras avbokade resor",
+      "description": "Har du missat sommarens bästa fynd? Då kan någon annans inställda semester bli din biljett till en lyxresa. En ny marknadsplats låter resenärer sälja vidare resor som inte går att avboka – och rabatterna kan vara spektakulära. Semesterns Blocket – fast för resor Alla känner igen känslan. Resan bokades för flera månader sedan till ett […]",
+      "link": "https://www.dagensps.se/weekend/resor/res-billigt-pa-andras-avbokade-semester-ny-sajt-saljer-resor-med-rejal-rabatt/",
+      "guid": "https://www.dagensps.se/?p=1661538",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/08/collegio-alla-querce-1.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786401960000
+    },
+    {
+      "title": "Ett mirakel: Kvinnorna blev 20 centimeter längre på rekordtid",
+      "description": "En gång var Sydkorea ett av världens fattigaste länder. I dag är det en ekonomisk stormakt. Men den mest fascinerande förändringen syns inte i BNP-statistiken, utan i människorna själva. På hundra år har sydkoreanska kvinnor vuxit i genomsnitt över 20 centimeter – den största ökningen som uppmätts i något land. Ett rekord som ingen annan […]",
+      "link": "https://www.dagensps.se/weekend/trend/sydkoreas-mirakel-kvinnorna-blev-20-centimeter-langre-pa-rekordtid/",
+      "guid": "https://www.dagensps.se/?p=1662142",
+      "image": "https://www.dagensps.se/images.dagensps.se/app/uploads/2026/08/portugal.png?width=1200&#038;quality=75&#038;aspect_ratio=2%3A1",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786400400000
+    },
+    {
+      "title": "Drycken hjälper dig att sänka blodtrycket",
+      "description": "Ett glas juice till frukost låter kanske inte som medicin. Men forskning pekar på att granatäppeljuice faktiskt kan bidra till att sänka blodtrycket. Det betyder däremot inte att du kan byta ut blodtrycksmedicinen mot en fruktdrink. Granatäpplet får forskarnas uppmärksamhet Högt blodtryck är en av de vanligaste riskfaktorerna bakom hjärtinfarkt och stroke. Ofta märks det […]",
+      "link": "https://www.dagensps.se/halsa/ett-glas-om-dagen-drycken-som-kan-hjalpa-till-att-sanka-blodtrycket/",
+      "guid": "https://www.dagensps.se/?p=1661783",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/2-35-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786400220000
+    },
+    {
+      "title": "Timex Marlin GMT Watch",
+      "description": "",
+      "link": "https://uncrate.com/timex-marlin-gmt-watch/",
+      "guid": "https://uncrate.com/timex-marlin-gmt-watch/",
+      "image": "https://uncrate.com/assets_c/2026/08/timex-marlin-gmt-watch-11-thumb-960xauto-192514.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786399200000
+    },
     {
       "title": "Trumps kryptiska besked",
       "description": "Orden på pressträffen: ”Kommer få veta”",
@@ -444,16 +524,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786377600000
     },
     {
-      "title": "21 månader i rad: Kina köper på sig mer guld",
-      "description": "Priset på guld fortsätter uppåt, bland annat i spåren av att Kina via sin centralbank utökar sina guldreserver i snabb takt. Guldpriset fortsätter sin uppgång efter att Kinas centralbank förra veckan utökat sina guldreserver med cirka 20 ton, den största månadsökningen sedan i oktober 2023. De officiella kinesiska reserverna har nu ökat under 21 månader […]",
-      "link": "https://www.dagensps.se/bors-finans/21-manader-i-rad-kina-koper-pa-sig-mer-guld/",
-      "guid": "https://www.dagensps.se/?p=1663055",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdllozlqcmoy-q-nh-300x300.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786377467000
-    },
-    {
       "title": "Åtta österbottningar åtalas i stor brottshärva inom bilbranschen",
       "description": "Enligt åtalen har det skett skattefusk kring försäljning av begagnade bilar i nio års tid. Brotten ska ha begåtts främst i Kauhava och Karleby.",
       "link": "https://yle.fi/a/7-10103359?origin=rss",
@@ -492,16 +562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786375800000
-    },
-    {
-      "title": "Missnöje i Kanada – kräver att landet står upp mot Trump",
-      "description": "Mark Carney har som Kanadas premiärminister försökt blidka Donald Trump så gott det går. Men kanadensarna vill se hårdare tag. USA:s president Donald Trumps handelspolitik mot Kanada skapar allt större problem för premiärminister Mark Carney. Trots att den kanadensiska regeringen har gjort flera eftergifter har Trump fortsatt att höja trycket mot landets ekonomi. Ett tydligt […]",
-      "link": "https://www.dagensps.se/varlden/missnoje-i-kanada-kraver-att-landet-star-upp-mot-trump/",
-      "guid": "https://www.dagensps.se/?p=1663053",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlhyhevpxb-ow-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786375336000
     },
     {
       "title": "Demens kan fördröjas med 13 år, visar ny studie som förknippar det allvarliga tillståndet med tre konkreta råd",
@@ -604,16 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786373443000
     },
     {
-      "title": "Bank skänkte arv till brandkåren – barnen möttes av tomma konton",
-      "description": "Efter att föräldrarna dött väntade barnen i flera år på att få tillgång till deras bankkonto. När de väl fick det fanns inga pengar, och banken meddelade att de hade fört över pengarna till brandkåren. Domstolen i Concepción, motsvarande en svensk hovrätt, har beordrat Banco Itaú och brandkårernas riksförbund att föra tillbaka 107 305 158 […]",
-      "link": "https://www.dagensps.se/privatekonomi/bank-skankte-arv-till-brandkaren-barnen-mottes-av-tomma-konton/",
-      "guid": "https://www.dagensps.se/?p=1663045",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-15.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786373425000
-    },
-    {
       "title": "Steel Speaker",
       "description": "",
       "link": "https://uncrate.com/steel-speaker/",
@@ -654,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786372200000
     },
     {
-      "title": "Oljejättarna tjänar miljarder på krisen – kritiken växer",
-      "description": "Dyr olja har inneburit rejält klirr i kassan för många av de stora oljebolagen. Det har fått allt fler, inklusive Donald Trump, att vilja göra något åt det. De stora oljebolagen tjänade miljardbelopp under årets andra kvartal när högre olje- och gaspriser lyfte resultaten. Nu växer frågan om vad bolagen ska göra med pengarna, samtidigt […]",
-      "link": "https://www.dagensps.se/bors-finans/oljejattarna-tjanar-miljarder-pa-krisen-kritiken-vaxer/",
-      "guid": "https://www.dagensps.se/?p=1663041",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlqnet8pfp-s-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786371992000
-    },
-    {
       "title": "Bensinpriset höjs",
       "description": "Så mycket dyrare blir det",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fc683f1c-4d65-4209-b237-157903788247",
@@ -674,16 +714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786371154000
     },
     {
-      "title": "MP:s oro – vill stoppa Busch",
-      "description": "Krisen i Vänsterpartiet beskrivs som en ”gåva” till Socialdemokraterna. I stället för Nooshi Dadgostar kan nu Ebba Busch blir en del av en ny S-regering, hoppas delar av partiet. Det väcker oro i Miljöpartiet. Lyssna på Expressens podd ”Politikrummet”.",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/mps-oro--vill--stoppa-busch/",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/mps-oro--vill--stoppa-busch/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786370815000
-    },
-    {
       "title": "Dödssiffran stiger efter jordskalv i Colombia – regeringen utlyser nationellt nödläge",
       "description": "Skalvet fick marken att skaka också i andra länder.",
       "link": "https://yle.fi/a/7-10103353?origin=rss",
@@ -692,16 +722,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786370514000
-    },
-    {
-      "title": "Säpo: Rysk spionoperation i Sverige har stoppats",
-      "description": "Säpo har stoppat en rysk spionoperation med syfte att skada Sveriges rykte. Ryska underrättelseofficerare hade värvat en agent från en utländsk beskickning för att skaffa information, bland annat om svenskt beslutsfattande. Svenska Säpo har följt operationen på nära håll. – Regeringen ser förstås allvarligt på både det inträffade, säger justitieminister Gunnar Strömmer (M).",
-      "link": "https://www.expressen.se/nyheter/sverige/sapo-rysk-spionoperation-i-sverige-har-stoppats/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sapo-rysk-spionoperation-i-sverige-har-stoppats/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786370510000
     },
     {
       "title": "Fejknyhetsquizet: Massinvasion från Marocko, Trump på fotbolls-VM och AI-manipulerat vaccin",
@@ -1644,21 +1664,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786253640000
     },
     {
-      "title": "Dömdes för grov människoexploatering – överklagar",
-      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
-      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
       "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
       "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
       "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "guid": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
       "image": "https://www.mitti.se/image-3.377527.301771.20260809053045.1.614eda6573?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Dömdes för grov människoexploatering – överklagar",
+      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
+      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
@@ -2022,26 +2042,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786136400000
-    },
-    {
-      "title": "Woody Creek Colorado Bourbon Set",
-      "description": "",
-      "link": "https://uncrate.com/woody-creek-colorado-bourbon-set/",
-      "guid": "https://uncrate.com/woody-creek-colorado-bourbon-set/",
-      "image": "https://uncrate.com/assets_c/2026/08/woody-creek-distillers-22-thumb-960xauto-192497.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786132801000
-    },
-    {
-      "title": "Nike ACG Zegama Hiking Shoe",
-      "description": "",
-      "link": "https://uncrate.com/nike-acg-zegama-hiking-shoe/",
-      "guid": "https://uncrate.com/nike-acg-zegama-hiking-shoe/",
-      "image": "https://uncrate.com/assets_c/2026/08/nike-zegama-hike-1-thumb-960xauto-192474.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786131021000
     },
     {
       "title": "Engångsplast är på väg bort – men målet är svårt att nå",
@@ -2734,21 +2734,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1785994811000
     },
     {
-      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
-      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
-      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
-      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785992400000
-    },
-    {
       "title": "De bor mitt i Solnas byggboom: ”Inkilade”",
       "description": "Grannarna på Förvaltarvägen i Solna har haft byggprojekt runt sig de senaste tio åren – Solna united, Arenastaden och förlängningen av tunnelbanans gröna linje.",
       "link": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "guid": "https://www.mitti.se/nyheter/de-bor-mitt-i-solnas-byggboom-inkilade-6.3.378371.cfb71ae900",
       "image": "https://www.mitti.se/image-3.377493.301705.20260806072046.1.e7061c5f73?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1785992400000
+    },
+    {
+      "title": "Grön ljus för nytt LSS-boende i tomma förskolan",
+      "description": "Stenbitens förskola på Lidingö byggs om till LSS-boende med sex lägenheter. Bygglovet har vunnit laga kraft, byggstart planeras 2027 och behovet av gruppbostäder beskrivs som stort.",
+      "link": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "guid": "https://www.mitti.se/nyheter/gron-ljus-for-nytt-lssboende-i-tomma-forskolan-6.3.378538.c767f35a40",
+      "image": "https://www.mitti.se/image-3.377552.301799.20260807114616.aff7636dc2?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785992400000
@@ -3262,136 +3262,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1785816000000
-    },
-    {
-      "title": "Slussens tillfälliga entré rivs efter åtta år",
-      "description": "Slussens tillfälliga entré på Ryssgården rivs efter åtta år.",
-      "link": "https://www.mitti.se/nyheter/slussens-tillfalliga-entre-rivs-efter-atta-ar-6.3.378353.cbe86cff85",
-      "guid": "https://www.mitti.se/nyheter/slussens-tillfalliga-entre-rivs-efter-atta-ar-6.3.378353.cbe86cff85",
-      "image": "https://www.mitti.se/image-3.377446.301489.20260804060302.1.eab222e8b8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785779552000
-    },
-    {
-      "title": "KD: Tillåt högre musik i Slakthusområdet",
-      "description": "Kristdemokraterna vill tillåta högre musik i Slakthusområdet än i andra stadsdelar. Förslaget om en kulturljudzon ska stärka kultur- och nattlivet och minska klagomål från boende.",
-      "link": "https://www.mitti.se/nyheter/kd-tillat-hogre-musik-i-slakthusomradet-6.3.378284.e7a36f6204",
-      "guid": "https://www.mitti.se/nyheter/kd-tillat-hogre-musik-i-slakthusomradet-6.3.378284.e7a36f6204",
-      "image": "https://www.mitti.se/image-3.338538.301488.20260803180019.1.feff6ffef1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785776400000
-    },
-    {
-      "title": "Sju tips för att få trädäcket att må bättre",
-      "description": "Så tar du hand om trädäcket och får tips på saker du ska undvika.",
-      "link": "https://www.mitti.se/nyheter/sju-tips-for-att-fa-tradacket-att-ma-battre-6.3.372687.fb3138569e",
-      "guid": "https://www.mitti.se/nyheter/sju-tips-for-att-fa-tradacket-att-ma-battre-6.3.372687.fb3138569e",
-      "image": "https://www.mitti.se/image-3.375205.298383.20260803171046.1.3303d1f250?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785775200000
-    },
-    {
-      "title": "DIF-draget: Swisha och få ditt namn på tröjan",
-      "description": "DIF Bandy kör kampanjen \"Vi é Djurgår'n\" och skriver supportrarnas namn på säsongens matchtröja.",
-      "link": "https://www.mitti.se/nyheter/difdraget-swisha-och-fa-ditt-namn-pa-trojan-6.3.378357.f19554764a",
-      "guid": "https://www.mitti.se/nyheter/difdraget-swisha-och-fa-ditt-namn-pa-trojan-6.3.378357.f19554764a",
-      "image": "https://www.mitti.se/image-3.377456.301496.20260803163015.8b27137e81?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785772800000
-    },
-    {
-      "title": "Hundratals i blomtåg för Adriana",
-      "description": "Runt 250 personer samlades i Norsborg för årets Blomtåg till minne av Adriana, som sköts ihjäl 2020. Under manifestationen delades Adrianastipendiet ut till Samira Lahdou.",
-      "link": "https://www.mitti.se/nyheter/hundratals-i-blomtag-for-adriana-6.3.378374.a805163189",
-      "guid": "https://www.mitti.se/nyheter/hundratals-i-blomtag-for-adriana-6.3.378374.a805163189",
-      "image": "https://www.mitti.se/image-3.377454.301543.20260804110824.1.b8d90cc54d?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785768555000
-    },
-    {
-      "title": "Förseningar efter stopp på röda linjen",
-      "description": "Stopp på röda linjen –förseningar och inställda avgångar",
-      "link": "https://www.mitti.se/nyheter/forseningar-efter-stopp-pa-roda-linjen-6.3.378394.3fbf942f36",
-      "guid": "https://www.mitti.se/nyheter/forseningar-efter-stopp-pa-roda-linjen-6.3.378394.3fbf942f36",
-      "image": "https://www.mitti.se/image-3.253327.301579.20260803145903.1.836413f8f8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785764050000
-    },
-    {
-      "title": "Förseningar på gröna linjen efter olyckshändelse",
-      "description": "Förseningar gröna linjen",
-      "link": "https://www.mitti.se/nyheter/forseningar-pa-grona-linjen-efter-olyckshandelse-6.3.378380.8a83e5d472",
-      "guid": "https://www.mitti.se/nyheter/forseningar-pa-grona-linjen-efter-olyckshandelse-6.3.378380.8a83e5d472",
-      "image": "https://www.mitti.se/image-3.331673.301553.20260803134647.1.eb6d5cb0ab?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785758839000
-    },
-    {
-      "title": "Misstänkt rattfull kraschade i bostadsområde",
-      "description": "En misstänkt rattfull förare försökte köra ifrån polisen i Upplands Väsby men kraschade i ett bostadsområde. Bilar, brevlådor och en lyktstolpe skadades.",
-      "link": "https://www.mitti.se/nyheter/misstankt-rattfull-kraschade-i-bostadsomrade-6.3.378354.b6ca50059f",
-      "guid": "https://www.mitti.se/nyheter/misstankt-rattfull-kraschade-i-bostadsomrade-6.3.378354.b6ca50059f",
-      "image": "https://www.mitti.se/image-3.377448.301490.20260804111159.1.799d6363f8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785757956000
-    },
-    {
-      "title": "Hund smet från ägare – bet kvinna",
-      "description": "Hundattack i Vallentuna – polisen var på plats",
-      "link": "https://www.mitti.se/nyheter/hund-smet-fran-agare--bet-kvinna-6.3.378364.7b183433f8",
-      "guid": "https://www.mitti.se/nyheter/hund-smet-fran-agare--bet-kvinna-6.3.378364.7b183433f8",
-      "image": "https://www.mitti.se/image-3.354874.301511.20260803120741.1.ba834899a2?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785748255000
-    },
-    {
-      "title": "Gängtopp gripen i Spanien – misstänkt i krogskjutning",
-      "description": "Gängtoppp gripen i Spanien – misstänkts för flera grova våldsbrott",
-      "link": "https://www.mitti.se/nyheter/gangtopp-gripen-i-spanien--misstankt-i-krogskjutning-6.3.378361.56d196cc89",
-      "guid": "https://www.mitti.se/nyheter/gangtopp-gripen-i-spanien--misstankt-i-krogskjutning-6.3.378361.56d196cc89",
-      "image": "https://www.mitti.se/image-3.350606.301507.20260804224938.1.e4f316da74?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785747713000
-    },
-    {
-      "title": "Han öppnar pub i Jungfrusund – helt utan mat",
-      "description": "En pub där man också kan spela golf – det öppnar i Jungfrusund på Ekerö i september – Tee and tap kommer ha Guinness och golfsimulatorer.",
-      "link": "https://www.mitti.se/nyheter/han-oppnar-pub-i-jungfrusund--helt-utan-mat-6.3.377727.bf02748249",
-      "guid": "https://www.mitti.se/nyheter/han-oppnar-pub-i-jungfrusund--helt-utan-mat-6.3.377727.bf02748249",
-      "image": "https://www.mitti.se/image-3.377278.301405.20260804082254.1.4442d41c49?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785737975000
-    },
-    {
-      "title": "Man flydde i kajak efter villainbrott",
-      "description": "En man flydde från ett villainbrott i en röd kajak.",
-      "link": "https://www.mitti.se/nyheter/man-flydde-i-kajak-efter-villainbrott-6.3.378345.396f32f174",
-      "guid": "https://www.mitti.se/nyheter/man-flydde-i-kajak-efter-villainbrott-6.3.378345.396f32f174",
-      "image": "https://www.mitti.se/image-3.245639.301467.20260803084442.1.e7de023bbc?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785737209000
-    },
-    {
-      "title": "Kvinna nekades psykolog – på grund av graviditet",
-      "description": "En kvinna nekades psykologbesök på grund av att hon var gravid, nu DO-anmäler hon försäkringsbolaget.",
-      "link": "https://www.mitti.se/nyheter/kvinna-nekades-psykolog--pa-grund-av-graviditet-6.3.378288.2bd40705a1",
-      "guid": "https://www.mitti.se/nyheter/kvinna-nekades-psykolog--pa-grund-av-graviditet-6.3.378288.2bd40705a1",
-      "image": "https://www.mitti.se/image-3.377277.301406.20260803075517.1.ac7ae6e293?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1785730020000
     }
   ]
 };
