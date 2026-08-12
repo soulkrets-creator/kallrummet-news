@@ -1,8 +1,178 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-12T18:46:02.662Z",
+  "updatedAt": "2026-08-12T21:33:41.761Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Thunderball Gambling Framed Print",
+      "description": "",
+      "link": "https://uncrate.com/thunderball-gambling-framed-print/",
+      "guid": "https://uncrate.com/thunderball-gambling-framed-print/",
+      "image": "https://uncrate.com/assets_c/2026/08/thunderball-gambling-framed-print-22-darkened-thumb-960xauto-192540.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786572000000
+    },
+    {
+      "title": "Trump: Karoline Leavitt slutar",
+      "description": "Karoline Leavitt har sagt upp sig. I stället väntar ett nytt toppjobb. ”Karoline har varit en av de bästa pressekreterarna i Vita huset i ämbetets historia” , skriver Trump på Truth Social .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-karoline-leavitt-slutar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-karoline-leavitt-slutar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786569794000
+    },
+    {
+      "title": "Här uppträder Fröken Snusk med SD-låten",
+      "description": "Kritiserade samarbetet • Sjunger nya SD-låten",
+      "link": "https://www.expressen.se/tv/nyheter/har-upptrader-froken-snusk-med-sd-laten",
+      "guid": "https://www.expressen.se/tv/nyheter/har-upptrader-froken-snusk-med-sd-laten",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786569064000
+    },
+    {
+      "title": "Everyday Carry: Benzole",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-benzole/",
+      "guid": "https://uncrate.com/everyday-carry-benzole/",
+      "image": "https://uncrate.com/assets_c/2026/08/edc-benzole-darkened-thumb-960xauto-192541.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786568400000
+    },
+    {
+      "title": "Risken för diabetes ökar markant vid vanligt tillstånd – här är de råd som professorn själv följer för att undvika folksjukdomen",
+      "description": "På bara några årtionden har antalet diabetesdrabbade blivit över fyra gånger fler. Den portugisiske professorn João Botelho har följt 300 000 människor och sett hur en viss sjukdom ökar risken för diabetes. Som tur är finns det en hel del man kan göra för att slippa drabbas. Själv följer professorn en särskild rutin i sin egen vardag.",
+      "link": "https://illvet.se/halsa/stor-studie-ett-vanligt-tillstand-kan-markant-oka-risken-for-diabetes-har-ar-de-rad-som-professorn-sjalv-foljer-for-att-undvika-folksjukdomen",
+      "guid": "https://illvet.se/halsa/stor-studie-ett-vanligt-tillstand-kan-markant-oka-risken-for-diabetes-har-ar-de-rad-som-professorn-sjalv-foljer-for-att-undvika-folksjukdomen",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786566605000
+    },
+    {
+      "title": "Karoline Leavitt slutar som Vita husets pressekreterare",
+      "description": "Donald Trump skriver att Leavitt slutar för att kunna umgås mer med sin familj.",
+      "link": "https://yle.fi/a/7-10103483?origin=rss",
+      "guid": "https://yle.fi/a/7-10103483",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786566594000
+    },
+    {
+      "title": "Misstankarna mot ryska paret läggs ner – lämnar Sverige",
+      "description": "Det ryska paret som togs i förvar av polisen i anslutning till en stuga med koppling till Saabs vd Micael Johansson väntar nu på att resa hem. – Det finns inte längre någon misstanke mot paret, säger deras advokat Silas Aliki.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankarna-mot-ryska-paret-laggs-ner-lamnar-sverige/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankarna-mot-ryska-paret-laggs-ner-lamnar-sverige/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786566228000
+    },
+    {
+      "title": "Svarta lådan analyseras – kan spela upp händelsen",
+      "description": "Den ”svarta lådan” efter fartygsolyckan utanför Tjörn har nu inhämtats. – Den innehåller information som gör att man i realtid kan spela upp olika navigationsinstrument, säger Johan Albihn på Åklagaren James von Reis vill inte kommentera den ”av ett speciellt skäl”.",
+      "link": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/svarta-ladan-analyseras-kan-spela-upp-handelsen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786565563000
+    },
+    {
+      "title": "Kommentar: Silja Kosonen utmanar elitidrottens brutala logik",
+      "description": "Det skulle bli EM-guld, och blev det givetvis. Silja Kosonen vann det enda hennes idrottar-CV saknade, och inget kunde kännas mer logiskt.",
+      "link": "https://yle.fi/a/7-10102831?origin=rss",
+      "guid": "https://yle.fi/a/7-10102831",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786565171000
+    },
+    {
+      "title": "Silja Kosonen är Europamästare – ville inte stämplas som evig fyra",
+      "description": "Silja Kosonen höll för favorittrycket i EM-finalen och öppnade Finlands medaljkonto i Birmingham. För Krista Tervo blev finalen en stor besvikelse.",
+      "link": "https://yle.fi/a/7-10102832?origin=rss",
+      "guid": "https://yle.fi/a/7-10102832",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786564865000
+    },
+    {
+      "title": "Jameson Distiller's Batch Irish Whiskey",
+      "description": "",
+      "link": "https://uncrate.com/jameson-distillers-batch-irish-whiskey/",
+      "guid": "https://uncrate.com/jameson-distillers-batch-irish-whiskey/",
+      "image": "https://uncrate.com/assets_c/2026/08/jamesons-distiller-batch-2-thumb-960xauto-192537.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786564801000
+    },
+    {
+      "title": "Se listan över alla raser: Så mycket varg är din hund",
+      "description": "Till och med världens minsta hund brås på sina vilda förfäder. Hitta din egen hund på listan.",
+      "link": "https://illvet.se/naturen/se-listan-over-alla-raser-sa-mycket-varg-ar-din-hund",
+      "guid": "https://illvet.se/naturen/se-listan-over-alla-raser-sa-mycket-varg-ar-din-hund",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786563039000
+    },
+    {
+      "title": "Hisense 100\" U6 Pro Series TV",
+      "description": "",
+      "link": "https://uncrate.com/hisense-100-u6-pro-series-tv/",
+      "guid": "https://uncrate.com/hisense-100-u6-pro-series-tv/",
+      "image": "https://uncrate.com/assets_c/2026/08/hisense-prominiled-1-thumb-960xauto-192486.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786563024000
+    },
+    {
+      "title": "Häpnades av solen: ”Var väldigt fint”",
+      "description": "Från norr till söder kunde svenskar häpnas av den efterlängtade solförmörkelsen. En av de som kollade var rymdintresserade Nellie Regander, 23, från Hörby. – Jag blev överraskad att det var så tydligt, säger hon.",
+      "link": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
+      "guid": "https://www.expressen.se/nyheter/sverige/hapnades-av-solen-var-valdigt-fint/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786562809000
+    },
+    {
+      "title": "Tidö knappar in i ny mätning",
+      "description": "Ny opinionsundersökning i Svenska dagbladet",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2e48242b-82c3-4052-9d60-1b8ef96ff781",
+      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2e48242b-82c3-4052-9d60-1b8ef96ff781",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786562005000
+    },
+    {
+      "title": "Stanna för rött – och få beröm av en kändis",
+      "description": "Senaste idén kring trafiksäkerhet? Kändisar ska peppa de cyklister som gör rätt. Kommunalrådet i Malmö har redan förslag. De flesta kanske förknippar Timbuktu med ”Alla vill till himlen, men ingen vill dö”. Nu ska han i stället, eventuellt, få möjligheten att rädda liv och lem i Malmö-trafiken. För efter stönande papperskorgar, inspelningar av trädens ljud […]",
+      "link": "https://www.dagensps.se/motor/stanna-for-rott-och-fa-berom-av-en-kandis/",
+      "guid": "https://www.dagensps.se/?p=1663846",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl285e1rzhp6k-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786561282000
+    },
+    {
+      "title": "Vilken av Googles nyheter lockar mest?",
+      "description": "Dagens Pixel-fråga Google har precis visat upp hela fyra nya telefoner: Pixel 11, Pixel 11 Pro, den större Pixel 11 Pro XL och det nya vikbara flaggskeppet Pixel 11 Pro Fold. Dessutom fick vi även Pixel Watch 5 och Googles första spårtagg Pixel Tag. Nu är frågan om något av detta får det att klia i köpfingrarna? L&auml;s vidare och kommentera: https://feber.se/vilken-av-googles-nyheter-lockar-mest/494948/ L&auml;s mer om Pixel Watch 5 , Pixel Tag , Google , Pixel 11 , Pixel 11 Pro , Google Pixel 11 , Pixel 11 Pro Fold",
+      "link": "https://feber.se/vilken-av-googles-nyheter-lockar-mest/494948/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vilken-av-googles-nyheter-lockar-mest/494948/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786561200000
+    },
     {
       "title": "Man död",
       "description": "Drunknade vid badplats i Stockholm",
@@ -52,16 +222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786558800000
-    },
-    {
-      "title": "Tidö knappar in i ny mätning",
-      "description": "Ny opinionsundersökning i Svenska dagbladet",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2e48242b-82c3-4052-9d60-1b8ef96ff781",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2e48242b-82c3-4052-9d60-1b8ef96ff781",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786558754000
     },
     {
       "title": "Vicki rattar Ferrari 849 Testarossa Spider",
@@ -442,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786549053000
-    },
-    {
-      "title": "Branschen varnar: Fler utför försäkringsbedrägeri med AI",
-      "description": "Det krävs numera inte särskilt stora tekniska kunskaper för att göra en hyfsat trovärdig förfalskning på exempelvis kvitton. Försäkringsbranschen vill nu ta krafttag mot problemet. AI har börjat skapa nya problem för försäkringsbolagen. Det finska försäkringsbolaget Pop Vakuutus uppger att bolaget allt oftare stöter på situationer där äktheten i material som skickats in tillsammans med […]",
-      "link": "https://www.dagensps.se/bors-finans/branschen-varnar-fler-utfor-forsakringsbedrageri-med-ai/",
-      "guid": "https://www.dagensps.se/?p=1663777",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdldaxnm3k7zb8-normalhires.webp",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786548649000
     },
     {
       "title": "Nu finns Threads i VR",
@@ -844,16 +994,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786539958000
     },
     {
-      "title": "Följ livesändningen av solförmörkelsen från Söderfjärden i Vasa",
-      "description": "Yle streamar solförmörkelsen på Arenan.",
-      "link": "https://yle.fi/a/7-10103469?origin=rss",
-      "guid": "https://yle.fi/a/7-10103469",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786539886000
-    },
-    {
       "title": "Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar",
       "description": "Solförmörkelsen i augusti är en av årets största astronomiska händelser. Men bara en timme senare har du chansen att se ett annat fenomen som är nästan lika imponerande.",
       "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/missa-inte-en-fullkomligt-enastaende-kvall-pa-stjarnhimlen-tva-mycket-speciella-fenomen-ager-rum-inom-loppet-av-ett-par-timmar",
@@ -874,16 +1014,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786539600000
     },
     {
-      "title": "Ekparkens skola har flyttat in i Billnäs: ”Tacksamma över egen matsal och skolgård”",
-      "description": "Efter tre flyttar på kort tid känns det skönt för Ekparkens skola att landa i ett eget skolhus.",
-      "link": "https://yle.fi/a/7-10103328?origin=rss",
-      "guid": "https://yle.fi/a/7-10103328",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786539281000
-    },
-    {
       "title": "Pavlovatårta med kolasås och färskostkräm",
       "description": "En pampig vaniljpavlova med en fyllning av färskostkräm, inkokta plommon och salt kolasås.",
       "link": "https://alltommat.expressen.se/recept/pavlovatarta-med-kolasas-och-farskostkram/",
@@ -902,16 +1032,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786538596000
-    },
-    {
-      "title": "Polisens nya uppgifter om Tusbyfallet: Ambulans kom snabbt",
-      "description": "Polisen preciserar nu tidslinjen i fallet där en ung mopedist prejades av vägen av en polis i lördags.",
-      "link": "https://yle.fi/a/7-10103465?origin=rss",
-      "guid": "https://yle.fi/a/7-10103465",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786538173000
     },
     {
       "title": "Nu har både ChatGPT och Gemini en miljard användare",
@@ -994,16 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786534085000
     },
     {
-      "title": "Marius Borg Høiby får avslag – stannar i häktet",
-      "description": "Stannar i Skaugum",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d1faede-6fce-455f-b5f4-24995ff541c6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d1faede-6fce-455f-b5f4-24995ff541c6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786533594000
-    },
-    {
       "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
       "description": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
@@ -1022,26 +1132,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786532400000
-    },
-    {
-      "title": "Ny flyglinje öppnar från Landvetter",
-      "description": "Flygbolaget Etihad Airways börjar trafikera Göteborg–Abu Dhabi i höst.",
-      "link": "https://www.expressen.se/nyheter/sverige/ny-flyglinje-oppnar-fran-landvetter/",
-      "guid": "https://www.expressen.se/nyheter/sverige/ny-flyglinje-oppnar-fran-landvetter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786531856000
-    },
-    {
-      "title": "Putin hotar beslagta fartyg – efter beslutet om Caffa",
-      "description": "Rysslands president Vladimir Putin hotade på onsdagen att beslagta fartyg som tillhör västliga länder. Utspelet kommer efter planer på att sälja last som beslagtagits från ryska fartyg i den så kallade skuggflottan. – Vi kommer att tvingas svara med samma mynt, säger Putin.",
-      "link": "https://www.expressen.se/nyheter/varlden/putin-hotar-beslagta-vastfartyg/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putin-hotar-beslagta-vastfartyg/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786531350000
     },
     {
       "title": "AI hjälper allt fler kriminella att planera grova brott",
@@ -1082,16 +1172,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1786530538000
-    },
-    {
-      "title": "E4:an avstängd efter flerbilskrock",
-      "description": "Flera bilar i krock i Kramfors",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f5d24f37-527d-440d-b720-2ef431a8ed85",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f5d24f37-527d-440d-b720-2ef431a8ed85",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786530458000
     },
     {
       "title": "James Webb captures a cosmic lion sculpted by a dying star",
@@ -1182,16 +1262,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786525200000
-    },
-    {
-      "title": "Färja brinner på semesterön",
-      "description": "Kraftiga lågor",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/farja-brinner-pa-bali",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/farja-brinner-pa-bali",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786524818000
     },
     {
       "title": "Skolklasser får gratis inträde på Tekniska museet",
@@ -1322,16 +1392,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786518000000
-    },
-    {
-      "title": "Spotify ska börja märka AI-musik",
-      "description": "Snart införs nya etiketter för att skilja människa från maskin Det här med AI-musik är ju inget som kommer försvinna så det är väl bara att acceptera att det finns. Men för många hade det säkert varit trevligt att veta att musiken de lyssnar på är skapad av eller med hjälp av AI. Nu ska det bli lättare att veta om det är en människa eller en maskin som ligger bakom musiken i Spotify. De har nämligen beslutat att införa en tydlig märkning för AI-genererat innehåll, detta efter att många lyssnare lackat lite mot just det faktum att de lyssnar på fejkade artistprofiler i lurorna. Den nya märkningen, som går under namnet AI Persona, börjar rullas ut i mitten av september. Men det stannar inte vid bara en etikett, Spotify väljer också att prioritera mänskligt skapande genom att hålla den AI-genererade musiken borta från sina rekommenderade spellistor. För att hitta dessa profiler kommer Spotify dels att granska materialet själva, men de öppnar även upp för att lyssnare ska kunna rapportera misstänkta konton. Dessutom förväntas de som laddar upp AI-musik att själva flagga för detta. L&auml;s vidare och kommentera: https://feber.se/internet/spotify-ska-borja-marka-ai-musik/494921/ L&auml;s mer om Spotify , AI-musik , AI Persona , musikbranschen , musikstreaming",
-      "link": "https://feber.se/internet/spotify-ska-borja-marka-ai-musik/494921/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/spotify-ska-borja-marka-ai-musik/494921/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786516200000
     },
     {
       "title": "Kan du inte se solförmörkelsen i kväll? Titta hemifrån på Nasas direktsändning",
@@ -1504,16 +1564,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786471200000
     },
     {
-      "title": "CLAE x Union Carter Lug",
-      "description": "",
-      "link": "https://uncrate.com/clae-x-union-carter-lug/",
-      "guid": "https://uncrate.com/clae-x-union-carter-lug/",
-      "image": "https://uncrate.com/assets_c/2026/08/union-clae-1-thumb-960xauto-192510.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786469391000
-    },
-    {
       "title": "Under solförmörkelsen kommer en speciell ballong att spela en mycket speciell roll",
       "description": "Forskarna hoppas att ballongen ska hjälpa dem att hitta svaret på en viktig fråga.",
       "link": "https://illvet.se/universum/under-solformorkelsen-kommer-en-speciell-ballong-att-spela-en-mycket-speciell-roll",
@@ -1522,16 +1572,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786467630000
-    },
-    {
-      "title": "Barton Perreira 007 AVTAK Sunglasses",
-      "description": "",
-      "link": "https://uncrate.com/barton-perreira-007-avtak-sunglasses/",
-      "guid": "https://uncrate.com/barton-perreira-007-avtak-sunglasses/",
-      "image": "https://uncrate.com/assets_c/2026/08/barton-perreira-007-avtak-sunglasses-1-darkened-thumb-960xauto-192527.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786467600000
     },
     {
       "title": "Nyttjandegrad av bortabiljetter till Europamatcher",
@@ -1564,16 +1604,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786464003000
     },
     {
-      "title": "Argyronisos Private Island Greece",
-      "description": "",
-      "link": "https://uncrate.com/argyronisos-private-island-greece/",
-      "guid": "https://uncrate.com/argyronisos-private-island-greece/",
-      "image": "https://uncrate.com/assets_c/2026/08/argyronisos-private-island-greece-1-thumb-960xauto-192524.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786464000000
-    },
-    {
       "title": "Här är den mest hundskygga kommunen i landet",
       "description": "Solna är kommunen med lägst andel hundar per invånare i hela landet.",
       "link": "https://www.mitti.se/nyheter/har-ar-den-mest-hundskygga-kommunen-i-landet-6.3.379209.c541d55411",
@@ -1592,16 +1622,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786464000000
-    },
-    {
-      "title": "Forskare observerade jättestjärnas dödsögonblick – men sedan hände något de inte hade förväntat sig",
-      "description": "Medan astronomer världen över följde det sällsynta ögonblicket, väntade en verklig överraskning.",
-      "link": "https://illvet.se/universum/forskare-observerade-jattestjarnas-dodsogonblick-men-sedan-hande-nagot-de-inte-hade-forvantat-sig",
-      "guid": "https://illvet.se/universum/forskare-observerade-jattestjarnas-dodsogonblick-men-sedan-hande-nagot-de-inte-hade-forvantat-sig",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786462826000
     },
     {
       "title": "M-politiker pausas efter uttalande om dragmusikal",
@@ -1642,16 +1662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786460640000
-    },
-    {
-      "title": "James Brand The Carter Knife",
-      "description": "",
-      "link": "https://uncrate.com/james-brand-the-carter-knife/",
-      "guid": "https://uncrate.com/james-brand-the-carter-knife/",
-      "image": "https://uncrate.com/assets_c/2026/08/james-brand-knife-the-carter-11-darkened-thumb-960xauto-192522.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786460400000
     },
     {
       "title": "Lidingö låter eleverna välja sin egen skolmat",
@@ -1752,16 +1762,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786452672000
-    },
-    {
-      "title": "För första gången någonsin: Forskare närvarar när helt ny del av jorden skapas under havet",
-      "description": "Aldrig tidigare har en människa lyckats närvara vid just ett sådant här ögonblick.",
-      "link": "https://illvet.se/naturen/for-forsta-gangen-nagonsin-forskare-narvarar-nar-helt-ny-del-av-jorden-skapas-under-havet",
-      "guid": "https://illvet.se/naturen/for-forsta-gangen-nagonsin-forskare-narvarar-nar-helt-ny-del-av-jorden-skapas-under-havet",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786452551000
     },
     {
       "title": "Silvia – och Kristina – firas i jubileumskonsert",
