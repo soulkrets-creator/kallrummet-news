@@ -1,17 +1,187 @@
 {
-  "updatedAt": "2026-08-13T18:46:28.541Z",
+  "updatedAt": "2026-08-13T21:33:36.614Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Misstänkt mord i Söderhamn – man gripen",
-      "description": "En man har dött efter ett våldsbrott i en bostad i Söderhamn – där det även hittades en skadad kvinna. En man har gripits. – Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin vid polisen.",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=afe956b0-5c9e-41d3-bd1f-0c81e8c08c58",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=afe956b0-5c9e-41d3-bd1f-0c81e8c08c58",
+      "title": "From Louis to Vuitton",
+      "description": "",
+      "link": "https://uncrate.com/from-louis-to-vuitton/",
+      "guid": "https://uncrate.com/from-louis-to-vuitton/",
+      "image": "https://uncrate.com/assets_c/2026/08/from-louis-to-vuitton-11-darkened-thumb-960xauto-192547.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786658400000
+    },
+    {
+      "title": "Larmet från hangarfartyget: Färskvaror hinner inte fram",
+      "description": "Sjömän på hangarfartyget mår bedrövligt av den rekordlånga tjänstgörningen. Nu framkommer nya uppgifter om krisen ombord. ”Jag har inte druckit mjölk på 3 månader”, skriver en besättningsmedlem.",
+      "link": "https://www.expressen.se/nyheter/larmet-fran-hangarfartyget-farskvaror-hinner-inte-fram/",
+      "guid": "https://www.expressen.se/nyheter/larmet-fran-hangarfartyget-farskvaror-hinner-inte-fram/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786646284000
+      "timestamp": 1786656563000
+    },
+    {
+      "title": "Kommentar: Wilma Helteläs otroliga comeback borde inte varit möjlig",
+      "description": "För ett och ett halvt år sedan var Wilma Heltelä sjukledig på psykiaterns order. Stavstjärnans resa till EM-silvret är trots guldmissen enastående.",
+      "link": "https://yle.fi/a/7-10103527?origin=rss",
+      "guid": "https://yle.fi/a/7-10103527",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786656550000
+    },
+    {
+      "title": "Ilskan mot Putin: ”Helt oacceptabelt”",
+      "description": "Ryska presidenten Vladimir Putin gjorde en blixtvisit till omtvistade ön i Kurilerna. Det fick japanska premiärministern att se rött. – Det är helt oacceptabelt, säger Sanae Takaichi enligt BBC .",
+      "link": "https://www.expressen.se/nyheter/varlden/ilskan-mot-putin-helt-oacceptabelt/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ilskan-mot-putin-helt-oacceptabelt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786655790000
+    },
+    {
+      "title": "Wilma Heltelä tillbaka på prispallen – EM-silver i Birminghams stavfinal",
+      "description": "Wilma Heltelä presterade på toppen av sin förmåga och vann silver i stavhopp i EM i friidrott i Birmingham. Mot Angelica Moser räckte hon inte till.",
+      "link": "https://yle.fi/a/7-10102829?origin=rss",
+      "guid": "https://yle.fi/a/7-10102829",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786655525000
+    },
+    {
+      "title": "Garb: Burnt Rubber",
+      "description": "",
+      "link": "https://uncrate.com/garb-burnt-rubber/",
+      "guid": "https://uncrate.com/garb-burnt-rubber/",
+      "image": "https://uncrate.com/assets_c/2026/08/garb-burn-rubber-darkened-thumb-960xauto-192554.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786654800000
+    },
+    {
+      "title": "Svenskan sköts i Lissabon – kulan kvar: ”Inte arg”",
+      "description": "Anna strosade i Lissabons turistkvarter när hon plötsligt blev skjuten rakt i bröstet. Nu har hon lämnat sjukhuset – men kulan sitter kvar. – De sade att jag hade änglar som vaktade mig, säger hon till TT.",
+      "link": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
+      "guid": "https://www.expressen.se/nyheter/varlden/svenskan-skots-i-lissabon-kulan-kvar-inte-arg/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786653207000
+    },
+    {
+      "title": "Ilona Mononen stumnade bort när medaljtåget for: ”Man växer av besvikelser”",
+      "description": "Ilona Mononen gick in med tydlig medaljchans på 3000 meter hinder i EM i friidrott i Birmingham. Men när pallplatserna delades ut var Mononen inte längre med.",
+      "link": "https://yle.fi/a/7-10102830?origin=rss",
+      "guid": "https://yle.fi/a/7-10102830",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786652902000
+    },
+    {
+      "title": "HTV: Warner efter förlusten mot Raków",
+      "description": "",
+      "link": "https://www.hammarbyfotboll.se/nyheter/htv-warner-efter-foerlusten-mot-rakow",
+      "guid": "cbc307c4-5d50-44f1-96e9-f3c3741c5d13",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/2b5138cedb58d5c0692fce94c34726bea8e402f7-3840x2160.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786652835000
+    },
+    {
+      "title": "Misstron mot ryska paret: ”Inte en naturlig plats”",
+      "description": "De ville bara vara i skogen vid havet. I Furuvik klev det ryska paret av tåget, rörde sig planlöst mot vattnet och slog upp sitt tält. Det är deras egen berättelse om hur de hamnade vid huset där försvarsindustrikoncernen Saabs vd vistades. Polisen anser att förklaringen ”inte är trovärdig eftersom det inte är en naturlig plats att hamna på”.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstron-mot-ryska-paret-inte-en-naturlig-plats/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstron-mot-ryska-paret-inte-en-naturlig-plats/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786651946000
+    },
+    {
+      "title": "Ron Izalco 18 year Cask Strength Private Reserve Rum",
+      "description": "",
+      "link": "https://uncrate.com/ron-izalco-18-year-cask-strength-private-reserve-rum/",
+      "guid": "https://uncrate.com/ron-izalco-18-year-cask-strength-private-reserve-rum/",
+      "image": "https://uncrate.com/assets_c/2026/08/ron-izalco-2-thumb-960xauto-192543.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786651201000
+    },
+    {
+      "title": "Spendrups återkallar Trocadero",
+      "description": "För man kunde bli Trocadrunk! Den som nyligen köpt med sig ett flak Trocadero Zero kan kanske känna sig lite extra glad då Spendrups nu har återkallat vissa förpackningar då de i själva verket innehåller starköl. I kartongerna, som säljs hos både Lidl och Dollarstore, har burkar av ölsorten Lucky Bait smugit sig in bland läsken. Enligt Spendrups beror missen på ett tekniskt strul vid packningsbandet där produkterna hanteras på samma lina. Spendrups säger att det ser mycket allvarligt på denna miss då det här med starköl ju inte får hamna på vanliga butikshyller, för då kan det ju gå illa i samhället. En utredning har nu inletts för att säkerställa att liknande incidenter inte upprepas. Återkallelsen gäller 24-pack av Trocadero Zero med bäst före-datum 2027-07-22. Kunder som köpt en berörd förpackning uppmanas att ta kontakt med Spendrups konsumentkontakt. L&auml;s vidare och kommentera: https://tjock.se/strupen/spendrups-aterkallar-trocadero/494988/ L&auml;s mer om Trocadero Zero , Spendrups , Lucky Bait , Lidl , Dollarstore , återkallelse , starköl",
+      "link": "https://tjock.se/strupen/spendrups-aterkallar-trocadero/494988/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/strupen/spendrups-aterkallar-trocadero/494988/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786651200000
+    },
+    {
+      "title": "Misstänkt mord i Söderhamn – man gripen",
+      "description": "En man har dött efter ett våldsbrott i en bostad i Söderhamn – där det även hittades en skadad kvinna. En man har gripits. – Vi har anledning att tro att dessa tre känner varandra sedan tidigare, säger Magnus Jansson Klarin vid polisen.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankt-mord-i-soderhamn--man-gripen/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankt-mord-i-soderhamn--man-gripen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786650208000
+    },
+    {
+      "title": "Sverige sänker straffbarhetsåldern till 14 år",
+      "description": "Riksdagens beslut betyder att 14 år gamla kan kan dömas till fängelse för grova brott.",
+      "link": "https://yle.fi/a/7-10103542?origin=rss",
+      "guid": "https://yle.fi/a/7-10103542",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786649762000
+    },
+    {
+      "title": "Seeking Dating Platform",
+      "description": "",
+      "link": "https://uncrate.com/seeking-dating-platform/",
+      "guid": "https://uncrate.com/seeking-dating-platform/",
+      "image": "https://uncrate.com/assets_c/2026/08/seeking-1-thumb-960xauto-192494.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786649433000
+    },
+    {
+      "title": "Meteor fångas på poliskameran",
+      "description": "Lyser upp på himlen • Landar framför bilen",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/meteor-fangas-pa-poliskameran",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/meteor-fangas-pa-poliskameran",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786649158000
+    },
+    {
+      "title": "FC Inter vidare till playoff i Conference League – där även KuPS kommer att spela",
+      "description": "FC Inter slog ut FC Vaduz och förlängde sitt Europaäventyr. Nu är laget bara ett dubbelmöte från ligafasen i Conference League. KuPS kommer också att spela playoff till samma turnering.",
+      "link": "https://yle.fi/a/7-10103541?origin=rss",
+      "guid": "https://yle.fi/a/7-10103541",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786647669000
+    },
+    {
+      "title": "Rörigt europeiskt uttåg",
+      "description": "Europaäventyret tog slut i tredje Conference League-kvalomgången. Efter 0-0 i Polen kunde Raków Częstochowa göra returens andra mål, inför 19 719. Det här blev en ganska besynnerlig drabbning där Amin",
+      "link": "https://www.hammarbyfotboll.se/nyheter/0-1-i-hemmareturen-mot-rakow",
+      "guid": "702dc5ae-b512-48ca-bac6-08a20254bd0a",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/81dff020f72f6304ff7b421e5f4e403d2587caef-3000x1500.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786647359000
     },
     {
       "title": "Pojke under 15 död efter krock i Eskilstuna",
@@ -34,11 +204,21 @@
       "timestamp": 1786645998000
     },
     {
+      "title": "Aesop Deodorant",
+      "description": "",
+      "link": "https://uncrate.com/aesop-deodorant/",
+      "guid": "https://uncrate.com/aesop-deodorant/",
+      "image": "https://uncrate.com/assets_c/2026/08/aesop-deodorant-11-darkened-thumb-960xauto-192546.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786645800000
+    },
+    {
       "title": "Rekordmånga fotbollslag till Skarpnäck",
       "description": "Mini Tiger Cup på Skarpnäcks IP slår rekord i antal lag den 15 och 16 augusti 2026. Arrangören Spårvägens FF räknar nu till 209 lag.",
       "link": "https://www.mitti.se/nyheter/rekordmanga-fotbollslag-till-skarpnack-6.3.379622.dafc17b308",
       "guid": "https://www.mitti.se/nyheter/rekordmanga-fotbollslag-till-skarpnack-6.3.379622.dafc17b308",
-      "image": "https://www.mitti.se/image-3.378160.302634.20260813182147.1.bddaeaea17?format=jpeg",
+      "image": "https://www.mitti.se/image-3.378160.302634.20260813185014.1.edc37d280b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786645199000
@@ -114,6 +294,16 @@
       "timestamp": 1786642728000
     },
     {
+      "title": "Nike Vapor x Posite Tennis Shoes",
+      "description": "",
+      "link": "https://uncrate.com/nike-vapor-x-posite-tennis-shoes/",
+      "guid": "https://uncrate.com/nike-vapor-x-posite-tennis-shoes/",
+      "image": "https://uncrate.com/assets_c/2026/08/nike-vapor-x-posite-1-darkened-thumb-960xauto-192479.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786642296000
+    },
+    {
       "title": "Trailer för andra säsongen av The Paper",
       "description": "The Office-spinoffen fortsätter nästa månad Här har vi en trailer för den andra säsongen av The Paper, vilket är en spinoff av den amerikanska versionen av The Office och är även skapad av folket bakom den serien. I den andra säsongen får vi fortsätta följa Ned Sampson, spelad av Domhnall Gleeson, som försöker rädda en liten lokaltidning i Toledo. I denna säsong vill tidningen avslöja lite fuffens som pågår på en lokal privatklubb. Den andra säsongen har premiär i USA den 9 september. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-andra-sasongen-av-the-paper/494954/ L&auml;s mer om The Paper , Domhnall Gleeson , The Office , Ned Sampson , Toledo , TV-serie",
       "link": "https://feber.se/film/trailer-for-andra-sasongen-av-the-paper/494954/?utm_source=rss&utm_medium=feed",
@@ -181,6 +371,16 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786640400000
+    },
+    {
+      "title": "Soft Electronics",
+      "description": "",
+      "link": "https://uncrate.com/soft-electronics/",
+      "guid": "https://uncrate.com/soft-electronics/",
+      "image": "https://uncrate.com/assets_c/2026/08/soft-electronics-book-1-darkened-thumb-960xauto-192545.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786640400000
     },
     {
@@ -322,16 +522,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786636420000
-    },
-    {
-      "title": "700 flyg ställs in",
-      "description": "Vulkanutbrott • Tusentals drabbas",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/700-flyg-stalls-in-efter-vulkanutbrott-vid-etna",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/700-flyg-stalls-in-efter-vulkanutbrott-vid-etna",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786636230000
     },
     {
       "title": "”Vi är inte enbart vårt teaterhus” – Åbo Svenska Teater flyttar vid årsskiftet",
@@ -478,7 +668,7 @@
       "description": "Solna scoutkår tvingas flytta efter kyrkförsäljningen. Intresset beskrivs som jättestort, men Solna scoutkår har samtidigt kämpat förtvivlat i nästan ett år för att överleva. Nu står det klart att ny hemvist blir gamla kulturskolan i Oskarsro. – Kåren har stått inför att behöva läggas ned i värsta fall. Det är skönt med en lösning, säger en person inom kåren som vill vara anonym. Augusti 2026.",
       "link": "https://www.mitti.se/nyheter/scoutkaren-tvingades-lamna-kyrkan-efter-forsaljning-6.3.379232.9e8d31fde4",
       "guid": "https://www.mitti.se/nyheter/scoutkaren-tvingades-lamna-kyrkan-efter-forsaljning-6.3.379232.9e8d31fde4",
-      "image": "https://www.mitti.se/image-3.371689.302186.20260813152911.416da35d8d?format=jpeg",
+      "image": "https://www.mitti.se/image-3.378239.302186.20260813205903.e798c24570?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786633137000
@@ -548,7 +738,7 @@
       "description": "Ytterligare en tonåring häktad för Hässelby-mordet. En fjärde tonåring har häktats misstänkt för mordet på den skolanställde mannen i 25-årtsåldern i Smedshagen. Sedan tidigare sitter en 19-årig ung man häktad, samt två pojkar i 15-årsåldern. Augusti 2026.",
       "link": "https://www.mitti.se/nyheter/en-fjarde-tonaring-haktad-for-mordet-i-hasselby-6.3.379645.ec93341423",
       "guid": "https://www.mitti.se/nyheter/en-fjarde-tonaring-haktad-for-mordet-i-hasselby-6.3.379645.ec93341423",
-      "image": "https://www.mitti.se/image-3.377243.302654.20260813151541.29baff3474?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377243.302654.20260813204457.d790ade186?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786632314000
@@ -624,16 +814,6 @@
       "timestamp": 1786629025000
     },
     {
-      "title": "Näringslivet kritiskt efter C:s nya besked",
-      "description": "Centerns öppning för att stödja Socialdemokraternas förslag på ett slopat karensavdrag får Svenskt Näringsliv att reagera. – Det är ett experiment vi har provat tidigare och det misslyckades, säger vd Jan-Olof Jacke.",
-      "link": "https://www.expressen.se/nyheter/politik/naringslivet-kritiskt-efter-cs-nya-besked/",
-      "guid": "https://www.expressen.se/nyheter/politik/naringslivet-kritiskt-efter-cs-nya-besked/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786628630000
-    },
-    {
       "title": "Lucid tappar miljoner per bil – kan Cosmos bli räddningen?",
       "description": "Den unga biltillverkaren Lucid fullkomligen blöder pengar. På pappret låter det vi vet om nya Cosmos imponerande, men frågan är om det räcker för att få bolaget på rätt köl. Dagens PS har flitigt rapporterat om den svajiga fordonsbranschen. Bland annat är det jätten Volkswagen som kämpar med röda siffror, och i framtidsplanerna siktas både […]",
       "link": "https://www.dagensps.se/motor/lucid-tappar-miljoner-per-bil-kan-cosmos-bli-raddningen/",
@@ -674,16 +854,6 @@
       "timestamp": 1786627800000
     },
     {
-      "title": "Greve Soptunna kandiderar mot Nigel Farage i absurt fyllnadsval i Storbritannien",
-      "description": "De större partierna i Storbritannien bojkottar ett fyllnadsval i Clacton. Valet ordnas efter att Nigel Farage avgått och nu vill bli invald på nytt.",
-      "link": "https://yle.fi/a/7-10103507?origin=rss",
-      "guid": "https://yle.fi/a/7-10103507",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786627597000
-    },
-    {
       "title": "Falsk hemtjänst vill lura äldre Sigtunabor",
       "description": "Bedragare har försökt komma in hos äldre i Sigtuna kommun genom att påstå att de kommer från hemtjänsten.",
       "link": "https://www.mitti.se/nyheter/falsk-hemtjanst-vill-lura-aldre-sigtunabor-6.3.379310.5500e739c9",
@@ -692,26 +862,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786627385000
-    },
-    {
-      "title": "Kommentar: ÅST-chefen Kira-Emmi Pohtokari vill göra teatern sexig igen – men vad betyder det egentligen?",
-      "description": "Skaka om det finlandssvenska teaterfältets borgerliga rykte, och ge unga en chans att köpa billiga biljetter. Åbo Svenska Teater presenterar en ny strategi.",
-      "link": "https://yle.fi/a/7-10103491?origin=rss",
-      "guid": "https://yle.fi/a/7-10103491",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786627051000
-    },
-    {
-      "title": "Två års väntan är över – Generalshagens skola flyttade in i nyrenoverade utrymmen",
-      "description": "Eleverna och personalen i Generalshagens skola i Lovisa var inhysta i baracker i två års tid.",
-      "link": "https://yle.fi/a/7-10103342?origin=rss",
-      "guid": "https://yle.fi/a/7-10103342",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786626479000
     },
     {
       "title": "Höghastighetståg i Kina slår nytt världsrekord",
@@ -732,36 +882,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786625810000
-    },
-    {
-      "title": "Efter kritiken: Välfärdsområdet avbryter upphandlingen av kommunikationstjänster",
-      "description": "Nu backar Västra Nylands välfärdsområde angående köpet av kommunikationstjänster. Välfärdsdirektören Sanna Svahn erkänner misstag.",
-      "link": "https://yle.fi/a/7-10103524?origin=rss",
-      "guid": "https://yle.fi/a/7-10103524",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786625181000
-    },
-    {
-      "title": "Undrens tid är inte förbi – Deep Purple återförenades med Ritchie Blackmore",
-      "description": "På onsdagskvällen stod rocklegenderna på samma scen, 33 år efter grälet i Helsingfors.",
-      "link": "https://yle.fi/a/7-10103504?origin=rss",
-      "guid": "https://yle.fi/a/7-10103504",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786625114000
-    },
-    {
-      "title": "Kvinna död",
-      "description": "Mc-olycka i centrala Stockholm",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6379a222-43a5-42a7-b679-1d055e98bffb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6379a222-43a5-42a7-b679-1d055e98bffb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786624876000
     },
     {
       "title": "Kvinna död i mc-olycka i centrala Stockholm",
@@ -792,16 +912,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786624200000
-    },
-    {
-      "title": "Man dödades av kor – hittades av barnbarn",
-      "description": "En 82-årig man attackerades av en grupp kor på en gård i fredags. Ett av hans barnbarn hittade honom i hagen – men hans liv gick inte att rädda. ”En fruktansvärd mardröm”, skriver dottern på Facebook.",
-      "link": "https://www.expressen.se/nyheter/sverige/man-dodades-av-kor-hittades-av-barnbarn/",
-      "guid": "https://www.expressen.se/nyheter/sverige/man-dodades-av-kor-hittades-av-barnbarn/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786623909000
     },
     {
       "title": "Avokadon har en mycket förvånande förmåga, som ingen tidigare har kunnat förklara – nu tror sig forskare ha löst det 100 år gamla mysteriet",
@@ -882,16 +992,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786620600000
-    },
-    {
-      "title": "Turister trotsar förbudet",
-      "description": "Spanska myndigheternas krav – efter virala trenden",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/turister-trotsar-forbuden-utanfor-ikoniska-monumentet",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/turister-trotsar-forbuden-utanfor-ikoniska-monumentet",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786619105000
     },
     {
       "title": "Över 2 000 barn skadas i trafiken i samband med skolstart",
@@ -1344,16 +1444,6 @@
       "timestamp": 1786559400000
     },
     {
-      "title": "Alessi Pulcina Espresso Coffee Maker",
-      "description": "",
-      "link": "https://uncrate.com/alessi-pulcina-espresso-coffee-maker/",
-      "guid": "https://uncrate.com/alessi-pulcina-espresso-coffee-maker/",
-      "image": "https://uncrate.com/assets_c/2026/08/alessi-pulcina-espresso-coffee-maker-11-darkened-thumb-960xauto-192538.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786559400000
-    },
-    {
       "title": "Bortglömd Sagan om ringen-klassiker gör comeback",
       "description": "Nu kan du slåss i norra Midgård igen, med 60 fps Lite halvt oväntat dök en uppdaterad version av actionrollspelet The Lord of the Rings: War in the North från 2011 upp för moderna konsoler i veckan. Denna nya version, som fått undertiteln Legacy Edition, bjuder förbättringar som 60 fps, smidigare menyer och möjligheten att spela tillsammans med vänner via både split-screen samt via nätet. I detta spel följer man en trio nya hjältar som håller på med sitt eget lilla krig i norra Midgård samtidigt som Frodo och gänget kämpar med ringen. Jag vill minnas att spelet var rätt bra på att väva ihop sin handling med händelserna från filmerna och få med andra karaktärer från Tolkiens böcker. The Lord of the Rings: War in the North – Legacy Edition finns alltså nu ute till Playstation, Xbox, PC och Switch. L&auml;s vidare och kommentera: https://feber.se/spel/bortglomd-sagan-om-ringen-klassiker-gor-comeback/494952/ L&auml;s mer om Legacy Edition , The Lord of the Rings: War in the North , actionrollspel , Tolkien , Playstation , Xbox",
       "link": "https://feber.se/spel/bortglomd-sagan-om-ringen-klassiker-gor-comeback/494952/?utm_source=rss&utm_medium=feed",
@@ -1392,36 +1482,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786555800000
-    },
-    {
-      "title": "Tineco Floor One Station S9 Scientist Pro Vacuum",
-      "description": "",
-      "link": "https://uncrate.com/tineco-floor-one-station-s9-scientist-pro-vacuum/",
-      "guid": "https://uncrate.com/tineco-floor-one-station-s9-scientist-pro-vacuum/",
-      "image": "https://uncrate.com/assets_c/2026/08/station-sc9-1-thumb-960xauto-192505.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786555720000
-    },
-    {
-      "title": "DJI släpper Mic Mini 2S med 32 bitars ljud",
-      "description": "Räddningen för alla skrikiga YouTubers? DJI har nu lanserat sin nya minimikrofon Mic Mini 2S som, till skillnad från föregångaren, har intern inspelning i 32-bitars float. För den som inte är ljudnörd innebär det i praktiken att man får ett rätt så rejält dynamiskt omfång vilket är super om man är en skrikig YouTuber. Mikrofonen väger bara 12 gram och fästs med hjälp av en magnet på kläderna. Den har också inbyggd AI-baserad brusreducering i två steg och har minne som rymmer upp till 28 timmars ljud. För den som skapar innehåll tillsammans med andra är det kanske kul att veta att en enda mottagare nu kan hantera upp till fyra mikrofoner samtidigt om man håller på att podda eller håller på med intervjuer på fältet. Mikrofonen kan också kopplas direkt till olika DJI-kameror för att synka ljud och bild. DJI Mic Mini 2S släpps nu i butik och säljs i två olika versioner. Ett baspaket med en sändare och en mottagare för 1 399 kronor samt ett kombopaket med två sändare med laddare plus mottagare för 2 399 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/dji-slapper-mic-mini-2s-med-32-bitars-ljud/494951/ L&auml;s mer om DJI , DJI Mic Mini 2S , 32-bitars float , Mic Mini 2S , mikrofoner , 32-bit float , AI-brusreducering",
-      "link": "https://feber.se/pryl/dji-slapper-mic-mini-2s-med-32-bitars-ljud/494951/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/dji-slapper-mic-mini-2s-med-32-bitars-ljud/494951/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786555200000
-    },
-    {
-      "title": "The Stylish Life: Grand Prix",
-      "description": "",
-      "link": "https://uncrate.com/the-stylish-life-grand-prix/",
-      "guid": "https://uncrate.com/the-stylish-life-grand-prix/",
-      "image": "https://uncrate.com/assets_c/2026/08/the-stylish-life-grand-prix-111-darkened-thumb-960xauto-192536.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786554000000
     },
     {
       "title": "Granskning avslöjar glädjebetyg på Vallentuna gymnasium",
@@ -1474,16 +1534,6 @@
       "timestamp": 1786550402000
     },
     {
-      "title": "TAG Heuer Formula 1 Solargraph Zandvoort",
-      "description": "",
-      "link": "https://uncrate.com/tag-heuer-formula-1-solargraph-zandvoort/",
-      "guid": "https://uncrate.com/tag-heuer-formula-1-solargraph-zandvoort/",
-      "image": "https://uncrate.com/assets_c/2026/08/tag-heuer-formula-1-solargraph-zandvoort-1-darkened-thumb-960xauto-192534.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786550400000
-    },
-    {
       "title": "PODD: Sista minuten-tips inför solförmörkelsen",
       "description": "Sista minuten-tips inför solförmörkelsen och är Djurgårdsvillan Batmans nya favoritplats? Lyssna på senaste avsnittet av Mitt i-podden med Orreteg & Hertz.",
       "link": "https://www.mitti.se/nyheter/podd-sista-minutentips-infor-solformorkelsen-6.3.379536.317bd468d6",
@@ -1522,16 +1572,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1786546818000
-    },
-    {
-      "title": "Australia Elevation Map",
-      "description": "",
-      "link": "https://uncrate.com/australia-elevation-map/",
-      "guid": "https://uncrate.com/australia-elevation-map/",
-      "image": "https://uncrate.com/assets_c/2026/08/australia-elevation-map-1-darkened-thumb-960xauto-192533.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786546800000
     },
     {
       "title": "Stoppades på Centralstationen – hade tolv kilo kat",
@@ -1964,26 +2004,6 @@
       "timestamp": 1786506364000
     },
     {
-      "title": "Porsche 911 Turbo S 'Land Down Under' Edition",
-      "description": "",
-      "link": "https://uncrate.com/porsche-911-turbo-s-land-down-under-edition/",
-      "guid": "https://uncrate.com/porsche-911-turbo-s-land-down-under-edition/",
-      "image": "https://uncrate.com/assets_c/2026/08/porsche-911-turbo-s-land-down-under-1-thumb-960xauto-192523.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786489200000
-    },
-    {
-      "title": "The Porsche Book",
-      "description": "",
-      "link": "https://uncrate.com/the-porsche-book/",
-      "guid": "https://uncrate.com/the-porsche-book/",
-      "image": "https://uncrate.com/assets_c/2026/08/the-porsche-book-11-darkened-thumb-960xauto-192530.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786485600000
-    },
-    {
       "title": "Biljettinformation: Omgång 2 i Svenska Cupen mot FC Stockholm",
       "description": "Den 26 augusti klockan 18.30 är Svenska Cupens andra kvalomgång mot FC Stockholm planerad att spelas. Matchdatumet är preliminärt och fastställs efter att torsdagens kvalomgång i UECL spelats klart, v",
       "link": "https://www.hammarbyfotboll.se/nyheter/biljettinformation-omgang-2-i-svenska-cupen-mot-fc-stockholm",
@@ -1992,16 +2012,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786471200000
-    },
-    {
-      "title": "Nyttjandegrad av bortabiljetter till Europamatcher",
-      "description": "Hammarby kan konstatera att ett flertal biljetter till våra bortamatcher i Europaspelet inte har nyttjats. Till matchen mot Raków var det cirka 65 biljetter av de 300 vi tilldelats som inte nyttjades.",
-      "link": "https://www.hammarbyfotboll.se/nyheter/nyttjandegrad-av-bortabiljetter-till-europamatcher",
-      "guid": "4972a87b-f382-4b0c-bdcb-44d08e2938db",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/89ec3aabb127826d9d1457710e8e73178725e065-1543x1029.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1786467294000
     },
     {
       "title": "En miljon biblar i brevlådorna – många grannar upprörda",
@@ -2122,16 +2132,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786457341000
-    },
-    {
-      "title": "HTV: \"Toppkänsla!\" | Amin om första tiden i Bajen, samt inför Raków hemma",
-      "description": "",
-      "link": "https://www.hammarbyfotboll.se/nyheter/htv-toppkaensla-or-amin-om-foersta-tiden-i-bajen-samt-infoer-rakow-hemma",
-      "guid": "a3c947ab-8c16-45b7-843c-e943df9f4e69",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/3b313169380baaa3f5aa9c9fb01c03fe4c187fd2-1920x1080.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1786457126000
     },
     {
       "title": "Potatislimpa",
