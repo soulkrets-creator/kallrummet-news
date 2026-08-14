@@ -1,8 +1,118 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-14T18:39:19.224Z",
+  "updatedAt": "2026-08-14T21:15:03.414Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Everyday Carry: Silver Lining",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-silver-lining/",
+      "guid": "https://uncrate.com/everyday-carry-silver-lining/",
+      "image": "https://uncrate.com/assets_c/2026/08/edc-silver-lining-darkened-thumb-960xauto-192565.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786741200000
+    },
+    {
+      "title": "Eames Hang-It-All Coat Rack",
+      "description": "",
+      "link": "https://uncrate.com/eames-hang-it-all-coat-rack/",
+      "guid": "https://uncrate.com/eames-hang-it-all-coat-rack/",
+      "image": "https://uncrate.com/assets_c/2026/08/eames-hang-it-all-rack-11-darkened-thumb-960xauto-192564.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786739400000
+    },
+    {
+      "title": "Ukrainska framgången: 240 mål träffade",
+      "description": "Operation ”Krims nedsläckning”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/ukrainska-framgangen-240-mal-traffade-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukrainska-framgangen-240-mal-traffade-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786738729000
+    },
+    {
+      "title": "Trumps utspel: Hormuzsundet ska bli amerikanskt",
+      "description": "”Hormuzsundet ska bli amerikanskt”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e82a0c9e-8cf4-4065-a73e-05dbccdabc0a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e82a0c9e-8cf4-4065-a73e-05dbccdabc0a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786738451000
+    },
+    {
+      "title": "LEGO® Super Heroes: Batman™ Logo",
+      "description": "",
+      "link": "https://uncrate.com/lego-super-heroes-batman-logo/",
+      "guid": "https://uncrate.com/lego-super-heroes-batman-logo/",
+      "image": "https://uncrate.com/assets_c/2026/08/lego-super-heroes-batman-logo-1-thumb-960xauto-192562.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786737600000
+    },
+    {
+      "title": "Hemlig 33-åring jagas för mord och gravfridsbrott",
+      "description": "En 33-årig person har häktats i sin utevaro misstänkt för mord och grovt gravfridsbrott. Polisen vet ännu inte vem offret är – och den misstänktes identitet har belagts med sekretess.",
+      "link": "https://www.expressen.se/nyheter/sverige/hemlig-33-aring-jagas-for-mord-och-gravfridsbrott/",
+      "guid": "https://www.expressen.se/nyheter/sverige/hemlig-33-aring-jagas-for-mord-och-gravfridsbrott/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786736463000
+    },
+    {
+      "title": "Skulle lägga avlopp – hittade guldskatt värd miljoner",
+      "description": "De belgiska byggarbetarna skulle lägga nytt avlopp – då hittade de en skatt. – Jag trodde först det var vanliga euromynt, säger praktikanten Kobe, till VRT .",
+      "link": "https://www.expressen.se/nyheter/skulle-lagga-avlopp--hittade-guldskatt-vard-miljoner/",
+      "guid": "https://www.expressen.se/nyheter/skulle-lagga-avlopp--hittade-guldskatt-vard-miljoner/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786735883000
+    },
+    {
+      "title": "AG1 Pro",
+      "description": "",
+      "link": "https://uncrate.com/ag1-pro/",
+      "guid": "https://uncrate.com/ag1-pro/",
+      "image": "https://uncrate.com/assets_c/2026/07/ag1-thumb-960xauto-192189.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1786735810000
+    },
+    {
+      "title": "Hur ställer du dig till wrestling?",
+      "description": "Dagens fråga Tidigare i dag skrev vi om att det amerikanska wrestlingförbundet WWE kommer till Stockholm nästa år för en show som ska ladda upp för PLE:n Royal Rumble som i år sker på State Farm Stadium i Arizona. Det här med wrestling är ju fantastiskt dumt men samtidigt fantastiskt underbart och väcker ju alla möjliga sorters känslor bland folk vilket man då ofta kan se i våra kommentatorsfält på sådant som är wrestlingrelaterat. Så det råder onekligen delade meningar om hur stort det svenska suget efter teaterbrottning egentligen är, därav vill vi och Feber-läsaren Gono veta hur mycket kärlek finns det egentligen för body slams, headlock takeovers samt TOPE SUICIDAS! här på hemmaplan? L&auml;s vidare och kommentera: https://feber.se/hur-staller-du-dig-till-wrestling/495021/ L&auml;s mer om WWE , Stockholm , Royal Rumble , wrestling , Jeddah , teaterbrottning",
+      "link": "https://feber.se/hur-staller-du-dig-till-wrestling/495021/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/hur-staller-du-dig-till-wrestling/495021/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1786734000000
+    },
+    {
+      "title": "Erik dog i fyrhjulingsolyckan i Vattrång – vännen Mathilda förlamades",
+      "description": "För sex veckor sedan förändrades Erica Saarenpääs, 41, liv för alltid. Hennes sambo Erik Sundin dog i en fyrhjulingsolycka – och nära vännen Mathilda blev förlamad. – Mitt liv har vänts upp och ner, säger Erica.",
+      "link": "https://www.expressen.se/nyheter/sverige/erik-dog-i-fyrhjulingsolyckan-i-vattrang-vannen-mathilda-forlamades-/",
+      "guid": "https://www.expressen.se/nyheter/sverige/erik-dog-i-fyrhjulingsolyckan-i-vattrang-vannen-mathilda-forlamades-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786733288000
+    },
+    {
+      "title": "Stubb hittade spritgömma från Kekkonens tid",
+      "description": "President Alexander Stubb har hittat spritflaskor från 1950-talet i Gullrandas potatiskällare. Flaskorna är från president Urho Kekkonens tid.",
+      "link": "https://yle.fi/a/7-10103603?origin=rss",
+      "guid": "https://yle.fi/a/7-10103603",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786732967000
+    },
     {
       "title": "Nu finns Czinger 21C utan tak",
       "description": "Får nytt coolt system Czinger 21C är en mycket potent superbil som har visat vad den går för både på vanliga allmänna vägar och på olika banor där den har slagit rekord. Nu lanseras modellen även som Spyder vilket innebär att du kan plocka bort taket för att släppa in lite mer av omgivningen när andan faller på. Det finns dock inget utrymme att förvara den långa takbiten i bilen så du får se till att planera din körning efter vädret om du ska köra taklöst. Taket är i kolfiber och det väger in på bara tio kilo. Förutom en ny version av bilen lanserar Czinger med denna även ett helt nytt system kallat BrakeNode. Det är ett system i aluminium som kombinerar bromsoket, stötdämparhållaren och hydraulledningarna i en och samma del. Det här minskar den ofjädrade massan med 0,7 kilo per hörn och är i samma veva 30 procent styvare. Bromsskivorna mäter 410 millimeter fram och 390 millimeter bak. Även insidan får en nyhet i form av NeuralNode. Här kombineras instrumentpanelen, luftventilerna och viktiga knappar i en enhet som placeras nära förarens händer. Motorn är samma egenutvecklade V8:a på 2,88 liter som övriga versioner av modellen får. Den har dubbla turbo och tillsammans med tre elmotorer landar effekten på 1260 hästar. Vridet anges till 938 newtonmeter och drivningen sker på alla fyra hjulen. 0-100 km/h ska gå på strax under två sekunder och kvartsmilen klaras av på 8,7 sekunder. Toppfarten anges till 330 km/h. Vikten på ekipaget anges till 1620 kilo torr och den kan producera upp till 1,5 ton i marktryck med taket monterat. Prislappen börjar på 2,75 miljoner dollar och endast 30 exemplar kommer att tillverkas. L&auml;s vidare och kommentera: https://feber.se/bil/nu-finns-czinger-21c-utan-tak/495015/ L&auml;s mer om Czinger 21C Spyder , cabriolet , Czinger , Spyder , cab , tak , USA , BrakeNode",
@@ -51,7 +161,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786729224000
+      "timestamp": 1786729223000
     },
     {
       "title": "Två blixtmål före paus fällde VPS – TPS med på allvar i kampen om en plats i den övre slutserien",
@@ -344,7 +454,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786719888000
     },
     {
-      "title": "Kraftig brand rasar i Kroatien – drog in över populär turiststad under natten",
+      "title": "Kraftig brand rasar i Kroatien – drog in över populär turiststad",
       "description": "Tiotals personer har skadats i en häftig skogsbrand i Kroatien som drog in över den historiska kuststaden Omiš natten till fredag.",
       "link": "https://yle.fi/a/7-10103574?origin=rss",
       "guid": "https://yle.fi/a/7-10103574",
@@ -735,7 +845,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Radhuslänga i Arboga i full brand",
-      "description": "En storbrand har brutit ut i ett bostadsområde i Arboga. Flera bostäder har brunnit ned – och branden är fortfarande inte under kontroll. – Totalt är 20 bostäder drabbade, säger Pyar Andersson vid räddningstjänsten.",
+      "description": "En storbrand bröt ut i ett bostadsområde i Arboga. Flera bostäder har brunnit ned – och det brann okontrollerat fram mot kvällen. – Totalt är 20 bostäder drabbade, säger Pyar Andersson vid räddningstjänsten.",
       "link": "https://www.expressen.se/nyheter/sverige/radhuslanga-i-arboga-i-full-brand/",
       "guid": "https://www.expressen.se/nyheter/sverige/radhuslanga-i-arboga-i-full-brand/",
       "image": "",
@@ -844,16 +954,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786707000000
     },
     {
-      "title": "Putins attack",
-      "description": "Svarar efter nytt anfall mot rysk olja",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/minst-fem-skadade-i-ukraina-efter-rysk-dronarattack",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/minst-fem-skadade-i-ukraina-efter-rysk-dronarattack",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786706914000
-    },
-    {
       "title": "Regeringen tillsätter en slöserikommission",
       "description": "Som ska granska statens utgifter Att slösa pengar kan ju både vara kul och onödigt på samma gång. Men att slösa pengar på statlig nivå är det ju ofta väldans många fler kronor vilket gör slöseriet ofta lite mer störande. För att få ordning på statligt slöseri har Tidöpartierna nu beslutat att tillsätta en ny utredning, en så kallad \"slöserikommissionen\", som har som mål att effektivisera statlig verksamhet. Syftet är att säkerställa att skattepengar används på bästa sätt, minska onödig byråkrati och frigöra medel till bland annat försvaret. Finansminister Elisabeth Svantesson (M) sa under en presstreff att staten inte ska behöva ta ut mer skatt än nödvändigt och att varje krona ska användas effektivt. Åke Nordlander, som är generaldirektör vid Exportkreditnämnden, har utsetts till särskild utredare. Uppdraget ska delredovisas i mars nästa år och slutredovisas i januari 2028. L&auml;s vidare och kommentera: https://feber.se/samhalle/regeringen-tillsatter-en-sloserikommission/495022/ L&auml;s mer om Elisabeth Svantesson , Åke Nordlander , Slöserikommissionen , Exportkreditnämnden , Skattepengar",
       "link": "https://feber.se/samhalle/regeringen-tillsatter-en-sloserikommission/495022/?utm_source=rss&utm_medium=feed",
@@ -944,16 +1044,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786704376000
     },
     {
-      "title": "Två östnyländska företag prickas för flera brister i livsmedelshygienen",
-      "description": "Ett företag i Sibbo och ett i Lappträsk får tillsägelse av miljöhälsosektionen i Borgå.",
-      "link": "https://yle.fi/a/7-10103554?origin=rss",
-      "guid": "https://yle.fi/a/7-10103554",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786703623000
-    },
-    {
       "title": "Google uppgraderar Gemini",
       "description": "Rullar ut 3.7 Flash tre veckor efter senaste versionen släpptes Bara tre veckor efter lanseringen av Gemini 3.6 Flash rullar Google nu ut uppföljaren Gemini 3.7 Flash. Enligt företaget är det deras hittills mest intelligenta \"arbetshäst\" för kodning och AI-agenter, och ska vara framtagen genom direkt feedback från utvecklare och nya algoritmiska innovationer. Jämfört med sin föregångare ska den nya modellen erbjuda förbättringar inom olika typer av kodning. Bland annat uppges den vara mycket bättre på att felsöka kod och kan generera mer funktionella layouter samt kompletta appar med färre prompter. Den ska också ha fått vässad slutledningsförmåga och precision för specialiserade områden som finans, juridik och biovetenskap. L&auml;s vidare och kommentera: https://feber.se/internet/google-uppgraderar-gemini/495003/ L&auml;s mer om Gemini 3.7 Flash , AI-agenter , Gemini 3.6 Flash , kodning , AI",
       "link": "https://feber.se/internet/google-uppgraderar-gemini/495003/?utm_source=rss&utm_medium=feed",
@@ -962,16 +1052,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786703400000
-    },
-    {
-      "title": "Klotterhot om skolskjutning",
-      "description": "Hotfullt klotter hittat på skola",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee60311d-31f0-4296-b23e-031807922b86",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ee60311d-31f0-4296-b23e-031807922b86",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786701761000
     },
     {
       "title": "Rally-VM sålt",
@@ -984,16 +1064,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786701600000
     },
     {
-      "title": "Tidöpartierna tillsätter ”slöserikommission”",
-      "description": "Tidöpartierna tillsätter en utredning för att öka effektiviteten i statlig verksamhet. Syftet är att hushålla med statens medel. På fredagen presenterade de detta som en ”slöserikommission”.",
-      "link": "https://www.expressen.se/nyheter/politik/tidopartierna-tillsatter-sloserikommission/",
-      "guid": "https://www.expressen.se/nyheter/politik/tidopartierna-tillsatter-sloserikommission/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786701287000
-    },
-    {
       "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
       "description": "Researchers have found strong evidence that original collagen can survive inside dinosaur fossils for tens of millions of years, overturning a long-standing assumption about fossilization. The discovery could unlock hidden molecular clues about dinosaur biology, evolution, and how ancient proteins managed to survive for so long.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm",
@@ -1004,16 +1074,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786701110000
     },
     {
-      "title": "Borgmästare i Afghanistan dödad i explosion",
-      "description": "Borgmästaren i provinsen Badakhshan i nordöstra Afghanistan har dödats i en explosion, uppger lokala myndigheter.",
-      "link": "https://www.expressen.se/nyheter/varlden/borgmastare-i-afghanistan-dodad-i-explosion/",
-      "guid": "https://www.expressen.se/nyheter/varlden/borgmastare-i-afghanistan-dodad-i-explosion/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786700223000
-    },
-    {
       "title": "Få förarbevis för vattenskoter har återkallats",
       "description": "Endast 107 sedan lagen infördes 2022 För några år sedan så blev det lag på att man skulle ha ett förarbevis för att få köra vattenskoter här i Sverige. Tanken med detta var att säkerställa att folk som körde vattenskoter hade rätt kompetens och omdöme för att öka säkerheten samt minska buskörning på vattnet. Det verkar dock som alla hade rätt kompetens, trots att de hade ett förarbevis. Nya siffror från Transportstyrelsen visar nämligen att 107 personer av de 124 000 personer som har skaffat beviset har fått sina förarbevis återkallade efter att de inte kunnat sköta sig. L&auml;s vidare och kommentera: https://feber.se/fordon/fa-forarbevis-for-vattenskoter-har-aterkallats/495008/ L&auml;s mer om Transportstyrelsen , förarbevis , vattenskoter , Sverige , sjösäkerhet , säkerhet",
       "link": "https://feber.se/fordon/fa-forarbevis-for-vattenskoter-har-aterkallats/495008/?utm_source=rss&utm_medium=feed",
@@ -1022,16 +1082,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786699800000
-    },
-    {
-      "title": "Man anhålls för mord i Söderhamn",
-      "description": "Kvinna och man hittades svårt skadade i Söderhamn",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=13fac89c-d15b-42e2-b140-53d61cd83fef",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=13fac89c-d15b-42e2-b140-53d61cd83fef",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786699547000
     },
     {
       "title": "Nacka vill minska avgifter för företagare",
@@ -1474,16 +1524,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786647359000
     },
     {
-      "title": "Aesop Deodorant",
-      "description": "",
-      "link": "https://uncrate.com/aesop-deodorant/",
-      "guid": "https://uncrate.com/aesop-deodorant/",
-      "image": "https://uncrate.com/assets_c/2026/08/aesop-deodorant-11-darkened-thumb-960xauto-192546.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786645800000
-    },
-    {
       "title": "Rekordmånga fotbollslag till Skarpnäck",
       "description": "Mini Tiger Cup på Skarpnäcks IP slår rekord i antal lag den 15 och 16 augusti 2026. Arrangören Spårvägens FF räknar nu till 209 lag.",
       "link": "https://www.mitti.se/nyheter/rekordmanga-fotbollslag-till-skarpnack-6.3.379622.dafc17b308",
@@ -1492,36 +1532,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786645199000
-    },
-    {
-      "title": "Nike Vapor x Posite Tennis Shoes",
-      "description": "",
-      "link": "https://uncrate.com/nike-vapor-x-posite-tennis-shoes/",
-      "guid": "https://uncrate.com/nike-vapor-x-posite-tennis-shoes/",
-      "image": "https://uncrate.com/assets_c/2026/08/nike-vapor-x-posite-1-darkened-thumb-960xauto-192479.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786642296000
-    },
-    {
-      "title": "Trailer för andra säsongen av The Paper",
-      "description": "The Office-spinoffen fortsätter nästa månad Här har vi en trailer för den andra säsongen av The Paper, vilket är en spinoff av den amerikanska versionen av The Office och är även skapad av folket bakom den serien. I den andra säsongen får vi fortsätta följa Ned Sampson, spelad av Domhnall Gleeson, som försöker rädda en liten lokaltidning i Toledo. I denna säsong vill tidningen avslöja lite fuffens som pågår på en lokal privatklubb. Den andra säsongen har premiär i USA den 9 september. L&auml;s vidare och kommentera: https://feber.se/film/trailer-for-andra-sasongen-av-the-paper/494954/ L&auml;s mer om The Paper , Domhnall Gleeson , The Office , Ned Sampson , Toledo , TV-serie",
-      "link": "https://feber.se/film/trailer-for-andra-sasongen-av-the-paper/494954/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/trailer-for-andra-sasongen-av-the-paper/494954/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1786642200000
-    },
-    {
-      "title": "Soft Electronics",
-      "description": "",
-      "link": "https://uncrate.com/soft-electronics/",
-      "guid": "https://uncrate.com/soft-electronics/",
-      "image": "https://uncrate.com/assets_c/2026/08/soft-electronics-book-1-darkened-thumb-960xauto-192545.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786640400000
     },
     {
       "title": "Vansinnesfärd slutade med krasch in i konferensgårdens mur",
@@ -1552,16 +1562,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786637057000
-    },
-    {
-      "title": "Swatch x OMEGA Solar Eclipse MoonSwatch",
-      "description": "",
-      "link": "https://uncrate.com/swatch-x-omega-solar-eclipse-moonswatch/",
-      "guid": "https://uncrate.com/swatch-x-omega-solar-eclipse-moonswatch/",
-      "image": "https://uncrate.com/assets_c/2026/08/swatch-omega-solar-eclipse-moonswatch-1-thumb-960xauto-192544.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1786636800000
     },
     {
       "title": "Startelvan i hemmamötet med Raków",
