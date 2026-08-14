@@ -1,8 +1,208 @@
 {
-  "updatedAt": "2026-08-14T01:00:57.255Z",
+  "updatedAt": "2026-08-14T04:40:57.742Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Turistbåt i lågor",
+      "description": "Tvingades hoppa i vattnet • Barn ombord",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/turistbat-i-lagor-i-turkiet-107-raddades",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/turistbat-i-lagor-i-turkiet-107-raddades",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786681046000
+    },
+    {
+      "title": "Jagade vildsvin från husvagn – sköt kompis",
+      "description": "Satt i husvagn",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ce78fca9-483a-460b-8d19-1832590f524b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ce78fca9-483a-460b-8d19-1832590f524b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786680812000
+    },
+    {
+      "title": "Drönare nedskjuten i Lettland",
+      "description": "Finlands nödåtgärd",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6e61db46-dafc-475d-91a4-680ce4bca7d3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6e61db46-dafc-475d-91a4-680ce4bca7d3",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786680671000
+    },
+    {
+      "title": "Bristen på it-infrastruktur är påtaglig och bestående. Så här hanterar du situationen",
+      "description": "Leveranstider på nio till tolv eller till och med 18 månader. Kostnaderna stiger med 35 procent, 45 procent, ja till och med 50 till 200 procent. Mer än halvvägs in i 2026 är marknaden för it-infrastruktur – som är avgörande för företagsprojekt, däribland sådana som rör artificiell intelligens – i en svår situation. Minnet är orsaken till bristen. Priserna på minne ”har stigit med 50 till 200 procent, vilket har lett till att priserna på datorer har ökat med 35 till 45 procent och att vissa serverpriser har stigit med över 125 procent”, säger Jon Forest , vice vd och analytiker på Gartner. Nätverksswitchar behöver också minne, om än i mindre mängder än servrar, så de drabbas också, och både priser och ledtider stiger på samma sätt dramatiskt. Branschexperter är överens om att de flesta problemen härrör från att hyperscalers slukar minneskapacitet, vilket får konsekvenser för servrar, lagringssystem och nätverksenheter. Men även om orsaken till problemet må vara ny, är störningar i leveranskedjan långt ifrån något nytt. Därför saknar branschexperterna inte råd om hur man bäst hanterar situationen, med tips som att utnyttja det man har bättre, överväga alternativ utanför det vanliga området och planera noggrant tillsammans med leverantörer och interna ekonomiteam. Problemets omfattning Hur allvarligt är det aktuella problemet i leveranskedjan? Det är ganska allvarligt, säger Matt Kimball , vice vd och chefsanalytiker på Moor Insights & Strategy . Företag som är vana vid ledtider på 30 till 45 dagar för olika typer av infrastruktur står nu inför väntetider på 6, 12 eller till och med 18 månader. – Det är verkligt, och jag hör det från företag i alla storlekar, från de med 1 000 servrar till de med 10 000 servrar, säger Kimball. Kostnaderna för minne förväntas stiga kraftigt långt in i 2027 och kommer att uppgå till upp till 25 procent av utgifterna för nätverkshårdvara vid slutet av 2027, enligt Forest från Gartner. Diagrammet nedan visar den tidslinje som Gartner förväntar sig för minnespriserna, och Forest påpekar att samma tidsplan gäller för nätverks-, lagrings- och databehandlingsinfrastruktur. Gartner – Priserna på nätverksutrustning för företag förväntas öka med över 20 procent under 2026. Denna uppåtgående trend förväntas fortsätta med en ytterligare ökning på 3-5 procent in i 2027, utan tecken på prissänkningar fram till slutet av 2027, säger Forest. Men ”sänkning” kommer sannolikt att se mer ut som ”stabilisering”. – Det är något som många inte gärna pratar om. Men låt oss säga att priserna steg med 40 procent – de kanske sjunker med fem, säger Phillip Privett , chef för leverantörshantering hos den globala distributören TD Synnex. – De kommer inte att sjunka med 40 procent. Kanske ännu värre är att jämfört med tidigare störningar orsakade av problem som bränder i chippfabriker eller covidpandemin, säger Kimball att den här är bestående eftersom orsaken – AI-vågen – är mer långvarig och bara har börjat. – Den här AI-inferensvågen som vi nu möter har bara börjat. Den kommer att bli längre och större än träningsvågen. Den påverkar allt, från AI-infrastruktur till de traditionella komponenterna som utgör grunden för din virtualiserings- och molninfrastruktur. Ingen leverantör verkar vara immun, inte ens företag som Cisco, som tillverkar sina egna Cisco Silicon One-chipp. Eller åtminstone designar de chippen; de tillverkas i själva verket av Taiwan Semiconductor Manufacturing Company (TSMC), samma företag som tillverkar många av de andra chipp som det råder så stor efterfrågan på. Och det är bara en av många komponenter som ingår i en switch. Å andra sidan är de marginaler som Cisco får från företagsförsäljningen betydligt större än de från hyperscalers, eftersom Cisco huvudsakligen säljer enbart hårdvara till hyperscalers, medan företagsförsäljningen i allmänhet även omfattar mjukvara och tjänster. Cisco har alltså ett incitament att hålla företagskunderna nöjda och upprätthålla de marginaler på 66 procent som företaget redovisade under det senaste kvartalet, det tredje kvartalet. Ändå måste Cisco hantera samma brister som andra leverantörer. – Jag skulle inte säga att något företag klarar sig bättre än andra, säger Neil Anderson , teknikchef för moln-, infrastruktur- och AI-lösningar på World Wide Technology (WWT). – Det kan finnas nyanser som vissa leverantörer utnyttjar för att i viss utsträckning balansera situationen, men jag känner inte till någon leverantör som inte har nästan samma problem. Molnlagringsleverantören Backblaze är ett företag som står inför problem med utrustningskostnader och tillgänglighet. – Det förekommer olika typer av brister på flera håll, alla orsakade av ovanlig efterfrågan på marknaden, egentligen bara från en handfull mycket stora köpare, säger James Rowell , operativ chef hos Backblaze. Backblaze arbetar ständigt med att prognostisera och övervaka faktorer som driver efterfrågan, säger Rowell. Det innebär ett nära samarbete med säljteamet för att förutse kundernas behov, samt att man följer historiska trendlinjer för att förutsäga kommande efterfrågan från nya avtal och tillväxt hos befintliga kunder. Men företaget letar också efter ”onaturliga marknadsrelaterade faktorer” som skulle kunna orsaka en plötslig ökning i utnyttjandet. Med hyperscalers som köper upp enorma mängder kapacitet ”är detta definitivt en onaturlig fas”, säger Rowell. – Under de senaste 12 månaderna skulle jag säga att kostnaderna har stigit med mellan 15 och 30 procent, särskilt när det gäller servrar och datadiskar. På den positiva sidan, åtminstone för Backblaze, ser företaget också en uppgång i verksamheten från en intressant källa: AI-företag. – Vi rapporterade under den senaste resultatrapporten en ökning på 70 procent av antalet AI-företag som använder vår plattform. Det är enormt, säger Patrick Thomas , marknadsföringschef på Backblaze. Utöver det ser företaget en ökning av affärer från företag som inte kan få den lagringskapacitet de behöver eller vill ha lokalt. – Det råder en allmän nervositet på marknaden där vi får potentiella affärer eftersom dessa organisationer är oroliga för att inte kunna klara det på egen hand, säger Rowell. Vissa förväntar sig att de nya chippfabriker som just nu är under uppbyggnad ska lindra bristen på minne, men Privett köper inte den teorin. – Jag ser inte att det kommer att bli bättre inom den närmaste framtiden. Att bygga en ny fabrik är en process som tar två år. Starta från grunden Företagen måste alltså spela med de kort de har på hand. För Kimball på Moore Insights, som tidigare arbetat som it-chef i delstaterna Florida och Oregon, börjar det med att utnyttja det man har på bästa sätt. En sådan strategi är förvånansvärt sällan implementerad bland de företag han ser. En enkel kapacitetsplanering kan frigöra en hel del resurser, menar Kimball. Det gäller såväl virtualiserade servrar som endast utnyttjas till 20-30 procent som att förlänga livslängden på befintliga servrar. För 15 eller 20 år sedan var det vanligt att byta ut utrustningen ungefär vart fjärde år, men i dag kan företagen ofta få ut sex eller sju års driftstid ur dagens servrar. Även om sådana strategier inte löser era utmaningar inom AI-beräkningar kan de definitivt bidra till att stödja er löpande verksamhet och frigöra budget för AI och andra moderniseringsprojekt, säger han. – Utnyttja dina tillgångar till fullo, säger Privett från TD Synnex. Utnyttja dem så mycket du kan, lägg bara till det du behöver, förläng dina licenser, förnya dina serviceavtal och liknande. Bara utnyttja dem lite längre. Om du har budget att spendera men inte kan få tag på den hårdvara du är ute efter, köp något annat, säger Anderson på WWT. – Titta på saker som inte är knutna till just de komponenterna, som mjukvaruprojekt eller SaaS-licenser, säger han. Skapa goda relationer med ekonomiavdelningen Många experter rekommenderar regelbundna möten med ekonomichef eller ekonomiavdelningen för att hålla dem informerade om vad ni står inför, så att företaget kan planera därefter. Forest från Gartner rekommenderar att man använder rullande prognoser på 12 till 24 månader och tar kontakt med leverantörerna i ett tidigt skede för att identifiera komponenter och SKU:er där det råder brist. Att binda sig till kvartalsvisa eller månatliga inköp kan hjälpa dig att undvika långsiktiga avtal som sträcker sig bortom de snabba prisökningarna vi ser under 2026, säger han. Ta även kontakt med finansavdelningarna hos era utrustningsleverantörer, eftersom vissa av dem erbjuder finansieringsincitament, säger Privett. Särskilt leverantörer av datorutrustning erbjuder subventionerad finansiering, uppskjutna betalningar och lågkostnadsfinansiering under det första året eller så. – Det här är enorma möjligheter att dra nytta av, säger han. Genom att samarbeta med ekonomiteamen kan it-avdelningarna genomföra budgetfördelningar och försöka hitta sätt att få ekonomin att gå ihop. Det sista man vill göra är att överraska dem med ytterligare budgetförslag som kommer som en blixt från klar himmel. Kimball minns sin tid hos delstaten Florida, då alla budgetförslag granskades av en teknisk granskningsgrupp – som var utformad för att vara fientlig. – Jag kan inte föreställa mig att gå till dem och säga: ”Åh, sa jag att det var en miljon dollar? Det är faktiskt 2 miljoner dollar. Jag vill att ni skriver ut en större check åt mig”. Jag skulle hellre gå in i en av träskmarkerna i Tallahassee och bli uppäten av alligatorerna än att göra det. Samarbeta med dina leverantörer och VAR-partner När du utformar dina planer, be dina leverantörer om hjälp, inklusive kanalpartner som värdeförstärkande återförsäljare (VAR) och nationella återförsäljare. – Samarbeta med dem för att kartlägga saker och förstå hur dina arbetsbelastningar kommer att se ut, säger Kimball. Det är precis vad Rowell på Backblaze gör regelbundet med sina leverantörer. Han lägger fram sin prognos för året, med åtaganden om vad Backblaze definitivt kommer att köpa, samt scenarier som tar hänsyn till snabb tillväxt, till exempel en fördubbling. – Och de svarar: ”Jaha, okej, inga problem”, eller så säger de kanske att vi måste göra en reservering direkt, annars kommer vi inte att kunna få det vi kan behöva, säger han. På samma sätt sätter han sig regelbundet ner med sin ekonomichef för att utarbeta prognosmodeller som tar hänsyn till inflation, prisökningar och liknande. Tanken är att planera för flera scenarier, så att man inte blir överraskad. – Om man inte gör det hamnar man i en besvärlig situation, i den negativa änden av spektrumet, vilket innebär att man inte har kapaciteten att dra nytta av marknadsmöjligheterna. Att skaffa den kapacitet som behövs för att möta projektbehovet kan också innebära att man måste vara flexibel när det gäller valet av utrustning. Om man vanligtvis använder Dell men inte kan få tag på Dells servrar, kanske man väljer Lenovo istället, säger Kimball. – Man måste lista ut hur man använder all denna hårdvara och infrastruktur på ett heterogent sätt för att tillgodose sina behov, säger han. Det gäller särskilt när det handlar om AI-infrastruktur. – Om du tror att du ska satsa 100 procent på Nvidia för allt från RAG till inferens i edge-miljön, är du lite galen, inte på grund av kostnaden utan på grund av tillgängligheten. Titta på alternativ, inklusive AMD och molnlösningar, samtidigt som du är medveten om hur allt hänger ihop. Du kanske inte kan få tag på Nvidia-GPU:er, men AWS, Azure och Oracle Cloud har dem, påpekar Kimball. Var strategisk, kanske genom att använda molntjänster för att hantera vissa optimerings- eller inferensarbetsbelastningar och sedan flytta tillbaka dem till den egna miljön när det är lämpligt. – Få en bättre förståelse för vad som absolut måste finnas på plats och vad som kan ligga i molnet, säger han. Det är ett bra råd, säger Thomas på Backblaze. När det gäller AI bör man tänka på prestandanivåer och de olika användningsfall man har. Alla behöver inte prestanda i toppklass. – Folk fastnar i tanken att de måste ha det allra bästa. Det finns stor flexibilitet i ytterkanterna och innovation inom olika typer av hårdvara och mjukvara, säger Thomas. Gartner råder likaså företag att öka flexibiliteten i konfigurationen och bredda sina inköpskanaler. Det kan innebära att köpa från andrahandsmarknaden och utnyttja leasingåterlämningsprogram för att upprätthålla kontinuiteten i den befintliga infrastrukturen tills bristen är över, säger Forest. Börja någonstans Även om du inte kan skaffa den infrastruktur du behöver, eller måste vänta på den, ska du inte låta det hindra dig från att sätta igång med AI eller andra moderniseringsprojekt. Alternativen inkluderar leverantörer av publika molntjänster och neocloud-tjänster, säger Anderson. WWT tillhandahåller även kapacitet i sitt eget labb så att kunderna kan komma igång med proof-of-concept-projekt. – Ge inte upp. AI i produktionsskala kan bli försenat, men låt inte det omintetgöra din strategi. Colocation-leverantörer kan också vara ett alternativ, särskilt om företag har svårt att skaffa avancerad nätverksutrustning. Nätverk är ett viktigt värdeerbjudande för colocation-leverantörer, eftersom de har inbyggda anslutningar till olika molnleverantörer och andra aktörer i ekosystemet. Strömförsörjningen är en viktig fråga i hela denna diskussion, säger Privett. Äldre installerad datainfrastruktur förbrukar sannolikt betydligt mer ström än nyare system, vilket är ett argument för att uppgradera så snart som möjligt. – Om ni moderniserar i dag kan ni avsevärt minska antalet servrar som behövs för att stödja samma applikationer, samtidigt som energiförbrukningen blir betydligt lägre, säger Privett. Han rekommenderar att man sätter sig ner med kollegor från den operativa sidan (OT) för att säkerställa att det finns tillräckligt med ström för allt ni vill göra. På många områden är ström en bristvara. Om dina planer inkluderar att installera GPU-miljöer i ditt eget datacenter rekommenderar WWT att du inte dröjer. – Vi säger till kunderna att de måste prata med oss och få det utformat och beställt, eftersom det kommer att ta ganska lång tid innan det faktiskt levereras och vi kan installera det, säger Anderson. Kimball på Moor Insights instämmer. – Man måste beställa dessa komponenter redan i dag om man vill att de ska anlända till lastkajen, lagret eller kontoret om 12 månader.",
+      "link": "https://computersweden.se/article/4209012/bristen-pa-it-infrastruktur-ar-pataglig-och-bestaende-sa-har-hanterar-du-situationen.html",
+      "guid": "https://computersweden.se/article/4209012/bristen-pa-it-infrastruktur-ar-pataglig-och-bestaende-sa-har-hanterar-du-situationen.html",
+      "image": "https://computersweden.se/wp-content/uploads/2026/08/4209012-0-29565400-1786680132-disaster_server-frustration_DR_recovery_shutterstock_185819999.jpg?quality=50&#038;strip=all",
+      "source": "Computer Sweden",
+      "sourceKey": "https://computersweden.se/feed/",
+      "timestamp": 1786680000000
+    },
+    {
+      "title": "Här bor flest själva i länet: \"Singellivet har blivit populärt\"",
+      "description": "Här bor flest ensamma i Stockholm – här är kommunen med mest singlar",
+      "link": "https://www.mitti.se/nyheter/har-bor-flest-sjalva-i-lanet-singellivet-har-blivit-populart-6.3.379212.bbeebbf583",
+      "guid": "https://www.mitti.se/nyheter/har-bor-flest-sjalva-i-lanet-singellivet-har-blivit-populart-6.3.379212.bbeebbf583",
+      "image": "https://www.mitti.se/image-3.377914.302306.20260814043124.be8dd2a039?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786680000000
+    },
+    {
+      "title": "Här är Brommaplans spontana sopstation",
+      "description": "Brommaplan dumpningsplats för sopor",
+      "link": "https://www.mitti.se/nyheter/har-ar-brommaplans-spontana-sopstation-6.3.377740.d7b3933f96",
+      "guid": "https://www.mitti.se/nyheter/har-ar-brommaplans-spontana-sopstation-6.3.377740.d7b3933f96",
+      "image": "https://www.mitti.se/image-3.377252.301369.20260814043123.1c4c001c85?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786680000000
+    },
+    {
+      "title": "Hemtjänstkund lämnades blödande och med bruten arm",
+      "description": "En person i Skärholmen blev lämnad blödandes och med en bruten arm av hemtjänstpersonal.",
+      "link": "https://www.mitti.se/nyheter/hemtjanstkund-lamnades-blodande-och-med-bruten-arm-6.3.379498.c57a68a6a0",
+      "guid": "https://www.mitti.se/nyheter/hemtjanstkund-lamnades-blodande-och-med-bruten-arm-6.3.379498.c57a68a6a0",
+      "image": "https://www.mitti.se/image-3.378031.302495.20260814043124.1.11a6a6d5d8?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786680000000
+    },
+    {
+      "title": "Kristersson säker: Då blir det nyval",
+      "description": "Urstarkt kampanjarbete ska leda Tidöpartierna till valvinst, säger Ulf Kristersson. Han tycker att S retas och luras – och menar att Magdalena Anderssons regeringsalternativ kommer att leda till nyval. – De är så fundamentalt oeniga.",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-saker--da-blir-det-nyval/",
+      "guid": "https://www.expressen.se/nyheter/politik/kristersson-saker--da-blir-det-nyval/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786679999000
+    },
+    {
+      "title": "Emilia Karells mästerskapsdebut kom i förtid – vågar fortfarande inte kasta fullt på träning",
+      "description": "I friidrotts-EM i Birmingham tävlar Emilia Karell mot idrottare hon tidigare endast sett på tv. Men hon njuter av pressen.",
+      "link": "https://yle.fi/a/7-10102826?origin=rss",
+      "guid": "https://yle.fi/a/7-10102826",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786679065000
+    },
+    {
+      "title": "SpaceX klarar första lockup-testet – börsvärdet upp 500 miljarder dollar",
+      "description": "När SpaceX börsnoterades tidigare i år fanns en stor oro på Wall Street. I stället steg dock aktien kraftigt och sedan den första lockup-perioden löpte ut har aktien stigit omkring 35 procent. Det har varit en skakig resa för Space X på sistone, där Elon Musk har inte fått den utvecklingen på aktien som han […]",
+      "link": "https://www.dagensps.se/bors-finans/spacex-klarar-forsta-lockup-testet-borsvardet-upp-500-miljarder-dollar/",
+      "guid": "https://www.dagensps.se/?p=1664250",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/rikelon-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786678933000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103543?origin=rss",
+      "guid": "https://yle.fi/a/7-10103543",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786678255000
+    },
+    {
+      "title": "Föräldrarna fick nej – Ylikevägen klassas inte som farlig skolväg",
+      "description": "Borgå stad har sagt nej till en skrivelse från föräldrar som krävde att Ylikevägen ska klassas som farlig skolväg. Nu väntar de frustrerat på konkreta svar.",
+      "link": "https://yle.fi/a/7-10103520?origin=rss",
+      "guid": "https://yle.fi/a/7-10103520",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786677014000
+    },
+    {
+      "title": "Därför är grannstäderna fattigare än rika Helsingfors",
+      "description": "Geografiskt ligger de nära varandra, men ekonomiskt är det stora skillnader mellan de tre stora städerna i huvudstadsregionen.",
+      "link": "https://yle.fi/a/7-10103455?origin=rss",
+      "guid": "https://yle.fi/a/7-10103455",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786676414000
+    },
+    {
+      "title": "Oron för coloradobaggen sprider sig till Österbotten – odlare: ”Det vore en katastrof”",
+      "description": "Än så länge utgör coloradobaggen inget stort hot i Österbotten, men oron stiger bland lokala odlare.",
+      "link": "https://yle.fi/a/7-10103438?origin=rss",
+      "guid": "https://yle.fi/a/7-10103438",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786676166000
+    },
+    {
+      "title": "Drönarattack mot hamnen i Ust-Luga",
+      "description": "Ryska myndigheter uppger att en brand brutit ut i hamnen i Ust-Luga vid Finska viken. Under natten sköts en drönare ned över Lettland.",
+      "link": "https://yle.fi/a/7-10103544?origin=rss",
+      "guid": "https://yle.fi/a/7-10103544",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786675735000
+    },
+    {
+      "title": "”Jag vill berätta hur det är att vara finlandssvensk” – Sjundeåbon Sara Savijoki inleder IB-studier i Norge",
+      "description": "Sara Savijoki från Sjundeå packar sina väskor. Hon reser till Norge för att studera vid vid United World Colleges Red Cross Nordic.",
+      "link": "https://yle.fi/a/7-10103330?origin=rss",
+      "guid": "https://yle.fi/a/7-10103330",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786675538000
+    },
+    {
+      "title": "Våld mot pojkar i hemmen ökar – ministern ser inget direkt samband med nedskärningar i stödet till barnfamiljer",
+      "description": "Våldet mot minderåriga pojkar ökar, men det har varit tyst om det. Socialtrygghetsministern säger att ökningen inte har något med regeringens nedskärningar att göra.",
+      "link": "https://yle.fi/a/7-10101676?origin=rss",
+      "guid": "https://yle.fi/a/7-10101676",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786674779000
+    },
+    {
+      "title": "Philip, 102, knuffades på stammispub – dog",
+      "description": "När Phillip Ormerod, 102, besökte sin favoritpub i walesiska Cwmbran bad han bandet som spelade att sänka musiken. Då knuffade en bandmedlem Philip, som föll i golvet. Bara timmar senare dog han på sjukhus.",
+      "link": "https://www.expressen.se/nyheter/varlden/philip-102-knuffades-pa-stammispub-dog/",
+      "guid": "https://www.expressen.se/nyheter/varlden/philip-102-knuffades-pa-stammispub-dog/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786673746000
+    },
+    {
+      "title": "Mathias Karlsson tävlar med radiostyrda bilar: ”Jag får samma kickar trots att jag själv inte sitter i bilen”",
+      "description": "De flesta har säkert kört en radiostyrd bil av något slag, men som motorsport är grenen fortfarande marginell. Den 15 augusti är det dags för FM-tävlingar i Åbo.",
+      "link": "https://yle.fi/a/7-10102919?origin=rss",
+      "guid": "https://yle.fi/a/7-10102919",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786673355000
+    },
+    {
+      "title": "Ryska hackare hävdar att de knäckt Shell och Philips",
+      "description": "En rysk hackergrupp hävdar att den har stulit stora mängder data från flera internationella storföretag, däribland oljebolaget Shell och hälsoteknikbolaget Philips. Dagens PS har skrivit mycket om hackare på sistone, där vi bland annat visar hur lätt kryptovalutor hackas. Nordkorea har också lyckats vassa till sina hackare. Hackare angriper många bolag Nu är det en […]",
+      "link": "https://www.dagensps.se/varlden/ryska-hackare-havdar-att-de-knackt-shell-och-philips/",
+      "guid": "https://www.dagensps.se/?p=1664246",
+      "image": "https://images.dagensps.se/app/uploads/2025/05/sdl2hHFDrUngsE-nh.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786672307000
+    },
     {
       "title": "Ukrainas drönare besegrade USA:s styrkor i gemensam övning",
       "description": "En militärövning i Tyskland tidigare i år gav ett oväntat resultat. Där stod det klart att Ukrainas drönare utklassade USA. Vad är försvarsmiljarderna värda om taktiken är fel? Volodymyr Zelenskyj säger att Ukraina behöver Patriot-missiler som USA har i lager för att klara vintern. Ukraina skulle få bygga egna Patriot-missiler – men den planen ogillas […]",
@@ -484,16 +684,6 @@
       "timestamp": 1786638002000
     },
     {
-      "title": "Åklagaren: Olyckan skedde tidigare än trott",
-      "description": "Flera förhör har hållits med de misstänkta efter fartygsolyckan utanför Tjörn. Nu slår åklagaren fast att kollisionen ägde rum en halv timma tidigare än man först trodde.",
-      "link": "https://www.expressen.se/nyheter/sverige/aklagaren-ny-tid-for-brottet-utanfor-tjorn/",
-      "guid": "https://www.expressen.se/nyheter/sverige/aklagaren-ny-tid-for-brottet-utanfor-tjorn/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786637398000
-    },
-    {
       "title": "Klarna kopierar och utmanar American Express",
       "description": "Klarna utmanar Amex med ett förmånsprogram för europeiska kunder. Lockbetet är att erbjuda liknande förmåner och belöningar. Svenskgrundade Klarna, noterat på börsen i New York, vill nu ta ytterligare steg i branschen ”köp nu, betala någon annan gång”. Nu ska Klarna lansera medlemskap för kunder i Europa, erbjuda belöningar och förmåner som liknar dem hos […]",
       "link": "https://www.dagensps.se/privatekonomi/klarna-kopierar-och-utmanar-american-express/",
@@ -524,16 +714,6 @@
       "timestamp": 1786637057000
     },
     {
-      "title": "Klassläraren Bianca Winterbäcks knep för en trygg skolstart: Speeddejtning och ett brev till föräldrarna",
-      "description": "Bianca Winterbäck använder samarbetslekar och föräldrabrev för att skapa trygghet vid skolstarten. Efter 20 år i yrket vet hon att kompisrelationer oroar eleverna mer än läxor och prov.",
-      "link": "https://yle.fi/a/7-10103063?origin=rss",
-      "guid": "https://yle.fi/a/7-10103063",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786636833000
-    },
-    {
       "title": "IF Metall blåser av strejken mot Tesla",
       "description": "Pågick i nästan tre år Nu meddelar fackförbundet IF Metall att strejken mot Tesla upphör och alla stridsåtgärder mot Tesla i Sverige avslutas från och med onsdagen den 19 augusti klockan 00.01. Detta då Tesla har köpt ut alla förbundets strejkande medlemmar på företaget vilket i sin tur innebär att konflikten inte längre har någon verkan. Det hela började för nästan tre år sedan då IF Metall krävde att Tesla fixade kollektivavtal åt de anställda. Tesla Sverige var dock inte så sugna på detta och valde att utnyttja deras lagliga rätt att inte ingå i kollektivavtal, och där drog den mångåriga konflikten igång. L&auml;s vidare och kommentera: https://feber.se/bil/if-metall-blaser-av-strejken-mot-tesla/494939/ L&auml;s mer om strejk , IF Metall , upphör , avblåst",
       "link": "https://feber.se/bil/if-metall-blaser-av-strejken-mot-tesla/494939/?utm_source=rss&utm_medium=feed",
@@ -554,46 +734,6 @@
       "timestamp": 1786636800000
     },
     {
-      "title": "Tidigare tränaren förbryllad över Helanders kvalinsats: ”Kastningen var oväntat mjuk”",
-      "description": "Oliver Helander misslyckades i spjutkvalet i EM och hans tidigare tränare Tero Pitkämäki var förvånad över insatsen. Det fanns inga stora problem med tekniken, säger Pitkämäki till Yle.",
-      "link": "https://yle.fi/a/7-10103538?origin=rss",
-      "guid": "https://yle.fi/a/7-10103538",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786636420000
-    },
-    {
-      "title": "”Vi är inte enbart vårt teaterhus” – Åbo Svenska Teater flyttar vid årsskiftet",
-      "description": "Den här hösten är det sista chansen att besöka Åbo Svenska Teaters gamla teaterhus innan det ska renoveras.",
-      "link": "https://yle.fi/a/7-10103343?origin=rss",
-      "guid": "https://yle.fi/a/7-10103343",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786636043000
-    },
-    {
-      "title": "Sambatåg, pizza och politisk graffiti – Konstens natt fyllde Vasa med liv",
-      "description": "Centrum av Vasa var vid en del gathörn knökfullt av människor på torsdagskvällen när Konstens natt ordnades i den ljumma augustikvällen.",
-      "link": "https://yle.fi/a/7-10103528?origin=rss",
-      "guid": "https://yle.fi/a/7-10103528",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786635986000
-    },
-    {
-      "title": "SDP föreslår dubbla straff för gäng och skärpta krav på invandrare",
-      "description": "SDP presenterar olika åtgärder för att förhindra att unga blir kriminella och faller utanför samhället. Partiledningen samlades för sommarmöte i Kouvola.",
-      "link": "https://yle.fi/a/7-10103391?origin=rss",
-      "guid": "https://yle.fi/a/7-10103391",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786635914000
-    },
-    {
       "title": "Startelvan i hemmamötet med Raków",
       "description": "Så här ställer Hammarby upp i returmötet med Raków i kvalomgång 3 av UEFA Conference League. Matchen sparkas igång klockan 19.00 på 3Arena och sänds i Aftonbladet Plus för dig som inte är på plats.1.",
       "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-hemmamotet-med-rakow",
@@ -602,16 +742,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1786635840000
-    },
-    {
-      "title": "Misstänkte mördaren om bråket innan skärgårdsmordet – egna orden",
-      "description": "Den misstänkte skärgårdsmördaren berättar själv för polisen om bråket med flickvännen innan mordet. Konflikten handlade om han skulle vara kvar på Sollenkroka eller åka tillbaka till fastlandet. Nu arbetar polis och åklagare intensivt för att få bilden av vad som hänt. – Han är den viktigaste pusselbiten, säger åklagare Emma Olsson.",
-      "link": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-om-braket-innan-skargardsmordet-egna-orden-/",
-      "guid": "https://www.expressen.se/nyheter/krim/misstankte-mordaren-om-braket-innan-skargardsmordet-egna-orden-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786635464000
     },
     {
       "title": "Påminnelse: Det kommer ingen iPhone 18 i år",
@@ -632,46 +762,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786634749000
-    },
-    {
-      "title": "Instagram byter logga – första gången på 10 år",
-      "description": "Första gången på ett årtionde",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e46ad8d1-a1e5-47e6-8442-e9213cf3e3b4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e46ad8d1-a1e5-47e6-8442-e9213cf3e3b4",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786634306000
-    },
-    {
-      "title": "Grovt våldsbrott i Söderhamn",
-      "description": "Grovt våldsbrott – polisen förtegen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b9501f-fbff-4861-b866-0709029a8d1d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b9501f-fbff-4861-b866-0709029a8d1d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786634287000
-    },
-    {
-      "title": "Stordalens förlust: Hundratals miljoner",
-      "description": "Norska miljardären Petter Stordalen sålde i somras delar av sitt företag till Norwegian – och fick aktier i ersättning. Det visade sig vara dyrköpt. Hittills har han förlorat 270 miljoner kronor på affären, rapporterar Affärsvärlden .",
-      "link": "https://www.expressen.se/nyheter/varlden/stordalens-forlust-hundratals-miljoner/",
-      "guid": "https://www.expressen.se/nyheter/varlden/stordalens-forlust-hundratals-miljoner/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786634198000
-    },
-    {
-      "title": "Analys: Rydman håller fast vid diskriminerande kriterier",
-      "description": "Politikerna kommer med motstridiga tolkningar i grälet om Steabidragen.",
-      "link": "https://yle.fi/a/7-10103534?origin=rss",
-      "guid": "https://yle.fi/a/7-10103534",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786634132000
     },
     {
       "title": "Något som händer långt innan vi blir vuxna kan avgöra hur väl vi hanterar stress",
@@ -724,16 +814,6 @@
       "timestamp": 1786633133000
     },
     {
-      "title": "Tomas Fantz inleder höstomgången som etta på Vegatoppen – hur går det för veckans två utmanare?",
-      "description": "Det är dags för en ny säsong av Vegatoppen. Hur ska det gå för höstens två första utmanare?",
-      "link": "https://yle.fi/a/7-10103425?origin=rss",
-      "guid": "https://yle.fi/a/7-10103425",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786633094000
-    },
-    {
       "title": "Datorspelare som flygledare – över 2 000 har anställts",
       "description": "USA:s flygtrafikledning har vänt sig till en oväntad grupp för att lösa den långvariga bristen på flygledare: Datorspelare. Att man spenderar många timmar på dator- och tv-spel är sällan något att skryta med på en arbetsintervju. Men i En rekryteringskampanj riktad mot just datorspelare som lanserades i april har nu resulterat i att över 2 […]",
       "link": "https://www.dagensps.se/privatekonomi/jobb-karriar/datorspelare-som-flygledare-over-2-000-har-anstallts/",
@@ -744,16 +824,6 @@
       "timestamp": 1786632982000
     },
     {
-      "title": "Anthropic i samtal om jätteköp av Decart för 57 miljarder kronor",
-      "description": "Anthropic förhandlar om att köpa israeliska Decart för omkring 6 miljarder dollar, cirka 57,4 miljarder kronor. Dagens PS har följt bolagets väg mot Wall Street löpande. Samtalen är fortfarande i ett tidigt skede och kan spricka, enligt källor till Bloomberg och Reuters. Båda bolagen avböjer att kommentera. Går affären igenom, blir det Anthropics största kända […]",
-      "link": "https://www.dagensps.se/bors-finans/anthropic-i-samtal-om-jattekop-av-decart-for-57-miljarder-kronor/",
-      "guid": "https://www.dagensps.se/?p=1663971",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-19.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786632955000
-    },
-    {
       "title": "Jack Henry Super Face Cream",
       "description": "",
       "link": "https://uncrate.com/jack-henry-super-face-cream/",
@@ -762,16 +832,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1786632720000
-    },
-    {
-      "title": "Japaner vill inte använda AI – företagskultur pekas ut",
-      "description": "AI lyfts fram som en potentiell lösning på Japans tuffa situation. Men när det gäller faktisk användning sackar japanerna långt efter. Japanska företag har svårt att få fart på användningen av artificiell intelligens. Det kommer trots att landet står inför flera utmaningar. Såväl arbetskraftsbrist som en åldrande befolkning och långvariga problem med låg produktivitet är […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/japaner-vill-inte-anvanda-ai-foretagskultur-pekas-ut/",
-      "guid": "https://www.dagensps.se/?p=1664191",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl1vswax8wkvm-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786632659000
     },
     {
       "title": "En fjärde tonåring häktad för mordet i Hässelby",
@@ -804,16 +864,6 @@
       "timestamp": 1786630131000
     },
     {
-      "title": "Larm om mentala problem på amerikanskt hangarfartyg – sjömän försöker hoppa överbord",
-      "description": "Sjömän kämpar med utmattning och självmordstankar efter rekordmånga dagar till sjöss.",
-      "link": "https://yle.fi/a/7-10103521?origin=rss",
-      "guid": "https://yle.fi/a/7-10103521",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786629921000
-    },
-    {
       "title": "Bredängs megaloppis återvänder: \"Folkfest\"",
       "description": "Bredängs megaloppis återvänder till Bredängsparken den 30 augusti.",
       "link": "https://www.mitti.se/nyheter/bredangs-megaloppis-atervander-folkfest-6.3.379466.9f54ea06c3",
@@ -842,16 +892,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786628104000
-    },
-    {
-      "title": "Oliver Helander öppnar för att avsluta karriären efter tunga missen i EM-kvalet",
-      "description": "Oliver Helander misslyckades i spjutkvalet i EM i friidrott i Birmingham. Tävlingen kan komma att bli karriärens sista.",
-      "link": "https://yle.fi/a/7-10102828?origin=rss",
-      "guid": "https://yle.fi/a/7-10102828",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786627868000
     },
     {
       "title": "Katter och hundar fick ingen mat",
@@ -2314,16 +2354,6 @@
       "timestamp": 1786441667000
     },
     {
-      "title": "Anthropic ska börja märka AI-genererat innehåll med vattenstämplar",
-      "description": "Anthropic meddelar att de framöver kommer att börja märka AI-genererat innehåll skapat av Claude. Förändringen gäller bland annat för Claude, Claude Code och företagets API, samt Claude-modeller via tredjepartstjänster, rapporterar The Register . Text som skapas av framtida Claude-modeller kommer att förses med en osynlig vattenstämpel. Enligt Anthropic byggs vattenstämpeln in direkt i den genererade texten utan att det ska påverka dess betydelse eller läsbarhet. Vad gäller filer kommer Anthropic istället använda signerad metadata enligt C2PA-standarden. Åtgärden är en del av företagets arbete med att följa EU:s AI-förordning och transparenskrav kring AI-genererat material. Märkningen kommer dock att införas globalt för samtliga användare. Anthropic flaggar samtidigt för att tekniken har sina begränsningar. En märkning garanterar inte att material skapats av Claude. På samma sätt är avsaknaden av en märkning inte heller ett bevis på att materialet inte är AI-genererat.",
-      "link": "https://computersweden.se/article/4207779/anthropic-ska-borja-marka-ai-genererat-innehall-med-vattenstamplar.html",
-      "guid": "https://computersweden.se/article/4207779/anthropic-ska-borja-marka-ai-genererat-innehall-med-vattenstamplar.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/08/4207779-0-10826200-1786437385-shutterstock_2338803257.jpg?quality=50&#038;strip=all",
-      "source": "Computer Sweden",
-      "sourceKey": "https://computersweden.se/feed/",
-      "timestamp": 1786437340000
-    },
-    {
       "title": "Minderårig häktad misstänkt för mordbrand i Botkyrka",
       "description": "En person misstänkt häktad för brand i Botkyrka",
       "link": "https://www.mitti.se/nyheter/minderarig-haktad-misstankt-for-mordbrand-i-botkyrka-6.3.379327.16bbc1139f",
@@ -2744,21 +2774,21 @@
       "timestamp": 1786338000000
     },
     {
-      "title": "Här är lägenheterna i bostadskön som ingen vill ha",
-      "description": "Många hyresrätter på Bostadsförmedlingen i Stockholm förmedlas inte.",
-      "link": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
-      "guid": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
-      "image": "https://www.mitti.se/image-3.374425.297227.20260810055203.1.efd976a79a?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786334400000
-    },
-    {
       "title": "Lös mysteriet – räkna de hotade igelkottarna i kvarteret",
       "description": "Då börjar igelkottsveckan 2026 i Stockholm",
       "link": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
       "guid": "https://www.mitti.se/nyheter/los-mysteriet--rakna-de-hotade-igelkottarna-i-kvarteret-6.3.378551.435ce55a42",
       "image": "https://www.mitti.se/image-3.293143.301787.20260810064916.1.334106042d?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786334400000
+    },
+    {
+      "title": "Här är lägenheterna i bostadskön som ingen vill ha",
+      "description": "Många hyresrätter på Bostadsförmedlingen i Stockholm förmedlas inte.",
+      "link": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "guid": "https://www.mitti.se/nyheter/har-ar-lagenheterna-i-bostadskon-som-ingen-vill-ha-6.3.371242.8bcd0c5abb",
+      "image": "https://www.mitti.se/image-3.374425.297227.20260810055203.1.efd976a79a?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786334400000
@@ -2944,16 +2974,6 @@
       "timestamp": 1786253640000
     },
     {
-      "title": "Dömdes för grov människoexploatering – överklagar",
-      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
-      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
-      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1786251600000
-    },
-    {
       "title": "Största golftävlingen i Europa hålls i Sollentuna – för blinda och synskadade",
       "description": "Stor paragolftävling i Sollentuna för blinda och synskadade.",
       "link": "https://www.mitti.se/nyheter/storsta-golftavlingen-i-europa-halls-i-sollentuna--for-blinda-och-synskadade-6.3.378529.9965dd102d",
@@ -2969,6 +2989,16 @@
       "link": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
       "guid": "https://www.mitti.se/nyheter/lattare-hitta-parkering-vid-malarhojdsbadet-efter-avgift-6.3.378630.74ecbf8e28",
       "image": "https://www.mitti.se/image-3.377721.301931.20260809053045.1.47c022940e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1786251600000
+    },
+    {
+      "title": "Dömdes för grov människoexploatering – överklagar",
+      "description": "Två män dömda för grov människoexploatering i restauranger i Täby och Danderyd överklagar till hovrätten och hoppas bli helt frikända.",
+      "link": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "guid": "https://www.mitti.se/nyheter/domdes-for-grov-manniskoexploatering--overklagar-6.3.379148.a52da87887",
+      "image": "https://www.mitti.se/image-3.297376.301961.20260809053045.655c8fb802?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786251600000
