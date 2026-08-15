@@ -1,8 +1,128 @@
 {
-  "updatedAt": "2026-08-15T18:12:48.890Z",
+  "updatedAt": "2026-08-15T21:11:15.511Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Forskare: Fysisk aktivitet kan minska risken för cancer – bara en kvart om dagen gör mätbar skillnad",
+      "description": "John Mitchell har följt 60 000 människor och sett att ett visst beteende i vardagen kan kopplas till minskad risk för cancer.",
+      "link": "https://illvet.se/halsa/forskare-fysisk-aktivitet-kan-minska-risken-for-cancer-bara-en-kvart-om-dagen-gor-matbar-skillnad",
+      "guid": "https://illvet.se/halsa/forskare-fysisk-aktivitet-kan-minska-risken-for-cancer-bara-en-kvart-om-dagen-gor-matbar-skillnad",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786825847000
+    },
+    {
+      "title": "Kampen om vikingarna: Svensk forskare kritiserar Nationalmuseet i Danmark",
+      "description": "Ska museerna berätta om vikingarna som de verkligen var – eller som vi helst vill se dem? En svensk forskare anser att dagens värderingar spelar en alltför stor roll. Det danska nationalmuseets kurator håller inte med.",
+      "link": "https://varldenshistoria.se/civilisationer/vikingar/kampen-om-vikingarna-svensk-forskare-kritiserar-nationalmuseet-i-danmark",
+      "guid": "https://varldenshistoria.se/civilisationer/vikingar/kampen-om-vikingarna-svensk-forskare-kritiserar-nationalmuseet-i-danmark",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786825833000
+    },
+    {
+      "title": "Axel Lindbergs VM-skräll: Genom terrängbanan med endast tidsfel",
+      "description": "Sibboryttaren Axel Lindberg och Quelle Bonne gjorde ett strålande terrängprov och överskred maximitiden bara en aning. Bara sex ekipage klarade banan helt utan felpoäng.",
+      "link": "https://yle.fi/a/7-10103628?origin=rss",
+      "guid": "https://yle.fi/a/7-10103628",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786824851000
+    },
+    {
+      "title": "Gula varningar över Sverige: ”Nyckfulla regn- och åskskurar”",
+      "description": "Efter en varm och torr vecka kommer regnet med besked. SMHI har utfärdat två gula varningar. – Kraftiga regn- och åskskurar väntas, säger Emma Härenstam på SMHI.",
+      "link": "https://www.expressen.se/nyheter/gula-varningar-over-sverige-nyckfulla-regn--och-askskurar/",
+      "guid": "https://www.expressen.se/nyheter/gula-varningar-over-sverige-nyckfulla-regn--och-askskurar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786824295000
+    },
+    {
+      "title": "Motståndarkollen: KFF",
+      "description": "Motståndarkollen: KFFPå söndagen väntar sommarens andra möte med nykomlingen Kalmar FF – 2-0-hemmasegern är mindre än fem veckor bakom oss, då det är dags för bortareturen.Historik: Efter ett gäng tur",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-kff",
+      "guid": "aab720e8-1fec-44f9-89d9-5cb5e2243b53",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e9d48270730fbd85c9081bf4765e420e27b0042f-2799x1400.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1786823164000
+    },
+    {
+      "title": "Fyratusen hjärnskanningar påvisar ett överraskande mönster: Hjärnan förändras vid fyra tillfällen i livet",
+      "description": "I tioårsåldern förändras hjärnan markant, men det är bara den första av fyra tydliga förändringar av hjärnans funktion.",
+      "link": "https://illvet.se/manniskan/fyratusen-hjarnskanningar-pavisar-ett-overraskande-monster-hjarnan-forandras-vid-fyra-tillfallen-i-livet",
+      "guid": "https://illvet.se/manniskan/fyratusen-hjarnskanningar-pavisar-ett-overraskande-monster-hjarnan-forandras-vid-fyra-tillfallen-i-livet",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786822239000
+    },
+    {
+      "title": "Gigantisk maskin 15 meter ner i marken ska undvika framtida katastrofer",
+      "description": "Kinesiska forskare har skapat det närmaste en tidsmaskin vi kan komma. Den kan få årtionden att passera på bara några timmar. Snart ska den utsättas för det ultimata testet.",
+      "link": "https://illvet.se/teknik/extrema-krafter-langt-ner-i-marken-gigantisk-maskin-undviker-framtida-katastrofer",
+      "guid": "https://illvet.se/teknik/extrema-krafter-langt-ner-i-marken-gigantisk-maskin-undviker-framtida-katastrofer",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1786822203000
+    },
+    {
+      "title": "Putins order: Riv sönder Nato och EU före årets slut",
+      "description": "Putin uppges ha gett Kreml ett mål för året: Att riva isär Nato och EU inifrån. Samtidigt ska han ha pekat ut ett nytt land som Ryssland vill erövra.",
+      "link": "https://www.expressen.se/nyheter/varlden/putins-order-riv-sonder-nato-och-eu-fore-arets-slut/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-order-riv-sonder-nato-och-eu-fore-arets-slut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786821593000
+    },
+    {
+      "title": "Upproret i Gulag: Brutalt sovjetiskt fångläger stormades inifrån",
+      "description": "Våren 1954 gör revolterar 5 000 fångar mot svälten och lägrets mordiska vakter. I fånglägret Kengir upprättar upprorsmakarna sin egen lilla republik med allt från försvarsminister till kulturminister.",
+      "link": "https://varldenshistoria.se/samhalle/rysslands-historia/lagerfangarna-drev-ivag-vakterna-upproret-i-gulag",
+      "guid": "https://varldenshistoria.se/samhalle/rysslands-historia/lagerfangarna-drev-ivag-vakterna-upproret-i-gulag",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786820433000
+    },
+    {
+      "title": "Nära vännen: Ahoo Daryaei tvångsmedicineras än i dag",
+      "description": "Ahoo Daryaei, 32, protesterade mot Irans strikta hijablagar – genom att klä av sig till underkläderna. Nu berättar en nära vän om hur Daryaei felaktigt stämplats som psykiskt sjuk av regimen – och hur tiden efter protesten har varit. – Det är bättre än att hon blir hängd, säger vännen till Daily Mail .",
+      "link": "https://www.expressen.se/nyheter/nara-vannen-ahoo-daryaei-tvangsmedicineras-an-i-dag/",
+      "guid": "https://www.expressen.se/nyheter/nara-vannen-ahoo-daryaei-tvangsmedicineras-an-i-dag/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786820341000
+    },
+    {
+      "title": "Bonnie Tyler fördes till sin hemstad i Wales för att begravas: ”Hennes musik rörde många, speciellt mig”",
+      "description": "Hon är känd för sånger som Total Eclipse of the Heart, Holding Out for a Hero och It's a Heartache. Hon var 75 år när hon dog i juli.",
+      "link": "https://yle.fi/a/7-10103627?origin=rss",
+      "guid": "https://yle.fi/a/7-10103627",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786820288000
+    },
+    {
+      "title": "IFK Mariehamn kammade hem säsongens första seger – vann över SJK på hemmaplan",
+      "description": "IFK Mariehamn på herrsidan och IF Gnistan på damsidan inkasserade poäng under lördagen.",
+      "link": "https://yle.fi/a/7-10103624?origin=rss",
+      "guid": "https://yle.fi/a/7-10103624",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786817766000
+    },
     {
       "title": "Flera fall av mässling på festival",
       "description": "FHM:s uppmaning till besökarna",
@@ -102,6 +222,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786810202000
+    },
+    {
+      "title": "Forskare avslöjar omfattande skattebedrägeri bland romerska tjänstemän",
+      "description": "Historiker har länge vetat att östromerska skatteindrivare tillskansade sig stora summor på skattebetalarnas bekostnad. Nu avslöjar upptäckten av en hittills okänd inskription skandalens enorma omfattning.",
+      "link": "https://varldenshistoria.se/civilisationer/romarriket/forskere-afslorer-voldsom-skattesvindel-blandt-romerske-embedsmand",
+      "guid": "https://varldenshistoria.se/civilisationer/romarriket/forskere-afslorer-voldsom-skattesvindel-blandt-romerske-embedsmand",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1786809625000
     },
     {
       "title": "HTV: ”Det viktigaste är hur vi använder det här” | Längre intervju med Henrik",
@@ -594,16 +724,6 @@
       "timestamp": 1786787742000
     },
     {
-      "title": "M: Inför öppet förövarregister",
-      "description": "Moderaterna vill införa ett öppet förövarregister – där det ska vara möjligt för allmänheten att söka efter personer som begått allvarliga brott i nära relation. – Mäns våld mot kvinnor är ett enormt samhällsproblem. Vi måste vara beredda att göra saker vi inte gjort tidigare, säger justitieminister Gunnar Strömmer (M) till TT.",
-      "link": "https://www.expressen.se/nyheter/politik/m-infor-oppet-forovarregister/",
-      "guid": "https://www.expressen.se/nyheter/politik/m-infor-oppet-forovarregister/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786787613000
-    },
-    {
       "title": "USA pressar Apple: Köp inte kinesiska minneschip",
       "description": "Nästa front i chipkriget – Washington går direkt på Apples leverantörskedja och kräver att techjätten slutar vända sig till Kina. USA:s handelsminister Howard Lutnick uppmanar Apple att hitta en annan lösning än Kina i chipkrisen som den rekordsnabba utvecklingen med AI, artificiell intelligens, utlöst. Lutnick deklarerar i en intervju att Trumps administration inte vill att […]",
       "link": "https://www.dagensps.se/bors-finans/usa-pressar-apple-kop-inte-kinesiska-minneschip/",
@@ -622,16 +742,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786785600000
-    },
-    {
-      "title": "Däck sönderskurna i Knivsta",
-      "description": "Tretton däck sönderskurna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e77984c0-b2aa-4332-872e-a40c4f81a1e2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e77984c0-b2aa-4332-872e-a40c4f81a1e2",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786784904000
     },
     {
       "title": "Därför bytte Führerns familj namn till Hitler",
@@ -684,36 +794,6 @@
       "timestamp": 1786784400000
     },
     {
-      "title": "Simon, 23, körde full – blev förlamad",
-      "description": "Simon Wahlgren satte sig bakom ratten med 1,39 promille alkohol i blodet. Han voltade bilen fem varv – och blev förlamad. – Men det värsta var att jag tog ihjäl min hund, det kommer jag aldrig förlåta mig själv för, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/simon-23-korde-full-blev-forlamad/",
-      "guid": "https://www.expressen.se/nyheter/sverige/simon-23-korde-full-blev-forlamad/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786781731000
-    },
-    {
-      "title": "Östra Nylands psoriasisförening fyller 50 år och utnämns till årets förening",
-      "description": "När man lider av en sjukdom är det viktigt med kamratstöd. Östra Nylands psoriasisförening satsar på både information och gemenskap.",
-      "link": "https://yle.fi/a/7-10103549?origin=rss",
-      "guid": "https://yle.fi/a/7-10103549",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786781714000
-    },
-    {
-      "title": "För bökigt att flytta tillbaka till Sandö: Tungevaag spelar på nattklubb i Vasa",
-      "description": "Det blev för sent besked från Vasa stad för att arrangören ännu en gång skulle kunna flytta dj:n Tungevaags slutsålda spelning. Nu blickar man istället framåt mot kommande kvällar på Sandö.",
-      "link": "https://yle.fi/a/7-10103610?origin=rss",
-      "guid": "https://yle.fi/a/7-10103610",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786781335000
-    },
-    {
       "title": "Höjd skatt och slopad elrabatt hotar gruvbolag",
       "description": "Regeringens höjda gruvskatt och slopade elrabatt innebär en kraftig smäll för finska Outokumpu och hotar kommande exportinkomster. Den finländska regeringen höjer gruvskatter och slopar elrabatter. För Outokumpu innebär det en årlig smäll på 35 miljoner euro i ökade utgifter och en helhetskostnad på 50 miljoner euro. Nu varnar vd Kati ter Horst för att besluten […]",
       "link": "https://www.dagensps.se/bors-finans/hojd-skatt-och-slopad-elrabatt-hotar-gruvbolag/",
@@ -722,16 +802,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1786781267000
-    },
-    {
-      "title": "Följ krigsmannaedgången i Ekenäs och chatta med oss!",
-      "description": "Beväringarna i kontingent 2/26 i Dragsvik avger sin krigsmannaed. Dela gärna med dig av dina minnen och t ex anekdoter från din egen tid i Dragsvik i chatten!",
-      "link": "https://yle.fi/a/7-10103448?origin=rss",
-      "guid": "https://yle.fi/a/7-10103448",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786781109000
     },
     {
       "title": "Nu tömmer bedragare ditt konto – utan BankID",
@@ -2184,16 +2254,6 @@
       "timestamp": 1786614171000
     },
     {
-      "title": "Serafina firar midsommar med Jacob och troligen hennes nästkusin.",
-      "description": "Den längsta insekten är dock inte den tyngsta – en larv slår den med råge.",
-      "link": "https://illvet.se/naturen/varldens-storsta-insekt-ar-langre-an-ett-nyfott-barn",
-      "guid": "https://illvet.se/naturen/varldens-storsta-insekt-ar-langre-an-ett-nyfott-barn",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786611650000
-    },
-    {
       "title": "Köp kvällens kontinentala program!",
       "description": "Ännu ett Europaprogram! Hammarbys Europakvällar fortsätter nu med returmatch mot polska Raków. Och Matchprogrammet levererar.– Ja, så länge som vårt favoritlag i fotboll levererar fortsatt spel i Euro",
       "link": "https://www.hammarbyfotboll.se/nyheter/koep-kvaellens-kontinentala-program",
@@ -2384,36 +2444,6 @@
       "timestamp": 1786566606000
     },
     {
-      "title": "Risken för diabetes ökar markant vid vanligt tillstånd – här är de råd som professorn själv följer för att undvika folksjukdomen",
-      "description": "På bara några årtionden har antalet diabetesdrabbade blivit över fyra gånger fler. Den portugisiske professorn João Botelho har följt 300 000 människor och sett hur en viss sjukdom ökar risken för diabetes. Som tur är finns det en hel del man kan göra för att slippa drabbas. Själv följer professorn en särskild rutin i sin egen vardag.",
-      "link": "https://illvet.se/halsa/stor-studie-ett-vanligt-tillstand-kan-markant-oka-risken-for-diabetes-har-ar-de-rad-som-professorn-sjalv-foljer-for-att-undvika-folksjukdomen",
-      "guid": "https://illvet.se/halsa/stor-studie-ett-vanligt-tillstand-kan-markant-oka-risken-for-diabetes-har-ar-de-rad-som-professorn-sjalv-foljer-for-att-undvika-folksjukdomen",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786566605000
-    },
-    {
-      "title": "Se listan över alla raser: Så mycket varg är din hund",
-      "description": "Till och med världens minsta hund brås på sina vilda förfäder. Hitta din egen hund på listan.",
-      "link": "https://illvet.se/naturen/se-listan-over-alla-raser-sa-mycket-varg-ar-din-hund",
-      "guid": "https://illvet.se/naturen/se-listan-over-alla-raser-sa-mycket-varg-ar-din-hund",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1786563039000
-    },
-    {
-      "title": "Hit åkte romerska turister på semester: Köpte souvenirer och ristade in sina namn på pyramiderna",
-      "description": "På sommaren, när Roms gator kokade av hetta, sökte sig rika romare till svalare delar av imperiet. Tusentals begav sig till romarnas Ibiza för att dricka och ägna sig åt hämningslöst sex.",
-      "link": "https://varldenshistoria.se/civilisationer/romarriket/romerska-turister-alskade-pyramider-och-orgier-pa-stranden",
-      "guid": "https://varldenshistoria.se/civilisationer/romarriket/romerska-turister-alskade-pyramider-och-orgier-pa-stranden",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1786561220000
-    },
-    {
       "title": "Här lyste gängrekryteringarna med sin frånvaro i sommar",
       "description": "Polisen i Solna och Sundbyberg om rekryteringar av unga inom gängkriminalitet i sommar.",
       "link": "https://www.mitti.se/nyheter/har-lyste-gangrekryteringarna-med-sin-franvaro-i-sommar-6.3.379380.04b6311414",
@@ -2472,16 +2502,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786551213000
-    },
-    {
-      "title": "Sant eller falskt: ”Tågfilmen fick folk att fly ut ur biografen”",
-      "description": "Ingen film från mediets barndom är mer ökänd än ”L’Arrivée d’un train en gare de La Ciotat”, som 1896 visade ett tåg som körde rakt mot åskådarna. Det sägs att folk blev så rädda för det verklighetstrogna tåget att de flydde ut ur biografen. Men kan det verkligen stämma?",
-      "link": "https://varldenshistoria.se/kultur/film/sant-eller-falskt-tagfilmen-fick-folk-att-fly-ut-ur-biografen",
-      "guid": "https://varldenshistoria.se/kultur/film/sant-eller-falskt-tagfilmen-fick-folk-att-fly-ut-ur-biografen",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1786550413000
     },
     {
       "title": "PODD: Sista minuten-tips inför solförmörkelsen",
@@ -2574,16 +2594,6 @@
       "timestamp": 1786541690000
     },
     {
-      "title": "Publikinformation: Hemmamötet med Raków",
-      "description": "På torsdagskvällen spelas returmötet i kvalomgång 3 av UEFA Conference League där Hammarby ställs mot Raków på 3Arena. Här finns samlad information kring vad som gäller för dig som ser matchen på plat",
-      "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-hemmamotet-med-rakow",
-      "guid": "abe9958d-a656-43de-9f6c-5134a23c1604",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/4e6e2218fa77704c21982fe0b458bf51d6a743fd-1396x931.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1786541037000
-    },
-    {
       "title": "Inga besked från SD om partisamarbeten efter valet",
       "description": "SD i Upplands-Bro vill inte ses som ett stödparti till Alliansen. Gruppledaren Katarina Olofsson öppnar för att ta större ansvar efter valet.",
       "link": "https://www.mitti.se/nyheter/inga-besked-fran-sd-om-partisamarbeten-efter-valet-6.3.379219.d1329651bd",
@@ -2642,16 +2652,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786537137000
-    },
-    {
-      "title": "Pyramidernas gåta: Därför liknar egyptiernas och mayafolkets imponerande byggnadsverk varandra",
-      "description": "Egypten och mayafolkens riken var åtskilda av ett mäktigt hav, men ändå uppförde de två folken monument med nästan samma form. Var det en slump, eller döljer pyramiderna en hemlighet?",
-      "link": "https://varldenshistoria.se/civilisationer/larde-forntidens-egyptier-andra-att-bygga-pyramider-till-exempel-mayafolket",
-      "guid": "https://varldenshistoria.se/civilisationer/larde-forntidens-egyptier-andra-att-bygga-pyramider-till-exempel-mayafolket",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1786536021000
     },
     {
       "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
