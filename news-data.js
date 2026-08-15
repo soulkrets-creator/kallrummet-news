@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-15T00:36:07.700Z",
+  "updatedAt": "2026-08-15T03:29:32.058Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Sociala medier kan förbjudas för barn inom ett år",
+      "description": "Förslaget är att barn under 15 år inte ska få använda sociala medier.",
+      "link": "https://yle.fi/a/7-10103606?origin=rss",
+      "guid": "https://yle.fi/a/7-10103606",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786762842000
+    },
+    {
+      "title": "Överklassens oskrivna regler på Sandhamn: ”Urlöjligt”",
+      "description": "Champagnen flödar, lyxbåtarna köar i hamnen och ett fritidshus på 47 kvadratmeter har sålts för 51 miljoner kronor. Men bakom bilden av Sandhamn som ett glittrande sommarparadis finns också tydliga sociala koder för vem som passar in – och hur pengar får visas upp. – Att vaska är big no-no. Det tycker alla är urlöjligt, säger Maria Wikström, vars familj driver ”Värsan”. Expressen åkte till Stockholmselitens sommarparadis för att syna livet bakom fasaden.",
+      "link": "https://www.expressen.se/nyheter/sverige/overklassens-oskrivna-regler-pa-sandhamn-urlojligt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/overklassens-oskrivna-regler-pa-sandhamn-urlojligt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786762800000
+    },
+    {
+      "title": "Man död efter bråk i Kiruna",
+      "description": "Man misstänks för mord i Kiruna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e294dbb-a055-489a-849b-f1ffc1e0d9ae",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e294dbb-a055-489a-849b-f1ffc1e0d9ae",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786761169000
+    },
+    {
+      "title": "Jordbävning i södra Spanien",
+      "description": "Husfasader har rasat",
+      "link": "https://www.expressen.se/nyheter/varlden/jordbavning-i-sodra-spanien/",
+      "guid": "https://www.expressen.se/nyheter/varlden/jordbavning-i-sodra-spanien/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786761156000
+    },
+    {
+      "title": "Trumps efter larmen om självmordsförsök: ”Kunde varit kvar längre”",
+      "description": "Självmordförsök, ruttet kött och igenkorkade avlopp. 5 000 sjömän har varit fast på USS Abraham Lincoln i 250 dagar. Men Trump tycker att det kunde varit kvar länge till.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-efter-larmen-om-sjalvmordsforsok-kunde-varit-kvar-langre/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-efter-larmen-om-sjalvmordsforsok-kunde-varit-kvar-langre/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786755178000
+    },
     {
       "title": "Ukrainska framgången: 240 mål träffade",
       "description": "Operation ”Krims nedsläckning”",
@@ -534,16 +584,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786719164000
     },
     {
-      "title": "Arboga sluter upp: ”Vi är kvar tills sista personen har någonstans att ta vägen.”",
-      "description": "Flera hem är totalförstörda i storbranden i Arboga. Nu kopplas kommunens kristeam in. – Vi är beredda på att ta emot ännu fler om det skulle behövas, säger Carl Björnberg.",
-      "link": "https://www.expressen.se/nyheter/sverige/arboga-sluter-upp-vi-ar-kvar-tills-sista-personen-har-nagonstans-att-ta-vagen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/arboga-sluter-upp-vi-ar-kvar-tills-sista-personen-har-nagonstans-att-ta-vagen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786718680000
-    },
-    {
       "title": "Japan: 7000 strandsatta på Narita – så påverkas resenärer",
       "description": "Rekordregn i Japan har lämnat efter sig åtta döda och 7 000 strandsatta på flygplatsen Narita. Så här påverkar ovädret dig som ska resa till Japan nu. Under ett dygn föll hela 367 millimeter regn i Chiba, det är mer än det tidigare 24-timmarsrekordet på 309 millimeter från oktober 2013, enligt japanska vädermyndigheter. Åtta personer […]",
       "link": "https://www.dagensps.se/varlden/klimat/japan-7000-strandsatta-pa-narita-sa-paverkas-resenarer/",
@@ -634,16 +674,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786715946000
     },
     {
-      "title": "Busch: Det vänder för L i Expressens debatt",
-      "description": "För åtta år sedan blev Expressens debatt en vändpunkt för KD:s opinionskris. Nu spår Ebba Busch en liknande vändning för Liberalerna på måndag, när Expressen och Dagens industri håller i valrörelsens första stora partiledardebatt. Om Tidö förlorar kan Busch i stället bli kungamakare i ”den nya mitten”. Lyssna på Expressens podd ”Politikrummet”.",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/busch-det-vander-for--l-i-expressens-debatt/",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/busch-det-vander-for--l-i-expressens-debatt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786715831000
-    },
-    {
       "title": "Bastu brann ner på Adelsö",
       "description": "Det råder avrådan från eldning i delar av Stockholms län och på Södertörns brandförsvar tror man att ett eldningsförbud är att vänta.",
       "link": "https://www.mitti.se/nyheter/bastu-brann-ner-pa-adelso-6.3.380234.c1fd3cd82e",
@@ -722,16 +752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786714079000
-    },
-    {
-      "title": "Polisen varnar för falska festivalbiljetter",
-      "description": "Polisen i Halland larmar om flera fall av biljettbedrägerier kopplade till festivalen Way Out West i Göteborg. Bedragarna har slagit till via försäljningsgrupper på sociala medier.",
-      "link": "https://www.expressen.se/nyheter/sverige/polisen-varnar-for-falska-festivalbiljetter/",
-      "guid": "https://www.expressen.se/nyheter/sverige/polisen-varnar-for-falska-festivalbiljetter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786714077000
     },
     {
       "title": "Nytt viltvarningssystem gör vägarna tryggare för både människor och älgar",
@@ -884,16 +904,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786710937000
     },
     {
-      "title": "Radhuslänga i Arboga i full brand",
-      "description": "En storbrand bröt ut i ett bostadsområde i Arboga. Flera bostäder har brunnit ned – och det brann okontrollerat fram mot kvällen. – Totalt är 20 bostäder drabbade, säger Pyar Andersson vid räddningstjänsten.",
-      "link": "https://www.expressen.se/nyheter/sverige/radhuslanga-i-arboga-i-full-brand/",
-      "guid": "https://www.expressen.se/nyheter/sverige/radhuslanga-i-arboga-i-full-brand/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786710796000
-    },
-    {
       "title": "Microsofts Mico flyttar ut från Copilot",
       "description": "Men försvinner inte helt och hållet Microsoft meddelar att de kommer att sluta visa den animerade, gula avataren Mico när användare pratar med Copilot i röstläge. Mico kom så sent som i oktober förra året för att ge chatboten en tydligare identitet, med ansiktsuttryck och reaktioner. Avataren hamnar nu på företagets långa lista av pensionerade virtuella assistenter, som Clippy och Cortana. Den försvinner dock inte helt, istället flyttas Mico till företagets utbildningsplattform Learn Live, där Microsoft menar att avataren kommer att ha \"mer att reagera på\". L&auml;s vidare och kommentera: https://feber.se/internet/microsofts-mico-flyttar-ut-fran-copilot/495005/ L&auml;s mer om Copilot , Mico , Clippy , Learn Live , Cortana , AI-assistent , virtuella assistenter",
       "link": "https://feber.se/internet/microsofts-mico-flyttar-ut-fran-copilot/495005/?utm_source=rss&utm_medium=feed",
@@ -1002,16 +1012,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786706098000
-    },
-    {
-      "title": "Jubileumsedgång på Nylands brigad – chatta med oss i vår direktsändning",
-      "description": "På lördag firar Nylands brigad krigsmannaed och -försäkran för kontingent 2/26. Omkring 700 rekryter utnämns till jägare.",
-      "link": "https://yle.fi/a/7-10103431?origin=rss",
-      "guid": "https://yle.fi/a/7-10103431",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786705887000
     },
     {
       "title": "Nu lanseras Pojkvänshjälpen",
@@ -3288,7 +3288,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "En kvinna som dömdes till 12 års fängelse för mordförsök genom att ha förgiftat sin man stämmer nu sin tidigare arbetsgivare Google.",
       "link": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
       "guid": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
-      "image": "https://www.mitti.se/image-3.377746.301909.20260810070513.1.58b9ad385b?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377746.301909.20260809171606.1.1dff4908c1?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786293900000
@@ -3458,7 +3458,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Nytorgsfesten och Planket närmar sig.",
       "link": "https://www.mitti.se/nyheter/folkfester-planket-och-nytorgsfesten-snart-tillbaka-6.3.379167.65fbf0d77d",
       "guid": "https://www.mitti.se/nyheter/folkfester-planket-och-nytorgsfesten-snart-tillbaka-6.3.379167.65fbf0d77d",
-      "image": "https://www.mitti.se/image-3.377754.301956.20260810070330.023f474d5c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377754.301956.20260808173117.6a0bdac094?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786208400000
