@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-16T00:37:59.972Z",
+  "updatedAt": "2026-08-16T03:38:57.293Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Misstänkt våldtäkt på festival i Klippan",
+      "description": "Man gripen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fbfcc244-2f93-4653-a930-a27401d5e819",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fbfcc244-2f93-4653-a930-a27401d5e819",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786850978000
+    },
+    {
+      "title": "Rumänien har skjutit ner en drönare",
+      "description": "Kan potentiellt handla om en rysk drönare.",
+      "link": "https://yle.fi/a/7-10103630?origin=rss",
+      "guid": "https://yle.fi/a/7-10103630",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786850131000
+    },
+    {
+      "title": "Jens och Aline Knuts köpte elbil för 12 000 euro – snart kan fler göra samma sak",
+      "description": "Ett nytt statligt stöd på 6 000 euro ska hjälpa låginkomsttagare att köpa elbil. Paret Knuts i Kvevlax välkomnar förslaget.",
+      "link": "https://yle.fi/a/7-10102717?origin=rss",
+      "guid": "https://yle.fi/a/7-10102717",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786849214000
+    },
+    {
+      "title": "Makabra fyndet: Två döda barn i frysen",
+      "description": "En vårdag 2002 hittar fyra lekande barn en hopknuten plastkasse i en skogsdunge utanför Stockholm. I den finns ett fryst spädbarn. – Jag har aldrig varit med om något liknande, säger kriminalteknikern Bengt Aspegren. Polisens jakt på en gärningsperson börjar – och snart tar historien ytterligare en vändning. Fallet kommer att skaka en hel nation.",
+      "link": "https://www.expressen.se/nyheter/makabra-fyndet-tva--doda-barn-i-frysen/",
+      "guid": "https://www.expressen.se/nyheter/makabra-fyndet-tva--doda-barn-i-frysen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786849200000
+    },
+    {
+      "title": "Rysk oligarkfamilj utreds inte längre för brott kopplat till Långvikhotellet",
+      "description": "Polisen utredde tidigare grovt regleringsbrott.",
+      "link": "https://yle.fi/a/7-10103629?origin=rss",
+      "guid": "https://yle.fi/a/7-10103629",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786847282000
+    },
+    {
+      "title": "Mc-olycka i Stockholm",
+      "description": "Polis och räddningstjänst på plats",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cbb01ad4-f599-4ded-9bcb-9db700531da0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cbb01ad4-f599-4ded-9bcb-9db700531da0",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786845977000
+    },
+    {
+      "title": "Putins skräck: Nytt ukrainskt ballistiskt vapen: ”Ser ett hot”",
+      "description": "Ukraina behöver fler defensiva vapen. Men offensiva vapen har de en lösning på. Enligt Politico är Ukrainas egen robot FP-7 redo att användas.",
+      "link": "https://www.expressen.se/nyheter/varlden/putins-skrack-nytt-ukrainskt-ballistiskt-vapen-ser-ett-hot/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-skrack-nytt-ukrainskt-ballistiskt-vapen-ser-ett-hot/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786843602000
+    },
+    {
+      "title": "Bella, 13, sköts i magen – larmade ändå polisen",
+      "description": "Hon sköts flera gånger av massmördaren i Michigan. Men trots det lyckades 13-åriga Bella Everitt larma polisen – och räddade liv. Både hennes bror och mamma mördades bara minuter tidigare, skriver New York Post.",
+      "link": "https://www.expressen.se/nyheter/varlden/bella-13-skots-i-magen-larmade-anda-polisen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bella-13-skots-i-magen-larmade-anda-polisen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786840699000
+    },
     {
       "title": "Kennedy-son stred för Ukraina – nu efterlyst av Putin",
       "description": "Hans pappa är hälsominister i Donald Trumps regering. Själv har Conor Kennedy, 32, valt att strida för Ukraina mot Ryssland. Nu är han efterlyst av Putin.",
@@ -32,16 +112,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786833901000
-    },
-    {
-      "title": "Mc-olycka i Stockholm",
-      "description": "Polis och räddningstjänst på plats",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cbb01ad4-f599-4ded-9bcb-9db700531da0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cbb01ad4-f599-4ded-9bcb-9db700531da0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786832565000
     },
     {
       "title": "Topi Parviainen näst yngst i topp-8 i EM-historien: ”Det låter väl ganska lovande”",
@@ -374,16 +444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1786806000000
     },
     {
-      "title": "Malmö stoppar allt bad i havet",
-      "description": "Malmö hissar svart flagg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=35a15d73-2754-4bda-8ee5-de90ca8b6d6a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=35a15d73-2754-4bda-8ee5-de90ca8b6d6a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786805912000
-    },
-    {
       "title": "Scientists detect a surprising shift in human blood as CO2 rises",
       "description": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
@@ -482,26 +542,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786802400000
-    },
-    {
-      "title": "De gjorde medborgarskapsprovet",
-      "description": "”Jag vill äta glass”",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/de-gjorde-medborgarskapsprovet",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/de-gjorde-medborgarskapsprovet",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786801948000
-    },
-    {
-      "title": "Ung man död i olycka",
-      "description": "Singelolycka i Eslöv – körde in i träd",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c24e8ef9-5f82-4cad-aada-0639e5a9e229",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c24e8ef9-5f82-4cad-aada-0639e5a9e229",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786801175000
     },
     {
       "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
@@ -632,36 +672,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1786794314000
-    },
-    {
-      "title": "Bussar krockade i Kvarnbäcken i Helsingfors – åtta skadade",
-      "description": "En buss har kört in i en annan buss bakifrån i Kvarnbäcken i Helsingfors. Trafiken på Ring I är avstängd österut.",
-      "link": "https://yle.fi/a/7-10103616?origin=rss",
-      "guid": "https://yle.fi/a/7-10103616",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786793622000
-    },
-    {
-      "title": "Tiotals döda i kraftigt jordskalv i Indonesien",
-      "description": "Jordbävningen orsakade allvarliga skador enligt lokala myndigheter. Människor är fortfarande begravda under rasmassor.",
-      "link": "https://yle.fi/a/7-10103614?origin=rss",
-      "guid": "https://yle.fi/a/7-10103614",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786793480000
-    },
-    {
-      "title": "New York Times: Rysk säkerhetstjänst utbildade aktivister för att så väpnat kaos i Moldavien",
-      "description": "Deltagare fick träning i vapen- och drönaranvändning inför det moldaviska parlamentsvalet förra året.",
-      "link": "https://yle.fi/a/7-10103611?origin=rss",
-      "guid": "https://yle.fi/a/7-10103611",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786792293000
     },
     {
       "title": "Första titten på Bluey-filmen",
@@ -3518,7 +3528,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "En kvinna som dömdes till 12 års fängelse för mordförsök genom att ha förgiftat sin man stämmer nu sin tidigare arbetsgivare Google.",
       "link": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
       "guid": "https://www.mitti.se/nyheter/fick-sparken-efter-mordforsoksdom--stammer-google-6.3.378604.b2046bdc37",
-      "image": "https://www.mitti.se/image-3.377746.301909.20260809171606.1.1dff4908c1?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377746.301909.20260810070513.1.58b9ad385b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786293900000
