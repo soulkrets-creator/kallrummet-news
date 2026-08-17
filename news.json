@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-08-17T00:36:42.771Z",
+  "updatedAt": "2026-08-17T03:40:00.820Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103633?origin=rss",
+      "guid": "https://yle.fi/a/7-10103633",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786937285000
+    },
+    {
+      "title": "Dystert ebolarekord i Kongo-Kinshasa",
+      "description": "Dödligaste utbrottet i historien",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=419bc7b2-ba89-4eb4-a639-1dd0505c79c4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=419bc7b2-ba89-4eb4-a639-1dd0505c79c4",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786937141000
+    },
+    {
+      "title": "Skådespelaren Hayden Panettiere är död",
+      "description": "Hon blev bara 36 år gammal.",
+      "link": "https://yle.fi/a/7-10103652?origin=rss",
+      "guid": "https://yle.fi/a/7-10103652",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786936841000
+    },
+    {
+      "title": "Efter kritiken: Akademiska bokhandeln tar tillbaka språksymbolerna – och öppnar nytt",
+      "description": "Akademiska bokhandeln återinför språksymbolerna som visar personalens språkfärdigheter. Samtidigt meddelar nya ägaren Adlibris att man öppnar nya butiker.",
+      "link": "https://yle.fi/a/7-10103545?origin=rss",
+      "guid": "https://yle.fi/a/7-10103545",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786936538000
+    },
+    {
+      "title": "Ny plan för Karis centrum väcker frågor: 50 invånare testade nytt direkt sätt att påverka",
+      "description": "Raseborgs stad testade nytt drop-in koncept i Karis där invånarna kunde komma och diskutera nya detaljplanen för centrum.",
+      "link": "https://yle.fi/a/7-10103471?origin=rss",
+      "guid": "https://yle.fi/a/7-10103471",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786935798000
+    },
+    {
+      "title": "Sommarens växlande väder har skapat stora problem för husmålare",
+      "description": "Regn och fuktig luft försvårar jobbet för husmålare. Årets sommarväder har orsakat ovanligt mycket problem.",
+      "link": "https://yle.fi/a/7-10103011?origin=rss",
+      "guid": "https://yle.fi/a/7-10103011",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786935614000
+    },
+    {
+      "title": "Storbrand spreds till radhus",
+      "description": "Över 15 bostäder evakuerade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fe185595-861a-4b4f-ae14-daecf5bfc50c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fe185595-861a-4b4f-ae14-daecf5bfc50c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1786935520000
+    },
+    {
+      "title": "Österbottningar mår bättre – Maxmobor berättar varför: ”Kraften finns i små gemenskaper”",
+      "description": "Forskningen är omtalad sedan ett par år tillbaka. Den visar att svenskspråkiga Österbotten är något av en blå zon, alltså ett område där många invånare lever ovanligt länge. Vi frågade bybor i Maxmo vad hemligheten är.",
+      "link": "https://yle.fi/a/7-10103581?origin=rss",
+      "guid": "https://yle.fi/a/7-10103581",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786934822000
+    },
+    {
+      "title": "Tonåringar med adhd får sämre vård än yngre barn: ”Måste kämpa med näbbar och klor”",
+      "description": "En 16-åring togs in på akuten med rytmstörningar och andningssvårigheter. Primärvården hade missat att följa upp hans adhd-medicin och dess biverkningar.",
+      "link": "https://yle.fi/a/7-10103509?origin=rss",
+      "guid": "https://yle.fi/a/7-10103509",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1786933814000
+    },
+    {
+      "title": "Kinesiskt övertagande av superyachtbolag väcker säkerhetsoro – kan göras om till militärfartyg",
+      "description": "Ett kinesiskt övertagande av den italienska superyachttillverkaren Ferretti har väckt frågor långt bortom lyxbåtsindustrin. Kritiker varnar för att ägandet kan ge Kina tillgång till känslig maritim teknik och information – samtidigt som bolagets fartyg har kopplingar till militär användning. Ferretti är ett av Europas mest kända namn inom exklusiva motor- och superyachter. Bolaget står bakom […]",
+      "link": "https://www.dagensps.se/varlden/kinesiskt-overtagande-av-superyachtbolag-vacker-sakerhetsoro-kan-goras-om-till-militarfartyg/",
+      "guid": "https://www.dagensps.se/?p=1664774",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlfaem56cynwi-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786930280000
+    },
+    {
+      "title": "Franska skatteverket hackat – regeringen kallar till krismöte",
+      "description": "Frankrikes regering trappar upp arbetet efter det omfattande cyberintrånget mot landets skattemyndighet. Att en särskild krisorganisation aktiveras visar hur allvarligt regeringen ser på situationen. Själva intrånget skedde i slutet av juni 2026 men det var först i slutet av förra veckan som finansdepartementet bekräftade att ett cyberangrepp faktiskt hade ägt rum och att data hade […]",
+      "link": "https://www.dagensps.se/varlden/franska-skatteverket-hackat-regeringen-kallar-till-krismote/",
+      "guid": "https://www.dagensps.se/?p=1664770",
+      "image": "https://images.dagensps.se/app/uploads/2026/02/cyberhot-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1786927094000
+    },
     {
       "title": "Putin drag – efter ”största attacken i mannaminne”",
       "description": "Svart rök över Moskva och 822 drönare i luften. Söndagens ukrainska attack var den största i år. Flera mål förstördes – bland annat den ryska detaljhandeln Wildberries största lager.",
@@ -494,16 +604,6 @@
       "timestamp": 1786883554000
     },
     {
-      "title": "Dina Ögon fick äntligen spela på Flow och hade svårt att tro sina ögon",
-      "description": "Psykedelisk musik på svenska garanterade en av Flowfestivalens vildaste och roligaste spelningar.",
-      "link": "https://yle.fi/a/7-10103638?origin=rss",
-      "guid": "https://yle.fi/a/7-10103638",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786883496000
-    },
-    {
       "title": "This 10-cent heart drug cuts hospitalizations by 25%",
       "description": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
@@ -514,16 +614,6 @@
       "timestamp": 1786882952000
     },
     {
-      "title": "Borgå medborgarinstitut höjer avgifterna men intresset har inte minskat",
-      "description": "Alla kurser vid Borgå medborgarinstitut har blivit dyrare än tidigare, och inga kurser är längre helt gratis. Det här är en följd av stadens sparkrav.",
-      "link": "https://yle.fi/a/7-10103576?origin=rss",
-      "guid": "https://yle.fi/a/7-10103576",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786882514000
-    },
-    {
       "title": "A little movement in midlife could pay off for your brain years later",
       "description": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
@@ -532,16 +622,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786881734000
-    },
-    {
-      "title": "Fartkameran läser din mobil och budgetkombi slår BMW och Mercedes",
-      "description": "Fartkameror som fångar upp mobilen, smartklockan och bluetooth-hörlurarna i bilen, inte bara hastigheten. I Kanada gick andelen fortkörare på en väg från 14 till 80 procent när kamerorna släcktes. Och efter 10 000 mil i vanlig trafik höll både Ford och Hyundai bättre än både BMW och Mercedes. Ny fartkamera läser av mobilen, klockan och […]",
-      "link": "https://www.dagensps.se/motor/fartkameran-laser-din-mobil-och-budgetkombi-slar-bmw-och-mercedes/",
-      "guid": "https://www.dagensps.se/?p=1664700",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/image-53-300x300.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786881672000
     },
     {
       "title": "Sant eller falskt: ”Danmark har varit en demokrati sedan 1849”",
@@ -614,16 +694,6 @@
       "timestamp": 1786879902000
     },
     {
-      "title": "Den tropiska stormen Lala piskar Hawaii: ”Livshotande förhållanden”",
-      "description": "Stormen har dragit fram med vindhastigheter på över 33 meter per sekund.",
-      "link": "https://yle.fi/a/7-10103640?origin=rss",
-      "guid": "https://yle.fi/a/7-10103640",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786879560000
-    },
-    {
       "title": "The common mistake that could make aging joints hurt more",
       "description": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis pain. Low-impact activities such as swimming, cycling, tai chi, yoga, and walking on varied terrain may also improve balance and mobility. Even a few minutes of the right kind of movement can make a difference.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
@@ -632,16 +702,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1786879427000
-    },
-    {
-      "title": "Med tre barn, två jobb och hobbyer varje kväll funkar vardagen tack vare mormor",
-      "description": "I trebarnsfamiljen Ek rullade vardagen igång efter sommarlovet. Sjuåriga Alexander fick äntligen börja ettan efter en lång sommar av väntan.",
-      "link": "https://yle.fi/a/7-10103530?origin=rss",
-      "guid": "https://yle.fi/a/7-10103530",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786878217000
     },
     {
       "title": "M vill ha offentligt register över dömda för våld",
@@ -662,36 +722,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1786877869000
-    },
-    {
-      "title": "Flow är Finlands största gatucatwalk där en festivallook kan kosta 4 000 euro",
-      "description": "Här möts allt från genomtänkt återbruk och finsk spetsdesign till exklusiva lyxaccessoarer. En outfit kan kosta mellan några tior till tusentals euro.",
-      "link": "https://yle.fi/a/7-10103637?origin=rss",
-      "guid": "https://yle.fi/a/7-10103637",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786876428000
-    },
-    {
-      "title": "Barn och stödfamiljer samlades på Gullranda: ”En lottovinst att få träffa en så underbar flicka”",
-      "description": "På lördagen fick barn tillsammans med faddrar och stödfamiljer möjlighet att samlas på Gullranda i Nådendal för att motionera och pyssla tillsammans med presidentparet.",
-      "link": "https://yle.fi/a/7-10103615?origin=rss",
-      "guid": "https://yle.fi/a/7-10103615",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786876381000
-    },
-    {
-      "title": "Brand på gård utanför Kalmar – stor spridningsrisk",
-      "description": "Jätteinsats vid gård i Kalmar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3506ddbd-f4ab-4bd3-af5e-6e5ad9f98736",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3506ddbd-f4ab-4bd3-af5e-6e5ad9f98736",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786874776000
     },
     {
       "title": "Disney avslöjar detaljer om kommande filmer",
@@ -724,26 +754,6 @@
       "timestamp": 1786874145000
     },
     {
-      "title": "Greentech-vinterns svenska offer – ”politisk ignorans”",
-      "description": "Klimatfrågan har kallnat de senaste åren och det slår hårt mot svenska Doconomy vars omsättning har halverats. Trots värmeböljor och rasande skogsbränder, som kopplas till klimatförändringar, har intresset för en välmående planet svalnat. Svenska Doconomy har tagit fram verktyg för banker och betalföretag som underlättar för konsumenter att se vilken klimatpåverkan deras köp har. Men […]",
-      "link": "https://www.dagensps.se/foretag/greentech-vinterns-svenska-offer-politisk-ignorans/",
-      "guid": "https://www.dagensps.se/?p=1664695",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/doconomyvd.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1786873070000
-    },
-    {
-      "title": "Kommentar: Alisa Vainio är den borttappade talangen som hittade hem",
-      "description": "Alisa Vainio stod för en majestätisk prestation på Birminghams EM-maraton. Bakom framgången ligger en ovärderlig insikt.",
-      "link": "https://yle.fi/a/7-10102822?origin=rss",
-      "guid": "https://yle.fi/a/7-10102822",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1786872492000
-    },
-    {
       "title": "Scientists reveal why walking gets so much harder with age",
       "description": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exercises targeting balance, coordination, and lower-leg strength could help preserve mobility.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
@@ -772,16 +782,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1786870800000
-    },
-    {
-      "title": "Zelenskyjs kris – ingen vill hantera Trump",
-      "description": "Ukraina behöver tillsätta en ny ambassadör i USA. Men ingen vill ha jobbet. Nu står landet utan ambassadör – och det är dålig tajmning, rapporterar Politico .",
-      "link": "https://www.expressen.se/nyheter/varlden/zelenskyjs-kris-ingen-vill-hantera-trump/",
-      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyjs-kris-ingen-vill-hantera-trump/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1786869547000
     },
     {
       "title": "Bakslaget: Skolhallarna används allt mindre av föreningslivet",
