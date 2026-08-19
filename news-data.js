@@ -1,8 +1,138 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-19T00:36:20.978Z",
+  "updatedAt": "2026-08-19T03:37:01.694Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Fotbojor, utvisningar och ekonomisk katastrof hotar då Trump vill utvisa haitier",
+      "description": "USA avslutade nyligen tillfälligt skydd för Haitier som låter dem bo och arbeta i landet. Över en natt kastades de in i en oviss tillvaro.",
+      "link": "https://yle.fi/a/7-10103361?origin=rss",
+      "guid": "https://yle.fi/a/7-10103361",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787110253000
+    },
+    {
+      "title": "Två till sjukhus efter brand",
+      "description": "Två till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=19d23195-c244-46ee-873c-bf0c7266dcc6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=19d23195-c244-46ee-873c-bf0c7266dcc6",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787109039000
+    },
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103782?origin=rss",
+      "guid": "https://yle.fi/a/7-10103782",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787108794000
+    },
+    {
+      "title": "Nagu jaktförenings byggnad övertändes på några sekunder – nu smäller det igen",
+      "description": "I september 2025 totalförstördes skjuthuset vid älgbanan i Vikom i Nagu. Två personer kunde fly och ta sig ur byggnaden. Nu har skjuthuset byggts upp igen.",
+      "link": "https://yle.fi/a/7-10103420?origin=rss",
+      "guid": "https://yle.fi/a/7-10103420",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787108736000
+    },
+    {
+      "title": "Förhandlingar på arbetsmarknaden har blivit som snabbdejting, säger avgående riksmedlaren Anu Sajavaara",
+      "description": "Efter fyra år som riksmedlare ser Anu Sajavaara en arbetsmarknad präglad av kortsiktighet, politisk inblandning och en oförmåga att se framåt.",
+      "link": "https://yle.fi/a/7-10102647?origin=rss",
+      "guid": "https://yle.fi/a/7-10102647",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787108579000
+    },
+    {
+      "title": "Donald Trump vill träffa Kim Jong-Un igen",
+      "description": "Donald Trump drömmer om att få träffa Kim Jong-Un igen. Enligt Wall Street Journal har han beordrat medarbetare att så snart som möjligt få till ett möte. Målet är att återuppliva kärnvapenförhandlingarna.",
+      "link": "https://www.expressen.se/nyheter/varlden/donald-trump-vill-traffa-kim-jong-un-igen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/donald-trump-vill-traffa-kim-jong-un-igen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787108477000
+    },
+    {
+      "title": "”Vi får dålig mage om vi dricker det” – grannarnas vardag vändes upp och ner när kranvattnet blev odrickbart",
+      "description": "Förhöjda metallhalter gör att grannarna i Karis inte vågar dricka kranvattnet. Medan ansvarsfrågan utreds tvingas de köpa vatten och duscha borta.",
+      "link": "https://yle.fi/a/7-10103352?origin=rss",
+      "guid": "https://yle.fi/a/7-10103352",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787108184000
+    },
+    {
+      "title": "Lätta på gaspedalen – och elbilsbatteriet håller betydligt längre",
+      "description": "För den som vill få sitt elbilsbatteri att hålla så länge som möjligt kan det löna sig att lätta på gaspedalen visar en ny studie. Aggressiv körning kan slita ut elbilsbatteriet 2,5 gånger snabbare. Europa försöker gasa ikapp Kina på området, och där gör BMW ett jättekliv med sin iX5 i höst som har en […]",
+      "link": "https://www.dagensps.se/motor/latta-pa-gaspedalen-och-elbilsbatteriet-haller-betydligt-langre/",
+      "guid": "https://www.dagensps.se/?p=1665489",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/bmw-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787107456000
+    },
+    {
+      "title": "Ukrainas avsatta försvarsminister utmanar Zelenskyj och kräver val",
+      "description": "Ukrainas tidigare försvarsminister Myuchailo Fedorov kräver krigstida presidentval i en direkt utmaning mot president Volodymyr Zelenskyj.",
+      "link": "https://yle.fi/a/7-10103781?origin=rss",
+      "guid": "https://yle.fi/a/7-10103781",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787106672000
+    },
+    {
+      "title": "ZZ Tops trummare Frank Beard har dött",
+      "description": "Beard var en av bandets originalmedlemmar. Han blev 77 år.",
+      "link": "https://yle.fi/a/7-10103780?origin=rss",
+      "guid": "https://yle.fi/a/7-10103780",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787105565000
+    },
+    {
+      "title": "Ny studie: Akupunktur kan påverka hjärnan vid depression",
+      "description": "Akupunktur kan påverka hur hjärnan arbetar hos personer med depression. I en ny studie visar forskare hur akupunktur verkar koppla om hjärnan vid depression. Vissa experter uppger att träning kan hjälpa mot depression, där en studie pekar på att träning kan vara lika bra som terapi för vissa. Ibland kommer akupunktur in som en möjlig […]",
+      "link": "https://www.dagensps.se/halsa/ny-studie-akupunktur-kan-paverka-hjarnan-vid-depression/",
+      "guid": "https://www.dagensps.se/?p=1665484",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlz9bglt0qukm-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787103840000
+    },
+    {
+      "title": "Hegseths ”privata resa” orsakar spekulationer om 2028",
+      "description": "Pete Hegseth planerar att kandidera till president 2028. Det tror flera nära medarbetare till den amerikanska försvarsministern. Resan till Iowa ses som en tydlig signal.",
+      "link": "https://www.expressen.se/nyheter/varlden/hegseths-privata-resa-orsakar-spekulationer-om-2028/",
+      "guid": "https://www.expressen.se/nyheter/varlden/hegseths-privata-resa-orsakar-spekulationer-om-2028/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787101690000
+    },
+    {
+      "title": "Sista glaciären gav upp – nu finns ingen sommarskidåkning kvar i Alperna",
+      "description": "Liftarna går – men ingen åker skidor. Den 15 augusti stoppade Passo dello Stelvio sommarskidåkningen på glaciären. 2026 blev året då Alpernas sista sommarskidåkning försvann på sommaren. Dagens PS rapporterar kontinuerligt om att Alpernas snö snabbt smälter bort. I Schweiz har många glaciärer försvunnit nästan helt och utvecklingen går i en rasande fart. Det leder […]",
+      "link": "https://www.dagensps.se/varlden/sista-glaciaren-gav-upp-nu-finns-ingen-sommarskidakning-kvar-i-alperna/",
+      "guid": "https://www.dagensps.se/?p=1665478",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlt8cqemrjhdq-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787099780000
+    },
     {
       "title": "Vändningen i Hormuzsundet – Iran förlorar kontrollen",
       "description": "Iran förlorar greppet i kampen om kontrollen över Hormuzsundet. Enligt analyser tar allt fler fartyg rutten nära Oman där USA utlovar beskydd. – Iran har delvis har tappat kontrollen över sundet, säger Andy Lipow vid oljebolaget Lipow Oil Associates.",
@@ -414,16 +544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787072400000
     },
     {
-      "title": "Tonåring till sjukhus efter mopedolycka – körde utan hjälm",
-      "description": "Tonåring utan hjälm hämtad med helikopter",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8d850a9c-6ffe-451f-934b-f0770f2167ce",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8d850a9c-6ffe-451f-934b-f0770f2167ce",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787072200000
-    },
-    {
       "title": "Ny trailer för S02 av MobLand",
       "description": "Den 18 september drar den nya säsongen igång Den 18 september drar den nya säsongen av MobLand igång och här har vi en trailer för den. I denna säsong tvingas familjen att tukta hot både inifrån och utifrån. L&auml;s vidare och kommentera: https://feber.se/film/ny-trailer-for-s02-av-mobland/495105/ L&auml;s mer om MobLand , TV-serier , trailers , streaming , Säsong 2 , Drama",
       "link": "https://feber.se/film/ny-trailer-for-s02-av-mobland/495105/?utm_source=rss&utm_medium=feed",
@@ -452,16 +572,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1787070431000
-    },
-    {
-      "title": "Trumps stora misstag på krigets första dag",
-      "description": "Kanske USA och Israel begick det största misstaget redan på krigets första dag. Då ayatollah Ali Khamenei dödades. Hans efterträdare är inställd på än hårdare tag.",
-      "link": "https://www.expressen.se/kronikorer/mats-larsson/trumps-stora-misstag-pa-krigets-forsta-dag/",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/trumps-stora-misstag-pa-krigets-forsta-dag/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787069544000
     },
     {
       "title": "Sluta bråka om lampor och mobilladdaren – här är de riktiga elslukarna",
@@ -574,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787067996000
     },
     {
-      "title": "Mäklare tar betalt i AI-aktier – bostadsmarknaden exploderar",
-      "description": "I San Francisco finns det gott om techarbetare med AI-aktier värda miljoner som inte går att sälja än. Det är inget problem hos innovativa mäklare. San Franciscos bostadsmarknad har gått från pandemikris till rekordartad AI-boom. Kraftigt stigande inkomster och förmögenheter bland anställda i AI-sektorn driver upp priserna på både villor och lägenheter i staden och […]",
-      "link": "https://www.dagensps.se/bors-finans/maklare-tar-betalt-i-ai-aktier-bostadsmarknaden-exploderar/",
-      "guid": "https://www.dagensps.se/?p=1665432",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdls7xnvuh-2f8-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787067944000
-    },
-    {
       "title": "Därför kan jätterättegången bli slutet för Meta",
       "description": "Rättegången mot Meta kan förändra hur sociala medier ser ut i framtiden.",
       "link": "https://yle.fi/a/7-10103733?origin=rss",
@@ -602,16 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787067600000
-    },
-    {
-      "title": "Kvinna påkörd av buss på Södermalm",
-      "description": "Förs till sjukhus för kontroll",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f36524d3-4e6a-4f53-9600-0b25e5e042e8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f36524d3-4e6a-4f53-9600-0b25e5e042e8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787067313000
     },
     {
       "title": "YouTube ändrar hur man räknar visningar",
@@ -844,16 +934,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787060722000
     },
     {
-      "title": "Jordbävningen i Indonesien: Antalet skadade och hemlösa har ökat kraftigt",
-      "description": "Antalet skadade i lördagens jordbävning i Indonesien uppges ha tiofaldigats.",
-      "link": "https://yle.fi/a/7-10103762?origin=rss",
-      "guid": "https://yle.fi/a/7-10103762",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787059835000
-    },
-    {
       "title": "Fotbolls-VM dominerar Spotifys sommarlista",
       "description": "Kopplas till sex av tio låtar på sommarens mest spelade Sommaren 2026 har präglats av fotboll, och det märks inte minst på svenskarnas musikvanor. Hela sex av tio låtar på Spotifys lista över de mest spelade sommarlåtarna i Sverige kan kopplas till fotbolls-VM, rapporterar DN. Allra mest streamad under sommaren är Dai dai med Burna Boy och Shakira. På andra plats hittar vi Bolagets inofficiella mästerskapslåt Det ligger något i luften , följt av en ny version av När vi gräver guld i USA framförd av GES-barnen på tredje plats – medan originalversionen från 1994 med Glenmark, Eriksson och Strömstedt landar på en sjätteplats. Listan rymmer även VM-låtar från Brandsta City Släckers (plats sju) och Edi'vibz med Vi är gul och blå (plats tio). Bland de få låtar på topplistan som inte har fotbollstema syns svenska akter som Zara Larsson, Lovet och Victor Leksell, samt Michael Jacksons klassiska dänga Billie Jean som kniper åttondeplatsen. L&auml;s vidare och kommentera: https://feber.se/internet/fotbolls-vm-dominerar-spotifys-sommarlista/495114/ L&auml;s mer om Apple , App Tracking Transparency , Tyskland , integritet , ATT , konkurrensmyndighet",
       "link": "https://feber.se/internet/fotbolls-vm-dominerar-spotifys-sommarlista/495114/?utm_source=rss&utm_medium=feed",
@@ -874,36 +954,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787059534000
     },
     {
-      "title": "Politiker i Korsholm vill se lösningar för finska högstadiet",
-      "description": "Renoveringarna har inte löst problemen med inomhusluften, skriver man i ett par motioner.",
-      "link": "https://yle.fi/a/7-10103770?origin=rss",
-      "guid": "https://yle.fi/a/7-10103770",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787058898000
-    },
-    {
-      "title": "Belgiska stoppet för elbilar – anses för tunga och brandfarliga",
-      "description": "Med tillhörande batterier anses de för tunga, och nu stoppas elbilar i Belgien från att köra in i vissa parkeringshus ovanför marknivå. Det är inte ett nationellt förbud som drabbat elbilsägarna, utan ett besked från butikskedjan Carrefour. På grund av att många av de parkeringshus som tillhör butikerna byggdes på 80-talet är man inte säker […]",
-      "link": "https://www.dagensps.se/motor/belgiska-stoppet-for-elbilar-anses-for-tunga-och-brandfarliga/",
-      "guid": "https://www.dagensps.se/?p=1665398",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/carrefour-genre.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787058468000
-    },
-    {
-      "title": "Tionde raka minusdagen på börsen – men gurun har inte panik",
-      "description": "Stockholmsbörsen har radat upp tio minusdagar i följd – den längsta förlustsviten på 25 år om den röda handeln håller i sig till börsens stängning. Men bakom den dystra statistiken döljer sig en ovanligt beskedlig nedgång. Nu förklarar börsgraf-experten varför pyspunkan snarare kan vara en hälsosam rekyl än början på ett större ras. Läs även: […]",
-      "link": "https://www.dagensps.se/bors-finans/tionde-raka-minusdagen-pa-borsen-men-gurun-har-inte-panik/",
-      "guid": "https://www.dagensps.se/?p=1665397",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/johnny-torssell.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787058232000
-    },
-    {
       "title": "Volkswagen börjar sälja Tiguan Edition 20",
       "description": "Mer godis från start Edition 20 är en ny jubileumsmodell av Volkswagens senaste upplaga av Tiguan och nu börjar den att säljas. Här har man packat bilen med R-Line-exteriör, nya metalliclacken Maple Red, mer utrustning som standard och flera unika detaljer. Den baseras på utrustningsversionen Life Edition och går att få med motoralternativen 1,5 eTSI (mildhybrid, bensin), 1,5 eHybrid (laddhybrid, el/bensin) och 2,0 TSI 4MOTION (fyrhjulsdrift, bensin). Tiguan lanserades för första gången 2007 och har sedan dess sålts i över nio miljoner exemplar, och runt 70.000 av dessa är sålda i Sverige. 2017 gick modellen över till att bil Volkswagen-koncernens mest sålda modell. I år har hittills runt 3500 exemplar av nya Tiguan som presenterades hösten 2023 registrerats. Edition 20 går att beställa nu och kostar från 458.100 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/volkswagen-borjar-salja-tiguan-edition-20/495091/ L&auml;s mer om Tiguan , Tiguan Edition 20 , specialversion , version , SUV , crossover",
       "link": "https://feber.se/bil/volkswagen-borjar-salja-tiguan-edition-20/495091/?utm_source=rss&utm_medium=feed",
@@ -912,36 +962,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787058000000
-    },
-    {
-      "title": "En obetald biljett kan skicka ditt barn till utsökning utan din vetskap",
-      "description": "I slutet av fjolåret samlades hundratals kontrollavgifter från 15 till 17-åringar via utsökning. Det här kan lämna spår i de ungas liv för många år framöver.",
-      "link": "https://yle.fi/a/7-10103753?origin=rss",
-      "guid": "https://yle.fi/a/7-10103753",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787056938000
-    },
-    {
-      "title": "Hangö får ny kyrkoherde",
-      "description": "Karl af Hällström tar över som kyrkoherde efter Monica Cleve.",
-      "link": "https://yle.fi/a/7-10103761?origin=rss",
-      "guid": "https://yle.fi/a/7-10103761",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787056482000
-    },
-    {
-      "title": "Lise Klaveness kritiserar Fifa efter att operativa chefen fått sparken: ”Ledarstil baserad på rädsla”",
-      "description": "Den norska fotbollsledaren Lise Klaveness skräder inte orden efter att Kevin Lamour fått sparken från Fifa. Hon hallar beskedet för oacceptabelt och hoppas nu att övrig personal inom förbundet kan stå emot nya direktiv.",
-      "link": "https://yle.fi/a/7-10103760?origin=rss",
-      "guid": "https://yle.fi/a/7-10103760",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787056273000
     },
     {
       "title": "Ny vattenskoter som hyllar racerföraren Ayrton Senna",
@@ -964,16 +984,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787056064000
     },
     {
-      "title": "Ökänd svensk gängledare inblandad i skottlossning i Finland: ”Vi försökte jappa hans tjej”",
-      "description": "Ledaren för det svenska gänget T-falangen, Roman Tryfonenko, var inblandad i skottlossningen i Lassas 2024. Det här visar nya uppgifter från polisen i Sverige.",
-      "link": "https://yle.fi/a/7-10103506?origin=rss",
-      "guid": "https://yle.fi/a/7-10103506",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787055981000
-    },
-    {
       "title": "Fairphone får en prestandaboost",
       "description": "Här är Fairphone 6+ Nederländska Fairphone är tillbaka med en något uppdaterad version av sin sjätte telefon i form av nya Fairphone 6+. Den nya uppgraderade modellen har fått processorn Snapdragon 7 Gen 4, 12 GB DDR5-RAM och 256 GB lagring, vilket enligt företaget ska ge upp till 24 procent snabbare apphantering och effektivare multitasking. På utsidan får den liknande lättutbytbara baksidor som vi sett tidigare, där du med hjälp av två skruvar, snabbt kan anpassa telefonen med tillbehör som korthållare, nyckelband eller fingerögla. Fairphone 6+ består till över hälften av återvunna eller rättvist utvunna material och släpps för 7499 kronor. Modellen går även att få med det integritetsfokuserade operativsystemet /e/OS. L&auml;s vidare och kommentera: https://feber.se/mobil/fairphone-far-en-prestandaboost/495131/ L&auml;s mer om Snapdragon 7 Gen 4 , /e/OS , DDR5-RAM , Fairphone 6+",
       "link": "https://feber.se/mobil/fairphone-far-en-prestandaboost/495131/?utm_source=rss&utm_medium=feed",
@@ -982,16 +992,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787055600000
-    },
-    {
-      "title": "Mieli samarbetsförhandlar – direktören i Österbotten: ”Frustrerad”",
-      "description": "Nationellt kan 20 personer sägas upp. Köerna riskerar växa.",
-      "link": "https://yle.fi/a/7-10103758?origin=rss",
-      "guid": "https://yle.fi/a/7-10103758",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787055438000
     },
     {
       "title": "På lördag går loppet med fyra stopp – för öl",
