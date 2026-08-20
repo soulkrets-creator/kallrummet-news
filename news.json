@@ -1,8 +1,158 @@
 {
-  "updatedAt": "2026-08-20T18:22:01.628Z",
+  "updatedAt": "2026-08-20T21:17:47.484Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Garb: Low Top",
+      "description": "",
+      "link": "https://uncrate.com/garb-low-top/",
+      "guid": "https://uncrate.com/garb-low-top/",
+      "image": "https://uncrate.com/assets_c/2026/08/garb-low-top-darkened-thumb-960xauto-192629.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1787259600000
+    },
+    {
+      "title": "Crown Royal Deluxe Whisky 3L",
+      "description": "",
+      "link": "https://uncrate.com/crown-royal-deluxe-whisky-3l/",
+      "guid": "https://uncrate.com/crown-royal-deluxe-whisky-3l/",
+      "image": "https://uncrate.com/assets_c/2026/08/crown-3l-1-thumb-960xauto-192628.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1787256001000
+    },
+    {
+      "title": "Sex skadade efter trafikolycka i S:t Petersburg",
+      "description": "Våldsam krasch – bil upp på trottoar i ryska storstaden",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/sex-skadade-efter-trafikolycka-i-st-petersburg",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/sex-skadade-efter-trafikolycka-i-st-petersburg",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787255403000
+    },
+    {
+      "title": "Sis-anställd döms – våldtog 14-årig flicka",
+      "description": "En man anställd på ett Sis-hem har vid flera tillfällen våldtagit en 14-årig flicka – som var intagen på boendet. Han har också spelat in sexfilmer på henne. Nu döms mannen till fängelse i sex år för våldtäkt mot barn och barnpornografibrott.",
+      "link": "https://www.expressen.se/nyheter/sverige/sis-anstalld-doms-valdtog-14-arig-flicka/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sis-anstalld-doms-valdtog-14-arig-flicka/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787255377000
+    },
+    {
+      "title": "”De sprängde Nord Stream”: Två ukrainska dykare gripna",
+      "description": "En ukrainsk dykare har gripits i Kroatien misstänkt för sprängningen av Nord Stream september 2022. Ytterligare dykare från Ukraina är gripen. Den ukrainska dykaren, Volodomyr Zhuravlev, har gripits i Kroatien och är misstänkt för sprängningarna som skadade gasledningarna Nord Stream i september 2022, meddelar den tyska riksåklagarmyndigheten. Spektakulärt nog greps Zhuravlev när han arbetade som […]",
+      "link": "https://www.dagensps.se/varlden/de-sprangde-nord-stream-tva-ukrainska-dykare-gripna/",
+      "guid": "https://www.dagensps.se/?p=1666276",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlqq6ec0apcw8-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787255196000
+    },
+    {
+      "title": "Snap SPECS AR Smart Glasses",
+      "description": "",
+      "link": "https://uncrate.com/snap-specs-ar-smart-glasses/",
+      "guid": "https://uncrate.com/snap-specs-ar-smart-glasses/",
+      "image": "https://uncrate.com/assets_c/2026/06/snap-specs-ar-smart-glasses-2-darkened-thumb-960xauto-191634.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1787254210000
+    },
+    {
+      "title": "Sjuka Urkultsbesökare får inte testas",
+      "description": "21 bekräftade fall av mässling kopplas till festivalen Urkult. Trots det nekas sjuka festivalbesökare att testa sig. – Klart man höjer ett ögonbryn när fler och fler insjuknar trots att de är fullt vaccinerade och vården inte ens anser det befogat med en simpel blodtagning, säger Erika Mårtzén.",
+      "link": "https://www.expressen.se/nyheter/sverige/sjuka-urkultsbesokare-far-inte-testas/",
+      "guid": "https://www.expressen.se/nyheter/sverige/sjuka-urkultsbesokare-far-inte-testas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787253536000
+    },
+    {
+      "title": "Christina fick två nya händer: ”Fantastiskt”",
+      "description": "Christina har en annan kvinnas händer. De nya händerna fick hon i Nordens första första dubbla handtransplantation. – Det är ju fantastiskt, jag kan ha mina gamla ringar på mig, säger Christina i SVT Vetenskaps dokumentär ” Du får min mammas händer ”.",
+      "link": "https://www.expressen.se/nyheter/sverige/christina-fick-tva-nya-hander-fantastiskt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/christina-fick-tva-nya-hander-fantastiskt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787253226000
+    },
+    {
+      "title": "Har du en Blu-ray-spelare?",
+      "description": "Dagens fråga De allra flesta använder idag streaming för att se på sina filmer och serier, men för den som verkligen vill pressa sin hemmabio till max är det fortfarande fysiskt format som gäller. Även om streamingtjänsterna stoltserar med 4K och Dolby Atmos är det svårt att slå den okomprimerade bitraten och ljudkvaliteten från en hederlig 4K UHD Blu-ray (eller en \"vanlig\" Blu-ray för den delen). Men hur ser det ut hemma hos er? Har Blu-ray-spelaren överlevt streamingrevolutionen? L&auml;s vidare och kommentera: https://feber.se/har-du-en-blu-ray-spelare/495208/ L&auml;s mer om streaming , Blu-ray , hemmabio , Dolby Atmos , 4K UHD , 4K UHD Blu-ray",
+      "link": "https://feber.se/har-du-en-blu-ray-spelare/495208/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/har-du-en-blu-ray-spelare/495208/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787252400000
+    },
+    {
+      "title": "Admiral Crystal Decanter and Tumbler Set",
+      "description": "",
+      "link": "https://uncrate.com/admiral-crystal-decanter-and-tumbler-set/",
+      "guid": "https://uncrate.com/admiral-crystal-decanter-and-tumbler-set/",
+      "image": "https://uncrate.com/assets_c/2026/08/admiral-crystal-decanter-and-tumbler-set-1-darkened-thumb-960xauto-192627.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1787252400000
+    },
+    {
+      "title": "Varnar för dödsfällan – flera förgiftade i svenska fjällen",
+      "description": "Tidigare i sommar hittades två män döda av förgiftning. Det markerar fem fall på kort tid i svenska fjällen. Nu varnar experter för det farliga misstaget i tältet.",
+      "link": "https://www.expressen.se/nyheter/sverige/varnar-for-dodsfallan-flera-forgiftade-i-talt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/varnar-for-dodsfallan-flera-forgiftade-i-talt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787250885000
+    },
+    {
+      "title": "Pekas ut specifikt: Så hotas Sverige av Ryssland",
+      "description": "Ryssland använder aktivt fastighetsaffärer i sin krigföring. Det skriver italienska media som särskilt pekar ut Sverige och Finland. I april 2025 berättade Dagens PS om hur Ryssland byggt en kyrka vid ett svenskt flygfält, närmare bestämt i Västerås. Rysk-ortodoxa kyrkan hyrde 2017-2022 Marma kyrka som ligger nära ett skjutfält, flera broar över Dalälven, ett vattenkraftverk […]",
+      "link": "https://www.dagensps.se/varlden/pekas-ut-specifikt-sa-hotas-sverige-av-ryssland/",
+      "guid": "https://www.dagensps.se/?p=1666266",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlwyen32fqozk-nh-300x300.webp",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787250658000
+    },
+    {
+      "title": "Premiärdatum satt för The Terminal List säsong två",
+      "description": "Chris Pratt återvänder som James Reece i oktober Fans av Chris Pratt och militärthrillers kan nu börja räkna ner dagarna till den 21 oktober, för då börjar den andra säsongen av The Terminal List på Prime Video. Serien, som bygger på Jack Carrs bästsäljande böcker, kretsar kring Navy SEAL-soldaten James Reece (Chris Pratt). I den kommande säsongen får vi återigen följa Pratt i huvudrollen, men detaljerna kring handlingen är fortfarande ganska oklara. Det verkar dock bli en del explosioner, vilket är bra. L&auml;s vidare och kommentera: https://feber.se/film/premiardatum-satt-for-the-terminal-list-sasong-tva/495214/ L&auml;s mer om Chris Pratt , The Terminal List , Prime Video , Jack Carr , Navy SEAL , James Reece , militärthriller",
+      "link": "https://feber.se/film/premiardatum-satt-for-the-terminal-list-sasong-tva/495214/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/premiardatum-satt-for-the-terminal-list-sasong-tva/495214/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787250600000
+    },
+    {
+      "title": "Drönare vid gasrigg – Rumänien skickar F-16",
+      "description": "Ukraina: Det var inte vår",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/har-forstor-f-16-planen-dronaren",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-forstor-f-16-planen-dronaren",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787250536000
+    },
+    {
+      "title": "Viktor hittade ovanlig femklöver",
+      "description": "Femklöver sägs ge rikedom och ekonomisk framgång. Viktor Liljerås hoppas på detta för Kaffemissionären efter att ha gjort det ovanliga fyndet i Bagarmossen.",
+      "link": "https://www.mitti.se/nyheter/viktor-hittade-ovanlig-femklover-6.3.379653.3fe76d0170",
+      "guid": "https://www.mitti.se/nyheter/viktor-hittade-ovanlig-femklover-6.3.379653.3fe76d0170",
+      "image": "https://www.mitti.se/image-3.378226.302690.20260820185351.7b76322465?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1787250157000
+    },
     {
       "title": "Första titten på Black Myth: Zhong Kui",
       "description": "Game Science visar upp uppföljaren Black Myth: Wukong blev ju lite av en succé och nu har vi fått en rejäl titt på Game Sciences uppföljare, Black Myth: Zhong Kui. Som man kan se i klippet ovan verkar det vara rätt likt föregångaren, så om man vill ha mer Black Myth ser det ut som att man kommer att få det här. L&auml;s vidare och kommentera: https://feber.se/spel/forsta-titten-pa-black-myth-zhong-kui/495213/ L&auml;s mer om Game Science , Black Myth: Zhong Kui , Black Myth: Wukong , datorspel",
@@ -25,7 +175,7 @@
     },
     {
       "title": "Slack lanserar Slack Code",
-      "description": "parprogrammera direkt i Slack Slack vill göra det enklare för utvecklare att bygga appar och fixa buggar utan att behöva hoppa mellan olika fönster. De hoppas göra det via den nya satsningen Slack Code, vilket är särskilda kanaler där människor och AI-agenter kan koda tillsammans. Tanken är att AI-tjänster, som Claude eller Codex, ska kunna behandlas som vanliga kollegor som kan taggas, vilket startar en dedikerad kanal för ett specifikt projekt. I den kanalen kan hela teamet följa kodarbetet i realtid, granska ändringar och se förhandsvisningar av resultatet innan koden commitas. Kanalerna som skapas är tillfälliga för att undvika att det blir stökigt med en massa kanaler överallt. När uppgiften är klar arkiveras de automatiskt, men en logg sparas så att man i efterhand kan gå tillbaka och se exakt vad som gjordes. Slack Code rullas ut nu och blir tillgängligt för alla användare, oavsett vilket abonnemang man har, allt eftersom. L&auml;s vidare och kommentera: https://feber.se/internet/slack-lanserar-slack-code/495212/ L&auml;s mer om Slack , Slack Code , Claude , Codex , AI-agenter , programmering",
+      "description": "Parprogrammera direkt i Slack Slack vill göra det enklare för utvecklare att bygga appar och fixa buggar utan att behöva hoppa mellan olika fönster. De hoppas göra det via den nya satsningen Slack Code, vilket är särskilda kanaler där människor och AI-agenter kan koda tillsammans. Tanken är att AI-tjänster, som Claude eller Codex, ska kunna behandlas som vanliga kollegor som kan taggas, vilket startar en dedikerad kanal för ett specifikt projekt. I den kanalen kan hela teamet följa kodarbetet i realtid, granska ändringar och se förhandsvisningar av resultatet innan koden commitas. Kanalerna som skapas är tillfälliga för att undvika att det blir stökigt med en massa kanaler överallt. När uppgiften är klar arkiveras de automatiskt, men en logg sparas så att man i efterhand kan gå tillbaka och se exakt vad som gjordes. Slack Code rullas ut nu och blir tillgängligt för alla användare, oavsett vilket abonnemang man har, allt eftersom. L&auml;s vidare och kommentera: https://feber.se/internet/slack-lanserar-slack-code/495212/ L&auml;s mer om Slack , Slack Code , Claude , Codex , AI-agenter , programmering",
       "link": "https://feber.se/internet/slack-lanserar-slack-code/495212/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/internet/slack-lanserar-slack-code/495212/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -454,7 +604,7 @@
       "timestamp": 1787237894000
     },
     {
-      "title": "Oljekranen stryps – men golfens elit badar fortfarande i pengar",
+      "title": "Världens bäst betalda golfare badar i pengar",
       "description": "Det var en gång en saudiarabisk statlig investeringsfond med till synes bottenlösa fickor. När LIV Golf klev in på scenen 2022 förvandlades den stillsamma, gentlemannamässiga golfvärlden över en natt till en intensiv budgivningscirkus. Fyra år senare rapporterar Forbes att den saudiarabiska oljekranen börjat skruvas åt och att den förlusttyngda utbrytarligan söker nya investerare för att […]",
       "link": "https://www.dagensps.se/weekend/noje-underhallning/oljekranen-stryps-men-golfens-elit-badar-fortfarande-i-pengar/",
       "guid": "https://www.dagensps.se/?p=1666212",
@@ -504,26 +654,6 @@
       "timestamp": 1787236787000
     },
     {
-      "title": "Krypto lyfter i räntefrossan",
-      "description": "Bitcoin stiger drygt 6 procent mot dollarn till cirka 71 600 dollar, den högsta kursen sedan den 1 juni. Detta är dock fortfarande en bra bit från fjolårets rekordkurs på drygt 124 700 dollar per bitcoin. Kryptovalutor och så kallade kryptoaktier – i bolag som Strategy och Coinbase Global – lyfter för andra dagen i rad efter […]",
-      "link": "https://www.dagensps.se/bors-finans/makro/krypto-lyfter-i-rantefrossan/",
-      "guid": "https://www.dagensps.se/?p=1666203",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/trumpregeringens-intervention-pa-obligat.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787236737000
-    },
-    {
-      "title": "Vi lever allt längre – men fler år går åt till sjukdom",
-      "description": "Människor lever allt längre. Men de extra levnadsåren är inte alltid friska. En global studie visar att tiden vi tillbringar med sjukdom och funktionsnedsättningar växer i nästan hela världen. Vi lever längre än någonsin. Problemet är att vi inte blir friskare i samma takt. ”Under de senaste tre decennierna har världen gjort enorma framsteg när […]",
-      "link": "https://www.dagensps.se/life-science/vi-lever-allt-langre-men-fler-ar-gar-at-till-sjukdom/",
-      "guid": "https://www.dagensps.se/?p=1666202",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/rubyholt.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787236639000
-    },
-    {
       "title": "Ny kompakt och lätt husvagn",
       "description": "Lagom för två personer Amerikanska Motsmanns nya kompakta husvagn Outranger har ett galvat chassi och ett skal i glasfiber. Fjädringen är oberoende, den har elbromsar och 15-tumsfälgar klädda med tjocka 30-tumsdäck. Köket är placerat längst bak och det kommer man åt från utsidan. Vagnen mäter 4,12 meter på längden, 1,83 på bredden och 1,98 på höjden. Vikten ligger på 658 kilo och det finns plats för två personer på insidan. Väl inne är höjden 1,27 meter och det finns en madrass på strax över två meter i längd. Frånpriset ligger på 25.950 dollar. På tillvalslistan finns prylar som solpaneler, större batterier, värme och air condition. Förhandsbeställningarna öppnar den 1 september. L&auml;s vidare och kommentera: https://feber.se/fritid/ny-kompakt-och-latt-husvagn/495183/ L&auml;s mer om husvagn , camper , kompakt , Motsmann Outranger",
       "link": "https://feber.se/fritid/ny-kompakt-och-latt-husvagn/495183/?utm_source=rss&utm_medium=feed",
@@ -562,26 +692,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787235190000
-    },
-    {
-      "title": "Morgan Johanssons kritik mot KD: Stora brister",
-      "description": "Ebba Busch som utrikesminister i en S-regering? Bra idé, enligt S-toppen Anders Ygeman. Partikollegan Morgan Johansson säger blankt nej. – Där ser jag stora brister i Kristdemokraternas politik, säger han i ”Viktor möter” med Viktor Barth-Kron.",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/morgan-johanssons-kritik-mot-kd-stora-brister/",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/morgan-johanssons-kritik-mot-kd-stora-brister/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787234988000
-    },
-    {
-      "title": "Elever saknas efter paddeltur",
-      "description": "Kom inte tillbaka efter paddeltur",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8b4f101f-f888-497e-bd54-06ca44ff31d8",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8b4f101f-f888-497e-bd54-06ca44ff31d8",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787234491000
     },
     {
       "title": "Den här bilen är 100 år och i toppskick – Uffe Grönqvist åker runt i Ekenäs och får folk på gott humör",
@@ -624,16 +734,6 @@
       "timestamp": 1787234117000
     },
     {
-      "title": "Sju år senare: Rickard hittade förlovningsring på botten",
-      "description": "För sju år sen letade Rickard Lehn efter en tappad förlovningsring på Klacksjöns botten. Nu har han hittat den. – Sen visar det sig att de har skilt sig, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/sju-ar-senare-rickard-hittade-forlovningsring-pa-botten/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sju-ar-senare-rickard-hittade-forlovningsring-pa-botten/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787233736000
-    },
-    {
       "title": "Åbo vann lång tvist om smådjursjouren, som fortsätter hos Papuvet",
       "description": "Marknadsdomstolen behandlade ärendet för andra gången, eftersom Högsta förvaltningsdomstolen i mars i år skickade tillbaka ärendet för ny prövning.",
       "link": "https://yle.fi/a/7-10103895?origin=rss",
@@ -664,16 +764,6 @@
       "timestamp": 1787232600000
     },
     {
-      "title": "Misstänkt mordbrand – mänskliga kvarlevor hittade",
-      "description": "Hittade efter misstänkt mordbrand",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5fb75e67-43cd-47b3-8c11-763ed1c90681",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5fb75e67-43cd-47b3-8c11-763ed1c90681",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787232518000
-    },
-    {
       "title": "Här kan du förtidsrösta i Täby",
       "description": "Här kan du rösta i Täby kommun.",
       "link": "https://www.mitti.se/nyheter/har-kan-du-fortidsrosta-i-taby-6.3.379635.2795cb97d6",
@@ -682,26 +772,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787231718000
-    },
-    {
-      "title": "Förvunnen man hittad död i Åmål",
-      "description": "Var borta i tre dagar • Utreds av polis",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ffd4af4d-df77-4105-a47a-6e1def180e53",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ffd4af4d-df77-4105-a47a-6e1def180e53",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787231462000
-    },
-    {
-      "title": "Då ska du ta ny dos – fyra svar om mässlingen",
-      "description": "Mässlingsutbrottet i samband med Urkultfestivalen har väckt många frågor. Här är några av svaren – och ett tips från biträdande statsepidemiolog Stephan Stenmark: – Det här är ett bra tillfälle att se över sitt vaccinskydd, säger han.",
-      "link": "https://www.expressen.se/nyheter/da-ska-du-ta-ny-dos-fyra-svar-om-masslingen/",
-      "guid": "https://www.expressen.se/nyheter/da-ska-du-ta-ny-dos-fyra-svar-om-masslingen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787231064000
     },
     {
       "title": "Två nya offroad-maskiner från Can-Am",
@@ -755,7 +825,7 @@
     },
     {
       "title": "Tesla börjar öppningen av över 250 Superchargers i Sverige",
-      "description": "Fritt fram efter blockaden Efter att IF Metalls blockad mot Tesla nu är avslutad kan företaget inleda öppningen av över 250 redan uppsatta laddstolpar i Sverige. De första åtta öppnade idag i Falköping och härnäst står 20 laddare i Ljungby på tur att få ström i sig. Totalt handlar det om 20 nya platser där laddarna sätts i drift och bland annat kommer två nya stationer mitt i Göteborg totalt 40 Superchargers att öppna. L&auml;s vidare och kommentera: https://feber.se/bil/tesla-borjar-oppningen-av-over-250-superchargers-i-sverige/495199/ L&auml;s mer om Supercharger , laddare , blockad , IF Metall , öppna , ström , elbilar",
+      "description": "Fritt fram efter blockaden Efter att IF Metalls blockad mot Tesla nu är avslutad kan företaget inleda öppningen av över 250 redan uppsatta laddstolpar i Sverige. De första åtta öppnade idag i Falköping och härnäst står 20 laddare i Ljungby på tur att få ström i sig. Totalt handlar det om 20 nya platser där laddarna sätts i drift och bland annat kommer två nya stationer mitt i Göteborg med totalt 40 Superchargers att öppna. L&auml;s vidare och kommentera: https://feber.se/bil/tesla-borjar-oppningen-av-over-250-superchargers-i-sverige/495199/ L&auml;s mer om Supercharger , laddare , blockad , IF Metall , öppna , ström , elbilar",
       "link": "https://feber.se/bil/tesla-borjar-oppningen-av-over-250-superchargers-i-sverige/495199/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/bil/tesla-borjar-oppningen-av-over-250-superchargers-i-sverige/495199/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -915,7 +985,7 @@
     },
     {
       "title": "Det kan vara en Bronco-pickup på gång trots allt",
-      "description": "Men den är nog några år bort Ford har tidigare dementerat ryktena att en pickup-version av modellen Bronco skulle vara på väg. Nu sägs det dock att det visst är en sådan på gång, och den kan vara här innan årtiondet är över. I modell-hierarkin kommer troligtvis den nya bilen att hamna i samma liga som Ranger och kommande eldrivna Fathom . Annat nytt kring Bronco är att det snackas om att en ny Lincoln på samma plattform är på väg. Det ska då handla om en ruggad men lyxig SUV som är lite mer kapabel i terrängen. Denna ska börja tillverkas sommaren 2029 om allt går vägen. L&auml;s vidare och kommentera: https://feber.se/bil/det-kan-vara-en-bronco-pickup-pa-gang-trots-allt/495184/ L&auml;s mer om Bronco , pickup , rykte , pickis , rykte",
+      "description": "Men den är nog några år bort Ford har tidigare dementerat ryktena att en pickup-version av modellen Bronco skulle vara på väg. Nu sägs det dock att det visst är en sådan på gång, och den kan vara här innan årtiondet är över. I modellhierarkin kommer troligtvis den nya bilen att hamna i samma liga som Ranger och kommande eldrivna Fathom . Annat nytt kring Bronco är att det snackas om en ny Lincoln på samma plattform är på väg. Det ska då handla om en ruggad men lyxig SUV som är lite mer kapabel i terrängen. Denna ska börja tillverkas sommaren 2029 om allt går vägen. L&auml;s vidare och kommentera: https://feber.se/bil/det-kan-vara-en-bronco-pickup-pa-gang-trots-allt/495184/ L&auml;s mer om Bronco , pickup , rykte , pickis , rykte",
       "link": "https://feber.se/bil/det-kan-vara-en-bronco-pickup-pa-gang-trots-allt/495184/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/bil/det-kan-vara-en-bronco-pickup-pa-gang-trots-allt/495184/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -1514,16 +1584,6 @@
       "timestamp": 1787167020000
     },
     {
-      "title": "The Oceans",
-      "description": "",
-      "link": "https://uncrate.com/the-oceans/",
-      "guid": "https://uncrate.com/the-oceans/",
-      "image": "https://uncrate.com/assets_c/2026/08/the-oceans-chris-burkard-1-darkened-thumb-960xauto-192612.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1787166180000
-    },
-    {
       "title": "Han flydde från brutala pirater. Så överlevde Philip Ashton i över ett år på en öde ö – med ingenting annat än sina kläder",
       "description": "Vad skulle du ta med dig till en öde ö? En ung fiskare på flykt hamnade på en obebodd ö i Karibien utan så mycket som ett par skor. Friheten fick ett högt pris.",
       "link": "https://varldenshistoria.se/samhalle/amerikas-historia/verklighetens-robinson-crusoe-philip-ashton-tillbringade-nastan-500-dagar-pa-en-ode-o",
@@ -1574,46 +1634,6 @@
       "timestamp": 1787164200000
     },
     {
-      "title": "Gunther Werks snabbaste 911 saknar turbo",
-      "description": "En analog banracer Gunther Werks har tagit fram en ny bil som de kallar för GXR-Evo. Den är anpassad för bankörning och man har fokuserat på att ta fram en så analog upplevelse som möjligt. Därför hittar vi ingen överladdning på motorn som är en boxersexa på 4,0 liter som ger 460 hästar. Denna kopplas i sin tur till en sexpetad manuell låda från Getrag som driver bakhjulen. Fokus har även legat på att hålla nere vikten och tack vare rejält med kolfiber i konstruktionen stannar vågen på 1082 kilo torr. Resultatet blir den snabbaste 911:an som Gunther Werks har byggt. Endast 15 exemplar kommer att tas fram och med bilen kommer köparna även att få en racingsimulator från Mysim som är tillverkad i aluminium och kolfiber, och som har samma ratt som GXR-Evo. Någon prislapp för hela rasket har vi inte fått men billigt lär det inte bli. L&auml;s vidare och kommentera: https://feber.se/bil/gunther-werks-snabbaste-911-saknar-turbo/495140/ L&auml;s mer om GXR-Evo , Gunther Werks , överladdning , Porsche 911 , 911 , snabbast",
-      "link": "https://feber.se/bil/gunther-werks-snabbaste-911-saknar-turbo/495140/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/gunther-werks-snabbaste-911-saknar-turbo/495140/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787162400000
-    },
-    {
-      "title": "Så här kommer Polestar 4 i kombiversion se ut",
-      "description": "AI-bilder förhandsvisar nya modellen Att Polestar 4 kommer i kombiversion, eller som SUV som Polestar kallar det, är ingen hemlighet. Polestar har kört runt med maskerade bilar och även postat maskerade bilder. Men nu har det dykt upp bilder på omaskerade bilar från en transport, vilket gör att vi med säkerhet kan säga hur modellen kommer att se ut. Peter Esse gav i uppgift till Gemini att fixa bilder på hur modellen kommer att se ut. Och de är nog väldigt nära verkligheten. Vad tycker ni, kan det här bli en succé? L&auml;s vidare och kommentera: https://feber.se/bil/sa-har-kommer-polestar-4-i-kombiversion-se-ut/495177/ L&auml;s mer om Polestar 4 , SUV , Peter Esse , Gemini , elbil , kombiversion , kombi",
-      "link": "https://feber.se/bil/sa-har-kommer-polestar-4-i-kombiversion-se-ut/495177/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/sa-har-kommer-polestar-4-i-kombiversion-se-ut/495177/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787161800000
-    },
-    {
-      "title": "Oceanblue Omega-3 Supplements",
-      "description": "",
-      "link": "https://uncrate.com/oceanblue-omega-3-supplements/",
-      "guid": "https://uncrate.com/oceanblue-omega-3-supplements/",
-      "image": "https://uncrate.com/assets_c/2026/08/oceanblue-1-darkened-thumb-960xauto-192580.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1787160446000
-    },
-    {
-      "title": "Seiko Luxe 1970 Heritage Save The Ocean SE Dive Watch",
-      "description": "",
-      "link": "https://uncrate.com/seiko-luxe-1970-heritage-save-the-ocean-se-dive-watch/",
-      "guid": "https://uncrate.com/seiko-luxe-1970-heritage-save-the-ocean-se-dive-watch/",
-      "image": "https://uncrate.com/assets_c/2026/07/seiko-luxe-1970-heritage-save-the-ocean-se-dive-watch-11-thumb-960xauto-192111.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1787158800000
-    },
-    {
       "title": "Yung Lean ställer ut tio års konst",
       "description": "Jonatan Leandoer Håstad, mer känd som Yung Lean, har en utställning med sin egen konst på Gasverket på Torsgatan.",
       "link": "https://www.mitti.se/nyheter/yung-lean-staller-ut-tio-ars-konst-6.3.380842.5d243b07d4",
@@ -1642,16 +1662,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1787155237000
-    },
-    {
-      "title": "Fairphone Gen 6+ Smartphone",
-      "description": "",
-      "link": "https://uncrate.com/fairphone-gen-6-smartphone/",
-      "guid": "https://uncrate.com/fairphone-gen-6-smartphone/",
-      "image": "https://uncrate.com/assets_c/2026/08/fairphone-gen-6-plus-smartphone-1-darkened-thumb-960xauto-192608.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1787155200000
     },
     {
       "title": "Han prisas för sitt mod vid svåra bussolyckan",
@@ -3678,7 +3688,7 @@
       "description": "Gymkedjan STC öppnar gym på Odengatan hösten 2026, i lokalerna där Inferno Online, IO, förut hade ett gamingcenter.",
       "link": "https://www.mitti.se/nyheter/gamingcenter-pa-odenplan-blir-gym-6.3.379588.e6ef8118f9",
       "guid": "https://www.mitti.se/nyheter/gamingcenter-pa-odenplan-blir-gym-6.3.379588.e6ef8118f9",
-      "image": "https://www.mitti.se/image-3.355506.302633.20260820105433.1.de8a5d6d63?format=jpeg",
+      "image": "https://www.mitti.se/image-3.355506.302633.20260820210255.1.d54cb6224b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786784400000
@@ -3818,7 +3828,7 @@
       "description": "Förra hösten gick två tonåringar fram mot en ordningsvakt på Stureplan och avlossade ett vapen. En av dem har redan dömts för försök till mord – och nu har även den misstänkta skytten åtalats.",
       "link": "https://www.mitti.se/nyheter/har-skjuter-pojken-mot-vakten-pa-stureplan-6.3.380269.b3722ece77",
       "guid": "https://www.mitti.se/nyheter/har-skjuter-pojken-mot-vakten-pa-stureplan-6.3.380269.b3722ece77",
-      "image": "https://www.mitti.se/image-3.378326.302931.20260817082718.1.89680a4c09?format=jpeg",
+      "image": "https://www.mitti.se/image-3.378326.302931.20260817091243.1.19f194fcec?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786720321000
