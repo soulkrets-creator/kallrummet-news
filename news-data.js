@@ -1,8 +1,148 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-21T00:39:06.109Z",
+  "updatedAt": "2026-08-21T03:41:15.674Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Morgonkollen: Fem nyheter du behöver ha koll på i dag",
+      "description": "God morgon! Här är nattens och morgonens nyheter med dagens väder.",
+      "link": "https://yle.fi/a/7-10103910?origin=rss",
+      "guid": "https://yle.fi/a/7-10103910",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281876000
+    },
+    {
+      "title": "Kårens hemliga innergård får nytt liv med blomsterträdgård",
+      "description": "Åbo Akademis Studentkår vill satsa på hållbarhet och välmående. Framöver ska studerande bjudas in på talko för att få odla och koppla av i naturen.",
+      "link": "https://yle.fi/a/7-10103855?origin=rss",
+      "guid": "https://yle.fi/a/7-10103855",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281336000
+    },
+    {
+      "title": "Flygplan i krasch i Alaska",
+      "description": "Plan störtade i Alaska",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=63f653d9-5273-4b91-ad78-b93fb5326189",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=63f653d9-5273-4b91-ad78-b93fb5326189",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787281314000
+    },
+    {
+      "title": "Svinpesten oroar östnyländska jägare: ”Vi måste ta det på fullt allvar”",
+      "description": "Hittills har 19 vildsvin dött i afrikansk svinpest. Jägarna i Östnyland gör sig redo att mobilisera om sjukdomen sprider sig.",
+      "link": "https://yle.fi/a/7-10103843?origin=rss",
+      "guid": "https://yle.fi/a/7-10103843",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281218000
+    },
+    {
+      "title": "Inget schema, ingen klocka – mobilförbudet tvingar eleverna att planera på ett helt nytt sätt",
+      "description": "Eleverna ser fördelar med att låsa bort telefonen, men tycker att de borde få kolla till den åtminstone ibland för viktiga meddelanden.",
+      "link": "https://yle.fi/a/7-10103662?origin=rss",
+      "guid": "https://yle.fi/a/7-10103662",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281214000
+    },
+    {
+      "title": "Efter två år – nu väljer Larsmo ny kyrkoherde",
+      "description": "Valet står mellan Daniel Björk, kyrkoherde i Pedersöre och Jukka Hildén, tf kyrkoherde i Larsmo.",
+      "link": "https://yle.fi/a/7-10103738?origin=rss",
+      "guid": "https://yle.fi/a/7-10103738",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281018000
+    },
+    {
+      "title": "Mexikanska fiskare räddades efter fem dagar på havet i en kylbox",
+      "description": "Två fiskare hittades i Stilla havet drygt 240 kilometer från den mexikanska delstaten Chiapas kust.",
+      "link": "https://yle.fi/a/7-10103911?origin=rss",
+      "guid": "https://yle.fi/a/7-10103911",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787281002000
+    },
+    {
+      "title": "Tecknen som avslöjar en narcissistisk chef – därför avskyr de hemarbete",
+      "description": "Forskning visar att chefer med starka narcissistiska drag är betydligt mer benägna att slopa distansarbete. Anledningen är enkel: bekräftelse och makt gör sig bäst inför publik. Här är de viktigaste tecknen på att din chefs motstånd mot hemarbete i själva verket handlar om självbekräftelse. Många chefer vill ha tillbaka sina anställda till kontoret, till varje […]",
+      "link": "https://www.dagensps.se/foretag/tecknen-som-avslojar-en-narcissistisk-chef-darfor-avskyr-de-hemarbete/",
+      "guid": "https://www.dagensps.se/?p=1666311",
+      "image": "https://images.dagensps.se/app/uploads/2026/04/windows-kxiwqtmvfxg-unsplash-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787280462000
+    },
+    {
+      "title": "Från alkohol till narkotika – öppen droganvändning oroar västnyländska krögare",
+      "description": "Det handlar inte längre bara om alkohol. Allt fler kroggäster är påverkade av droger, en trend som oroar personalen och gör deras jobb oförutsägbart.",
+      "link": "https://yle.fi/a/7-10103565?origin=rss",
+      "guid": "https://yle.fi/a/7-10103565",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787280293000
+    },
+    {
+      "title": "Prins Harry och Meghans nya taktik i Storbritannien",
+      "description": "Prins Harry och Meghan återvänder till Storbritannien. I bagaget har de med sig en ny taktik – för att återvinna kungens förtroende. – De kommer inte säga någonting om kungafamiljen offentligt, säger en källa.",
+      "link": "https://www.expressen.se/nyheter/kungligt/prins-harry-och-meghans-nya-taktik-i-storbritannien/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prins-harry-och-meghans-nya-taktik-i-storbritannien/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787280123000
+    },
+    {
+      "title": "Ny brittisk premiärminister igen – så här kan det påverka relationerna till EU",
+      "description": "Sedan Labour återvann makten 2024 har Storbritannien aktivt sökt närmare band med EU, men premiärminister Andy Burnham har varit tystlåten i EU-frågor.",
+      "link": "https://yle.fi/a/7-10103351?origin=rss",
+      "guid": "https://yle.fi/a/7-10103351",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787279411000
+    },
+    {
+      "title": "Skräcksiffror för Republikanerna",
+      "description": "Här är en ny skarp varning till Republikanerna. Med drygt två månader till mellanårsvalet hotar Demokraterna även i delstater som Donald Trump vann enkelt. Kampen om senaten ser ut att bli hård.",
+      "link": "https://www.expressen.se/nyheter/varlden/skracksiffror-for-republikanerna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skracksiffror-for-republikanerna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787277093000
+    },
+    {
+      "title": "Studien avslöjar: Så mycket är de ultrarika skyldiga för miljöförstöring",
+      "description": "Räkningen för klimatförändringar och förlorad biologisk mångfald hamnar sällan hos dem som faktiskt orsakar skadan. Nu finns det för första gången en konkret prislapp på elitens konsumtion som leder till miljöförstöring. De rikaste 10 procenten av världens konsumenter orsakar miljöskador för mellan 17 000 och 57 000 miljarder kronor per år, som Dagens PS berättat. […]",
+      "link": "https://www.dagensps.se/varlden/studien-avslojar-sa-mycket-ar-de-ultrarika-skyldiga-for-miljoforstoring/",
+      "guid": "https://www.dagensps.se/?p=1666305",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlkuy9-yfhvgs-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787275140000
+    },
+    {
+      "title": "Ron DeSantis hotar sin gamla vän med dödsstraff",
+      "description": "Den republikanska toppolitikern Mike Caruso misstänks för sexuella övergrepp mot ett barn. Nu hotas han med dödsstraff – av sin gamla vän Ron DeSantis. – Om han fälls kommer han att få lida ordentligt, säger Floridas guvernör.",
+      "link": "https://www.expressen.se/nyheter/varlden/ron-desantis-hotar-sin-gamla-van-med-dodsstraff/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ron-desantis-hotar-sin-gamla-van-med-dodsstraff/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787273006000
+    },
     {
       "title": "När SoHo House blir för folkligt – nu flyttar eliten kontoret till en flytande medlemsklubb",
       "description": "Det räcker inte längre med ett medlemskap i Soho House eller ett privat flygplan i garaget. För världens absoluta toppskikt har landbaserad lyx blivit alldeles för tillgänglig. Lösningen är en 155 meter lång flytande medlemsklubb. Dagens PS har berättat om Soho House, en kedja av privata medlemsklubbar, som öppnade första klubben i London 1995. Klubben […]",
@@ -404,16 +544,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787246877000
     },
     {
-      "title": "Stormvarning i turistparadiset",
-      "description": "Stormvarningar – regn och åska",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/stormvarning-i-turistparadiset",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stormvarning-i-turistparadiset",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787246548000
-    },
-    {
       "title": "Pilot räddad efter flygolycka i Pieksämäki",
       "description": "Ett småplan sjönk i sjön när det skulle landa i Pieksämäki på torsdagskvällen.",
       "link": "https://yle.fi/a/7-10103908?origin=rss",
@@ -472,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787244320000
-    },
-    {
-      "title": "Johans höbalar på vift – har flutit en halvmil",
-      "description": "Översvämningar. Höga vattenflöden och en stigande vattennivå. Rekordhöga vattenmängder. I Boden har räddningstjänsten gått upp i stabsläge på grund av det kraftiga regnet. Och Johan Risbergs höbalar har flutit i väg. – Tolv stycken är på rymmen!",
-      "link": "https://www.expressen.se/nyheter/vader/johans-hobalar-pa-vift-har-flutit-en-halvmil/",
-      "guid": "https://www.expressen.se/nyheter/vader/johans-hobalar-pa-vift-har-flutit-en-halvmil/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787243453000
     },
     {
       "title": "Fang Cheng Baos senaste är längre än GLS och X7",
@@ -544,36 +664,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787241600000
     },
     {
-      "title": "Greps under filminspelning om brottet",
-      "description": "Misstänks efter Nord Stream-sabotaget",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1d5dc617-2d2e-4766-9adb-7d89e9438e9f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1d5dc617-2d2e-4766-9adb-7d89e9438e9f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787241548000
-    },
-    {
-      "title": "Amazon anklagas: ”Kopierar böcker för att träna AI”",
-      "description": "Amazon köper in fysiska böcker, gärna äldre, och skannar dem sedan. Det hela är en del i att träna Amazons AI-modeller. Amazon erkänner att man köper in böcker via kommersiella kanaler för att utveckla sina produkter. Bekräftelsen kommer sedan en undersökning spårat en stor beställning av sällsynta böcker till en anläggning, där anställda hos Amazon […]",
-      "link": "https://www.dagensps.se/bors-finans/amazon-anklagas-kopierar-bocker-for-att-trana-ai/",
-      "guid": "https://www.dagensps.se/?p=1666231",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlmwchluuxzz0-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787241532000
-    },
-    {
-      "title": "Trenden bruten: Stockholmsbörsen vände upp",
-      "description": "Dystra trenden bruten",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cdf23931-b3e2-47fc-b66b-a6b74972002a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cdf23931-b3e2-47fc-b66b-a6b74972002a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787240942000
-    },
-    {
       "title": "Cancerläkare om nytt melanomvaccin: ”Det här är en stor nyhet”",
       "description": "Ett individuellt cancervaccin baserat på mRNA-teknik har visat goda resultat i behandlingen av hudcancer.",
       "link": "https://yle.fi/a/7-10103896?origin=rss",
@@ -602,16 +692,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787239800000
-    },
-    {
-      "title": "Ny nödlag: Datacenter sist i kön till elnätet",
-      "description": "Danmark inför en nödlag för tillgången till elnätet. Regeringen ska kunna fastställa vilka som prioriteras – och datacenter hamnar sist. Danmark har nu infört en nödlag för tillgången till elnätet, sedan landets energiminister Samira Nawa varnat för att det nuvarande systemet riskerar omställningen till grön energi. De flesta datacenter nedprioriteras i den nya nödlagen, där […]",
-      "link": "https://www.dagensps.se/foretag/ny-nodlag-datacenter-sist-i-kon-till-elnatet/",
-      "guid": "https://www.dagensps.se/?p=1666209",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sdlu5wm5-m1yvu-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787239174000
     },
     {
       "title": "Yles uppgifter: FC Inters mittbackslöfte kan säljas för rekordsumma",
@@ -754,26 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787234117000
     },
     {
-      "title": "Åbo vann lång tvist om smådjursjouren, som fortsätter hos Papuvet",
-      "description": "Marknadsdomstolen behandlade ärendet för andra gången, eftersom Högsta förvaltningsdomstolen i mars i år skickade tillbaka ärendet för ny prövning.",
-      "link": "https://yle.fi/a/7-10103895?origin=rss",
-      "guid": "https://yle.fi/a/7-10103895",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787233335000
-    },
-    {
-      "title": "Kvinna som förde barn till IS-område åtalas",
-      "description": "En kvinna med finskt och ryskt medborgarskap åtalas för två fall av grov människohandel. Hon ska ha fört sina barn till IS-kontrollerade områden i Syrien.",
-      "link": "https://yle.fi/a/7-10103898?origin=rss",
-      "guid": "https://yle.fi/a/7-10103898",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787232628000
-    },
-    {
       "title": "YouTube Premium blir dyrare",
       "description": "Kostar nu 169 kronor i månaden Google har höjt priset för Youtube Premium i Sverige. Månadskostnaden ökar med 20 kronor, från 149 till 169 kronor, vilket alltså innebär en prishöjning på cirka 13,5 procent, rapporterar Swedroid. Den nya prislappen gäller redan nu för nya prenumeranter och träder i kraft vid nästa betalningstillfälle för befintliga kunder. Prenumerationen inkluderar ett reklamfritt Youtube samt musiktjänsten Youtube Music. L&auml;s vidare och kommentera: https://feber.se/internet/youtube-premium-blir-dyrare/495206/ L&auml;s mer om Google , Youtube Premium , Youtube Music , Swedroid , Prishöjning , Sverige",
       "link": "https://feber.se/internet/youtube-premium-blir-dyrare/495206/?utm_source=rss&utm_medium=feed",
@@ -804,16 +864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787230800000
     },
     {
-      "title": "Personbil och ambulans krockade i Vasa på torsdag eftermiddag",
-      "description": "En ambulans ute på brådskande uppdrag krockade med en personbil i korsningen Roparnäsvägen - Melmovägen.",
-      "link": "https://yle.fi/a/7-10103900?origin=rss",
-      "guid": "https://yle.fi/a/7-10103900",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787230619000
-    },
-    {
       "title": "HTV: Träningsklipp från torsdagens pass på Årsta",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-traeningsklipp-fran-torsdagens-pass-pa-arsta",
@@ -822,16 +872,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1787229842000
-    },
-    {
-      "title": "Rumänien stoppade sjödrönare vid gasfält i Svarta havet",
-      "description": "Upptäcktes bara några hundra meter från anläggningen.",
-      "link": "https://yle.fi/a/7-10103890?origin=rss",
-      "guid": "https://yle.fi/a/7-10103890",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787229788000
     },
     {
       "title": "Hundrasen som är överlägset i topp i Tyresö",
@@ -852,46 +892,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787229000000
-    },
-    {
-      "title": "Man som kikade in i polisbil i Tammerfors utreds för brott",
-      "description": "Också polisens agerande utreds.",
-      "link": "https://yle.fi/a/7-10103894?origin=rss",
-      "guid": "https://yle.fi/a/7-10103894",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787228929000
-    },
-    {
-      "title": "SFP vill få tillbaka arbetslöshetspengens barntillägg – vi öppnar upp summorna",
-      "description": "Petteri Orpos regering slopade barntillägget i förmånerna för arbetslösa. Nu vill ledande SFP-politiker att regeringen ångrar sitt beslut.",
-      "link": "https://yle.fi/a/7-10103864?origin=rss",
-      "guid": "https://yle.fi/a/7-10103864",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787228837000
-    },
-    {
-      "title": "SFP vill riva upp beslut om arbetslöshetsstödet – Samlingspartiet säger nej",
-      "description": "Adlercreutz: Om de andra regeringspartierna är emot vårt förslag är vi i en jobbig situation.",
-      "link": "https://yle.fi/a/7-10103876?origin=rss",
-      "guid": "https://yle.fi/a/7-10103876",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787228834000
-    },
-    {
-      "title": "Det här behöver du veta inför kronprinsessparets besök i Vasa",
-      "description": "Yle sänder direkt på webben när kronprinsessan Victoria och prins Daniel besöker Vasa på fredag.",
-      "link": "https://yle.fi/a/7-10103846?origin=rss",
-      "guid": "https://yle.fi/a/7-10103846",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787228250000
     },
     {
       "title": "Forskare röntgenfotograferade föremål från forntidens elit – och gjorde ett oväntat fynd inuti dem som pekar ut förbi vår egen planet",
@@ -3818,7 +3818,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Förra hösten gick två tonåringar fram mot en ordningsvakt på Stureplan och avlossade ett vapen. En av dem har redan dömts för försök till mord – och nu har även den misstänkta skytten åtalats.",
       "link": "https://www.mitti.se/nyheter/har-skjuter-pojken-mot-vakten-pa-stureplan-6.3.380269.b3722ece77",
       "guid": "https://www.mitti.se/nyheter/har-skjuter-pojken-mot-vakten-pa-stureplan-6.3.380269.b3722ece77",
-      "image": "https://www.mitti.se/image-3.378326.302931.20260817091243.1.19f194fcec?format=jpeg",
+      "image": "https://www.mitti.se/image-3.378326.302931.20260817082718.1.89680a4c09?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1786720321000
