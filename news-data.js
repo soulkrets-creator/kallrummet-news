@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-22T18:13:27.196Z",
+  "updatedAt": "2026-08-22T21:11:17.705Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Larmet inifrån: Putins krigsmaskin spricker",
+      "description": "Putins krigsmaskin börjar spricka. Ukraina slår hårt – och det larmas inifrån om att Ryssland inte kan hålla emot. Men presidenten lovar att svara med samma mynt.",
+      "link": "https://www.expressen.se/nyheter/varlden/larmet-inifran-putins-krigsmaskin-spricker/",
+      "guid": "https://www.expressen.se/nyheter/varlden/larmet-inifran-putins-krigsmaskin-spricker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787431328000
+    },
+    {
+      "title": "Adhd-forskare: En viss faktor kan skydda ditt barn mot symtomen, visar stor studie",
+      "description": "Barnpsykiatrikern Berit Skretting Solberg har följt 38 000 familjer i tio år. Nu pekar hon på en specifik faktor som kan minska ditt barns risk att utveckla adhd-symtom.",
+      "link": "https://illvet.se/halsa/hon-har-arbetat-med-adhd-i-25-ar-en-viss-faktor-kan-skydda-ditt-barn-mot-symtomen-visar-stor-studie",
+      "guid": "https://illvet.se/halsa/hon-har-arbetat-med-adhd-i-25-ar-en-viss-faktor-kan-skydda-ditt-barn-mot-symtomen-visar-stor-studie",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1787430653000
+    },
+    {
+      "title": "Elena miste sin bästa vän i svärdattacken i Fagersta",
+      "description": "Tiden flög förbi när Elena och hennes bästa vän umgicks. De skämtade, delade sina problem och pratade om framtiden. I fredags förändrades plötsligt allt. – Jag ville inte tro att det var sant, säger Elena.",
+      "link": "https://www.expressen.se/nyheter/sverige/elena-miste-sin-basta-van-i-svardattacken-i-fagersta/",
+      "guid": "https://www.expressen.se/nyheter/sverige/elena-miste-sin-basta-van-i-svardattacken-i-fagersta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787428627000
+    },
+    {
+      "title": "Robot sprang snabbare än Usain Bolt och robotfotbollen bjöd på dramatik",
+      "description": "På lördagen sprang en kinesisk robot sträckan 100 meter på en kortare tid än någon människa lyckats med.",
+      "link": "https://yle.fi/a/7-10103984?origin=rss",
+      "guid": "https://yle.fi/a/7-10103984",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787427489000
+    },
+    {
+      "title": "Gamla fossil ger nytt hopp: Livet i havet övervinner allt",
+      "description": "Klimatförändringarna hotar livet i haven, men det finns hopp. Den danske paleontologen Thomas Holm Scharling har studerat tandfossil från Svalbard, som visar att marint liv har en häpnadsväckande förmåga att återhämta sig från de värsta tänkbara katastroferna.",
+      "link": "https://illvet.se/forntiden/forntidsdjur/gamla-fossil-ger-nytt-hopp-havslivet-har-en-hapnadsvackande-formaga-att-hamta-sig-efter-de-varsta-katastroferna",
+      "guid": "https://illvet.se/forntiden/forntidsdjur/gamla-fossil-ger-nytt-hopp-havslivet-har-en-hapnadsvackande-formaga-att-hamta-sig-efter-de-varsta-katastroferna",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1787427034000
+    },
+    {
+      "title": "Djurgården anmäler hot mot huvudtränaren Jani Honkavaara: ”Helt oacceptabelt”",
+      "description": "Enligt Fotbollskanalen har ett kors riktat mot Djurgårdens huvudtränare Jani Honkavaara satts upp vid lagets träningsanläggning. Klubben har polisanmält händelsen.",
+      "link": "https://yle.fi/a/7-10103983?origin=rss",
+      "guid": "https://yle.fi/a/7-10103983",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787425409000
+    },
+    {
+      "title": "De drunknade när Vasa sjönk. Nu kan historiker berätta mer om en förbisedd del av katastrofen",
+      "description": "Fartyget hann bara segla i 20 minuter innan en fruktansvärd tragedi inträffade. Ändå drunknade omkring 30 personer vid förlisningen, som historikerna hittills har vetat mycket lite om.",
+      "link": "https://varldenshistoria.se/samhalle/katastrofer/de-drunknade-nar-vasa-sjonk-nu-kan-historiker-beratta-mer-om-en-forbisedd-del-av-katastrofen",
+      "guid": "https://varldenshistoria.se/samhalle/katastrofer/de-drunknade-nar-vasa-sjonk-nu-kan-historiker-beratta-mer-om-en-forbisedd-del-av-katastrofen",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1787425231000
+    },
+    {
+      "title": "Putins löfte om demokrati",
+      "description": "”Kommer genomföras på olika nivåer”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/putins-lofte-om-demokrati",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/putins-lofte-om-demokrati",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787423225000
+    },
     {
       "title": "Strömmer om mobilförbudet – ”förstår föräldrars frustration”",
       "description": "En närliggande grundskola inrymdes under skolattacken i Fagersta. Men föräldrar kunde först inte nå sina barn – på grund av nya mobilförbudet. – Såna här erfarenheter måste tas på största allvar, säger justitieminister Gunnar Strömmer till Expressen. Håll dig uppdaterad om skolattacken i Fagersta – ladda ner Expressens app",
@@ -42,16 +122,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1787419748000
-    },
-    {
-      "title": "Putins löfte om demokrati",
-      "description": "”Kommer genomföras på olika nivåer”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/putins-lofte-om-demokrati",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/putins-lofte-om-demokrati",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787419602000
     },
     {
       "title": "Motståndarkollen: GAIS",
@@ -142,6 +212,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1787414775000
+    },
+    {
+      "title": "En 1 700 år gammal rustning avslöjar världens äldsta spår av en speciell metallteknik",
+      "description": "Efter 1 700 år i jorden lyser rustningsdelarna fortfarande silvervita. Förklaringen är en särskild teknik i industriell skala, som enligt ny forskning aldrig förut har dokumenterats så tidigt någonstans i världen.",
+      "link": "https://varldenshistoria.se/civilisationer/det-gamla-kina/kinesisk-rustning-avslojar-1-700-ar-gammal-teknik-mot-rost",
+      "guid": "https://varldenshistoria.se/civilisationer/det-gamla-kina/kinesisk-rustning-avslojar-1-700-ar-gammal-teknik-mot-rost",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1787414426000
     },
     {
       "title": "EIF:s poängsvit tog slut – KTP vann knappt i Ekenäs",
@@ -264,7 +344,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787406826000
     },
     {
-      "title": "Hårda regn är att vänta i södra Finland och till havs i natt",
+      "title": "Hårda regn är att vänta i södra Finland och till havs natten till söndagen",
       "description": "Det kan bli riktigt blåsigt och regnigt i södra och östra Finland. Hårdast drabbas den yttre skärgården i Finska viken.",
       "link": "https://yle.fi/a/7-10103978?origin=rss",
       "guid": "https://yle.fi/a/7-10103978",
@@ -574,16 +654,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787392310000
     },
     {
-      "title": "Greps på Strömmers möte – med skyddsväst och soft air gun",
-      "description": "En man kom fram till Gunnar Strömmer under ett valmöte i Göteborg och ville ”ställa frågor”. Kort därefter greps han och en annan man av polisen. När männen greps bar de på var sin soft airgun, rapporterar Aftonbladet . En av dem ska även ha haft på sig en skyddsväst.",
-      "link": "https://www.expressen.se/nyheter/politik/greps-pa-strommers-mote-med-skyddsvast-och-soft-air-gun/",
-      "guid": "https://www.expressen.se/nyheter/politik/greps-pa-strommers-mote-med-skyddsvast-och-soft-air-gun/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787392233000
-    },
-    {
       "title": "HTV: Intervju med Henrik inför GAIS hemma",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-intervju-med-henrik-infoer-gais-hemma",
@@ -652,16 +722,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1787387679000
-    },
-    {
-      "title": "Nooshi Dadgostar ställer in sitt sommartal",
-      "description": "Hänvisar till Fagersta",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=8d7028b7-91d1-4d0b-88e7-251cfc99130b",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=8d7028b7-91d1-4d0b-88e7-251cfc99130b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787386658000
     },
     {
       "title": "Trodde Albert Einstein på Gud? Spinozas filosofi ger svaret",
@@ -904,16 +964,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787378400000
     },
     {
-      "title": "Nykomlingen Coventry fick svettig premiär mot regerande mästarna Arsenal: ”Ska inte få definiera vår säsong”",
-      "description": "Det var aldrig något snack om saken. Arsenal satte ner foten och tog en komfortabel seger med 3–0 över nykomlingen Coventry i Premier League-premiären.",
-      "link": "https://yle.fi/a/7-10103971?origin=rss",
-      "guid": "https://yle.fi/a/7-10103971",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787376096000
-    },
-    {
       "title": "Väsbybor skapade eget brädspel – hoppas vinna guldtärningen",
       "description": "Väsbybor skapade partyspelet ”Vad snackar du om?” – siktar på Guldtärningen.",
       "link": "https://www.mitti.se/nyheter/vasbybor-skapade-eget-bradspel--hoppas-vinna-guldtarningen-6.3.379556.a46654e1e6",
@@ -922,16 +972,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787375735000
-    },
-    {
-      "title": "Simmis förlänger säsongen på grund av branden i Ekenäs simhall",
-      "description": "Simövervakare finns på plats vid utomhusbadet Simmis hela augusti. Raseborgs stad har omfördelat resurser efter simhallsbranden i maj.",
-      "link": "https://yle.fi/a/7-10103672?origin=rss",
-      "guid": "https://yle.fi/a/7-10103672",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787375114000
     },
     {
       "title": "En video av en gammal vattenpump blev viral – nu har forskare hittat ett djur i marken som de aldrig har sett förut",
@@ -2374,16 +2414,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787222579000
     },
     {
-      "title": "Stjärnskådarens guide till utrustning: Hemmaobservatoriet",
-      "description": "Med rätt utrustning kan du se några av universums allra mest storslagna fenomen och ta bilder som är nästan lika spektakulära som dem som forskare tar med avancerade teleskop. Vi guidar dig till hur du skaffar ett eget astronomiskt observatorium.",
-      "link": "https://illvet.se/universum/stjarnskadarens-guide-till-utrustning-hemmaobservatoriet",
-      "guid": "https://illvet.se/universum/stjarnskadarens-guide-till-utrustning-hemmaobservatoriet",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1787220011000
-    },
-    {
       "title": "Nu rullas nya sopkärlen ut – men öarna får vänta",
       "description": "Haninge får nya kärl för fastighetsnära insamling av plast och papper. Men boende på öarna får vänta, kanske till 2028. Här är allt om utrullningen, priserna och de nya reglerna.",
       "link": "https://www.mitti.se/nyheter/nu-rullas-nya-sopkarlen-ut--men-oarna-far-vanta-6.3.380227.c6613c0098",
@@ -2462,16 +2492,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787216573000
-    },
-    {
-      "title": "Parasit får smaka sin egen medicin",
-      "description": "Hjärntvättarstekeln äter den fastklämda larven inifrån och på våren kryper den ut från pannan på sin döda värd.",
-      "link": "https://illvet.se/djur/parasit-far-smaka-sin-egen-medicin",
-      "guid": "https://illvet.se/djur/parasit-far-smaka-sin-egen-medicin",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1787216405000
     },
     {
       "title": "Biljetter till bortamötet med Degerfors släppta",
@@ -2744,16 +2764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787171423000
     },
     {
-      "title": "Han flydde från brutala pirater. Så överlevde Philip Ashton i över ett år på en öde ö – med ingenting annat än sina kläder",
-      "description": "Vad skulle du ta med dig till en öde ö? En ung fiskare på flykt hamnade på en obebodd ö i Karibien utan så mycket som ett par skor. Friheten fick ett högt pris.",
-      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/verklighetens-robinson-crusoe-philip-ashton-tillbringade-nastan-500-dagar-pa-en-ode-o",
-      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/verklighetens-robinson-crusoe-philip-ashton-tillbringade-nastan-500-dagar-pa-en-ode-o",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1787166012000
-    },
-    {
       "title": "Kortast på fem år – fick lägenhet på mindre än en vecka",
       "description": "En stundet fick en lägenhet i Albano med bara tre dagars kötid i bostadskön.",
       "link": "https://www.mitti.se/nyheter/kortast-pa-fem-ar--fick-lagenhet-pa-mindre-an-en-vecka-6.3.379317.115b05d930",
@@ -2792,16 +2802,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787157900000
-    },
-    {
-      "title": "Harry Potter-fans räddade fiktiv grav – istället hamnade elkabeln nära äkta bronsåldersgravar",
-      "description": "Elkablarna kom mycket nära äkta 3 700 år gamla bronsåldersgravar i Wales, som ger nya insikter i begravningssedvänjorna från den tiden.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/harry-potter-fans-raddade-fiktiv-grav-istallet-hamnade-elkabeln-nara-akta-bronsaldersgravar",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/harry-potter-fans-raddade-fiktiv-grav-istallet-hamnade-elkabeln-nara-akta-bronsaldersgravar",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1787155237000
     },
     {
       "title": "Han prisas för sitt mod vid svåra bussolyckan",
