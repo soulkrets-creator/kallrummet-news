@@ -1,8 +1,48 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-22T00:36:33.178Z",
+  "updatedAt": "2026-08-22T03:33:24.732Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Så här lockar de svenskspråkiga utbildningarna: Ekonomi i topp, juridik växer snabbast",
+      "description": "Vi har tagit reda på vilka utbildningar som lockade flest sökande vid årets gemensamma ansökan till högskolor.",
+      "link": "https://yle.fi/a/7-10103184?origin=rss",
+      "guid": "https://yle.fi/a/7-10103184",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787369147000
+    },
+    {
+      "title": "Tiktok ska betala 400 miljoner dollar till USA",
+      "description": "Efter anklagelser om olaglig insamling av barns data ska Tiktok och moderbolaget Bytedance nu betala 400 miljoner dollar till den amerikanska staten.",
+      "link": "https://yle.fi/a/7-10103968?origin=rss",
+      "guid": "https://yle.fi/a/7-10103968",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787368536000
+    },
+    {
+      "title": "Kaoset på Pentagon fortsätter – ny minister lämnar",
+      "description": "Ny vecka – nya uppsägningsbrev på Pentagon. Denna gång är det arméminister Dan Driscoll, en nära vän till JD Vance, som avgår. Detta efter flera stora bråk med krigsminister Pete Hegseth, enligt The Telegraph.",
+      "link": "https://www.expressen.se/nyheter/varlden/kaoset-pa-pentagon-fortsatter-ny-minister-lamnar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/kaoset-pa-pentagon-fortsatter-ny-minister-lamnar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787367558000
+    },
+    {
+      "title": "Putin överger lyxpalats – efter ukrainskt drönarhot",
+      "description": "Innan kriget besökte Putin sitt lyxresidens i Sotji ofta. Men ukrainska drönare har gjort svartahavskusten till en farlig plats. Nu har han inte varit där på nästan ett år, skriver Financial Times.",
+      "link": "https://www.expressen.se/nyheter/varlden/putin-overger-lyxpalats-efter-ukrainskt-dronarhot/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-overger-lyxpalats-efter-ukrainskt-dronarhot/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787361350000
+    },
     {
       "title": "Richard Halliburton's Laguna Beach Hangover House",
       "description": "",
@@ -974,16 +1014,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1787313285000
     },
     {
-      "title": "Misstänkte Brattåsmördaren: Jag fick panik",
-      "description": "Den misstänkte Brattåsmördaren fortsatte hävda sin oskuld när han hördes i Ångermanlands tingsrätt. – Det är jobbigt att bli anklagad. Det är uppenbart att polisen tror att jag ljuger, säger han i rätten.",
-      "link": "https://www.expressen.se/nyheter/sverige/misstankte-brattasmordaren-jag-fick-panik/",
-      "guid": "https://www.expressen.se/nyheter/sverige/misstankte-brattasmordaren-jag-fick-panik/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787313187000
-    },
-    {
       "title": "Mässlingutbrottet: 880 procents ökning av vaccinbokningar",
       "description": "Så många bokar vaccin mot Mässlingen i Stockholm efter utbrottet vid Urkult",
       "link": "https://www.mitti.se/nyheter/masslingutbrottet-880-procents-okning-av-vaccinbokningar-6.3.381587.79d3c983b0",
@@ -992,16 +1022,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787312927000
-    },
-    {
-      "title": "Larm om person som trillat ned i brunn i Borås",
-      "description": "Räddningstjänsten: ”Vi har inte hittat någon”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea45bf46-7e8b-4bfe-b6c1-c06ee9919d73",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea45bf46-7e8b-4bfe-b6c1-c06ee9919d73",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787312918000
     },
     {
       "title": "Jasmine, 20, blev filmad i fem år – nu är det premiär",
@@ -1212,26 +1232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1787303531000
-    },
-    {
-      "title": "Övningsgranat exploderade i handen på en beväring",
-      "description": "Olyckan inträffade i Niinisalo i Satakunta. Beväringen skadades lindrigt i händelsen.",
-      "link": "https://yle.fi/a/7-10103937?origin=rss",
-      "guid": "https://yle.fi/a/7-10103937",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787303234000
-    },
-    {
-      "title": "Trist prognos för rågälskare: Skörden räcker inte till",
-      "description": "Rågskörden väntas bli 14 miljoner kilogram mindre än vad finländarna behöver, förutspår Naturresursinstitutet Luke.",
-      "link": "https://yle.fi/a/7-10103930?origin=rss",
-      "guid": "https://yle.fi/a/7-10103930",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787303053000
     },
     {
       "title": "Startskott för ny live-scen i Hammarbyhöjden",
