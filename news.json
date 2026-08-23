@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:39:20.382Z",
+  "updatedAt": "2026-08-23T03:40:57.364Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
@@ -11,7 +11,37 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787444862000
+      "timestamp": 1787455647000
+    },
+    {
+      "title": "14-åriga Vilho Zeller i Sibbo flyttar ormar som yrke",
+      "description": "Familjen Zeller bor på en ormrik tomt. Sonen har under årens lopp lärt sig handskas med ormar och tar emot uppdrag att flytta dem till hemlig plats.",
+      "link": "https://yle.fi/a/7-10103671?origin=rss",
+      "guid": "https://yle.fi/a/7-10103671",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787454014000
+    },
+    {
+      "title": "De räddar liv på havet – utan att få betalt",
+      "description": "De rycker ut utan lön, mitt under semestern. Ena stunden är det en båtbrand. Nästa letar de efter människor i vattnet. – Då får man pulspåslag, säger sjöräddaren Joakim Westin. Expressen följer en jourstyrka under ett skift i Stockholms skärgård.",
+      "link": "https://www.expressen.se/nyheter/sverige/de-raddar-liv-pa-havet-utan-att-fa-betalt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/de-raddar-liv-pa-havet-utan-att-fa-betalt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787454000000
+    },
+    {
+      "title": "Nya uppgifter – efter 16 barn hittade i ”skräckhus”",
+      "description": "I juni slog polisen till mot ett hus i Hamden, Ohio. I huset hittades 16 barn som alla levde i en ”omänsklig och avföringstäckt miljö”. Föräldrarna Gary och Elizabeth Siders misstänks för flera brott – och nu kommer nya uppgifter kring ”skräckhuset”.",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-efter-16--barn-hittade-i-skrackhus/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-efter-16--barn-hittade-i-skrackhus/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787450858000
     },
     {
       "title": "Svarar Trump – efter tullhoten: ”Vi är i krig”",
@@ -594,26 +624,6 @@
       "timestamp": 1787399204000
     },
     {
-      "title": "Mc och bil i krock – ambulanshelikopter på väg",
-      "description": "Ambulanshelikopter på väg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=eebb67ce-8415-49b0-9506-f614f44dab70",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=eebb67ce-8415-49b0-9506-f614f44dab70",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787397572000
-    },
-    {
-      "title": "Polisen om Fagersta: Gärningsmannen träffades inte av skott",
-      "description": "”Viktigt med detaljerna” • Misstänkts träffades inte",
-      "link": "https://www.expressen.se/nyheter/sverige/direktrapport-skolattacken-i-fagersta/?post=577a7950-dc9f-4884-a8ab-f4545ba1d04f",
-      "guid": "https://www.expressen.se/nyheter/sverige/direktrapport-skolattacken-i-fagersta/?post=577a7950-dc9f-4884-a8ab-f4545ba1d04f",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787397150000
-    },
-    {
       "title": "Första teasern för Blue Eye Samurai säsong två",
       "description": "Mizu beger sig mot London Blue Eye Samurai är ett exempel på en serie som alla hyllar till skyarna men som jag själv anser är extremt mid. Men jag är fullt medveten om att jag är i minoriteten när det gäller detta så antagligen blir ju de flesta glada av att se den första teasern för seriens andra säsong ovan. I denna säsong beger sig Mizu mot Europa för att döda lite folk i London. Det dröjer dock ett tag innan vi får se denna säsong då den inte släpps förrän i januari 2027. En tredje, och avslutande, säsong är också bokad till någon gång under 2028. L&auml;s vidare och kommentera: https://feber.se/film/forsta-teasern-for-blue-eye-samurai-sasong-tva/495259/ L&auml;s mer om Blue Eye Samurai , Netflix , Mizu , London , Europa , TV-serier , anime , säsong 2",
       "link": "https://feber.se/film/forsta-teasern-for-blue-eye-samurai-sasong-tva/495259/?utm_source=rss&utm_medium=feed",
@@ -942,16 +952,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1787379648000
-    },
-    {
-      "title": "Dialektquiz: Vad är en tyril och när har man dåligt klyyvanhovo?",
-      "description": "Testa vad du kan om österbottniska dialekter.",
-      "link": "https://yle.fi/a/7-10103931?origin=rss",
-      "guid": "https://yle.fi/a/7-10103931",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787378414000
     },
     {
       "title": "Snart dags för mer sjukhusdrama",
