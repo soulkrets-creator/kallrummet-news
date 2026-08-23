@@ -1,11 +1,81 @@
 {
-  "updatedAt": "2026-08-23T18:13:42.128Z",
+  "updatedAt": "2026-08-23T21:11:06.532Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Tiotusentals demonstrerade för klimatet i Stockholm",
-      "description": "Greta Thunberg säger enligt Aftonbladet att hon inte sett den här storleken av demonstrationer för klimatet i Sverige på väldigt många år.",
+      "title": "Åkessons deadline till L: ”Då är det bortkastade röster”",
+      "description": "Åkesson har uppmanat sina väljare att ta avstånd från L. Nu sätter han en skarp deadline. – Ligger man så långt under spärren tio dagar före ett val så är det bortkastade röster, säger han i SVT.",
+      "link": "https://www.expressen.se/nyheter/politik/akessons-deadline-till-l-da-ar-det-bortkastade-roster/",
+      "guid": "https://www.expressen.se/nyheter/politik/akessons-deadline-till-l-da-ar-det-bortkastade-roster/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787517381000
+    },
+    {
+      "title": "Misstänkte skolmördarens sista tid innan dådet",
+      "description": "Han kom lite sent men ”var som vanligt” den första skoldagen. Dagen efter spelade han på onlineplattformen Roblox och chattade med en vän. I hemlighet planerade Liam Nebel, 18, att utföra ett skoldåd, enligt polisens misstankar. Här är den mordmisstänkte 18-åringens sista tid innan svärdattacken.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstankte-skolmordarens-sista-tid-innan-dadet/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankte-skolmordarens-sista-tid-innan-dadet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787515981000
+    },
+    {
+      "title": "Rökutveckling på flygplan",
+      "description": "Tvingades landa på Arlanda",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e547e664-67a5-4185-98b4-f5ac5ff280d8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e547e664-67a5-4185-98b4-f5ac5ff280d8",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787515785000
+    },
+    {
+      "title": "Åkessons gräns mot L",
+      "description": "Frågas ut i SVT",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9adeb4de-05a9-4040-95d1-9b635a127f12",
+      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9adeb4de-05a9-4040-95d1-9b635a127f12",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787515775000
+    },
+    {
+      "title": "Jamie Olivers megautdelning: 92 procent av vinsten",
+      "description": "Kändiskocken Jamie Oliver och hans partner tog ut 1,5 miljoner pund i utdelning, drygt 19 miljoner kronor, vilket motsvarar cirka 92 procent av årets resultat efter skatt. Det har dock inte gått bra på alla fronter. Dagens PS besökte Jamie Olivers huvudkontor i London i fjol. Nu syns vad verksamheten levererar i siffror. Jamie Oliver […]",
+      "link": "https://www.dagensps.se/bors-finans/jamie-olivers-megautdelning-92-procent-av-vinsten/",
+      "guid": "https://www.dagensps.se/?p=1666881",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-29.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787514134000
+    },
+    {
+      "title": "Norska kungens hälsotillstånd försämrades under helgen",
+      "description": "Kung Harald togs in på sjukhus för en knapp vecka sedan. Nu meddelar kungahuset att hans tillstånd har försämrats. Han har en bakterieinfektion i blodet.",
+      "link": "https://yle.fi/a/7-10103999?origin=rss",
+      "guid": "https://yle.fi/a/7-10103999",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787510044000
+    },
+    {
+      "title": "Emelie återförenad med sin biologiska familj: ”Mitt hjärta blev helt”",
+      "description": "Emelie Moe, 26, adopterades från Colombia till Sverige när hon var barn. För ett år sedan återförenades hon med sin biologiska helsyster – efter att ha fått upp henne på Tiktok av en slump. Nu har de träffat sin biologiska mamma i Bogotá. – Jag tror inte att jag mått så här som jag mår nu sedan jag var en liten flicka, säger Emelie.",
+      "link": "https://www.expressen.se/nyheter/sverige/emelie-aterforenad-med-sin-biologiska-familj-mitt-hjarta-blev-helt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/emelie-aterforenad-med-sin-biologiska-familj-mitt-hjarta-blev-helt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787509625000
+    },
+    {
+      "title": "Greta Thunberg: ”Inte sett så här stora klimatdemonstrationer i Sverige på väldigt många år”",
+      "description": "Tiotusentals människor demonstrerade för klimatet i Stockholm på söndagen.",
       "link": "https://yle.fi/a/7-10103997?origin=rss",
       "guid": "https://yle.fi/a/7-10103997",
       "image": "",
@@ -604,26 +674,6 @@
       "timestamp": 1787479200000
     },
     {
-      "title": "Åkesson skarpa uppmaning – tar avstånd från L: ”Varit en bromskloss”",
-      "description": "”Sverigedemokrater stödröstar inte på Liberalerna”. Så lyder beskedet från Jimmie Åkesson i ett inlägg på X. Han kallar även L för en ”bromskloss” och ”politiska motståndare”.",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-skarpa-uppmaning-tar-avstand-fran-l-varit-en-bromskloss/",
-      "guid": "https://www.expressen.se/nyheter/politik/akesson-skarpa-uppmaning-tar-avstand-fran-l-varit-en-bromskloss/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787478905000
-    },
-    {
-      "title": "SL varnar – stor klimatdemonstration i centrala Stockholm",
-      "description": "Tiotusentals människor kan komma att tåga genom Stockholms gator under söndagen. Demonstrationen anordnas till stöd för klimatet. – Det gäller vår framtid, säger Liora, 15, till Expressen.",
-      "link": "https://www.expressen.se/nyheter/sverige/sl-varnar--stor-klimatdemonstration-i-centrala-stockholm/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sl-varnar--stor-klimatdemonstration-i-centrala-stockholm/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787478884000
-    },
-    {
       "title": "Zelenskyj: Ryssland mobiliserar 300 000 nya soldater efter dumavalet i september",
       "description": "President Volodymyr Zelenskyj håller också fast vid att val inte kan ordnas i Ukraina så länge kriget pågår. Det skulle vara mycket farligt, säger han.",
       "link": "https://yle.fi/a/7-10103989?origin=rss",
@@ -652,16 +702,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1787476123000
-    },
-    {
-      "title": "Putins ilska mot Ukraina",
-      "description": "Kommenterar ukrainska attackerna",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/putin-ukrainas-forslag-ar-oacceptabla",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/putin-ukrainas-forslag-ar-oacceptabla",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787475994000
     },
     {
       "title": "I 30 år har en mystisk spökpartikel hemsökt fysiker – men nu har en lärare vid ett universitet gjort en upptäckt som kan förändra allt",
@@ -712,26 +752,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1787474776000
-    },
-    {
-      "title": "Nästan alla granskade rabatter var falska – nu får klädjätten böta",
-      "description": "Rabatt behöver inte alltid betyda lägre pris. Hos klädjätten Boohoo var det ibland precis tvärtom. Nu får företaget böta 2,33 miljoner euro efter en fransk granskning. Stora röda prislappar, överstrukna priser och lockande procentsatser. På Boohoos franska sajt såg kunderna ut att kunna göra det ena fyndet efter det andra. Problemet var bara att fynden […]",
-      "link": "https://www.dagensps.se/foretag/nastan-alla-granskade-rabatter-var-falska-nu-far-kladjatten-bota/",
-      "guid": "https://www.dagensps.se/?p=1666815",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/pexels-mart-production-7679796.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787473574000
-    },
-    {
-      "title": "Storbråk på bröllop i Salem",
-      "description": "Polisen: Någon tafsade på gäst • Använde pepparsprej",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8db99609-e7d6-4b6b-8c35-26776c2cb8d3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8db99609-e7d6-4b6b-8c35-26776c2cb8d3",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787472799000
     },
     {
       "title": "Får man vara otrogen mot sin frisör?",
@@ -832,16 +852,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1787467251000
-    },
-    {
-      "title": "Flera nordiska ledare på tvådagarsbesök i Kiev",
-      "description": "Norges statsminister Jonas Gahr Støre, Danmarks statsminister Mette Frederiksen och Finlands president Alexander Stubb har anlänt i Kiev. De nordiska ledarna deltar i toppmöten och i firandet av Ukrainas självständighetsdag i morgon.",
-      "link": "https://www.expressen.se/nyheter/varlden/flera-nordiska-ledare-pa-tvadagarsbesok-i-kiev/",
-      "guid": "https://www.expressen.se/nyheter/varlden/flera-nordiska-ledare-pa-tvadagarsbesok-i-kiev/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787466826000
     },
     {
       "title": "Analys: Statsministerns nyaste problem är det sturska och ångerköpta SFP",
@@ -952,16 +962,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1787463197000
-    },
-    {
-      "title": "”Jag får panik av tanken på att dottern ska flytta hemifrån”",
-      "description": "Endera dagen svär du över bergen av smutsiga sneakers i tamburen och att mjölken är slut igen. Men plötsligt blir det tyst och tomt. Barnen har flyttat.",
-      "link": "https://yle.fi/a/7-10103858?origin=rss",
-      "guid": "https://yle.fi/a/7-10103858",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787462414000
     },
     {
       "title": "\"Skrota 15-våningshuset i Elis park\"",
@@ -2078,7 +2078,7 @@
       "description": "Fritidsbiblioteket i Husby öppnar en filial i Spånga by. Här kan barn, unga och vuxna låna sport- och fritidsutrustning gratis i två veckor.",
       "link": "https://www.mitti.se/nyheter/efter-succen-i-husby--har-oppnar-nytt-fritidsbibliotek-6.3.380623.b5844dd063",
       "guid": "https://www.mitti.se/nyheter/efter-succen-i-husby--har-oppnar-nytt-fritidsbibliotek-6.3.380623.b5844dd063",
-      "image": "https://www.mitti.se/image-3.379135.304109.20260821133910.c65f9daa8f?format=jpeg",
+      "image": "https://www.mitti.se/image-3.379135.304109.20260823183851.b3cb491866?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787317677000
