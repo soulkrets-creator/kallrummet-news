@@ -1,8 +1,148 @@
 {
-  "updatedAt": "2026-08-24T18:23:17.240Z",
+  "updatedAt": "2026-08-24T21:18:30.398Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Prinsessan Madeleine: Det får jag aldrig göra för Chris",
+      "description": "De har varit ett par i 16 år och har tre barn ihop. Men det finns en sak som prinsessan Madeleine aldrig får göra för maken Chris O'Neill, avslöjar hon för Vogue Scandinavia.",
+      "link": "https://www.expressen.se/nyheter/kungligt/prinsessan-madeleine-det-far-jag-aldrig-gora-for-chris/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessan-madeleine-det-far-jag-aldrig-gora-for-chris/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787605858000
+    },
+    {
+      "title": "John Oliver snackar prenumerationer",
+      "description": "Klockrent som vanligt Här har vi veckans avsnitt av Last Week Tonight with John Oliver, där John snackar lite om prenumerationer. Vill man enbart se prenumerationssnacket så kan man hitta det i klippet ovan. Vill man se avsnittet i sin helhet, så kan man hitta det nedan. L&auml;s vidare och kommentera: https://feber.se/video/john-oliver-snackar-prenumerationer/495286/ L&auml;s mer om Last Week Tonight with John Oliver , John Oliver , HBO",
+      "link": "https://feber.se/video/john-oliver-snackar-prenumerationer/495286/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/video/john-oliver-snackar-prenumerationer/495286/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787605200000
+    },
+    {
+      "title": "Maria Malmer Stenergard evakuerad till skyddsrum i Kiev",
+      "description": "När utrikesminister Maria Malmer Stenergard (M) var i Kiev ljöd flyglarm. Då behövde hon evakueras. ”Ukrainare lever med dessa hänsynslösa hot varje dag. I dag innebar det en kort stund i skyddsrum för mig”, skriver hon.",
+      "link": "https://www.expressen.se/nyheter/politik/maria-malmer-stenergard-evakuerad-till-skyddsrum-i-kiev/",
+      "guid": "https://www.expressen.se/nyheter/politik/maria-malmer-stenergard-evakuerad-till-skyddsrum-i-kiev/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787604491000
+    },
+    {
+      "title": "Forskare: Sömnproblem i en viss ålder kan förkorta arbetslivet",
+      "description": "En forskare har gått igenom data från 76 000 människor. Nu avslöjar hon hur ihållande sömnstörningar under en viss period i livet ser ut att förkorta arbetslivet.",
+      "link": "https://illvet.se/halsa/forskare-bakom-stor-studie-somnproblem-i-en-viss-alder-kan-forkorta-arbetslivet",
+      "guid": "https://illvet.se/halsa/forskare-bakom-stor-studie-somnproblem-i-en-viss-alder-kan-forkorta-arbetslivet",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1787603453000
+    },
+    {
+      "title": "Vance: Kanada är en delstat...",
+      "description": "Fräcka uttalandet i tullkriget",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/vance-kanada-ar-en-delstat",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/vance-kanada-ar-en-delstat",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787602784000
+    },
+    {
+      "title": "Iran: 100 miljoner till den som dödar Barron Trump",
+      "description": "En tre minuter lång video om var man kan döda Barron Trump, 20, har sänts i iransk statlig tv. Den som mördar presidentsonen ska belönas med tio miljoner dollar, rapporterar nyhetssajten Al Bawaba.",
+      "link": "https://www.expressen.se/nyheter/varlden/iran-100-miljoner-till-den-som-dodar-barron-trump/",
+      "guid": "https://www.expressen.se/nyheter/varlden/iran-100-miljoner-till-den-som-dodar-barron-trump/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787602641000
+    },
+    {
+      "title": "Henna Virkkunen: EU är berett på AI-modeller som rymmer",
+      "description": "Finlands EU-kommissionär Henna Virkkunen uttalade sig om AI-hot i A-Studion på måndagskvällen.",
+      "link": "https://yle.fi/a/7-10104058?origin=rss",
+      "guid": "https://yle.fi/a/7-10104058",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1787602465000
+    },
+    {
+      "title": "USA tar krafttag mot Iran: ”Skär av alla livlinor”",
+      "description": "Trump har hävdat att Iran står inför en kollaps. Nu tar USA krafttag – mot Irans ekonomi. – Vårt mål är att skära av varje ekonomisk livlina, säger finansministern Scott Bessent på en presskonferens.",
+      "link": "https://www.expressen.se/nyheter/varlden/usa-tar-krafttag-mot-iran-skar-av-alla-livlinor/",
+      "guid": "https://www.expressen.se/nyheter/varlden/usa-tar-krafttag-mot-iran-skar-av-alla-livlinor/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787600439000
+    },
+    {
+      "title": "Investerare spekulerar i indiskt socker – priset rusar till rekordnivå",
+      "description": "Många väntar sig en stor ökning av efterfrågan på socker i Indien framöver. Det har vissa att tro att sockret till och med kan ta slut, men det tillbakavisas av experter. Sockerpriserna i Indien har stigit kraftigt under sommaren. Det har fått analytiker att fundera på om det börjar ta slut i lagren. Men uppgången […]",
+      "link": "https://www.dagensps.se/bors-finans/investerare-spekulerar-i-indiskt-socker-priset-rusar-till-rekordniva/",
+      "guid": "https://www.dagensps.se/?p=1667285",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdl1kglv5z-iyi-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787599320000
+    },
+    {
+      "title": "Naturen upprepar sina egna bästa uppfinningar: Delfinen och förhistoriskt monster har påfallande likheter",
+      "description": "Fossil visar att kroppsformer som försvinner återkommer miljontals år senare – för att de helt enkelt är geniala.",
+      "link": "https://illvet.se/forntiden/evolution/naturens-basta-uppfinningar-evolutionen-upprepar-sina-storsta-framgangar",
+      "guid": "https://illvet.se/forntiden/evolution/naturens-basta-uppfinningar-evolutionen-upprepar-sina-storsta-framgangar",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1787598043000
+    },
+    {
+      "title": "Vem frågar dig om teknikhjälp?",
+      "description": "Dagens fråga Enligt en ny Sifo-undersökning från Verian, på uppdrag av LG Electronics, vänder sig mer än var tionde svensk (12 procent) till sitt ex för att få teknikhjälp. Förutom exet är det vanligast att ta hjälp av andra man redan känner. Nästan två av tre svenskar (63 procent) frågar en vuxen familjemedlem och över hälften (52 procent) vänder sig till en vän eller bekant. Vi kan tänka oss att det är en del Feber-läsare som får agera tech-support till personer i sin närhet – men hur ser det ut för er läsare, vilka är det som frågar er om hjälp med tekniken? Bonusfråga: Vilket är det absolut konstigaste eller roligaste teknikproblemet du har fått lösa åt någon annan? L&auml;s vidare och kommentera: https://feber.se/vem-fragar-dig-om-teknikhjalp/495321/ L&auml;s mer om LG Electronics , Verian , Sifo , teknikhjälp , Feber",
+      "link": "https://feber.se/vem-fragar-dig-om-teknikhjalp/495321/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vem-fragar-dig-om-teknikhjalp/495321/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787598000000
+    },
+    {
+      "title": "Han blir OpenAI:s första rekrytering i Stockholm – grundade AI-bolag",
+      "description": "OpenAI satsar hårt på Europa, där Stockholm ses som en av nyckelstäderna. Nu står det klart att man har börjat rekrytera till Sverige. Philip Andersson, tidigare medgrundare och vd för AI-bokföringsbolaget Bluebook, har värvats av OpenAI och blir bolagets första rekrytering i Sverige. Andersson uppger på Linkedin att han har anslutit till OpenAI:s team för […]",
+      "link": "https://www.dagensps.se/bors-finans/ungt-stjarnskott-blir-openais-forsta-rekrytering-i-stockholm/",
+      "guid": "https://www.dagensps.se/?p=1667280",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/a652eee5fbb40441e72f0a7c87681625.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1787597413000
+    },
+    {
+      "title": "Fick mobilerna – då kom bilder på offret i Fagersta",
+      "description": "När de slog på mobilerna efter skolinrymningen i Fagersta möttes de av kränkande edits på Tiktok – om skräckhändelsen de just bevittnat. Bilder på den döda flickan. Hyllningar av misstänkte mördaren Liam Nebel, 18. – Det är så sjuka grejer. Hur kan man göra så? säger Agnes Hellblad-Hjelm, 14, som vill se Tiktok ta ansvar för att det sprids som en löpeld.",
+      "link": "https://www.expressen.se/nyheter/sverige/fick-mobilerna-da-kom-bilder-pa-offret-i-fagersta/",
+      "guid": "https://www.expressen.se/nyheter/sverige/fick-mobilerna-da-kom-bilder-pa-offret-i-fagersta/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1787596911000
+    },
+    {
+      "title": "Stockholms pendeltåg får äntligen nattrafik på helger",
+      "description": "Södertälje och Uppsala först ut Efter flera års diskussioner börjar Stockholms pendeltåg nu äntligen att rulla nattetid på helgerna. Det börjar med ett pilotprojekt som sträcker sig fram till december 2027, där nya nattavgångar sätts in under nätterna mot lördagar och söndagar på sträckan Uppsala–Södertälje. Anledningen till att just den linjen prioriteras är närheten till stora dygnet runt-arbetsplatser som Arlanda, Karolinska och Scania. Linjerna mot Bålsta och Nynäshamn får dock alltså inte samma utökade nattrafik än, men trafikregionrådet Jakop Dalunde (MP) hoppas att en fortsatt god ekonomi på sikt ska göra det möjligt att utöka nattrafiken till hela pendeltågsnätet, och kanske även till vardagsnätter. Utökad nattrafik helgnätter: Stockholm C – Södertälje C Nya avgångar: 02.24, 02.54, 04.24 och 04.54. Södertälje C – Stockholm C Nya avgångar: 00.06, 00.21, 00.51, 01.21, 01.51, 04.21, 04.51 och 05.21. Uppsala C – Stockholm C Nya avgångar: 01.26, 01.56 och 04.26. Stockholm C – Uppsala C Nya avgångar: 00.38, 01.08, 02.08, 04.08, 04.38 och 05.08. L&auml;s vidare och kommentera: https://feber.se/samhalle/stockholms-pendeltag-far-antligen-nattrafik-pa-helger/495318/ L&auml;s mer om Arlanda , Jakop Dalunde , Karolinska , Stockholms pendeltåg , Scania , nattrafik , Uppsala-Södertälje",
+      "link": "https://feber.se/samhalle/stockholms-pendeltag-far-antligen-nattrafik-pa-helger/495318/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/stockholms-pendeltag-far-antligen-nattrafik-pa-helger/495318/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787596200000
+    },
     {
       "title": "Säkra tecknet på att Trump tror på förlust",
       "description": "Det är ett säkert tecken på att Donald Trump fruktar förlust i höst. Hans sändebud Jared Kushner har suttit i hemliga samtal. Med Iran? Nej, nej, med demokraternas toppnamn i kongressen.",
@@ -22,16 +162,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1787595533000
-    },
-    {
-      "title": "USA: Nya sanktioner mot Iran",
-      "description": "”Skära av varje ekonomisk livlina”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=080bdc60-0420-4ed4-bb21-77440ab188ef",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=080bdc60-0420-4ed4-bb21-77440ab188ef",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787595498000
     },
     {
       "title": "President Stubb i Kiev: Konkreta löften om luftförsvar till Ukraina",
@@ -108,7 +238,7 @@
       "description": "FC Arlanda förlorade i Svenska cupens andra omgång och är utslaget.",
       "link": "https://www.mitti.se/nyheter/arlanda-utslaget-efter-stokigt-avslut-6.3.381788.385fbe14d1",
       "guid": "https://www.mitti.se/nyheter/arlanda-utslaget-efter-stokigt-avslut-6.3.381788.385fbe14d1",
-      "image": "https://www.mitti.se/image-3.256129.304317.20260824180241.f4b2fa97a6?format=jpeg",
+      "image": "https://www.mitti.se/image-3.256129.304317.20260824183009.357fd26bb7?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787594400000
@@ -162,6 +292,16 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1787590832000
+    },
+    {
+      "title": "Ta en flygtur över Schiaparelli-kratern på Mars",
+      "description": "Visualiserat med data från ESA:s Mars Express Den europeiska rymdmyndigheten ESA har släppt ett filmklipp som tar med tittarna på en virtuell flygtur över den enorma Schiaparelli-kratern på Mars. Schiaparelli-kratern har en diameter på 459 km, det vill säga mer än avståndet mellan Stockholm och Göteborg, och är den största av Mars alla kratrar. Den tros ha skapats efter att en stor asteroid kolliderade med Mars för 3,7–4 miljarder år sedan. Efter den virtuella flygturen i klippet ovan berättar ESA lite mer om hur man skapade filmklippet med hjälp av data från sin mars-satellit Mars Express. L&auml;s vidare och kommentera: https://feber.se/vetenskap/ta-en-flygtur-over-schiaparelli-kratern-pa-mars/495312/ L&auml;s mer om ESA , Mars , Mars Express , Schiaparelli-kratern , asteroid , astronomi",
+      "link": "https://feber.se/vetenskap/ta-en-flygtur-over-schiaparelli-kratern-pa-mars/495312/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vetenskap/ta-en-flygtur-over-schiaparelli-kratern-pa-mars/495312/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1787590800000
     },
     {
       "title": "Sommaren på slutspurt – sen vänder det",
@@ -514,16 +654,6 @@
       "timestamp": 1787582070000
     },
     {
-      "title": "Mindre socker till bebisar – då lever de längre",
-      "description": "Mindre socker till bebisar kan ge ett längre och friskare liv, enligt en ny studie på tiotusentals britter som växte upp under sockerransonering. ”Våra resultat tyder på att en begränsning av socker tidigt i livet kan ge långvariga hälsofördelar”, säger forskaren Jiazhen Zheng, Faculty of Life and Health Sciences, Shenzhen University of Advanced Technology, enligt […]",
-      "link": "https://www.dagensps.se/life-science/mindre-socker-till-bebisar-da-lever-de-langre/",
-      "guid": "https://www.dagensps.se/?p=1667213",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/sockerbebis.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787581962000
-    },
-    {
       "title": "Hunden Pixie försvann – då slöt hela Danderyd upp",
       "description": "Maltipoon Pixie försvann från sitt hunddagis i Danderyd. Efter två dramatiska dygn, hundratals frivilliga och drönarhjälp hittades hon till slut i Djursholms Ekeby.",
       "link": "https://www.mitti.se/nyheter/hunden-pixie-forsvann--da-slot-hela-danderyd-upp-6.3.380979.bfe38cbd53",
@@ -602,16 +732,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787578800000
-    },
-    {
-      "title": "Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige",
-      "description": "I september sänker Seattlebolaget Endurance Energy ned en generator på 100 kilowatt på havsbotten utanför Oregon. Den ska göra värme till el. Så kan tekniken appliceras i Sverige och påverka våra elräkningar. Vid ett hydrotermalt utflöde strömmar vatten som hettats upp av vulkanisk aktivitet ut ur havsbottnen. Temperaturen når upp till 750 grader Fahrenheit eller […]",
-      "link": "https://www.dagensps.se/teknik/energi/vulkaner-pa-havsbotten-ska-ge-billigare-el-sa-paverkas-sverige/",
-      "guid": "https://www.dagensps.se/?p=1667188",
-      "image": "https://images.dagensps.se/app/uploads/2026/08/dagens-ps-3-6.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1787578546000
     },
     {
       "title": "Alla tiders ligasäsong påverkar spelarbudgetarna – klubbarna pungar ut rekordhöga löner",
@@ -748,7 +868,7 @@
       "description": "Amat Levin skriver ett porträtt om svensk hiphop och bröderna Masse och Salla Salazar i boken \"Mejor futuro\" som släpps i november.",
       "link": "https://www.mitti.se/nyheter/portratterar-broderna-salazar--och-svensk-hiphop-6.3.381823.50e7c5d0fd",
       "guid": "https://www.mitti.se/nyheter/portratterar-broderna-salazar--och-svensk-hiphop-6.3.381823.50e7c5d0fd",
-      "image": "https://www.mitti.se/image-3.379371.304382.20260824150427.1.bebec52c46?format=jpeg",
+      "image": "https://www.mitti.se/image-3.379371.304382.20260824182748.1.4aa5be555c?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787575397000
@@ -864,16 +984,6 @@
       "timestamp": 1787572571000
     },
     {
-      "title": "Man med svärd vid universitet Luleå",
-      "description": "Förklaringen till polisen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=92282a40-bfeb-42b2-aebe-bbdb3dd35ea7",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=92282a40-bfeb-42b2-aebe-bbdb3dd35ea7",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787572331000
-    },
-    {
       "title": "Pellingefärjan står två timmar på tisdag",
       "description": "Pellingefärjan står inatt mellan midnatt och klockan två på grund av servicearbeten. Bara larmtrafik körs under den tiden.",
       "link": "https://yle.fi/a/7-10104038?origin=rss",
@@ -984,16 +1094,6 @@
       "timestamp": 1787569305000
     },
     {
-      "title": "Miss på Karolinska universitetssjukhuset – patienter behöver nya hjärtan",
-      "description": "Läkemedel förväxlades under en öppen hjärtkirurgi på Karolinska universitetssjukhus. På grund av det behöver två patienter nya hjärtan. ”Sjukhuset ser mycket allvarligt på det inträffade”, skriver Karolinska i ett pressmeddelande.",
-      "link": "https://www.expressen.se/nyheter/sverige/miss-pa-karolinska-universitetssjukhuset-patienter-behover-nya-hjartan/",
-      "guid": "https://www.expressen.se/nyheter/sverige/miss-pa-karolinska-universitetssjukhuset-patienter-behover-nya-hjartan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787569265000
-    },
-    {
       "title": "Arbetslösheten ligger kvar på samma nivå",
       "description": "Antalet sysselsatta har ökat Enligt SCB:s arbetskraftsundersökning (AKU) ligger arbetslösheten kvar på 8,7 procent i juli. Jämfört med samma period förra året har antalet sysselsatta ökat med 0,7 procentenheter. Främst bland unga ökade antalet tidsbegränsat anställda. I juli i år var 5.507.000 personer sysselsatta och antalet tidsbegränsat anställda landade på 898.000. I genomsnitt ligger antalet arbetade timmar på 104,4 miljoner per vecka. Läs allt i pressmeddelandet nedan. L&auml;s vidare och kommentera: https://feber.se/samhalle/arbetslosheten-ligger-kvar-pa-samma-niva/495301/ L&auml;s mer om SCB , arbetslösheten , Sverige , jobb",
       "link": "https://feber.se/samhalle/arbetslosheten-ligger-kvar-pa-samma-niva/495301/?utm_source=rss&utm_medium=feed",
@@ -1034,16 +1134,6 @@
       "timestamp": 1787567400000
     },
     {
-      "title": "Kronprins Haakon på sjukhuset med kung Harald",
-      "description": "På sjukhus i Oslo",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7a94dcf4-d280-4c11-99e2-75527a763be9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7a94dcf4-d280-4c11-99e2-75527a763be9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787567324000
-    },
-    {
       "title": "Historiskt 100-meterslopp i Polen – alla nio herrar löpte 100 meter under 10 sekunder",
       "description": "Herrarnas 100-metersfinal i Diamond League-tävlingen i Chorzów i Polen bjöd på en ovanligt jämn kamp.",
       "link": "https://yle.fi/a/7-10104028?origin=rss",
@@ -1054,16 +1144,6 @@
       "timestamp": 1787567028000
     },
     {
-      "title": "Mumifierade mannen i Värnamo identifierad",
-      "description": "För fyra år sedan hittades en död man i ett ödehus utanför Värnamo. Sedan dess har polisen förgäves försökt ta reda på vem han var. Nu har man identifierat mannen.",
-      "link": "https://www.expressen.se/nyheter/sverige/mumifierade-mannen-i-varnamo-identifierad/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mumifierade-mannen-i-varnamo-identifierad/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787566932000
-    },
-    {
       "title": "Svenska Bookman uppdaterar sina cykellysen",
       "description": "Lyser bättre, laddas enklare Nu är det slut på semestern för de flesta och då kanske många börjar cykla till jobbet igen. Det börjar också blir mörkare, vilket gör att det kanske också är dags att se över cykelns belysning. Svenska Bookman har uppdaterat sina lysen Curve så att de är på par med vad man kräver idag. Baklyset Curve Rear fått ny teknik i form av COB LED-teknik, som ger bättre belysning över hela ytan. Lyset skiner 180 grader, vilket är najs. Det har även blivit kraftfullare, fått ett nytt batterisparläge så att batteriet inte tar slut när du glömmer stänga av det och så fungerar det med flera olika sadelstolpar. Curve Front levererar nu 300 lumens. Både fram- och baklyset laddas numera via USB-C, vilket är ett krav idag för lite dyrare lysen som dessa. Prislappen ligger förresten på 449 kronor styck, eller 799 kronor för båda. Lysena ska vara lätta att ta av om man parkerar cykeln på ett mindre säkert ställe, eller om de behöver laddas. L&auml;s vidare och kommentera: https://feber.se/fordon/svenska-bookman-uppdaterar-sina-cykellysen/495315/ L&auml;s mer om Bookman , Curve Rear , Curve Front , USB-C , COB LED , Curve , cykelbelysning , Svenska Bookman",
       "link": "https://feber.se/fordon/svenska-bookman-uppdaterar-sina-cykellysen/495315/?utm_source=rss&utm_medium=feed",
@@ -1072,16 +1152,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1787566800000
-    },
-    {
-      "title": "Segelbåt på grund vid Valsörarna – bärgningen blir svår",
-      "description": "Personen i båten klarade sig oskadd. Nu är det ägarens ansvar att bärga båten.",
-      "link": "https://yle.fi/a/7-10104030?origin=rss",
-      "guid": "https://yle.fi/a/7-10104030",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1787565953000
     },
     {
       "title": "Nasa säger hejdå till rymdteleskopet Swift",
@@ -1112,16 +1182,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787564933000
-    },
-    {
-      "title": "Sökinsats i Sunne – kvinna försvunnen",
-      "description": "Polisen använder helikopter och drönare",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3178937-20b1-4c6e-8511-12ec28deeb0a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3178937-20b1-4c6e-8511-12ec28deeb0a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1787564573000
     },
     {
       "title": "Invigning för äppeldoftande toalett – som larmar om du sitter för länge",
@@ -1314,16 +1374,6 @@
       "timestamp": 1787557079000
     },
     {
-      "title": "Robot slog Usain Bolts världsrekord på 100 meter",
-      "description": "På kinesisk robotolympiad I lördags kickade den andra upplagan av World Humanoid Robot Games igång i Kina och under ett försöksheat i 100-metersloppet slog en humanoid robot Usain Bolts världsrekord på sträckan. Bolt satte världsrekordet 2009 då han sprang 100 meter på 9,58 sekunder. Under gårdagens försöksheat i World Humanoid Robot Games sprang roboten Tiangong Ultra 100 meter på 9,39 sekunder. Roboten vann även 100 meter under World Humanoid Robot Games 2025 men sprang då på mer beskedliga 21,5 sekunder. Tiangong Ultra är utvecklad av Beijing Humanoid Robot Innovation Center och vann försöksheatet före Honors robot Lightning. World Humanoid Robot Games pågår mellan 22-26 august. I klippet ovan kan ni kolla in när Tiangong Ultra sprang på världsrekordtid samt klipp från andra grenar där robotar tävlar mot varandra. Sammanlagt deltar över 2000 humanoida robotar från 666 olika team i den kinesiska robotolympiaden. Bonus nedan från 400-metersloppet för små humanoida robotar. L&auml;s vidare och kommentera: https://feber.se/pryl/robot-slog-usain-bolts-varldsrekord-pa-100-meter/495289/ L&auml;s mer om World Humanoid Robot Games , Tiangong Ultra , Usain Bolt , Honor , Lightning , friidrott , Kina",
-      "link": "https://feber.se/pryl/robot-slog-usain-bolts-varldsrekord-pa-100-meter/495289/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/robot-slog-usain-bolts-varldsrekord-pa-100-meter/495289/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787556600000
-    },
-    {
       "title": "Inga bussar i nya tunneln vid Täby park",
       "description": "Täby planerar ny tunnel vid Täby park för gång och cykel. Busstrafik stryks, kostnaden blir 110 miljoner och bygget väntas starta 2027. Skolvägar utreds inför öppningen.",
       "link": "https://www.mitti.se/nyheter/inga-bussar-i-nya-tunneln-vid-taby-park-6.3.380931.7a95efd1ef",
@@ -1334,26 +1384,6 @@
       "timestamp": 1787556010000
     },
     {
-      "title": "Nu får ChatGPT annonser",
-      "description": "Även för användare i Sverige Svenska gratisanvändare av AI-tjänsten ChatGPT kommer från och med nu att mötas av annonser i samband med sina sökningar. Företaget har sedan en tid tillbaka testat annonser i USA och rullar nu ut förändringen på den europeiska marknaden, inklusive i Sverige. Annonserna kommer bara att visas för dem som använder gratisversionen av tjänsten. OpenAI säger dock att ingen kunddata kommer att säljas vidare och att det inte görs någon koppling mellan annonsörerna och de svar som chatboten genererar. L&auml;s vidare och kommentera: https://feber.se/internet/nu-far-chatgpt-annonser/495293/ L&auml;s mer om ChatGPT , reklam , Sverige , digital annonsering , gratisversion",
-      "link": "https://feber.se/internet/nu-far-chatgpt-annonser/495293/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/nu-far-chatgpt-annonser/495293/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787555400000
-    },
-    {
-      "title": "Ryska e-handelsjättar står i lågor",
-      "description": "Ukraina slår hårt mot bolagen som anklagas för att stötta armén Ukraina har än en gång attackerat den ryska e-handelsjätten Ozon och satt flera av företagets lager i brand. Anledningen till att Ukraina väljer att slå mot just Ozon samt konkurrenten Wildberries är att bolagen anses stötta den ryska armén med både material och transporter. Dessa företag brukar beskrivas som Rysslands motsvarighet till Amazon, och den senaste tidens attacker sägs ha kostat dem enorma summor. Enligt uppgifter rör det sig om ekonomiska förluster på flera miljarder dollar till följd av de ukrainska räderna. L&auml;s vidare och kommentera: https://feber.se/samhalle/ryska-e-handelsjattar-star-i-lagor/495288/ L&auml;s mer om Ozon , Wildberries , Ukraina , Ryssland , e-handel , Amazon",
-      "link": "https://feber.se/samhalle/ryska-e-handelsjattar-star-i-lagor/495288/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/ryska-e-handelsjattar-star-i-lagor/495288/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787554800000
-    },
-    {
       "title": "Tanja Zandi är Årets lärare i Solna",
       "description": "Årets lärare i Solna 2026",
       "link": "https://www.mitti.se/nyheter/tanja-zandi-ar-arets-larare-i-solna-6.3.380680.a9e8d4ae36",
@@ -1362,16 +1392,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787554800000
-    },
-    {
-      "title": "Några av de nominerade till Car of the year 2027",
-      "description": "Volvo EX60 är het Det börjar fyllas på med nominerade till Car of the year 2027 och bland toppkandidaterna finns Volvo EX60 . Det är även rekordmånga modeller från Kina med denna gång och här finns modeller från Leapmotor, Denza, Zeekr och Xpeng som alla är med och slåss om den ärofyllda titeln. 28 oktober är sista dagen för biltillverkare att anmäla nya modeller till tävlingen. Två dagar senare kommer juryn som består av 65 biljournalister från hela Europa att meddela vilka de sju finalisterna är och först den 8 januari 2027 kommer vinnaren att presenteras på bilmässan i Bryssel. Läs mer på länken nedan. L&auml;s vidare och kommentera: https://feber.se/bil/nagra-av-de-nominerade-till-car-of-the-year-2027-/495284/ L&auml;s mer om Car of the year 2027 , kandidater , modeller , Volvo EX60 , nominerade , Årets bil",
-      "link": "https://feber.se/bil/nagra-av-de-nominerade-till-car-of-the-year-2027-/495284/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nagra-av-de-nominerade-till-car-of-the-year-2027-/495284/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1787553000000
     },
     {
       "title": "Sollentuna FK toppar division 1 norra",
@@ -2034,26 +2054,6 @@
       "timestamp": 1787430655000
     },
     {
-      "title": "Adhd-forskare: En viss faktor kan skydda ditt barn mot symtomen, visar stor studie",
-      "description": "Barnpsykiatrikern Berit Skretting Solberg har följt 38 000 familjer i tio år. Nu pekar hon på en specifik faktor som kan minska ditt barns risk att utveckla adhd-symtom.",
-      "link": "https://illvet.se/halsa/hon-har-arbetat-med-adhd-i-25-ar-en-viss-faktor-kan-skydda-ditt-barn-mot-symtomen-visar-stor-studie",
-      "guid": "https://illvet.se/halsa/hon-har-arbetat-med-adhd-i-25-ar-en-viss-faktor-kan-skydda-ditt-barn-mot-symtomen-visar-stor-studie",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1787430653000
-    },
-    {
-      "title": "Gamla fossil ger nytt hopp: Livet i havet övervinner allt",
-      "description": "Klimatförändringarna hotar livet i haven, men det finns hopp. Den danske paleontologen Thomas Holm Scharling har studerat tandfossil från Svalbard, som visar att marint liv har en häpnadsväckande förmåga att återhämta sig från de värsta tänkbara katastroferna.",
-      "link": "https://illvet.se/forntiden/forntidsdjur/gamla-fossil-ger-nytt-hopp-havslivet-har-en-hapnadsvackande-formaga-att-hamta-sig-efter-de-varsta-katastroferna",
-      "guid": "https://illvet.se/forntiden/forntidsdjur/gamla-fossil-ger-nytt-hopp-havslivet-har-en-hapnadsvackande-formaga-att-hamta-sig-efter-de-varsta-katastroferna",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1787427034000
-    },
-    {
       "title": "De drunknade när Vasa sjönk. Nu kan historiker berätta mer om en förbisedd del av katastrofen",
       "description": "Fartyget hann bara segla i 20 minuter innan en fruktansvärd tragedi inträffade. Ändå drunknade omkring 30 personer vid förlisningen, som historikerna hittills har vetat mycket lite om.",
       "link": "https://varldenshistoria.se/samhalle/katastrofer/de-drunknade-nar-vasa-sjonk-nu-kan-historiker-beratta-mer-om-en-forbisedd-del-av-katastrofen",
@@ -2668,7 +2668,7 @@
       "description": "Rebellmammorna på Ekerö har virkat en valstuga – de vill att klimatfrågan ska komma högre upp på kommunpolitiska agendan inför valet 2026.",
       "link": "https://www.mitti.se/nyheter/virkad-valstuga-tar-plats-i-ekero--for-klimatet-6.3.381521.8955227512",
       "guid": "https://www.mitti.se/nyheter/virkad-valstuga-tar-plats-i-ekero--for-klimatet-6.3.381521.8955227512",
-      "image": "https://www.mitti.se/image-3.379012.304012.20260824072112.c0634780d8?format=jpeg",
+      "image": "https://www.mitti.se/image-3.379012.304012.20260824184255.79eed69ee3?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787324307000
