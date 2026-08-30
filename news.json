@@ -1,8 +1,28 @@
 {
-  "updatedAt": "2026-08-29T22:54:48.235Z",
+  "updatedAt": "2026-08-30T02:17:17.617Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "EU-valet på Island",
+      "description": "Mycket jämnt i EU-valet",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=41131580-05f8-4908-addd-d4091edeed6f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=41131580-05f8-4908-addd-d4091edeed6f",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788055676000
+    },
+    {
+      "title": "Rådgivarna slår larm om Donald Trumps stora besatthet",
+      "description": "Donald Trumps rådgivare slår larm. Han är bara fokuserad på en sak – sig själv. Samtidigt störtdyker hans – och partiets – opinionssiffror.",
+      "link": "https://www.expressen.se/nyheter/varlden/radgivarna-slar-larm-om-donald-trumps-stora-besatthet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/radgivarna-slar-larm-om-donald-trumps-stora-besatthet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788050976000
+    },
     {
       "title": "Storbanken ligger nere",
       "description": "”Hemsidan är inte tillgänglig just nu”",
@@ -444,16 +464,6 @@
       "timestamp": 1788007675000
     },
     {
-      "title": "Jimmie Åkesson går till attack mot Ebba Busch",
-      "description": "SD-ledaren Jimmie Åkesson är kritisk till KD:s ”vänsterflörtande” och säger att det är en dålig strategi för det blågula laget. – Går det att lita på Ebba Busch? Riskerar en röst på Kristdemokraterna att bli en röst på Magdalena? Ebba Busch svarar nu på utspelet. – Det är klart att man kan lita på mig, säger hon till TV4 Nyheterna.",
-      "link": "https://www.expressen.se/nyheter/politik/har-haller-akesson-sitt-sommartal/",
-      "guid": "https://www.expressen.se/nyheter/politik/har-haller-akesson-sitt-sommartal/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788007203000
-    },
-    {
       "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
       "description": "Researchers have discovered a way to turn notoriously difficult-to-recycle PVC plastic into a key ingredient used in high-performance lubricants such as engine oil. The technique could give mountains of plastic waste a valuable second life while making lubricant production more sustainable.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
@@ -572,16 +582,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788003014000
-    },
-    {
-      "title": "Oscar Engelbert och ”målvakten” i bråket om lyxvillan",
-      "description": "En lyxvilla vid Medelhavet står åter i centrum för jakten på miljonerna efter Oscar Engelberts kraschade fastighetsimperium. En dom om återbetalning av nära 28 miljoner kronor rivs nu upp – samtidigt jagas mannen som uppges kontrollera villabolaget.",
-      "link": "https://www.expressen.se/ekonomi/bostad/oscar-engelbert-och-malvakten-i-braket-om-lyxvillan/",
-      "guid": "https://www.expressen.se/ekonomi/bostad/oscar-engelbert-och-malvakten-i-braket-om-lyxvillan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788002960000
     },
     {
       "title": "Studie: Sen frukost och tidig middag ökar risken för dödlighet",
