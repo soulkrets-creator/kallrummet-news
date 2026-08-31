@@ -1,8 +1,18 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-08-30T22:59:52.807Z",
+  "updatedAt": "2026-08-31T02:12:28.528Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Dödlig attack i Ryssland",
+      "description": "Ryssland: Robot mot Belgorod",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5d1d428-305b-4f3c-aa93-eaa404dbfefc",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5d1d428-305b-4f3c-aa93-eaa404dbfefc",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788141200000
+    },
     {
       "title": "Brand i blomhavet utanför slottet – hjälte hyllas",
       "description": "Minnesplatsen för kung Harald fattade eld • Hjälte hyllas",
@@ -11,7 +21,57 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788130665000
+      "timestamp": 1788141143000
+    },
+    {
+      "title": "Enorm översvämning",
+      "description": "Över 20 saknas i populära turistmålet",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/enorm-oversvamning-20-saknas-i-grand-canyon",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/enorm-oversvamning-20-saknas-i-grand-canyon",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788141134000
+    },
+    {
+      "title": "Trump kräver att journalisten straffas",
+      "description": "Donald Trump hotar journalisten Kristen Welker med bestraffning. Och säger att ”något måste göras” åt ”falska” opinionsmätningar. Till sin hjälp vill han återigen ta tillsynsmyndigheten FCC.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-kraver-att-journalisten-straffas/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-kraver-att-journalisten-straffas/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788140071000
+    },
+    {
+      "title": "Prins Harry är tillbaka – lika arg som tidigare",
+      "description": "Prins Harry har återvänt till Storbritannien med Meghan. Men han är fortfarande lika ilsken. – Han förväntar sig fortfarande en ursäkt, säger en vän enligt Daily Mail .",
+      "link": "https://www.expressen.se/nyheter/kungligt/prins-harry-ar-tillbaka-lika-arg-som-tidigare/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prins-harry-ar-tillbaka-lika-arg-som-tidigare/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788138208000
+    },
+    {
+      "title": "USA och Iran utbyter attacker igen",
+      "description": "Strider blossar upp igen i Mellanöstern. USA bombar en ö i Hormuzsundet Iran svarar med ballistiska robotar mot Jordanien.",
+      "link": "https://www.expressen.se/nyheter/varlden/usa-och-iran-utbyter-attacker-igen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/usa-och-iran-utbyter-attacker-igen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788134088000
+    },
+    {
+      "title": "Oljepriset stiger efter nya attacker",
+      "description": "Efter nya attackerna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0abcfa48-e2b2-43c2-88a3-b545803a1712",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0abcfa48-e2b2-43c2-88a3-b545803a1712",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788130781000
     },
     {
       "title": "30-tal döda på äldreboende i Kiev",
@@ -22,16 +82,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1788130575000
-    },
-    {
-      "title": "Enorm översvämning",
-      "description": "Över 20 saknas i populära turistmålet",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/enorm-oversvamning-20-saknas-i-grand-canyon",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/enorm-oversvamning-20-saknas-i-grand-canyon",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788129100000
     },
     {
       "title": "Netanyahus son förd från USA efter hot",
@@ -174,16 +224,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788113323000
     },
     {
-      "title": "Kung Harald begravs 9 september",
-      "description": "Norska kungahusets besked",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=cb5dba07-effc-40b7-81cd-b53af6f10e54",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cb5dba07-effc-40b7-81cd-b53af6f10e54",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788112681000
-    },
-    {
       "title": "Sex månader efter Irankrigets början: Motstridiga uppgifter om trafiken i Hormuz, USA inför nya sanktioner",
       "description": "Iran kräver slut på USA:s och Israels krig i hela Mellanöstern för att öppna sundet. USA insisterar på att det redan är öppet.",
       "link": "https://yle.fi/a/7-10104387?origin=rss",
@@ -192,16 +232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788112501000
-    },
-    {
-      "title": "Tysk misstänks för mord i Kalmar – kontaktade tv-detektiv",
-      "description": "Den tyska mannen misstänks ha mördat sin flickvän i Kalmar län. Väl hemma kontaktade han en känd tysk privatdetektiv – och deltog i en livesändning på Tiktok, enligt Bild. – Den här killen var bara intresserad av att se om vi och våra följare hade några ledtrådar, säger tv-detektiven Jürgen Trovato.",
-      "link": "https://www.expressen.se/nyheter/sverige/tysk-misstanks-for-mord-i--kalmar-kontaktade-tv-detektiv/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tysk-misstanks-for-mord-i--kalmar-kontaktade-tv-detektiv/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788112002000
     },
     {
       "title": "Fotbollsbråket splittrar Alliansen: ”Slöseri med skattepengar!”",
@@ -244,16 +274,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788108300000
     },
     {
-      "title": "Lokalpolitiker vill locka svenskar – med sexfest: ”Ett paradis”",
-      "description": "En ny nöjespark eller upprustade vandringsspår i all ära. Lokalpolitikern Julien Ferrat har helt andra planer för att få turister till tyska Mannheim. – Ett swingersparadis skulle kunna locka turister från Skandinavien, säger han till Metro.",
-      "link": "https://www.expressen.se/nyheter/varlden/lokalpolitiker-vill-locka-svenskar-med-sexfest-ett-paradis/",
-      "guid": "https://www.expressen.se/nyheter/varlden/lokalpolitiker-vill-locka-svenskar-med-sexfest-ett-paradis/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788107926000
-    },
-    {
       "title": "Venezuela säger att landet behåller kontrollen över sin olja trots avtal med USA",
       "description": "Enligt Venezuelas president Delcy Rodríguez behåller landet full suveränitet över sina naturresurser, trots det omfattande oljeavtal som har ingåtts med USA.",
       "link": "https://yle.fi/a/7-10104405?origin=rss",
@@ -264,16 +284,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788107834000
     },
     {
-      "title": "Då kan folket säga hej då till kung Harald",
-      "description": "Då får norrmännen ta avsked",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2b7097c-d840-4b6a-ac26-432d059d4963",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2b7097c-d840-4b6a-ac26-432d059d4963",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788107274000
-    },
-    {
       "title": "Ny dokumentär om åländska makthavare vill visa att också seriösa politiker äter tårta och svär",
       "description": "Filmskaparen Johan Karrento filmade i maktens korridorer i Mariehamn i över ett år.",
       "link": "https://yle.fi/a/7-10104346?origin=rss",
@@ -282,16 +292,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788106022000
-    },
-    {
-      "title": "Larmen inifrån hemtjänsten: Övergrepp, våld och fusk",
-      "description": "Knivar i halsen, knytnävsslag i magen och fingrar i underlivet. Vårdtagare med likmaskar – fast de fortfarande är vid liv. Tystnadskultur och fusk. Arbetsmiljön inom hemtjänsten gör att fler vill lämna ett av samhällets viktigaste yrken. Det här är personalens vittnesmål inifrån: Se videoreportaget nedan.",
-      "link": "https://www.expressen.se/nyheter/sverige/larmen-inifran-hemtjansten-overgrepp-vald-och-fusk/",
-      "guid": "https://www.expressen.se/nyheter/sverige/larmen-inifran-hemtjansten-overgrepp-vald-och-fusk/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788105600000
     },
     {
       "title": "Efter bussolyckorna: \"Direkt koppling till förarnas villkor\"",
