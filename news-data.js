@@ -1,8 +1,28 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-02T22:54:10.342Z",
+  "updatedAt": "2026-09-03T01:58:29.672Z",
   "feedCount": 12,
-  "sourceCount": 12,
+  "sourceCount": 11,
   "items": [
+    {
+      "title": "Poliser skjutna i USA",
+      "description": "Flera offer i USA",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=394bbd4e-7229-42e8-baed-2c6716690b84",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=394bbd4e-7229-42e8-baed-2c6716690b84",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788399404000
+    },
+    {
+      "title": "Breitling Navitimer Miles Davis Chronograph",
+      "description": "",
+      "link": "https://uncrate.com/breitling-navitimer-miles-davis-chronograph/",
+      "guid": "https://uncrate.com/breitling-navitimer-miles-davis-chronograph/",
+      "image": "https://uncrate.com/assets_c/2026/09/breitling-navitimer-b09-chronograph-41-miles-davis-watch-2-thumb-960xauto-192842.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1788390000000
+    },
     {
       "title": "Livshotande skadad efter ridolycka",
       "description": "Kvinna vårdas med livshotande skador",
@@ -22,16 +42,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1788388200000
-    },
-    {
-      "title": "Poliser skjutna i USA",
-      "description": "Flera offer i USA",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=394bbd4e-7229-42e8-baed-2c6716690b84",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=394bbd4e-7229-42e8-baed-2c6716690b84",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788388081000
     },
     {
       "title": "Fynd kan lösa mordet på familjen efter 14 år",
@@ -65,7 +75,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Putins bakslag – misslyckats med viktiga satsningen",
-      "description": "Rysslands försök att bygga ett eget Starlink har drabbats av ett nytt bakslag. De nya Rassvet-satelliterna verkar inte ha nått rätt höjd, enligt forskningsinstitutet ISW. Samtidigt slår ukrainska attacker att hårt mot den ryska storsatsningen.",
+      "description": "Rysslands försök att bygga ett eget Starlink har drabbats av ett nytt bakslag. De nya Rassvet-satelliterna verkar inte ha nått rätt höjd, enligt forskningsinstitutet ISW. Samtidigt slår ukrainska attacker hårt mot den ryska storsatsningen.",
       "link": "https://www.expressen.se/nyheter/varlden/putins-bakslag-misslyckats-med-viktiga-satsningen/",
       "guid": "https://www.expressen.se/nyheter/varlden/putins-bakslag-misslyckats-med-viktiga-satsningen/",
       "image": "",
@@ -164,16 +174,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788377445000
     },
     {
-      "title": "Vi har testat Samsung Galaxy Z Fold8",
-      "description": "Underbar, men inte perfekt Jag har alltid varit fascinerad över vikbara telefoner. Det är fortfarande lite konstigt att man kan böja skärmen, trots att Samsung nu är uppe på generation 8. Det är lätt att glömma hur coola man tyckte de första varianterna var, men också hur usla de faktiskt var. Som teknisk demo var första Samsung Galaxy Fold fantastisk, men att använda var en helt annan sak. Den pluttiga skärmen på utsidan var till exempel inte mycket att hänga i granen. Fel format har blivit rätt Sedan dess har utvecklingen verkligen gått framåt, men det största problemet har funnits kvar. En enhet med en skärm på 1:1 är, enligt mig, fullkomligt oanvändbar till det mesta. Jag har testat många vikbara och jag har velat att de ska fungera i mitt liv (det är ju coolt) men alltid misslyckats på grund av det där 1:1-formatet. Med Fold8 ändras detta. Eller det ändrades lite med första Google Pixel Fold som var något på spåren. Den kom aldrig till Sverige, men jag gillade formatet redan när den kom 2023. Tyvärr fortsatte inte Google på det spåret, av någon outgrundlig anledning. Även Oppo och Huawei har kört formatet, alltså med en knubbig skärm på utsidan och 4:3 på insidan, sedan tidigare, så Samsung är inte först. Men varken Oppo eller Huawei finns i Sverige, så de räknas inte. En liten telefon, som blir stor På utsidan hittar vi en skärm som har det lite udda formatet 10:16. Först tänkte jag att det är något man får leva med för att få det bättre formatet på den stora skärmen. Men så är det inte. Den lite kortare skärmen har sina klara fördelar. Modell Läge Format Bredd Höjd Tjocklek Vikt Samsung Galaxy Z Fold8 Ihopfällt 10:16 81,9 mm 123,9 mm 9,7 mm 201 g Liggande 4:3 161,4 mm 123,9 mm 4,5 mm 201 g Stående 3:4 123,9 mm 161,4 mm 4,5 mm 201 g Samsung Galaxy S26 Stående 19,5:9 71,7 mm 149,6 mm 7,2 mm 167 g Samsung Galaxy S26 Ultra Stående 19,5:9 78,1 mm 163,6 mm 7,9 mm 214 g L&auml;s vidare och kommentera: https://feber.se/mobil/vi-har-testat-samsung-galaxy-z-fold8/494818/ L&auml;s mer om Google Pixel Fold , Oppo , Huawei , Samsung Galaxy Z Fold8 , Samsung , vikbara telefoner",
-      "link": "https://feber.se/mobil/vi-har-testat-samsung-galaxy-z-fold8/494818/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/vi-har-testat-samsung-galaxy-z-fold8/494818/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788377400000
-    },
-    {
       "title": "Saab, BAE och Lockheed: Så skiljer sig vd-lönerna",
       "description": "Nyheten om Saabs vd:s lön på 61 miljoner kronor har offentliggjorts. Vi analyserar om han ligger högt, lågt eller på samma nivå som sina branschkollegor inom försvaret i andra länder. Micael Johanssons grundlön 2025 var 16 921 508 kronor, enligt Saabs ersättningsrapport. Lockheed Martins vd James Taiclet hade samma år 1 751 000 dollar i […]",
       "link": "https://www.dagensps.se/bors-finans/saab-bae-och-lockheed-sa-skiljer-sig-vd-lonerna/",
@@ -214,16 +214,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788375605000
     },
     {
-      "title": "Har du förtidsröstat?",
-      "description": "Dagens politikfråga Tidigare idag skrev vi om att närmare en miljon väljare redan röstat i valet 2026 efter att möjligheten att förtidsrösta öppnade förra veckan. I dag undrar vi därför om ni läsare har förtidsröstat. Svara gärna på vår enkät nedan. Vill ni snacka mer om röstning, valet 2026 eller något annat som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-fortidsrostat/495677/ L&auml;s mer om valet 2026 , förtidsröstning , röstning , valdeltagande , val 2026",
-      "link": "https://feber.se/har-du-fortidsrostat/495677/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/har-du-fortidsrostat/495677/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788375600000
-    },
-    {
       "title": "Timex Retroware Digital Watch",
       "description": "",
       "link": "https://uncrate.com/timex-retroware-digital-watch/",
@@ -242,16 +232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788375561000
-    },
-    {
-      "title": "Shelly släpper övervakningskamera",
-      "description": "Full HD, mörkerseende, AI och lokal lagring för under 500 kronor Shelly lanserade i går sin Shelly Camera, vilket är en billig liten övervakningskamera med full HD-upplösning och inbyggt mörkerseende. Den har också en del smarta funktioner såsom AI-igenkänning av människor, husdjur och fordon så man slipper få onödiga notiser. När det gäller integritet har Shelly slängt in ett särskilt privatläge och möjligheten att maskera vissa delar av bilden som kameran helt ska ignorera. När det kommer till lagring är valfriheten stor; du kan antingen spara dina filmer lokalt på ett microSD-kort eller använda Shellys EU-baserade molntjänst. Kameran ska vara kompatibel med system som Google Home, Alexa och Home Assistant. Priset för kameran ligger på 471 kronor, vilket ju inte är så farligt kan man tycka. Så om man gillar det här med Shelly och att hålla koll på hemmet kanske detta är något för dig. L&auml;s vidare och kommentera: https://feber.se/pryl/shelly-slapper-overvakningskamera/495671/ L&auml;s mer om Shelly Camera , Google Home , Home Assistant , övervakningskamera , Shelly , Alexa , AI-igenkänning",
-      "link": "https://feber.se/pryl/shelly-slapper-overvakningskamera/495671/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/shelly-slapper-overvakningskamera/495671/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788373800000
     },
     {
       "title": "HS: Jacob Grandison riktar svidande kritik mot basketlandslaget – trodde läkaren hade ansökt undantagstillstånd för adhd-medicin",
@@ -334,16 +314,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788372233000
     },
     {
-      "title": "John Deere lanserar ny AI-assistent",
-      "description": "Släng Excel-arket och prata med traktorn Traktortillverkaren John Deere vill hjälpa bönder att hålla koll på sitt jordbruk via sin nya AI-assistent JD. Detta verktyg ska vara direkt integrerat i företagets plattform och tanken är att lantbrukare ska slippa drunkna i komplicerade grafer samt Excel-ark. Istället ska de kunna ställa frågor via helt vanlig text och få svar baserat på gårdens egna data. I praktiken innebär det att en bonde kan fråga assistenten om bränsleförbrukningen vid plöjning har förändrats över åren, eller vilken förare som egentligen avverkar flest hektar i timmen. Målet är att flytta fokus från att leta efter information i en massa listor till att faktiskt använda den för att fatta bättre beslut. Verktyget rullas till en början ut på den amerikanska marknaden tillsammans med ett frivilligt löfte om att värna lantbrukarnas integritet och äganderätt till sin data. Men i Europa värnar man mer om integriteten, så många av John Deeres frivilliga åtaganden är tvingande lagkrav här. En av de viktigaste punkterna i den europeiska lagen är förbudet för tillverkare att använda insamlad data för att räkna ut en gårds ekonomiska värde eller tillgångar. Det är en skyddsmekanism som ska hindra jättar från att få ett för stort övertag genom att veta exakt hur lönsam, eller sårbar, en enskild kund är. Av denna anledning kommer det ta lite längre tid att rulla ut JD på den europeiska marknaden. Därav vet vi inte när AI-assistenten landar i de svenska traktorhytterna i skrivande stund. L&auml;s vidare och kommentera: https://feber.se/fordon/john-deere-lanserar-ny-ai-assistent/495668/ L&auml;s mer om John Deere , JD , AI-assistent , jordbruk , lantbruk , dataskydd , dataintegritet",
-      "link": "https://feber.se/fordon/john-deere-lanserar-ny-ai-assistent/495668/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/john-deere-lanserar-ny-ai-assistent/495668/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788372000000
-    },
-    {
       "title": "ParkIt Eclipse Portable Camp Chair",
       "description": "",
       "link": "https://uncrate.com/parkit-eclipse-portable-camp-chair/",
@@ -382,16 +352,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1788370406000
-    },
-    {
-      "title": "Firefox på iOS får inbyggd annonsblockerare",
-      "description": "Mozilla lanserar efterlängtad funktion Det tog ett tag, men nu har Mozilla äntligen rullat ut en inbyggd annonsblockerare för Firefox på iOS. Webbläsare som Brave och Opera har erbjudit detta i åratal på Apples telefoner, men nu kan alltså de som kör Firefox också slippa störiga annonser på sina telefoner. Anledningen till att det har tagit tid är att man var tvungen att bygga sin blockerare ovanpå WebKit, vilket tydligen inte var helt enkelt att få till. Blockeraren är som standard avstängd, den som vill slippa reklam måste själv leta upp den i inställningarna. Väl aktiverad använder den filterlistan EasyList för att rensa bort störningsmoment. Den tar dock inte allt, då annonser som är inbäddade direkt av webbsidan själv eller reklam i sökresultat inte fångas upp. Inte heller Mozillas egna sponsrade genvägar påverkas av verktyget. L&auml;s vidare och kommentera: https://feber.se/mac/firefox-pa-ios-far-inbyggd-annonsblockerare/495667/ L&auml;s mer om iOS , WebKit , EasyList , Mozilla , Firefox , annonsblockerare , Apple , Mozilla Firefox",
-      "link": "https://feber.se/mac/firefox-pa-ios-far-inbyggd-annonsblockerare/495667/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mac/firefox-pa-ios-far-inbyggd-annonsblockerare/495667/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788370200000
     },
     {
       "title": "Kommun-vd tjänar mer än statsministern: ”Relevant”",
@@ -444,16 +404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788368404000
     },
     {
-      "title": "Idag släpps The Mandalorian and Grogu Movie på Disney+",
-      "description": "Kolla senaste Star Wars-filmen hemma i soffan För de som inte orkat masa sig till bion för att kolla in den senaste Star Wars-filmen The Mandalorian and Grogu går denna från och med idag att se på Disney+. Filmen är en fortsättning på tv-serien The Mandalorian och följer Din Djarin (Pedro Pascal) och hans adept Grogu aka \"Baby Yoda\" på ett äventyr där de bland annat får tampas med ättlingar till den klassiska Star Wars-skurken Jabba the Hut. Ni hittar en trailer för Disney+-premiären av The Mandalorian and Grogu nedan. Hoppa vidare på länken nedan om ni vill se filmen. L&auml;s vidare och kommentera: https://feber.se/film/idag-slapps-the-mandalorian-and-grogu-movie-pa-disney/495686/ L&auml;s mer om The Mandalorian and Grogu , Star Wars , Pedro Pascal , Grogu , streaming , The Mandalorian , Disney+",
-      "link": "https://feber.se/film/idag-slapps-the-mandalorian-and-grogu-movie-pa-disney/495686/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/idag-slapps-the-mandalorian-and-grogu-movie-pa-disney/495686/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788368400000
-    },
-    {
       "title": "TAG Heuer Monza Flyback Chronograph Carbon",
       "description": "",
       "link": "https://uncrate.com/tag-heuer-monza-flyback-chronograph-carbon/",
@@ -502,16 +452,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1788367464000
-    },
-    {
-      "title": "Squadron 42 försenas till 2027",
-      "description": "Oj! Vilken överraskning! Den som nu har väntat på att få spela Star Citizen-kampanjen, Squadron 42, får vänta lite till då utvecklaren nu sagt att denna enspelarkampanj inte kommer att släppas förrän under andra kvartalet 2027. Tanken var från början att det skulle släppas i år men det blir inte fallet då man vill undvika Grand Theft Auto VI. Personer som har hjälpt till att finansiera utvecklingen kommer dock kunna få provspela kampanjen under hösten så då kommer vi nog äntligen få se vad fasiken de har hållit på med. När hela spelet släpps \"på riktigt\" återstår dock att se. L&auml;s vidare och kommentera: https://feber.se/spel/squadron-42-forsenas-till-2027/495661/ L&auml;s mer om Star Citizen , Squadron 42 , Cloud Imperium Games , Grand Theft Auto VI , spelutveckling",
-      "link": "https://feber.se/spel/squadron-42-forsenas-till-2027/495661/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/squadron-42-forsenas-till-2027/495661/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788366600000
     },
     {
       "title": "Turistrekord i Stockholm i sommar – igen",
@@ -592,16 +532,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1788364820000
-    },
-    {
-      "title": "Porschen som älskar att klättra i berg",
-      "description": "Byggd för slingriga alpvägar Porsche kände att det behövdes ytterligare en specialversion av 911 GT3 och den här är byggd för bergsklättring. Man kallar den för Bergsport och den utgår från vanliga GT3 med Touring-paket och sedan har Porsche Exclusive Manufaktur lagt sin hand på den och skapat något som ska älska slingriga alpvägar. Men du måste inte helt oväntat ha massa pengar för att kunna köpa den, och du måste bo i Frankrike, Italien, Österrike eller i Schweiz för det är bara där den kommer att säljas. Och bara 100 exemplar ska bli till totalt så skynda dig på! Någon prislapp har inte annonserats ännu men det man får är ett unikt bygge som är utrustat med Lightweight-paket, bensintank på 90 liter, sexpetad manuell låda och noslyft så man kommer över hinder som kan tänkas dyka upp under färden. Man har även tagit fram en helt egen lack till denna specialare och den kallar man för Valleygreenmetallic. L&auml;s vidare och kommentera: https://feber.se/bil/porschen-som-alskar-att-klattra-i-berg/495642/ L&auml;s mer om 911 GT3 , Bergsport , Porsche Exclusive Manufaktur , Alperna , alpvägar , unik , exklusiv",
-      "link": "https://feber.se/bil/porschen-som-alskar-att-klattra-i-berg/495642/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/porschen-som-alskar-att-klattra-i-berg/495642/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788364800000
     },
     {
       "title": "BAZ Yacht Design MOBU Superyacht Concept",
@@ -694,16 +624,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788363325000
     },
     {
-      "title": "Anthropics nya AI-modeller är här",
-      "description": "Claude Fable 5.1 och Mythos 5.1 Anthropic har nu rullat ut sina senaste AI-modeller, Claude Fable 5.1 och Mythos 5.1. Den största och kanske trevligaste nyheten för många är att dessa nya modeller är betydligt billigare än sina föregångare. Enligt Anthropic själva kan kostnaden för vissa uppgifter nu sjunka med upp till 45 procent. De första rapporterna från testare påstår att Fable 5.1 är ovanligt vass på programmering och har blivit bättre på att förstå nyanser och tvetydigheter i data. Dessutom beskrivs språket som mer naturligt och mänskligt. Anthropic har även passat på att justera sina säkerhetsfilter, då tidigare modeller har kritiserats för att vara för strikta och blockera helt vanliga frågor. För företag som hanterar känslig information införs också nya integritetslösningar där data kan lagras på kundens egna servrar istället för hos Anthropic. Fable 5.1 finns nu tillgänglig på alla plattformar, medan Mythos 5.1 än så länge är begränsad till deltagare i deras testprogram Project Glasswing. L&auml;s vidare och kommentera: https://feber.se/internet/anthropics-nya-ai-modeller-ar-har/495662/ L&auml;s mer om Mythos 5.1 , Claude Fable 5.1 , AI-modeller , programmering , Project Glasswing",
-      "link": "https://feber.se/internet/anthropics-nya-ai-modeller-ar-har/495662/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/anthropics-nya-ai-modeller-ar-har/495662/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788363000000
-    },
-    {
       "title": "Nytt misstänkt sabotageförsök mot tysk elanläggning",
       "description": "Det här är andra incidenten på kort tid.",
       "link": "https://yle.fi/a/7-10104606?origin=rss",
@@ -712,26 +632,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788362912000
-    },
-    {
-      "title": "Ny teaser för Harry Potter och de vises sten",
-      "description": "Tv-serien om den lille trollkarlen HBO släppte precis en ny teaser för den kommande Harry Potter-serien Harry Potter och de vises sten ( Harry Potter and the Philosopher's Stone ). Tv-serien är precis som filmerna baserad på J.K. Rowlings klassisk böcker om när den unge Harry Potter blir antagen till magikerskolan Hogwarts och de äventyr han får uppleva där. Den första säsongen av Harry Potter och de vises sten drar igång på HBO Max i jul. Ni hittar den senaste teasern för tv-serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/ny-teaser-for-harry-potter-och-de-vises-sten/495687/ L&auml;s mer om Harry Potter , J.K. Rowling , Hogwarts , HBO Max , Fantasy",
-      "link": "https://feber.se/film/ny-teaser-for-harry-potter-och-de-vises-sten/495687/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/ny-teaser-for-harry-potter-och-de-vises-sten/495687/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788362400000
-    },
-    {
-      "title": "Huawei visar upp nya klockor och lurar i München",
-      "description": "Titan, safirglas och ett skidläge som räknar dina svängar Huawei drog idag igång sitt europeiska lanseringsevent i München och plockade fram en hel hög med nyheter: två klockserier, ett par nya hörlurar och en surfplatta. Nyheter i GT-serien samt en blodtrycksklocka Huvudnumret är Watch GT 7-serien. Vanliga GT 7 kommer i 46 och 41 mm och sex färger totalt, medan Pro-modellen finns i tre färger med ram i nanokeramik och boett i titanlegering. Hela serien får också uppdaterade armband. Det fräsiga finns i sportlägena. Huawei kallar det branschens första handledsbaserade registrering av svängar och G-krafter i skidbacken, och till det kommer ett läge för snösport inomhus plus pistkartor för över 3 000 skidorter världen över. Cyklisterna får ruttplanering för stigningar, lutningsvarningar och en förvarning inför skarpa kurvor. På hälsosidan har hälsoinsikter fyllts på med dagsformsanalys och smart hälsoanalys. En annan ganska intressant klocka de visar upp är blodtrycksklockan Watch D3. Den är CE-certifierad som medicinteknisk produkt och mäter blodtrycket med en fysisk luftkudde i armbandet, vilket ger stöd för ambulatorisk blodtrycksmätning. Nytt är mätning både före och efter träning samt påminnelser om att faktiskt ta mätningen. Nya lurar och en surfplatta FreeBuds Neo är en helt ny hörlursserie med adaptiv brusreducering och en frekvensräckvidd mellan 10 Hz till 48 kHz. De finns i silver, vitt och svart och kan hålla koll på två enheter samtidigt, så du slipper para om mellan telefon och dator. Sen kom MatePad Pro 12 tum, 4,7 mm tunn och 454 gram, med en OLED PaperMatte-skärm. Den är dock inte planerad för Sverige, så den får vi bara titta på. Slutligen gör Watch 6-serien comeback efter ett års paus, med 46 och 41 mm i standardutförande och 46 och 43 mm på Pro, plus fristående samtal, navigering och betalningar. Priser och datum för den kommer senare. Watch GT 7 Pro kostar 4 699 kronor och Watch GT 7 3 199 kronor, båda med säljstart 21 september. Fram till 18 oktober drar Huawei av 700 kronor på Pro-modellen och 400 kronor på vanliga GT 7. Watch D3 kostar 5 499 kronor och FreeBuds Neo 1 499 kronor, båda ska finnas i butik från 12 oktober. L&auml;s vidare och kommentera: https://feber.se/pryl/huawei-visar-upp-nya-klockor-och-lurar-i-munchen/495609/ L&auml;s mer om FreeBuds Neo , MatePad Pro , Watch D3 , Huawei , Watch GT 7 , Huawei Watch GT 7",
-      "link": "https://feber.se/pryl/huawei-visar-upp-nya-klockor-och-lurar-i-munchen/495609/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/huawei-visar-upp-nya-klockor-och-lurar-i-munchen/495609/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788361800000
     },
     {
       "title": "“Broken heart syndrome” can look just like a heart attack. This test can tell them apart",
@@ -762,16 +662,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1788361201000
-    },
-    {
-      "title": "Första flygningen med Gripen F",
-      "description": "Den tvåsitsiga versionen av Gripen E Saab har släppt ett klipp där man visar upp sin första flygning med Gripen F, den senaste modellen av Gripen som visades upp tidigare i år. Flygningen genomfördes den 28 augusti på Saabs flygfält i Linköping. Bakom spakarna satt Saabs chefstestpilot Jakob Högberg och testpiloten Abdon Vasconcelos som är överstelöjtnant i det brasilianska flygvapnet. Saab skriver i en pressrelease om den nya Griper-versionen: \"Gripen F is the result of the strategic partnership between Brazil and Sweden, as well as the extensive technology transfer carried out under the Brazilian Gripen Programme. More than 350 Brazilian engineers, technicians and pilots have participated in training activities related to the development, production, flight testing and maintenance of the aircraft.\" Flygningen varade cirka 40 minuter och ni kan se ett sammandrag från detta i videoklippet nedan. L&auml;s vidare och kommentera: https://feber.se/fordon/forsta-flygningen-med-gripen-f/495685/ L&auml;s mer om Saab , Gripen F , Jakob Högberg , Linköping , flygvapnet , Abdon Vasconcelos , Brasilien",
-      "link": "https://feber.se/fordon/forsta-flygningen-med-gripen-f/495685/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/forsta-flygningen-med-gripen-f/495685/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788361200000
     },
     {
       "title": "Aesop Ginger Flight Therapy",
@@ -824,16 +714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788359408000
     },
     {
-      "title": "Fjärrstyrda robotar börjar städa bostäder i San Francisco",
-      "description": "För 30 dollar i timmen Ett startup-företag som heter Tau Robotics har lanserat en tjänst där man låter fjärrstyrda robotar utföra städuppgifter i hushåll i San Francisco. Robotarna som Tau Robotics använder ska vara modifierade versioner av den kinesiska robottillverkaren Unitrees G1-modell vilka försetts med extra kameror och klätts in i Tau Robotics arbetskläder. Robotarna styrs i dagsläget från Tau Robotics kontor, men man har förhoppningar om att robotarna ska kunna utföra uppgifter på egen hand i framtiden. Tau Robotics robotstädare kostar 30 dollar (ca 290 kronor) i timmen och i dagsläget är efterfrågan på robotarnas tjänster större än tillgången enligt Tau Robotics grundare och vd Alex Koch. Här nedanför kan ni kolla in ett nyhetsinslag från AP där Tau Robotics robotar städar hemma hos en kund. Första gången jag såg ett inslag om Tau Robotics robotar tidigare i år trodde jag att det rörde sig om människor som klätt ut sig till robotar då robotens rörelser inte kändes särskilt robotlika. Jag antar dock att AP har bekräftat att det faktiskt finns en robot under arbetskläderna. L&auml;s vidare och kommentera: https://feber.se/pryl/fjarrstyrda-robotar-borjar-stada-bostader-i-san-francisco/495639/ L&auml;s mer om Tau Robotics , San Francisco , Unitree G1 , Alex Koch , fjärrstyrning , Unitree",
-      "link": "https://feber.se/pryl/fjarrstyrda-robotar-borjar-stada-bostader-i-san-francisco/495639/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/fjarrstyrda-robotar-borjar-stada-bostader-i-san-francisco/495639/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788359400000
-    },
-    {
       "title": "Tiger Woods blir av med körkortet för en lång tid – den tidigare världsettan erkände brott i rätten",
       "description": "Den tidigare golfstjärnan Tiger Woods har erkänt att han körde vårdslöst tidigare i år. Det här var fjärde gången som amerikanen var inblandad i en trafikolycka.",
       "link": "https://yle.fi/a/7-10104604?origin=rss",
@@ -872,16 +752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788357725000
-    },
-    {
-      "title": "Lite mer gameplay från Neo Berlin 2087",
-      "description": "Elysium Game Studio visar upp 16 minuter från det spelet Elysium Game Studio bjussar här på cirka 16 minuter med gameplay från det kommande actionrollspelet Neo Berlin 2087. I klippet får vi följa detektiven Nolan på ett uppdrag i en mörk cyberpunk-framtid. Nolans mål är att hitta polischefens försvunna dotter och samtidigt nysta upp en omfattande konspiration som hotar staden. Som man kan se i klippet kan man sömlöst växla mellan första- samt tredjepersonsperspektiv under striderna, och det är inte bara action utan även diverse pusselmoment där man rekonstruerar minnen för att hitta dolda ledtrådar. Dialogval som påverkar handlingens gång finns också om man känner att det är viktigt. Neo Berlin 2087 är på gång för PlayStation, Xbox och PC. Tanken är att det ska släppas någon gång under 2028. L&auml;s vidare och kommentera: https://feber.se/spel/lite-mer-gameplay-fran-neo-berlin-2087/495658/ L&auml;s mer om Elysium Game Studio , Neo Berlin 2087 , actionrollspel , cyberpunk , PlayStation , Xbox , gameplay , PC",
-      "link": "https://feber.se/spel/lite-mer-gameplay-fran-neo-berlin-2087/495658/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/lite-mer-gameplay-fran-neo-berlin-2087/495658/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788357600000
     },
     {
       "title": "Partierna eniga om bättre skola - men strider om valfrihet",
@@ -932,16 +802,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1788356037000
-    },
-    {
-      "title": "DJI släpper Osmo Pocket med dubbla objektiv",
-      "description": "Nya gimbalkameran har både vidvinkel samt ett teleobjektiv DJI presenterade i går sin nya gimbalkamera Osmo Pocket 4P. Den stora nyheten med denna är att kameran nu för första gången utrustats med dubbla objektiv. Tanken med de två objektiven är att ge folk större frihet utan att de behöver bära med sig alltför mycket extra utrustning. Med ett vidvinkelobjektiv på 20 mm kan man fånga stora vyer, medan det nya teleobjektivet på 60 mm gör det möjligt att komma nära motivet och skapa snygga porträtt med naturligt skärpedjup. Kameran väger bara 230 gram och har en 1-tums sensor på insidan. Den har ett dynamiskt omfång på 17 steg, vilket borde innebära att den ska vara bra på att hantera stora kontraster, som när man filmar i starkt motljus eller under sena kvällar i stan. För den som gillar slowmotion kan Osmo Pocket 4P filma i 4K med 240 bilder per sekund, vilket säkert tilltalar en del människor. DJI har även uppdaterat sin följningsfunktion till ActiveTrack 8.0 den är bättre på att hålla fokus på människor, djur eller fordon även om man zoomar in ordentligt. Osmo Pocket 4P släpps i färgerna svart och pärlemorvitt. Priset för standardpaketet landar på 6 899 kronor och 7 899 kronor om man vill ha Vlog-kombon. L&auml;s vidare och kommentera: https://feber.se/pryl/dji-slapper-osmo-pocket-med-dubbla-objektiv/495656/ L&auml;s mer om gimbalkamera , DJI , Osmo Pocket 4P , ActiveTrack 8.0 , ActiveTrack , DJI Osmo Pocket 4P , dubbla objektiv",
-      "link": "https://feber.se/pryl/dji-slapper-osmo-pocket-med-dubbla-objektiv/495656/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/dji-slapper-osmo-pocket-med-dubbla-objektiv/495656/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788355800000
     },
     {
       "title": "Oppositionen rasar mot regeringens budget: ”Välfärdsstaten på knä”",
@@ -1014,16 +874,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788354076000
     },
     {
-      "title": "Nu får Volvo EX30 V2L",
-      "description": "Via en gratis mjukvaruuppdatering Glädjande nyheter för den som rullar runt i en Volvo EX30. Nu kan du tanka ner en gratis mjukvaruuppdatering som ger dig V2L (Vehicle-to-Load) vilket i sin tur gör att du kan driva eldrivna prylar från bilen. Om du exempelvis känner för att slipa ner lacken och byta färg är det bara att plugga in din slipmaskin och köra loss. Om du har den särskilda fysiska adaptern som man stoppar in i ladduttaget vill säga. Tekniken kan leverera upp till 3 kW ström (16 ampere). Om bilens batterinivå sjunker under 20 procent stängs strömmen av automatiskt så du inte dränerar batteriet. Förutom V2L innehåller uppdateringen även Plug & Charge och några förbättringar av infotainmentsystemet som får sig ett uppdaterat gränssnitt. L&auml;s vidare och kommentera: https://feber.se/bil/nu-far-volvo-ex30-v2l/495644/ L&auml;s mer om EX30 , V2L , mjukvara , uppdatering , gratis , Vehicle-to-Load",
-      "link": "https://feber.se/bil/nu-far-volvo-ex30-v2l/495644/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nu-far-volvo-ex30-v2l/495644/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788354000000
-    },
-    {
       "title": "Nu blir det gratis fritidsaktiviteter på Kvarnbergsgården",
       "description": "Meningsfull fritid öppnar på Kvarnbergsgården den 14 september. Barn 10–12 år i centrala Huddinge får prova gratis aktiviteter efter skolan, som schack, badminton och gymnastik.",
       "link": "https://www.mitti.se/nyheter/nu-blir-det-gratis-fritidsaktiviteter-pa-kvarnbergsgarden-6.3.383509.12c1e83298",
@@ -1064,16 +914,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788352585000
     },
     {
-      "title": "Snart dags för ny säsong av Tulsa King",
-      "description": "Sylvester Stallone gangstrar vidare i Oklahoma Nästa månad drar den fjärde säsongen av Tulsa King igång och här kommer en teaser inför det. I seriens tre tidigare säsonger har tittarna kunnat se Sylvester Stallone spela rollen som Dwight 'The General' Manfredi, en avdankad medlem i New Yorks maffia som efter att ha förvisats till Oklahoma börjat bygga upp en egen maffiafamilj med en brokig skara lokalbor. I den fjärde säsongen siktar Dwight på att försöka göra sin verksamhet laglig samtidigt som han och hans gäng hotas av både konkurrenter och myndigheter. Den fjärde säsongen av Tulsa King drar igång på Paramount+ den 16 oktober i USA. Här i Sverige visas serien på Skyshowtime, men vilket datum den nya säsongen börjar visas där finns det inga uppgifter om än så länge. Ni hittar en teaser för den nya säsongen nedan. L&auml;s vidare och kommentera: https://feber.se/film/snart-dags-for-ny-sasong-av-tulsa-king/495654/ L&auml;s mer om Tulsa King , Sylvester Stallone , Skyshowtime , maffia , TV-serier , Dwight Manfredi",
-      "link": "https://feber.se/film/snart-dags-for-ny-sasong-av-tulsa-king/495654/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/snart-dags-for-ny-sasong-av-tulsa-king/495654/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788352200000
-    },
-    {
       "title": "Kålsallad med jordnötter och kokosdressing",
       "description": "Se detta som ett recept som kan varieras, till exempel med tunt hyvlad kålrabbi, rädisor, rå broccoli, majrova, kålrot eller andra krispiga grönsaker.",
       "link": "https://alltommat.expressen.se/recept/kalsallad-med-jordnotter-och-kokosdressing/",
@@ -1104,16 +944,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788351400000
     },
     {
-      "title": "Mitsubishi Pajero är tillbaka!",
-      "description": "Blir nytt flaggskepp Efter en del teasers hit och dit har Mitsubishi nu officiellt presenterat helt nya Pajero. Modellen återkommer till märket och blir nytt flaggskepp. Pajero lanserades för första gången 1982 och utvecklades som en robust och potent fyrhjulsdriven modell med bra offroad-egenskaper, fast med passagerarkomfort. Sedan dess har det blivit fyra generationer och över 3,2 miljoner sålda exemplar, och Pajero är en av tillverkarens mest ikoniska modeller. Den nya generationen kommer att säljas på 100 marknader världen över. Modellen baseras på samma chassi som pickupen Triton och under huven hittar vi en turbomatad dieselmaskin på 2,4 liter. Den ska bjuda på 480 newtonmeter i vrid med någon siffra för hästkrafter har vi inte fått än. Ingen elektrifiering just nu men det ska komma i framtiden. Drivningen sker på alla fyra hjulen och detta sker via en åttastegad automatlåda. Bilen mäter 4,9 meter på längden och hjulbasen anges till 2,87 meter. Markfrigången ligger på 23 centimeter och det finns sju olika terränglägen att välja på när man kör. På insidan finns tre sätesrader och totalt sju sittplatser. Här hittar vi även dubbla skärmar på vardera 14,3 tum. På den ena kan man se höjd, kompass, temperatur och hur mycket man lutar när man är ute och härjar. Tillverkningen sker i Thailand sida vid sida med Triton. Marknadslansering kommer att ske i mars nästa år, men någon prislapp har vi inte fått än. L&auml;s vidare och kommentera: https://feber.se/bil/mitsubishi-pajero-ar-tillbaka/495655/ L&auml;s mer om Pajero , SUV , officiell , flaggskepp",
-      "link": "https://feber.se/bil/mitsubishi-pajero-ar-tillbaka/495655/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/mitsubishi-pajero-ar-tillbaka/495655/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788351300000
-    },
-    {
       "title": "Stridsgisslet var skrämmande – men användes vapnet?",
       "description": "Stridsgisslet krossade ben genom en rustning, men slagvapnet kunde vara farligare för ägaren än för fienden.",
       "link": "https://varldenshistoria.se/samhalle/medeltiden/var-stridsgisslet-ett-effektivt-vapen-under-medeltiden",
@@ -1122,16 +952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1788350444000
-    },
-    {
-      "title": "Galileo X kan bogsera en bil",
-      "description": "Kraftfull robothund från Kina Här kan ni kolla in en ny fyrbent robothund från det kinesiska robotföretaget Galileo Robotics. Företaget kallar sin senaste robot för Galileo X och uppger att den kan lastas med 200 kg material. Galileo har inte släppt några tekniska specifikationer om robotens innanmäte eller hur lång batteritid den har. I ett videoklipp som släpptes tidigare den här veckan visar man dock upp hur den kan bogsera en bil, något som ni kan kolla in här nedanför. När Galileo planerar att börja sälja Galileo X och vad den då kommer att kosta finns det heller inga uppgifter om än så länge. L&auml;s vidare och kommentera: https://feber.se/pryl/galileo-x-kan-bogsera-en-bil/495633/ L&auml;s mer om Galileo Robotics , Galileo X , Kina , robothund",
-      "link": "https://feber.se/pryl/galileo-x-kan-bogsera-en-bil/495633/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/galileo-x-kan-bogsera-en-bil/495633/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788350400000
     },
     {
       "title": "En person misstänks för hotfull Tiktok mot skola",
@@ -1144,16 +964,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788350214000
     },
     {
-      "title": "Finska laddoperatören Plugit nu även i Sverige",
-      "description": "Ei saa peittää Plugit är en finsk laddoperatör som nu har öppnat upp sin allra första laddstation här i Sverige. Den ligger i Klevshult söder om Jönköping, längs med E4:an. På plats finns åtta snabbladdare och alla har en kapacitet på 400 kW. Fokus ligger på tyngre fordon och kommersiella transporter. Det här är Plugits första internationella satsning utanför hemmamarknaden. Sverige har tio gånger fler eldrivna lastbilar än Finland. I hemlandet erbjuder operatören bland annat laddlösningar för PostNord, SSAB och Posti Group. L&auml;s vidare och kommentera: https://feber.se/bil/finska-laddoperatoren-plugit-nu-aven-i-sverige/495643/ L&auml;s mer om Plugit , laddoperatör , Finland , laddlösning , elbilar , elfordon , ellastbil , ladda , elbilsladdare",
-      "link": "https://feber.se/bil/finska-laddoperatoren-plugit-nu-aven-i-sverige/495643/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/finska-laddoperatoren-plugit-nu-aven-i-sverige/495643/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788349500000
-    },
-    {
       "title": "Miapetra Kumpula-Natri får lämna riksdagen",
       "description": "Nyländska riksdagsledamoten Miapetra Kumpula-Natri (SDP) får lämna sitt jobb i riksdagen, säger riksdagens talmän.",
       "link": "https://yle.fi/a/7-10104582?origin=rss",
@@ -1162,16 +972,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788349226000
-    },
-    {
-      "title": "8BitDo släpper mysiga tillbehör",
-      "description": "Xbox Cozy Collection har hämtat inspiration från naturen Microsoft har i ett samarbete med tillbehörstillverkaren tagit fram en uppsättning tillbehör som man nu börjar sälja under namnet \"Xbox Cozy Collection\". I Xbox Cozy Collection ingår en Xbox-kontroll samt ett tangentbord och en mus som går i naturnära färger och som dekorerats med olika djur, växter och annat som kan hittas i naturen. Tangentbordet \"Retro 87 Mechanical Keyboard - Forest Wonder\" inkluderar två stora programmerbara knappar för makron och är baserat på tangentbordet \"Retro 87 Mechanical Keyboard\" som 8BitDo släppt tidigare. Musen kallas för Retro R8 Mouse - Forest Wonder och baseras på \"Retro R8 Mouse\". Spelkontrollen \"Ultimate 3 Controller for XBOX - Mossy Lagoon\" är även den baserad på en tidigare spelkontroll till Xbox som 8BitDo sålt sedan tidigare. Musen och tangentbordet i Xbox Cozy Collection är kompatibla med Windows 10 och senare samt Android 9.0 och senare, medan spelkontrollen går att använda med Xbox Series X/S, Xbox One, Windows 10/11, Android och Apple-enheter. Här nedan hittas priserna för Xbox Cozy Collection från 8BitDo: 8BitDo Retro R8 Mouse - Forest Wonder: cirka 60 dollar Retro 87 Mechanical Keyboard - Forest Wonder: cirka 120 dollar Ultimate 3 Controller for XBOX - Mossy Lagoon: cirka 100 dollar L&auml;s vidare och kommentera: https://feber.se/spel/8bitdo-slapper-mysiga-tillbehor/495653/ L&auml;s mer om 8BitDo , Xbox Cozy Collection , Retro 87 Mechanical Keyboard , Retro R8 Mouse , Ultimate 3 Controller",
-      "link": "https://feber.se/spel/8bitdo-slapper-mysiga-tillbehor/495653/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/8bitdo-slapper-mysiga-tillbehor/495653/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788348600000
     },
     {
       "title": "Barn under 15 misstänks för stämpling till mord",
@@ -1192,16 +992,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788347719000
-    },
-    {
-      "title": "Svenska priset för Subaru E-Outback klart",
-      "description": "Denna eller Toyota bZzzz44xxx Touring? Toyota har ett syskon till den eldrivna kombin bZ4X Touring och det är Subaru E-Outback. Samma bil fast lite olika design och Subarus logga på sig. Mellan den 5-6 september lanseras E-Outback här i Sverige och det svenska priset är nu klart. Modellen har en elmotor på varje axel som tillsammans levererar 380 hästar och fyrhjulsdrift. Batteripacket är på 74,4 kWh och ska ge en räckvidd på upp till 52,6 mil. Man ska kunna snabbladda med upp till 150 kW. Markfrigången anges till 21 centimeter, det går in 669 liter i bagagerummet och på dragkroken får man hänga upp till 1,5 ton. Vad får man betala då? Jo, från 569.900 kronor kostar den. Toyotas motsvarighet börjar på samma pengar. Vilken hade du valt och varför? L&auml;s vidare och kommentera: https://feber.se/bil/svenska-priset-for-subaru-e-outback-klart/495645/ L&auml;s mer om E-Outback , elbil , pris , Sverige , lansering , kombi",
-      "link": "https://feber.se/bil/svenska-priset-for-subaru-e-outback-klart/495645/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/svenska-priset-for-subaru-e-outback-klart/495645/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788346800000
     },
     {
       "title": "På Hot Chips-mässan riktades blickarna mot AI-kostnader, GPU:er – och framtiden",
@@ -1244,16 +1034,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788346150000
     },
     {
-      "title": "Vill du ha Brutal Legend 2?",
-      "description": "Det kostar bara 100 miljoner dollar Spelstudion Double Fine, som ligger bakom spel som Psychonauts och Stacking, är numera helt oberoende igen efter att ha lämnat Microsoft under sommaren. För att fira sin nya frihet har de återvänt till Kickstarter med projektet Amnesia Fortnight 2026. I denna kampanj finns det ett mål på 100 miljoner dollar och om kampanjen når det så tänker studion utveckla ett Brutal Legend 2. Nu är nog detta mål lite mer gjort med glimten i ögat då det mest framgångsrika spelet i Kickstarters historia inte ens har kommit nära dessa summor så om ingen oligark eller oljeshejk med en enorm kärlek för Jack Black, RTS och Lemmy Kilmister pungar upp pengarna blir nog detta mål svårt att nå. Det egentliga syftet med insamlingen är att finansiera studions traditionella game jam där teamet under två veckor lämnar allt annat åt sidan för att bygga prototyper av sina vildaste och märkligaste idéer. Den här gången får de som stöttar kampanjen rösta fram sina favoriter bland 26 olika förslag. Det vinnande konceptet kommer sedan att utvecklas till ett färdigt spel under studions nya satsning för mindre titlar, Double Fine Action Labs. L&auml;s vidare och kommentera: https://feber.se/spel/vill-du-ha-brutal-legend-2/495660/ L&auml;s mer om Double Fine , Kickstarter , Amnesia Fortnight , Brutal Legend 2 , Microsoft , spelutveckling , Game jam",
-      "link": "https://feber.se/spel/vill-du-ha-brutal-legend-2/495660/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/vill-du-ha-brutal-legend-2/495660/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788345000000
-    },
-    {
       "title": "Laggande GPS gör att ambulanser åker fel",
       "description": "I över ett halvår har ambulanser i Stockholm kört fel och försenats under akuta utryckningar på grund av fel i GPS-kartstödet. – Under all kritik, medger ambulanschefen Jani Sundqvist.",
       "link": "https://www.mitti.se/nyheter/laggande-gps-gor-att-ambulanser-aker-fel-6.3.383467.0ebbe5755b",
@@ -1262,16 +1042,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788343488000
-    },
-    {
-      "title": "Första Range Rovern med bara eldrift",
-      "description": "Och så svettig blir prislappen Nu rullar Land Rover ut Range Rover med bara eldrift och den får då tilläggsnamnet Electric. Suven ser ut som vanligt men smyger alltså fram, har 800-voltssystem, WLTP-räckvidd på 60 mil, givetvis fyrhjulsdrift och totalt 550 hästar från en elmotor på vardera axel. 0-100 km/h ska gå på 4,3 sekunder. Batteripacket är på 118,5 kWh och man ska kunna ladda detta med upp till 350 kW. Ett smart One pedal drive-läge gör att man kan köra i lutningar upp till 45 grader och vill man bada ska den klara ett vaddjup på 90 centimeter. Modellen erbjuds i utrustningsnivåerna SE, HSE, Autobiography och SV och man kan få den med kort eller lång hjulbas. Går att beställa nu och det svenska priset börjar på 1.892.900 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/forsta-range-rovern-med-bara-eldrift/495679/ L&auml;s mer om eldriven , elbil , Range Rover Electric , Range , Land Rover , SUV , lyx",
-      "link": "https://feber.se/bil/forsta-range-rovern-med-bara-eldrift/495679/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/forsta-range-rovern-med-bara-eldrift/495679/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788343200000
     },
     {
       "title": "Från bad till bollsport – kolla in i nya Vasalundshallen",
@@ -1314,16 +1084,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788341493000
     },
     {
-      "title": "GoPro köps upp av optikföretag",
-      "description": "Ska nu även satsa på datacenter, försvar, rymden och robotik GoPro, det amerikanska kameraföretaget som haft lite ekonomiska problem den senaste tiden, kommer att förvärvas av företaget Starman Optical, ett förhållandevis okänt företag som specialiserat sig på att göra optiska transceivrar. Starman kommer köpa 90 procent av GoPro för 285 miljoner dollar, motsvarande lite över 2,7 miljarder kronor. Det ser ut som om Starman har stora framtidsplaner för GoPro och i en pressrelease skriver man att GoPro framöver även kommer att ge sig in på marknaderna för AI-datacenter, rymdapplikationer, robotik och försvar. Affären mellan GoPro och Starman Optical har godkänts av de båda företagens styrelser, men måste även godkännas av GoPros nuvarande aktieägare för att fullföljas. GoPros aktie har de senaste två dagarna stigit med över 100 procent, både på grund av dagens uppköpsbesked och att YouTubern och GoPro-investeraren Markiplier häromdagen uppgav att han ansåg att företaget var för lågt värderat. L&auml;s vidare och kommentera: https://feber.se/samhalle/gopro-kops-upp-av-optikforetag/495651/ L&auml;s mer om GoPro , Starman Optical , Markiplier , robotik , AI-datacenter , AI , optiska transceivrar , uppköp",
-      "link": "https://feber.se/samhalle/gopro-kops-upp-av-optikforetag/495651/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/gopro-kops-upp-av-optikforetag/495651/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788341400000
-    },
-    {
       "title": "Linnros målning väckte M:s fasa – nu fullbordas den",
       "description": "Arbete med fasadmålning inspirerad av Oskar Linnros inlett i Sundbyberg.",
       "link": "https://www.mitti.se/nyheter/linnros-malning-vackte-ms-fasa--nu-fullbordas-den-6.3.383098.f382b3dca9",
@@ -1332,16 +1092,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788340264000
-    },
-    {
-      "title": "Så mycket kostar Hyundai Ioniq 3",
-      "description": "Eller så lite? Nu dundrar Hyundai ut den svenska prislappen på den lilla eldrivna modellen Ioniq 3 och du kan beställa ett exemplar nu om du är sugen. Den kostar från 344.900 kronor och går att privatleasa för 3495 kronor per månad. För pengarna får du enligt Hyundai djärv design, generösa utrymmen och avancerad elbilsteknik i ett kompakt format utvecklat för europeiska förare. Modellen baseras på Hyundais elbilsplattform E-GMP och du kan få den med två olika batteristorlekar - Standard Range med 42 kWh eller Long Range med 61 kWh. Det förstnämnda ska ge räckvidd på upp till 34,4 mil medan det större ska räcka i 49,7 mil. Båda har ombordladdare på 11 kW för AC-laddning. Man ska kunna snabbladda det lilla med upp till 119 kW och det stora med upp till 110 kW. Premiären i Sverige sker på elbilsmässan eCarExpo i Stockholm den 9-11 oktober. Läs mer i pressmeddelandet nedan. Version Priser Privatleasing från IONIQ 3 Standard Range Select 344.900 kr 3.495 kr/mån IONIQ 3 Standard Range Trend 364.900 kr 3.695 kr/mån IONIQ 3 Long Range Select 394.900 kr 3.995 kr/mån IONIQ 3 Long Range Trend 414.900 kr 4.195 kr/mån IONIQ 3 Long Range Prime 449.900 kr 4.795 kr/mån IONIQ 3 Long Range N Line Evo 479.900 kr 4.995 kr/mån L&auml;s vidare och kommentera: https://feber.se/bil/sa-mycket-kostar-hyundai-ioniq-3/495641/ L&auml;s mer om Ioniq 3 , pris , Sverige , lansering , batteri , räckvidd , elbil , kompakt",
-      "link": "https://feber.se/bil/sa-mycket-kostar-hyundai-ioniq-3/495641/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/sa-mycket-kostar-hyundai-ioniq-3/495641/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788339600000
     },
     {
       "title": "Då behöver en halv miljon stockholmare förnya passet",
@@ -1364,26 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788339229000
     },
     {
-      "title": "Nästan en miljon har förtidsröstat",
-      "description": "Många som redan bestämt sig Valmyndigheten meddelade tidigare idag att närmare en miljon personer redan förtidsröstat i valet 2026, en ökning med 40 procent jämfört med valet 2022. Anna Nyqvist, kanslichef på Valmyndigheten, säger i en kommentar: – Vi ser en väldigt stor ökning i förtidsröstningen så här långt jämfört med valet 2022. Siffrorna för de första sju dagarna visar att trenden med fler och fler som förtidsröstar ser ut att hålla i sig även vid årets val. Det är just nu en 40-procentig ökning jämfört med samma period vid valen 2022. Under de första sju dagarna efter att förtidsröstningen öppnade den 26 september augusti utnyttjade 992.863 väljare möjligheten att förtidsrösta. Under valet 2022 var det sammanlagt 3 153 628 personer som förtidsröstade. Det kommer att vara möjligt att förtidsrösta fram till valdagen den 13 september. L&auml;s vidare och kommentera: https://feber.se/samhalle/nastan-en-miljon-har-fortidsrostat/495676/ L&auml;s mer om Valmyndigheten , förtidsröstning , Anna Nyqvist , valet 2026 , demokrati , val 2026 , Väljare",
-      "link": "https://feber.se/samhalle/nastan-en-miljon-har-fortidsrostat/495676/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/nastan-en-miljon-har-fortidsrostat/495676/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788338400000
-    },
-    {
-      "title": "Razer släpper ihopfällbar spelkontroll för mobilen",
-      "description": "Smidig att ha med sig i fickan Razer har visat upp en ny spelkontroll för mobiltelefoner som går att vika ihop när den inte används, något som gör att den tar lite mindre plats än liknande spelkontroller för mobiler. Razer Prio går att använda till både iOS och Android och kopplas ihop med mobiltelefonen via USB-C. Den är försedd med ett styrkors, dubbla joysticks och fyra knappar på framsidan samt bumper- och trigger-knappar på ovansidan. Razers nya spelkontroll går att köpa nu och kostar cirka 110 euro. L&auml;s vidare och kommentera: https://feber.se/mobil/razer-slapper-ihopfallbar-spelkontroll-for-mobilen/495650/ L&auml;s mer om Razer , iOS , Android , Razer Prio , USB-C , spelkontroll , mobilspel",
-      "link": "https://feber.se/mobil/razer-slapper-ihopfallbar-spelkontroll-for-mobilen/495650/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/razer-slapper-ihopfallbar-spelkontroll-for-mobilen/495650/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788337800000
-    },
-    {
       "title": "Nu stängs cykelbanan vid Klara sjö – ska breddas",
       "description": "Stråket vid Klara sjö breddas – gång- och cykelväg stängs av i höst.",
       "link": "https://www.mitti.se/nyheter/nu-stangs-cykelbanan-vid-klara-sjo--ska-breddas-6.3.382000.941ba45d2e",
@@ -1392,26 +1122,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788337296000
-    },
-    {
-      "title": "Apple Maps döper också om Lake Ontario",
-      "description": "Heter nu Lake America i USA Efter det att USA:s president Donald Trump förra veckan beslöt sig för att döpa om Lake Ontario till Lake America har nu även Apple Maps döpt om den stora sjön på gränsen mellan USA och Kanada. Google Maps döpte om sjön för amerikanska Google Maps-besökare tidigare i veckan och nu har även Apple Maps döpt om sjön för amerikanska besökare. För besökare utanför USA heter sjön fortfarande Lake Ontario på Apple Maps, eller lokala varianter som till exempel Ontariosjön här i Sverige. Huruvida Apple väntade med att döpa om Lake Ontario tills igår berodde på att Apples avgående vd Tim Cook skulle få en lite lugnare sista dag på jobbet är oklart. L&auml;s vidare och kommentera: https://feber.se/mac/apple-maps-doper-ocksa-om-lake-ontario/495675/ L&auml;s mer om Donald Trump , Lake Ontario , Apple Maps , Google Maps , Lake America , Tim Cook",
-      "link": "https://feber.se/mac/apple-maps-doper-ocksa-om-lake-ontario/495675/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mac/apple-maps-doper-ocksa-om-lake-ontario/495675/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788337200000
-    },
-    {
-      "title": "Sonos lanserar Beam Ultra och Ace Ultra",
-      "description": "Både soundbar och hörlurar får ordentliga uppdateringar Sonos utökar sitt sortiment med soundbaren Beam Ultra och hörlurarna Ace Ultra, som båda släpps i samband med det nya operativsystemet Sonos 27. Soundbaren Beam Ultra får nu \"äkta\" 7.1.2 Dolby Atmos-ljud (istället för 5.0) via nya dedikerade, uppåtriktade höjdkanaler och en ny centerkanal för tydligare dialog. Hörlurarna Ace Ultra har fått förbättrad aktiv brusreducering med två extra mikrofoner, 35 timmars batteritid och något Sonos kallar Headphone Engine 2 som låter dig växla ljudet sömlöst mellan hörlurarna och hemmets Sonos-system via Wi-Fi. Den stora mjukvaruuppdateringen Sonos 27 gör det dessutom möjligt att röststyra musikanläggningen med hjälp av externa AI-assistenter som ChatGPT och Google Gemini. Båda produkterna släpps den 29 september; Beam Ultra kostar 8500 kronor och Ace Ultra kostar 5000 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/sonos-lanserar-beam-ultra-och-ace-ultra/495666/ L&auml;s mer om Sonos 27 , Dolby Atmos , Sonos , Beam Ultra , Ace Ultra , Sonos Beam Ultra , Sonos Ace Ultra",
-      "link": "https://feber.se/pryl/sonos-lanserar-beam-ultra-och-ace-ultra/495666/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/sonos-lanserar-beam-ultra-och-ace-ultra/495666/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1788337200000
     },
     {
       "title": "Fler av Järfällas ungdomar dricker sprit och röker",
@@ -1732,16 +1442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1788296526000
-    },
-    {
-      "title": "Infinite Machine Olto Electric Scooter",
-      "description": "",
-      "link": "https://uncrate.com/infinite-machine-olto-electric-scooter/",
-      "guid": "https://uncrate.com/infinite-machine-olto-electric-scooter/",
-      "image": "https://uncrate.com/assets_c/2025/06/infinite-macine-olto-21-darkened-thumb-960xauto-183552.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1788292680000
     },
     {
       "title": "Förslaget: Fritidsgård i Triangelparken",
@@ -4958,7 +4658,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "FC Arlanda jagar avancemang till Superettan. Sportchefen Pierre Yaghleji tror på laget efter en stark säsong, få förluster och en positiv stämning i truppen.",
       "link": "https://www.mitti.se/nyheter/arlanda-med-i-toppstriden--kan-ga-upp-i-superettan-6.3.382086.7a3b453580",
       "guid": "https://www.mitti.se/nyheter/arlanda-med-i-toppstriden--kan-ga-upp-i-superettan-6.3.382086.7a3b453580",
-      "image": "https://www.mitti.se/image-3.343336.304913.20260831104217.2304bfc015?format=jpeg",
+      "image": "https://www.mitti.se/image-3.343336.304913.20260901085958.d7b426c6cb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1787806800000
