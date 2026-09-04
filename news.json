@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-09-03T22:52:54.167Z",
+  "updatedAt": "2026-09-04T01:53:18.806Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Han blir nye Trumptoppen",
+      "description": "Donald Trump utser Adam Telle till tillförordnad arméminister. ”Han är en stor patriot som respekteras av alla”, skriver Trump.",
+      "link": "https://www.expressen.se/nyheter/varlden/han-blir-nye-trumptoppen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/han-blir-nye-trumptoppen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788485435000
+    },
     {
       "title": "Headspace Campers Land Rover Defender 110",
       "description": "",
@@ -482,16 +492,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788452844000
-    },
-    {
-      "title": "Väljartapp skapar stress i S: Inte avgjort",
-      "description": "Stressen sprider sig i Socialdemokraterna efter flera mätningar med väljartapp. Internt växer kritiken mot det ensidiga fokuset på SD, men S-topparna står fast vid inriktningen. – Valet är inte på något sätt avgjort, säger partiledaren Magdalena Andersson.",
-      "link": "https://www.expressen.se/nyheter/politik/valjartapp-skapar-stress-i-s-inte-avgjort/",
-      "guid": "https://www.expressen.se/nyheter/politik/valjartapp-skapar-stress-i-s-inte-avgjort/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788452633000
     },
     {
       "title": "Vi gör en banger som Zara Larsson – chatta med Replokalen!",
