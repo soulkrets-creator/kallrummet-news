@@ -1,8 +1,88 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-05T22:27:54.511Z",
+  "updatedAt": "2026-09-06T01:48:43.457Z",
   "feedCount": 12,
-  "sourceCount": 11,
+  "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump går in med 100 miljoner till skandalkandidaten Ken Paxton",
+      "description": "Donald Trump öppnar sin krigskassa. Med 100 miljoner kronor lägger han sin tyngd bakom skandalkandidaten Ken Paxton. Paxton går just nu en hård kamp om en plats i senaten mot demokraternas påläggskalv James Talarico.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-gar-in-med-100-miljoner-till-skandalkandidaten-ken-paxton/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-gar-in-med-100-miljoner-till-skandalkandidaten-ken-paxton/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788657156000
+    },
+    {
+      "title": "A mysterious signal around Earth could be dark matter",
+      "description": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788656326000
+    },
+    {
+      "title": "80,000-year-old “arrowheads” rewrite human history",
+      "description": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo sapiens site in France. The discovery suggests sophisticated projectile technology may have appeared in Central Asia long before modern humans became firmly established in Europe, potentially rewriting a major chapter of human migration.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788655585000
+    },
+    {
+      "title": "Hopplösa känslan hos Republikanerna inför mellanårsvalet",
+      "description": "Donald Trump kliver till slut in i valkampanjen till höstens mellanårsval. Och han gör det genom att lägga allt fokus på sig själv. En taktik som många republikaner är livrädda för.",
+      "link": "https://www.expressen.se/nyheter/varlden/hopplosa-kanslan-hos-republikanerna-infor-mellanarsvalet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/hopplosa-kanslan-hos-republikanerna-infor-mellanarsvalet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788654922000
+    },
+    {
+      "title": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle",
+      "description": "Heart disease and chronic kidney disease can accelerate one another, but new guidelines say simple screening and early treatment could substantially reduce the risks. Blood and urine tests, combined with proven heart and kidney therapies, may help catch problems sooner and prevent serious complications.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788654188000
+    },
+    {
+      "title": "Historisk raketuppskjutning i Norge",
+      "description": "Historisk rymdframgång efter bakslagen",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/historiska-ogonblicket-tyska-raketen-nar-rymden",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/historiska-ogonblicket-tyska-raketen-nar-rymden",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788648254000
+    },
+    {
+      "title": "This “new” frog was hiding in plain sight for 100 years",
+      "description": "A common frog found across Ecuador and Colombia has finally been recognized as its own species after more than a century of mistaken identity. Museum specimens from the 1800s helped scientists reveal that Pristimantis milpe had been hiding in plain sight all along.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788647748000
+    },
+    {
+      "title": "Some joints may be primed for rheumatoid arthritis before birth",
+      "description": "Scientists have found evidence that vulnerability to rheumatoid arthritis may begin before birth. Finger joints commonly affected by the disease develop with different tissue structures and larger populations of specialized fibroblasts than joints that are usually spared. Those cells also respond differently to inflammation, suggesting that the architecture of each joint may help determine where arthritis eventually takes hold.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901070538.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260901070538.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788646793000
+    },
     {
       "title": "Kreml om fredssamtalen i Moskva",
       "description": "Fredssamtalen i Moskva slut",
@@ -22,16 +102,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1788644920000
-    },
-    {
-      "title": "Historisk raketuppskjutning i Norge",
-      "description": "Historisk rymdframgång efter bakslagen",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/historiska-ogonblicket-tyska-raketen-nar-rymden",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/historiska-ogonblicket-tyska-raketen-nar-rymden",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788644327000
     },
     {
       "title": "Partierna kallas till möte efter röstningskaoset: ”Allvarligt”",
@@ -74,6 +144,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788640025000
     },
     {
+      "title": "Mammotion ger LUBA-serien styrande framhjul",
+      "description": "Och en kantklippare som kopplas på baktill Mammotion visade upp sin nästa generation av robotgräsklippare på IFA i Berlin, den fjärde i ordningen. Naturligtvis blir då namnet Luba 4 AWD, och AWD betyder såklart att den får fyrhjulsdrift. De stora nyheterna är två. Den första är att framhjulen numera kan styras individuellt. Tillsammans med fyrhjulsdriften och fjädring borde även knepiga trädgårdar och miljöer gå att hantera. Vill man så kan man komplettera med en kantklippare. Olika tillverkare har valt olika lösningar här, Mammotions val föll på en trådbaserad variant likt en vanlig grästrimmer. Man kan juster höjden så att det blir som man vill i trädgården. Navigeringen ser också lovande ut. Här kombineras 360-graders LiDAR med RTK-positionering och fyra vidvinkelkameror som täcker fram, sidorna och bak. Kamerorna ska känna igen över 300 sorters föremål, så tanken är att den ska ratta förbi leksaker, verktyg och igelkottar. Hur bra det funkar på en svensk villatomt återstår att se. Priset är ännu oklart men den ska finnas att köpa under 2027. L&auml;s vidare och kommentera: https://feber.se/pryl/mammotion-ger-luba-serien-styrande-framhjul/495785/ L&auml;s mer om LiDAR , Mammotion , LUBA 4 AWD , robotgräsklippare , IFA , RTK-positionering , IFA Berlin , kantklippare",
+      "link": "https://feber.se/pryl/mammotion-ger-luba-serien-styrande-framhjul/495785/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/mammotion-ger-luba-serien-styrande-framhjul/495785/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788638400000
+    },
+    {
       "title": "Här grips knivmannen efter tumultet i Växjö",
       "description": "Den misstänkte gärningsmannen skadade en man inne i en lägenhet. Sen tog han sig ut – och kom i bråk med ytterligare fem personer. Nu har han gripits av polis.",
       "link": "https://www.expressen.se/nyheter/sverige/har-grips-knivmannen-efter-tumultet-i-vaxjo/",
@@ -82,6 +162,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1788636762000
+    },
+    {
+      "title": "Compound in blueberries may help muscle cells burn excess fat",
+      "description": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat buildup in cultured mouse muscle cells by boosting fat breakdown and helping stabilize a key protein involved in fatty acid metabolism.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1788636640000
     },
     {
       "title": "Motståndarkollen: ÖIS",
@@ -102,6 +192,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1788636612000
+    },
+    {
+      "title": "Maffig robotgräsklippare som tvättar sig själv",
+      "description": "Ecovacs visar nästa års serie på IFA På IFA-mässan i Berlin visade Ecovacs upp en ny generation av sin GOAT-serie med klippare. Totalt är det fyra nya modeller: Goat T1000 4WD, Goat T1600 4WD Pro, Goat XT10000 4WD Pro och Goat O600 LiDAR. Alla är som sig bör byggda för att klippa helt autonomt i trädgårdar av olika storlek och utformning. Bland förbättringarna för i år finns bättre hantering av kanter, kurvor och allmänt oregelbundna gränser mellan gräs och annat typer av ytor. En kul nyhet är dockningsstationen. Den ska nämligen kunna rengöra klipparen när den kommer hem, vilket ju är otroligt tacksamt. Alla som petat loss ihopklistrat gräs från undersidan på en robotgräsklippare fattar direkt varför det kan vara en bra idé. Nu åker man dit på att tömma och fylla på vattentankarna istället, men det kan man leva med. Den nya generation av GOAT-serien kommer först nästa år, så priser och annat kommer först då. Men de lär finnas i butik till nästa säsong. L&auml;s vidare och kommentera: https://feber.se/pryl/maffig-robotgrasklippare-som-tvattar-sig-sjalv/495784/ L&auml;s mer om Ecovacs , GOAT , robotgräsklippare , IFA , LiDAR , IFA-mässan , IFA Berlin , IFA2026",
+      "link": "https://feber.se/pryl/maffig-robotgrasklippare-som-tvattar-sig-sjalv/495784/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/maffig-robotgrasklippare-som-tvattar-sig-sjalv/495784/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788636600000
     },
     {
       "title": "Larm om knivhuggning i Växjö",
@@ -364,14 +464,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788621129000
     },
     {
-      "title": "Fem svenskar gripna på Cypern",
-      "description": "Misstänkt mordplan – greps på Cypern",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8432e788-610c-4039-a178-5279eb620007",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8432e788-610c-4039-a178-5279eb620007",
+      "title": "När använde du en fast telefon senast?",
+      "description": "Helgens fråga Färsk statistik från PTS visar att det fortfarande finns nästan 700 000 fasta telefonabonnemang kvar i landet. De flesta av dem tuffar på via fiber eller bredband i stället för det gamla kopparnätet och någonstans kan man väl anta att väldigt många av dessa fasta abonnemang kan hittas hos företag eller verksamheter i stället för privatpersoners hem. Men om man tittar på hur den siffran såg ut för 20 år sedan var det sex miljoner fasta telefonabonnemang i Sverige. L&auml;s vidare och kommentera: https://feber.se/nar-anvande-du-en-fast-telefon-senast/495773/ L&auml;s mer om PTS , bredband , fiber , fast telefoni , kopparnätet , fasta telefonabonnemang , kopparnät",
+      "link": "https://feber.se/nar-anvande-du-en-fast-telefon-senast/495773/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/nar-anvande-du-en-fast-telefon-senast/495773/?utm_source=rss&utm_medium=feed",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788620857000
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788620400000
     },
     {
       "title": "Snacka om superspurt – se Nora Lindahls show i stafett-FM",
@@ -394,16 +494,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788619932000
     },
     {
-      "title": "USA attackerade iranska tankfartyg",
-      "description": "USA:s svar på Irans angrepp",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ffd72b45-8d2d-4e33-83ea-49a59ddb6638",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ffd72b45-8d2d-4e33-83ea-49a59ddb6638",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788618319000
-    },
-    {
       "title": "Nytt fusk med begagnade bilar – notan hamnar på din försäkring",
       "description": "Den begagnade bilen på annonsen har en buckla i dörren och ett par repor på stötfångaren. Priset är därefter. Några veckor efter köpet anmäls skadan till försäkringsbolaget som färsk. En svensk försäkringstagare dömdes i år för exakt det upplägget. Personen begärde ersättning för en spricka i bilens framruta. ”Vid utredningen framkom att sprickan hade uppstått […]",
       "link": "https://www.dagensps.se/motor/nytt-fusk-med-begagnade-bilar-notan-hamnar-pa-din-forsakring/",
@@ -412,6 +502,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1788617676000
+    },
+    {
+      "title": "Så blev VS Code världens största kodredigerare",
+      "description": "Intressant dokumentär om kodredigeraren Visual Studio Code är ett givet val för många som fipplar kod i vardagen, men vägen till att bli världens mest använda kodredigerare var långt ifrån spikrak. I en ny dokumentär på YouTube får vi följa med på den tioåriga resan som utvecklarna bakom programmet gjorde. Dokumentären bjuder på intervjuer med nyckelpersonerna och profiler från Microsoft, Meta samt Google. L&auml;s vidare och kommentera: https://feber.se/video/sa-blev-vs-code-varldens-storsta-kodredigerare/495764/ L&auml;s mer om Visual Studio Code , Microsoft , YouTube , Meta , Google , kodredigerare , dokumentär",
+      "link": "https://feber.se/video/sa-blev-vs-code-varldens-storsta-kodredigerare/495764/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/video/sa-blev-vs-code-varldens-storsta-kodredigerare/495764/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788616800000
     },
     {
       "title": "Bortglömd hemma, känd utomlands: Finlandssvensk Palestinaforskares liv blev roman",
@@ -432,6 +532,36 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1788613671000
+    },
+    {
+      "title": "Meta-chef anklagas för enorm snuskfilmsdelning",
+      "description": "Hoppsan Den pågående rättstvisten mellan porrproducenten Strike 3 Holdings och Meta har tagit en oväntad vändning. Strike 3, som tidigare stämt Meta på över 4,5 miljarder kronor för att ha använt deras filmer för att träna AI-modeller, hävdar nu att de spårat en extremt aktiv fildelare direkt till en av Metas toppchefer. Allt började med en rutinmässig undersökning av en anonym IP-adress som laddat ner tusentals filer via BitTorrent. När identiteten bakom abonnemanget avslöjades visade det sig vara en chef på Reality Labs, vilket är avdelningen inom Meta som utvecklar VR-glasögon. Totalt rör det sig om nästan 20 000 filer, inklusive VR-porr, och Strike 3 menar att mängden material är så omfattande att det är orimligt att en person med ett krävande chefsjobb skulle konsumera allt på fritiden. Istället misstänker de att chefen använt sitt hemmanätverk för att ladda ner träningsdata till Metas AI eller för att testa kompatibilitet i deras VR-headset. Enligt Strike 3 finns det också ett samband med att de skickade ut ett varningsbrev till Metas jurister. För bara några timmar efter de gjorde det ska aktiviteten på chefens privata anslutning ha skjutit i höjden. De menar att Meta medvetet försökt flytta den illegala aktiviteten från företagets nätverk till en privat bostad för att undvika upptäckt. Meta förnekar dock dessa anklagelser och menar att en IP-adress inte bevisar vem som faktiskt har laddat ner något. Enligt Meta kan de inte hållas ansvariga för vad anställda gör i sina egna hem och säger att det inte finns några konkreta bevis för att materialet faktiskt hamnat i Metas system. Hur som helst vill Strike 3 nu att domstolen ska slå ihop fallen, vilket skulle kunna göra chefens privata nedladdningar till centrala bevis i rättsfallet. L&auml;s vidare och kommentera: https://feber.se/film/meta-chef-anklagas-for-enorm-snuskfilmsdelning/495774/ L&auml;s mer om Strike 3 Holdings , Meta , Reality Labs , BitTorrent , AI",
+      "link": "https://feber.se/film/meta-chef-anklagas-for-enorm-snuskfilmsdelning/495774/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/meta-chef-anklagas-for-enorm-snuskfilmsdelning/495774/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788613200000
+    },
+    {
+      "title": "Den ultimata grejen att ha vid sängen?",
+      "description": "Håller koll på sömn, väcker dig och söver dig På IFA-mässan i Berlin visade Anker upp en ny manick som verkligen inte bara gör en sak. Den heter D5160 och har är en lampa, en högtalare, en väckarklocka och en sömnmonitor i ett. Med högtalaren kan man antingen spela vaggvisor eller morgonradio, ljuset kan man använda för att poppa lite eller som wake-up-light vilket jag älskar och klockan har sin självklara funktion. Bonusprylen på den här är den där antennen på toppen. Det är ett slags närfältsradar som använder millimeter wave för att hålla koll på dig. Genom att känna av hur du rör dig, hur du andas och så vidare kan denna avgöra om du sover eller inte men även hur du sover. Perfekt för dig som vill sömnspåra, men som inte vill ha klocka eller ring på dig. L&auml;s vidare och kommentera: https://feber.se/pryl/den-ultimata-grejen-att-ha-vid-sangen/495777/ L&auml;s mer om Anker , D5160 , millimeter wave , IFA , sömnmonitor , wake-up-light , IFA Berlin , IFA-mässan , IFA2026",
+      "link": "https://feber.se/pryl/den-ultimata-grejen-att-ha-vid-sangen/495777/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/den-ultimata-grejen-att-ha-vid-sangen/495777/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788612600000
+    },
+    {
+      "title": "Nu kan du träna AI att känna igen ditt hem",
+      "description": "Reolink har ny och intressant mjukvara AI i säkerhetskameror är inget nytt. Där hjälper den till med att identifiera människor, fordon, hundar, rådjur och vad det nu är som springer förbi ens kamera. Praktiskt, men kanske inte så intressant när man får samma notis för hundrade gången. Reolink visade på IFA-mässan i Berlin upp en ny mjukvara som kan göra AI lite mer användbar. Man tränar den helt enkelt på olika typer av situationer, som att en grind är öppen eller stängd, om en bil eller cykel står på sin plats eller om soptunnan är full. Det fina här är att man koppla det vidare mot andra saker, helt enkelt skicka igång triggers till andra saker. Med lite fantasi kan man göra både det ena och det andra. Kanske stänga av allt i kidsens rum om cykeln är borta? L&auml;s vidare och kommentera: https://feber.se/pryl/nu-kan-du-trana-ai-att-kanna-igen-ditt-hem/495782/ L&auml;s mer om Reolink , IFA , Berlin , AI , mjukvara , Säkerhetskameror , IFA Berlin , AI-säkerhetskameror , IFA2026",
+      "link": "https://feber.se/pryl/nu-kan-du-trana-ai-att-kanna-igen-ditt-hem/495782/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/nu-kan-du-trana-ai-att-kanna-igen-ditt-hem/495782/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788612000000
     },
     {
       "title": "Kemijätten BASF stämmer Apple och vill stoppa Face ID i din iPhone",
@@ -514,6 +644,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788609623000
     },
     {
+      "title": "En skön portabel grill från Portugal",
+      "description": "Churrasco överallt Att grilla är trevligt, speciellt när man är ute på vift någonstans. Engångsgrillar är ju något man kan hålla på med men det är ju inte så sexigt, speciellt när man är ett lite större sällskap. På IFA-mässan i Berlin såg vi dock en rolig grill från den portugisiska tillverkaren Flama. Grillen är företagets senaste Master Grill och den har en cylinder i mitten där man lägger kol som ger värme till hela grillen. Enligt tillverkaren ska det bara ta fyra minuter innan du kan börja grilla. Eftersom kolen ligger i mitten riskerar man inte alltför många lågor när fettet droppar ner genom gallret. För att reglera värmen finns det en liten ratt på framsidan där man justerar fläktens fart, vilket ser till att det mer eller mindre blåser på kolen. Fläkten körs via vanliga AA-batterier eller via powerbank vilket gör den 4,5 kilo tunga grillen helt portabel och utan behov av någon form av sladd. Den 1 100 kvadratcentimeter stora grillytan är keramisk och ska vara helt fri från PFAS. Gallret ska också gå att lägga i diskmaskinen vilket ju är tacksamt. Gallret har också en liten lucka i mitten så man kan fylla på kol utan att behöva lyfta det när det är varmt. Priset på grillen ligger på 150 euro men kan, som så mycket annat här på mässan, dock inte köpas i Sverige ännu. L&auml;s vidare och kommentera: https://feber.se/pryl/en-skon-portabel-grill-fran-portugal/495775/ L&auml;s mer om Flama , Master Grill , IFA Berlin , portabel grill , bärbar grill , grillning",
+      "link": "https://feber.se/pryl/en-skon-portabel-grill-fran-portugal/495775/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/en-skon-portabel-grill-fran-portugal/495775/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788609600000
+    },
+    {
       "title": "Bargata öppnar i färjeterminals gamla vänthall",
       "description": "Kollektivet Livet öppnar bargatan Hallen i Stadsgårdsterminalen vid Slussen på Södermalm",
       "link": "https://www.mitti.se/nyheter/bargata-oppnar-i-farjeterminals-gamla-vanthall-6.3.383287.d13af9c5ec",
@@ -574,6 +714,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788606120000
     },
     {
+      "title": "Nu kan du kolla på nya The Grand Tour",
+      "description": "Dags för ny omgång igen Den nya omgången av The Grand Tour är släppt och du kan nu strömma den på länken nedan om du är sugen på att se vad för kuligheter som trion har hittat på. Bonusklipp nedan. L&auml;s vidare och kommentera: https://feber.se/film/nu-kan-du-kolla-pa-nya-the-grand-tour/495763/ L&auml;s mer om The Grand Tour , strömma , Prime Video , premiär",
+      "link": "https://feber.se/film/nu-kan-du-kolla-pa-nya-the-grand-tour/495763/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nu-kan-du-kolla-pa-nya-the-grand-tour/495763/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788606000000
+    },
+    {
       "title": "Här kostar sjötomten en tiondel av priset i Stor-Stockholm",
       "description": "Ett sjönära småhus kostar under 10 000 kronor per kvadratmeter i fyra svenska kommuner. I Stor-Stockholms dyraste kommuner är priset mer än tio gånger så högt, omkring 16 miljoner kronor för ett hus på 100 kvadratmeter. Sjönära hus är den minst priskänsliga delen av bostadsmarknaden. Samtidigt vände fritidshuspriserna uppåt i somras, och i augusti såldes […]",
       "link": "https://www.dagensps.se/privatekonomi/bostad/har-kostar-sjotomten-en-tiondel-av-priset-i-stor-stockholm/",
@@ -592,6 +742,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788602520000
+    },
+    {
+      "title": "Nicolas Cage lurar nazister i Fortitude",
+      "description": "Spelar dubbelagenten som inspirerade James Bond Fortitude är en kommande film där Nicolas Cage spelar agenten Duško Popov, en agent som sägs vara en av Ian Flemings inspirationskällor till James Bond. Handlingen kretsar kring uppdraget Operation Fortitude under andra världskriget där de allierade försökte lura nazisterna att invasionen av Europa skulle ske någon helt annanstans än i Normandie. Filmen regisseras av den brittiske regissören Simon West som har rullar som Tomb Raider, Con Air, The Mechanic och Expendables 2 på meritlistan. L&auml;s vidare och kommentera: https://feber.se/film/nicolas-cage-lurar-nazister-i-fortitude/495772/ L&auml;s mer om Nicolas Cage , Duško Popov , Simon West , James Bond , Fortitude , Operation Fortitude",
+      "link": "https://feber.se/film/nicolas-cage-lurar-nazister-i-fortitude/495772/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nicolas-cage-lurar-nazister-i-fortitude/495772/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788602400000
     },
     {
       "title": "Tolv år borta – Sara Wiss visar att det aldrig är för sent",
@@ -624,6 +784,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788601200000
     },
     {
+      "title": "Årets Ig Nobel Prize utdelat",
+      "description": "För forskning om kyssar, snor och pissoarer I veckan som gick var det dags för forskningsorganisationen Improbable Research att dela ut det så kallade Ig Nobelpriset, ett pris som tilldelas forskare som ägnat sig åt vad som kan anses som lite mer udda forskning. Ig Nobel Prize 2026 gick bland annat till den japanske forskaren Tokuji Unno för hans aerodynamiska studie om hur man bäst snyter sig, ett forskarlag från USA och Storbritannien belönades för sin kartläggning av kyssandets evolutionshistoria och forskare från University of Waterloo prisades för sina teoretiska och experimentella tester med att designa en helt \"stänkfri\" pissoar. Vidare fick ett internationellt forskarlag för sin upptäckt att \"mjölken\" från en viss art av kackerlackor innehåller mer än tre gånger så mycket energi per gram som komjölk och ett forskarlag uppmärksammades för att ha grävt ner över 1 000 par bomullsunderkläder i fler än 25 länder för att studera hur snabbt mikrorganismer och småkryp i jorden bryter ner dem. Nedan hittas ett nyhetsinslag från AP om årets Ig Nobel Prize och under det kan ni kolla in en repris från prisutdelningen som i år arrangerades schweiziska Zürich. Vill ni läsa om alla årets vinnare finns dessa på länken nedan. L&auml;s vidare och kommentera: https://feber.se/vetenskap/arets-ig-nobel-prize-utdelat/495780/ L&auml;s mer om Tokuji Unno , University of Waterloo , Ig Nobelpriset , Zürich , Improbable Research , Ig Nobel Prize",
+      "link": "https://feber.se/vetenskap/arets-ig-nobel-prize-utdelat/495780/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/vetenskap/arets-ig-nobel-prize-utdelat/495780/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788600600000
+    },
+    {
       "title": "Obetalda fakturor drabbar företagen – men bankernas kreditförluster är rekordlåga",
       "description": "Medan bankerna noterar kraftigt minskade kreditförluster skenar företagens obetalda kundfordringar. Det är en motsägelsefull utveckling. Sex av tio spanska företag får inte betalt av sina kunder, det vill säga andra företag Däremot sköter företagen sina betalningar för banklån exemplariskt. Paradoxen är uppenbar och särskilt byggbranschen i Spanien uppges vara pressad av eskalerande kostnader där betalningsvillkoren […]",
       "link": "https://www.dagensps.se/foretag/obetalda-fakturor-drabbar-foretagen-men-bankernas-kreditforluster-ar-rekordlaga/",
@@ -654,6 +824,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788598813000
     },
     {
+      "title": "Gemini integreras med Google-tjänster",
+      "description": "Snacka direkt med Google-appar Google har fått ut sin uppdatering för Gemini som gör att man kan prata direkt med några av deras populäraste tjänster. I Gmail innebär det att du kan ställa frågor om innehållet i din inkorg, som kommande evenemang eller annat tjofräs. Om man nu håller på mycket med Google Dokument fungerar AI:n som ett digitalt bollplank där du kan bolla dina idéer medan verktyget hjälper till att strukturera upp texten du skriver. För folk som har sina notiser i Google Keep kan nu få dem lite mer organiserade med hjälp av AI. Satsningen kräver dock att man är betalande kund och funktionerna rullas först ut till folket som har något av Googles AI-abonnemang, såsom AI Plus, Pro eller Ultra. L&auml;s vidare och kommentera: https://feber.se/internet/gemini-integreras-med-google-tjanster/495770/ L&auml;s mer om Gemini , Gmail , Google Dokument , Google Keep , AI Plus , AI-abonnemang",
+      "link": "https://feber.se/internet/gemini-integreras-med-google-tjanster/495770/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/gemini-integreras-med-google-tjanster/495770/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788598800000
+    },
+    {
       "title": "Allt fler förtidsröstar i Österåker och Vaxholm",
       "description": "Förtidsröstningen ökar i Österåker och Vaxholm. Biblioteket i Åkersberga lockar hundratals väljare dagligen, och nära hälften väljer att rösta före valdagen.",
       "link": "https://www.mitti.se/nyheter/allt-fler-fortidsrostar-i-osteraker-och-vaxholm-6.3.383736.1a1c965c7a",
@@ -682,6 +862,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1788596018000
+    },
+    {
+      "title": "Ny världskarta godkänd av FN",
+      "description": "Sverige blir \"mindre\" FN:s generalförsamling har godkänt ett förslag om att använda världskartan som går under namnet \"Equal Earth\" istället för den traditionella Merkator-kartan som används idag. Förslaget om att byta världskarta kommer från ett gäng afrikanska länder som anser att deras länder ser mindre ut på Merkator-kartan på grund av deras närhet till ekvatorn. Detta beror på att länder som ligger längre från ekvatorn, som till exempel Sverige, ser större ut på Merkator-kartan då den inte tar hänsyn till jordens välvning på samma sätt som Equal Earth-kartan (se exempel ovan och nedan). Equal Earth-kartan togs fram 2018 och ska bättre representera världens länders faktiska storlek. FN uppmanar nu världens länder att börja fasa ut Merkator-kartan och istället börja använda sig av Equal Earth-kartan. Resolutionen är inte tvingande och det finns ingen fastställd tidsplan för när länder ska börja använda Equal Earth-kartan. L&auml;s vidare och kommentera: https://feber.se/samhalle/ny-varldskarta-godkand-av-fn/495776/ L&auml;s mer om FN , Equal Earth , Merkator-kartan , kartografi , världskarta , Merkator",
+      "link": "https://feber.se/samhalle/ny-varldskarta-godkand-av-fn/495776/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/ny-varldskarta-godkand-av-fn/495776/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788595200000
     },
     {
       "title": "Haninges befolkning ökar igen",
@@ -764,6 +954,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788591614000
     },
     {
+      "title": "Sista säsongen av Silo kommer sommaren 2027",
+      "description": "Och här är teasern Apple TV meddelade i går att man inte kommer att behöva vänta alltför länge på nästa säsong av Silo. Direkt efter att den tredje säsongen av serien avslutades släpptes en första teaser för säsong fyra som säger att den säsongen kommer att släppas den 9 juli 2027. Anledningen till att de kan få ut denna säsong så pass snabbt är att man valde att filma säsong tre och fyra i ett svep. Filmandet av den säsongen blev klart redan i våras och nu är det bara efterproduktion som behöver göras innan den kan streamas. Den kommande säsongen blir också seriens sista och är baserad på boken Dust, vilket är den avslutande delen i Hugh Howeys boktrilogi som serien är baserad på. För den som missat serien handlar Silo om ett samhälle med 10 000 människor som lever i en gigantisk underjordisk bunker, styrda av strikta regler som sägs skydda dem från den giftiga världen utanför. L&auml;s vidare och kommentera: https://feber.se/film/sista-sasongen-av-silo-kommer-sommaren-2027/495769/ L&auml;s mer om Apple TV , Silo , Hugh Howey , Dust , TV-serier , streaming",
+      "link": "https://feber.se/film/sista-sasongen-av-silo-kommer-sommaren-2027/495769/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/sista-sasongen-av-silo-kommer-sommaren-2027/495769/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788591600000
+    },
+    {
       "title": "Barnavårdsföreningen: Så kan du minska bråken hemma utan stora förändringar",
       "description": "Hösten är här och många familjer kämpar med trötta skolbarn. Det behövs inte enorma insatser för att vända en jobbig vardag – redan en kvart odelad uppmärksamhet kan göra stor skillnad.",
       "link": "https://yle.fi/a/7-10104637?origin=rss",
@@ -832,6 +1032,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788588180000
+    },
+    {
+      "title": "TikTok ger kommentarsfältet röstmeddelanden",
+      "description": "Hurra? TikTok planerar att göra om sitt kommentarsfält med bland annat införande av röstmeddelanden, bildspel och omröstningar. Det som kanske sticker ut mest bland dessa nyheter är möjligheten att lämna röstkommentarer på folks videos. Användare som har fyllt 18 kommer kunna spela in upp till en minut långa ljudklipp direkt under videorna, vilket TikTok anser ska göra interaktionen mellan kreatören och användaren mer personlig. För att förhindra att folk bara hittar på dumheter med kommentarerna kommer de att modereras med hjälp av teknik som omvandlar tal till text. Kreatörer kommer också få tillgång till en ny funktion där de kan skapa omröstningar med upp till fem svarsalternativ direkt i kommentarsfältet. Vilket man väl får se är en möjlighet att ge åskådare möjligheten att tycka till om saker och ting. I kommentarsfältet ska man nu också kunna ladda upp hela bildspel med upp till nio foton i ett svep istället för bara en bild. Om detta är något som är efterlängtat eller är något som folk kommer använda återstår att se. L&auml;s vidare och kommentera: https://feber.se/internet/tiktok-ger-kommentarsfaltet-rostmeddelanden/495767/ L&auml;s mer om TikTok , bildspel , omröstningar , röstmeddelanden , sociala medier , tal till text , röstkommentarer",
+      "link": "https://feber.se/internet/tiktok-ger-kommentarsfaltet-rostmeddelanden/495767/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/tiktok-ger-kommentarsfaltet-rostmeddelanden/495767/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788588000000
     },
     {
       "title": "Mordmisstänkt på Sollenkroka Ö fortsatt häktad",
@@ -1094,6 +1304,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788550265000
     },
     {
+      "title": "Spelar du GeoGuessr?",
+      "description": "Dagens spelfråga Den här veckan pågår världsmästerskapen i GeoGuessr nere i Berlin och vi är på plats för att följa tävlingarna. Det kändes därför passande att idag fråga om ni läsare spelar det populära lokaliseringsspelet. Svara gärna på vår enkät nedan. Vill ni snacka mer om GeoGuessr, spelmästerskap, e-sport eller något som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/spelar-du-geoguessr/495756/ L&auml;s mer om GeoGuessr , Berlin , världsmästerskap , Lokaliseringsspel , e-sport , datorspel",
+      "link": "https://feber.se/spelar-du-geoguessr/495756/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spelar-du-geoguessr/495756/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788548400000
+    },
+    {
       "title": "Garage Italia x Hot Lab Fiat 500 Jolly Spiaggina",
       "description": "",
       "link": "https://uncrate.com/garage-italia-x-hot-lab-fiat-500-jolly-spiaggina/",
@@ -1114,6 +1334,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788547500000
     },
     {
+      "title": "Netflix ska göra Dungeons & Dragons-tv",
+      "description": "Ravenloft blir tv-serie Netflix kommer i ett samarbete med Hasbro och deras dotterbolag Wizards of the Coast göra en tv-serie baserad på den klassiska skräckvärlden Ravenloft från Dungeons & Dragons. Ravenloft-serien ska handla om hur den klassiska D&D-skurken och vampyren Greve Strahd von Zarovich gick från att vara en tragisk hjälte till en av spelets mest kända skurkar. Det hela utspelas i en mörk fantasyvärld med gotiska inslag. När vi kan få se Ravenloft-serien på Netflix finns det inga uppgifter om än så länge. L&auml;s vidare och kommentera: https://feber.se/film/netflix-ska-gora-dungeons--dragons-tv/495754/ L&auml;s mer om Ravenloft , Dungeons & Dragons , Wizards of the Coast , Hasbro , Strahd von Zarovich , Greve Strahd",
+      "link": "https://feber.se/film/netflix-ska-gora-dungeons--dragons-tv/495754/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/netflix-ska-gora-dungeons--dragons-tv/495754/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788546600000
+    },
+    {
       "title": "Bravo Sierra Face & Body Bar",
       "description": "",
       "link": "https://uncrate.com/bravo-sierra-face-body-bar/",
@@ -1122,6 +1352,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1788546600000
+    },
+    {
+      "title": "Aqara storsatsar på smarta lampor",
+      "description": "Med stöd för Matter, Thread och Zigbee Under IFA har Aqara presenterat en rad nya smarta belysningsprodukter med stöd för både Zigbee och Thread, vilket gör dem fullt kompatibla med Matter-plattformar som Apple Home, Google Home, Alexa och SmartThings. Bland nyheterna finns golvlampan Floor Lamp T1, en 1,4 meter hög ljuspelare som projicerar färg på väggen via 18 individuellt styrbara RGBIC-zoner. Man tar även klivet ut i trädgården genom att lansera permanent fasadbelysning och färgglada ljusslingor. Dessutom uppdateras den smarta LED-listen LED Strip T2 med en ny krets för utökad multizonstyrning, och andra generationens inbyggnadsspotlights kommer i flera storlekar. Det finns inga uppgifter om pris och lanseringsdatum ännu. L&auml;s vidare och kommentera: https://feber.se/pryl/aqara-storsatsar-pa-smarta-lampor/495755/ L&auml;s mer om Aqara , Zigbee , Thread , Matter , IFA , Floor Lamp T1 , belysning , LED Strip T2",
+      "link": "https://feber.se/pryl/aqara-storsatsar-pa-smarta-lampor/495755/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/aqara-storsatsar-pa-smarta-lampor/495755/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788544800000
     },
     {
       "title": "Seiko Prospex SPB513 Speedtimer Mechanical Watch",
@@ -1144,6 +1384,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788543026000
     },
     {
+      "title": "Snart kommer en fjärde Släkten är värst-film",
+      "description": "Där Ariana Grande spelar svärdotter Filmserien Släkten är värst får nu en fjärde del där Greg Focker (Ben Stiller) befinner sig i samma roll som Jack Byrnes (Robert De Niro) befann sig när serien inleddes för 26 år sedan. I Släkten är värst 4 ( Focker-In-Law ) är det dags för pappa Focker (Stiller) att välkomna sin sons Henry (Skyler Gisondo) nya flickvän Olivia (Ariana Grande) som en del av familjen Focker, något som han inte verkar helt nöjd med. Släkten är värst 4 har premiär på amerikanska biografer i november. Den lär antagligen dyka upp på svenska biografer då också. Ni hittar trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/snart-kommer-en-fjarde-slakten-ar-varst-film/495721/ L&auml;s mer om Ben Stiller , Robert De Niro , Släkten är värst , Skyler Gisondo , Ariana Grande , Focker-In-Law , komedi",
+      "link": "https://feber.se/film/snart-kommer-en-fjarde-slakten-ar-varst-film/495721/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/snart-kommer-en-fjarde-slakten-ar-varst-film/495721/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788543000000
+    },
+    {
       "title": "Comme des Garçons x Air Jordan 11 Sneaker",
       "description": "",
       "link": "https://uncrate.com/comme-des-garcons-x-air-jordan-11-sneaker/",
@@ -1152,6 +1402,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1788542100000
+    },
+    {
+      "title": "Scout visar två nya koncept",
+      "description": "Äventyr och lyx Scout Motors har nu presenterat Mountainside och Trail-Ready som är två nya koncept på suven Traveler. Den sistnämnda ska ha ytterligare terrängegenskaper och får nya stötfångare, hasplåtar, en vinsch och fetare hjul. Mountainside är istället en lyxvariant med ännu mer ombonad interiör och en mer minimalistisk exteriör. Målet är att tillverkningen av Scouts modeller ska dra igång under nästa år. L&auml;s vidare och kommentera: https://feber.se/bil/scout-visar-tva-nya-koncept/495745/ L&auml;s mer om Scout , Traveler Mountainside , Traveler Trail-Ready , koncept , SUV , Traveler",
+      "link": "https://feber.se/bil/scout-visar-tva-nya-koncept/495745/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/scout-visar-tva-nya-koncept/495745/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788541200000
     },
     {
       "title": "Porsche 911 GT3 Bergsport",
@@ -1174,6 +1434,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788541200000
     },
     {
+      "title": "Audacity får stor ansiktslyftning",
+      "description": "Största på över fem år Det mycket trevliga gratisprogrammet Audacity har precis släppts i version 4.0. Denna uppdatering ger ljudprogrammet sin största förändring på över fem år. Det första som sticker ut är det nya utseendet, bland annat ett mörkt läge. Gränssnittet har blivit betydligt mer färgglatt med tydliga reglage och känns generellt väldans mer modernt. För den som föredrar den gamla designen finns dock möjligheten att behålla det klassiska utseendet redan direkt vid installationen. Men det är inte bara utseendet som är nytt, redigeringen har blivit mer följsam och liknar nu mer de dyra proffsprogrammen. En mycket trevlig grej är att man nu också kan överlappa klipp och dra fram ljud som du tidigare klippt bort. Zoom-funktionen har nu också mycket mer precision och varje enskilt spår har nu också fått en egen nivåmätare. Du kan kolla in en liten videogenomgång av nyheterna i klippet ovan. L&auml;s vidare och kommentera: https://feber.se/pc/audacity-far-stor-ansiktslyftning/495752/ L&auml;s mer om Audacity , ljudredigering , mörkt läge , version 4.0 , gränssnitt",
+      "link": "https://feber.se/pc/audacity-far-stor-ansiktslyftning/495752/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/audacity-far-stor-ansiktslyftning/495752/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788539400000
+    },
+    {
       "title": "Trots sommarens torka: \"inte kört\" för svampsäsongen",
       "description": "Leta svamp i Stockholm – här finns kantareller, expertens tips",
       "link": "https://www.mitti.se/nyheter/trots-sommarens-torka-inte-kort-for-svampsasongen-6.3.383697.150b0a145f",
@@ -1192,6 +1462,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1788537615000
+    },
+    {
+      "title": "Här är Elisen där du sitter i mitten och kör",
+      "description": "Restmodden nu klar för produktion För ett år sedan skrev vi om Analogue Automotive som hade en restomoddad version av första generationen Lotus Elise på gång. Det som gjorde den speciell förutom väldigt låg vikt var att det bara fanns plats för en person och att föraren var placerad i mitten. Nu är det brittiska företaget redo att börja tillverka bilen till de som är sugna, och som är villiga att betala 350.000 pund för åket. Bilen som har fått en kaross i kolfiber väger in på under 600 kilo och den trimmade Rover-fyran som nu är på 1,9 liter ger strax över 250 hästar. Drivningen sker på bakhjulen och motorn är kopplad till en tätstegad fempetad manuell växellåda. Fram sitter keramiska bromsskivor som mäter 300 millimeter. AC är tillval, precis som en hardtop i kolfiber. Endast 35 exemplar kommer att bli till och det går bra att lägga en beställning nu. L&auml;s vidare och kommentera: https://feber.se/bil/har-ar-elisen-dar-du-sitter-i-mitten-och-kor/495740/ L&auml;s mer om Lotus Elise , Analogue Automotive , restomod , singelsäte , mitten , coolt , prestanda , Lotus Elise VHPK",
+      "link": "https://feber.se/bil/har-ar-elisen-dar-du-sitter-i-mitten-och-kor/495740/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/har-ar-elisen-dar-du-sitter-i-mitten-och-kor/495740/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788537600000
     },
     {
       "title": "Porsche 911 Concrete Sculpture",
@@ -1214,6 +1494,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788536748000
     },
     {
+      "title": "PlayStation blir lego",
+      "description": "Bygg ihop en PS1 Efter att Lego släppt byggsatser av de klassiska konsolerna NES, GameBoy och Atari 2600 har det nu blivit dags för Sonys första PlayStation att legofieras. Legos PlayStation-byggsats uppges vara i nästan skala 1:1 av PS1 från 1994 och byggs ihop med 1911 delar. Det går även att bygga ihop dioraman av de två klassiska spelen Gran Turismo (1997) och Ape Escape (1999) under konsolens lock. Färdigbyggd blir konsolen 6 cm hög, 26 cm bred och 19 cm djup. Legos \"PlayStation\" släpps den 4 oktober och kommer att kosta cirka 2000 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/playstation-blir-lego/495751/ L&auml;s mer om PlayStation , Gran Turismo , Ape Escape , Sony , PS1 , Byggsatser",
+      "link": "https://feber.se/pryl/playstation-blir-lego/495751/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/playstation-blir-lego/495751/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788535800000
+    },
+    {
       "title": "Tunnelbaneentrén i Slussen ersätts av ett träd",
       "description": "Tunnelbaneentrén på Ryssgården vid Slussen rivs – vårdträd ska planteras",
       "link": "https://www.mitti.se/nyheter/tunnelbaneentren-i-slussen-ersatts-av-ett-trad-6.3.383758.4f7cfc59b4",
@@ -1232,6 +1522,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788534120000
+    },
+    {
+      "title": "Nu är Teslas Cybercab utsläppt på gatorna",
+      "description": "Tillgänglig för allmänheten för första gången Som utlovat har Tesla nu lanserat robot-taxitjänsten Cybercab i Austin, Texas. Det här är tillverkarens första bilmodell helt utan ratt och pedaler och nu blir den alltså tillgänglig för allmänheten för första gången. Totalt är runt tio bilar igång och lite hur upplevelsen är kan ni se här nedan. L&auml;s vidare och kommentera: https://feber.se/bil/nu-ar-teslas-cybercab-utslappt-pa-gatorna/495744/ L&auml;s mer om Cybercab , Austin , självkörande , robot-taxi , tjänst , igång",
+      "link": "https://feber.se/bil/nu-ar-teslas-cybercab-utslappt-pa-gatorna/495744/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/nu-ar-teslas-cybercab-utslappt-pa-gatorna/495744/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788534000000
     },
     {
       "title": "Porsche Escapes",
@@ -1264,6 +1564,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788532929000
     },
     {
+      "title": "Nu kan du prova Final Fantasy Resonance",
+      "description": "Tre till fem timmar lång demo Under gårdagens State of Play passade Square Enix på att visa upp mer från sitt kommande spel Final Fantasy Resonance och i samband med det släppte de även en spelbar demo för spelet. Denna demo ger dig möjligheten att spela igenom hela det första kapitlet, vilket ger runt tre till fem timmars speltid. Extra skönt är det att du sedan inte behöver göra om jobbet igen då dina framsteg nämligen går att föra över till den fullständiga versionen om du får för dig att köpa det senare. I en ny trailer för spelet bekräftades det också att Sephiroth kommer att dyka upp i spelet. Final Fantasy Resonance släpps den 22 oktober 2026 till PlayStation, Xbox, PC och Switch. L&auml;s vidare och kommentera: https://feber.se/spel/nu-kan-du-prova-final-fantasy-resonance/495750/ L&auml;s mer om Square Enix , Final Fantasy Resonance , Sephiroth , State of Play , demo , Playstation",
+      "link": "https://feber.se/spel/nu-kan-du-prova-final-fantasy-resonance/495750/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/nu-kan-du-prova-final-fantasy-resonance/495750/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788532200000
+    },
+    {
+      "title": "Belkin börjar sälja powerbanks med semi-solid-state",
+      "description": "Kan ladda upp till 60 W Belkin har presenterat sina två första powerbanks som använder något företaget kallar för \"semi-solid-state-teknik\". Genom att komplettera den traditionella flytande elektrolyten i litiumjonbatterier med ett gelliknande lager utlovas upp till tre gånger längre livslängd, lägre risk för överhettning och en tunnare design. Batterierna består av två modeller: den mindre UltraCharge Pro Slim Magnetic Power Bank med 5000 mAh och magnetisk trådlös Qi2-laddning på upp till 15 W, samt en större 10.000 mAh-variant som kan leverera upp till 60 W via USB-C, kan ladda upp till tre enheter samtidigt och har en inbyggd skärm som visar laddningsnivå, uteffekt och innertemperatur. Den mindre modellen kostar 740 kronor och den större kosta 799 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/belkin-borjar-salja-powerbanks-med-semi-solid-state/495742/ L&auml;s mer om Belkin , BoostSolid Cell , Qi2 , USB-C , semi-solid-state , powerbank , batteriteknik",
+      "link": "https://feber.se/pryl/belkin-borjar-salja-powerbanks-med-semi-solid-state/495742/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/belkin-borjar-salja-powerbanks-med-semi-solid-state/495742/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788532200000
+    },
+    {
       "title": "Sigtunas nyaste satsning: Bygg ditt eget hus",
       "description": "Sigtuna kommun planerar upp till 50 nya tomter i övre Ekilla. Första etappen med cirka 20 tomter väntas starta hösten 2027 för den som vill bygga eget hus.",
       "link": "https://www.mitti.se/nyheter/sigtunas-nyaste-satsning-bygg-ditt-eget-hus-6.3.384329.deae24b81d",
@@ -1294,6 +1614,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788530415000
     },
     {
+      "title": "Band of Brothers Legacy hyllar HBO-krigsserien",
+      "description": "Klassiska krigsserien firar 25 år Det har gått ett kvarts sekel sedan Band of Brothers först visades på tv, och alla som vill få sig en nostalgisk återblick kan snart få det i kommande Band of Brothers: Legacy. Där får vi nämligen följa med när originalskådespelarna reser tillbaka till de historiska platser som är kopplade till serien. Tanken är att detta program ska hylla seriens arv och de starka vänskapsband som knöts under produktionen. Band of Brothers: Legacy har premiär på HBO Max den 9 september. L&auml;s vidare och kommentera: https://feber.se/film/band-of-brothers-legacy-hyllar-hbo-krigsserien/495747/ L&auml;s mer om Band of Brothers , HBO Max , Band of Brothers: Legacy , TV-serier , Skådespelare",
+      "link": "https://feber.se/film/band-of-brothers-legacy-hyllar-hbo-krigsserien/495747/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/band-of-brothers-legacy-hyllar-hbo-krigsserien/495747/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788530400000
+    },
+    {
+      "title": "Zeekr vill bli ett av Sveriges tio största elbilsmärken",
+      "description": "Och BYD har tredubblat sina nyregistreringar Enligt siffror från Mobility Sweden så har BYD:s nyregistreringar i Sverige mer än tredubblats under årets första åtta månader. Totalt har det registrerats 1862 nya BYD-modeller denna period vilket är en ökning med 203 procent jämfört med samma period förra året. Laddhybrider har ökat mest och totalt landade man på 1390 bilar under perioden. Det går även bra för Zeekr i Sverige. I år har försäljningen ökat med 40,2 procent. Nu siktar tillverkaren på att bli ett av Sveriges tio största elbilsmärken och detta säger man ska ske redan nästa år. Under 2027 ska man mer än fördubbla försäljningsvolymen och en del i denna satsning är ett nytt återförsäljarnätverk. L&auml;s vidare och kommentera: https://feber.se/bil/zeekr-vill-bli-ett-av-sveriges-tio-storsta-elbilsmarken/495732/ L&auml;s mer om Zeekr , Sverige , siffror , Kina , elbilar , hybrider , laddhybrid",
+      "link": "https://feber.se/bil/zeekr-vill-bli-ett-av-sveriges-tio-storsta-elbilsmarken/495732/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/zeekr-vill-bli-ett-av-sveriges-tio-storsta-elbilsmarken/495732/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788528600000
+    },
+    {
       "title": "Mordbrand i västra Stockholm – tre bränder i samma källare",
       "description": "Mordbrand i västra Stockholm – tre olika bränder i samma källare. En källarbrand rasade i Grimsta i västra Stockholm på fredagsförmiddagen sedan tre olika bränder misstänkts ha anlagts i en källare. Polisen har inlett en förundersökning om mordbrand. Augusti september 2026.",
       "link": "https://www.mitti.se/nyheter/mordbrand-i-vastra-stockholm--tre-brander-i-samma-kallare-6.3.384376.50da3df714",
@@ -1314,6 +1654,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788527760000
     },
     {
+      "title": "Microsoft inför tidsgränser på Xbox molnstreaming",
+      "description": "Slut på obegränsat spelande med Game Pass Ultimate Microsoft har meddelat att man i början av november kommer att införa nya tidsgränser för hur länge spelare kan streama spel via molnet med deras Game Pass Ultimate-abonnemang. Fram tills nu har streaming av Xbox-spel till mobiler, webbläsare, smart-tv, äldre Xbox-konsoler och annat via molnet varit exklusivt för Microsofts Game Pass Ultimate-abonnemang med obegränsat spelande. Nu införs en tidsgräns som gör att det som mest går att streama spel 15 timmar i månaden med Ultimate-abonnemanget. Samtidigt gör Microsoft det möjligt att börja streama spel via Game Pass Premium (10 timmar i månaden) och Game Pass Essential (5 timmar i månaden). Skulle streamingtiden ta slut för spelarens abonnemang finns det möjlighet att köpa till speltid. Detta går även att göra för spelare som saknar Game Pass-abonnemang. Vad detta kommer att kosta finns det dock inga uppgifter om än så länge. L&auml;s vidare och kommentera: https://feber.se/spel/microsoft-infor-tidsgranser-pa-xbox-molnstreaming/495743/ L&auml;s mer om Game Pass Ultimate , Xbox , Game Pass Premium , Xbox Cloud Gaming , Game Pass Essential , molnspel",
+      "link": "https://feber.se/spel/microsoft-infor-tidsgranser-pa-xbox-molnstreaming/495743/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/microsoft-infor-tidsgranser-pa-xbox-molnstreaming/495743/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788526800000
+    },
+    {
       "title": "Därför har träden inga löv",
       "description": "Lindarna längs Odengatan, intill Vasaparken, har tappat alla sina löv på grund av en torr sommar.",
       "link": "https://www.mitti.se/nyheter/darfor-har-traden-inga-lov-6.3.382991.10f6d5c759",
@@ -1332,6 +1682,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788525927000
+    },
+    {
+      "title": "Burger King lanserar Dragon Ball-meny",
+      "description": "Ny burgare och nya leksaker Snart kan svenska Dragon Ball-entusiaster bege sig till Burger King då hamburgarkedjan den 8 september lanserar en ny meny inspirerad av fantastiska Dragon Ball Super. Burgaren har orange bröd, japansk chilimajonnäs som kombineras med lite bacon och rostad lök. Vill man ha ännu mer av de japanska smakerna finns även speciella pommes frites som toppas med samma kryddiga majonnäs och lök. Hur det kommer smaka återstår att se men förtroendet för Burger Kings \"japanska\" smaker är ju inte direkt på topp efter deras Gourmet Japanese Katsu-burgare som de kör just nu. Leksaker finns det också klart om man köper någon av barnmåltiderna. Sex olika samlarfigurer kommer finnas, bland annat Goku, Vegeta och Piccolo. Är man superfantast bör man hålla koll på Burger Kings app då de som är snabba med att beställa där har chansen att få en t-shirt med Dragon Ball-motiv på köpet. Varje restaurang har dock enbart ett begränsat antal så man får väl hålla koll och hoppas på det bästa där. På tal om Dragon Ball Super kan man nedan se den senaste trailern för Dragon Ball Super: Beerus vilket då är en nyversion av serien med fokus på mötet med Beerus. Premiären är spikad till den 11 oktober och innehåller helt nya animerade scener, omritade sekvenser samt förbättrade visuella effekter för att ge striderna lite mer ki. L&auml;s vidare och kommentera: https://tjock.se/strupen/burger-king-lanserar-dragon-ball-meny/495730/ L&auml;s mer om Dragon Ball Super , Burger King , Goku , Vegeta , Piccolo , Anime , Snabbmat , Dragon Ball Super: Beerus",
+      "link": "https://tjock.se/strupen/burger-king-lanserar-dragon-ball-meny/495730/?utm_source=rss&utm_medium=feed",
+      "guid": "https://tjock.se/strupen/burger-king-lanserar-dragon-ball-meny/495730/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1788525000000
     },
     {
       "title": "Stanford scientists discover a seafood that can reverse signs of aging",
@@ -4264,16 +4624,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788152400000
     },
     {
-      "title": "Scientists discover diamonds can generate electricity",
-      "description": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-powered medical implants.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788149633000
-    },
-    {
       "title": "S-kravet: Återinför kommunal hemtjänst i Täby",
       "description": "Socialdemokraterna i Täby vill återinföra kommunal hemtjänst för ökad valfrihet, kvalitet och bättre arbetsvillkor. Moderaterna menar att kvalitet inte avgörs av driftsform.",
       "link": "https://www.mitti.se/nyheter/skravet-aterinfor-kommunal-hemtjanst-i-taby-6.3.380563.ee2972044c",
@@ -4364,26 +4714,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788105600000
     },
     {
-      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-      "description": "Ancient footprints in Kenya reveal that eight Paranthropus boisei may have traveled together 1.4 million years ago, with some individuals reaching surprisingly large, human-like body sizes. The tracks offer a rare glimpse of their social behavior and suggest these extinct human relatives may have lived in more complex groups than previously thought.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788103026000
-    },
-    {
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "description": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordial and microscopic black holes.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788102309000
-    },
-    {
       "title": "\"Jätteläskiga\" trafiken vid skolan splittrar partierna",
       "description": "Situation med trafik på Ursviksvägen vid Ursvikskolan får kritik – kommunen vill vidta åtgärder.",
       "link": "https://www.mitti.se/nyheter/jattelaskiga-trafiken-vid-skolan-splittrar-partierna-6.3.379491.9ab0282edb",
@@ -4402,16 +4732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1788096834000
-    },
-    {
-      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-      "description": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier. The surge in activity coincided with a period when Thwaites was flowing faster toward the ocean, hinting that changing ocean conditions may be destabilizing the ice.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788095237000
     },
     {
       "title": "Här röstar färre än hälften – så ska klyftan brytas",
@@ -4544,16 +4864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788069600000
     },
     {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "description": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788067025000
-    },
-    {
       "title": "Ungas berättelser efterlyses till pjäs",
       "description": "Stadsteatern i Skärholmen vill ha ungas egna berättelser. Ska bli en del av en nya pjäs.",
       "link": "https://www.mitti.se/nyheter/ungas-berattelser-efterlyses-till-pjas-6.3.381870.6d658d5699",
@@ -4662,16 +4972,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788062400000
-    },
-    {
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "description": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788000740000
     }
   ]
 };
