@@ -1,5 +1,5 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-06T22:32:15.124Z",
+  "updatedAt": "2026-09-07T01:45:50.467Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
@@ -11,7 +11,17 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788731532000
+      "timestamp": 1788742033000
+    },
+    {
+      "title": "Donald Trump överklagar – men tiden börjar ta slut",
+      "description": "Donald Trump kämpar in i det sista för att strypa rätten att poströsta. Återigen vädjar han till Högsta domstolen: Godkänn min order. Experter varnar för att det skulle kosta miljoner väljare deras rösträtt.",
+      "link": "https://www.expressen.se/nyheter/varlden/donald-trump-overklagar-men-tiden-borjar-ta-slut/",
+      "guid": "https://www.expressen.se/nyheter/varlden/donald-trump-overklagar-men-tiden-borjar-ta-slut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788741965000
     },
     {
       "title": "Vägrade ge Mel Gibson vapenlicens – sparkades",
@@ -424,16 +434,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788705030000
     },
     {
-      "title": "Uppgifter: Stenkastning mot polis under mopedkaravan",
-      "description": "Hundratals ungdomar samlades i Frihamnen i Stockholm för en mopedcruise. När polisen kom dit urartade det och flera ungdomar kastade sten, enligt uppgifter. – Det har varit ganska stökigt är min uppfattning, säger Sylvia Oldin, vakthavande befäl på Stockholmspolisen.",
-      "link": "https://www.expressen.se/nyheter/sverige/uppgifter-stenkastning-mot-polis-under-mopedkaravan/",
-      "guid": "https://www.expressen.se/nyheter/sverige/uppgifter-stenkastning-mot-polis-under-mopedkaravan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788704556000
-    },
-    {
       "title": "Nu låter svenska stationer mer svengelska",
       "description": "Westeråås? Den 1 september började Trafikverket med tvåspråkiga utrop på över 500 stationer i Sverige. Det innebär att flertalet svenska ortsnamn nu uttalas med en tydlig engelsk accent i de engelska utropen. Tanken bakom den nya svengelskan är att underlätta för utländska turister att förstå att Kristianstad faktiskt är Kristianstad. Så genom att uttala namnen mer likt hur de faktiskt stavas blir det lättare för resenärer som inte kan svenska att koppla ihop det de hör med namnet på sin biljett eller på stationsskyltarna. Trafikverket säger att samtliga utrop är inspelade av riktiga människor som fått instruktioner att uttala namnen på det här sättet för att hjälpa internationella gäster att hitta rätt. Så det är alltså ingen AI-röst som har gjort bort sig. L&auml;s vidare och kommentera: https://feber.se/fordon/nu-later-svenska-stationer-mer-svengelska/495798/ L&auml;s mer om Trafikverket , Kristianstad , turism , svengelska , utrop , tvåspråkiga utrop , järnvägsstationer",
       "link": "https://feber.se/fordon/nu-later-svenska-stationer-mer-svengelska/495798/?utm_source=rss&utm_medium=feed",
@@ -488,7 +488,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Skrev bok som 5-åring",
       "link": "https://www.mitti.se/nyheter/lyndon-5-debuterar-som-forfattare-6.3.381764.bd1a11ad19",
       "guid": "https://www.mitti.se/nyheter/lyndon-5-debuterar-som-forfattare-6.3.381764.bd1a11ad19",
-      "image": "https://www.mitti.se/image-3.379381.304452.20260906133009.1.ff2cdb873b?format=jpeg",
+      "image": "https://www.mitti.se/image-3.379381.304452.20260907011748.1.c34bc91ab0?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788699600000
@@ -1568,7 +1568,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Samhällsbyggnadsnämnden i Sollentuna har gått emot bygglovsenheten sju gånger på elva månader. Här är fallen, orsakerna och politikernas svar om bygglov, praxis och lagstiftning.",
       "link": "https://www.mitti.se/nyheter/trenden-politikerna-kor-over-tjanstemannen-6.3.382343.357fa527b0",
       "guid": "https://www.mitti.se/nyheter/trenden-politikerna-kor-over-tjanstemannen-6.3.382343.357fa527b0",
-      "image": "https://www.mitti.se/image-3.361139.305067.20260906192357.c9702abe4c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.361139.305067.20260907011749.24ceb45466?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788590280000
@@ -4548,7 +4548,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Huvudstafältets IP har miljövänligt material i konstgräset",
       "link": "https://www.mitti.se/nyheter/uefa-besokte-huvudsta--for-deras-varldsunika-konstgras-6.3.383195.c1c3e6a683",
       "guid": "https://www.mitti.se/nyheter/uefa-besokte-huvudsta--for-deras-varldsunika-konstgras-6.3.383195.c1c3e6a683",
-      "image": "https://www.mitti.se/image-3.380300.305733.20260904060940.30d73820d8?format=jpeg",
+      "image": "https://www.mitti.se/image-3.380300.305733.20260907003810.c6fc27044b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788192006000
