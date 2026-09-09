@@ -1,8 +1,38 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-08T23:02:41.953Z",
+  "updatedAt": "2026-09-09T02:02:26.909Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Putins hamnstad i lågor",
+      "description": "Enorma explosioner",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/rysk-stad-under-attack",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/rysk-stad-under-attack",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788916187000
+    },
+    {
+      "title": "Iran och USA utbyter nya attacker",
+      "description": "Iran har avfyrat robotar mot tankrar utanför Kuwaits och Bahrains kust och uppmanar besättningar att fly, rapporterar statliga iranska medier. Beskedet kommer strax efter det att USA uppgett att man anfallit och förstört fem iranska oljetankrar.",
+      "link": "https://www.expressen.se/nyheter/varlden/iran-och-usa-utbyter-nya-attacker/",
+      "guid": "https://www.expressen.se/nyheter/varlden/iran-och-usa-utbyter-nya-attacker/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788913396000
+    },
+    {
+      "title": "Norska domen: Ukraina står inför en hård vinter",
+      "description": "Zelenskyj har träffat norska statsministern Jonas Gahr Støre i Oslo. De har pratat om Norges stöd till Ukraina, och vad som väntar härnäst. – De går en hård vinter till mötes, säger Jonas Gahr Støre på en pressträff, enligt VG.",
+      "link": "https://www.expressen.se/nyheter/varlden/norska-domen-ukraina-star-infor-en-hard-vinter/",
+      "guid": "https://www.expressen.se/nyheter/varlden/norska-domen-ukraina-star-infor-en-hard-vinter/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788908738000
+    },
     {
       "title": "USA:s hämnd efter Irans attack",
       "description": "Attackerade flera oljetankers",
@@ -12,16 +42,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1788907207000
-    },
-    {
-      "title": "Rysk stad under attack",
-      "description": "Lågor ses efter träffar",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/rysk-stad-under-attack",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/rysk-stad-under-attack",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788907092000
     },
     {
       "title": "Harry Potter by J.K. Rowling Train Book Set",
@@ -244,16 +264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788892200000
     },
     {
-      "title": "Försvunna barnen i Tidaholm hittade",
-      "description": "Fyra och fem år gamla • Mår bra",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=852e8a26-0d8c-44bc-baf3-49f2375c4f6d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=852e8a26-0d8c-44bc-baf3-49f2375c4f6d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788891697000
-    },
-    {
       "title": "Henry har kört Morgan Supersport 400",
       "description": "Bra mix Supersport 400 är Morgans mest kraftfulla modell sedan de började snickra ihop bilar 1909. Nu har Henry Catchpole fått provköra bilen och enligt honom kan det här vara framtiden för sportbilar. Här blandar man restomod-känslan med saker man vill ha i en ny bil på ett bra sätt och det kanske är precis det folket vill ha? L&auml;s vidare och kommentera: https://feber.se/bil/henry-har-kort-morgan-supersport-400/495858/ L&auml;s mer om Morgan Supersport 400 , Morgan , Hagerty , Henry Catchpole , provkörning , sportbil , klassiker",
       "link": "https://feber.se/bil/henry-har-kort-morgan-supersport-400/495858/?utm_source=rss&utm_medium=feed",
@@ -372,16 +382,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788887985000
-    },
-    {
-      "title": "Ikea varnar – efter kundernas missförstånd: ”En mardröm”",
-      "description": "”Fick lära mig den hårda vägen.” Genom åren har en av Ikeas enklare produkter orsakat oväntat stora problem för kunderna. Till slut såg sig möbeljätten tvungen att agera.",
-      "link": "https://www.expressen.se/nyheter/sverige/ikea-kundernas-ilska--efter--missforstandet-en-mardrom/",
-      "guid": "https://www.expressen.se/nyheter/sverige/ikea-kundernas-ilska--efter--missforstandet-en-mardrom/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788887612000
     },
     {
       "title": "Här är Xpengs första fabrikstillverkade Iron",
@@ -758,7 +758,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "SL har gått 148 miljoner plus som en följd av det kraftigt prissänkta 30-dagarskortet. – Det är tydligt att det har förändrat hur många resenärer väljer att köpa biljett, säger SL:s vd Erik Norling.",
       "link": "https://www.mitti.se/nyheter/sl-gor-miljonvinst-pa-halverade-kortpriset-6.3.384825.93139b4687",
       "guid": "https://www.mitti.se/nyheter/sl-gor-miljonvinst-pa-halverade-kortpriset-6.3.384825.93139b4687",
-      "image": "https://www.mitti.se/image-3.377775.307072.20260908215816.1.0f540168da?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377775.307072.20260908230428.1.23b68f5fcf?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788875961000
