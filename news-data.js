@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-09T22:49:30.923Z",
+  "updatedAt": "2026-09-10T01:59:13.763Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump: Det kommer att sluta i en tragedi",
+      "description": "Trump hävdar att amerikanerna ”kommer att gå igenom ett helvete” om mellanårsvalet blir en stor framgång för Demokraterna. – Jag ber er att låtsas att jag står på valsedeln, säger Trump.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-det-kommer-att-sluta-i-en-tragedi/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-det-kommer-att-sluta-i-en-tragedi/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789004685000
+    },
+    {
+      "title": "Fembarnspastor död i olycka på lyxkryssning",
+      "description": "Stephen Junker var ute på en lyxkryssning för att fira sonens bröllop. Då skadades fembarnspastorn så illa i fartygets pool att han senare avled, skriver People . ”En fruktansvärd olycka”, skriver hans dotter Elizabeth Junker.",
+      "link": "https://www.expressen.se/nyheter/varlden/fembarnspastor-dod-i--olycka-pa-lyxkryssning/",
+      "guid": "https://www.expressen.se/nyheter/varlden/fembarnspastor-dod-i--olycka-pa-lyxkryssning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789001829000
+    },
+    {
+      "title": "Trumps beslut om Norge: Har gett upp det",
+      "description": "Den amerikanska representationen vid kung Haralds begravning väcker uppmärksamhet. – En osannolikt låg nivå, säger hovexperten Ole-Jørgen Schulsrud-Hansen. Experter tror att det ”indikerar att Trump har gett upp fredspriset”, enligt norska TV 2 .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-beslut--om-norge-har--gett-upp-det/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-beslut--om-norge-har--gett-upp-det/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788996265000
+    },
+    {
+      "title": "Aston Martin x Brough Superior AMB 002 Roadster",
+      "description": "",
+      "link": "https://uncrate.com/aston-martin-x-brough-superior-amb-002-roadster/",
+      "guid": "https://uncrate.com/aston-martin-x-brough-superior-amb-002-roadster/",
+      "image": "https://uncrate.com/assets_c/2026/09/aston-martin-brough-superior-amb-002-roadster-3-thumb-960xauto-192960.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1788994800000
+    },
+    {
+      "title": "Ukrainsk drönarattack i semesterparadiset",
+      "description": "Attack mot semesterparadiset • Stor explosion",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/ukrainsk-dronarattack-i-semesterparadiset-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukrainsk-dronarattack-i-semesterparadiset-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1788994434000
+    },
     {
       "title": "Nu har John Ternus tagit över Apple på riktigt",
       "description": "Kändes otroligt trygg i nya rollen John Ternus är ingen färsking på Apple, han har jobbat på företaget i 25 år, och officiellt blev han vd för Apple för en dryg vecka sedan. Men det var idag som stafettpinnen på riktigt överlämnades från Tim Cook till John Ternus. Ikväll lanserades nya iPhones, det lätt viktigaste eventet för Apple under året. Eventet började med att Tim Cook på ett fint sätt berättade för publiken att nu är det John som gäller, fokus ska inte vara på mig längre. Sedan klev John in, och han tog scenen med besked tycker jag. Visst var det vissa ögonblick i det förinspelade materialet där han inte kändes 100 procent bekväm, men på scen var han lugn och trygg. Han berättade att han varit på Apple länge, inte trodde att han skulle bli vd för bolaget och att han älskade kulturen. Inte något som stack ut med andra ord, men han levererade vad som behövdes. Efter presentationen klev John ut på demogolvet och visade upp sig med ett gäng personer. Först med Molly Anderson, som är boss över hårdvarudesign på Apple nu för tiden. Det kändes fint att John tog \"scenen\" med Molly, men fokus låg helt klart på John. När Molly steg åt sidan och John stod ensam med iPhone Duo smattrade kamerablixtrarna lite extra. När han sedan välregisserat hängde med iShowSpeed och lite annat folk kändes det som att han inte gjort något annat tidigare. Det känns som att John kommer att trivas med att vara personen utåt för Apple från och med nu. L&auml;s vidare och kommentera: https://feber.se/mac/nu-har-john-ternus-tagit-over-apple-pa-riktigt/495950/ L&auml;s mer om Apple , John Ternus , Tim Cook , iPhone , iShowSpeed , Molly Anderson , iPhone Duo",
@@ -24,6 +74,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788993219000
     },
     {
+      "title": "TAG Heuer Carrera Chronograph Sport Watch",
+      "description": "",
+      "link": "https://uncrate.com/tag-heuer-carrera-chronograph-sport-watch/",
+      "guid": "https://uncrate.com/tag-heuer-carrera-chronograph-sport-watch/",
+      "image": "https://uncrate.com/assets_c/2026/09/tag-heuer-carrera-chronograph-sport-watch-1-thumb-960xauto-192936.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1788993000000
+    },
+    {
       "title": "Miss Voon fyller 15 – krogen som lärde Stockholm att älska asiatisk fusion",
       "description": "När Miss Voon öppnade 2011 var asiatisk fusion fortfarande något som kunde behöva förklaras för en svensk krogpublik. Femton år senare finns yuzu, ponzu och sake på menyer över hela Stockholm. Nu firar restaurangen jubileet genom att både blicka tillbaka på sina gamla hits och göra om sig för framtiden. Från nyhet till norm När […]",
       "link": "https://www.dagensps.se/weekend/restaurang/miss-voon-fyller-15-krogen-som-larde-stockholm-att-alska-asiatisk-fusion/",
@@ -34,14 +94,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788992220000
     },
     {
-      "title": "Ukrainsk drönarattack i semesterparadiset",
-      "description": "Attack mot semesterparadiset • Stor explosion",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ukrainsk-dronarattack-i-semesterparadiset-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukrainsk-dronarattack-i-semesterparadiset-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788990612000
+      "title": "1999 Mercedes-Benz G500 Cabriolet",
+      "description": "",
+      "link": "https://uncrate.com/1999-mercedes-benz-g500-cabriolet/",
+      "guid": "https://uncrate.com/1999-mercedes-benz-g500-cabriolet/",
+      "image": "https://uncrate.com/assets_c/2026/09/1999-mercedes-benz-g500-cabriolet-2-thumb-960xauto-192939.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1788991200000
     },
     {
       "title": "Bilden kan lösa den 31-åriga mordgåtan",
@@ -61,7 +121,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788987995000
+      "timestamp": 1788987994000
     },
     {
       "title": "Everyday Carry: Magnetic",
@@ -102,6 +162,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1788986997000
+    },
+    {
+      "title": "Så många steg bör du gå om dagen för att minska risken att dö i förtid, enligt forskare bakom ny stor studie",
+      "description": "I en ny studie av 103 000 personer har forskare från Australien kommit fram till det perfekta förhållandet mellan antalet steg per dag och promenadens intensitet. En viss kombination tycks minska risken för förtida död.",
+      "link": "https://illvet.se/halsa/en-ny-studie-slar-fast-sa-manga-steg-per-dag-behover-du-ga-for-att-minska-risken-for-fortida-dod",
+      "guid": "https://illvet.se/halsa/en-ny-studie-slar-fast-sa-manga-steg-per-dag-behover-du-ga-for-att-minska-risken-for-fortida-dod",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1788985844000
+    },
+    {
+      "title": "Han försökte varna, men ingen lyssnade. Besluten som ledde fram till attacken den 11 september",
+      "description": "FBI-agenten John O’Neill var en av de få som kände till Usama bin Laden och det intensiva hatet mot västvärlden som drev al-Qaida-ledaren. Eftersom ingen ville lyssna på honom sa han upp sig – och fick jobb i World Trade Center.",
+      "link": "https://varldenshistoria.se/samhalle/katastrofer/korsfararna-skulle-luras-i-fallan-vagen-mot-11-september",
+      "guid": "https://varldenshistoria.se/samhalle/katastrofer/korsfararna-skulle-luras-i-fallan-vagen-mot-11-september",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1788985829000
     },
     {
       "title": "En första titt på iPhone Duo!",
@@ -184,6 +264,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788982558000
     },
     {
+      "title": "Hundratals människor omkom på ett öronbedövande ögonblick – övriga mötte ett öde som blev en utdragen mardröm.",
+      "description": "Himlen var vacker och molnfri när receptionisten Dianne DeFontes kom till sitt arbete klockan 8.30. Hon drack sitt kaffe och såg ut på New Yorks skyskrapor genom fönstret Hon hade ingen aning om att hennes överlevnad snart skulle bero på vilka som följde med strömmen och vilka som inte gjorde det.",
+      "link": "https://illvet.se/teknik/hundratals-manniskor-omkom-pa-ett-oronbedovande-ogonblick-ovriga-motte-ett-ode-som-blev-en-utdragen-mardrom",
+      "guid": "https://illvet.se/teknik/hundratals-manniskor-omkom-pa-ett-oronbedovande-ogonblick-ovriga-motte-ett-ode-som-blev-en-utdragen-mardrom",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1788982249000
+    },
+    {
       "title": "Kvinna spårade korttjuven via bankappen",
       "description": "En kvinna i Narbonne i södra Frankrike hade inbrott den 6 september och blev av med bland annat två bankkort. Notiserna från banken visade var korten användes, och hon hann ikapp tjuven. Via en övervakningsfilm från en tobaksaffär i närheten kunde en misstänkt gärningsman pekas ut, rapporterar L’Indépendant. Notiserna man får från banken är gjorda […]",
       "link": "https://www.dagensps.se/privatekonomi/kvinna-sparade-korttjuven-via-bankappen/",
@@ -212,6 +302,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1788980620000
+    },
+    {
+      "title": "Straffet beskrivs i 3000 år gamla kinesiska lagtexter – nu har de första makabra bevisen hittats",
+      "description": "Gamla kinesiska texter berättar om ett straff som skulle bringa skam över brottslingar och märka dem för livet. Nu kan ett kvinnoskelett vara det första arkeologiska beviset på att sådana straff verkställdes.",
+      "link": "https://varldenshistoria.se/civilisationer/det-gamla-kina/straffet-beskrivs-i-3000-ar-gamla-kinesiska-lagtexter-nu-har-de-forsta-makabra-bevisen-hittats",
+      "guid": "https://varldenshistoria.se/civilisationer/det-gamla-kina/straffet-beskrivs-i-3000-ar-gamla-kinesiska-lagtexter-nu-har-de-forsta-makabra-bevisen-hittats",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1788980444000
     },
     {
       "title": "Kommer du att köpa iPhone Duo?",
@@ -474,16 +574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788973200000
     },
     {
-      "title": "Moa, 25, förlöste bebis på flygplanet: ”Som en film”",
-      "description": "Moa Fredriksson, 25, var på väg till Bali för sol och surfning. Men flygresan dit slutade i stor dramatik. En passagerare var plötsligt i behov av akut vård – och Moa ryckte in. – Det kändes som att man var med i ”Grey's anatomy”.",
-      "link": "https://www.expressen.se/nyheter/sverige/moa-25-forloste-bebis-pa-flygplanet-som-en-film/",
-      "guid": "https://www.expressen.se/nyheter/sverige/moa-25-forloste-bebis-pa-flygplanet-som-en-film/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788973179000
-    },
-    {
       "title": "Fords avtal med Geely upprör Trump – pressar bolaget att säga upp det",
       "description": "Ett samarbete mellan den amerikanska biljätten Ford och Volvo-ägaren Geely faller inte Donald Trump på läppen. Nu kan avtalet brytas i förtid. USAs: president Donald Trump trappar upp pressen mot Ford på grund av biltillverkarens samarbeten med kinesiska bolag. Transportministern Sean Duffy har uppmanat Fords vd Jim Farley att ompröva företagets avtal med kinesiska Geely, […]",
       "link": "https://www.dagensps.se/bors-finans/fords-avtal-med-geely-uppror-trump-pressar-bolaget-att-saga-upp-det/",
@@ -492,26 +582,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1788972738000
-    },
-    {
-      "title": "19.00: Apple släpper nya produkter",
-      "description": "Den stora snackisen på förhand: Är det nu vi äntligen får se en vikbar Iphone? Expressens techreporter Mats Karlsson bevakar Apples event. Här får du de senaste uppdateringarna – och kan vara med och chatta. Klockan 19 drar vi i gång. Häng med du också!",
-      "link": "https://www.expressen.se/nyheter/varlden/1900-apple-slapper-nya-produkter/",
-      "guid": "https://www.expressen.se/nyheter/varlden/1900-apple-slapper-nya-produkter/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788972600000
-    },
-    {
-      "title": "Mette-Marits mamma visar sig efter åtta månader",
-      "description": "Mette-Marits mamma har inte synts till på över åtta månader. Men på onsdagen återvände Marit Tjessem för att tillsammans med dottern och resten av kungafamiljen ta ett sista farväl av kung Harald.",
-      "link": "https://www.expressen.se/nyheter/kungligt/mette-marits-mamma-visar-sig-efter-atta-manader/",
-      "guid": "https://www.expressen.se/nyheter/kungligt/mette-marits-mamma-visar-sig-efter-atta-manader/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1788972354000
     },
     {
       "title": "Protester mot 100 000 ton avfall per år i kvarteret",
@@ -1754,16 +1824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788904800000
     },
     {
-      "title": "Everyday Carry: Sierra",
-      "description": "",
-      "link": "https://uncrate.com/everyday-carry-sierra/",
-      "guid": "https://uncrate.com/everyday-carry-sierra/",
-      "image": "https://uncrate.com/assets_c/2026/09/EDC-sierra-darkened-thumb-960xauto-192919.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1788901200000
-    },
-    {
       "title": "Forskarna sände ner en undervattenskamera till en av planetens mest ogästvänliga platser – fann en oväntad värld",
       "description": "Forskarna sände ner roboten för att studera något helt annat.",
       "link": "https://illvet.se/naturen/forskarna-sande-ner-en-undervattenskamera-till-en-av-planetens-mest-ogastvanliga-platser-fann-en-ovantad-varld",
@@ -1774,16 +1834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788895805000
     },
     {
-      "title": "Skyscanner x Miami Dolphins",
-      "description": "",
-      "link": "https://uncrate.com/skyscanner-x-miami-dolphins/",
-      "guid": "https://uncrate.com/skyscanner-x-miami-dolphins/",
-      "image": "https://uncrate.com/assets_c/2026/09/dolphins-1-thumb-960xauto-192875.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1788895693000
-    },
-    {
       "title": "Karshamra mat och trädgård stänger – efter 14 år",
       "description": "Ägarna bakom Karshamra Mat och Trädgård stänger. De vill göra annat och fokusera på familjen, meddelar de i ett uppmärksammat inlägg på sociala medier.",
       "link": "https://www.mitti.se/nyheter/karshamra-mat-och-tradgard-stanger--efter-14-ar-6.3.384804.c8cd8daa88",
@@ -1792,16 +1842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1788895206000
-    },
-    {
-      "title": "Tangent Urban Safari 911",
-      "description": "",
-      "link": "https://uncrate.com/tangent-urban-safari-911/",
-      "guid": "https://uncrate.com/tangent-urban-safari-911/",
-      "image": "https://uncrate.com/assets_c/2026/09/tangent-urban-safari-911-3-thumb-960xauto-192910.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1788894000000
     },
     {
       "title": "Gonorré och mässling – det söker flest på 1177",
@@ -2874,16 +2914,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788772846000
     },
     {
-      "title": "Varför knäpper mitt knä – och bör jag oroa mig?",
-      "description": "Du känner säkert igen det knäppande ljudet när du böjer eller sträcker ut knät.",
-      "link": "https://illvet.se/manniskan/varfor-knapper-mitt-kna",
-      "guid": "https://illvet.se/manniskan/varfor-knapper-mitt-kna",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1788771643000
-    },
-    {
       "title": "Scientists say love follows hidden mathematical rules",
       "description": "Could math help explain why some relationships survive life’s inevitable stresses while others slowly fall apart? Researchers have spent decades developing mathematical models that treat romantic feelings as changing systems, revealing patterns in attraction, emotional reactions, conflict, and recovery.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm",
@@ -3142,16 +3172,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1788757230000
-    },
-    {
-      "title": "Forskare placerade sensorer på sex valar – och upptäckte de något oroväckande djupt under havsytan",
-      "description": "De sex narvalarna skickades ut på ett lite ovanligt uppdrag långt nere i havsdjupet...",
-      "link": "https://illvet.se/naturen/forskare-placerade-sensorer-pa-sex-valar-och-upptackte-de-nagot-orovackande-djupt-under-havsytan",
-      "guid": "https://illvet.se/naturen/forskare-placerade-sensorer-pa-sex-valar-och-upptackte-de-nagot-orovackande-djupt-under-havsytan",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1788757209000
     },
     {
       "title": "Ekeröpolitiker får miljonstöd – det läggs pengarna på",
@@ -3714,16 +3734,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1788647748000
     },
     {
-      "title": "Skolutflykt till Skottlands vikingatid: Elever från internatskola hittar rester av möjlig kyrka från 1000-talet på obebodd ö",
-      "description": "Tio skolelever begav sig till en liten ö där det varken finns el eller fastboende. Sex dagar senare hade de varit med om att avslöja ett möjligt fynd från vikingatiden.",
-      "link": "https://varldenshistoria.se/civilisationer/vikingar/pa-skolutflykt-till-en-obebodd-o-gravde-eleverna-fram-resterna-av-en-okand-vikingakyrka",
-      "guid": "https://varldenshistoria.se/civilisationer/vikingar/pa-skolutflykt-till-en-obebodd-o-gravde-eleverna-fram-resterna-av-en-okand-vikingakyrka",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1788640217000
-    },
-    {
       "title": "Compound in blueberries may help muscle cells burn excess fat",
       "description": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat buildup in cultured mouse muscle cells by boosting fat breakdown and helping stabilize a key protein involved in fatty acid metabolism.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
@@ -3742,16 +3752,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1788636636000
-    },
-    {
-      "title": "Hon ville ha sin son helt för sig själv. Anna Månsdotter var världens farligaste svärmor",
-      "description": "Utsikten till en kärleksfull make och ekonomisk trygghet lockade en 22-årig kvinna in i ett äktenskap. Men hennes ”ja” i kyrkan blev början på en mardröm. Hemma på gården väntade brudgummens mor – och det som skulle komma att bli ett av Nordens mest omtalade brottmål.",
-      "link": "https://varldenshistoria.se/kriminalitet/kriminella/varldens-farligaste-svarmor-anna-mansdotter-ville-ha-sin-son-for-sig-sjalv",
-      "guid": "https://varldenshistoria.se/kriminalitet/kriminella/varldens-farligaste-svarmor-anna-mansdotter-ville-ha-sin-son-for-sig-sjalv",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1788634856000
     },
     {
       "title": "V:s känga till MP: \"Klimatframgångarna vår förtjänst\"",
