@@ -1,8 +1,18 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-10T22:50:42.741Z",
+  "updatedAt": "2026-09-11T01:57:48.691Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump pressas av egna leden om biljonlöftet",
+      "description": "Trump utlovade 48 000 kronor till alla vuxna amerikaner vid republikansk valseger. Notan för det: 13 biljoner kronor. Nu pressas administrationen av Trump-vänliga Fox News, skriver The Hill .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-pressas--av-egna-leden--om-biljonloftet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-pressas--av-egna-leden--om-biljonloftet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789081319000
+    },
     {
       "title": "BRABUS Shadow 1000 XC Cross Cabin Powerboat",
       "description": "",
@@ -12,6 +22,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1789081200000
+    },
+    {
+      "title": "Yvonnes kusliga ord före 9/11-dåden",
+      "description": "Det sista Yvonne Kennedy sade till sin son innan hon reste till USA var: – Vi ses när jag kommer tillbaka, om inte terroristerna tar mig först. Sedan dog hon i 11 september-terrordåden, skriver australiska News .",
+      "link": "https://www.expressen.se/nyheter/varlden/yvonnes-kusliga--ord-fore-911-daden/",
+      "guid": "https://www.expressen.se/nyheter/varlden/yvonnes-kusliga--ord-fore-911-daden/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789080889000
     },
     {
       "title": "”Explosiv situation – blir slutet för Putin”",
@@ -682,26 +702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789051528000
-    },
-    {
-      "title": "Nu säljer Johan Hakelius och Susanna Popova sitt drömhus",
-      "description": "Med sina 14 rum och kök och arkitektritad trädgård sticker Johan Hakelius och Susanna Popovas gård på Österlen minst sagt ut. Men nu ska de sälja stället. Och det är inte allt. – Vi håller på och säljer allt vi har och vet inte var vi ska bo, säger Johan Hakelius i parets gemensamma podd.",
-      "link": "https://www.expressen.se/livsstil/leva-och-bo/nu-saljer-johan-hakelius-och-susanna-popova-sitt-dromhus/",
-      "guid": "https://www.expressen.se/livsstil/leva-och-bo/nu-saljer-johan-hakelius-och-susanna-popova-sitt-dromhus/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789051291000
-    },
-    {
-      "title": "Busch anklagar M och SD: Smutskastning",
-      "description": "Ebba Busch (KD) anklagar Moderaterna och Sverigedemokraterna för ”smutskastning och struntprat”. – Jag vill se fyra år till för det blågula laget men jag accepterar inte dåligt beteende, säger hon i en video på sociala medier.",
-      "link": "https://www.expressen.se/nyheter/politik/busch-anklagar-m-och-sd-smutskastning/",
-      "guid": "https://www.expressen.se/nyheter/politik/busch-anklagar-m-och-sd-smutskastning/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789050861000
     },
     {
       "title": "Schweizerschnitzel cordon bleu med senapscrème",
