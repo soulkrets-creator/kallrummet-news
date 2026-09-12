@@ -1,8 +1,58 @@
 {
-  "updatedAt": "2026-09-11T22:52:18.148Z",
+  "updatedAt": "2026-09-12T02:02:13.657Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Allvarligt skadad i olycka på Östermalm i Stockholm",
+      "description": "Bilar kolliderade i centrala Stockholm",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f4eca671-918e-439b-a272-dac519a028c1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f4eca671-918e-439b-a272-dac519a028c1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789177527000
+    },
+    {
+      "title": "Trumps barndomshem sålt – under utgångspris",
+      "description": "Donald Trumps barndomshem hem har varit till salu. Det har nu sålts för 600 000 kronor under utgångspriset, skriver New York Post .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-barndomshem-salt-under-utgangspris/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-barndomshem-salt-under-utgangspris/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789177516000
+    },
+    {
+      "title": "Bars av kungen i 64 år – kan säljas för miljoner",
+      "description": "Kung Harald bar sin klocka i 64 år. Om armbandsuret säljs på auktion kommer det att gå under klubban för mångmiljonbelopp, säger experter till norska TV 2 . Men de hoppas att så inte blir fallet.",
+      "link": "https://www.expressen.se/nyheter/kungligt/bars-av-kungen-i-64-ar-kan-saljas-for-miljoner/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/bars-av-kungen-i-64-ar-kan-saljas-for-miljoner/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789174995000
+    },
+    {
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "description": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1789172705000
+    },
+    {
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "description": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1789170436000
+    },
     {
       "title": "Barbour Transport Ursula Waterproof Jacket",
       "description": "",
@@ -14,6 +64,26 @@
       "timestamp": 1789167600000
     },
     {
+      "title": "Flest ryska kärnvapen redo att avfyras på nio år",
+      "description": "Putin fortsätter öka antalet kärnvapenstridsspetsar som är redo för avfyrning, enligt Sipri. Nivån är den högsta Ryssland haft på nio år, skriver The Moscow Times . Man har nu passerat USA.",
+      "link": "https://www.expressen.se/nyheter/varlden/flest-ryska-karnvapen-redo-att-avfyras-pa-nio-ar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/flest-ryska-karnvapen-redo-att-avfyras-pa-nio-ar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789167468000
+    },
+    {
+      "title": "Putin lät en halv miljon soldater dö – för så lite",
+      "description": "En halv miljon ryssar har dödats i Putins krig mot Ukraina, enligt den brittiska försvarschefen Richard Knighton. Den stora majoriteten av förlusterna uppstod i utbyte mot att Ryssland tog två procent av ukrainskt territorium, skriver Sky News . – Dessa siffror illustrerar tydligt det vettlösa och meningslösa slöseriet med människoliv för så små framsteg, säger Knighton.",
+      "link": "https://www.expressen.se/nyheter/varlden/putin-lat-en-halv-miljon-soldater-do-for-sa-lite/",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-lat-en-halv-miljon-soldater-do-for-sa-lite/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789167455000
+    },
+    {
       "title": "Uncharted Supply Co. Preptember Sale",
       "description": "",
       "link": "https://uncrate.com/uncharted-supply-co-preptember-sale/",
@@ -22,16 +92,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1789165800000
-    },
-    {
-      "title": "Trumps barndomshem sålt – under utgångspris",
-      "description": "Donald Trumps barndomshem hem har varit till salu. Det har nu sålts för 600 000 kronor under utgångspriset, skriver New York Post .",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-barndomshem-salt-under-utgangspris/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-barndomshem-salt-under-utgangspris/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789165382000
     },
     {
       "title": "Headspace Campers Toyota HiAce Roof Conversion",
@@ -165,7 +225,7 @@
     },
     {
       "title": "Vill du jobba efter pensionen?",
-      "description": "Dagens arbetslivsfråga Tidigare idag skrev vi att allt fler svenskar fortsätter jobba även efter att de uppnått pensionsåldern. Idag undrar vi hur ni läsare ställer er till det. Svara gärna på vår enkät nedan. Vill ni snacka mer om pension, arbete eller något som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/vill-du-jobba-efter-pensionen/496050/ L&auml;s mer om pension , enkät , arbete , Arbetsmarknad , Pensionär",
+      "description": "Dagens arbetslivsfråga Tidigare idag skrev vi att allt fler svenskar fortsätter jobba även efter att de uppnått pensionsåldern. Nu undrar vi hur ni läsare ställer er till det. Svara gärna på vår enkät nedan. Vill ni snacka mer om pension, arbete eller något som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/vill-du-jobba-efter-pensionen/496050/ L&auml;s mer om pension , enkät , arbete , Arbetsmarknad , Pensionär",
       "link": "https://feber.se/vill-du-jobba-efter-pensionen/496050/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/vill-du-jobba-efter-pensionen/496050/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -484,16 +544,6 @@
       "timestamp": 1789141860000
     },
     {
-      "title": "Orsaken bakom magsjukekaoset",
-      "description": "100 studenter från Handelshögskolan drabbades",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=264181e5-b68a-4944-b7e6-cafa7510a08c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=264181e5-b68a-4944-b7e6-cafa7510a08c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789141811000
-    },
-    {
       "title": "U18 Keikkan presenterar Halloween Edition med Papi Santana i år – boka din biljett här!",
       "description": "Är du 13–17 år ska du se hit.",
       "link": "https://yle.fi/a/7-10103752?origin=rss",
@@ -532,26 +582,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1789140600000
-    },
-    {
-      "title": "Emilia, 27, kan vara drabbad av röstkaoset",
-      "description": "500 väljares röster kan ha felregistrerats under förtidsröstningen. 27-åriga Emilia Adler är en av de som sannolikt drabbats. Nu är hon orolig för att hennes röst inte ska räknas. På valdagen är hon nämligen bortrest. – Det känns inte alls bra i magen, säger hon.",
-      "link": "https://www.expressen.se/nyheter/politik/emilia-27-kan-vara-drabbad-av-rostkaoset/",
-      "guid": "https://www.expressen.se/nyheter/politik/emilia-27-kan-vara-drabbad-av-rostkaoset/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789140483000
-    },
-    {
-      "title": "Barnen som utreds efter skolattacken",
-      "description": "Efter skoldådet i Fagersta har polisen kartlagt 18-årige Liam Nebels chattar. Nu utreds fyra barn med koppling till honom för olika brott – bland annat en 15-årig flicka för att ha haft egna planer på mord och en 14-årig pojke för hot. Det här är vad vi vet om dem.",
-      "link": "https://www.expressen.se/nyheter/sverige/barnen-som-utreds--efter-skolattacken/",
-      "guid": "https://www.expressen.se/nyheter/sverige/barnen-som-utreds--efter-skolattacken/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789140044000
     },
     {
       "title": "Oro hos föräldrar efter överfallet i Viksjö",
@@ -621,16 +651,6 @@
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789138800000
-    },
-    {
-      "title": "Hajer, 32, hyllas för sin idé: ”Sinnessjukt”",
-      "description": "Skapade succégrupp – enorma genomslaget • Läs mer i SMT",
-      "link": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.smt.se%2Feksjo%2Fhajer-fran-eksjo-bakom-succegrupp-i-jonkoping%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
-      "guid": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.smt.se%2Feksjo%2Fhajer-fran-eksjo-bakom-succegrupp-i-jonkoping%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789138800000
     },
     {
@@ -4674,16 +4694,6 @@
       "timestamp": 1788711480000
     },
     {
-      "title": "Scientists discover a hidden problem with this popular sugar substitute",
-      "description": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic effects linked to fructose.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788709488000
-    },
-    {
       "title": "HTV: Frederik efter krysset mot Örgryte",
       "description": "",
       "link": "https://www.hammarbyfotboll.se/nyheter/htv-frederik-efter-krysset-mot-oergryte",
@@ -5312,16 +5322,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1788504361000
-    },
-    {
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "description": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1788501846000
     }
   ]
 }
