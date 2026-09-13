@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-09-12T22:42:15.284Z",
+  "updatedAt": "2026-09-13T01:57:12.741Z",
   "feedCount": 12,
-  "sourceCount": 12,
+  "sourceCount": 11,
   "items": [
+    {
+      "title": "Toppchefens svar om risken att AI dödar alla",
+      "description": "Branschjättar larmar om att utvecklingen av AI måste bromsas. Anthropic-vd:n Dario Amodei har nu svarat på CNN :s fråga: – Tror du verkligen att AI kan döda alla människor?",
+      "link": "https://www.expressen.se/nyheter/varlden/toppchefens--svar-om-risken--att-ai-dodar-alla/",
+      "guid": "https://www.expressen.se/nyheter/varlden/toppchefens--svar-om-risken--att-ai-dodar-alla/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789257759000
+    },
     {
       "title": "Munk stal 27 miljoner – avslöjad av sexvideo",
       "description": "Buddhistmunken förskingrade 27 miljoner kronor. Han avslöjades av en sexvideo. Nu har munken och hans kvinnliga medbrottsling gripits, skriver Guardian .",
@@ -22,16 +32,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789251725000
-    },
-    {
-      "title": "Tesla presenterar nya Roadster snart",
-      "description": "Nedräkningen har börjat Jaja vi har hört det förut men nu verkar det faktiskt vara på gång, eller? Tesla har lagt upp en nedräknare på sin sajt som säger att de den 1 oktober kommer att dra täcket av nya Roadster. Spännande va?! Den som lever får se om det stämmer, är ni peppade? L&auml;s vidare och kommentera: https://feber.se/bil/tesla-presenterar-nya-roadster-snart/496072/ L&auml;s mer om Roadster , premiär , datum , oktober , presentation , sportbil , elbil",
-      "link": "https://feber.se/bil/tesla-presenterar-nya-roadster-snart/496072/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/tesla-presenterar-nya-roadster-snart/496072/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789250100000
     },
     {
       "title": "Varnar turister på Teneriffa – efter enorma fyndet i avloppet",
@@ -294,16 +294,6 @@
       "timestamp": 1789232392000
     },
     {
-      "title": "AI-larm: Snart bortom vår förmåga att kontrollera",
-      "description": "Dario Amodei är vd för AI-jätten Anthropic. I en text på sin hemsida adresserar han den senaste tidens varningar om AI. ”Vi måste bromsa takten i vilken vi förbättrar AI-modellernas förmågor”, skriver han, enligt CNN.",
-      "link": "https://www.expressen.se/nyheter/varlden/ai-larm-snart-bortom-var-formaga-att-kontrollera/",
-      "guid": "https://www.expressen.se/nyheter/varlden/ai-larm-snart-bortom-var-formaga-att-kontrollera/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789230656000
-    },
-    {
       "title": "Litet flygplan nödlandade i skogen",
       "description": "Nödlandningen ägde rum i Rovaniemi.",
       "link": "https://yle.fi/a/7-10105179?origin=rss",
@@ -354,16 +344,6 @@
       "timestamp": 1789228810000
     },
     {
-      "title": "Vad ska du rösta på i morgon?",
-      "description": "Helgens fråga De flesta har säkert lagt märke till att det har varit mycket valhets i media på senare tid och det är ju så klart för att det är dags för val här i Sverige under morgondagen. Förtidsröstningen slog i år nya rekord då de nu har passerat 3,5 miljoner röster men majoriteten kommer ju klä sig fint och promenera till vallokalerna i morgon för att lägga sin röst. Så i samband med allt detta undrar ju vi så klart vilket parti du har röstat eller tänker rösta på. Är man fortfarande osäker har Feber-läsaren Tinyrawr vajbat ihop en valkompass som skippar partiprogrammen och istället fokuserar på hårddata. Kompassen baseras på över 2 600 voteringar och nästan en miljon registrerade ledamotsröster från de senaste fyra åren. Du kan välja mellan en snabbversion på 32 frågor eller gå på djupet med 64 frågor inom tolv olika ämnesområden. Enligt Tinyrawr är projektet helt partipolitiskt obundet och kräver inget konto. Dina svar sparas bara lokalt i din egen webbläsare, du kan testa dina åsikter helt anonymt. Du hittar Tinyrawrs valkompass via länken nedan. L&auml;s vidare och kommentera: https://feber.se/vad-ska-du-rosta-pa-i-morgon/496067/ L&auml;s mer om Sverige , vallokal , riksdagsval , politiska partier , politik , förtidsröstning",
-      "link": "https://feber.se/vad-ska-du-rosta-pa-i-morgon/496067/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vad-ska-du-rosta-pa-i-morgon/496067/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789228800000
-    },
-    {
       "title": "Derek, 15, överlevde ensam i två dagar",
       "description": "I måndags hittades 15-åriga Derek på uppochnedvänd båt i Berings hav. Derek hade innan dess förlorat sin bror – och suttit på båtens skrov i två dagar. – Det där är en tuff kille, säger kaptenen Adam White, som hittade pojken.",
       "link": "https://www.expressen.se/nyheter/varlden/derek-15-overlevde-ensam-i-tva-dagar/",
@@ -402,16 +382,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789225514000
-    },
-    {
-      "title": "Ny trailer släppt för Avatar Seven Havens",
-      "description": "Utspelar sig 225 år efter Korra Här har vi den första ordentliga trailern för Avatar: Seven Havens, vilket är den tredje Avatar-serien efter Avatar: Legenden om Aang och Legenden om Korra. Denna nya serie utspelar sig 225 år efter Korra var Avataren och världen har blivit mer enad, men inte tack vare Avatarens hjältemod utan tvärtom. I denna värld anses Korra ha lämnat efter sig ett sådant kaos att mänskligheten har enat sig och vänt sig mot hela Avatar-konceptet. Det här innebär stora problem för seriens nya huvudperson, Pavi. Istället för att välkomnas som världens hopp är hon jagad från start. Alla som försöker hjälpa henne straffas, och hon tvingas leva på flykt tillsammans med sin tvillingsyster Nisha och medlemmar från det hemliga sällskapet Order of the White Phoenix. Bakom serien står originalskaparna Michael Dante DiMartino och Bryan Konietzko, vilket förhoppningsvis innebär att Avatar-känslan bevaras även här. Totalt består säsongen av 26 avsnitt, men de delas upp i två delar. Den första delen, Bok 1, har premiär den 9 oktober och då släpps de tre första avsnitten på en gång. L&auml;s vidare och kommentera: https://feber.se/film/ny-trailer-slappt-for-avatar-seven-havens/496063/ L&auml;s mer om Paramount+ , Avatar: Seven Havens , Pavi , Michael Dante DiMartino , Korra , The Legend of Korra",
-      "link": "https://feber.se/film/ny-trailer-slappt-for-avatar-seven-havens/496063/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/ny-trailer-slappt-for-avatar-seven-havens/496063/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789225200000
     },
     {
       "title": "Kungsholmen går till val – här är fem heta frågor",
@@ -474,16 +444,6 @@
       "timestamp": 1789221689000
     },
     {
-      "title": "ChatGPT ska lära sig din personliga skrivstil",
-      "description": "Men vill man verkligen det? I veckan meddelade OpenAI att de har en ny funktion på gång som ska se till att texterna som kommer från ChatGPT ska bli betydligt mer personliga. Målet med funktionen är att man ska slippa förklara hur du vill att en text ska låta varje gång man promptar. Istället ska AI-assistenten kunna lära sig just hur du skriver dina texter på egen hand. Detta gör den genom att man kopplar ChatGPT till andra tjänster där man skriver saker, så som Gmail, Google Drive, Slack och så vidare. Där ska den skrapa det du skrivit så den får bättre koll på hur du brukar skriva och samtidigt antagligen få reda på rätt mycket mer om vem du är. Den nya funktionen kallas Writing Style och testas just nu på ett gäng utvalda användare. Det är för tillfället oklart när OpenAI planerar att lansera det här brett. L&auml;s vidare och kommentera: https://feber.se/internet/chatgpt-ska-lara-sig-din-personliga-skrivstil/496054/ L&auml;s mer om OpenAI , ChatGPT , Writing Style , Gmail , Google Drive , Slack , AI-assistenter",
-      "link": "https://feber.se/internet/chatgpt-ska-lara-sig-din-personliga-skrivstil/496054/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/chatgpt-ska-lara-sig-din-personliga-skrivstil/496054/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789221600000
-    },
-    {
       "title": "Scientists find Ozempic may slow aging itself",
       "description": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
@@ -532,16 +492,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1789219035000
-    },
-    {
-      "title": "Kolla när en \"bananfluga\" spelar DOOM",
-      "description": "Med hjälp av dopamin och artificiella nervceller Nyligen meddelade Google att de hade lyckats skapa en komplett 3D-karta över en bananflugas hjärna och nervsystem . Det dröjde inte länge förrän några fantastiska människor lyckades få den digitala modellen av hjärnan att lära sig spela en moddad variant av DOOM. En mjukvaruingenjör kopplade flugans hjärna till spelet och genom att låta spelets bildrutor stimulera flugans nervceller och använda dopamin som \"belöning\" vid framsteg, försöker han få den digitala flugan att förstå spelet. Det visar dock sig att bananflugor inte är några superstjärnor på DOOM då det fortfarande går ganska trögt på E1M1 för flugan trots tusentals försök. Förutom DOOM har flughjärnan även fått testa spel som Super Mario 64 och Beat Saber, ett spel som den är mycket bättre på. Om du vill se hur det ser ut när flugan spelar DOOM så kan du göra det i realtid via länken nedan. L&auml;s vidare och kommentera: https://feber.se/vetenskap/kolla-nar-en-bananfluga-spelar-doom/496060/ L&auml;s mer om Google , DOOM , bananfluga , Super Mario 64 , Beat Saber , neurovetenskap",
-      "link": "https://feber.se/vetenskap/kolla-nar-en-bananfluga-spelar-doom/496060/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/kolla-nar-en-bananfluga-spelar-doom/496060/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789218000000
     },
     {
       "title": "Här tar näckrosorna över: \"Helt sanslöst\"",
@@ -594,16 +544,6 @@
       "timestamp": 1789214414000
     },
     {
-      "title": "Spanska bilmärket Galloper återuppstår",
-      "description": "Är dock bara ombyggda Nissan som byggs i Kina I mars 1998 introducerades bilmärket Galloper på den spanska marknaden. Det var ett märke speciellt utvecklat för Spanien och bakom stod Mitsubishi Motors och Hyundai. Hyundai hade modellerna Galloper och Santamo som i princip var Mitsubishi Pajero och Mitsubishi Space Wagon med andra namn. Man kokade ihop detta och började sälja bilarna under namnet Galloper i Spanien och gjorde så fram till och med 2005. Nu återuppstår märket i landet men denna gång är det istället Nissan-modeller som tillverkas i Kina som kommer säljas. Modellerna det handlar om heter Ayanet och Gredos och det är en pickup och en SUV som båda har Mitsubishi-motor under huven. Ayanet är en Nissan Navara D23 i andra kläder medan Gredos är Nissan Terra innan den fick facelift. Utsidan har nya emblem och några smådetaljer medan insidan på bilarna fått en infotainmentskärm i mitten. Lanseringen sker i oktober i Spanien och efter det ska modellerna erbjudas på fler marknader i Europa. Innan året är slut hoppas man ha 60 återförsäljare. Pickisen kommer kosta från 26.000 euro medan suven börjar på 39.000 euro. L&auml;s vidare och kommentera: https://feber.se/bil/spanska-bilmarket-galloper-ateruppstar/496030/ L&auml;s mer om Galloper , Spanien , biltillverkare , Kina , Nissan",
-      "link": "https://feber.se/bil/spanska-bilmarket-galloper-ateruppstar/496030/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/spanska-bilmarket-galloper-ateruppstar/496030/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789214400000
-    },
-    {
       "title": "Amanda och Sebastian krossade Göteborg i spårvagns-SM",
       "description": "Spårvagns-SM: Stockholmarna vann första mästerskapet.",
       "link": "https://www.mitti.se/nyheter/amanda-och-sebastian-krossade-goteborg-i-sparvagnssm-6.3.384833.f70e0dfb4e",
@@ -652,16 +592,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789211178000
-    },
-    {
-      "title": "Roblox-spel kan snart släppas som fristående appar",
-      "description": "Would you like to buy \"Server Luck!\"? Roblox är redan en av världens absolut största spelplattformar, men hittills har plattformens succéspel endast kunnat spelas inne i deras ekosystem. Men det kan bli ändring på snart då företaget nu lanserar Roblox Everywhere, vilket gör att utvecklarna kan släppa sina spel som fristående appar till både mobiler, datorer och spelkonsoler. Tanken är att göra spelen mer tillgängliga för en bredare publik och redan vid årsskiftet ska det bli möjligt att köra igång direkt i webbläsaren via en länk som man då kanske hittar via sociala medier eller ett Snapchat-meddelande. Till en början fungerar detta bara i Chrome, men fler webbläsare ska få stöd på sikt. Under 2027 introduceras också ett offline-läge, vilket gör det möjligt att spela spelen även utan något internet. Roblox hoppas därmed att man ska få till ett sömlöst sätt att bjuda in vänner, oavsett om de redan använder Roblox eller inte. L&auml;s vidare och kommentera: https://feber.se/spel/roblox-spel-kan-snart-slappas-som-fristaende-appar/496059/ L&auml;s mer om Roblox , Roblox Everywhere , mobilspel , Snapchat , spelutveckling , spelkonsoler , webbläsare",
-      "link": "https://feber.se/spel/roblox-spel-kan-snart-slappas-som-fristaende-appar/496059/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/roblox-spel-kan-snart-slappas-som-fristaende-appar/496059/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789210800000
     },
     {
       "title": "Här förvandlas gräsmattan till en blomstrande park",
@@ -734,16 +664,6 @@
       "timestamp": 1789207202000
     },
     {
-      "title": "OpenAI erkänner AI-attack mot RubyGems",
-      "description": "Whoopsie! The Wall Street Journal rapporterar om att OpenAI:s AI-agenter låg bakom en cyberattack mot kodtjänsten RubyGems. Detta är dock ingen ny händelse då den tydligen hände redan två månader innan incidenten mot plattformen Hugging Face som vi skrivit om tidigare. Enligt rapporten var attacken så pass omfattande att RubyGems tvingades pausa alla nya kontoregistreringar för att få stopp på attacken. OpenAI har bekräftat att deras AI-modeller var inblandade och meddelar att händelsen fortfarande utreds. OpenAI säger nu att de ska införa betydligt hårdare restriktioner för hur deras agenter får använda internet, i kombination med en striktare övervakning av deras beteende. Jag måste nog upprepa mig igen här, men det känner man ju att de borde ha gjort innan det här hände. L&auml;s vidare och kommentera: https://feber.se/internet/openai-erkanner-ai-attack-mot-rubygems-/496061/ L&auml;s mer om OpenAI , Rubygems , Hugging Face , AI-agenter , The Wall Street Journal , cyberattack",
-      "link": "https://feber.se/internet/openai-erkanner-ai-attack-mot-rubygems-/496061/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/openai-erkanner-ai-attack-mot-rubygems-/496061/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789207200000
-    },
-    {
       "title": "Polisen om bilkaos vid skolor: Följ reglerna",
       "description": "Polisens uppmaning till föräldrar: Sluta parkera på trottoaren vid skolor.",
       "link": "https://www.mitti.se/nyheter/polisen-om-bilkaos-vid-skolor-folj-reglerna-6.3.384594.e79e467d04",
@@ -814,16 +734,6 @@
       "timestamp": 1789203624000
     },
     {
-      "title": "RPCS3 spelar PlayStation 3-spel direkt från skiva",
-      "description": "Kräver dock en kompatibel Blu-ray-spelare Den populära PlayStation 3-emulatorn RPCS3 har fått sig en kul liten uppdatering som gör att man kan spela spel direkt från en skriva via en kompatibel Blu-ray-läsare som då är kopplad till datorn. Nu är kanske inte allt för många har en sådan läsare i sin dator men om man nu har det och en massa PlayStation 3-spel liggandes därhemma så kan man ju spara lite hårddiskutrymme när man vill lira lite spel från förr på sin dator. L&auml;s vidare och kommentera: https://feber.se/spel/rpcs3-spelar-playstation-3-spel-direkt-fran-skiva/496055/ L&auml;s mer om PlayStation 3 , RPCS3 , Blu-ray , emulator , spel",
-      "link": "https://feber.se/spel/rpcs3-spelar-playstation-3-spel-direkt-fran-skiva/496055/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/rpcs3-spelar-playstation-3-spel-direkt-fran-skiva/496055/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789203600000
-    },
-    {
       "title": "SVT: Afrikanska trollkonton tar sikte på svenska valet",
       "description": "En granskning av SVT visar hur tusentals afrikanska trollkonton försöker påverka det svenska valet.",
       "link": "https://yle.fi/a/7-10105168?origin=rss",
@@ -864,16 +774,6 @@
       "timestamp": 1789201846000
     },
     {
-      "title": "Här är Sveriges hetaste nya spelstjärnor",
-      "description": "Uppsala och Falun regerade när årets speltalanger hyllades I går kväll var det dags för årets upplaga av Swedish Game Awards: New Talent på Bio Skandia i Stockholm. Detta jippo hyllar Sveriges nya speltalanger. I år hade drygt 80 spelprojekt från olika utbildningar skickats in till tävlingen, varav 19 valdes ut som nominerade. Kvällens stora vinnare blev Espaceship Studio från Uppsala universitet, som knep den tyngsta titeln Game of the Year med sitt spel Laira Cut Me Open. Det blev även en framgångsrik kväll för studenterna på Playground Squad, som dominerade i de tekniska samt estetiska kategorierna då de tog hem priser för både bästa teknik, grafik och ljud. Årets mest eftertraktade arbetsgivare bland de nya talangerna blev PEAK-studion Landfall Games. L&auml;s vidare och kommentera: https://feber.se/spel/har-ar-sveriges-hetaste-nya-spelstjarnor/496065/ L&auml;s mer om Swedish Game Awards , Espaceship Studio , Laira Cut Me Open , Landfall Games , PlaygroundSquad",
-      "link": "https://feber.se/spel/har-ar-sveriges-hetaste-nya-spelstjarnor/496065/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/har-ar-sveriges-hetaste-nya-spelstjarnor/496065/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789201800000
-    },
-    {
       "title": "Nu har danshösten startat",
       "description": "Danshösten har startat i Hägersten-Älvsjö. Midsommargården och Hägerstens medborgarhus bjuder in.",
       "link": "https://www.mitti.se/nyheter/nu-har-danshosten-startat-6.3.383204.0ca4f996d9",
@@ -882,16 +782,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789200180000
-    },
-    {
-      "title": "Tesla delar med sig av Semis europeiska specar",
-      "description": "Börjar levereras under nästa år Mellan den 14 och 20:e september kommer Tesla att visa upp den eldrivna lastbilen Semi på mässan IAA Transportation i Hannover. Inför detta delar tillverkaren nu med sig av bilens europeiska specifikationer. På en laddning ska den fullastad komma upp till 55 mil och man ska kunna ladda med upp till 800 kW i effekt. På en Tesla Megacharger som har upp till 1,2 MW i effekt ska man kunna tanka 60 procent av räckvidden på 30 minuter. På bakaxeln sitter tre motorer som tillsammans ger upp till 800 kW. Energiförbrukningen anges till 1.0 kWh/km. Tjänstevikten anges till under 9,1 ton och bruttokombinationsvikten ligger på 40 ton. Bilen har ett elektriskt kraftuttag (ePTO) som kan ge upp till 25 kW. De första kunderna i Europa väntas få sina lastbilar under nästa år. L&auml;s vidare och kommentera: https://feber.se/bil/tesla-delar-med-sig-av-semis-europeiska-specar/496062/ L&auml;s mer om Semi , lastbil , Europa , specifikationer , elbil , eldrift , specar",
-      "link": "https://feber.se/bil/tesla-delar-med-sig-av-semis-europeiska-specar/496062/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/tesla-delar-med-sig-av-semis-europeiska-specar/496062/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789200000000
     },
     {
       "title": "Nu mäts luften i Sigtuna – här placeras nya stationen",
@@ -934,16 +824,6 @@
       "timestamp": 1789198080000
     },
     {
-      "title": "Trollkonton har siktat in sig på det svenska valet",
-      "description": "Sägs vara digitala afrikanska legosoldater betalda av Ryssland Borta på SVT kan man i dag läsa om att en påverkansoperation mot Sverige upptäckts inför valet här. Granskningen, som SVT gjort tillsammans med analysföretag, visar hur tusentals fejkade konton, främst baserade i länder som Nigeria och Benin, systematiskt tagit sikte på svenska användare på sociala medier. Metoden är den klassiska och välbeprövade, det vill säga att kontona använder stulna eller AI-genererade bilder med namn som låter lokala. Genom att sedan massfölja svenska politiska debattörer försöker dessa konton komma med riktade inlägg i diskussioner för att påverka opinionen. Enligt SVT:s rapport är syftet att manipulera bilden av vad svenskarna faktiskt tycker. När tusentals konton förstärker vissa budskap skapas en illusion av ett starkt folkligt stöd för extrema åsikter. Något som riskerar att lura både väljare, journalister och politiker att tro att debattklimatet ser annorlunda ut än vad det faktiskt gör. Forskare som analyserat nätverket ser tydliga likheter med ryska påverkansoperationer. Bedömningen är att kontona drivs av afrikanska botbolag som fungerar som digitala legosoldater. Genom att köpa dessa tjänster kan utländska intressen sprida splittrande innehåll och påverka den svenska opinionen på avstånd. En videogenomgång av det hela kan hittas via länken nedan. L&auml;s vidare och kommentera: https://feber.se/samhalle/trollkonton-har-siktat-in-sig-pa-det-svenska-valet/496058/ L&auml;s mer om SVT , sociala medier , påverkansoperation , Nigeria , Benin , AI",
-      "link": "https://feber.se/samhalle/trollkonton-har-siktat-in-sig-pa-det-svenska-valet/496058/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/trollkonton-har-siktat-in-sig-pa-det-svenska-valet/496058/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789196400000
-    },
-    {
       "title": "Farstafotografen: ”Jag tycker om betong”",
       "description": "Fotografen och Farstabon Erik Jonasson ställer ut bilder från Farsta på Fanfaren.",
       "link": "https://www.mitti.se/nyheter/farstafotografen-jag-tycker-om-betong-6.3.385078.37a67f67bd",
@@ -962,16 +842,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789194240000
-    },
-    {
-      "title": "Slut på oändliga flöden för unga i Kalifornien",
-      "description": "Kalifornien klubbar nya lagar för det Evig scroll kan ju vara lite beroendeframkallande ibland, så pass att Kalifornien nu har klubbat igenom ett lagpaket som ska se till att minska skärmberoendet för alla under 16 år. De nya reglerna slår till mot allt från algoritmer som styr flödena till automatiska videouppspelningar och notiser som stör koncentrationen. Genom att begränsa detta hoppas man kunna bryta de beroendeframkallande mönster som många sociala medier använder för att hålla kvar sina användare. Förutom de nya reglerna för sociala medier så begränsas även AI-chattbotar nu med det nya lagpaketet. Företagen bakom botarna tvingas införa tidsgränser och säkerhetssystem som reagerar om en ung användare pratar om självskada. Dessutom måste föräldrar varnas om säkerhetsinställningarna stängs av. Sen utöver det så uppdaterar den amerikanska delstaten nu även lagstiftningen kring sexuella övergrepp på barn till att omfatta AI-genererade bilder. De bolag som inte följer de nya kraven riskerar både rättsliga påföljder och krav på årliga säkerhetsgranskningar. L&auml;s vidare och kommentera: https://feber.se/internet/slut-pa-oandliga-floden-for-unga-i-kalifornien/496053/ L&auml;s mer om Kalifornien , Gavin Newsom , Electronic Frontier Foundation , AI , sociala medier , AI-chattbotar , EFF",
-      "link": "https://feber.se/internet/slut-pa-oandliga-floden-for-unga-i-kalifornien/496053/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/slut-pa-oandliga-floden-for-unga-i-kalifornien/496053/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789192800000
     },
     {
       "title": "Flera löparfester på gång i höst",
@@ -1204,36 +1074,6 @@
       "timestamp": 1789154880000
     },
     {
-      "title": "Så är det att fota med iPhone Duo!",
-      "description": "Annorlunda, minst sagt Hur man fotar med en kamera och med en mobil vet alla. Att man inte ska fota med en iPad har vi också kommit överens om. Men hur gör man med en pryl som iPhone Duo? Som både är telefon, i lite udda format, och en mindre tablet? Jag har kört Samsungs Fold8 ett tag och fotomässigt har det inte varit en superupplevelse. Inte nödvändigtvis dåligt, men lite ovant och annorlunda. Det gjorde att just foto var ett område som jag var lite tveksam till när det gäller iPhone Duo. Nu har jag gått testa att använda iPhone Duo ett tag och det är alldeles för tidigt att dra några djupare slutsatser, men här kommer mina första tankar och några reflektioner. Ett riktigt test kommer senare, när vi fått använda iPhone Duo under en lite längre period. Yttre skärm för snabba bilder Att fota med den yttre skärmen är spontant något som man gör i point-and-shoot-stil. Alltså upp med mobilen, sikta, tryck av, klart. Vill du sätta den perfekta inramningen, pilla med inställningar och vara kreativ på riktigt så är det dags att öppna den inre skärmen. Anledningen är att Apple valt att fokusera på en vacker och härlig upplevelse, snarare än exakt och detaljerad. Det största beviset på detta är att fotot man är på väg att ta täcker hela skärmen och inte helt får plats på grund av de rundade hörnen. Kontrollerna ligger också på bilden, vilket inte är helt vetenskapligt. Spontant så tycker jag att man gör helt rätt här, främst eftersom bilden hade blivit så otroligt liten om man hade varit lite vetenskaplig och visat hela bilden på \"rätt\" sätt. Men det återstår att se hur det känns i längden. På Samsung Fold8 kan jag tycka att det känns som att man inte har \"hela bilden\", vilket man ju faktiskt inte har, och det kommer ju att gälla iPhone Duo också. Något som det lite bredare formatet gör är att telefonen kan bli lite svårare att greppa på ett riktigt säkert sätt, speciellt om man har små händer. Ska man verkligen fota med en iPad? Vecklar man däremot ut telefonen till en tablet så får man hela upplevelsen. Här ser det ut som på en helt vanlig mobil, bara större. Kanske för stort. Att fota i det här läget med en hand känns riskabelt, och inget jag skulle våga göra till exempel på konsert. Men annars känner vi igen oss. Nästan. Precis som jag skrev i min recension av Samsung Fold8 så har det här läget en lite udda egenhet. Liggande vid stående och tvärtom Kamerorna är nämligen \"fel\". På en vanlig mobil så får du en liggande bild när mobilen ligger ner, håller du mobilen stående får du en stående bild. Enkelt. På en tablet som denna blir det tvärtom. Hade man vridit kamerorna 90 grader så hade det istället blivit fel när Duo är stängd, och det hade nog varit bättre. Inte världens största grej och man kommer troligen att vänja sig, men det är en lite mental utmaning. Selfies kan tas på tre olika sätt Att det finns kameror åt två håll på mobiler är vi vana med, men på vikbara finns det åt tre. Dels de stora kamerorna på baksidan, dels en klassisk selfie-kamera på framsidan och så en till under den stora skärmen. Alla tre går att ta selfies med, men på olika sätt och för olika ändamål. Enklast är det klassiska sättet, håll mobilen och ta en bild på dig själv. Klart. Kvaliteten blir bra och då kan till och med välja om bilden ska bli liggande eller stående utan att vrida mobilen, precis som på andra iPhones. Vill du gå upp ett steg i kvalitet kan du fälla ut mobilen och använda de stora kamerorna på baksidan, men \"sikta\" med den yttre skärmen. Bonus här är att man kan använda den ultrabreda kameran och få riktigt roliga perspektiv. Lite extra roligt när man filmar. Det sista är att använda kameran som ligger under den stora skärmen. Denna är dock av sämre kvalitet och ska/bör främst användas när man fejstajmar med någon. Det går såklart att ta bilder med denna, men vill du ha kvalitet så ta någon av de andra. Kul att använda den yttre skärmen! Den yttre skärmen kan användas till annat än selfies, såklart. Man kan spexa till det lite och visa upp lite Snobben-animationer. Apple påstår att det främst är för att få barns uppmärksamhet, men det får nog även vuxna att le. Det andra användningsområdet är att helt enkelt visa den man fotar hur de ser ut. Till vardags är det lite konstigt att slå på detta läge, folk blir mest förvirrade eller distraherade och det förstör bilden. Men om man själv ber någon att ta en bild (eller filma) så är det lysande att se hur det ska bli. Jag kommer nog att använda detta väldigt ofta när jag trycker telefonen i näven på någon random pr-person för att ta en bakluckebild. De har nämligen inte alltid blivit så bra, så min tillit är låg. Tältkamera är najs! Om du inte har en kompis som kan fota dig kan du istället placera telefonen antingen som ett tält, som en bok eller som ett L. Alla tre varianter har sina för- och nackdelar beroende på var du kan placera telefonen. Apple har byggt in lite funktioner så att det tas bilder \"när det passar\". AI ska lista ut om folk ler, ställer upp sig och liknande. Vi får se hur det fungerar i praktiken. Inte för proffset iPhone Duo saknar som ni vet en kamera jämfört med iPhone Pro. Pro fick i år dessutom ställbar bländare. Så Duo är från start inte en kamera för proffsen. Här tänkte jag säga att vi är inte så många som är proffs egentligen, men samtidigt har vi alla blivit vana med att ha magiska kameror i fickan, så på sätt och vis är många av oss proffs. Det är tydligt att Apple istället för att fokusera på att användarna ska ta den absolut bästa bilden fokuserar på hur den nya formfaktorn kan användas. Det är alldeles för tidigt för att säga om det är bra eller dåligt, så det får vi återkomma till. L&auml;s vidare och kommentera: https://feber.se/mobil/sa-ar-det-att-fota-med-iphone-duo/496011/ L&auml;s mer om iPhone Duo , Apple , Samsung Galaxy Z Fold8 , vikbar telefon , iPad",
-      "link": "https://feber.se/mobil/sa-ar-det-att-fota-med-iphone-duo/496011/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/sa-ar-det-att-fota-med-iphone-duo/496011/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789153200000
-    },
-    {
-      "title": "Vill du jobba efter pensionen?",
-      "description": "Dagens arbetslivsfråga Tidigare idag skrev vi att allt fler svenskar fortsätter jobba även efter att de uppnått pensionsåldern. Nu undrar vi hur ni läsare ställer er till det. Svara gärna på vår enkät nedan. Vill ni snacka mer om pension, arbete eller något som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/vill-du-jobba-efter-pensionen/496050/ L&auml;s mer om pension , enkät , arbete , Arbetsmarknad , Pensionär",
-      "link": "https://feber.se/vill-du-jobba-efter-pensionen/496050/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vill-du-jobba-efter-pensionen/496050/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789152600000
-    },
-    {
-      "title": "Starlink lanserar sin fjärde router",
-      "description": "Får wifi 7 och PoE Starlink har presenterat sin senaste router i form av Starlink Router 4. Den största uppgraderingen är hoppet till wifi 7, där SpaceX valt att bara använda 2,4 GHz- och 5 GHz-banden, och skippar alltså 6 GHz-spektrumet. På anslutningsfronten får routern ett lyft med dubbla Ethernet-portar, en USB-C-port samt stöd för Power-over-Ethernet (PoE). SpaceX säger att den nya routern ska ge lägre latens och har kapacitet att hantera hela 510 anslutna enheter samtidigt. L&auml;s vidare och kommentera: https://feber.se/pryl/starlink-lanserar-sin-fjarde-router/496041/ L&auml;s mer om Starlink , Wi-Fi 7 , SpaceX , Starlink Router 4 , satellitinternet",
-      "link": "https://feber.se/pryl/starlink-lanserar-sin-fjarde-router/496041/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/starlink-lanserar-sin-fjarde-router/496041/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789151400000
-    },
-    {
       "title": "The Dime Lab Phantom Football",
       "description": "",
       "link": "https://uncrate.com/the-dime-lab-phantom-football/",
@@ -1244,16 +1084,6 @@
       "timestamp": 1789151400000
     },
     {
-      "title": "Ford kör Lamborghini Revuelto SV",
-      "description": "Mer potent på banan För en dryg månad sedan rullade Lamborghini ut sin nya värsting Revuelto SV. Här har allting skruvats upp ytterligare ett snäpp och är för närvarande det absolut vassaste du kan köpa från tillverkaren. Räcker det för att få ha SV-märket på sig? Tom Ford från Top Gear försöker ta reda på det i den här första provkörningen. L&auml;s vidare och kommentera: https://feber.se/bil/ford-kor-lamborghini-revuelto-sv/496026/ L&auml;s mer om Revuelto SV , Top Gear , prestanda , effekt , superbil , Tom Ford",
-      "link": "https://feber.se/bil/ford-kor-lamborghini-revuelto-sv/496026/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/ford-kor-lamborghini-revuelto-sv/496026/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789149600000
-    },
-    {
       "title": "QUIZ: Val och väljare i det gamla Stockholm",
       "description": "QUIZ: Val och väljare i det gamla Stockholm",
       "link": "https://www.mitti.se/nyheter/quiz-val-och-valjare-i-det-gamla-stockholm-6.3.379662.c4ed0b8720",
@@ -1262,16 +1092,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789149600000
-    },
-    {
-      "title": "Därför dröjde Apple med sin första vikbara",
-      "description": "John Ternus och Greg Joswiak snackar iPhone Duo I en ny intervju med Toms Guide och TechRadar förklarar Apples nyblivne vd John Ternus och marknadschefen Greg Joswiak varför företaget väntat tills nu med att släppa sin första vikbara lur. Enligt duon handlade det om att nå Apples höga krav på kvalitet och design, medan de själva naturligtvis tycker konkurrenternas tidigare lösningar varit oinspirerande. De fortsätter även att försvara den saftiga prislappen på 1999 dollar med att enheten i praktiken är som \"två produkter i en\". Förhandsbokningarna av iPhone Duo öppnar den 16 oktober, och säljstart sker den 23 oktober. L&auml;s vidare och kommentera: https://feber.se/mobil/darfor-drojde-apple-med-sin-forsta-vikbara/496040/ L&auml;s mer om John Ternus , Greg Joswiak , iPhone Duo , nanotextur , vikbara telefoner , vikbar telefon",
-      "link": "https://feber.se/mobil/darfor-drojde-apple-med-sin-forsta-vikbara/496040/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/darfor-drojde-apple-med-sin-forsta-vikbara/496040/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789147800000
     },
     {
       "title": "Väsbyborna slår nytt rekord i förtidsröstning",
@@ -1304,16 +1124,6 @@
       "timestamp": 1789147782000
     },
     {
-      "title": "När du vill ha en dyrare BMW Z4",
-      "description": "Köp en Bovensiepen Spider! Biltillverkaren Bovensiepen presenterar nu ytterligare en modell och det handlar om Spider. Här kombineras en klassisk öppen sportbil med modern teknik. Designdetaljerna har Frank Stephenson Design stått för. Ingen med ögon som fungerar missar dock att det här bara är en uppsnofsad version av BMW Z4 som lades ner i våras. Under huven sitter BMW-motorn B58 som är en rak sexa på 3,0 liter med turbo. I M40i ger den 340 hästar och 500 newtonmeter i vrid, Bovensiepen har dock skruvat upp detta till 435 hästar och 580 newtonmeter istället. Endast 99 exemplar kommer att bli till och alla sätts tydligen ihop för hand. För kalaset får man hosta upp motsvarande 1,3 miljoner kronor. Z4 M40i kostade runt hälften, men detta är ju din enda chans att få tag i en ny Z4 igen så slå till vettja! L&auml;s vidare och kommentera: https://feber.se/bil/nar-du-vill-ha-en-dyrare-bmw-z4/496003/ L&auml;s mer om Bovensiepen , Bovensiepen Spider , BMW Z4 , sportbil , cabriolet , öppen",
-      "link": "https://feber.se/bil/nar-du-vill-ha-en-dyrare-bmw-z4/496003/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nar-du-vill-ha-en-dyrare-bmw-z4/496003/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789146000000
-    },
-    {
       "title": "Jättetapp för butikerna – trots turistrekord",
       "description": "I sommar var det rusning till sevärdheterna i innerstan när turismen slog rekord i Stockholm. Men alla vill inte öppna plånboken – och vissa resenärer lyser med sin frånvaro i år, visar Mitt i:s rundringning.",
       "link": "https://www.mitti.se/nyheter/jattetapp-for-butikerna--trots-turistrekord-6.3.384839.3940bc7df6",
@@ -1322,16 +1132,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789146000000
-    },
-    {
-      "title": "Dags för ny säsong av Dexter: Resurrection nästa månad",
-      "description": "Dexter börjar känna sig gammal Paramount har släppt en teaser inför premiären av andra säsongen av Dexter: Resurrection , spinoffen till Dexter vars första säsong hade premiär förra året. I den kommande säsongen kommer tittarna att få se Dexter Morgan (Michael C. Hall) hantera en ålderskris samtidigt som han är på jakt efter två nya seriemördare, \"New York Ripper\" (Dan Stevens) och \"Five Borough Killer\" (Brian Cox). Andra säsongen av Dexter: Resurrection har premiär på Paramount+ i USA den 30 oktober. Här i Sverige går serien att se på SkyShowtime. När andra säsongen kommer dit finns det än så länge inga bekräftade uppgifter om. Ni hittar den senaste teasern för serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/dags-for-ny-sasong-av-dexter-resurrection-nasta-manad/496010/ L&auml;s mer om Dexter: Resurrection , Paramount+ , Michael C. Hall , Dan Stevens , Brian Cox , SkyShowtime",
-      "link": "https://feber.se/film/dags-for-ny-sasong-av-dexter-resurrection-nasta-manad/496010/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/dags-for-ny-sasong-av-dexter-resurrection-nasta-manad/496010/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789144200000
     },
     {
       "title": "Toyota GR Kart Entry-Level Racer",
@@ -1364,16 +1164,6 @@
       "timestamp": 1789142457000
     },
     {
-      "title": "Instagram låter dig visa taggade bilder i flödet",
-      "description": "Lägg till inlägg du blivit taggad i direkt på profilen För den som är ute efter det perfekta flödet i sin Instagram-profil rullar plattformen nu ut en funktion som låter dig lägga till inlägg som du blivit taggad i direkt i ditt profilflöde. Istället för att bilderna enbart samlas under den separata tagg-fliken kan nu exempelvis en lyckad gruppbild från en utekväll visas bland dina egna uppladdningar, utan att du behöver publicera om den. Funktionen kan nås direkt via DM-notisen, inläggets meny eller tagg-fliken. Det tillagda inlägget varken duplicerar eller raderar originalposten, och du kan när som helst plocka bort det från ditt rutnät igen utan att det försvinner från tagg-fliken. L&auml;s vidare och kommentera: https://feber.se/internet/instagram-later-dig-visa-taggade-bilder-i-flodet/496035/ L&auml;s mer om Profilflöde , Tagg-flik , sociala medier , DM-notis",
-      "link": "https://feber.se/internet/instagram-later-dig-visa-taggade-bilder-i-flodet/496035/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/instagram-later-dig-visa-taggade-bilder-i-flodet/496035/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789142400000
-    },
-    {
       "title": "Dax för mer vax: Ny säsong för vinylpuben",
       "description": "Ny säsong för vinylkväll med Hot Records på Bishops Arms i Sundbyberg.",
       "link": "https://www.mitti.se/nyheter/dax-for-mer-vax-ny-sasong-for-vinylpuben-6.3.384501.d336c0d0ef",
@@ -1392,16 +1182,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789141102000
-    },
-    {
-      "title": "Soundtracket till Widows Bay släpps på vinyl",
-      "description": "Lyssna närmare på ödesmättad musik Snart släpps soundtracket till Apples hyllade skräckkomedi Widows Bay på vinyl i en exklusiv utgåva, något som kanske kan vara intressant för dem som vill lyssna lite närmare på musiken i serien. Seriens soundtrack är komponerat av David Fleming som tidigare gjort musik till filmer som Superman och Man of Tomorrow , tv-serier som The Last of Us och Blue Planet II och han står även bakom soundtracket till det nysläppta spelet Marvel's Wolverine . För soundtracket till Widows Bay vann Fleming en Emmy i kategorin \"Outstanding Music Composition for a Series (Original Dramatic Score)\". Samlarutgåvan av Widows Bay soundtrack på vinyl kommer att kosta 100 dollar. Ni kan se vad som inkluderas i den förutom de två vinylskivorna nedan. Soundtracket kommer även att släppas på en traditionell dubbel-LP som kommer att kosta 45 dollar och i en CD-version som kommer att kosta 15 dollar. De ska gå att köpa via Mutant senare idag på länken nedan. L&auml;s vidare och kommentera: https://feber.se/film/soundtracket-till-widows-bay-slapps-pa-vinyl/496036/ L&auml;s mer om Widows Bay , David Fleming , vinyl , soundtrack , Mutant , Marvel's Wolverine",
-      "link": "https://feber.se/film/soundtracket-till-widows-bay-slapps-pa-vinyl/496036/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/soundtracket-till-widows-bay-slapps-pa-vinyl/496036/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789140600000
     },
     {
       "title": "Oro hos föräldrar efter överfallet i Viksjö",
@@ -1432,16 +1212,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789138969000
-    },
-    {
-      "title": "Provkörning av Kias EV3, EV4 och EV5 i GT-utförande",
-      "description": "Inga billiga historier I januari visade Kia upp elbilarna EV3, EV4 och EV5 i GT-utförande. Det finns GT Line sedan tidigare men detta är alltså \"äkta\" GT med lite mer pulver, fyrhjulsdrift från dubbla motorer, vässat chassi och en lite sportigare framtoning överlag. De får även teknikaliteter som Launch Control, Virtual Gear Shift och Active Sound Design. Nu har provkörningarna av dessa dragit igång och hur det såg ut när YouTube-kanalen Electrifying testade bilarna kan ni se här nedan. EV3 och EV4 GT har samma drivlina som består av en elmotor på vardera axel som tillsammans genererar en effekt på 292 hästar och ett vrid på 468 newtonmeter. EV5 GT har istället totalt 306 hästar och 480 newtonmeter. Inga monstersiffror någonstans alltså men kanske uppar körglädjen ett snäpp ändå. EV3 gör 0-100 på 5,7 och toppar 170 km/h, EV4 har siffrorna 5,6 respektive 170 och EV5 GT tar sig från stillastående till 100 km/h på 6,2 sekunder och har istället en toppfart på 180 km/h. Alla har batteripack på 81,4 kWh och både batteriförvärmning och värmepump är standard. Även V2L, och bilarna är hårdvarumässigt förberedda för V2G och V2H. EV3 kommer 53,2 mil på en laddning, EV4 50,5 mil och EV5 GT har räckvidd på upp till 47,6 mil. Priserna då? Sätt er ner. EV3 GT är som väntat den billigaste och den börjar på 650.900 kronor. Ett snäpp upp hittar vi inte EV4 GT utan EV5 GT som kostar från 699.900 kronor. EV4 GT vill man istället ha 711.900 kronor för. L&auml;s vidare och kommentera: https://feber.se/bil/provkorning-av-kias-ev3-ev4-och-ev5-i-gt-utforande/496048/ L&auml;s mer om priser , Sverige , lansering , elbil , EV3 GT , EV4 GT , EV5 GT , elbilar",
-      "link": "https://feber.se/bil/provkorning-av-kias-ev3-ev4-och-ev5-i-gt-utforande/496048/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/provkorning-av-kias-ev3-ev4-och-ev5-i-gt-utforande/496048/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789138800000
     },
     {
       "title": "Jätteprojektet invigt – Ulvsunda idrottscenter står redo",
@@ -1484,16 +1254,6 @@
       "timestamp": 1789138260000
     },
     {
-      "title": "Ikeas högtalare Badkruka stannar gärna på hyllan",
-      "description": "Saknar batteri och har uttag för Toslink Ikea kan verkligen inte sluta släppa olika högtalare, och fortsätter nu med den nya modellen Badkruka. Till skillnad från företagets mer portabla alternativ saknar den 16 centimeter höga klossen ett uppladdningsbart batteri och är istället tänkt att stå inkopplad i hemmet. Högtalaren finns i färgerna svart eller rosa och bjuder på funktioner som Spotify Tap och tre olika förinställda EQ-lägen. Utöver vanlig Bluetooth-anslutning går det att parkoppla flera enheter för att antingen få stereoljud eller synkroniserad uppspelning över större ytor. För dig som vill koppla ljudet direkt från en tv, dator eller hemmabio medföljer även en optisk kabel (Toslink). Priset ligger på 599 kronor och högtalaren finns att beställa online hos Ikea redan nu. Den finns även i lager i vissa varuhus. L&auml;s vidare och kommentera: https://feber.se/pryl/ikeas-hogtalare-badkruka-stannar-garna-pa-hyllan/496049/ L&auml;s mer om Ikea , Badkruka , Spotify Tap , Bluetooth , Toslink",
-      "link": "https://feber.se/pryl/ikeas-hogtalare-badkruka-stannar-garna-pa-hyllan/496049/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/ikeas-hogtalare-badkruka-stannar-garna-pa-hyllan/496049/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789137600000
-    },
-    {
       "title": "Tre appsända matcher på lördagen",
       "description": "På söndagen spelar ju båda A-lagen – och lördagen blir faktiskt ännu mer späckad, för dig som har abonnemanget Bajen+ i vår app Forza Bajen. En bonus denna helg är att det serieledande F19-lagets bort",
       "link": "https://www.hammarbyfotboll.se/nyheter/tre-appsaenda-matcher-pa-loerdagen",
@@ -1502,16 +1262,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1789137155000
-    },
-    {
-      "title": "YouTube på TV:n får PIN-kodslås",
-      "description": "Så ingen kan förstöra dina rekommendationer Google rullar ut en ny funktion för YouTube-appen på smarta TV-apparater som gör det lite enklare för familjer och sambor att dela på samma skärm utan att blanda ihop rekommendationer och visningshistorik. Den stora nyheten är en funktion som låter dig låsa din personliga profil med en fyrsiffrig PIN-kod i TV-appens kontoinställningar. För att slippa knappa in koden med fjärrkontrollen varje gång går det även att låsa upp profilen direkt via en notis i YouTube-appen på mobilen. L&auml;s vidare och kommentera: https://feber.se/internet/youtube-pa-tvn-far-pin-kodslas/496033/ L&auml;s mer om Google , Smart-TV , Account Lock , PIN-kod , Integritet",
-      "link": "https://feber.se/internet/youtube-pa-tvn-far-pin-kodslas/496033/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/youtube-pa-tvn-far-pin-kodslas/496033/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789137000000
     },
     {
       "title": "Tekniska problem med skyltarna på Väsby station",
@@ -1542,16 +1292,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789136619000
-    },
-    {
-      "title": "Android gör det enklare att byta lösenordshanterare",
-      "description": "Klart på bara några klick Google har nu börjat rulla ut den nya finessen i Android som låter dig flytta både lösenord och nycklar mellan olika lösenordshanterare med bara några få klick. Tidigare krävde ett byte ofta att man exporterade sina lösenord i en okrypterad textfil, medan passkeys inte gick att överföra överhuvudtaget utan behövde skapas på nytt. Med den nya lösningen sköter Android hela dataöverföringen direkt och säkert mellan apparna. Funktionen är redan tillgänglig för Google Password Manager, 1Password, Bitwarden och Dashlane. L&auml;s vidare och kommentera: https://feber.se/mobil/android-gor-det-enklare-att-byta-losenordshanterare/496047/ L&auml;s mer om passkeys , 1Password , Bitwarden , Dashlane , Google , Google Password Manager , lösenordshanterare",
-      "link": "https://feber.se/mobil/android-gor-det-enklare-att-byta-losenordshanterare/496047/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/android-gor-det-enklare-att-byta-losenordshanterare/496047/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789136400000
     },
     {
       "title": "Vakt vid domstol anmäld: \"Tickande bomb\"",
@@ -1594,16 +1334,6 @@
       "timestamp": 1789135405000
     },
     {
-      "title": "Volvo EX40 försvinner från den amerikanska marknaden",
-      "description": "EX60 och kommande EX50 ersätter Igår skrev vi om Volvos uppdaterade versioner av XC40, EX40 och EC40. Men USA blir utan Volvos små elbilar. EC40 plockade man bort från marknaden när modellår 2025 lanserades och EX30 fick samma öde efter modellår 2026 och såldes bara i två år. EX90 säljs dock fortfarande i staterna, men någon liten eldriven Volvo erbjuds alltså inte längre. Istället ska man i USA satsa på EX60 och även EX50 när den kommer. Den bygger också på SPA3-plattformen och förväntas börja säljas i USA i slutet av nästa år. Det snackas om ett frånpris på under 50.000 dollar, och EX60 kostar idag strax under 60.000 dollar. EX40 kostar från 56.000 dollar vilket känns på tok för högt för den bilen, så det kanske inte är så konstigt att den inte blivit någon säljsuccé over there. XC40 som har bensinmotor kommer fortsätta säljas på den amerikanska marknaden och inför modellår 2028 kommer den att få en helt ny design. Bonusklipp nedan där Kyle från Youtube-kanalen Out of Spec recenserar en Volvo EX90 Twin Motor Performance Ultra av senaste snitt. Han lånade den i två veckor och det blev ingen höjdare. Mängder av grejer strulade under testet och det var allt från skärmar som slocknade under körning till en head-up-display som inte fungerade till delar som lossnade. Kyle älskar dock bilen för dess komfort, design och hur den är att köra, men för mycket prylar är fortfarande inte åtgärdade. L&auml;s vidare och kommentera: https://feber.se/bil/volvo-ex40-forsvinner-fran-den-amerikanska-marknaden/496027/ L&auml;s mer om USA , EX40 , elbilar , EC40 , EX60 , EX50 , ersätta , marknad",
-      "link": "https://feber.se/bil/volvo-ex40-forsvinner-fran-den-amerikanska-marknaden/496027/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/volvo-ex40-forsvinner-fran-den-amerikanska-marknaden/496027/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789135200000
-    },
-    {
       "title": "Tufft för IFK Haninge i hemmamatchen på Stadion",
       "description": "IFK Haninge förlorade med 7–1 mot Djurgården i svenska cupen på Stockholms stadion. Trots storförlusten gläds klubben åt publikrekord och ett lyckat arrangemang.",
       "link": "https://www.mitti.se/nyheter/tufft-for-ifk-haninge-i-hemmamatchen-pa-stadion-6.3.385076.c5ed86832b",
@@ -1622,16 +1352,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789134720000
-    },
-    {
-      "title": "En närmare titt på ESA:s FLEX-satellit",
-      "description": "Ska kartlägga fotosyntes på jorden Nästa vecka kommer den europeiska rymdstyrelsen ESA att skjuta upp sin nya satellit FLEX (FLuorescence EXplorer) vars huvudsakliga uppdrag är att kartlägga och mäta fotosyntes på global skala. Traditionella satelliter mäter hur gröna växter är vilket visar hur mycket klorofyll som finns, men inte om fotosyntesen faktiskt fungerar effektivt. FLEX kan mäta den faktiska fotosyntetiska aktiviteten i realtid, något som kan upptäcka stress hos plantor i ett tidigt skede långt innan skadorna blir synliga för blotta ögat eller med vanliga optiska satelliter. ESA hoppas att data från FLEX kommer att kunna användas för att bland annat effektivisera bevattning, optimera gödselanvändning och ge bättre prognoser för skördar inom jordbrukssektorn. FLEX är ESA:s åttonde uppdrag i det man kallar för EarthExplorer. Tidigare har man bland annat skickat upp satelliten Biomass vars uppdrag är att kartlägga jordens skogar. Den 15 september är det dags för uppskjutning av FLEX-satelliten, vilket kommer att ske med en Vega-C-raket från Europe's Spaceport på franska Guyana. Uppskjutningen kommer gå att följa live på YouTube här . I videoklippet nedan berättar ESA lite mer om FLEX-uppdraget och hur satelliten mäter fotosyntes med hjälp av växters klorofyllfluorescens. L&auml;s vidare och kommentera: https://feber.se/vetenskap/en-narmare-titt-pa-esas-flex-satellit/496045/ L&auml;s mer om ESA , EarthExplorer , FLEX , Vega-C , fotosyntes , jordbruk , satelliter , Biomass",
-      "link": "https://feber.se/vetenskap/en-narmare-titt-pa-esas-flex-satellit/496045/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/en-narmare-titt-pa-esas-flex-satellit/496045/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789134600000
     },
     {
       "title": "Skärmarna är ett problem men inte skolans problem",
@@ -1684,16 +1404,6 @@
       "timestamp": 1789134021000
     },
     {
-      "title": "Suno släpper ny AI-modell för musikskapande",
-      "description": "Tillsammans med Warner Music Det verkar som om världens stora musikbolag, efter att ha stämt olika AI-företag de senaste åren, nu istället börjar samarbeta med AI-företagen. Tidigare idag skrev vi om att Universal Music Group (UMG), världens största musikbolag, ska dra igång en AI-tjänst för musikskapande tillsammans med ElevenLabs. Tidigare i veckan släppte även AI-företaget Suno en ny AI-modell för musikskapande som utvecklats tillsammans med Warner Music Group, som är världens tredje största musikbolag, samt musikbolagen BMG och Believe. Precis som AI-tjänsten som UMG och ElevenLabs ska släppa kommer AI-modellen Suno v6 erbjuda möjligheten att skapa musik, remixar och mashups baserade på musik som spelats in av artister från Warner Music, BMG och Believe. Det kommer att finnas inbyggda spärrar för otillåten användning av upphovsrättsskyddad musik i Suno v6. Man arbetar även på att ta fram en ersättningsmodell för artister vars musik använts för att träna upp AI-modellen. Suno v6 kommer att släppa i tre olika versioner. v6-mini är en snabbare gratisversion öppen för alla användare, v6-wild beskrivs som en mer experimentell variant av AI-modellen och flaggskeppsmodellen v6 ska kunna skapa genomarbetad musik i alla genrer för betalande användare. I videoklippet nedan finns en lång genomgång där Suno själva berättar om sin nya AI-modell. L&auml;s vidare och kommentera: https://feber.se/internet/suno-slapper-ny-ai-modell-for-musikskapande/496044/ L&auml;s mer om Universal Music Group , ElevenLabs , Suno , Warner Music Group , BMG",
-      "link": "https://feber.se/internet/suno-slapper-ny-ai-modell-for-musikskapande/496044/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/suno-slapper-ny-ai-modell-for-musikskapande/496044/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789134000000
-    },
-    {
       "title": "Översvämmad skolgård efter skyfallet",
       "description": "Översvämning på Karbyskolans gård efter skyfallet i Vallentuna",
       "link": "https://www.mitti.se/nyheter/oversvammad-skolgard-efter-skyfallet-6.3.385695.d2d582b74a",
@@ -1702,16 +1412,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789133763000
-    },
-    {
-      "title": "Audio-Technicas nya öppna hörlurar har aktiv brusreducering",
-      "description": "Oväntad kombo i företagets första trådlösa öppna lurar Audio-Technica presenterar sina första trådlösa öppna hörlurar i nya ATH-AL5NC. Hörlurarna väger endast 240 gram och rymmer specialdesignade 53 mm-element med stöd för högupplöst ljud via LDAC. Något som sticker ut för en öppen konstruktion är tillägget av aktiv brusreducering (som fungerar både trådlöst och via den medföljande 3,5 mm-kabeln) samt ett särskilt läge i A-T Connect-appen för att dämpa oundvikligt ljudläckage mot omgivningen. Batteritiden ska nå upp till hela 75 timmars speltid, eller 50 timmar med ANC igång, och snabbladdning ger åtta timmars lyssning på en kvart. Hörlurarna säljs redan nu och kostar 2799 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/audio-technicas-nya-oppna-horlurar-har-aktiv-brusreducering/496024/ L&auml;s mer om LDAC , Audio-Technica , ATH-AL5NC , A-T Connect , Aktiv brusreducering , ANC , Audio-Technica ATH-AL5NC",
-      "link": "https://feber.se/pryl/audio-technicas-nya-oppna-horlurar-har-aktiv-brusreducering/496024/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/audio-technicas-nya-oppna-horlurar-har-aktiv-brusreducering/496024/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1789133400000
     },
     {
       "title": "Här är väljarnas viktigaste valfrågor",
