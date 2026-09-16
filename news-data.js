@@ -1,8 +1,98 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-15T23:17:26.567Z",
+  "updatedAt": "2026-09-16T02:14:22.847Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trots storstädning och tätning: Inomhusluften förvärras i Ekenäs högstadieskola",
+      "description": "Luften i Ekenäs högstadieskola har blivit sämre trots åtgärder. Alla undersökta rum har för höga halter av skadliga fibrer i luften, visar nya mätningar.",
+      "link": "https://yle.fi/a/7-10105283?origin=rss",
+      "guid": "https://yle.fi/a/7-10105283",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789524682000
+    },
+    {
+      "title": "Märkliga frågestunden i senaten: Varför tidelag?",
+      "description": "Senatsförhöret med FBI-chefen Kash Patel ledde till en del hårda ordväxlingar. Och en mycket udda sådan. – Varför skulle man ens börja fundera på tidelag? frågade republikanen John Kennedy.",
+      "link": "https://www.expressen.se/nyheter/varlden/markliga-fragestunden-i-senaten-varfor-tidelag/",
+      "guid": "https://www.expressen.se/nyheter/varlden/markliga-fragestunden-i-senaten-varfor-tidelag/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789524372000
+    },
+    {
+      "title": "Riksrevisionen granskar hur svenska varor ändå når Ryssland",
+      "description": "Svenska produkter hamnar i Ryssland via Turkiet, Kazakstan och Indien, trots 21 sanktionspaket från EU. Nu granskar Riksrevisionen om regeringen och 19 myndigheter klarar att stoppa läckaget. Riksrevisionen inleder en granskning av hur Sverige genomför sanktionerna mot Ryssland och Belarus. Bakgrunden är tecken på att vissa sanktioner kringgås systematiskt, uppger myndigheten. Sedan invasionen av Ukraina […]",
+      "link": "https://www.dagensps.se/varlden/handel/riksrevisionen-granskar-hur-svenska-varor-anda-nar-ryssland/",
+      "guid": "https://www.dagensps.se/?p=1673694",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/skarmavbild-2026-09-15-kl-230058.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1789524300000
+    },
+    {
+      "title": "Scientists reversed biological age in older adults in just 4 weeks",
+      "description": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1789522554000
+    },
+    {
+      "title": "Ryska hotet mot Polen: Skulle inte existera",
+      "description": "Polens utrikesminister säger att Nato snabbt skulle besegra Ryssland. Det får Putins tunga rådgivare Nikolaj Patrusjev att tända till. – Polen skulle inte existera inom två, tre dagar, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/ryska-hotet-mot-polen-skulle-inte-existera/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryska-hotet-mot-polen-skulle-inte-existera/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789518460000
+    },
+    {
+      "title": "Lovable-grundare satsar i säljsystem som tar in 100 miljoner",
+      "description": "Finska Zero tar in 10,3 miljoner dollar, drygt 100 miljoner kronor, till ett säljsystem där säljaren slipper mata in kunddata. Bland investerarna finns Lovables medgrundare Fabian Hedin och Supercells vd Ilkka Paananen. Ett säljsystem är sällan det som säljer. Det är det som säljaren fyller i efteråt. Den tesen har Helsingforsbolaget Zero just tagit in […]",
+      "link": "https://www.dagensps.se/foretag/lovable-grundare-satsar-i-saljsystem-som-tar-in-100-miljoner/",
+      "guid": "https://www.dagensps.se/?p=1673690",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/image-31-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1789518180000
+    },
+    {
+      "title": "Svagare Golfström kan ge Stockholm samma klimat som Östersund",
+      "description": "Stockholm kan få Östersunds vintrar om havsströmssystemet AMOC i Atlanten kollapsar, enligt SMHI. Men en ny studie i Nature Geoscience visar att planeten som helhet blir varmare när strömmarna försvagas. Systemet fungerar som en ventil som styr hur mycket värme jorden gör sig av med. Havsströmssystemet AMOC, där Golfströmmen ingår, är skälet till att Sverige […]",
+      "link": "https://www.dagensps.se/varlden/klimat/svagare-golfstrom-kan-ge-stockholm-samma-klimat-som-ostersund/",
+      "guid": "https://www.dagensps.se/?p=1673682",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlsheamj5nkbo-normalhires-scaled.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1789517100000
+    },
+    {
+      "title": "Jeep Wrangler JL-2A Package",
+      "description": "",
+      "link": "https://uncrate.com/jeep-wrangler-jl-2a-package/",
+      "guid": "https://uncrate.com/jeep-wrangler-jl-2a-package/",
+      "image": "https://uncrate.com/assets_c/2026/09/jeep-wrangler-jl-2a-package-2-thumb-960xauto-193022.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789516800000
+    },
+    {
+      "title": "Donald Trumps utbrott efter beslutet",
+      "description": "Donald Trump får inte ha sitt namn på Kennedy Center. Då får Trump ett trotsigt raseriutbrott på sociala medier. Byggnaden kommer inte att renoveras – och därmed hållas stängd framöver.",
+      "link": "https://www.expressen.se/nyheter/varlden/donald-trumps-utbrott-efter-beslutet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/donald-trumps-utbrott-efter-beslutet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789515465000
+    },
     {
       "title": "Lamborghini har 7600 hästkrafter men toppar 83 km/h – på sjön",
       "description": "I den största båtmodellen har Lamborghini klämt in motorkraft motsvarande nio och en halv Uros. Prislappen? Drygt 165 miljoner kronor. Lamborghini är mest kända för sina lyxiga superbilar – och en och annan polisbil. Den som känner till det italienska märkets historia vet också att man har varit, och är, en framgångsrik tillverkare av lantbruksmaskiner. […]",
@@ -14,6 +104,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789513500000
     },
     {
+      "title": "Nintendo Switch 2 Zelda 40th Anniversary Edition",
+      "description": "",
+      "link": "https://uncrate.com/nintendo-switch-2-zelda-40th-anniversary-edition/",
+      "guid": "https://uncrate.com/nintendo-switch-2-zelda-40th-anniversary-edition/",
+      "image": "https://uncrate.com/assets_c/2026/09/nintendo-switch-2-legend-of-zelda-40th-anniversary-edition-2-darkened-thumb-960xauto-193019.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789513200000
+    },
+    {
       "title": "Trumps nya anklagelser om Butler",
       "description": "I ett nytt, vilt utspel på anklagar Trump Demokraterna för att ligga bakom mordförsöket på honom i Butler. ”Allt var en demokratisk komplott för att få ut mig ur valet”, skriver han på Truth Social.",
       "link": "https://www.expressen.se/nyheter/varlden/trumps-nya-anklagelser--om-butler/",
@@ -22,6 +122,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789510575000
+    },
+    {
+      "title": "Panerai Luminor Firenze 8 Giorni Platinum Watch",
+      "description": "",
+      "link": "https://uncrate.com/panerai-luminor-firenze-8-giorni-platinum-watch/",
+      "guid": "https://uncrate.com/panerai-luminor-firenze-8-giorni-platinum-watch/",
+      "image": "https://uncrate.com/assets_c/2026/09/panerai-luminor-firenze-8-giorni-pam01734-2-thumb-960xauto-193016.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789509600000
     },
     {
       "title": "Kycklingskandal efter kung Haralds begravning",
@@ -105,7 +215,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Hegseths nya mardröm efter motgångarna",
-      "description": "Krigsminister Pete Hegseth anklagas för att ha startat ett ”illegalt krig” mot Iran och republikanen Thomas Massie vill ställa honom inför riksrätt, rapporterar The Hill . Nu tvingas kongressen att rösta om frågan. Det är den senaste motgången för Hegseth – som genomfört masstester med lögndetektor för att hitta läckor i sitt departement.",
+      "description": "Försvarsminister Pete Hegseth anklagas för att ha startat ett ”illegalt krig” mot Iran och republikanen Thomas Massie vill ställa honom inför riksrätt, rapporterar The Hill . Nu tvingas kongressen att rösta om frågan. Det är den senaste motgången för Hegseth – som genomfört masstester med lögndetektor för att hitta läckor i sitt departement.",
       "link": "https://www.expressen.se/nyheter/varlden/hegseths-nya-mardrom-efter-motgangarna/",
       "guid": "https://www.expressen.se/nyheter/varlden/hegseths-nya-mardrom-efter-motgangarna/",
       "image": "",
@@ -424,16 +534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789491600000
     },
     {
-      "title": "Därför röstade varken kungen eller Victoria",
-      "description": "Kungen röstade inte i valet. Inte heller kronprinsessan Victoria. Det finns en specifik anledning till det.",
-      "link": "https://www.expressen.se/nyheter/kungligt/darfor-rostade-varken--kungen-eller-victoria/",
-      "guid": "https://www.expressen.se/nyheter/kungligt/darfor-rostade-varken--kungen-eller-victoria/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789491401000
-    },
-    {
       "title": "Bill Gates: USA och Kina måste gå ihop för att stoppa AI-problemen",
       "description": "Det går för långsamt för världens regeringar att reagera på AI. Det menar Bill Gates som drar paralleller till science fiction-filmer. Ingen regering i världen är tillräckligt förberedd på de samhällsförändringar som artificiell intelligens kommer att föra med sig. Det säger Microsofts medgrundare och miljardären Bill Gates. Gates har tidigare varit optimistisk kring AI möjligheter, […]",
       "link": "https://www.dagensps.se/teknik/bill-gates-usa-och-kina-maste-ga-ihop-for-att-stoppa-ai-problemen/",
@@ -494,16 +594,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789489798000
     },
     {
-      "title": "Greider om V-beslutet: Så jävla dumt",
-      "description": "Vänsterpartiet bör riva upp sitt kongressbeslut om att få ministerposter och stödja en S+C+MP-regering. Det menar vänsterdebattören och S-profilen Göran Greider. – Nu hänger ju allting på att Vänsterpartiet backar på beslutet, och får något saftigt köttben i utbyte, säger han.",
-      "link": "https://www.expressen.se/nyheter/politik/greider-om-v-beslutet-sa-javla-dumt/",
-      "guid": "https://www.expressen.se/nyheter/politik/greider-om-v-beslutet-sa-javla-dumt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789489690000
-    },
-    {
       "title": "Västbanan mellan Åbo och Helsingfors kan ta ett steg framåt redan under de närmaste veckorna",
       "description": "Efter att delägaravtalet undertecknats börjar Länsirata Oy utöka sina egna resurser och rekrytera fler planerare.",
       "link": "https://yle.fi/a/7-10105325?origin=rss",
@@ -512,16 +602,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789489408000
-    },
-    {
-      "title": "Alla flyg stannade på Malmös flygplats",
-      "description": "Trafiken stoppad i Malmö, enligt Sydsvenskan",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4f7c3cd7-7912-4eea-ae2c-dcbf172ca249",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4f7c3cd7-7912-4eea-ae2c-dcbf172ca249",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789488760000
     },
     {
       "title": "Forskare hittar världens äldsta rusmedel: Jägare-samlare sög på berusande nötter",
@@ -734,16 +814,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789483403000
     },
     {
-      "title": "Tre av de största aktiva Sverigefonderna misstänks vara dolda indexfonder",
-      "description": "Tre av landets tio största Sverigefonder ligger under gränsen för vad som räknas som aktiv förvaltning, trots att spararna betalar för just det. En jämförelse med fondbolagens egna siffror visar att de dyra fonderna dessutom har halkat efter index. Den som väljer en aktivt förvaltad Sverigefond betalar i regel 1,30 procent om året mot 0,20 […]",
-      "link": "https://www.dagensps.se/bors-finans/fonder/tre-av-de-storsta-aktiva-sverigefonderna-misstanks-vara-dolda-indexfonder/",
-      "guid": "https://www.dagensps.se/?p=1673651",
-      "image": "https://images.dagensps.se/app/uploads/2026/04/sdlyqhp32v07bo.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1789483300000
-    },
-    {
       "title": "Blender släpper teaser för sin första långfilm",
       "description": "Djur i fokus i Overgrown Blender Studios, en del av den ideella stiftelsen Blender Foundation som utvecklar 3D-mjukvaran Blender, har släppt en teaser för sin första långfilm Overgrown som ni kan kolla in här ovanför. Overgrown utspelas i en postapokalyptisk värld och följer hur en tvättbjörn och en igelkott överlever i den nya världen. Blender Studios hoppas kunna finansiera 20 procent av filmen genom att sälja abonnemang till Blender Studio. I dagsläget har man sålt lite över 6000 abonnemang och siktar på att sälja 7000 abonnemang för delfinansiering av Overgrown . När Overgrown är redo för premiär finns det inga uppgifter om än så länge. I videoklippet nedan snackas det lite mer om hur Blender Studios ser Blender som en självklar del i att skapa animerade filmer. L&auml;s vidare och kommentera: https://feber.se/film/blender-slapper-teaser-for-sin-forsta-langfilm/496133/ L&auml;s mer om Blender Studios , Overgrown , Blender Foundation , Blender , 3D-animering , animerat",
       "link": "https://feber.se/film/blender-slapper-teaser-for-sin-forsta-langfilm/496133/?utm_source=rss&utm_medium=feed",
@@ -764,16 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789483042000
     },
     {
-      "title": "Billiga vapen ett ess i Putins rockärm – har skalat upp produktionen",
-      "description": "Komponenter till lågt pris från Kina har satt Ukraina-kriget i ett nytt läge. Ryssland har nämligen lyckats pressa kostnaderna rejält. Ryssland har utvecklat en ny generation jetdrivna drönare och kryssningsrobotar som kan tillverkas snabbt och till en bråkdel av kostnaden för amerikanska motsvarigheter. Utvecklingen skapar nya problem för Ukrainas luftförsvar och väcker oro inom Nato. […]",
-      "link": "https://www.dagensps.se/bors-finans/billiga-vapen-ett-ess-i-putins-rockarm-har-skalat-upp-produktionen/",
-      "guid": "https://www.dagensps.se/?p=1673639",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlpzceje2p214-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1789482996000
-    },
-    {
       "title": "SpaceXAI drar tillbaka stämning mot Apple",
       "description": "Ansåg att Apple och OpenAI pysslade med osund konkurrens Elon Musks X Corp och SpaceXAI meddelade igår att man drar tillbaka den stämning man lämnade in mot Apple i augusti förra året. I sin stämning ansåg xAI, företaget som idag är en del av SpaceXAI, att Apple och OpenAI ägnade sig åt osund konkurrens då Apple rekommenderade OpenAI:s app ChatGPT i App Store. xAI ansåg att detta hämmade deras egen AI-app Grok. Det finns inga uppgifter om huruvida Apple och SpaceXAI har rett ut tvisten utanför domstol eller varför SpaceXAI beslutat sig för att inte gå vidare med sin stämning mot Apple. SpaceXAI planerar dock att driva vidare ursprungsstämningen, men nu bara mot OpenAI. L&auml;s vidare och kommentera: https://feber.se/samhalle/spacexai-drar-tillbaka-stamning-mot-apple/496159/ L&auml;s mer om Elon Musk , Apple , OpenAI , X Corp , Grok , SpaceXAI , ChatGPT , SpaceX",
       "link": "https://feber.se/samhalle/spacexai-drar-tillbaka-stamning-mot-apple/496159/?utm_source=rss&utm_medium=feed",
@@ -782,16 +842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1789482600000
-    },
-    {
-      "title": "Uppgift: Turistskatt stundar i Köpenhamn",
-      "description": "Uppgifterna kommer från ”flera centrala regeringskällor” och en promemoria från regeringen. Danmarks regering vill införa turistskatt i Köpenhamn och Århus, erfar den den danska affärstidningen Børsen. Uppgifterna kommer från ”flera centrala regeringskällor” och en promemoria från regeringen. Blir det verklighet innebär det att tillresta gäster får betala 20 kronor i skatt per övernattning i svenskfavoriten […]",
-      "link": "https://www.dagensps.se/varlden/uppgift-turistskatt-stundar-i-kopenhamn/",
-      "guid": "https://www.dagensps.se/?p=1673645",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/tusentals-turister-strommar-dagligen-til.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1789482575000
     },
     {
       "title": "Scientists discover a major brain shift between ages 50 and 75",
@@ -1172,16 +1222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789475424000
-    },
-    {
-      "title": "Vad händer med Patrik Laine? Här är NHL-sommarens största snackisar",
-      "description": "Patrik Laine är fortfarande utan NHL-kontrakt. Sitter någon och pantar på ett billigt erbjudande? Eller får han nöja sig med ett träningsläger på prövotid?",
-      "link": "https://yle.fi/a/7-10105276?origin=rss",
-      "guid": "https://yle.fi/a/7-10105276",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789475418000
     },
     {
       "title": "BOOX släpper ny version av läsplattan Go 6",
@@ -1724,16 +1764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789423200000
     },
     {
-      "title": "Garb: Dusty Roads",
-      "description": "",
-      "link": "https://uncrate.com/garb-dusty-roads/",
-      "guid": "https://uncrate.com/garb-dusty-roads/",
-      "image": "https://uncrate.com/assets_c/2026/09/garb-dusty-road-darkened-thumb-960xauto-192997.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789419600000
-    },
-    {
       "title": "Podd: Harald Blåtand använde sig av effektiv magi och fick sitt folk att vända ryggen åt de nordiska gudarna",
       "description": "Harald Blåtand hade goda skäl att vilja införa kristendomen bland folket. Han bjöd in en tvivelaktig munk att utföra ett effektivt trick, som satte igång den religiösa omvändelsen i hela Norden. Lyssna på historien i podden ”Nordens vikingar”.",
       "link": "https://varldenshistoria.se/civilisationer/vikingar/podd-harald-blatand-anvande-effektiv-trollkonst-for-att-infora-kristendomen",
@@ -1754,16 +1784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789417827000
     },
     {
-      "title": "Cabal Salmiana Joven Jaguar Head Mezcal",
-      "description": "",
-      "link": "https://uncrate.com/cabal-salmiana-joven-jaguar-head-mezcal/",
-      "guid": "https://uncrate.com/cabal-salmiana-joven-jaguar-head-mezcal/",
-      "image": "https://uncrate.com/assets_c/2026/09/cabal-mezcal2-thumb-960xauto-192996.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789416001000
-    },
-    {
       "title": "Häpnadsväckande beteende: Rovdjur tar till avancerade knep för att locka sitt byte i döden",
       "description": "Sprutfisken tar jakten till en ny nivå. Dess anmärkningsvärda jaktteknik överraskar både bytet och alla människor som ser den i aktion. Jämte en rad andra rovdjur utmanar sprutfisken våra föreställningar om vad djuren är kapabla till.",
       "link": "https://illvet.se/naturen/hapnadsvackande-beteende-rovdjur-tar-till-avancerade-knep-for-att-locka-sitt-byte-i-doden",
@@ -1772,16 +1792,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1789414235000
-    },
-    {
-      "title": "momentm Ignition Hydration Supplement",
-      "description": "",
-      "link": "https://uncrate.com/momentm-ignition-hydration-supplement/",
-      "guid": "https://uncrate.com/momentm-ignition-hydration-supplement/",
-      "image": "https://uncrate.com/assets_c/2026/07/momentum-ignition-3-thumb-960xauto-191943.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789414234000
     },
     {
       "title": "Han anses vara en av världens första människorättsförkämpar – men ett misstag kastar fortfarande en skugga över hans minne",
@@ -4764,16 +4774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789093235000
     },
     {
-      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
-      "description": "UCLA researchers developed ready-made cancer-fighting T cells from cord blood stem cells that can attack solid tumors through two separate detection systems. In mice, a single dose controlled cancer and extended survival while avoiding a dangerous complication associated with donor-derived T-cell therapies.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1789088907000
-    },
-    {
       "title": "Här planerade Stockholm 10 000 lägenheter – nu är området naturreservat",
       "description": "Stockholms nya naturreservat i Kyrkhamn och Riddersvik invigt – så säger folk om det. Blir Stockholms 14:e naturreservat. Augusti september 2026.",
       "link": "https://www.mitti.se/nyheter/har-planerade-stockholm-10-000-lagenheter--nu-ar-omradet-naturreservat-6.3.383711.eae6c5af8e",
@@ -5208,7 +5208,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Höglandsskolan i Bromma ska rustas upp – elever evakueras",
       "link": "https://www.mitti.se/nyheter/hoglandsskolan-evakueras-under-tva-ar-6.3.383604.6a1cdb1aec",
       "guid": "https://www.mitti.se/nyheter/hoglandsskolan-evakueras-under-tva-ar-6.3.383604.6a1cdb1aec",
-      "image": "https://www.mitti.se/image-3.380681.306278.20260910043051.4ef85d2da3?format=jpeg",
+      "image": "https://www.mitti.se/image-3.380681.306278.20260910050731.dd44bc522b?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789012800000
