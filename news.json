@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-09-16T23:22:11.803Z",
+  "updatedAt": "2026-09-17T02:18:17.954Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Kraftiga explosioner i Kiev",
+      "description": "Minst tolv skadade",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e02fc412-3d9f-4eb2-b73d-7821e8a6f0f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e02fc412-3d9f-4eb2-b73d-7821e8a6f0f1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789611122000
+    },
+    {
+      "title": "Husläkarparet Kärkkäinen efter en sommar i Ekenäs: ”Konkurrens om att komma till oss”",
+      "description": "Katja och Juuso Kärkkäinen har arbetat i drygt tre månader enligt husläkarmodellen i Ekenäs. Övriga läkare ska börja jobba enligt samma modell ännu i år.",
+      "link": "https://yle.fi/a/7-10105042?origin=rss",
+      "guid": "https://yle.fi/a/7-10105042",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789611078000
+    },
+    {
+      "title": "Kung Charles hårda ord – dagarna efter Dianas död",
+      "description": "Kung Charles visade upp sitt förakt för Diana dagarna efter hennes död. Det hävdar prinsessans bror Charles Spencer i en ny bok. – Du kan vara säker på att vi snart kommer att ha glömt henne, ska kungen ha sagt under ett hetsigt samtal.",
+      "link": "https://www.expressen.se/nyheter/kungligt/kung-charles-harda-ord-dagarna-efter-dianas-dod/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/kung-charles-harda-ord-dagarna-efter-dianas-dod/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789606013000
+    },
+    {
+      "title": "Din globalfond kostar upp till 13 gånger mer än i PPM",
+      "description": "Flera av Sveriges största globalfonder ligger så nära index att det går att ifrågasätta vad du betalar för, visar en ny kartläggning från Privata Affärer. Samtidigt visar Fondtorgsnämndens upphandling att fondbolagen är beredda att förvalta exakt samma fonder för en bråkdel av priset. Nordea Global har en aktiv risk på 2,7 procent och en aktiv […]",
+      "link": "https://www.dagensps.se/privatekonomi/din-globalfond-kostar-upp-till-13-ganger-mer-an-i-ppm/",
+      "guid": "https://www.dagensps.se/?p=1674011",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdllxnf7yl2mpe-normalhires.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1789605300000
+    },
+    {
+      "title": "Riksrätt – då skickar Mike Johnson ledamöterna på semester",
+      "description": "Thomas Massie chockade de republikanska ledarna med sitt försök att ställa Pete Hegseth inför riksrätt. Nu kommer svaret: talmannen Mike Johnson skickar alla ledamöter på sju veckors semester. Därmed slipper de rösta om försvarsministern.",
+      "link": "https://www.expressen.se/nyheter/varlden/riksratt-da-skickar-mike-johnson-ledamoterna-pa-semester/",
+      "guid": "https://www.expressen.se/nyheter/varlden/riksratt-da-skickar-mike-johnson-ledamoterna-pa-semester/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789603020000
+    },
+    {
+      "title": "Bara 2 procent ser effekten av AI – nu vill vi höra dig",
+      "description": "Cheferna som byggde AI-boomen vill bromsa den. Svenska finanschefer litar på tekniken men hittar den inte i resultaträkningen. Hiss eller diss? Vi frågar dig som beslutsfattare. Hiss eller diss? Frågan går till dig som sitter i styrelse eller ledning, eller äger ett bolag. Är AI en investering som redan betalar sig, eller en post i […]",
+      "link": "https://www.dagensps.se/foretag/bara-2-procent-ser-effekten-av-ai-nu-vill-vi-hora-dig/",
+      "guid": "https://www.dagensps.se/?p=1674014",
+      "image": "https://images.dagensps.se/app/uploads/2026/02/sdljz-gcwrvgls.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1789602600000
+    },
     {
       "title": "Donald Trump jr utreds efter oligarkens gåva",
       "description": "Donald Trump jr lät oligarken Umar Kremlev betala miljoner för sitt bröllopsfirande. Nu utreds han i kongressen. Och hela familjen försöker skapa avstånd till skandalen.",
@@ -14,6 +74,16 @@
       "timestamp": 1789600216000
     },
     {
+      "title": "Pirelli 44 Ducati Edition Speedboat",
+      "description": "",
+      "link": "https://uncrate.com/pirelli-44-ducati-edition-speedboat/",
+      "guid": "https://uncrate.com/pirelli-44-ducati-edition-speedboat/",
+      "image": "https://uncrate.com/assets_c/2026/09/pirelli-44-ducati-edition-speedboat-1-thumb-960xauto-193045.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789599600000
+    },
+    {
       "title": "Svensk jättevinst – tar hem 200 miljoner",
       "description": "Under onsdagens Vikinglotto-dragning prickade en lycklig svensk in alla rätt. Vinsten slår det 26 år gamla vinstrekordet med råge.",
       "link": "https://www.expressen.se/nyheter/sverige/svenskens-jatteskrall-sa-stor-blev-rekordvinsten/",
@@ -22,6 +92,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789597979000
+    },
+    {
+      "title": "Droog Moto Stealth Fighter Electric Bike",
+      "description": "",
+      "link": "https://uncrate.com/droog-moto-stealth-fighter-electric-bike/",
+      "guid": "https://uncrate.com/droog-moto-stealth-fighter-electric-bike/",
+      "image": "https://uncrate.com/assets_c/2026/09/droog-moto-stealth-fighter-electric-bike-1-thumb-960xauto-193043.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789597800000
     },
     {
       "title": "Trumps jättegåva till Israel: bomber för miljarder",
@@ -82,6 +162,26 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789591956000
+    },
+    {
+      "title": "3D-arkeolog har gett ismumien Ötzi en digital kropp: ”Han ruvar fortfarande på mysterier”",
+      "description": "Medan Ötzis fysiska kropp måste skyddas mot slitage kan hans digitala tvilling utvecklas i takt med framtidens forskning. Den italienske arkeologen Luca Bezzi berättar om planerna för den 5 300 år gamla ismumien.",
+      "link": "https://varldenshistoria.se/kultur/arkeologi/3d-arkaolog-har-givet-ismumien-otzi-en-digital-krop-han-gemmer-stadig-pa-mysterier",
+      "guid": "https://varldenshistoria.se/kultur/arkeologi/3d-arkaolog-har-givet-ismumien-otzi-en-digital-krop-han-gemmer-stadig-pa-mysterier",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1789590649000
+    },
+    {
+      "title": "Dina naglar kan kanske avlöja flera sjukdomar – om du vet var du ska titta",
+      "description": "Det är en ganska liten detalj som de flesta av oss säkert missar.",
+      "link": "https://illvet.se/halsa/ta-en-narmare-titt-pa-dina-naglar-en-latt-forbisedd-detalj-kan-vara-tecken-pa-flera-sjukdomar",
+      "guid": "https://illvet.se/halsa/ta-en-narmare-titt-pa-dina-naglar-en-latt-forbisedd-detalj-kan-vara-tecken-pa-flera-sjukdomar",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1789590628000
     },
     {
       "title": "Biljakt i Stockholmsområdet",
@@ -222,6 +322,16 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789585232000
+    },
+    {
+      "title": "Diktatorns son gjorde något sällsynt: Han avvecklade själv faderns tyrannstat",
+      "description": "Efter den brutale diktatorns död ärvde hans son landet. Han var betydligt mer gladlynt och flexibel än sin far, och idag är vi alla beroende av Taiwan.",
+      "link": "https://varldenshistoria.se/krig/kalla-kriget/taiwan-diktatorns-son-upptacker-demokratin",
+      "guid": "https://varldenshistoria.se/krig/kalla-kriget/taiwan-diktatorns-son-upptacker-demokratin",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1789585225000
     },
     {
       "title": "Exklusivt! Vi har testat iPhone 18 Pro och Pro Max",
@@ -434,16 +544,6 @@
       "timestamp": 1789579636000
     },
     {
-      "title": "Trolle-Wachtmeisters ilska i rätten över intima frågorna",
-      "description": "”När träffade du din partner?” ”Hur mycket är din bil värd?” Claës Trolle-Wachtmeister högg mot motpartens frågor i korsförhöret i den infekterade arvstvisten om Trolle Ljungby. – Är detta verkligen relevant? sa han flera gånger. Domaren lyssnade – i alla fall delvis.",
-      "link": "https://www.expressen.se/nyheter/sverige/trolle-wachtmeisters-ilska-i-ratten-over-intima-fragorna/",
-      "guid": "https://www.expressen.se/nyheter/sverige/trolle-wachtmeisters-ilska-i-ratten-over-intima-fragorna/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789579501000
-    },
-    {
       "title": "Barbie blir högtryckstvättare i PowerWash Simulator 2",
       "description": "Gör rent i Barbieland Barbie har hunnit med en hel del yrken genom åren och nu har Mattel-leksaken fått ett nytt i form av högtryckstvättare. Det handlar dock inte om någon ny docka utan DLC för städsimulatorn PowerWash Simulator 2. I detta kommande DLC-paket kommer man bege sig till Barbieland för att göra rent på fem nya banor där man får i uppdrag att putsa upp allt från den klassiska husbilen till det ikoniska drömhuset. Man får också tillgång till en specialdesignad rosa högtryckstvätt. Det exakta släppdatumet är inte spikat ännu, men paketet väntas dyka upp senare i år med en prislapp på omkring 80 kronor. L&auml;s vidare och kommentera: https://feber.se/spel/barbie-blir-hogtryckstvattare-i-powerwash-simulator-2/496222/ L&auml;s mer om Barbie , Mattel , DLC , PowerWash Simulator 2 , Barbieland , PowerWash Simulator , städsimulator",
       "link": "https://feber.se/spel/barbie-blir-hogtryckstvattare-i-powerwash-simulator-2/496222/?utm_source=rss&utm_medium=feed",
@@ -512,16 +612,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789577100000
-    },
-    {
-      "title": "Lastbil med öl brinner",
-      "description": "Kraftig rökutveckling på E6",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8afc5576-8a81-4874-9e96-4016c248390c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8afc5576-8a81-4874-9e96-4016c248390c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789576938000
     },
     {
       "title": "Få biljetter sålda men ändå het potatis – Finlands hemmamatch mot Belarus nådde diplomatisk nivå",
@@ -622,16 +712,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1789574211000
-    },
-    {
-      "title": "Svenskar misstänks för spioneri: ”Märkligt fall”",
-      "description": "Två svenska män misstänks för spioneri i Finland. Nu har de häktats vid Helsingfors tingsrätt. – Det var ett mycket märkligt fall, säger den ena mannens försvarare Rolle Bergholm till HBL , som nu hoppar av uppdraget.",
-      "link": "https://www.expressen.se/nyheter/sverige/svenskar-misstanks-for--spioneri-markligt-fall/",
-      "guid": "https://www.expressen.se/nyheter/sverige/svenskar-misstanks-for--spioneri-markligt-fall/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789574193000
     },
     {
       "title": "Ny prognos: Invånarmängden fortsätter minska i Västnyland – men inte i Ingå",
@@ -792,26 +872,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1789569890000
-    },
-    {
-      "title": "Krig har kostat amerikaner en biljon i extra bränslekostnader",
-      "description": "Bensin och diesel har historiskt varit billigare i USA än i många andra länder. Men den senaste tidens höjningar lär ha känts i plånböckerna. Högre bensin- och dieselpriser efter kriget med Iran har tvingat amerikanska hushåll att dra ned på sparandet och minska konsumtionen på andra områden. Totalt har konsumenterna betalat omkring 107 miljarder dollar, […]",
-      "link": "https://www.dagensps.se/bors-finans/krig-har-kostat-amerikaner-en-biljon-i-extra-branslekostnader/",
-      "guid": "https://www.dagensps.se/?p=1673976",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlyqbfmj1f6wy-normalhires.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1789569423000
-    },
-    {
-      "title": "Fritt fram köpa svensk ”fritidsbostad” efter utlandsflytt",
-      "description": "Beskedet lär dra till sig stort intresse. Det handlar om att flytta utomlands – för att sedan snabbt skaffa en bostad i Sverige. Paret flyttade utomlands under förra året, är svenska medborgare och har bott i Sverige större delen av sina liv. Sedan de flyttade utomlands 2025 har de varit bosatta och mantalsskrivna i […]",
-      "link": "https://www.dagensps.se/privatekonomi/fritt-fram-kopa-svensk-fritidsbostad-efter-utlandsflytt/",
-      "guid": "https://www.dagensps.se/?p=1673980",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlzbat98erhao-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1789569303000
     },
     {
       "title": "Moderaterna störst när Sumpans elever säger sitt",
@@ -1134,16 +1194,6 @@
       "timestamp": 1789562400000
     },
     {
-      "title": "Drönare stoppades av polis i närheten av Lovisa kärnkraftverk",
-      "description": "Polisen har identifierat drönaroperatören och beslagtagit drönaren. Det råder permanent flygförbud över Hästholmen i Lovisa.",
-      "link": "https://yle.fi/a/7-10105366?origin=rss",
-      "guid": "https://yle.fi/a/7-10105366",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789562268000
-    },
-    {
       "title": "Scientists recreated what mice saw from brain activity alone",
       "description": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
@@ -1178,7 +1228,7 @@
       "description": "Valdeltagandet ökade kraftigt i Farsta samtidigt som det sjönk i Stockholm och riket. Satsning på att få fler att rösta tycks ha gett resultat, till exempel på Nykroppagatan och i Fagersjö. Vänsterpartiet gynnas?",
       "link": "https://www.mitti.se/nyheter/farsta-gick-mot-strommen--fler-rostade-i-valet-6.3.386135.b5d830cbcc",
       "guid": "https://www.mitti.se/nyheter/farsta-gick-mot-strommen--fler-rostade-i-valet-6.3.386135.b5d830cbcc",
-      "image": "https://www.mitti.se/image-3.382414.308138.20260916155632.f263cc8f4c?format=jpeg",
+      "image": "https://www.mitti.se/image-3.382414.308138.20260917011502.a57c635705?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789561141000
@@ -1722,26 +1772,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1789513200000
-    },
-    {
-      "title": "Panerai Luminor Firenze 8 Giorni Platinum Watch",
-      "description": "",
-      "link": "https://uncrate.com/panerai-luminor-firenze-8-giorni-platinum-watch/",
-      "guid": "https://uncrate.com/panerai-luminor-firenze-8-giorni-platinum-watch/",
-      "image": "https://uncrate.com/assets_c/2026/09/panerai-luminor-firenze-8-giorni-pam01734-2-thumb-960xauto-193016.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789509600000
-    },
-    {
-      "title": "Garb: Hilltop",
-      "description": "",
-      "link": "https://uncrate.com/garb-hilltop/",
-      "guid": "https://uncrate.com/garb-hilltop/",
-      "image": "https://uncrate.com/assets_c/2026/09/garb-hilltop-darkened-thumb-960xauto-193013.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789506261000
     },
     {
       "title": "Efter bråk om trafiken – både MP och M rusar på Söder",
@@ -2794,16 +2824,6 @@
       "timestamp": 1789393983000
     },
     {
-      "title": "Forskare kunde inte tro sina ögon: 66 miljoner år gamla kvarlevor av dinosaurie bjöd på en enorm överraskning",
-      "description": "För det otränade ögat ser det inte ut mycket ut för världen. Men detta lilla fynd hade en förvånande historia.",
-      "link": "https://illvet.se/naturen/forskare-kunde-inte-tro-sina-ogon-66-miljoner-ar-gamla-kvarlevor-av-dinosaurie-bjod-pa-en-enorm-overraskning",
-      "guid": "https://illvet.se/naturen/forskare-kunde-inte-tro-sina-ogon-66-miljoner-ar-gamla-kvarlevor-av-dinosaurie-bjod-pa-en-enorm-overraskning",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1789393593000
-    },
-    {
       "title": "Crocodiles are famous for finding their way home. These ones didn’t",
       "description": "Captive-raised saltwater crocodiles released into Bangladesh’s Sundarbans surprised scientists by settling into the wild rather than trying to return to their breeding facility. The result suggests that releasing larger, mature captive crocodiles could help restore depleted populations more successfully than relying only on vulnerable hatchlings.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260913081913.htm",
@@ -3564,16 +3584,6 @@
       "timestamp": 1789362659000
     },
     {
-      "title": "Nazisternas forskning om skandinavisk klippkonst skulle användas för propaganda – nu tjänar den vetenskapen",
-      "description": "Nazisterna ville genom studier av de nordiska hällristningarna bevisa den ariska rasens överlägsenhet. Nu har en ny undersökning granskat deras arbete noggrant – och utvärderat dess betydelse i dag.",
-      "link": "https://varldenshistoria.se/krig/andra-varldskriget/nazism/nazisternas-forskning-om-skandinavisk-klippkonst-skulle-anvandas-for-propaganda-nu-tjanar-den-vetenskapen",
-      "guid": "https://varldenshistoria.se/krig/andra-varldskriget/nazism/nazisternas-forskning-om-skandinavisk-klippkonst-skulle-anvandas-for-propaganda-nu-tjanar-den-vetenskapen",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1789362037000
-    },
-    {
       "title": "Scientists find how “zombie” cells fuel inflammation as we age",
       "description": "Scientists discovered that aging cells can use malfunctioning mitochondria to unlock inflammatory genes and keep the immune system stuck in a prolonged state of alert. Blocking one part of this process reduced inflammation and improved healthy aging in mice, suggesting a promising new strategy for fighting age-related decline.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
@@ -3802,16 +3812,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789320255000
-    },
-    {
-      "title": "Arkeologer gör överraskande fynd: Medeltidsborgen hade över 40 nedgrävda ugnar",
-      "description": "De många ugnarna berättar historien om en borg som är mer än 800 år gammal och som med tiden helt ändrade karaktär.",
-      "link": "https://varldenshistoria.se/samhalle/medeltiden/arkeologer-gor-overraskande-fynd-medeltidsborgen-hade-over-40-nedgravda-ugnar",
-      "guid": "https://varldenshistoria.se/samhalle/medeltiden/arkeologer-gor-overraskande-fynd-medeltidsborgen-hade-over-40-nedgravda-ugnar",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1789315258000
     },
     {
       "title": "Väljarna redo för valnatten: \"Håller andan och väntar\"",
