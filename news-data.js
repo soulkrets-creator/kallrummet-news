@@ -1,8 +1,58 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-18T22:54:19.334Z",
+  "updatedAt": "2026-09-19T02:08:16.522Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Miljonär död i flygkrasch i Alperna",
+      "description": "Miljonären Owain Davies har dött i en flygkrasch i Alperna, skriver Independent . – Han var min mentor genom hela mitt liv, både personligen och i affärsvärlden, säger hans son Aron.",
+      "link": "https://www.expressen.se/nyheter/varlden/miljonar-dod-i-flygkrasch-i-alperna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/miljonar-dod-i-flygkrasch-i-alperna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789782715000
+    },
+    {
+      "title": "Trump listar sina 25 ”främsta bedrifter”",
+      "description": "Donald Trump har listat vad han hävdar vara sina 25 ”främsta bedrifter” under mandatperioden. Men han beskriver det som sin ”tredje mandatperiod” – trots att en amerikansk president bara får sitta två. Det beskrivs som ”bisarrt” av Mediaite .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-listar-sina-25--framsta-bedrifter/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-listar-sina-25--framsta-bedrifter/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789782687000
+    },
+    {
+      "title": "Trumps raseriutbrott – kastar ut tv-kanaler",
+      "description": "”Jag vill inte ha dem här”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseriutbrott-kastar-ut-tv-kanaler",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseriutbrott-kastar-ut-tv-kanaler",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789772423000
+    },
+    {
+      "title": "Land Rover Defender Wolf Series II",
+      "description": "",
+      "link": "https://uncrate.com/land-rover-defender-wolf-series-ii/",
+      "guid": "https://uncrate.com/land-rover-defender-wolf-series-ii/",
+      "image": "https://uncrate.com/assets_c/2026/09/land-rover-defender-wolf-series-ii-1-thumb-960xauto-193085.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789772400000
+    },
+    {
+      "title": "Wavian NATO Jerry Can",
+      "description": "",
+      "link": "https://uncrate.com/wavian-nato-jerry-can/",
+      "guid": "https://uncrate.com/wavian-nato-jerry-can/",
+      "image": "https://uncrate.com/assets_c/2026/08/wavian-nato-jerry-gallon-fuel-can-11-darkened-thumb-960xauto-192512.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789770600000
+    },
     {
       "title": "Så stor är risken för valförlust",
       "description": "Snart avgörs det viktiga mellanårsvalet i USA. Newsweek har gjort en ny sammanställning över hur stor risken är för en valförlust för Trump och Republikanerna, enligt experterna.",
@@ -14,18 +64,18 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789770179000
     },
     {
-      "title": "Trumps raseriutbrott – kastar ut tv-kanaler",
-      "description": "”Jag vill inte ha dem här”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseriutbrott-kastar-ut-tv-kanaler",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseriutbrott-kastar-ut-tv-kanaler",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789769587000
+      "title": "Private White V.C. Ventile Jack's Mac",
+      "description": "",
+      "link": "https://uncrate.com/private-white-vc-ventile-jacks-mac/",
+      "guid": "https://uncrate.com/private-white-vc-ventile-jacks-mac/",
+      "image": "https://uncrate.com/assets_c/2026/09/private-white-v-c-ventile-jacks-mac-racing-green-1-darkened-thumb-960xauto-193083.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789768800000
     },
     {
-      "title": "Trump: USA, Grönland och Danmark överens om avtal",
-      "description": "Den amerikanska presidenten meddelade om avtalet på Truth Social.",
+      "title": "USA, Grönland och Danmark överens om avtal",
+      "description": "USA:s president Donald Trump meddelade om avtalet på sociala medier. Danmark och Grönland bekräftar uppgifterna.",
       "link": "https://yle.fi/a/7-10105536?origin=rss",
       "guid": "https://yle.fi/a/7-10105536",
       "image": "",
@@ -35,7 +85,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Trump: ”Evigt” avtal om Grönland klart",
-      "description": "Grönlandsfrågan ser ut att vara löst. Trump meddelar på fredagskvällen att man slutit ett ”evigt” avtal med Danmark. ”Vi kommer omedelbart att inleda processen med att utveckla en stor militär närvaro på lämpliga delar av Grönland”, skriver han.",
+      "description": "Grönlandsfrågan ser ut att vara löst. Trump meddelade på fredagskvällen att man slutit ett ”evigt” avtal med Danmark. ”Vi kommer omedelbart att inleda processen med att utveckla en stor militär närvaro på lämpliga delar av Grönland”, skriver han. Avtalet säkerställer att inga ryska eller kinesiska militärbaser kan upprättas på ön.",
       "link": "https://www.expressen.se/nyheter/varlden/trump-evigt-avtal-om-gronland-klart/",
       "guid": "https://www.expressen.se/nyheter/varlden/trump-evigt-avtal-om-gronland-klart/",
       "image": "",
@@ -62,6 +112,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789766374000
+    },
+    {
+      "title": "Everyday Carry: Alpha",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-alpha/",
+      "guid": "https://uncrate.com/everyday-carry-alpha/",
+      "image": "https://uncrate.com/assets_c/2026/09/edc-alpha-darkened-thumb-960xauto-193092.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1789765200000
     },
     {
       "title": "Pojken försvann – gåtan löst efter 33 år",
@@ -514,16 +574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789747200000
     },
     {
-      "title": "Ilskan mot H&M:s mammakläder: ”Ozempic-estetik”",
-      "description": "När Hanna Bergwall, 31, gick in på H&M:s sajt för att köpa mammakläder fick hon en chock. Hon kände inte igen sig i en enda bild som visade upp gravida kroppar. – Det kändes väldigt tröttsamt och det bidrar till det supersmala idealet, säger hon.",
-      "link": "https://www.expressen.se/nyheter/sverige/ilskan-mot-hochms-mammaklader-ozempic-estetik/",
-      "guid": "https://www.expressen.se/nyheter/sverige/ilskan-mot-hochms-mammaklader-ozempic-estetik/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789747200000
-    },
-    {
       "title": "The James Bond Archives - No Time to Die Edition",
       "description": "",
       "link": "https://uncrate.com/the-james-bond-archives---no-time-to-die-edition/",
@@ -582,16 +632,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1789745400000
-    },
-    {
-      "title": "Har IOS 27 låst din Iphone? Gör så här...",
-      "description": "Det finns en bugg i IOS 27 som har drabbat flera användare. Lyckligtvis är det en enkel sak att få bukt med den.",
-      "link": "https://www.expressen.se/nyheter/varlden/har-ios-27-last-din-iphone-gor-sa-har/",
-      "guid": "https://www.expressen.se/nyheter/varlden/har-ios-27-last-din-iphone-gor-sa-har/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789744839000
     },
     {
       "title": "Alla vägar leder inte till Rom – ny kartläggning av 30 000 mil vägnät visar ett annat centrum",
@@ -1724,26 +1764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789686000000
     },
     {
-      "title": "Heretic Poltergeist Eau du Parfum",
-      "description": "",
-      "link": "https://uncrate.com/heretic-poltergeist-eau-du-parfum/",
-      "guid": "https://uncrate.com/heretic-poltergeist-eau-du-parfum/",
-      "image": "https://uncrate.com/assets_c/2025/02/poltergeist-edp-31-darkened-thumb-960xauto-180859.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789684200000
-    },
-    {
-      "title": "Kawasaki Ninja H2 Motorcycle",
-      "description": "",
-      "link": "https://uncrate.com/kawasaki-ninja-h2-motorcycle/",
-      "guid": "https://uncrate.com/kawasaki-ninja-h2-motorcycle/",
-      "image": "https://uncrate.com/assets_c/2026/09/kawasaki-ninja-h2-motorcycle-2-thumb-960xauto-193069.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789682400000
-    },
-    {
       "title": "Gartner: AI-utgifterna väntas öka med nästan 50 procent under 2026",
       "description": "Enligt en ny prognos från analysföretaget Gartner kommer AI-marknaden att omsätta omkring 2,7 biljoner dollar i år, en ökning med 49,5 procent jämfört med 2025. Den klart största delen av pengarna går till AI-infrastruktur i form av bland annat AI-anpassade servrar, nätverksutrustning, halvledare och molninfrastruktur. Summorna väntas öka från 982 miljarder dollar under 2025 till nästan 1,6 biljoner dollar under 2026. Även utgifterna för AI-mjukvara väntas växa från 288 miljarder dollar 2025 till 462 miljarder dollar 2026. – Utbyggnaden av AI-datacenter-kapaciteten är det största infrastrukturprojektet som mänskligheten någonsin har genomfört, säger Gartners VP Analys John-David Lovelock i ett pressmeddelande. Tillväxten väntas också fortsätta. Enligt Gartners prognos kan de globala AI-utgifterna stiga från cirka 2,7 biljoner dollar 2026 till drygt 3,6 biljoner dollar under 2027.",
       "link": "https://computersweden.se/article/4223299/gartner-ai-utgifterna-vantas-oka-med-nastan-50-procent-under-2026.html",
@@ -1802,26 +1822,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1789680910000
-    },
-    {
-      "title": "Garb: Civilian",
-      "description": "",
-      "link": "https://uncrate.com/garb-civilian/",
-      "guid": "https://uncrate.com/garb-civilian/",
-      "image": "https://uncrate.com/assets_c/2026/09/garb-civilian-darkened-thumb-960xauto-193066.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789678800000
-    },
-    {
-      "title": "Johnnie Walker Blue Label Year of the Goat Whisky",
-      "description": "",
-      "link": "https://uncrate.com/johnnie-walker-blue-label-year-of-the-goat-whisky/",
-      "guid": "https://uncrate.com/johnnie-walker-blue-label-year-of-the-goat-whisky/",
-      "image": "https://uncrate.com/assets_c/2026/09/jw-jiayi-li-2-thumb-960xauto-193063.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1789677001000
     },
     {
       "title": "Fredag: Förköp till bortamötet med Mjällby",
