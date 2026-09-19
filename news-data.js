@@ -1,8 +1,98 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-19T17:34:28.861Z",
+  "updatedAt": "2026-09-19T19:44:35.087Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Scenariot som kan fälla Trumps avtal om Grönland",
+      "description": "Nästa vecka ska Grönlandsavtalet skrivas under. Men mycket kan hända fram tills dess. ”Om han känner att avtalet inte presenteras på ett sätt i amerikanska medier som han kan vara nöjd med, kan avtalet falla samman”, skriver Berlingskes analytiker Kristian Mourtizen.",
+      "link": "https://www.expressen.se/nyheter/varlden/scenariot-som-kan-falla-trumps-avtal-om-gronland/",
+      "guid": "https://www.expressen.se/nyheter/varlden/scenariot-som-kan-falla-trumps-avtal-om-gronland/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789846885000
+    },
+    {
+      "title": "KuPS passerar Inter i ligatoppen – vann över VPS på bortaplan",
+      "description": "Sju omgångar återstår av herrarnas fotbollsliga. I toppen är det oerhört jämnt då ettan och tvåan har lika många poäng.",
+      "link": "https://yle.fi/a/7-10105549?origin=rss",
+      "guid": "https://yle.fi/a/7-10105549",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789846509000
+    },
+    {
+      "title": "Tekniskt fel gjorde att en F-35 blev kvar på Azorerna",
+      "description": "Orsaken var ett smärre fel i jaktplanets elektroniksystem, säger Flygvapnets stabschef till Yle.",
+      "link": "https://yle.fi/a/7-10105553?origin=rss",
+      "guid": "https://yle.fi/a/7-10105553",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789845822000
+    },
+    {
+      "title": "Efter skandalvideon: Vd:n avgår",
+      "description": "Vd:n lämnar • Kopplingen till H&M",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/efter-skandalvideon-vdn-avgar-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/efter-skandalvideon-vdn-avgar-",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789844806000
+    },
+    {
+      "title": "Fyra turister saknas i Norge",
+      "description": "Försvunna efter fisketur i går",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=35fd88f5-e0ac-42ae-905a-4194b5640697",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=35fd88f5-e0ac-42ae-905a-4194b5640697",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789844731000
+    },
+    {
+      "title": "Savolaxiska emun har hittat hem igen",
+      "description": "Den 32-åriga fågelherren blev infångad efter en vecka på rymmen.",
+      "link": "https://yle.fi/a/7-10105552?origin=rss",
+      "guid": "https://yle.fi/a/7-10105552",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789844114000
+    },
+    {
+      "title": "HIFK åker på fjärde raka förlusten och tappar viktig spelare: Jori Lehterä avslutar karriären",
+      "description": "HIFK ledde länge mot gästande Lukko med 2–1. Gästerna kvitterade i ett sent skede och var starkare i förlängningen.",
+      "link": "https://yle.fi/a/7-10105551?origin=rss",
+      "guid": "https://yle.fi/a/7-10105551",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1789842820000
+    },
+    {
+      "title": "Växande missnöje med Trumps man: ”Inte intresserad”",
+      "description": "Donald Trump har gett sin gamle vän Steve Witkoff i uppdrag att mäkla fred mellan Ryssland och Ukraina. Det går trögt. I både Kiev och Moskva är missnöjet med honom mycket stort, skriver Kyiv Independent. – Det verkar som att killen inte är intresserad alls, säger en källa till tidningen.",
+      "link": "https://www.expressen.se/nyheter/varlden/vaxande-missnoje-med-trumps-man-inte-intresserad/",
+      "guid": "https://www.expressen.se/nyheter/varlden/vaxande-missnoje-med-trumps-man-inte-intresserad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789841041000
+    },
+    {
+      "title": "Motståndarkollen: Degerfors IF",
+      "description": "Under hösten väntar tre gräsmatcher på resande fot, mot lag som i skrivande stund är högst involverade i Allsvenskans bottenstrid. Först ut är söndagens tillställning på Stora Valla. Här tar vi en tit",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-degerfors-if-",
+      "guid": "c6c5884d-5f86-48e7-bc9e-9a9ebf2b451a",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/2b770f7e394b31d2148d338986b5ffcfc4f920f0-4890x2445.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1789839804000
+    },
     {
       "title": "Besvikelse för Finland i Davis Cup – Monaco vinner och stiger till högsta nivån",
       "description": "Finland förlorar tre av matcherna i Davis Cup. Det här innebär att Finland fortsätter spela på cupens näst högsta nivå även nästa år.",
@@ -24,21 +114,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789838143000
     },
     {
-      "title": "Efter skandalvideon: Vd:n avgår",
-      "description": "Vd:n lämnar • Kopplingen till H&M",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/efter-skandalvideon-vdn-avgar-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/efter-skandalvideon-vdn-avgar-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789838081000
-    },
-    {
       "title": "Planer på telemast vid bostadsområde får nej",
       "description": "Byggplanerna för en hög telemast i Slagsta, Botkyrka blir fördröjd efter att Botkyrka kommun hörsammar grannarnas kritik om placeringen.",
       "link": "https://www.mitti.se/nyheter/planer-pa-telemast-vid-bostadsomrade-far-nej-6.3.384918.b46b13775e",
       "guid": "https://www.mitti.se/nyheter/planer-pa-telemast-vid-bostadsomrade-far-nej-6.3.384918.b46b13775e",
-      "image": "https://www.mitti.se/image-3.381511.307166.20260918085619.1.fb92483894?format=jpeg",
+      "image": "https://www.mitti.se/image-3.381511.307166.20260919174007.1.698b906083?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789837800000
@@ -68,7 +148,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Gunnarsons specialkonditori på Götgatan firar 80 år i familjen",
       "link": "https://www.mitti.se/nyheter/gunnarsons-firar-80-ar-med-samma-familj-ett-kulturarv-6.3.383188.33ba488bbf",
       "guid": "https://www.mitti.se/nyheter/gunnarsons-firar-80-ar-med-samma-familj-ett-kulturarv-6.3.383188.33ba488bbf",
-      "image": "https://www.mitti.se/image-3.380279.305603.20260919171948.f55b63decf?format=jpeg",
+      "image": "https://www.mitti.se/image-3.380279.305603.20260919173106.f99f93533f?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789837200000
@@ -94,7 +174,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789835400000
     },
     {
-      "title": "Fick inte komma in",
+      "title": "Medier stoppade – fick inte komma in",
       "description": "Trump portar CNN och MSNOW från Vita huset",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=522d5135-1c13-4f62-b03b-336e9e4659c6",
       "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=522d5135-1c13-4f62-b03b-336e9e4659c6",
@@ -644,16 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789806462000
     },
     {
-      "title": "Hanif Bali (M) om röstningen i utsatta områden: ”De har aldrig röstat höger”",
-      "description": "Högersidan har pekat ut klanröstning och mobilisering i utsatta områden som en anledning till valförlusten. Men moderaten Hanif Bali säger att årets valkampanj inte sticker ut. – Den här gruppen har aldrig röstat höger, säger han till SvD .",
-      "link": "https://www.expressen.se/nyheter/sverige/hanif-bali-m-om-rostningen-i-utsatta-omraden-de-har-aldrig-rostat-hoger/",
-      "guid": "https://www.expressen.se/nyheter/sverige/hanif-bali-m-om-rostningen-i-utsatta-omraden-de-har-aldrig-rostat-hoger/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789806375000
-    },
-    {
       "title": "Världens bilexperter eniga: Här är årets 10 bästa bilar 2026",
       "description": "Bilexperterna är ovanligt eniga om vilka bilar som är bäst just nu. Heta listan väger samman utmärkelser och testbetyg från ett femtiotal bilmedier i ett tjugotal länder. Nio av tio är renodlade elbilar, två är Renaults retrodubbel och Europas årets bil får nöja sig med silver. Så är listan byggd Varje modell har fått poäng […]",
       "link": "https://www.dagensps.se/motor/varldens-bilexperter-eniga-har-ar-arets-10-basta-bilar-2026/",
@@ -662,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1789805429000
-    },
-    {
-      "title": "Står fast vid orden om Charles",
-      "description": "Ordkriget mellan Earl Spencer – bror till prinsessan Diana – och kung Charles trappas upp. Earlen står fast vid sin hårda kritik mot Charles beteende vid Dianas död. – Jag säger sanningen.",
-      "link": "https://www.expressen.se/nyheter/kungligt/star-fast-vid-orden-om-charles/",
-      "guid": "https://www.expressen.se/nyheter/kungligt/star-fast-vid-orden-om-charles/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789805356000
     },
     {
       "title": "Hade du tur i svampskogen? Här är fem recept för säsongens svamp",
@@ -694,16 +754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789805018000
     },
     {
-      "title": "Fetma kräver samhällsåtgärder: ”Det är en smittsam sjukdom”",
-      "description": "Glöm pratet om bristande viljestyrka. Att vi blir allt fetare beror på att vårt samhälle är designat för att få oss att gå upp i vikt, säger experter.",
-      "link": "https://yle.fi/a/7-10103597?origin=rss",
-      "guid": "https://yle.fi/a/7-10103597",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789804981000
-    },
-    {
       "title": "Kolla in EM i spårvagnskörning",
       "description": "Heja Sverige! Om du känner att EM för spårvagnsförare är något du behöver i ditt liv denna lördag så drar årets upplaga av tävlingen igång efter lunch i dag. Vill du vifta lite med flaggor hemma så drar direktsändningen från tävlingen igång vid 11.00 i dag. L&auml;s vidare och kommentera: https://feber.se/fordon/kolla-in-em-i-sparvagnskorning/496324/ L&auml;s mer om Spårvagn , VM , Sverige , direktsändning",
       "link": "https://feber.se/fordon/kolla-in-em-i-sparvagnskorning/496324/?utm_source=rss&utm_medium=feed",
@@ -714,16 +764,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789804800000
     },
     {
-      "title": "Kroppskameror kan ha gjort polisjobbet säkrare",
-      "description": "Arbetsskador kopplade till polisingripanden har minskat rejält, rapporterar TV4 Nyheterna . Polisens kroppskameror kan ha bidragit.",
-      "link": "https://www.expressen.se/nyheter/krim/kroppskameror-kan-ha-gjort-polisjobbet-sakrare/",
-      "guid": "https://www.expressen.se/nyheter/krim/kroppskameror-kan-ha-gjort-polisjobbet-sakrare/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789803628000
-    },
-    {
       "title": "Så går framväxten av Vallentunas nya område",
       "description": "Så går byggnationen av Vallentunas nya bostadsområde Åbyholm. Nu har fler kvarter börjat byggas och ska stå klara sommaren 2027.",
       "link": "https://www.mitti.se/nyheter/sa-gar-framvaxten-av-vallentunas-nya-omrade-6.3.384831.0a43fb9426",
@@ -732,16 +772,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789802880000
-    },
-    {
-      "title": "Minst 31 döda efter en attack mot en polisanläggning i Pakistan",
-      "description": "Poliser bad i en moské när en gärningsman körde en sprängladdad bil in i anläggningen.",
-      "link": "https://yle.fi/a/7-10105538?origin=rss",
-      "guid": "https://yle.fi/a/7-10105538",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789802170000
     },
     {
       "title": "Hemliga dokument avslöjar sanningen om AI-träning",
@@ -794,16 +824,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789800120000
     },
     {
-      "title": "Dina kläder är egentligen rep – nu kan du lära dig den uråldriga konsten",
-      "description": "Rep- och knopentusiaster samlas i Åbo. Också allmänheten får testa på repslagning.",
-      "link": "https://yle.fi/a/7-10105521?origin=rss",
-      "guid": "https://yle.fi/a/7-10105521",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789799144000
-    },
-    {
       "title": "Scones med inbakad färskost",
       "description": "Krämig färskost gömmer sig i de saftiga sconesen. Ät dem nygräddade med sylt. Det går bra att hoppa över färskosten, det blir supergoda scones även utan.",
       "link": "https://alltommat.expressen.se/recept/scones-med-inbakad-farskost/",
@@ -812,16 +832,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1789798080000
-    },
-    {
-      "title": "Dialektquiz: Vad gör du om du ögglar och vad är en gåsatratt?",
-      "description": "Testa vad du kan om österbottniska dialekter.",
-      "link": "https://yle.fi/a/7-10105491?origin=rss",
-      "guid": "https://yle.fi/a/7-10105491",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1789797614000
     },
     {
       "title": "Magdalena Andersson får första tjing att bilda regering",
@@ -3262,16 +3272,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789554573000
-    },
-    {
-      "title": "Hampus uttagen i A-landslaget",
-      "description": "Sveriges förbundskapten Graham Potter presenterade i dag sin trupp till de fyra Nations League-drabbningarna i det kommande månadsskiftet. Och efter 15 landskamper på U21-nivå finns Hammarbys högerbac",
-      "link": "https://www.hammarbyfotboll.se/nyheter/hampus-uttagen-i-a-landslaget",
-      "guid": "2c211a5c-bef1-47a4-b218-61ae93bd1c1f",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/e1f3e9beddb82d1fce9b3c1a42f1275255ae569c-3231x1616.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1789553652000
     },
     {
       "title": "Efter skrällen: \"Nu blir det dubbelt så mycket MP-politik\"",
