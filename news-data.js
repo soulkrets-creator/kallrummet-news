@@ -1,5 +1,5 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-19T22:33:29.117Z",
+  "updatedAt": "2026-09-20T02:14:36.299Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
@@ -11,7 +11,27 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789856359000
+      "timestamp": 1789867718000
+    },
+    {
+      "title": "77-åring död efter bråk om kundvagn",
+      "description": "Den 77-årige mannen grälade med en tonårig butiksanställd om en kundvagn. Det slutade med att mannen dog. Nu har två personer åtalats för dråp, skriver New York Post .",
+      "link": "https://www.expressen.se/nyheter/varlden/77-aring-dod-efter--brak-om-kundvagn/",
+      "guid": "https://www.expressen.se/nyheter/varlden/77-aring-dod-efter--brak-om-kundvagn/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789866587000
+    },
+    {
+      "title": "Var ”på sitt livs resa” – död i turistparadis",
+      "description": "Brianna Cronin var ”ute på sitt livs resa”. Då föll 29-åringen mot sin död vid en populär turistattraktion, skriver australiska News.",
+      "link": "https://www.expressen.se/nyheter/varlden/var-pa-sitt-livs-resa-dod-i-turistparadis/",
+      "guid": "https://www.expressen.se/nyheter/varlden/var-pa-sitt-livs-resa-dod-i-turistparadis/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789861374000
     },
     {
       "title": "Greg, 63, dödad av haj – ”extraordinära” åtgärden",
@@ -72,6 +92,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1789849853000
+    },
+    {
+      "title": "Hjärnforskare: Alzheimer utvecklas på natten – här är den enkla rutin som jag själv har för att slippa drabbas av den dödliga sjukdomen",
+      "description": "Hjärnforskaren Arsenio Paez studerade 60 personer med Alzheimers sjukdom medan de sov. Tre år senare fann han något intressant med de patienter som drabbats värst av sjukdomen. Forskaren pekar nu ut det dolda tecknet som du bör känna till.",
+      "link": "https://illvet.se/halsa/hjarnforskare-alzheimer-utvecklas-pa-natten-har-ar-den-enkla-rutin-som-jag-sjalv-har-for-att-slippa-drabbas-av-den-dodliga-sjukdomen",
+      "guid": "https://illvet.se/halsa/hjarnforskare-alzheimer-utvecklas-pa-natten-har-ar-den-enkla-rutin-som-jag-sjalv-har-for-att-slippa-drabbas-av-den-dodliga-sjukdomen",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1789849842000
     },
     {
       "title": "Galna synen på Ibiza – faller från båten",
@@ -142,6 +172,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1789844449000
+    },
+    {
+      "title": "Känd fysiker planerar expedition till ett svart hål",
+      "description": "Det som faller ner i ett svart hål kan aldrig komma tillbaka – eller? Fysikern Cosimo Bambi vill testa om teorin håller i praktiken, och han har en oväntad teori om vad vi kommer att mötas av när vi når dit.",
+      "link": "https://illvet.se/universum/kand-fysiker-planerar-expedition-till-ett-svart-hal",
+      "guid": "https://illvet.se/universum/kand-fysiker-planerar-expedition-till-ett-svart-hal",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1789844432000
     },
     {
       "title": "Savolaxiska emun har hittat hem igen",
@@ -402,26 +442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1789826400000
-    },
-    {
-      "title": "Storbråk i Ceuta",
-      "description": "Polisen ryker ihop med migranter mitt på gatan",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/spanningarna-i-ceuta-okar-polis-och-migranter-i-brak",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/spanningarna-i-ceuta-okar-polis-och-migranter-i-brak",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789826108000
-    },
-    {
-      "title": "Här visar polisen upp robothundarna",
-      "description": "Polisen firar 250 år • Se insatsstyrkans stunt",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/har-visar-polisen-upp-robothundarna-",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/har-visar-polisen-upp-robothundarna-",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789824193000
     },
     {
       "title": "Hundraåriga Yle lockade publiken till Böle på öppet hus",
@@ -2842,26 +2862,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1789590649000
-    },
-    {
-      "title": "Dina naglar kan kanske avlöja flera sjukdomar – om du vet var du ska titta",
-      "description": "Det är en ganska liten detalj som de flesta av oss säkert missar.",
-      "link": "https://illvet.se/halsa/ta-en-narmare-titt-pa-dina-naglar-en-latt-forbisedd-detalj-kan-vara-tecken-pa-flera-sjukdomar",
-      "guid": "https://illvet.se/halsa/ta-en-narmare-titt-pa-dina-naglar-en-latt-forbisedd-detalj-kan-vara-tecken-pa-flera-sjukdomar",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1789590628000
-    },
-    {
-      "title": "Adhd-forskare: Dessa symtom kan få allvarliga konsekvenser – men det finns en effektiv lösning",
-      "description": "Adhd påverkar praktiskt taget alla aspekter av vardagen och konsekvenserna kan bli stora. Det berättar psykologen och forskaren Russell Ramsay, som har arbetat med diagnosen i över 25 år. Som tur är hjälper framför allt två effektiva behandlingsmetoder de flesta.",
-      "link": "https://illvet.se/halsa/adhd-forskare-dessa-symtom-kan-fa-allvarliga-konsekvenser-men-det-finns-en-effektiv-losning",
-      "guid": "https://illvet.se/halsa/adhd-forskare-dessa-symtom-kan-fa-allvarliga-konsekvenser-men-det-finns-en-effektiv-losning",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1789587002000
     },
     {
       "title": "Så kan Centralen byggas om – när Roslagsbanan dras till city",
