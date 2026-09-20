@@ -1,5 +1,5 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-20T19:56:25.585Z",
+  "updatedAt": "2026-09-20T22:47:06.853Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
@@ -14,6 +14,96 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790009100000
     },
     {
+      "title": "Teorin om bonusprinsen: ”Kungens sista önskan”",
+      "description": "Norska drottningens våldtäktsdömde son Marius Borg Høiby bar kung Haralds kista. – Jag tror att det var Harald som bad om det, säger Johan T Lindwall, redaktör för Svensk Damtidning, till norska Dagbladet . Han får medhåll av andra hovexperter.",
+      "link": "https://www.expressen.se/nyheter/kungligt/teorin-om-bonusprinsen--kungens-sista-onskan/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/teorin-om-bonusprinsen--kungens-sista-onskan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789944070000
+    },
+    {
+      "title": "Villa brinner i Djursholm",
+      "description": "Räddningstjänsten på plats",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bb516838-48a2-40cf-b983-a7cde68437e5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bb516838-48a2-40cf-b983-a7cde68437e5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789942122000
+    },
+    {
+      "title": "Skulle skjuta hjort – dödade kvinna",
+      "description": "Jägaren sköt vad han trodde var en hjort. Men det var en 39-årig kvinna. Nu ställs den 74-årige mannen inför rätta för dråp, skriver ABC News .",
+      "link": "https://www.expressen.se/nyheter/varlden/skulle-skjuta-hjort-dodade-kvinna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skulle-skjuta-hjort-dodade-kvinna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789941513000
+    },
+    {
+      "title": "Person skjuten av ICE-agent",
+      "description": "Bekräftas av lokala myndigheter i Texas",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3106ea72-1c34-4aeb-91d0-ea9c32c82310",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3106ea72-1c34-4aeb-91d0-ea9c32c82310",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789940261000
+    },
+    {
+      "title": "Brand på bar",
+      "description": "Sju lägenheter utrymda i Avesta",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3d576164-9cf4-44a8-b990-d3fa126c5085",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3d576164-9cf4-44a8-b990-d3fa126c5085",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789937717000
+    },
+    {
+      "title": "Viktor Barth-Kron om regeringsbildandet: \"Pinsamt\"",
+      "description": "Viktor Barth-Kron om regeringsbildningen",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/viktor-barth-kron-om-regeringsbildandet-pinsamt-/",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/viktor-barth-kron-om-regeringsbildandet-pinsamt-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789937012000
+    },
+    {
+      "title": "Ida Gabrielsson (V): Nyval om inte C väljer sida",
+      "description": "Vänsterpartiet backar inte från kravet på ministerposter – och ett eventuellt nyval skulle vara Centerpartiets fel. Det säger V-toppen Ida Gabrielsson i SVT:s ”Agenda”. – Man får acceptera att alla fyra partier får inflytande i regeringen. Ingen från Socialdemokraterna eller Centerpartiet ville medverka i programmet.",
+      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-nyval-om-inte-c-valjer-sida/",
+      "guid": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-nyval-om-inte-c-valjer-sida/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789936030000
+    },
+    {
+      "title": "Huvudmisstänkte: Jag var 140 meter bort när Maddie försvann",
+      "description": "I åratal har Christian Brückner vägrat berätta var han befann sig när Madeleine McCann försvann. Nu kommer den huvudmisstänkte i fallet med ett nytt besked: Han var bara omkring 140 meter från familjens semesterlägenhet. – Jag flydde snabbt, säger han till The Mail on Sunday.",
+      "link": "https://www.expressen.se/nyheter/varlden/huvudmisstankte-jag-var-140-meter-bort-nar-maddie-forsvann/",
+      "guid": "https://www.expressen.se/nyheter/varlden/huvudmisstankte-jag-var-140-meter-bort-nar-maddie-forsvann/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789934920000
+    },
+    {
+      "title": "Putins parti mot valseger",
+      "description": "49,4 procent i vallokalsundersökning",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f04a8822-f401-4aeb-aabc-1005bf4587bf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f04a8822-f401-4aeb-aabc-1005bf4587bf",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789934249000
+    },
+    {
       "title": "Manchester United kritiseras efter självmål och poängtapp: ”Det sämsta jag har upplevt”",
       "description": "I Premier League spelade Manchester United oavgjort mot Fulham. United såg länge ut att gå hem utan poäng, men laget gjorde mål i sista minuten.",
       "link": "https://yle.fi/a/7-10105570?origin=rss",
@@ -24,21 +114,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789933154000
     },
     {
-      "title": "C och S nobbar SVT",
-      "description": "V själva på plats i ”Agenda”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ff897f3-373d-4118-8065-69c64fd1f763",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ff897f3-373d-4118-8065-69c64fd1f763",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789932537000
-    },
-    {
       "title": "Hästarna har lämnat Riddersviks stall – oklar framtid",
       "description": "Nu är Riddersviks stall tomt – oklar framtid. Nu är det tomt i gamla stallbyggnaden vid Riddersvik – hästarna och ryttarna har till slut lämnat det utdömda stallet. – Det är högst oklart om vi kommer tillbaka, säger Cecilia Dohns från Riddersviks fältrittklubb. September 2026.",
       "link": "https://www.mitti.se/nyheter/hastarna-har-lamnat-riddersviks-stall--oklar-framtid-6.3.386206.28bea77c34",
       "guid": "https://www.mitti.se/nyheter/hastarna-har-lamnat-riddersviks-stall--oklar-framtid-6.3.386206.28bea77c34",
-      "image": "https://www.mitti.se/image-3.377781.308219.20260920195259.2518131331?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377781.308219.20260920213016.2593c840c7?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789932141000
@@ -82,16 +162,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1789930384000
-    },
-    {
-      "title": "Putins parti mot valseger",
-      "description": "49,4 procent i vallokalsundersökning",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f04a8822-f401-4aeb-aabc-1005bf4587bf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f04a8822-f401-4aeb-aabc-1005bf4587bf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789930221000
     },
     {
       "title": "Död efter solstolsbråk i Grekland",
@@ -204,8 +274,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789921800000
     },
     {
-      "title": "Nya framgångar för ytterhögern i tyska delstatsval – Merz kallar det ”katastrof”",
-      "description": "Med darr på ribban verkar Kristdemokratiska CDU klara av röstspärren på fem procent i delstaten Mecklenburg-Vorpommern.",
+      "title": "Nya framgångar för ytterhögern i tyska delstatsval – det egna resultatet kallar förbundskansler Merz ”katastrof”",
+      "description": "Kristdemokratiska CDU verkar inte klara av röstspärren på fem procent i delstaten Mecklenburg-Vorpommern.",
       "link": "https://yle.fi/a/7-10105367?origin=rss",
       "guid": "https://yle.fi/a/7-10105367",
       "image": "",
@@ -314,16 +384,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789914173000
     },
     {
-      "title": "Mohamed Abdukardir Ali inkryssad för V – okänd i partiet",
-      "description": "För två år sedan nekades Mohamed Abdukardir Ali medborgarskap i Sverige. Enligt migrationsdomstolen hade han stora skulder och uppfyllde inte kravet på ett hederligt levnadssätt. Nu har Mohamed Abdukardir Ali, som är helt okänd i politiska sammanhang, kryssats in som ledamot i riksdagen för Vänsterpartiet. – Jag är själv överraskad över stödet för mig personligen eftersom jag inte har haft nån egen kampanj eller valmaterial, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/mohamed-abdukardir-ali-inkryssad-for-v-okand-i-partiet/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mohamed-abdukardir-ali-inkryssad-for-v-okand-i-partiet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789913588000
-    },
-    {
       "title": "Vekoma firar 100 år med lång dokumentär",
       "description": "Bolaget bakom några av världens mest kända berg-och-dalbanor Det är inte alla företag som lyckas med bedriften att gå från att tillverka redskap för jordbruk till världsberömda berg-och-dalbanor. Men nederländska Vekoma lyckades med det och i år firar företaget 100 år. För att fira att man nu är en av de tyngsta aktörerna i nöjesparksbranschen har man släppt dokumentären 100 Years in Motion. I denna 30 minuter långa dokumentär får man se hur det gamla familjeföretaget gick från den nederländska myllan till de högsta topparna i världens mest kända nöjesparker. L&auml;s vidare och kommentera: https://feber.se/video/vekoma-firar-100-ar-med-lang-dokumentar/496342/ L&auml;s mer om Vekoma , bergochdalbanor , nöjesparker , 100 Years in Motion , dokumentär , Nederländerna",
       "link": "https://feber.se/video/vekoma-firar-100-ar-med-lang-dokumentar/496342/?utm_source=rss&utm_medium=feed",
@@ -344,16 +404,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789911992000
     },
     {
-      "title": "Trumps plan",
-      "description": "Kravet på triumfbågen: Krypskyttsnäste",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9281b19f-e871-433d-9a1f-097ef2be4819",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9281b19f-e871-433d-9a1f-097ef2be4819",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789911721000
-    },
-    {
       "title": "Elvan i bortamötet med Degerfors",
       "description": "Så här ställer Hammarby upp i bortamatchen mot Degerfors. Matchen sparkas igång klockan 16.30 på Stora Valla och visas i TV4 Play för dig som inte är på plats.1. Warner Hahn (k)2. Hampus Skoglund6. Ib",
       "link": "https://www.hammarbyfotboll.se/nyheter/elvan-i-bortamotet-med-degerfors",
@@ -362,16 +412,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1789910820000
-    },
-    {
-      "title": "”Mycket allvarligt skadad”",
-      "description": "Man vårdas efter olyckan på Kråks skjutfält",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=99bb96ff-5c4c-4ac6-bf1d-8ac4fd106616",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=99bb96ff-5c4c-4ac6-bf1d-8ac4fd106616",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789910317000
     },
     {
       "title": "Finlandssvenska stjärnor lyser upp ny nordisk filmgala",
@@ -402,36 +442,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1789908221000
-    },
-    {
-      "title": "Här är de tio mest kryssade politikerna per parti",
-      "description": "Nästan var fjärde väljare kryssade en politiker i riksdagsvalet i år. Här är varje partis tio mest populära kandidater.",
-      "link": "https://www.expressen.se/nyheter/politik/har-ar-de-tio-mest-kryssade-politikerna-per-parti/",
-      "guid": "https://www.expressen.se/nyheter/politik/har-ar-de-tio-mest-kryssade-politikerna-per-parti/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789908148000
-    },
-    {
-      "title": "Två barn döda efter att ha smittats av ”hjärnätande amöba”",
-      "description": "Den ”hjärnätande amöban” lurar i stillastående insjövatten. Och den som infekterats har mycket liten chans att överleva. Inom loppet av bara en vecka dog två barn – och forskare varnar för fler fall.",
-      "link": "https://www.expressen.se/nyheter/varlden/tva-barn-doda-efter-att-ha-smittats-av-hjarnatande-amoba/",
-      "guid": "https://www.expressen.se/nyheter/varlden/tva-barn-doda-efter-att-ha-smittats-av-hjarnatande-amoba/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789908101000
-    },
-    {
-      "title": "Kryssade sig förbi toppnamnet – kan utsättas för press",
-      "description": "I Sörmland kryssades fjärdenamnet Mohamed Abdukani förbi MP-toppen Linus Lakso. Nu kan partiet försöka pressa honom att tacka nej till riksdagsplatsen, säger en källa till Eskilstuna-kuriren. Uppgifterna tillbakavisas av MP:s gruppledare Annika Hirvonen.",
-      "link": "https://www.expressen.se/nyheter/politik/kryssade-sig-forbi-toppnamnet-kan-utsattas-for-press/",
-      "guid": "https://www.expressen.se/nyheter/politik/kryssade-sig-forbi-toppnamnet-kan-utsattas-for-press/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789907123000
     },
     {
       "title": "Scientists discover a hidden “ID card” in cat urine",
@@ -484,21 +494,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789905600000
     },
     {
-      "title": "Fortsatt grannkritik mot omstritt bygge i Årsta",
-      "description": "Cirka 50 hyresrätter planeras på Orrfjärdsgränd i Årsta – nu pågår granskning av detaljplanen till och med 22 september.",
-      "link": "https://www.mitti.se/nyheter/fortsatt-grannkritik-mot-omstritt-bygge-i-arsta-6.3.384984.4ed35bf5d3",
-      "guid": "https://www.mitti.se/nyheter/fortsatt-grannkritik-mot-omstritt-bygge-i-arsta-6.3.384984.4ed35bf5d3",
-      "image": "https://www.mitti.se/image-3.381860.307427.20260920123651.1.5ee3743b1f?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789905600000
-    },
-    {
       "title": "Miljoner tittar på när Erik badar – alltid med ankan som sällskap",
       "description": "Erik Fellman gör succé på tiktok",
       "link": "https://www.mitti.se/nyheter/miljoner-tittar-pa-nar-erik-badar--alltid-med-ankan-som-sallskap-6.3.384796.d057c020a1",
       "guid": "https://www.mitti.se/nyheter/miljoner-tittar-pa-nar-erik-badar--alltid-med-ankan-som-sallskap-6.3.384796.d057c020a1",
       "image": "https://www.mitti.se/image-3.381811.307440.20260920123553.1.8cf94d1c01?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789905600000
+    },
+    {
+      "title": "Fortsatt grannkritik mot omstritt bygge i Årsta",
+      "description": "Cirka 50 hyresrätter planeras på Orrfjärdsgränd i Årsta – nu pågår granskning av detaljplanen till och med 22 september.",
+      "link": "https://www.mitti.se/nyheter/fortsatt-grannkritik-mot-omstritt-bygge-i-arsta-6.3.384984.4ed35bf5d3",
+      "guid": "https://www.mitti.se/nyheter/fortsatt-grannkritik-mot-omstritt-bygge-i-arsta-6.3.384984.4ed35bf5d3",
+      "image": "https://www.mitti.se/image-3.381860.307427.20260920123651.1.5ee3743b1f?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789905600000
@@ -522,16 +532,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1789905493000
-    },
-    {
-      "title": "Tystnaden efter valresultatet – locket på hos ALLA",
-      "description": "Magdalena Andersson (S) fick uppdraget att försöka bilda regering. Sen blev det tyst. Väldigt tyst. Från alla.",
-      "link": "https://www.expressen.se/nyheter/politik/tystnaden-efter-valresultatet-locket-pa-hos-alla/",
-      "guid": "https://www.expressen.se/nyheter/politik/tystnaden-efter-valresultatet-locket-pa-hos-alla/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789904397000
     },
     {
       "title": "New nanoparticles make hidden chemical differences light up",
@@ -964,31 +964,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789880901000
     },
     {
-      "title": "Allt färre studenter tar studielån i Danderyd – andelen sjunker för tredje året i rad",
-      "description": "73 procent av studenterna i Danderyd tog studielån förra läsåret. Andelen har nu sjunkit tre år i rad, trots att antalet studenter samtidigt ökar i kommunen.",
-      "link": "https://www.mitti.se/nyheter/allt-farre-studenter-tar-studielan-i-danderyd--andelen-sjunker-for-tredje-aret-i-rad-6.3.384942.35dfd3e50b",
-      "guid": "https://www.mitti.se/nyheter/allt-farre-studenter-tar-studielan-i-danderyd--andelen-sjunker-for-tredje-aret-i-rad-6.3.384942.35dfd3e50b",
-      "image": "https://www.mitti.se/image-3.376423.307208.20260920053511.16fa32345d?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789880400000
-    },
-    {
-      "title": "Flemingsbergs kyrka fyller 50 – fest i fyra dagar",
-      "description": "Flemingsbergs kyrka firar 50 år med fyra dagars jubileum: föreläsningar, festmåltider, familjeaktiviteter, konserter och finsk tango. Kyrkan lyfts också fram som en öppen mötesplats för alla.",
-      "link": "https://www.mitti.se/nyheter/flemingsbergs-kyrka-fyller-50--fest-i-fyra-dagar-6.3.385082.212749d6e2",
-      "guid": "https://www.mitti.se/nyheter/flemingsbergs-kyrka-fyller-50--fest-i-fyra-dagar-6.3.385082.212749d6e2",
-      "image": "https://www.mitti.se/image-3.382780.307380.20260920053003.5a3c1e789c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789880400000
-    },
-    {
       "title": "Gamla simhallens pengar flyttas till nya idrottssatsningar",
       "description": "1,5 miljoner från simhallsbudgeten kan rusta upp Bro IP, Kungsängens IP och parker. Bro IK välkomnar förslaget.",
       "link": "https://www.mitti.se/nyheter/gamla-simhallens-pengar-flyttas-till-nya-idrottssatsningar-6.3.386351.002bfdb1b9",
       "guid": "https://www.mitti.se/nyheter/gamla-simhallens-pengar-flyttas-till-nya-idrottssatsningar-6.3.386351.002bfdb1b9",
       "image": "https://www.mitti.se/image-3.355699.308379.20260920053003.04ead7d78e?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789880400000
+    },
+    {
+      "title": "Allt färre studenter tar studielån i Danderyd – andelen sjunker för tredje året i rad",
+      "description": "73 procent av studenterna i Danderyd tog studielån förra läsåret. Andelen har nu sjunkit tre år i rad, trots att antalet studenter samtidigt ökar i kommunen.",
+      "link": "https://www.mitti.se/nyheter/allt-farre-studenter-tar-studielan-i-danderyd--andelen-sjunker-for-tredje-aret-i-rad-6.3.384942.35dfd3e50b",
+      "guid": "https://www.mitti.se/nyheter/allt-farre-studenter-tar-studielan-i-danderyd--andelen-sjunker-for-tredje-aret-i-rad-6.3.384942.35dfd3e50b",
+      "image": "https://www.mitti.se/image-3.376423.307208.20260920053511.16fa32345d?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789880400000
@@ -1004,6 +994,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789880400000
     },
     {
+      "title": "Flemingsbergs kyrka fyller 50 – fest i fyra dagar",
+      "description": "Flemingsbergs kyrka firar 50 år med fyra dagars jubileum: föreläsningar, festmåltider, familjeaktiviteter, konserter och finsk tango. Kyrkan lyfts också fram som en öppen mötesplats för alla.",
+      "link": "https://www.mitti.se/nyheter/flemingsbergs-kyrka-fyller-50--fest-i-fyra-dagar-6.3.385082.212749d6e2",
+      "guid": "https://www.mitti.se/nyheter/flemingsbergs-kyrka-fyller-50--fest-i-fyra-dagar-6.3.385082.212749d6e2",
+      "image": "https://www.mitti.se/image-3.382780.307380.20260920053003.5a3c1e789c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789880400000
+    },
+    {
       "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
       "description": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier warning that a seemingly disorganized storm is becoming primed to strengthen.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
@@ -1014,21 +1014,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789878563000
     },
     {
-      "title": "Ruben hade leukemi – springer för cancersjuka barn",
-      "description": "Ruben Wilund hade leukemi som liten – nu springer han Gudö Run of hope som samlar in pengar till Barncancerfonden.",
-      "link": "https://www.mitti.se/nyheter/ruben-hade-leukemi--springer-for-cancersjuka-barn-6.3.384767.3326068ff2",
-      "guid": "https://www.mitti.se/nyheter/ruben-hade-leukemi--springer-for-cancersjuka-barn-6.3.384767.3326068ff2",
-      "image": "https://www.mitti.se/image-3.381899.307523.20260920043801.aeb2af245c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789876800000
-    },
-    {
       "title": "Äldreboende på Södermalm fick takterrass: \"Helt galen\"",
       "description": "Ny takterrass på Kulltorps äldreboende på Tantovägen på Södermalm",
       "link": "https://www.mitti.se/nyheter/aldreboende-pa-sodermalm-fick-takterrass-helt-galen-6.3.384530.bbd94b1290",
       "guid": "https://www.mitti.se/nyheter/aldreboende-pa-sodermalm-fick-takterrass-helt-galen-6.3.384530.bbd94b1290",
       "image": "https://www.mitti.se/image-3.381229.306738.20260920043127.1.da4d9bf637?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789876800000
+    },
+    {
+      "title": "Ruben hade leukemi – springer för cancersjuka barn",
+      "description": "Ruben Wilund hade leukemi som liten – nu springer han Gudö Run of hope som samlar in pengar till Barncancerfonden.",
+      "link": "https://www.mitti.se/nyheter/ruben-hade-leukemi--springer-for-cancersjuka-barn-6.3.384767.3326068ff2",
+      "guid": "https://www.mitti.se/nyheter/ruben-hade-leukemi--springer-for-cancersjuka-barn-6.3.384767.3326068ff2",
+      "image": "https://www.mitti.se/image-3.381899.307523.20260920043801.aeb2af245c?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789876800000
@@ -1268,7 +1268,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Moderaterna uppger att överdrivna och falska uppgifter om Tidöpartierna har fått fler att rösta på Vänsterpartiet – vilket V avfärdar som nonsens. Rinkebybon Mohammed Ahmed tycker att problemet är att han inte sett några politiker över huvud taget.",
       "link": "https://www.mitti.se/nyheter/rinkebybor-om-kritiken-mot-v-inte-sett-nagra-partier-alls-6.3.386973.b8ad5810d2",
       "guid": "https://www.mitti.se/nyheter/rinkebybor-om-kritiken-mot-v-inte-sett-nagra-partier-alls-6.3.386973.b8ad5810d2",
-      "image": "https://www.mitti.se/image-3.382801.308556.20260919123901.7f2d2c31d2?format=jpeg",
+      "image": "https://www.mitti.se/image-3.382801.308556.20260920205814.7ae2f89666?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789819223000
@@ -1298,7 +1298,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Framgångar som delvis beror på att överdriven eller falsk information om Tidö har florerat, menar Moderaterna.",
       "link": "https://www.mitti.se/nyheter/v-om-ms-attack-efter-valsuccen-i-jarva-skamligt-6.3.386237.637c03707f",
       "guid": "https://www.mitti.se/nyheter/v-om-ms-attack-efter-valsuccen-i-jarva-skamligt-6.3.386237.637c03707f",
-      "image": "https://www.mitti.se/image-3.382804.308296.20260919150531.5a2796aff0?format=jpeg",
+      "image": "https://www.mitti.se/image-3.382804.308296.20260920205828.1f1dc4f9f3?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789818460000
@@ -1464,21 +1464,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789801200000
     },
     {
-      "title": "Han blev årets lärare i Österåker 2026",
-      "description": "Anders Burebo på Solskiftesskolan har utsetts till årets lärare i Österåker 2026 efter nominering från eleverna. Han hyllas för sitt lugn, kunnande och engagemang.",
-      "link": "https://www.mitti.se/nyheter/han-blev-arets-larare-i-osteraker-2026-6.3.385727.60167a835c",
-      "guid": "https://www.mitti.se/nyheter/han-blev-arets-larare-i-osteraker-2026-6.3.385727.60167a835c",
-      "image": "https://www.mitti.se/image-3.381964.307570.20260919103515.3047fe3280?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789801200000
-    },
-    {
       "title": "De ska musta äpplen till beredskapslager",
       "description": "Den 21–27 september pågår Beredskapsveckan i Sverige. Det här händer i Hägersten-Älvsjö stadsdel under veckan.",
       "link": "https://www.mitti.se/nyheter/de-ska-musta-applen-till-beredskapslager-6.3.384976.787e460bee",
       "guid": "https://www.mitti.se/nyheter/de-ska-musta-applen-till-beredskapslager-6.3.384976.787e460bee",
       "image": "https://www.mitti.se/image-3.381667.307352.20260919081925.5164409dbd?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789801200000
+    },
+    {
+      "title": "Han blev årets lärare i Österåker 2026",
+      "description": "Anders Burebo på Solskiftesskolan har utsetts till årets lärare i Österåker 2026 efter nominering från eleverna. Han hyllas för sitt lugn, kunnande och engagemang.",
+      "link": "https://www.mitti.se/nyheter/han-blev-arets-larare-i-osteraker-2026-6.3.385727.60167a835c",
+      "guid": "https://www.mitti.se/nyheter/han-blev-arets-larare-i-osteraker-2026-6.3.385727.60167a835c",
+      "image": "https://www.mitti.se/image-3.381964.307570.20260919103515.3047fe3280?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789801200000
@@ -1594,21 +1594,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789794000000
     },
     {
-      "title": "Beredskapsdagen ska ge kunskap och trygghet",
-      "description": "Beredskapsdagen i Kungsängen 26 september",
-      "link": "https://www.mitti.se/nyheter/beredskapsdagen-ska-ge-kunskap-och-trygghet-6.3.386316.87b87ff9b8",
-      "guid": "https://www.mitti.se/nyheter/beredskapsdagen-ska-ge-kunskap-och-trygghet-6.3.386316.87b87ff9b8",
-      "image": "https://www.mitti.se/image-3.251179.308403.20260919053042.73c04e8e33?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789794000000
-    },
-    {
       "title": "Ösbyskolan storvinnare i årets Danderyds-OS",
       "description": "Ösbyskolan tog hem tre vandringspriser när 55:e Danderyds-OS avgjordes i Danderyd. Nära 440 skolbarn deltog, inklusive förstaklassare för första gången.",
       "link": "https://www.mitti.se/nyheter/osbyskolan-storvinnare-i-arets-danderydsos-6.3.386212.c14bc35bae",
       "guid": "https://www.mitti.se/nyheter/osbyskolan-storvinnare-i-arets-danderydsos-6.3.386212.c14bc35bae",
       "image": "https://www.mitti.se/image-3.382430.308225.20260919053042.e593f28ecf?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789794000000
+    },
+    {
+      "title": "Beredskapsdagen ska ge kunskap och trygghet",
+      "description": "Beredskapsdagen i Kungsängen 26 september",
+      "link": "https://www.mitti.se/nyheter/beredskapsdagen-ska-ge-kunskap-och-trygghet-6.3.386316.87b87ff9b8",
+      "guid": "https://www.mitti.se/nyheter/beredskapsdagen-ska-ge-kunskap-och-trygghet-6.3.386316.87b87ff9b8",
+      "image": "https://www.mitti.se/image-3.251179.308403.20260919053042.73c04e8e33?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789794000000
@@ -1844,21 +1844,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789750800000
     },
     {
-      "title": "Polisen utreder larm om närgången fotograf",
-      "description": "Polisen utreder larm om en närgången fotograf på Kungsholmen och vid Sveavägen.",
-      "link": "https://www.mitti.se/nyheter/polisen-utreder-larm-om-nargangen-fotograf-6.3.386902.1b5277a2e5",
-      "guid": "https://www.mitti.se/nyheter/polisen-utreder-larm-om-nargangen-fotograf-6.3.386902.1b5277a2e5",
-      "image": "https://www.mitti.se/image-3.327668.308482.20260918173020.1.4b7ad45783?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789750800000
-    },
-    {
       "title": "Valter, 19, fixar fotbollscup på Söder för stans skolor",
       "description": "Fotbollscup för gymnasieskolor Zinkensdamms IP Stockholm",
       "link": "https://www.mitti.se/nyheter/valter-19-fixar-fotbollscup-pa-soder-for-stans-skolor-6.3.386327.858c793c51",
       "guid": "https://www.mitti.se/nyheter/valter-19-fixar-fotbollscup-pa-soder-for-stans-skolor-6.3.386327.858c793c51",
       "image": "https://www.mitti.se/image-3.382572.308371.20260918173020.1.b8605a0669?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789750800000
+    },
+    {
+      "title": "Polisen utreder larm om närgången fotograf",
+      "description": "Polisen utreder larm om en närgången fotograf på Kungsholmen och vid Sveavägen.",
+      "link": "https://www.mitti.se/nyheter/polisen-utreder-larm-om-nargangen-fotograf-6.3.386902.1b5277a2e5",
+      "guid": "https://www.mitti.se/nyheter/polisen-utreder-larm-om-nargangen-fotograf-6.3.386902.1b5277a2e5",
+      "image": "https://www.mitti.se/image-3.327668.308482.20260918173020.1.4b7ad45783?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789750800000
@@ -2514,11 +2514,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789713055000
     },
     {
-      "title": "Förgiftade sin man – hovrätten fastställer påföljden",
-      "description": "En kvinna försökte döda sin man genom att förgifta honom med D-vitamin. Nu kommer hovrättens dom.",
-      "link": "https://www.mitti.se/nyheter/forgiftade-sin-man--hovratten-faststaller-pafoljden-6.3.386164.fba4ca1962",
-      "guid": "https://www.mitti.se/nyheter/forgiftade-sin-man--hovratten-faststaller-pafoljden-6.3.386164.fba4ca1962",
-      "image": "https://www.mitti.se/image-3.382556.308345.20260918075435.1.08fa3eff4e?format=jpeg",
+      "title": "Brottsmisstänkt KD-politiker lämnar partiet",
+      "description": "Upprörd över hur partiet skött det hela. \"Känner mig sviken\". Sitter kvar som politisk vilde. Erik Kainulainen, Tyresö, Kristdemokraterna, åtal, misstänkt, politisk vilde",
+      "link": "https://www.mitti.se/nyheter/brottsmisstankt-kdpolitiker-lamnar-partiet-6.3.386075.6b5376c690",
+      "guid": "https://www.mitti.se/nyheter/brottsmisstankt-kdpolitiker-lamnar-partiet-6.3.386075.6b5376c690",
+      "image": "https://www.mitti.se/image-3.305304.308309.20260918065012.98d95b7586?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789711200000
@@ -2534,11 +2534,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789711200000
     },
     {
-      "title": "Brottsmisstänkt KD-politiker lämnar partiet",
-      "description": "Upprörd över hur partiet skött det hela. \"Känner mig sviken\". Sitter kvar som politisk vilde. Erik Kainulainen, Tyresö, Kristdemokraterna, åtal, misstänkt, politisk vilde",
-      "link": "https://www.mitti.se/nyheter/brottsmisstankt-kdpolitiker-lamnar-partiet-6.3.386075.6b5376c690",
-      "guid": "https://www.mitti.se/nyheter/brottsmisstankt-kdpolitiker-lamnar-partiet-6.3.386075.6b5376c690",
-      "image": "https://www.mitti.se/image-3.305304.308309.20260918065012.98d95b7586?format=jpeg",
+      "title": "Förgiftade sin man – hovrätten fastställer påföljden",
+      "description": "En kvinna försökte döda sin man genom att förgifta honom med D-vitamin. Nu kommer hovrättens dom.",
+      "link": "https://www.mitti.se/nyheter/forgiftade-sin-man--hovratten-faststaller-pafoljden-6.3.386164.fba4ca1962",
+      "guid": "https://www.mitti.se/nyheter/forgiftade-sin-man--hovratten-faststaller-pafoljden-6.3.386164.fba4ca1962",
+      "image": "https://www.mitti.se/image-3.382556.308345.20260918075435.1.08fa3eff4e?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789711200000
@@ -3528,7 +3528,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Det var spänning och förväntan i luften när en av tre nya tvättstugor i veckan lyftes på plats vid Stavbygränd i Rinkeby.",
       "link": "https://www.mitti.se/nyheter/se-upp--rinkebys-nya-tvattstugor-pa-ingang-6.3.386013.967e68329e",
       "guid": "https://www.mitti.se/nyheter/se-upp--rinkebys-nya-tvattstugor-pa-ingang-6.3.386013.967e68329e",
-      "image": "https://www.mitti.se/image-3.382332.308020.20260916144348.62897b7693?format=jpeg",
+      "image": "https://www.mitti.se/image-3.382332.308020.20260920202521.22fc2efaff?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789565445000
@@ -3884,21 +3884,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789533000000
     },
     {
-      "title": "Grannfejd om tomtgräns – kvinna döms för hot",
-      "description": "En äldrekvinna i Huddinge döms för olaga hot efter en långvarig grannkonflikt om tomtgränser. Tingsrätten dömer till villkorlig dom och dagsböter på 6 500 kronor.",
-      "link": "https://www.mitti.se/nyheter/grannfejd-om-tomtgrans--kvinna-doms-for-hot-6.3.385121.791a75c82f",
-      "guid": "https://www.mitti.se/nyheter/grannfejd-om-tomtgrans--kvinna-doms-for-hot-6.3.385121.791a75c82f",
-      "image": "https://www.mitti.se/image-3.236313.307424.20260916043123.1f7fe19f86?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789531200000
-    },
-    {
-      "title": "Här är Liberalerna starkast i landet – rasar ändå lokalt",
-      "description": "Här är kommunerna där Liberalerna är starkast i landet enligt preliminära siffror. Men i samma kommuner, Täby och Danderyd tappar de lokalt.",
-      "link": "https://www.mitti.se/nyheter/har-ar-liberalerna-starkast-i-landet--rasar-anda-lokalt-6.3.386030.cac84eb741",
-      "guid": "https://www.mitti.se/nyheter/har-ar-liberalerna-starkast-i-landet--rasar-anda-lokalt-6.3.386030.cac84eb741",
-      "image": "https://www.mitti.se/image-3.382340.308050.20260916090506.cf5bc309d9?format=jpeg",
+      "title": "Här träffas mopsarna på Mopsens dag",
+      "description": "Hundträff på Ingarö. Alla är välkomna. Fika och \"mops-race\". Hundar, mops, Värmdö, Ingarö, mops-träff",
+      "link": "https://www.mitti.se/nyheter/har-traffas-mopsarna-pa-mopsens-dag-6.3.384903.aeb02cdf87",
+      "guid": "https://www.mitti.se/nyheter/har-traffas-mopsarna-pa-mopsens-dag-6.3.384903.aeb02cdf87",
+      "image": "https://www.mitti.se/image-3.381541.307272.20260916050949.1.a321dc2b27?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789531200000
@@ -3914,11 +3904,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789531200000
     },
     {
-      "title": "Här träffas mopsarna på Mopsens dag",
-      "description": "Hundträff på Ingarö. Alla är välkomna. Fika och \"mops-race\". Hundar, mops, Värmdö, Ingarö, mops-träff",
-      "link": "https://www.mitti.se/nyheter/har-traffas-mopsarna-pa-mopsens-dag-6.3.384903.aeb02cdf87",
-      "guid": "https://www.mitti.se/nyheter/har-traffas-mopsarna-pa-mopsens-dag-6.3.384903.aeb02cdf87",
-      "image": "https://www.mitti.se/image-3.381541.307272.20260916050949.1.a321dc2b27?format=jpeg",
+      "title": "Grannfejd om tomtgräns – kvinna döms för hot",
+      "description": "En äldrekvinna i Huddinge döms för olaga hot efter en långvarig grannkonflikt om tomtgränser. Tingsrätten dömer till villkorlig dom och dagsböter på 6 500 kronor.",
+      "link": "https://www.mitti.se/nyheter/grannfejd-om-tomtgrans--kvinna-doms-for-hot-6.3.385121.791a75c82f",
+      "guid": "https://www.mitti.se/nyheter/grannfejd-om-tomtgrans--kvinna-doms-for-hot-6.3.385121.791a75c82f",
+      "image": "https://www.mitti.se/image-3.236313.307424.20260916043123.1f7fe19f86?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789531200000
+    },
+    {
+      "title": "Här är Liberalerna starkast i landet – rasar ändå lokalt",
+      "description": "Här är kommunerna där Liberalerna är starkast i landet enligt preliminära siffror. Men i samma kommuner, Täby och Danderyd tappar de lokalt.",
+      "link": "https://www.mitti.se/nyheter/har-ar-liberalerna-starkast-i-landet--rasar-anda-lokalt-6.3.386030.cac84eb741",
+      "guid": "https://www.mitti.se/nyheter/har-ar-liberalerna-starkast-i-landet--rasar-anda-lokalt-6.3.386030.cac84eb741",
+      "image": "https://www.mitti.se/image-3.382340.308050.20260916090506.cf5bc309d9?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789531200000
@@ -4464,21 +4464,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1789448735000
     },
     {
-      "title": "Halloween på Skansen tillbaka – ännu läskigare",
-      "description": "Halloween på Skansen kommer tillbaka efter förra årets succé. Nu tre gånger strörre.",
-      "link": "https://www.mitti.se/nyheter/halloween-pa-skansen-tillbaka--annu-laskigare-6.3.385886.27b13cd398",
-      "guid": "https://www.mitti.se/nyheter/halloween-pa-skansen-tillbaka--annu-laskigare-6.3.385886.27b13cd398",
-      "image": "https://www.mitti.se/image-3.382137.307751.20260915043023.1.2f7a63f302?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789444800000
-    },
-    {
       "title": "Oro för att Försvarets miljardköp av \"SAS-huset\" dröjer",
       "description": "Fortifikationsverket väntar på besked",
       "link": "https://www.mitti.se/nyheter/oro-for-att-forsvarets-miljardkop-av-sashuset-drojer-6.3.385735.7924c8b330",
       "guid": "https://www.mitti.se/nyheter/oro-for-att-forsvarets-miljardkop-av-sashuset-drojer-6.3.385735.7924c8b330",
       "image": "https://www.mitti.se/image-3.362341.307580.20260920101828.1.73b88cdb13?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1789444800000
+    },
+    {
+      "title": "Halloween på Skansen tillbaka – ännu läskigare",
+      "description": "Halloween på Skansen kommer tillbaka efter förra årets succé. Nu tre gånger strörre.",
+      "link": "https://www.mitti.se/nyheter/halloween-pa-skansen-tillbaka--annu-laskigare-6.3.385886.27b13cd398",
+      "guid": "https://www.mitti.se/nyheter/halloween-pa-skansen-tillbaka--annu-laskigare-6.3.385886.27b13cd398",
+      "image": "https://www.mitti.se/image-3.382137.307751.20260915043023.1.2f7a63f302?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789444800000
@@ -5322,366 +5322,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1789338690000
-    },
-    {
-      "title": "Rödgröna ser ut att behålla makten",
-      "description": "Rödgröna styret ser ut att vinna valet i Stockholms stad 2026. Moderaterna ökar.",
-      "link": "https://www.mitti.se/nyheter/rodgrona-ser-ut-att-behalla-makten-6.3.385805.82012c4581",
-      "guid": "https://www.mitti.se/nyheter/rodgrona-ser-ut-att-behalla-makten-6.3.385805.82012c4581",
-      "image": "https://www.mitti.se/image-3.382050.307660.20260914051530.1.9119de1fee?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789336758000
-    },
-    {
-      "title": "Mikail Yüksel avgår som partiledare för Nyans",
-      "description": "Mikail Yüksel avgår som partilledare för Nyans, meddelar han själv på den sociala medieplattformen X.",
-      "link": "https://www.mitti.se/nyheter/mikail-yuksel-avgar-som-partiledare-for-nyans-6.3.385808.e02f745d83",
-      "guid": "https://www.mitti.se/nyheter/mikail-yuksel-avgar-som-partiledare-for-nyans-6.3.385808.e02f745d83",
-      "image": "https://www.mitti.se/image-3.203901.307661.20260913233102.1.0b2031cc9b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789336563000
-    },
-    {
-      "title": "L går framåt i skyltfönstret: ”Riktig seger”",
-      "description": "Liberalerna går framåt i Bromma, och får 18,1 procent av rösterna i distriktet Ålsten S i den preliminära räkningen.",
-      "link": "https://www.mitti.se/nyheter/l-gar-framat-i-skyltfonstret-riktig-seger-6.3.385804.1b976039b7",
-      "guid": "https://www.mitti.se/nyheter/l-gar-framat-i-skyltfonstret-riktig-seger-6.3.385804.1b976039b7",
-      "image": "https://www.mitti.se/image-3.382046.307659.20260914104020.2a0e034b46?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789333789000
-    },
-    {
-      "title": "Liberala kommunalråden i Stockholm: \"Mohamsson-effekt\"",
-      "description": "Liberala kommunalråden i Stockholm: \"Solklar Mohamsson-effekt\". – Vi har märkt det när vi knackat dörr sista veckorna, säger Jonathan Björniden (L) i Järfälla.",
-      "link": "https://www.mitti.se/nyheter/liberala-kommunalraden-i-stockholm-mohamssoneffekt-6.3.385802.6982bd2897",
-      "guid": "https://www.mitti.se/nyheter/liberala-kommunalraden-i-stockholm-mohamssoneffekt-6.3.385802.6982bd2897",
-      "image": "https://www.mitti.se/image-3.382044.307657.20260913221505.1.b308a6a3b7?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789331929000
-    },
-    {
-      "title": "Bjuggren (S) optimistisk: ”Första gången på 44 år”",
-      "description": "Emilia Bjuggren om riksdagsvalet och valet till kommunfullmäktige i Stockholms stad.",
-      "link": "https://www.mitti.se/nyheter/bjuggren-s-optimistisk-forsta-gangen-pa-44-ar-6.3.385801.7cccc5c1d8",
-      "guid": "https://www.mitti.se/nyheter/bjuggren-s-optimistisk-forsta-gangen-pa-44-ar-6.3.385801.7cccc5c1d8",
-      "image": "https://www.mitti.se/image-3.382041.307656.20260913222553.277c708f44?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789329283000
-    },
-    {
-      "title": "V-topp i norrort om första resultatet på riksnivå: ”Trötta på Tidö”",
-      "description": "Gruppledare från Vänsterns valvaka: \"Svenskarna visar att man är trötta på Tidö\". 13 september 2026.",
-      "link": "https://www.mitti.se/nyheter/vtopp-i-norrort-om-forsta-resultatet-pa-riksniva-trotta-pa-tido-6.3.385799.483e482260",
-      "guid": "https://www.mitti.se/nyheter/vtopp-i-norrort-om-forsta-resultatet-pa-riksniva-trotta-pa-tido-6.3.385799.483e482260",
-      "image": "https://www.mitti.se/image-3.382045.307654.20260913223156.2ec49d096e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789327915000
-    },
-    {
-      "title": "KARTA: Så röstade Stockholm",
-      "description": "Valet 2026 i Stockholm – följ resultatet i riksdag, kommunfullmäktige och region.",
-      "link": "https://www.mitti.se/nyheter/karta-sa-rostade-stockholm-6.3.385079.9a6ca1b186",
-      "guid": "https://www.mitti.se/nyheter/karta-sa-rostade-stockholm-6.3.385079.9a6ca1b186",
-      "image": "https://www.mitti.se/image-3.382040.307373.20260914084057.7a2f5d6b14?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789326900000
-    },
-    {
-      "title": "Lugn valdag – polisen skiftar fokus till kvällens vakor",
-      "description": "Lugnt val i Stockholm – inga brott anmälda enligt polisen",
-      "link": "https://www.mitti.se/nyheter/lugn-valdag--polisen-skiftar-fokus-till-kvallens-vakor-6.3.385798.0c27f68f4b",
-      "guid": "https://www.mitti.se/nyheter/lugn-valdag--polisen-skiftar-fokus-till-kvallens-vakor-6.3.385798.0c27f68f4b",
-      "image": "https://www.mitti.se/image-3.382015.307653.20260913192036.3a65159d87?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789325380000
-    },
-    {
-      "title": "Gulan Avci om Liberalernas megacomeback",
-      "description": "Valet 2026: Liberalernas ledare i Stockholm Gulan Avci om SVT:s vallokalsundersökning",
-      "link": "https://www.mitti.se/nyheter/gulan-avci-om-liberalernas-megacomeback-6.3.385795.77837e490b",
-      "guid": "https://www.mitti.se/nyheter/gulan-avci-om-liberalernas-megacomeback-6.3.385795.77837e490b",
-      "image": "https://www.mitti.se/image-3.382036.307651.20260914104024.1.99e30020ac?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789323911000
-    },
-    {
-      "title": "Klickade på annons – förlorade 700 000 kronor",
-      "description": "Investeringsbedrägerier på Kungsholmen ökar - lurades på 1,7 miljoner.",
-      "link": "https://www.mitti.se/nyheter/klickade-pa-annons--forlorade-700-000-kronor-6.3.384310.094bdd74c1",
-      "guid": "https://www.mitti.se/nyheter/klickade-pa-annons--forlorade-700-000-kronor-6.3.384310.094bdd74c1",
-      "image": "https://www.mitti.se/image-3.200483.306382.20260913212902.1.573f85ee99?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789321800000
-    },
-    {
-      "title": "Hon hjälper väljare hitta till lokalen i sista minuten",
-      "description": "S-valarbetaren Gisela Niklasson hjälper folk hitta till vallokalen ända in i sista minuten.",
-      "link": "https://www.mitti.se/nyheter/hon-hjalper-valjare-hitta-till-lokalen-i-sista-minuten-6.3.385796.cd45032c92",
-      "guid": "https://www.mitti.se/nyheter/hon-hjalper-valjare-hitta-till-lokalen-i-sista-minuten-6.3.385796.cd45032c92",
-      "image": "https://www.mitti.se/image-3.382034.307652.20260913232640.1.da509119c1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789320255000
-    },
-    {
-      "title": "Väljarna redo för valnatten: \"Håller andan och väntar\"",
-      "description": "Valspurten lider mot sitt slut och valnatten är på ingång. Att det är svettigt för många politiker är nog att räkna med – men hur är det för väljarna?",
-      "link": "https://www.mitti.se/nyheter/valjarna-redo-for-valnatten-haller-andan-och-vantar-6.3.384472.81619b3983",
-      "guid": "https://www.mitti.se/nyheter/valjarna-redo-for-valnatten-haller-andan-och-vantar-6.3.384472.81619b3983",
-      "image": "https://www.mitti.se/image-3.381141.306586.20260913163059.1.653ce9fb55?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789315200000
-    },
-    {
-      "title": "20.30 och fortfarande kö till vallokalerna",
-      "description": "Valet 2026: Köer i Stockholmsområdet – vallokalerna stänger kl. 20, det gäller.",
-      "link": "https://www.mitti.se/nyheter/2030-och-fortfarande-ko-till-vallokalerna-6.3.385794.d19d01aced",
-      "guid": "https://www.mitti.se/nyheter/2030-och-fortfarande-ko-till-vallokalerna-6.3.385794.d19d01aced",
-      "image": "https://www.mitti.se/image-3.382037.307650.20260913191615.1.112aadbf8d?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789313315000
-    },
-    {
-      "title": "Valnämnden i Stockholms stad: Inga indikationer på förseningar",
-      "description": "Postnords tidigare förseningar med förtidsrösterna verkar inte påverka den preliminära rösträkningen i Stockholms stad. Det säger Malin Marcusson, kommunikatör på valnämndens kansli.",
-      "link": "https://www.mitti.se/nyheter/valnamnden-i-stockholms-stad-inga-indikationer-pa-forseningar-6.3.385790.e21b2010ce",
-      "guid": "https://www.mitti.se/nyheter/valnamnden-i-stockholms-stad-inga-indikationer-pa-forseningar-6.3.385790.e21b2010ce",
-      "image": "https://www.mitti.se/image-3.382031.307647.20260913194119.1.f335b39c25?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789305232000
-    },
-    {
-      "title": "Slutade nian 1976 – möttes igen i Stureby",
-      "description": "Klassen gick ut Sturebyskolan 1976 – 50 år senare möttes de igen.",
-      "link": "https://www.mitti.se/nyheter/slutade-nian-1976--mottes-igen-i-stureby-6.3.384629.a27159fab8",
-      "guid": "https://www.mitti.se/nyheter/slutade-nian-1976--mottes-igen-i-stureby-6.3.384629.a27159fab8",
-      "image": "https://www.mitti.se/image-3.381331.306919.20260913173424.1187df8044?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789304640000
-    },
-    {
-      "title": "Tidskapsel byggs in i kvarteret där Grand Garbo huserade",
-      "description": "Då inleds bygge av bostäder i kvarter där Grand Garbo i Sundbyberg låg.",
-      "link": "https://www.mitti.se/nyheter/tidskapsel-byggs-in-i-kvarteret-dar-grand-garbo-huserade-6.3.384798.b564554e4b",
-      "guid": "https://www.mitti.se/nyheter/tidskapsel-byggs-in-i-kvarteret-dar-grand-garbo-huserade-6.3.384798.b564554e4b",
-      "image": "https://www.mitti.se/image-3.381392.307032.20260913131853.1.862d8cf2fc?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789303680000
-    },
-    {
-      "title": "\"Hagalundskungens\" villa renoveras – och slår upp portarna",
-      "description": "Bergmarkska villan renoveras",
-      "link": "https://www.mitti.se/nyheter/hagalundskungens-villa-renoveras--och-slar-upp-portarna-6.3.383211.c188bda8af",
-      "guid": "https://www.mitti.se/nyheter/hagalundskungens-villa-renoveras--och-slar-upp-portarna-6.3.383211.c188bda8af",
-      "image": "https://www.mitti.se/image-3.381438.305567.20260913125624.11855d0be1?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789302300000
-    },
-    {
-      "title": "Duvor – en vattendelare bland stockholmarna",
-      "description": "Bär duvor på sjukdomar? Experten reder ut vad som gäller och hur man hjälper en skadad duva",
-      "link": "https://www.mitti.se/nyheter/duvor--en-vattendelare-bland-stockholmarna-6.3.384896.42e8ca059b",
-      "guid": "https://www.mitti.se/nyheter/duvor--en-vattendelare-bland-stockholmarna-6.3.384896.42e8ca059b",
-      "image": "https://www.mitti.se/image-3.176258.307154.20260913123052.c90d0ffd39?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789300800000
-    },
-    {
-      "title": "Gå ner i sopsugsterminal på Hagastadens dag",
-      "description": "Hagastadens dag den 26 september arrangeras i Hagastaden, på Hagaplan och i Norra Stationsparken.",
-      "link": "https://www.mitti.se/nyheter/ga-ner-i-sopsugsterminal-pa-hagastadens-dag-6.3.384367.5c1fdc2efc",
-      "guid": "https://www.mitti.se/nyheter/ga-ner-i-sopsugsterminal-pa-hagastadens-dag-6.3.384367.5c1fdc2efc",
-      "image": "https://www.mitti.se/image-3.381003.306440.20260913103229.1.06dd4996a0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789290000000
-    },
-    {
-      "title": "Kommunen: Tyck till om framtidens Mälaröar",
-      "description": "I Ekerö kommuns arbete med en ny översiktsplan för hur kommunen kan utvecklas fram till 2060 bjuds nu Ekeröbor in för att ge sin syn på saken.",
-      "link": "https://www.mitti.se/nyheter/kommunen-tyck-till-om-framtidens-malaroar-6.3.384365.8095fc278a",
-      "guid": "https://www.mitti.se/nyheter/kommunen-tyck-till-om-framtidens-malaroar-6.3.384365.8095fc278a",
-      "image": "https://www.mitti.se/image-3.377812.306438.20260914091608.1.0e8b30e9c9?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789290000000
-    },
-    {
-      "title": "Valdagen – här är tiderna (och köerna) att hålla koll på",
-      "description": "Vallokalerna i Stockholm stänger klockan 20.00/ klockan 8 på kvällen",
-      "link": "https://www.mitti.se/nyheter/valdagen--har-ar-tiderna-och-koerna-att-halla-koll-pa--6.3.385784.d04e2b743c",
-      "guid": "https://www.mitti.se/nyheter/valdagen--har-ar-tiderna-och-koerna-att-halla-koll-pa--6.3.385784.d04e2b743c",
-      "image": "https://www.mitti.se/image-3.381981.307642.20260913084843.cf2ef996c7?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789287457000
-    },
-    {
-      "title": "Då når tvärbanan Helenelund – arbetet återupptas",
-      "description": "Nu återupptas arbetet med Tvärbanans Kistagren, tros nå Helenelund 2029.",
-      "link": "https://www.mitti.se/nyheter/da-nar-tvarbanan-helenelund--arbetet-aterupptas-6.3.385667.d1e21e3118",
-      "guid": "https://www.mitti.se/nyheter/da-nar-tvarbanan-helenelund--arbetet-aterupptas-6.3.385667.d1e21e3118",
-      "image": "https://www.mitti.se/image-3.201980.307475.20260913083215.1c14f91bbf?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789286220000
-    },
-    {
-      "title": "Därför rivs inte de förfallna byggnaderna: \"Praktskandal\"",
-      "description": "Därför rivs inte de förfallna byggnaderna: \"Praktskandal\". Allt fler röster höjs om att staden måste tvinga Spånga fotboll att riva sina fallfärdiga byggnader i Solhem. I flera år har de förfulat Gläntans bollplan och inneburit en risk för barnen, enligt de boende i området. – Detta är naturligtvis inte tillfredsställande, säger tillsynschefen Maria Mohammadi. Augusti september 2026.",
-      "link": "https://www.mitti.se/nyheter/darfor-rivs-inte-de-forfallna-byggnaderna-praktskandal-6.3.383405.d05f125df2",
-      "guid": "https://www.mitti.se/nyheter/darfor-rivs-inte-de-forfallna-byggnaderna-praktskandal-6.3.383405.d05f125df2",
-      "image": "https://www.mitti.se/image-3.382029.306032.20260914021319.5cb78f2451?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789284156000
-    },
-    {
-      "title": "Resursskolan blev dotterns räddning: \"Vi fick ingen hjälp\"",
-      "description": "Resursskolan blev Annas dotters räddning: \"Förra skolan tog henne aldrig på allvar\". Resursskolan blev utvägen för Annas hemmasittande dotter. Som gick från att vara en deprimerad och sänkt flicka till en med levnadsglad och social tjej. – Alla stora klasser i dag är ett stor orsak till problemet med hemmasittare, menar jag, säger Anna. Augusti 2026.",
-      "link": "https://www.mitti.se/nyheter/resursskolan-blev-dotterns-raddning-vi-fick-ingen-hjalp-6.3.381874.dc202d7134",
-      "guid": "https://www.mitti.se/nyheter/resursskolan-blev-dotterns-raddning-vi-fick-ingen-hjalp-6.3.381874.dc202d7134",
-      "image": "https://www.mitti.se/image-3.379244.304490.20260917064046.a536def0d6?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789282814000
-    },
-    {
-      "title": "Rekordmånga deltog i tionde Solom-loppet",
-      "description": "200 deltog i tionde upplagan av Solom-loppet på Lilla Viby gård.",
-      "link": "https://www.mitti.se/nyheter/rekordmanga-deltog-i-tionde-solomloppet-6.3.384672.82815079c1",
-      "guid": "https://www.mitti.se/nyheter/rekordmanga-deltog-i-tionde-solomloppet-6.3.384672.82815079c1",
-      "image": "https://www.mitti.se/image-3.381294.306846.20260913081800.1.2b8e2f6077?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789280520000
-    },
-    {
-      "title": "Man stod vid torg och blottade sig för barn",
-      "description": "Man misstänkt för sexofredande mot barn i Abrahamsberg",
-      "link": "https://www.mitti.se/nyheter/man-stod-vid-torg-och-blottade-sig-for-barn-6.3.385771.aebf099eaf",
-      "guid": "https://www.mitti.se/nyheter/man-stod-vid-torg-och-blottade-sig-for-barn-6.3.385771.aebf099eaf",
-      "image": "https://www.mitti.se/image-3.354874.307634.20260913065111.3f6acde831?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789280461000
-    },
-    {
-      "title": "Rekordmånga unga Täbybor får rösta: \"Läskigt och spännande\"",
-      "description": "4 245 förstagångsväljare i Täby ska rösta. Unga beskriver valet som spännande men svårt, och söker svar via sociala medier, debatter och valkompasser.",
-      "link": "https://www.mitti.se/nyheter/rekordmanga-unga-tabybor-far-rosta-laskigt-och-spannande-6.3.383771.8416e4507f",
-      "guid": "https://www.mitti.se/nyheter/rekordmanga-unga-tabybor-far-rosta-laskigt-och-spannande-6.3.383771.8416e4507f",
-      "image": "https://www.mitti.se/image-3.381151.306623.20260913063010.1.169a0dd296?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789279200000
-    },
-    {
-      "title": "Värmdöbor vädjar: \"Skjut fler hjortar\"",
-      "description": "Invaderar tomter och äter upp grödor. Vill se bättre uppstyrd jakt. Dovhjort, vildsvin, Värmdö, Fortifikationsverket, Fortverket",
-      "link": "https://www.mitti.se/nyheter/varmdobor-vadjar-skjut-fler-hjortar-6.3.384626.c2800b3357",
-      "guid": "https://www.mitti.se/nyheter/varmdobor-vadjar-skjut-fler-hjortar-6.3.384626.c2800b3357",
-      "image": "https://www.mitti.se/image-3.85752.306799.20260913065213.1.a7228f943b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789279200000
-    },
-    {
-      "title": "Trots tunnelbaneavtalet – färre bostäder byggs",
-      "description": "Trots ett underskott på bostäder och avtal om att bygga tusentals nya tills tunnelbanan anländer 2030 har bostadsbyggandet minskat i Nacka de senaste fyra åren.",
-      "link": "https://www.mitti.se/nyheter/trots-tunnelbaneavtalet--farre-bostader-byggs-6.3.383629.a4df5d7058",
-      "guid": "https://www.mitti.se/nyheter/trots-tunnelbaneavtalet--farre-bostader-byggs-6.3.383629.a4df5d7058",
-      "image": "https://www.mitti.se/image-3.380613.306201.20260913063129.4ffefeb93b?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789277640000
-    },
-    {
-      "title": "Kärrtorps istält var svartbygge – riskerar miljonbot",
-      "description": "Kärrtorps ishall var ett svartbygge under drygt två år. Istältet saknade bygglov.",
-      "link": "https://www.mitti.se/nyheter/karrtorps-istalt-var-svartbygge--riskerar-miljonbot-6.3.383567.edeaeaee86",
-      "guid": "https://www.mitti.se/nyheter/karrtorps-istalt-var-svartbygge--riskerar-miljonbot-6.3.383567.edeaeaee86",
-      "image": "https://www.mitti.se/image-3.379273.306207.20260913060012.1.bbe6347c16?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789277400000
-    },
-    {
-      "title": "Nu kommer de nya sopkärlen – upp till fyra kärl på tomten",
-      "description": "Danderyd börjar köra ut nya sopkärl inför EU:s soplagstiftning 2027. Vissa villor får upp till fyra kärl, medan glas och metall blir frivilligt efter ett sent politiskt beslut.",
-      "link": "https://www.mitti.se/nyheter/nu-kommer-de-nya-sopkarlen--upp-till-fyra-karl-pa-tomten-6.3.382136.42fc06e8b4",
-      "guid": "https://www.mitti.se/nyheter/nu-kommer-de-nya-sopkarlen--upp-till-fyra-karl-pa-tomten-6.3.382136.42fc06e8b4",
-      "image": "https://www.mitti.se/image-3.380542.306235.20260913053007.d50573da94?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789275600000
-    },
-    {
-      "title": "De stormtrivs hemma – vid hårt trafikerade rondellen på Brommaplan",
-      "description": "Paret har bott vid Brommaplansrondellen i 33 år",
-      "link": "https://www.mitti.se/nyheter/de-stormtrivs-hemma--vid-hart-trafikerade-rondellen-pa-brommaplan-6.3.383732.bb57e27bcb",
-      "guid": "https://www.mitti.se/nyheter/de-stormtrivs-hemma--vid-hart-trafikerade-rondellen-pa-brommaplan-6.3.383732.bb57e27bcb",
-      "image": "https://www.mitti.se/image-3.380736.306334.20260913051210.1.4c898c2357?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789273800000
-    },
-    {
-      "title": "Tyresöbor inför valdagen – våra viktigaste frågor",
-      "description": "Väljarnas viktigaste valfrågor – Tyresöborna inför valdagen 2026.",
-      "link": "https://www.mitti.se/nyheter/tyresobor-infor-valdagen--vara-viktigaste-fragor-6.3.382173.72be23cd6d",
-      "guid": "https://www.mitti.se/nyheter/tyresobor-infor-valdagen--vara-viktigaste-fragor-6.3.382173.72be23cd6d",
-      "image": "https://www.mitti.se/image-3.380219.305626.20260913050415.d432012f57?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789272540000
-    },
-    {
-      "title": "Stjärnkocken dök efter skräp på Djurgården",
-      "description": "Nya satsningen Östersjöveckan ska sprida kunskap om hur vi kan göra Östersjön till ett friskare hav. Flera aktörer på Djurgården i Stockholm gick ihop.",
-      "link": "https://www.mitti.se/nyheter/stjarnkocken-dok-efter-skrap-pa-djurgarden-6.3.382282.902ad263dc",
-      "guid": "https://www.mitti.se/nyheter/stjarnkocken-dok-efter-skrap-pa-djurgarden-6.3.382282.902ad263dc",
-      "image": "https://www.mitti.se/image-3.380140.305479.20260913044935.9c032ea514?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789272360000
-    },
-    {
-      "title": "Här är Huddinges 5 hetaste valfrågor",
-      "description": "Här är Huddinges 5 hetaste valfrågor: skolan, bostadsbyggandet, gängkriminaliteten, stora barngrupper i förskolan och den omstridda hemtjänstmodellen.",
-      "link": "https://www.mitti.se/nyheter/har-ar-huddinges-5-hetaste-valfragor-6.3.384802.9ecb6dfc76",
-      "guid": "https://www.mitti.se/nyheter/har-ar-huddinges-5-hetaste-valfragor-6.3.384802.9ecb6dfc76",
-      "image": "https://www.mitti.se/image-3.378795.307049.20260913061432.937f858dab?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789272000000
-    },
-    {
-      "title": "Var med och förbättra tryggheten i Skärholmen",
-      "description": "Tyck till om otrygga platser i ditt närområde i Skärholmen",
-      "link": "https://www.mitti.se/nyheter/var-med-och-forbattra-tryggheten-i-skarholmen-6.3.384627.f5b7c8e788",
-      "guid": "https://www.mitti.se/nyheter/var-med-och-forbattra-tryggheten-i-skarholmen-6.3.384627.f5b7c8e788",
-      "image": "https://www.mitti.se/image-3.381257.306774.20260913110831.1.819ee0ac23?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1789272000000
     }
   ]
 };
