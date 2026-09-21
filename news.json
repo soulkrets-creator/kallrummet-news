@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:47:06.853Z",
+  "updatedAt": "2026-09-21T02:14:29.144Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
@@ -12,6 +12,46 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790009100000
+    },
+    {
+      "title": "Bibliotekslån lämnades tillbaka – efter 132 år",
+      "description": "När John Hanson lämnade tillbaka bibliotekslånet var det 132 år försenat. Förseningsavgiften för det: 118 000 kronor. – Oj, säger John Hanson till NBC News . Men 84-åringen slapp betala avgiften.",
+      "link": "https://www.expressen.se/nyheter/varlden/bibliotekslan-lamnades--tillbaka-efter-132-ar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bibliotekslan-lamnades--tillbaka-efter-132-ar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789953668000
+    },
+    {
+      "title": "Båda syskonen dog vid husbygge",
+      "description": "Elizabeth Lynchs bror Timothy dog under ett husbygge. Nu har trebarnsmamman själv dött i samband med ett husbygge, skriver Irish Mirror . – En fruktansvärd tragedi, säger ministern Niall Collins.",
+      "link": "https://www.expressen.se/nyheter/varlden/bada-syskonen--dog-vid-husbygge/",
+      "guid": "https://www.expressen.se/nyheter/varlden/bada-syskonen--dog-vid-husbygge/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789947767000
+    },
+    {
+      "title": "Trumps tre alternativ om Iran",
+      "description": "Trump överväger tre alternativ när det gäller kriget mot Iran. – Väldigt stora saker kommer att hända snart, säger Trump till Fox News .",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-tre-alternativ-om-iran/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-tre-alternativ-om-iran/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789944307000
+    },
+    {
+      "title": "Hårda domen mot Trumps plan om kriget",
+      "description": "Sju av tio amerikaner anser att Trump-administrationen saknar en plan för att avsluta Irankriget. Det visar en ny undersökning gjord av Trump-vänliga Fox News . – Två saker är annorlunda här, säger den republikanske experten Daron Shaw.",
+      "link": "https://www.expressen.se/nyheter/varlden/harda-domen-mot-trumps-plan-om-kriget/",
+      "guid": "https://www.expressen.se/nyheter/varlden/harda-domen-mot-trumps-plan-om-kriget/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1789944302000
     },
     {
       "title": "Teorin om bonusprinsen: ”Kungens sista önskan”",
@@ -304,26 +344,6 @@
       "timestamp": 1789918608000
     },
     {
-      "title": "Leijonborg knep riksdagsmandat i Malmö – toppnamnet: ”Besviken”",
-      "description": "Stockholmaren Lars Leijonborg knep Liberalernas riksdagsmandat i Malmö. Det lokala toppnamnet, Simon Chrisander, blir därmed utan plats och är besviken. – Syftet var ju att rädda kvar partiet. Intentionen var inte detta, säger han till SVT.",
-      "link": "https://www.expressen.se/nyheter/politik/leijonborg-knep-riksdagsmandat-i-malmo-toppnamnet-besviken/",
-      "guid": "https://www.expressen.se/nyheter/politik/leijonborg-knep-riksdagsmandat-i-malmo-toppnamnet-besviken/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789918356000
-    },
-    {
-      "title": "Dawit Isaak och 20-tal andra har suttit fängslade i 25 år: ”Enorm sorg”",
-      "description": "25 år har gått sedan Dawit Isaak och hundratals andra fängslades av Eritreas regim. Det uppmärksammades på söndagen på en demonstration i Stockholm. – Sorg, jag kan inte förstå att det har gått 25 år, säger Vanessa Tsehaye.",
-      "link": "https://www.expressen.se/nyheter/sverige/dawit-isaak-och-20-tal-andra-har-suttit-fangslade-i-25-ar-enorm-sorg/",
-      "guid": "https://www.expressen.se/nyheter/sverige/dawit-isaak-och-20-tal-andra-har-suttit-fangslade-i-25-ar-enorm-sorg/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789918154000
-    },
-    {
       "title": "Volvo Cars nya vd överraskar analytiker som spår kursfall",
       "description": "Klaus Zellmer, vd för Škoda, tar över Volvo Cars senast den 1 oktober 2027. Beskedet var väntat, men inte namnet. Handelsbankens fordonsanalytiker Hampus Engellau hade räknat med en intern lösning och spår en negativ kursreaktion när börsen öppnar på måndag. Volvo Cars styrelse presenterade Zellmer på söndagen, tre dagar efter kapitalmarknadsdagen där Håkan Samuelsson flaggade […]",
       "link": "https://www.dagensps.se/bors-finans/aktier/volvo-cars-nya-vd-overraskar-analytiker-som-spar-kursfall/",
@@ -332,16 +352,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1789916997000
-    },
-    {
-      "title": "Madeleine dejtade dömde Brattåsmannen",
-      "description": "Deras blickar möts i korridorerna på jobbet. Hon är öppen för ett nytt förhållande, han bjuder hem henne på tacokväll. På väggen hänger en tavla med ett blodigt kvinnoansikte. – När jag frågade varför han hade en sådan tavla sa han ”jag är lite mörk och mystisk”, säger Madeleine Mering Hjelm, 37 som dejtade Johan Jacobsson, 44, nu dömd för medhjälp till dubbelmordet i Brattås. Hör hela Madeleines historia och den dömde Johan Jacobssons ord från rättegången i veckans avsnitt av Krimrummet.",
-      "link": "https://www.expressen.se/podcast/krimrummet/madeleine-dejtade-domde-brattasmannen/",
-      "guid": "https://www.expressen.se/podcast/krimrummet/madeleine-dejtade-domde-brattasmannen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789916558000
     },
     {
       "title": "Nu kan du prova Hellraiser: Revival",
@@ -362,16 +372,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1789916018000
-    },
-    {
-      "title": "Hål i kondomer kan ha bidragit till babyboom",
-      "description": "Det föddes rekordmånga barn i Sverige under 40-talet. Varför? En förklaring kan vara dålig kvalitet – på rågummi. – Produkterna som skulle skydda kanske inte skyddade så bra ändå, säger forskaren Anna Ines Bergman till Vetenskapsradion.",
-      "link": "https://www.expressen.se/nyheter/sverige/hal-i-kondomer-kan-ha-bidragit-till-babyboom/",
-      "guid": "https://www.expressen.se/nyheter/sverige/hal-i-kondomer-kan-ha-bidragit-till-babyboom/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1789915170000
     },
     {
       "title": "Ryska dumavalet: Tekniskt haveri stoppade röstningen i Moskva och väljare hänvisades till nätet",
