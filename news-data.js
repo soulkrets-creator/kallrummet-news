@@ -1,11 +1,41 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-22T23:21:51.825Z",
+  "updatedAt": "2026-09-23T02:19:15.340Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "Trump kritiseras av egna leden för hyllningen av Mamdani",
+      "description": "Donald Trump har en vänskaplig relation med socialisten Zohran Mamdani. Det skapar stor frustration inom presidentens egna led inför det viktiga mellanårsvalet. ”Han måste sluta med det där”, ”en fullständig mardröm” och ”det hjälper inte”, säger republikanska källor.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-kritiseras-av-egna-leden-for-hyllningen-av-mamdani/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-kritiseras-av-egna-leden-for-hyllningen-av-mamdani/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790128123000
+    },
+    {
+      "title": "Kvinna gick på konsert – förlamad i ”bisarr” olycka",
+      "description": "Jamie Ulshoffer gick på en konsert. Då blev hon förlamad i en ”bisarr” olycka, skriver New York Post . – Jag kommer inte att kunna leka med mina barn, säger Jamie.",
+      "link": "https://www.expressen.se/noje/kvinna-gick-pa-konsert-forlamad-i-bisarr-olycka/",
+      "guid": "https://www.expressen.se/noje/kvinna-gick-pa-konsert-forlamad-i-bisarr-olycka/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790122949000
+    },
+    {
+      "title": "The 'Batman Returns' Batmobile",
+      "description": "",
+      "link": "https://uncrate.com/the-batman-returns-batmobile/",
+      "guid": "https://uncrate.com/the-batman-returns-batmobile/",
+      "image": "https://uncrate.com/assets_c/2026/09/batman-returns-batmobile-4-thumb-960xauto-193136.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790119800000
+    },
+    {
       "title": "Motorola visar upp signature 27",
-      "description": "Först ut med Snapdragon 8 Elite Extreme Gen 6 Idag presenterade Qualcomm sin nya flaggskeppsprocessor, Snapdragon 8 Elite Extreme Gen 6 och Motorola blir en av de första att visa upp en telefon med det nya chipet. Namnet är signature 27 som har inte mindre än fyra kameror. Huvudkameran är på 50 megapixlar och har en Sony LYTIA 910-sensor. Till det kommer en telefotolins på 200 megapixlar. Ljudet kommer från B&O. Luren har hela sex antenner, vilket Motorola hävdar ska ge extra bra uppkoppling. Så mycket mer än så avslöjar Motorola inte just nu tyvärr. L&auml;s vidare och kommentera: https://feber.se/mobil/motorola-visar-upp-signature-27/496390/ L&auml;s mer om signature 27 , Sony LYTIA 910 , B&O , Qualcomm , Snapdragon 8 Elite Extreme Gen 6",
+      "description": "Med Snapdragon 8 Elite Extreme Gen 6 Idag presenterade Qualcomm sin nya flaggskeppsprocessor, Snapdragon 8 Elite Extreme Gen 6 och Motorola blir en av de första att visa upp en telefon med det nya chipet. Namnet är signature 27 som har inte mindre än fyra kameror. Huvudkameran är på 50 megapixlar och har en Sony LYTIA 910-sensor. Till det kommer en telefotolins på 200 megapixlar. Ljudet kommer från B&O. Luren har hela sex antenner, vilket Motorola hävdar ska ge extra bra uppkoppling. Så mycket mer än så avslöjar Motorola inte just nu tyvärr. L&auml;s vidare och kommentera: https://feber.se/mobil/motorola-visar-upp-signature-27/496390/ L&auml;s mer om signature 27 , Sony LYTIA 910 , B&O , Qualcomm , Snapdragon 8 Elite Extreme Gen 6",
       "link": "https://feber.se/mobil/motorola-visar-upp-signature-27/496390/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/mobil/motorola-visar-upp-signature-27/496390/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -494,16 +524,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790093312000
     },
     {
-      "title": "Lämnar – i protest mot Trump",
-      "description": "USA:s president talar i FN",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/kuba-lamnar-mitt-under-trumps-fn-tal",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/kuba-lamnar-mitt-under-trumps-fn-tal",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790093266000
-    },
-    {
       "title": "18 tjänster hotas på Folkhälsans förbund",
       "description": "Folkhälsans förbund startar omställningsförhandlingar. Personalen väntas minska med 18 årsverken.",
       "link": "https://yle.fi/a/7-10105696?origin=rss",
@@ -674,16 +694,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790089200000
     },
     {
-      "title": "Sonen bröt ihop – hon kräver ändrad skolmat",
-      "description": "Linnéa: ”Han var helt förkrossad” • Läs mer i LTZ",
-      "link": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.ltz.se%2Fostersund%2Fdarfor-kraver-linnea-andring-av-skolmaten-i-ostersund%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
-      "guid": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.ltz.se%2Fostersund%2Fdarfor-kraver-linnea-andring-av-skolmaten-i-ostersund%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790089200000
-    },
-    {
       "title": "Rare Cars: The World's Most Exclusive Rides",
       "description": "",
       "link": "https://uncrate.com/rare-cars-the-worlds-most-exclusive-rides/",
@@ -774,7 +784,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790087400000
     },
     {
-      "title": "Världens ledare samlas i FN – Stubb varnar för multipolär värld och lyfter Gaza",
+      "title": "Världens ledare samlas i FN – Stubb varnar för multipolär värld",
       "description": "Generalförsamlingen samlar nästan 130 stats- och regeringschefer.",
       "link": "https://yle.fi/a/7-10105692?origin=rss",
       "guid": "https://yle.fi/a/7-10105692",
@@ -1634,16 +1644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790022603000
     },
     {
-      "title": "Redwood Empire The Colonel Armstrong Wheated Bourbon",
-      "description": "",
-      "link": "https://uncrate.com/redwood-empire-the-colonel-armstrong-wheated-bourbon/",
-      "guid": "https://uncrate.com/redwood-empire-the-colonel-armstrong-wheated-bourbon/",
-      "image": "https://uncrate.com/assets_c/2026/09/redwood-empire2-thumb-960xauto-193116.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790020801000
-    },
-    {
       "title": "Skandalbolag i konkurs – boende hoppas på nystart",
       "description": "Säbyholm Fastigheter AB har gått i konkurs efter långvariga problem med vatten och avlopp. Nu hoppas 155 boende i Säbyholm på en seriös förvaltare och en ny start.",
       "link": "https://www.mitti.se/nyheter/skandalbolag-i-konkurs--boende-hoppas-pa-nystart-6.3.385715.63453f9fc7",
@@ -1758,7 +1758,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Budget-husmansrestaurangen och kaféet Kaffesjuan på Värsta álle i Spånga centrum bommar igen: \"Nya äventyr väntar\"",
       "link": "https://www.mitti.se/nyheter/budgethusman-bommar-igen-nya-aventyr-vantar-6.3.386249.b1871c9d1b",
       "guid": "https://www.mitti.se/nyheter/budgethusman-bommar-igen-nya-aventyr-vantar-6.3.386249.b1871c9d1b",
-      "image": "https://www.mitti.se/image-3.261146.308267.20260922163750.1.85f0abf3c5?format=jpeg",
+      "image": "https://www.mitti.se/image-3.261146.308267.20260923004925.1.8b50b14249?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790001783000
