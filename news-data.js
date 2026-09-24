@@ -1,8 +1,48 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-23T23:18:21.506Z",
+  "updatedAt": "2026-09-24T02:06:33.542Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Snapdragon X2 får stöd för Linux",
+      "description": "Kör Debian och Ubuntu på ARM Om du är en Linux-fanboy och vill kunna köra Debian eller Ubuntu på en ARM-baserad maskin har vi glada nyheter! Qualcomm berättade nämligen idag att deras Snapdragon X2-processorer kommer att få stöd för Linux. Först ut är Debian, men även Ubuntu är med på tåget och arbetar på att bli certifierade för plattformen, som just nu är i en tidig utvecklarversion. Planen verkar vara att få till bra stöd för chipets alla funktioner och få in dessa i Linux-kärnan, istället för att lappa ovanpå med extra drivrutiner eller vad det nu kan vara. På så sätt hoppas man kunna få snabbare stöd för nya distar av Linux. Man börjar med Debian 13. En första milstolpe kommer i november och fortsätter sedan in i 2026. En gissning är att man kommer att lansera något nästa höst. Läs mer nördiga detaljer på länken nedan! Transparens: Qualcomm har betalat resa och boende till Snapdragon Summit. L&auml;s vidare och kommentera: https://feber.se/pc/snapdragon-x2-far-stod-for-linux/496495/ L&auml;s mer om Debian , Ubuntu , Linux , Qualcomm , Snapdragon X2 , ARM , Qualcomm Snapdragon X2",
+      "link": "https://feber.se/pc/snapdragon-x2-far-stod-for-linux/496495/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/snapdragon-x2-far-stod-for-linux/496495/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790212200000
+    },
+    {
+      "title": "Manchester United-fans får specialutgåva av Surface Laptop",
+      "description": "Så gör du för att vinna den! Snapdragon är sponsorer av fotbollsklubben Manchester United och har sin logga på lagets tröjor. Nu får man sällskap av kompisen Microsoft, som sätter sin Surface-logga på ryggen på tröjorna. För att fira detta har man tagit fram en specialutgåva av Surface Laptop med Manchester United-logga på baksidan och Snapdragon-logga vid tangentbordet. Maskinen har X2 Elite på insidan, 16 GB RAM och 512 GB SSD. Tangentbordet är såklart i engelsk layout. Det enda sättet att få tag på denna verkar vara att vinna den, och det gör man genom att fylla i formuläret nedan. Transparens: Qualcomm har betalat resa och boende till Snapdragon Summit. L&auml;s vidare och kommentera: https://feber.se/pc/manchester-united-fans-far-specialutgava-av-surface-laptop/496496/ L&auml;s mer om Snapdragon , Manchester United , Surface Laptop , Microsoft , X2 Elite , Snapdragon X Elite",
+      "link": "https://feber.se/pc/manchester-united-fans-far-specialutgava-av-surface-laptop/496496/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/manchester-united-fans-far-specialutgava-av-surface-laptop/496496/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790211600000
+    },
+    {
+      "title": "Attacker mot Kiev",
+      "description": "Minst en död",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b9f41e-be60-42bb-9bd4-788c08ed4243",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=10b9f41e-be60-42bb-9bd4-788c08ed4243",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790210616000
+    },
+    {
+      "title": "Microsofts nya mus ger haptisk feedback",
+      "description": "Vi har känt på den! Den trevligaste nyheten från Microsoft under Snapdragon Summit kan vara nya Surface Mouse. Den lilla rackaren kommer i två färger och har ett litet trick som kanske kan uppskattas. Men vi börjar med formen, som jag tycker ska uppskattas i sin enkelhet. Som användare av Logitech MX Master är jag van vid högre möss, men känslan i Surface Mouse är bra. Förutom själva formen är gummiytan på musen extremt mysig att röra och både hjulet och den inställbara knappen framför hjulet har bra känsla och de är i metall. Själva knapparna är fysiska sådana, jag trodde först att den haptiska feedbacken var fokuserad kring dessa. Men de är alltså helt vanliga knappar som ligger under gummit. Den haptiska feedbacken sker istället när man använder musen. Det kan handla om att du drar ett fönster så att det ska fästa vid vänsterkanten på skärmen och när det kommer på plats får du feedback. Eller att du drar i ett inställningshjul och får feedback vid varje steg. Stödet ska finnas i Windows och Microsoft sa på plats att det kommer stöd i flertalet appar också. Prislappen ligger på 80 dollar och man börjar sälja musen den 13 oktober på utvalda marknader. L&auml;s vidare och kommentera: https://feber.se/pc/microsofts-nya-mus-ger-haptisk-feedback/496494/ L&auml;s mer om Windows , Snapdragon Summit , Microsoft , Surface Mouse , Logitech MX Master , hårdvara , Haptisk feedback",
+      "link": "https://feber.se/pc/microsofts-nya-mus-ger-haptisk-feedback/496494/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/microsofts-nya-mus-ger-haptisk-feedback/496494/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790210400000
+    },
     {
       "title": "Svenska banker och fonder tog 21,6 miljarder i avgifter för att slarva bort dina pengar",
       "description": "Swedbank Robur tog 4 358 000 000 kronor i avgifter ur fyra fonder som förlorade 10 475 000 000 kronor av spararnas pengar på fem år. Hur är det möjligt? Här är listan över 39 fonder som krympte medan börsen steg 43 procent, och över fondbolagen som tog 21 625 000 000 kronor i ersättning […]",
@@ -32,6 +72,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1790205244000
+    },
+    {
+      "title": "Massimo Mini Truck",
+      "description": "",
+      "link": "https://uncrate.com/massimo-mini-truck/",
+      "guid": "https://uncrate.com/massimo-mini-truck/",
+      "image": "https://uncrate.com/assets_c/2026/09/massimo-mini-truck-3-darkened-thumb-960xauto-193154.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790204400000
     },
     {
       "title": "Östersjön värms snabbt upp – svenska ostkusten är ett av de varmaste ställena",
@@ -78,7 +128,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "",
       "link": "https://uncrate.com/barbour-icons-heritage-quilted-jacket/",
       "guid": "https://uncrate.com/barbour-icons-heritage-quilted-jacket/",
-      "image": "https://uncrate.com/assets_c/2026/09/barbour-icons-heritage-quilted-jacket-1-thumb-960xauto-193150.jpg",
+      "image": "https://uncrate.com/assets_c/2026/09/barbour-icons-heritage-quilted-jacket-2-thumb-960xauto-193164.jpg",
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1790200800000
@@ -162,6 +212,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1790195619000
+    },
+    {
+      "title": "Forskare i adhd och autism: Detta är en förbisedd förklaring till att antalet diagnoser har exploderat",
+      "description": "En studie av fler än 700 000 personer visar att det under de senaste tio åren har skett en stor förändring i gruppen barn och ungdomar som diagnostiserats med adhd eller autism.",
+      "link": "https://illvet.se/halsa/enorm-studie-av-adhd-och-autism-detta-ar-en-forbisedd-forklaring-till-varfor-antalet-diagnoser-har-exploderat",
+      "guid": "https://illvet.se/halsa/enorm-studie-av-adhd-och-autism-detta-ar-en-forbisedd-forklaring-till-varfor-antalet-diagnoser-har-exploderat",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1790195454000
     },
     {
       "title": "Den brutale kvinnomördaren släpptes ur fängelset efter 15 år. Då inledde han en karriär som journalist – och listig seriemördare",
@@ -672,16 +732,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1790178631000
-    },
-    {
-      "title": "Känd kriminell pekas ut i utredningen om röstfusk",
-      "description": "En kriminell man med somalisk bakgrund pekas ut i utredningen som en av huvudpersonerna i valfuskhärvan i Borlänge. Tillsammans med en annan namngiven person ska han ha samlat ihop röstberättigade och observerats med förtryckta valsedlar utanför vallokaler. Enligt uppgifter i utredningen ska de ha åkt runt i en röd Toyota – registrerad på en kommunal tjänsteman i Borlänge.",
-      "link": "https://www.expressen.se/nyheter/sverige/kand-kriminell-pekas-ut-i-utredningen-om-rostfusk-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kand-kriminell-pekas-ut-i-utredningen-om-rostfusk-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790178478000
     },
     {
       "title": "Politikerveteran i Österåker avliden",
@@ -1264,36 +1314,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790158019000
     },
     {
-      "title": "Chrome får vertikala flikar",
-      "description": "Bobby jublar Google har nu rullat ut två uppdateringar i Chrome som ska göra det lättare att hålla ordning på flikar när du surfar. Den största nyheten är möjligheten att använda vertikala flikar istället för att ha dem i den klassiska raden längst upp. Det gör att man kan få bättre koll på sidtitlarna om du har många flikar öppna och tanken är att det ska bli enklare att navigera mellan dina flikgrupper utan att det blir trångt. En annan uppdatering som rullas ut är att funktionen Öppna i läsläge rensar ut allt visuellt brus och distraktioner. Det ska ge en mer ren och fokuserad textyta som då ska göra det enklare att fokusera på texten istället för att bli avbruten av annat på skärmen. L&auml;s vidare och kommentera: https://feber.se/internet/chrome-far-vertikala-flikar/496449/ L&auml;s mer om vertikala flikar , läsläge , Google Chrome , Google , webbläsare , flikhantering , Chrome , flikgrupper",
-      "link": "https://feber.se/internet/chrome-far-vertikala-flikar/496449/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/chrome-far-vertikala-flikar/496449/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790157600000
-    },
-    {
-      "title": "Harry Potter populärt för att somna",
-      "description": "Enligt ny ljudboks-studie Forskare på Uppsala universitet har undersökt hur ljudböcker påverkar sömnen för personer som använder ljudböcker för att somna på kvällen. I studien kom man bland annat fram till att lyssningen kan leda till ett slags beroende då 83 procent av deltagarna i studien uppgav att de hade svårt att somna utan ljudbok efter att de vant sig vid att somna till sådana. Vidare framkom det att nästan en tredjedel av deltagarna i studien ofta lyssnade på samma ljudbok när de skulle somna. Man såg även att böckerna om Harry Potter och böcker upplästa av Stephen Fry eller Astrid Lindgren var vanliga att välja som \"sovbok\". En annan strategi var att medvetet välja ointressanta eller tråkiga böcker att somna till. Som råd till de som använder ljudböcker för att somna nämner forskarna att de bör ställa in en timer på appen så att ljudboken stängs av automatiskt efter en viss tid. Om ljudboken fortsätter spela hela natten riskerar bakgrundsljudet att störa hjärnans djupa återhämtning och sömnkvalitet. I studien ingick 1136 deltagare i Sverige. 90 procent var kvinnor och 53 procent var 50 år eller äldre. Därför går det inte att dra några slutsatser om hur vanligt sänglyssnandet är i för hela befolkningen. Streamingtjänsten Storytel har tidigare uppgett att hundratusentals personer i Sverige lyssnar på ljudböcker för att somna, skriver DN. L&auml;s vidare och kommentera: https://feber.se/vetenskap/harry-potter-populart-for-att-somna/496478/ L&auml;s mer om Harry Potter , Stephen Fry , Storytel , Astrid Lindgren , Uppsala universitet , ljudböcker , sömn",
-      "link": "https://feber.se/vetenskap/harry-potter-populart-for-att-somna/496478/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/harry-potter-populart-for-att-somna/496478/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790157000000
-    },
-    {
-      "title": "Sverige har fått en ny spelsajt",
-      "description": "Petter Hegevall med vänner har dragit igång nya MISSIL Precis som utlovat drog den svenska spelprofilen och före detta chefredaktör för svenska Gamereactor, Petter Hegevall, igång sin egen spelsajt MISSIL förra veckan. Målet med denna sida är att återskapa den där speciella glädjen och kreativiteten som fanns i spelmedia en gång i tiden, men då i modern förpackning. Men det blir inte enbart spel på sajten, tanken är att plattformen ska bli en samlingsplats för alla som älskar populärkultur. Besökare kan förvänta sig allt från spelnyheter och -recensioner till hårdvaruester, filmartiklar, podcasts samt quiz. På sidan kan man också hitta sajtens egna spel, MISSIL CORE, som man kan spela direkt i webbläsaren och tävla om priser. Bakom kulisserna hittar man en redaktion på 16 personer som till viss del består av välbekanta ansikten från spelmediasverige. Du hittar MISSIL via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/sverige-har-fatt-en-ny-spelsajt/496476/ L&auml;s mer om Petter Hegevall , Gamereactor , MISSIL , MISSIL CORE , populärkultur , spelmedia",
-      "link": "https://feber.se/spel/sverige-har-fatt-en-ny-spelsajt/496476/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/sverige-har-fatt-en-ny-spelsajt/496476/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790156400000
-    },
-    {
       "title": "Äldre man hittad död i vattnet på Värmdö",
       "description": "Person hittad död i vattnet efter drunkning i Farstaviken på Värmdö",
       "link": "https://www.mitti.se/nyheter/aldre-man-hittad-dod-i-vattnet-pa-varmdo-6.3.387397.33f32c078e",
@@ -1632,16 +1652,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1790116200000
-    },
-    {
-      "title": "Tim Burton on The Batmobile Framed Print",
-      "description": "",
-      "link": "https://uncrate.com/tim-burton-on-the-batmobile-framed-print/",
-      "guid": "https://uncrate.com/tim-burton-on-the-batmobile-framed-print/",
-      "image": "https://uncrate.com/assets_c/2025/10/burton-batmobile1-darkened-thumb-960xauto-186158.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790114400000
     },
     {
       "title": "Syskonen från USA återvände till rötterna på gården i Järva",
@@ -3192,16 +3202,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1789895645000
-    },
-    {
-      "title": "Katastrofen ledde till 1 300 dödsoffer – nu kan forskare ha hittat den bekymmersamma orsaken till raset",
-      "description": "Ett brett urval av forskare har tittat närmare på varför enorma mängder vatten, lera och sten spolade bort tusentals människors hem i Nepal och lämnade familjer i djup sorg över förlorade och försvunna familjemedlemmar. Framför allt två väderfenomen före katastrofen kan ha påverkat händelseförloppet.",
-      "link": "https://illvet.se/klimat/katastrofen-ledde-till-1-300-dodsoffer-nu-kan-forskare-ha-hittat-den-bekymmersamma-orsaken-till-raset",
-      "guid": "https://illvet.se/klimat/katastrofen-ledde-till-1-300-dodsoffer-nu-kan-forskare-ha-hittat-den-bekymmersamma-orsaken-till-raset",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1789894853000
     },
     {
       "title": "Världens bästa squashspelare kommer till Stockholm",
