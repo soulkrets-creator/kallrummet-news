@@ -1,17 +1,47 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-24T23:39:33.511Z",
+  "updatedAt": "2026-09-25T02:23:48.879Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Tre till sjukhus i skottlossning",
-      "description": "Tre till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f51d3d02-56db-4676-b227-0e726c4dc40b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f51d3d02-56db-4676-b227-0e726c4dc40b",
+      "title": "Ny dataläcka drabbar Revolut-kunder – den andra på två veckor",
+      "description": "Revolut har på kort tid drabbats av två separata dataincidenter där kunduppgifter hamnat i orätta händer. I den ena läckan kom bedragare över kopior av pass och körkort. Nu har även en amerikansk samarbetspartner utsatts för ett intrång där personuppgifter från Revolut-kunder kan ha stulits. På sistone har det gått riktigt bra för Revolut. I […]",
+      "link": "https://www.dagensps.se/varlden/ny-datalacka-drabbar-revolut-kunder-den-andra-pa-tva-veckor/",
+      "guid": "https://www.dagensps.se/?p=1676360",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/sdldhu9mwkmed8-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790302749000
+    },
+    {
+      "title": "Svenskarna synade inte Riksbanken – 3 300 miljarder kronor kan påverkas av högre räntor",
+      "description": "Andelen svenska bolån med rörlig ränta har ökat kraftigt och ligger nu på historiskt höga nivåer. Hela 3 329 miljarder kronor av hushållens bostadslån har rörlig ränta. När Riksbanken nu signalerar en serie räntehöjningar kan rekordmånga bolånetagare snabbt få högre kostnader. Det blir räntehöjningar, först i december och sedan i februari. Så ser åtminstone SBAB:s […]",
+      "link": "https://www.dagensps.se/bors-finans/svenskarna-synade-inte-riksbanken-3-300-miljarder-kronor-kan-paverkas-av-hogre-rantor/",
+      "guid": "https://www.dagensps.se/?p=1676357",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlejo34ia32my-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790300406000
+    },
+    {
+      "title": "Älgolyckorna dubbleras nu i september och oktober – brunstiga älgtjurar springer förvirrat över vägarna",
+      "description": "Hösten innebär kraftigt ökad risk för att möta en älg på svenska vägar. Under september och oktober kan antalet älgolyckor i flera län vara dubbelt så högt som under andra delar av året. Samtidigt uppmanas bilister att ta viltvarningsskyltarna på större allvar. September och oktober innebär älgjakt för många av Sveriges jägare. Samtidigt har det […]",
+      "link": "https://www.dagensps.se/life-science/algolyckorna-dubbleras-nu-i-september-och-oktober-brunstiga-algtjurar-springer-forvirrat-over-vagarna/",
+      "guid": "https://www.dagensps.se/?p=1676350",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlj7dchp-ggme-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790296511000
+    },
+    {
+      "title": "Större risk för konflikter i Östersjön då skuggflottan nu seglar under rysk flagg",
+      "description": "Bordningarna har gett effekt och statslösa tankrar har minskat, men det är inte bara positivt säger experter.",
+      "link": "https://yle.fi/a/7-10105811?origin=rss",
+      "guid": "https://yle.fi/a/7-10105811",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790292745000
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790296214000
     },
     {
       "title": "Trump stoppar CNN igen",
@@ -21,7 +51,37 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790291829000
+      "timestamp": 1790295114000
+    },
+    {
+      "title": "Skottlossning i villaområde i Jönköping",
+      "description": "Tre personer har förts till sjukhus efter en skottlossning i Hovslätt i Jönköping. Två män är allvarligt skadade – en kvinna är lindrigare skadad. – En man greps i nära anslutning till brottsplatsen, säger Gustav Belin, polisens ledningsbefäl.",
+      "link": "https://www.expressen.se/nyheter/sverige/skottlossning-i-villaomrade-i-jonkoping/",
+      "guid": "https://www.expressen.se/nyheter/sverige/skottlossning-i-villaomrade-i-jonkoping/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790293648000
+    },
+    {
+      "title": "Macron dementerar CIA-varning om rysk drönarattack mot Europa – attacker kan drabba Frankrike",
+      "description": "Frankrikes president Emmanuel Macron dementerar uppgifter om att CIA skulle ha varnat Frankrike för en möjlig rysk drönarattack mot södra Europa. Samtidigt varnar han för att hotet från Ryssland är verkligt och att liknande attacker kan drabba Frankrike. Emmanuel Macron har länge varit högljudd med att Europa måste satsa betydligt mer pengar på försvaret. När […]",
+      "link": "https://www.dagensps.se/varlden/macron-dementerar-cia-varning-om-rysk-dronarattack-mot-europa-attacker-kan-drabba-frankrike/",
+      "guid": "https://www.dagensps.se/?p=1676347",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlrbloq-pa9og-nh-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790293604000
+    },
+    {
+      "title": "1995 Land Rover Range Rover County Classic",
+      "description": "",
+      "link": "https://uncrate.com/1995-land-rover-range-rover-county-classic/",
+      "guid": "https://uncrate.com/1995-land-rover-range-rover-county-classic/",
+      "image": "https://uncrate.com/assets_c/2026/09/1995-range-rover-county-classic-by-congleton-5-thumb-960xauto-193169.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790290800000
     },
     {
       "title": "Konkret plan – Tyskland ska bara ha ren energi inom 20 år",
@@ -68,7 +128,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Två granater kastades in genom fönstret till en kvinna i Bagarmossen. Nu höjer Svea hovrätt straffet till mannen till fängelse i 16 år. Domen kom i september.",
       "link": "https://www.mitti.se/nyheter/straffet-hojs-efter-granatattacken-6.3.386223.aabd6934d2",
       "guid": "https://www.mitti.se/nyheter/straffet-hojs-efter-granatattacken-6.3.386223.aabd6934d2",
-      "image": "https://www.mitti.se/image-3.352721.308244.20260924221328.ce90ae66df?format=jpeg",
+      "image": "https://www.mitti.se/image-3.352721.308244.20260924235155.cd8f08bee9?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790286164000
@@ -514,16 +574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790265600000
     },
     {
-      "title": "1995 Land Rover Range Rover County Classic",
-      "description": "",
-      "link": "https://uncrate.com/1995-land-rover-range-rover-county-classic/",
-      "guid": "https://uncrate.com/1995-land-rover-range-rover-county-classic/",
-      "image": "https://uncrate.com/assets_c/2026/09/1995-range-rover-county-classic-by-congleton-5-thumb-960xauto-193169.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790265600000
-    },
-    {
       "title": "Glöm köttbullarna – nu blir det FC 27 på Ikea",
       "description": "EA SPORTS FC 27 släpps och intar Ikea i Gallerian i Stockholm 25–27 september 2026.",
       "link": "https://www.mitti.se/nyheter/glom-kottbullarna--nu-blir-det-fc-27-pa-ikea-6.3.387568.304ed39726",
@@ -874,16 +924,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790258301000
     },
     {
-      "title": "Trumps nya plan i mötet med Xi: Vill byta namn på AI",
-      "description": "Donald Trump vill skrota namnet artificiell intelligens. I stället ska tekniken heta ”super intelligence”, en fråga som är högt på agendan när han träffar Kinas Xi Jinping på torsdagen. Det var under sitt tal inför FN generalförsamling i tisdags som Donald Trump meddelade att artificiell intelligens hädanefter ska kallas ”super intelligence”, eller SI. Ordet ”artificiell” […]",
-      "link": "https://www.dagensps.se/foretag/digitalisering-ai/trumps-nya-plan-i-motet-med-xi-vill-byta-namn-pa-ai/",
-      "guid": "https://www.dagensps.se/?p=1676280",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/kinas-president-xi-jinping-togs-emot-av.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790258138000
-    },
-    {
       "title": "Ny trailer för Clayface",
       "description": "Filmen om lermannen har premiär om en månad Warner Bros. och DC Comics har släppt en sista trailern inför att deras kommande film Clayface har premiär nästa månad. Clayface handlar om hur Hollywood-hunken Matt Hagen (Tom Rhys Harries) blir vanställd efter överdos under en experimentell skönhetsbehandling, vilket leder till att hans kropp antar en lerliknande form. Clayface går upp på svenska biografer den 23 oktober. Ni kan kolla in senaste trailern ovan. L&auml;s vidare och kommentera: https://feber.se/film/ny-trailer-for-clayface/496535/ L&auml;s mer om Warner Bros , DC Comics , Clayface , Tom Rhys Harries , Matt Hagen , superhjältar , superskurkar",
       "link": "https://feber.se/film/ny-trailer-for-clayface/496535/?utm_source=rss&utm_medium=feed",
@@ -912,16 +952,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1790257517000
-    },
-    {
-      "title": "Högexplosivt nitroglycerin läckte ut: ”Jag var så j-a rädd”",
-      "description": "Ett tiotal medarbetare utsattes för livsfara när ett ton krutmassa med högexplosivt nitroglycerin läckte ut hos Eurenco. Tidernas mest kände svensk, Alfred Nobel, gjorde nitroglycerin till ett säkrare sprängämne genom att uppfinna sprängkapseln och dynamiten.De sista åren av sitt liv, 1894-1896, ägde han Bofors i Karlskoga och levde på Björkborns herrgård. Ett stenkast från herrgården […]",
-      "link": "https://www.dagensps.se/foretag/hogexplosivt-nitroglycerin-lackte-ut-jag-var-sa-j-a-radd/",
-      "guid": "https://www.dagensps.se/?p=1676261",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/sdlquteojl9dpg-nh-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790257395000
     },
     {
       "title": "Hotet mot V-toppen: \"Du borde avrättas\" – 19-åring dömd",
@@ -962,26 +992,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1790256495000
-    },
-    {
-      "title": "Plånböckerna har talat: Modellen är mest populär i Europa",
-      "description": "Volkswagen står för tre av fem bilar på försäljningslistans topp i Europa – sett till Sverige är märket starkt, men modellmässigt är det de inhemska alternativen som dominerar. Vad vi drömmer om att köpa? Ja, det är en annan sak. Dataforces senaste försäljningsstatistik över sålda personbilar i Europa bör vara något av ett glädjepiller för […]",
-      "link": "https://www.dagensps.se/motor/planbockerna-har-talat-modellen-ar-mest-popular-i-europa/",
-      "guid": "https://www.dagensps.se/?p=1676215",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/t-roc.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790256242000
-    },
-    {
-      "title": "Sju techbolag investerar nästan dubbelt så mycket som hela EU:s försvarsbudget",
-      "description": "Det gäller att ha perspektiv och jämföra med det vi kan relatera till. Amazon, Alphabet, Microsoft, Meta, Oracle, SpaceX och Apple investerar omkring 900 miljarder dollar i år, cirka 8 900 miljarder kronor. Det är nästan dubbelt så mycket som EU:s 27 medlemsländer lade på försvar i fjol. Pengarna går främst till datacenter och chip […]",
-      "link": "https://www.dagensps.se/bors-finans/aktier/sju-techbolag-investerar-nastan-dubbelt-sa-mycket-som-hela-eus-forsvarsbudget/",
-      "guid": "https://www.dagensps.se/?p=1676257",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/zuck-the-general.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790255932000
     },
     {
       "title": "138-åriga Suomen Tivoli slutar",
@@ -1222,16 +1232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790250280000
-    },
-    {
-      "title": "Facebook blev öppet för alla för 20 år sedan – Reidar Wasenius minns när nätet blev personligt",
-      "description": "I dag önskar han att Facebook skulle använda mer resurser för att göra plattformen trygg för användarna.",
-      "link": "https://yle.fi/a/7-10105814?origin=rss",
-      "guid": "https://yle.fi/a/7-10105814",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790249756000
     },
     {
       "title": "Ukraina får hjälp med cyberförsvar av OpenAI",
