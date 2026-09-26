@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-09-25T23:41:03.408Z",
+  "updatedAt": "2026-09-26T02:27:20.779Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Donald Trump avfärdar Irans förslag om vapenvila",
+      "description": "Donald Trump avfärdar Irans förslag om vapenvila. I stället planerar han att börja bomba igen – efter mellanårsvalet i november. Det uppger källor nära presidenten för Wall Street Journal.",
+      "link": "https://www.expressen.se/nyheter/varlden/donald-trump-avfardar-irans-forslag-om-vapenvila/",
+      "guid": "https://www.expressen.se/nyheter/varlden/donald-trump-avfardar-irans-forslag-om-vapenvila/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790389426000
+    },
+    {
+      "title": "SAS-plan på väg mot Sverige nödlandade",
+      "description": "På väg mot Sverige",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c924bfb6-b4c1-45ff-b517-db0730e9ba88",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c924bfb6-b4c1-45ff-b517-db0730e9ba88",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790389386000
+    },
+    {
+      "title": "Brandattack mot villa i Södertälje",
+      "description": "Villa utsatt för dåd",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d225763-a630-4ad9-b921-74d7fe1c1d69",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d225763-a630-4ad9-b921-74d7fe1c1d69",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790387001000
+    },
     {
       "title": "Donald Trumps seger – får använda kontroversiella databasen Save i valet",
       "description": "Högsta domstolen ger Donald Trump en efterlängtad seger inför mellanårsvalet. Delstaterna tillåts använda en kontroversiell databas med känslig information. Kritiker oroar sig för att tusentals väljare kan förlora sin rösträtt – men experter manar till lugn.",
@@ -14,6 +44,26 @@
       "timestamp": 1790378935000
     },
     {
+      "title": "Carpoint GT-K44 Porsche 944 Shooting Brake",
+      "description": "",
+      "link": "https://uncrate.com/carpoint-gt-k44-porsche-944-shooting-brake/",
+      "guid": "https://uncrate.com/carpoint-gt-k44-porsche-944-shooting-brake/",
+      "image": "https://uncrate.com/assets_c/2026/09/carpoint-gt-k44-porsche-944-shooting-brake-5-thumb-960xauto-193206.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790377200000
+    },
+    {
+      "title": "Barbour Lonnen Tartan Waterproof Jacket",
+      "description": "",
+      "link": "https://uncrate.com/barbour-lonnen-tartan-waterproof-jacket/",
+      "guid": "https://uncrate.com/barbour-lonnen-tartan-waterproof-jacket/",
+      "image": "https://uncrate.com/assets_c/2026/09/barbour-lonnen-tartan-waterproof-jacket-1-thumb-960xauto-193205.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790373600000
+    },
+    {
       "title": "Sagan är all: Svackorna avlöste varandra i EM-semifinalen",
       "description": "Finland kom till spel med högt självförtroende efter en tung seger över Italien i bagaget. ”Bröderna” spelade stundvis utmärkt men Frankrike var klart bättre.",
       "link": "https://yle.fi/a/7-10105861?origin=rss",
@@ -22,6 +72,26 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790370424000
+    },
+    {
+      "title": "Everyday Carry: Fusion",
+      "description": "",
+      "link": "https://uncrate.com/everyday-carry-fusion/",
+      "guid": "https://uncrate.com/everyday-carry-fusion/",
+      "image": "https://uncrate.com/assets_c/2026/09/EDC-fusion-darkened-thumb-960xauto-193213.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790370000000
+    },
+    {
+      "title": "Real Motors Project ARES Electric Café Racer",
+      "description": "",
+      "link": "https://uncrate.com/real-motors-project-ares-electric-cafe-racer/",
+      "guid": "https://uncrate.com/real-motors-project-ares-electric-cafe-racer/",
+      "image": "https://uncrate.com/assets_c/2026/09/real-motors-project-ares-electric-cafe-racer-11-thumb-960xauto-193212.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790369100000
     },
     {
       "title": "Masklarm i palten – skolan stängde",
@@ -674,16 +744,6 @@
       "timestamp": 1790346541000
     },
     {
-      "title": "V kan stötta Norlén som talman",
-      "description": "Vänsterpartiet kan stödja Moderaternas Andreas Norlén som talman om han läggs fram som förslag, erfar Ekot . En källa säger att han är bra på att få till ”komplicerade regeringsbildningar”. – Han har varit talman länge för riksdagen och skött det på ett bra sätt, säger partiledare Dadgostar till TV4.",
-      "link": "https://www.expressen.se/nyheter/politik/v-kan-stotta-norlen-som-talman/",
-      "guid": "https://www.expressen.se/nyheter/politik/v-kan-stotta-norlen-som-talman/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790346420000
-    },
-    {
       "title": "Fotboll: Fyra ligor går ihop – vill få bort Fifa-basen",
       "description": "Det handlar om pengar, makt och i någon mån om fotboll. Fyra av Europas största ligor går nu ihop i sin kritik av Fifa. Fifa är världsfotbollens organisation, Uefa är den europeiska fotbollens. Uefa har länge dominerat världsfotbollen och Fifa. Samtidigt har de stora europeiska ligorna försökt få mer av pengar och makt genom att […]",
       "link": "https://www.dagensps.se/foretag/fotboll-fyra-ligor-gar-ihop-vill-fa-bort-fifa-basen/",
@@ -702,16 +762,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1790346226000
-    },
-    {
-      "title": "V kan stötta M:s talman",
-      "description": "Ekot: Vill låta Norlén sitta kvar",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=ecd4e97d-c2bd-42fa-ae7f-9920bc6ee370",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=ecd4e97d-c2bd-42fa-ae7f-9920bc6ee370",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790345652000
     },
     {
       "title": "Snart kan Järfällaborna sortera sina sopor hemma",
@@ -782,16 +832,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790344720000
-    },
-    {
-      "title": "Svensk misstänkt i mordfallet med Anne-Elisabeth Hagen",
-      "description": "Pekas ut i Anne-Elisabeth Hagen-fallet",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=fbebe926-f979-4d61-ab6d-37bbd2249c4b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fbebe926-f979-4d61-ab6d-37bbd2249c4b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790344675000
     },
     {
       "title": "Man i Åbo döms till nio års fängelse för bland annat dråp med kniv",
@@ -1732,46 +1772,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790286164000
-    },
-    {
-      "title": "Garb: Sharp",
-      "description": "",
-      "link": "https://uncrate.com/garb-sharp/",
-      "guid": "https://uncrate.com/garb-sharp/",
-      "image": "https://uncrate.com/assets_c/2026/09/garb-sharp-2-darkened-thumb-960xauto-193186.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790283600000
-    },
-    {
-      "title": "Barbour Tartan Nimbus Wellington Boots",
-      "description": "",
-      "link": "https://uncrate.com/barbour-tartan-nimbus-wellington-boots/",
-      "guid": "https://uncrate.com/barbour-tartan-nimbus-wellington-boots/",
-      "image": "https://uncrate.com/assets_c/2026/09/barbour-nimbus-wellington-31-darkened-thumb-960xauto-193182.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790282700000
-    },
-    {
-      "title": "GoSun Moonrider 27 Electric Tractor",
-      "description": "",
-      "link": "https://uncrate.com/gosun-moonrider-27-electric-tractor/",
-      "guid": "https://uncrate.com/gosun-moonrider-27-electric-tractor/",
-      "image": "https://uncrate.com/assets_c/2026/09/gosun-moonrider-27-electric-tractor-2-thumb-960xauto-193185.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790281800000
-    },
-    {
-      "title": "Octoblue Blanco Tequila",
-      "description": "",
-      "link": "https://uncrate.com/octoblue-blanco-tequila/",
-      "guid": "https://uncrate.com/octoblue-blanco-tequila/",
-      "image": "https://uncrate.com/assets_c/2026/06/skull-liquor-2-thumb-960xauto-191626.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790280000000
     },
     {
       "title": "Stockholms stad polisanmäler misstänkt valfusk i Järva",
