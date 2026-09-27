@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-09-26T23:14:11.789Z",
+  "updatedAt": "2026-09-27T02:23:58.996Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Skottlossning i Nådendals spahotell",
+      "description": "Enligt polisen handlade det om ett gräl mellan två personer.",
+      "link": "https://yle.fi/a/7-10105918?origin=rss",
+      "guid": "https://yle.fi/a/7-10105918",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790475783000
+    },
+    {
+      "title": "Efter ett liv med ejdrarna tvingas forskaren Mikael Kilpi ge upp: ”Det är ett skräckens landskap”",
+      "description": "I decennier har biologen Mikael Kilpi följt ejdrarna i Hangö. Men havsörnens återkomst har utplånat kolonierna och nu sätter han punkt för arbetet.",
+      "link": "https://yle.fi/a/7-10099488?origin=rss",
+      "guid": "https://yle.fi/a/7-10099488",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790475734000
+    },
+    {
+      "title": "Udda detaljen när Trumps siffror kraschar",
+      "description": "Donald Trump fortsätter notera rekordlåga stödsiffror. Och med hans krasch ser republikanerna extremt sårbara ut i mellanårsvalet. En udda detalj sticker dessutom ut – som kan göra situationen extra besvärlig.",
+      "link": "https://www.expressen.se/nyheter/varlden/udda-detaljen-nar-trumps-siffror-kraschar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/udda-detaljen-nar-trumps-siffror-kraschar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790474027000
+    },
+    {
+      "title": "Påven Leo varnar: ”Maskinernas paradis kan ta över jorden”",
+      "description": "Dagens PS har tidigare berättat hur Anthropics vd vill bromsa AI-utvecklingen och fick medhåll av Elon Musk. Nu kommer samma uppmaning från en oväntad avsändare, nämligen påven. Påven Leo XIV inledde på fredagen sitt fyra dagar långa besök i Frankrike med att uppmana världen att tänka om kring AI. Tekniken riskerar att skapa en framtid […]",
+      "link": "https://www.dagensps.se/varlden/paven-leo-varnar-maskinernas-paradis-kan-ta-over-jorden/",
+      "guid": "https://www.dagensps.se/?p=1676814",
+      "image": "https://images.dagensps.se/app/uploads/2026/09/dagens-ps-1-16.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790473340000
+    },
     {
       "title": "Höststorm i USA – nödläge",
       "description": "”Extratropisk cyklon” piskar kustmetropoler",
@@ -394,16 +434,6 @@
       "timestamp": 1790434049000
     },
     {
-      "title": "Mohamed Alis okända koppling till kritiserade Somalia-avtalet",
-      "description": "Inkryssade Mohamed Ali (V) har i flera år presenterat sig som grundare och vd för ett bolag som inte går att hitta. Det bolag han verkligen äger har sedan länge tömts på hela sitt aktiekapital. Samtidigt har han gjort flera affärsresor till Somalia för att sälja in ett projekt till landets reformprogram – som delfinansieras genom ett ifrågasatt avtal med den svenska regeringen. Ett avtal som fått stark kritik av just V.",
-      "link": "https://www.expressen.se/nyheter/sverige/mohamed-alis-okanda-koppling-till-kritiserade-somalia-avtalet/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mohamed-alis-okanda-koppling-till-kritiserade-somalia-avtalet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790433907000
-    },
-    {
       "title": "Spotify lyfte fotbollslegendaren till rekordvinst",
       "description": "Han gör en Beckham och fortsätter tjäna mer som före detta spelare. Nu rapporterar ännu en fotbollslegendar guld utanför planen. Han spelade i Leicester, Everton, Barcelona, Tottenham och japanska Nagoya, gjorde 48 mål på 80 landskamper för England och lade av 1994, 34 år gammal. Sedan dess har det gått riktigt bra för Gary Lineker. […]",
       "link": "https://www.dagensps.se/foretag/spotify-lyfte-fotbollslegendaren-till-rekordvinst/",
@@ -764,26 +794,6 @@
       "timestamp": 1790412795000
     },
     {
-      "title": "Två 13-åriga pojkar i Esbo försvunna i flera dagar",
-      "description": "Pojkarna misstänks ha rymt hemifrån och det är möjligt att de övernattar hos bekanta.",
-      "link": "https://yle.fi/a/7-10105906?origin=rss",
-      "guid": "https://yle.fi/a/7-10105906",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790412509000
-    },
-    {
-      "title": "Vancouver nappade finländsk målvakt från transferlistan",
-      "description": "Målvakten Leevi Meriläinen går från Ottawa Senators till Vancouver Canucks.",
-      "link": "https://yle.fi/a/7-10105907?origin=rss",
-      "guid": "https://yle.fi/a/7-10105907",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790411702000
-    },
-    {
       "title": "Ny tjejsatsning: \"Vill vara den förebild jag saknade\"",
       "description": "VM-mästaren Cristal Hernandez Gutierrez startar tjejpass i jiu-jitsu i Skärholmen centrum på kampsportklubben Stance.",
       "link": "https://www.mitti.se/nyheter/ny-tjejsatsning-vill-vara-den-forebild-jag-saknade-6.3.386890.5f3097fa4b",
@@ -922,16 +932,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790403300000
-    },
-    {
-      "title": "Trump drar tillbaka miljarder i utgifter",
-      "description": "Beskedet kommer från Vita huset, och tillvägagångssättet som använts för att stoppa pengarna är både ovanligt och omstritt. Pengarna skulle ha gått till tjänster för invandrare och initiativ med fokus på mångfald. USA:s president Donald Trump stoppar nära en miljard dollar, motsvarande nära tio miljarder kronor, från att användas fastän kongressen sedan tidigare godkänt användandet. […]",
-      "link": "https://www.dagensps.se/varlden/politik/trump-drar-tillbaka-miljarder-i-utgifter/",
-      "guid": "https://www.dagensps.se/?p=1676687",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/usas-president-donald-trump.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790403254000
     },
     {
       "title": "Snart kan du dölja orealistiska skins i Call of Duty",
