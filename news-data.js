@@ -1,8 +1,38 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-09-27T23:28:17.444Z",
+  "updatedAt": "2026-09-28T02:27:57.681Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Gurun: Är klart – demokraterna tar tillbaka kontrollen",
+      "description": "Demokraterna kommer att ta tillbaka makten i representanthuset. Och förmodligen i senaten också. Det säger Charlie Cook, grundare av valanalysföretaget Cook Political Report.",
+      "link": "https://www.expressen.se/nyheter/varlden/gurun-ar-klart-demokraterna-tar-tillbaka-kontrollen/",
+      "guid": "https://www.expressen.se/nyheter/varlden/gurun-ar-klart-demokraterna-tar-tillbaka-kontrollen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790561515000
+    },
+    {
+      "title": "Trumps kärleksförklaring förstör partiets planer",
+      "description": "Donald Trumps varma ord om New Yorks borgmästare Zohran Mamdani ställer till det för partikamraterna. Socialisten skulle ju användas för att skrämma väljarna i mellanårsvalet. – Det slår undan benen för kampanjen, säger en en republikansk strateg om guvernörskandidaten Bruce Blakeman.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-karleksforklaring-forstor-partiets-planer/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-karleksforklaring-forstor-partiets-planer/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790557302000
+    },
+    {
+      "title": "Kriget fortsätter när varken Iran eller USA backar – amerikansk undervattensdrönare beslagtagits",
+      "description": "Kriget mellan Iran och USA och Israel är inne på sin sjunde månad och någon varaktig fredslösning är fortfarande inte i sikte. Den senaste incidenten är att Iran nu hävdar att man beslagtagit en amerikansk undervattensdrönare i Hormuzsundet. Kriget ser ut att fortsätta där vi tidigare har beskrivit hur Iran har skjutit ut minor i […]",
+      "link": "https://www.dagensps.se/varlden/kriget-fortsatter-nar-varken-iran-eller-usa-backar-amerikansk-undervattensdronare-beslagtagits/",
+      "guid": "https://www.dagensps.se/?p=1676953",
+      "image": "https://images.dagensps.se/app/uploads/2026/08/sdloktaxxask-s-normalhires-300x300.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1790557048000
+    },
     {
       "title": "Jordbrukare stoppade attacken mot brittiska flygbasen",
       "description": "En bonde på väg hem från en fest kan ha avvärjt ett blodbad på den brittiska flygbasen RAF Fairford. På vägen såg hon fem maskerade män som flydde in i skogen när de blev upptäckta. – Det är fullständigt absurt att de inte redan hade koll, säger kvinnan som larmade.",
@@ -294,16 +324,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790526405000
     },
     {
-      "title": "Tre bilar i krock på E4 – stor trafikpåverkan utanför Nyköping",
-      "description": "Mycket stor påverkarn på trafiken",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d82a8ca-f358-4c95-b72a-fe99daa03f34",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d82a8ca-f358-4c95-b72a-fe99daa03f34",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790525843000
-    },
-    {
       "title": "Axel Lindberg hittade sin superstjärna – har gått en annorlunda väg till toppen",
       "description": "Det började i skogen med en ponny. Ingen ridskola, ingen tränare. Där lärde sig Axel Lindberg läsa hästar – och den talangen förde Sibboryttaren till VM.",
       "link": "https://yle.fi/a/7-10105639?origin=rss",
@@ -312,16 +332,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790525678000
-    },
-    {
-      "title": "Mats, 76, söker svar efter hustrun Pias död",
-      "description": "Det hänger en lapp på S:t Eriksbron i Stockholm. En man söker efter svar. I våras omkom hans fru Pia hastigt i en cykelolycka och han vet inte vad som hände. – En livspartner gick ut genom dörren och kom aldrig hem igen, säger Mats Blomgren.",
-      "link": "https://www.expressen.se/nyheter/sverige/mats-76-soker-efter-svar--efter-hustrun-pias-dod/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mats-76-soker-efter-svar--efter-hustrun-pias-dod/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790525226000
     },
     {
       "title": "Forskare fann 3 200 år gammalt fredsavtal – innehåller de första reglerna för behandlingen av flyktingar",
@@ -872,16 +882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790496000000
-    },
-    {
-      "title": "Dyr vinter väntar – här är alla smällarna",
-      "description": "Det pratas bland ekonomer om att svensk ekonomi är på uppgång, att den segdragna lågkonjunkturen är över. Hushållens ekonomi har stärkts när räntorna gått ner, och i år har det sockrats rejält från regeringen med halverad matmoms, kraftigt sänkta skatter på bensin och diesel och ett halverat pris på busskort. Elen, bensinen och en förväntad […]",
-      "link": "https://www.dagensps.se/privatekonomi/dyr-vinter-vantar-har-ar-alla-smallarna/",
-      "guid": "https://www.dagensps.se/?p=1676844",
-      "image": "https://images.dagensps.se/app/uploads/2026/09/bensinpriset-kommer-troligen-att-hojas-r.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1790495893000
     },
     {
       "title": "Friidrotten får ny kastbana på Vallen",
@@ -3498,7 +3498,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "En kvinna har åtalats för att ha tänt eld på en annan kvinnas hår på en buss på Östermalm.",
       "link": "https://www.mitti.se/nyheter/tande-eld-pa-okand-kvinnas-har--atalas-6.3.387463.d83b9e2776",
       "guid": "https://www.mitti.se/nyheter/tande-eld-pa-okand-kvinnas-har--atalas-6.3.387463.d83b9e2776",
-      "image": "https://www.mitti.se/image-3.383233.309224.20260927205611.1.c798a36cf1?format=jpeg",
+      "image": "https://www.mitti.se/image-3.383233.309224.20260928001757.1.d7de0b85ff?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790173314000
