@@ -1,8 +1,218 @@
 {
-  "updatedAt": "2026-10-01T17:40:49.254Z",
+  "updatedAt": "2026-10-01T22:06:00.059Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Dog i semesterparadis i ”mycket ovanlig” olycka",
+      "description": "Beverley Ann White njöt av semestern i turistfavoriten. Då dog 66-åringen under ”mycket ovanliga” omständigheter, enligt Cornwall Live .",
+      "link": "https://www.expressen.se/nyheter/varlden/dog-i-semesterparadis-i--mycket-ovanlig-olycka/",
+      "guid": "https://www.expressen.se/nyheter/varlden/dog-i-semesterparadis-i--mycket-ovanlig-olycka/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790891812000
+    },
+    {
+      "title": "Man skjuten i Jönköping – stor insats",
+      "description": "En man har hittats med skottskador i Norrahammar utanför Jönköping.",
+      "link": "https://www.expressen.se/nyheter/sverige/man-skjuten-stor-insats/",
+      "guid": "https://www.expressen.se/nyheter/sverige/man-skjuten-stor-insats/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790890161000
+    },
+    {
+      "title": "Fetmalarm om diktatorn Kim Jong-Un: ”Extremt överviktig”",
+      "description": "Kim Jong-Un är ”extremt överviktig”. Det hävdar sydkoreansk underrättelsetjänst angående den nordkoreanske diktatorn, skriver AFP . Han löper ”hög risk för hjärt-kärlsjukdomar” – och både hans pappa och farfar dog av hjärtinfarkter.",
+      "link": "https://www.expressen.se/nyheter/varlden/fetmalarm-om-diktatorn-kim-jong-un-extremt-overviktig/",
+      "guid": "https://www.expressen.se/nyheter/varlden/fetmalarm-om-diktatorn-kim-jong-un-extremt-overviktig/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790889778000
+    },
+    {
+      "title": "Skottlossning",
+      "description": "En skadad i Jönköping",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=02dc9437-4955-4c9f-8c5b-ade84d2c0f53",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=02dc9437-4955-4c9f-8c5b-ade84d2c0f53",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790889660000
+    },
+    {
+      "title": "Garb: Fire Side",
+      "description": "",
+      "link": "https://uncrate.com/garb-fire-side/",
+      "guid": "https://uncrate.com/garb-fire-side/",
+      "image": "https://uncrate.com/assets_c/2026/10/garb-fire-side-darkened-thumb-960xauto-193294.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790889147000
+    },
+    {
+      "title": "Ryssar flyr till Phuket – för att slippa kriget",
+      "description": "Kaviar, butiksnamn på kyrilliska och en rysk kyrka. Thailändska turistön Phuket har de senaste åren blivit ett nytt hem för tiotusentals ryssar som flyr kriget, mobilisering och sanktioner.",
+      "link": "https://www.expressen.se/nyheter/varlden/ryssar-flyr-till-phuket-for-att-slippa-kriget/",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryssar-flyr-till-phuket-for-att-slippa-kriget/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790887725000
+    },
+    {
+      "title": "Brand på fartyg i Göteborgs skärgård",
+      "description": "Insats i Göteborgs skärgård",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=44ff58db-63b7-4b66-829c-fdba40800002",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=44ff58db-63b7-4b66-829c-fdba40800002",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790886745000
+    },
+    {
+      "title": "EU håller brådskande möte om stigande bränslepriser på fredag",
+      "description": "USA har uppmanat EU att frigöra diesel ur sina reserver.",
+      "link": "https://yle.fi/a/7-10106235?origin=rss",
+      "guid": "https://yle.fi/a/7-10106235",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790886366000
+    },
+    {
+      "title": "Här testkör kungen, 80, nya racingbilen",
+      "description": "Kungen har testkört BMW:s nya racingbil. På bilder ser man hur kungen iklädd en racinghjälm sitter bakom ratten. – Det var naturligtvis väldigt speciellt, säger Fredrik Lestrup, teamchef på Lestrup racing.",
+      "link": "https://www.expressen.se/nyheter/kungligt/har-testkor-kungen--80-nya-racingbilen/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/har-testkor-kungen--80-nya-racingbilen/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790885071000
+    },
+    {
+      "title": "Misstanken: Pojke våldtogs med biljardkö – var nära döden",
+      "description": "En 15-årig pojke har åtalats för grov våldtäkt mot barn. Han misstänks ha förgripit sig med en biljardkö på en tolvårig pojke, som fick livshotande skador. 15-åringen ”visade särskild hänsynslöshet och råhet” vid brottet, menar åklagaren.",
+      "link": "https://www.expressen.se/nyheter/sverige/misstanken-pojke-valdtogs-med-biljardko-var-nara-doden/",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstanken-pojke-valdtogs-med-biljardko-var-nara-doden/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790884954000
+    },
+    {
+      "title": "Octo Blue Anejo Cristalino Tequila",
+      "description": "",
+      "link": "https://uncrate.com/octo-blue-anejo-cristalino-tequila/",
+      "guid": "https://uncrate.com/octo-blue-anejo-cristalino-tequila/",
+      "image": "https://uncrate.com/assets_c/2026/10/octo-blue-3-thumb-960xauto-193289.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790884801000
+    },
+    {
+      "title": "Apollo flyger till Kreta: ”Vi har inte tänkt ställa in”",
+      "description": "Två röda vädervarningar har utfärdats på Kreta – och civilförsvaret är satt i högsta beredskap. Trots det flyger Apollo svenska turister till ön på fredag. – Vi har inte tänkt ställa in några resor, säger Martina Krantz, pressansvarig på Apollo.",
+      "link": "https://www.expressen.se/nyheter/varlden/apollo-flyger-till-kreta-vi-inte-har-tankt-stalla-in/",
+      "guid": "https://www.expressen.se/nyheter/varlden/apollo-flyger-till-kreta-vi-inte-har-tankt-stalla-in/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790883631000
+    },
+    {
+      "title": "Lovehoney Luxury Advent Calendar",
+      "description": "",
+      "link": "https://uncrate.com/lovehoney-luxury-advent-calendar/",
+      "guid": "https://uncrate.com/lovehoney-luxury-advent-calendar/",
+      "image": "https://uncrate.com/assets_c/2026/09/lovehoney-calender-2-thumb-960xauto-192914.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790882967000
+    },
+    {
+      "title": "Mystiska intrång hos flera finska riksdagsledamöter",
+      "description": "Riksdagsledamöter i Finland har utsatts för misstänkta intrång i sina hem under en längre tid, bekräftar Jussi Halla-Aho, riksdagens talman. Statsminister Petteri Orpo håller det för ”mycket möjligt” att främmande makt ligger bakom.",
+      "link": "https://www.expressen.se/nyheter/varlden/mystiska-intrang-hos-flera-finska-riksdagsledamoter/",
+      "guid": "https://www.expressen.se/nyheter/varlden/mystiska-intrang-hos-flera-finska-riksdagsledamoter/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790882690000
+    },
+    {
+      "title": "Trump pressad över dieselbrist – hotar Europa",
+      "description": "Höga bränslepriser ger Donald Trump huvudvärk. Nu hotar USA att begränsa dieselexporten till Europa om EU inte frigör över 100 miljoner fat diesel ur sina beredskapslager, rapporterar Reuters.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-pressad-over-dieselbrist-hotar-europa/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-pressad-over-dieselbrist-hotar-europa/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790882053000
+    },
+    {
+      "title": "Metalbandet Venoms sångare Conrad ”Cronos” Lant har dött",
+      "description": "Lant blev 63 år gammal.",
+      "link": "https://yle.fi/a/7-10106234?origin=rss",
+      "guid": "https://yle.fi/a/7-10106234",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790882019000
+    },
+    {
+      "title": "Christa Pikes tillstånd \"allvarligt\"",
+      "description": "Beskedet efter avrättningsförsöket",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a628c8b2-a49b-4899-9c66-82b8c40ec5c5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a628c8b2-a49b-4899-9c66-82b8c40ec5c5",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790882012000
+    },
+    {
+      "title": "Bråk vid skola – 70-tal ungdomar på plats",
+      "description": "Polisen: 70-tal ungdomar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=db78592b-624e-466c-b609-90d635a51818",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=db78592b-624e-466c-b609-90d635a51818",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790881919000
+    },
+    {
+      "title": "SD-profilen öppnar för att backa från kravet om ministerposter",
+      "description": "Sverigedemokraten Björn Söder öppnar för att släppa kravet på ministerposter. – Jag tycker det viktigaste är att vi inte får en vänsterregering, säger han till Svenska Dagbladet. Igår uppgav SD-ledaren Jimmie Åkesson att kravet om ministerposter står fast.",
+      "link": "https://www.expressen.se/nyheter/politik/sd-profilen-oppnar-for-att-backa-fran-kravet/",
+      "guid": "https://www.expressen.se/nyheter/politik/sd-profilen-oppnar-for-att-backa-fran-kravet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790881291000
+    },
+    {
+      "title": "Äter du godis?",
+      "description": "Dagens matfråga Tidigare idag skrev vi om årets smak på Juleskum och jag tänkte att vi därför kunde kolla om ni läsare brukar äta godis. För att göra det lite enklare så räknas inte chips, nötter, frukt och liknande snacks som \"godis\" i enkäten nedan. Svara gärna på vår enkät nedan. Vill ni snacka mer om godisätande, till exempel vilket som är ert favoritgodis, eller något annat som känns relaterat kan ni göra det i kommentarsfältet. Själv är jag en sucker för gummibjörnar och gelehallon. L&auml;s vidare och kommentera: https://feber.se/ater-du-godis/496796/ L&auml;s mer om Juleskum , Godis , Cloetta , Enkät , Snacks , godisvanor",
+      "link": "https://feber.se/ater-du-godis/496796/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/ater-du-godis/496796/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790881200000
+    },
+    {
+      "title": "Polaroid MOD Instant Camera",
+      "description": "",
+      "link": "https://uncrate.com/polaroid-mod-instant-camera/",
+      "guid": "https://uncrate.com/polaroid-mod-instant-camera/",
+      "image": "https://uncrate.com/assets_c/2026/10/polaroid-mod-instant-camera-1-thumb-960xauto-193290.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790881200000
+    },
     {
       "title": "Iransk-brittiska man gripen efter Fairford-händelsen",
       "description": "Nytt gripande efter flygbaslarmet",
@@ -11,7 +221,67 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790875959000
+      "timestamp": 1790881152000
+    },
+    {
+      "title": "Dubbelt upp av Elisabeth Banks i DreamQuil",
+      "description": "Robot gör livet surt för hemmafru Här är trailern för DreamQuil , en scifi-rulle som utspelas i en nära framtid där dålig luftkvalitet har gjort att människor tillbringar allt mer tid i sina hem. Handlingen kretsar kring Carol (Elisabeth Banks), en hemmafru som efter att ha genomgått någon sorts skönhetsbehandling av någon anledning får hem en robotkopia av sig själv. Det hela ser ut att gå som det ofta gör i robotfilmer då roboten beslutar sig för att ta över Carols liv helt och hållet. Rollen som Carols man Gary spelas av John C. Reilly och i andra roller syns Kathryn Newton, Sofia Boutella och Juliette Lewis. DreamQuil hade världspremiär på årets SXSW-festival i våras och går upp på amerikanska biografer senare den här månaden. När filmen kommer till Sverige och var den kommer att gå att se här har vi inte hittat några uppgifter om. Trailern för filmen hittas nedan. L&auml;s vidare och kommentera: https://feber.se/film/dubbelt-upp-av-elisabeth-banks-i-dreamquil/496788/ L&auml;s mer om DreamQuil , Elisabeth Banks , John C. Reilly , SXSW , robotar , sci-fi , film",
+      "link": "https://feber.se/film/dubbelt-upp-av-elisabeth-banks-i-dreamquil/496788/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/dubbelt-upp-av-elisabeth-banks-i-dreamquil/496788/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790879400000
+    },
+    {
+      "title": "Protester i Kosovo mot domstol i Haag",
+      "description": "Specialdomstolen för Kosovo dömde förra presidenten till 25 års fängelse.",
+      "link": "https://yle.fi/a/7-10106232?origin=rss",
+      "guid": "https://yle.fi/a/7-10106232",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1790878885000
+    },
+    {
+      "title": "Xbox är inte till salu",
+      "description": "Microsoft dementerar ryktena om en försäljning av speldivisionen Enda sedan Xbox började strukturera om en massa har det gått rykten och spekulationer kring att Microsoft var sugna på att sälja av speldivisionen. Men nu sätter Xbox-bossen Asha Sharma stopp för dessa funderingar om en eventuell försäljning. I en intervju med New York Times säger hon nämligen väldigt klart och tydligt att Xbox inte är till salu. Det blir dock en fortsatt omstrukturering där Microsoft generellt planerar att säga upp uppemot 3 200 anställda under det kommande räkenskapsåret. Enligt Microsoft-bossen Satya Nadella handlar det om att effektivisera organisationen och hitta en hållbar affärsmodell som kan leverera spel till en ännu bredare publik. Sharma säger också att de kommer fortsätta att se över både partnerskap och verksamhetsmodeller för att säkra Xbox långsiktiga framgång. L&auml;s vidare och kommentera: https://feber.se/spel/xbox-ar-inte-till-salu/496786/ L&auml;s mer om Xbox , Microsoft , Asha Sharma , Satya Nadella , New York Times , omstrukturering",
+      "link": "https://feber.se/spel/xbox-ar-inte-till-salu/496786/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/xbox-ar-inte-till-salu/496786/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1790877600000
+    },
+    {
+      "title": "The Stylish Life: Porsche",
+      "description": "",
+      "link": "https://uncrate.com/the-stylish-life-porsche/",
+      "guid": "https://uncrate.com/the-stylish-life-porsche/",
+      "image": "https://uncrate.com/assets_c/2026/10/stylish-life-porsche-thumb-960xauto-193288.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1790877236000
+    },
+    {
+      "title": "Putin bombar bro",
+      "description": "Kaosscenerna i centrala Kiev",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/attacker-i-centrala-kiev-bro-sprangd",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/attacker-i-centrala-kiev-bro-sprangd",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790877097000
+    },
+    {
+      "title": "Britt Sommar: ”Älskar hösten”",
+      "description": "Sol och 20 grader och Britt Sommar njuter. Trots torsdagens pangväder på flera håll runtom i Sverige är sommaren på väg att övergå i höst, och det passar henne utmärkt. – Det är min bästa årstid, säger Britt Sommar.",
+      "link": "https://www.expressen.se/nyheter/sverige/britt-sommar--alskar-hosten/",
+      "guid": "https://www.expressen.se/nyheter/sverige/britt-sommar--alskar-hosten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1790876517000
     },
     {
       "title": "Ut på tur med gatreggad BMW M1 Procar",
@@ -104,16 +374,6 @@
       "timestamp": 1790874000000
     },
     {
-      "title": "Putin bombar bro",
-      "description": "Kaosscenerna i centrala Kiev",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/attacker-i-centrala-kiev-bro-sprangd",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/attacker-i-centrala-kiev-bro-sprangd",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790873667000
-    },
-    {
       "title": "Johnny Depp i ny julfilm",
       "description": "Ebenezer är en ny version av En julsaga Här är en ny trailer för Ebenezer , en kommande film som baseras på Charles Dickens klassiska novell En julsaga . I filmen får tittarna följa hur den snåle Ebenezer Scrooge (Johnny Depp) får ta en närmare titt på sitt liv genom besök av olika andar, något som förhoppningsvis kan få den gamle mannen att göra vissa förändringar i sitt liv. I filmens övriga roller syns bland annat Daisy Ridley, Sam Claflin och Ian McKellen. Ebenezer går upp på svenska biografer den 13 november. Ni hittar trailern nedan. L&auml;s vidare och kommentera: https://feber.se/film/johnny-depp-i-ny-julfilm/496795/ L&auml;s mer om Ebenezer , Charles Dickens , Johnny Depp , En julsaga , Daisy Ridley , Ian McKellen , Film , Scrooged",
       "link": "https://feber.se/film/johnny-depp-i-ny-julfilm/496795/?utm_source=rss&utm_medium=feed",
@@ -154,16 +414,6 @@
       "timestamp": 1790872056000
     },
     {
-      "title": "Tech-miljardärens okända svenska tomtköp – i fjällen",
-      "description": "Att en amerikansk techmiljardär köpt skog i Sverige för 235 miljoner väcker frågor. Men Palantirs vd Alex Karp äger redan mark i Härjedalen, kan Expressen avslöja. AI-mogulen brukar åka längdskidor i Lofsdalen.",
-      "link": "https://www.expressen.se/nyheter/sverige/tech-miljardarens-okanda-svenska-tomtkop-i-fjallen/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tech-miljardarens-okanda-svenska-tomtkop-i-fjallen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790871527000
-    },
-    {
       "title": "OS-medaljören Eero Hirvonen hittade glädjen bortom resultaten: ”Nu vet jag varför jag idrottar”",
       "description": "Efter åtta kämpiga år hade han plötsligt två OS-medaljer runt halsen. För Eero Hirvonen blev framgången möjlig först när han lärde sig släppa resultatpressen.",
       "link": "https://yle.fi/a/7-10104681?origin=rss",
@@ -172,16 +422,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790871442000
-    },
-    {
-      "title": "Fenomenet som förvirrar hela USA",
-      "description": "Nya filer från Pentagon • ”Rör sig på ovanliga sätt”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ljuskloten-som-forvirrar-hela-usa",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ljuskloten-som-forvirrar-hela-usa",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790870900000
     },
     {
       "title": "Vi gör thrash metal på svenska – chatta med Replokalen",
@@ -224,16 +464,6 @@
       "timestamp": 1790870400000
     },
     {
-      "title": "Tim Walz i möte med prins Daniel",
-      "description": "Prins Daniel har träffat Tim Walz på slottet. Kamala Harris vicepresidentskandidat är på plats i Stockholm för att diskutera handelsutbytet mellan den amerikanska delstaten Minnesota och Sverige. Det uppger utrikesdepartementet för EFN .",
-      "link": "https://www.expressen.se/nyheter/sverige/tim-walz-i-mote-med-prins-daniel/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tim-walz-i-mote-med-prins-daniel/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790870094000
-    },
-    {
       "title": "Finanskvinnan som talar med de döda",
       "description": "Hon är kapitalförvaltare med ansvar för stora belopp – på deltid. Resten av tiden ägnar finanskvinnan Tiina Lindfors åt att tala med de döda. Hon är 49 år, gift, tre barn, katt och hamster. Inget ovanligt så långt.Pol mag med nationalekonomi som huvudämne och en bankkarriär som började på Sampo. Tycker om att träna och […]",
       "link": "https://www.dagensps.se/bors-finans/finanskvinnan-som-talar-med-de-doda/",
@@ -264,16 +494,6 @@
       "timestamp": 1790868982000
     },
     {
-      "title": "E18 avstängd",
-      "description": "Olycka med flera fordon",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2fb259a1-1211-4e4b-b785-5dfdb0ab60cb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2fb259a1-1211-4e4b-b785-5dfdb0ab60cb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790868644000
-    },
-    {
       "title": "Liquid Glass nu på Android",
       "description": "Apple Music uppdateras till version 7.0 Hittills har Apples design med Liquid Ass Glass endast gått att se på företagets egna plattformaär, men det ndras typ nu när Apple Music 7.0 för Android får delar av designen. Appen får bland annat ett flytande och lätt transparent navigeringsfält i botten med en fristående minispelare. Även toppmenyer, inställningar och biblioteksfliken har gjorts om. Artistsidorna har designats om helt för att efterlikna iOS-versionen, med temabaserade bakgrunder som hämtar färger från omslagsbilderna, och hela appen har nu en kant-i-kant-design. Uppdateringen testas just nu i beta och går att ladda ner via Google Play. L&auml;s vidare och kommentera: https://feber.se/mac/liquid-glass-nu-pa-android/496783/ L&auml;s mer om Android , Google Play , Apple , Liquid Glass , gränssnitt , iOS",
       "link": "https://feber.se/mac/liquid-glass-nu-pa-android/496783/?utm_source=rss&utm_medium=feed",
@@ -282,16 +502,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1790868600000
-    },
-    {
-      "title": "Christa Pike överlevde avrättningen – kan få elektriska stolen",
-      "description": "På torsdagen misslyckades Tennessee med att avrätta Christa Pike. Nu varnar hennes advokater för att hon kan ha fått en hjärnskada. – Det är mycket möjligt, säger läkaren Joel Zivot till BBC .",
-      "link": "https://www.expressen.se/nyheter/varlden/christa-pike-overlevde-avrattningen-kan-fa-elektriska-stolen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/christa-pike-overlevde-avrattningen-kan-fa-elektriska-stolen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790868297000
     },
     {
       "title": "Störningar i trafiken",
@@ -312,36 +522,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790867803000
-    },
-    {
-      "title": "JUST NU: Stämmer Trump",
-      "description": "Familjens beslut efter ICE-dödsskjutningen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0027e2f-44c5-4b2e-b32b-baa9a2268ef0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0027e2f-44c5-4b2e-b32b-baa9a2268ef0",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790867590000
-    },
-    {
-      "title": "Nya uppgifter i Cornell-skandalen: ”Jag blev våldtagen”",
-      "description": "Utredningen av gruppvåldtäkten vid Cornell lades ner – för att kvinnan som blivit utsatt ska ha hävdat samtycke. Men nu visar polisförhör att hon uttryckligen kallade det för en våldtäkt. – Om hon sagt så, hade vi absolut velat utforska det mer, säger åklagaren till CBS News.",
-      "link": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-i-cornell-skandalen-jag-blev-valdtagen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-uppgifter-i-cornell-skandalen-jag-blev-valdtagen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790867439000
-    },
-    {
-      "title": "Misstänkt oljeutsläpp utanför Gotland",
-      "description": "Kustbevakningen utreder ett misstänkt oljeutsläpp sydost om Gotland. Regeringen är informerad och ”följer situationen noga”, enligt Carl-Oskar Bohlin (M), minister för civilt försvar. På torsdagen syns oljeutsläppet dock inte.",
-      "link": "https://www.expressen.se/nyheter/sverige/misstankt-oljeutslapp-utanfor-gotland/",
-      "guid": "https://www.expressen.se/nyheter/sverige/misstankt-oljeutslapp-utanfor-gotland/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790867432000
     },
     {
       "title": "Hysteriska skrattanfall, blixt och dunder, intervju på kinesiska – vad som helst kan hända i 50-åriga lokalradion",
@@ -384,16 +564,6 @@
       "timestamp": 1790866793000
     },
     {
-      "title": "Förhandlarens råd till politikerna: ”Prata om småsaker”",
-      "description": "Regeringsbildningen präglas av stora låsningar. Hur ska politikerna luckra upp dem? – Det finns inget trollspö man kan hålla fram, men med rätt verbala verktyg kommer man ganska långt, säger Lars-Johan Åge, förhandlingsexpert.",
-      "link": "https://www.expressen.se/nyheter/politik/forhandlarens-rad-till-politikerna-prata-om-smasaker/",
-      "guid": "https://www.expressen.se/nyheter/politik/forhandlarens-rad-till-politikerna-prata-om-smasaker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790866745000
-    },
-    {
       "title": "Fortsatt succé för Carisma – rösta på din finlandssvenska musikfavorit!",
       "description": "Bianca Morales och KNOTT är utmanare på Vegatoppen den här veckan.",
       "link": "https://yle.fi/a/7-10106130?origin=rss",
@@ -432,16 +602,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790866350000
-    },
-    {
-      "title": "Hemliga möten mitt i rödgröna krisen",
-      "description": "En rödgrön regering är fortfarande långt borta. Men i bakgrunden pågår sakpolitiska samtal – med förhoppningen att öka sammanhållningen mellan S, V, C och MP, enligt Expressens uppgifter. I veckan bjöd S in alla fyra partier till ett möte om tonårsutvisningarna.",
-      "link": "https://www.expressen.se/nyheter/politik/hemliga-moten-mitt-i-rodgrona-krisen/",
-      "guid": "https://www.expressen.se/nyheter/politik/hemliga-moten-mitt-i-rodgrona-krisen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790865710000
     },
     {
       "title": "Apples hem-hubb kan släppas i fyra färger",
@@ -514,16 +674,6 @@
       "timestamp": 1790864344000
     },
     {
-      "title": "Misstänkt oljeutsläpp",
-      "description": "Utanför Gotland • Regeringen i möte",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8a22f86-c475-4ff3-b669-9c732537120c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8a22f86-c475-4ff3-b669-9c732537120c",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790864283000
-    },
-    {
       "title": "Hotade att slå kvinna med basebollträ",
       "description": "En man greps misstänkt för förberedelse till misshandel efter att ha hotat en kvinnan över telefon att han skulle slå henne med ett basebollträ i Fagersjö",
       "link": "https://www.mitti.se/nyheter/hotade-att-sla-kvinna-med-basebolltra-6.3.388855.37dac4a2bf",
@@ -532,16 +682,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790864221000
-    },
-    {
-      "title": "Andersson kan börja förhandla – utan C",
-      "description": "Ingen vill ha sonderingsuppdraget och ingen regering finns i sikte. Men i bakgrunden rör det sig – lite grann. Lyssna på ”Politikrummet”.",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/andersson-kan-borja-forhandla-utan-c/",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/andersson-kan-borja-forhandla-utan-c/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790863980000
     },
     {
       "title": "Statsvetaren Göran Djupsund har dött",
@@ -572,16 +712,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790863752000
-    },
-    {
-      "title": "Man död i kaosvädret i Grekland",
-      "description": "En man uppges ha dött i det kraftiga regn- och åskovädret som härjar i Grekland. Grekiska meteorologiska myndigheten har utfärdat flera röda varningar för bland annat Kreta.",
-      "link": "https://www.expressen.se/nyheter/varlden/man-dod-i-kaosvadret-i-grekland/",
-      "guid": "https://www.expressen.se/nyheter/varlden/man-dod-i-kaosvadret-i-grekland/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790863477000
     },
     {
       "title": "Därför är Bro IK årets förening 2026",
@@ -622,16 +752,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1790863162000
-    },
-    {
-      "title": "Talmannen kallar till pressträff",
-      "description": "Ger besked om regeringsbildning i morgon",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=47901fe3-ff5c-4de2-ba7a-0a670cc32239",
-      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=47901fe3-ff5c-4de2-ba7a-0a670cc32239",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790863025000
     },
     {
       "title": "Hon vinner Årets Kock 2026",
@@ -702,16 +822,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1790861582000
-    },
-    {
-      "title": "Sexuellt ofredande vid kyrka i Norrtälje",
-      "description": "Omhändertagen av polis i Norrtälje",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=743c05ee-dd62-4cf4-b8d3-f48f8d7c1d64",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=743c05ee-dd62-4cf4-b8d3-f48f8d7c1d64",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1790861468000
     },
     {
       "title": "Så knäcktes tyskarnas Enigma-maskin",
@@ -894,16 +1004,6 @@
       "timestamp": 1790859000000
     },
     {
-      "title": "Avskedade TPS-tränaren skickade under flera veckor meddelanden till en ung spelare",
-      "description": "Fotbollsklubben TPS avskedade tränaren på grund av trakasserier riktade mot en spelare. Fallet uppdagades på måndagen.",
-      "link": "https://yle.fi/a/7-10106220?origin=rss",
-      "guid": "https://yle.fi/a/7-10106220",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790858826000
-    },
-    {
       "title": "Glaciären smälter: Dessa skidorter stänger",
       "description": "De schweiziska glaciärerna har tappat 19,4 procent av isen sedan 2021, och i somras stängdes både sommarskidåkningen i Zermatt och normalvägen upp på Mont Blanc. För svenska resenärer betyder det att skidveckan byter månad och att leder stängs. Dagens PS har tidigare beskrivit hur Alpernas skidjättar varnar den som bokar skidresan i januari, eftersom mars […]",
       "link": "https://www.dagensps.se/privatekonomi/glaciaren-smalter-dessa-skidorter-stanger/",
@@ -928,7 +1028,7 @@
       "description": "Egon Malmgren satt på bussen när en gängkriminell man satte eld på hans hår. När domen nyligen kom – över sex år senare – hade brottet preskriberats. Nu överklagar åklagaren.",
       "link": "https://www.mitti.se/nyheter/egons-har-sattes-i-brand--domen-overklagas-6.3.388835.3b427db682",
       "guid": "https://www.mitti.se/nyheter/egons-har-sattes-i-brand--domen-overklagas-6.3.388835.3b427db682",
-      "image": "https://www.mitti.se/image-3.377462.310274.20261001143151.1.703ee50453?format=jpeg",
+      "image": "https://www.mitti.se/image-3.377462.310274.20261001181855.1.6285812051?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790858449000
@@ -964,16 +1064,6 @@
       "timestamp": 1790857607000
     },
     {
-      "title": "Så här reagerar riksdagsledamöter på beskeden om objudna besök i hemmen",
-      "description": "Janne Jukkola (Saml) tycker att riksdagen varit sent ute med att ta itu med intrången i bostäder.",
-      "link": "https://yle.fi/a/7-10106208?origin=rss",
-      "guid": "https://yle.fi/a/7-10106208",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790857589000
-    },
-    {
       "title": "Här har amerikanska stridsfartyget lagt till i Stockholm",
       "description": "På torsdagen får Stockholm besök av det amerikanska örlogsfartyget USS Paul Ignatius. Fartyget lägger till vid Frihamnen och besöket är en del av det långvariga och framgångsrika försvars- och säkerhetssamarbetet mellan Sverige och USA.",
       "link": "https://www.mitti.se/nyheter/har-har-amerikanska-stridsfartyget-lagt-till-i-stockholm-6.3.388826.ae464a4e2c",
@@ -982,16 +1072,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790857265000
-    },
-    {
-      "title": "Det här vet vi nu om de misstänkta intrången hos riksdagsledamöter",
-      "description": "Det är oklart vem som ligger bakom de misstänkta intrången eller vad motivet är.",
-      "link": "https://yle.fi/a/7-10106219?origin=rss",
-      "guid": "https://yle.fi/a/7-10106219",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1790856681000
     },
     {
       "title": "Huawei gör en Sony",
@@ -1264,16 +1344,6 @@
       "timestamp": 1790843502000
     },
     {
-      "title": "Nästan varannan svensk rör sig för lite",
-      "description": "15 minuters rörelse kan hjälpa oss att må bättre Den 10 oktober är det Världsdagen för psykisk hälsa. Inför detta lanserar märket Asics världens första statusklassificering för rörelsenivåer som en del av den globala satsningen The Movement Conservation Project. I en ny global studie säger svenskar att de är stillasittande under 84 procent av sin vakna tid och nästan varannan svensk rör sig för lite. Man har tagit fram klassificeringen tillsammans med experter och den är inspirerad av naturvårdens sätt att klassificera hotade arter. Deltagarnas rörelsenivåer får en av tre statusar - \"Aktiv\", \"I riskzonen\" eller \"Hotad\". 47 procent av svenskarna hamnade \"I riskzonen\" eller \"Hotad\". Siffrorna för Norge, Finland och Danmark var istället 45, 44 respektive 41 procent. Om trenden håller i sig kan siffran för Sverige ligga på 57 procent år 2035. Var femte svensk mellan 18 och 24 år motionerar mindre än 30 minuter i veckan och de får därför statusen \"Hotad\". Bristande motivation, nedstämdhet och ökad stress är konsekvenser som de själva kopplar till för lite rörelse. Moderna bekvämligheter som att vi kan beställa mat, jobba, handla, umgås, underhållas och sköta bankärenden utan att lämna hemmet gör det enkelt att spendera en hel dag utan att behöva röra sig. För att få en mätbar förbättring av det mentala välbefinnandet räcker det med 15 minuters rörelse per dag. Hur mycket rör du dig varje dag? Läs mer på länken nedan. L&auml;s vidare och kommentera: https://tjock.se/kroppen/nastan-varannan-svensk-ror-sig-for-lite/496763/ L&auml;s mer om Världsdagen för psykisk hälsa , Asics , rörelse , mentalt , fysiskt , träning , klassificering",
-      "link": "https://tjock.se/kroppen/nastan-varannan-svensk-ror-sig-for-lite/496763/?utm_source=rss&utm_medium=feed",
-      "guid": "https://tjock.se/kroppen/nastan-varannan-svensk-ror-sig-for-lite/496763/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790843400000
-    },
-    {
       "title": "Odenplan kan bli byggarbetsplats – i fem år",
       "description": "Odenplan kan bli en byggarbetsplats med stora förändringar för bilar, gående, cyklister och bussar när SL förlänger Roslagsbanan till city.",
       "link": "https://www.mitti.se/nyheter/odenplan-kan-bli-byggarbetsplats--i-fem-ar-6.3.388611.b356b40e90",
@@ -1294,16 +1364,6 @@
       "timestamp": 1790841888000
     },
     {
-      "title": "Denza BAO 5 har snart premiär i Sverige",
-      "description": "Terrängbil med laddhybrid-teknik I somras nämnde vi att Denza även skulle ta modellen BAO 5 till Sverige och snart har den premiär. Detta är en terrängbil med laddhybrid-teknik och den kommer att visas upp för första gången på mässan eCar Expo 2026. Modellen baseras på plattformen DMO och under skalet finns en bensinmotor med turbo på 1,5 liter som paras med två elmotorer. Den sammanlagda effekten anges till 544 hästar och man ska kunna ta sig från 0-100 km/h på 4,8 sekunder. Man ska kunna köra upp till nio mil på bara el och totalt upp till 83,5 mil med fullt batteri och full bränsletank. Fyrhjulsdrift och elektroniska diffspärrar fram och bak är standard. På insidan hittar vi fyra skärmar och storleken på den som innehåller infotainmentgrejerna är 15,6 tum. Ljudsystemet består av 18 högtalare från Devialet och framstolarna erbjuder massage. Det finns två versioner att välja mellan och de heter Elegance och Ultimate. Den sistnämnda ger dig bland annat Nappaläder och värme och ventilation i både fram- och baksätet. BAO 5 kommer att finnas i Denzas showroom som öppnar i NK-kvarteren i Stockholm. Till den svenska marknaden kommer den nu i höst men exakt när och vad den då kommer att kosta berättar man inte nu. Det här blir den andra Denza-modellen i Sverige efter flaggskeppet Z9GT. L&auml;s vidare och kommentera: https://feber.se/bil/denza-bao-5-har-snart-premiar-i-sverige/496746/ L&auml;s mer om Denza BAO 5 , Denza , Sverige , premiär , Kina , laddhybrid , terräng , SUV , offroad",
-      "link": "https://feber.se/bil/denza-bao-5-har-snart-premiar-i-sverige/496746/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/denza-bao-5-har-snart-premiar-i-sverige/496746/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790841600000
-    },
-    {
       "title": "Klart: De ska styra Sigtuna",
       "description": "Vilka partier styr i Sigtuna – nu är det klart",
       "link": "https://www.mitti.se/nyheter/klart-de-ska-styra-sigtuna-6.3.388756.9a2aa0a901",
@@ -1322,16 +1382,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790840796000
-    },
-    {
-      "title": "Google presenterar Gemini 4 Argon",
-      "description": "Ny AI-modell i toppskiktet Google presenterade igår sin senaste AI-modell Gemini 4 Argon, en modell som kommer att användas för att driva deras AI-assistent Gemini och annat i framtiden. Det är, inte helt oväntat, den kraftfullaste AI-modellen Google utvecklat och den ska enligt Google klå andra AI-modeller i framkanten i olika benchmark. Google säger att Gemini 4 Argon presterar bättre än OpenAI:s GPT-6 Astra och Anthropics Claude Fable 5.1 och Claude Opus 5.5 i de flesta benchmarks där den testats, något som ni kan se i tabellen längst ner i den här artikeln. Google skriver vidare om AI-modellen: \"To support Gemini 4 Argon’s capabilities across longer, more complex use cases, we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens. When the model has the headroom to think deeply and generate hundreds of thousands of tokens in a single trajectory, it adds a new level of depth in reasoning to solve tough problems in one go.\" Google är inte redo att släppa loss Gemini 4 Argon riktigt ännu utan modellen ska först testas internt och tillsammans med samarbetspartners. När modellen väl släpps publikt kommer den först att lanseras till betalande API-användare samt Google AI Ultra-prenumeranter, Googles dyraste konsumentabonnemang för AI. L&auml;s vidare och kommentera: https://feber.se/internet/google-presenterar-gemini-4-argon/496757/ L&auml;s mer om Gemini 4 Argon , GPT-6 Astra , Claude , Gemini , AI-modeller , Claude Fable 5.1",
-      "link": "https://feber.se/internet/google-presenterar-gemini-4-argon/496757/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/google-presenterar-gemini-4-argon/496757/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790839800000
     },
     {
       "title": "Här ska buss på beställning testas",
@@ -1614,36 +1664,6 @@
       "timestamp": 1790794800000
     },
     {
-      "title": "Craighill Best Wine Key",
-      "description": "",
-      "link": "https://uncrate.com/craighill-best-wine-key/",
-      "guid": "https://uncrate.com/craighill-best-wine-key/",
-      "image": "https://uncrate.com/assets_c/2026/09/best-wine-key-craighill-11-darkened-thumb-960xauto-193270.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790791200000
-    },
-    {
-      "title": "The Prisoner Wine Company",
-      "description": "",
-      "link": "https://uncrate.com/the-prisoner-wine-company/",
-      "guid": "https://uncrate.com/the-prisoner-wine-company/",
-      "image": "https://uncrate.com/assets_c/2026/09/prisoner-wine-1-thumb-960xauto-193256.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790789407000
-    },
-    {
-      "title": "Andy Warhol: The Impossible Collection",
-      "description": "",
-      "link": "https://uncrate.com/andy-warhol-the-impossible-collection/",
-      "guid": "https://uncrate.com/andy-warhol-the-impossible-collection/",
-      "image": "https://uncrate.com/assets_c/2026/09/warhol-the-impossible-collection-1-darkened-thumb-960xauto-193269.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790788200000
-    },
-    {
       "title": "Forskare har undersökt mer än 6 500 personer och är förvånad: Bara 60 gram av en viss matvara om dagen kan påverka både kroppsvikt, kolesterol och blodtryck",
       "description": "Hjärt- och kärlsjukdomar kräver ett av tre liv världen över, men nu tyder en stor ny analys på att bara 60 gram om dagen av en viss matvara från ditt skafferi kan påverka din vikt, kolesterol, blodsocker och blodtryck. Och du behöver faktiskt inte någon köksvåg.",
       "link": "https://illvet.se/halsa/forskare-har-undersokt-mer-an-6-500-personer-och-ar-forvanad-bara-60-gram-av-en-viss-matvara-om-dagen-kan-paverka-bade-kroppsvikt-kolesterol-och-blodtryck",
@@ -1652,16 +1672,6 @@
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1790787611000
-    },
-    {
-      "title": "Oasis at the Columbia Hotel Framed Print",
-      "description": "",
-      "link": "https://uncrate.com/oasis-at-the-columbia-hotel-framed-print/",
-      "guid": "https://uncrate.com/oasis-at-the-columbia-hotel-framed-print/",
-      "image": "https://uncrate.com/assets_c/2026/09/noel-and-liam-at-the-columbia-hotel-1-darkened-thumb-960xauto-193268.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790787600000
     },
     {
       "title": "Säpoanställd döms för sexbrott på Yasuragi",
@@ -1682,16 +1692,6 @@
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1790784013000
-    },
-    {
-      "title": "Alfa Romeo 33 Stradale Perla Nera Supercar",
-      "description": "",
-      "link": "https://uncrate.com/alfa-romeo-33-stradale-perla-nera-supercar/",
-      "guid": "https://uncrate.com/alfa-romeo-33-stradale-perla-nera-supercar/",
-      "image": "https://uncrate.com/assets_c/2026/09/alfa-romeo-33-stradale-perla-nera-2-thumb-960xauto-193258.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1790784000000
     },
     {
       "title": "Grannar firar med fika efter besked om boende för dömda",
