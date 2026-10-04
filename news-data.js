@@ -1,17 +1,97 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-03T23:25:34.672Z",
+  "updatedAt": "2026-10-04T03:18:29.402Z",
   "feedCount": 12,
-  "sourceCount": 12,
+  "sourceCount": 11,
   "items": [
     {
-      "title": "Open AI:s säkerhetschef slutar",
-      "description": "Säkerhetschefen för AI-bolaget Open AI avgår. I ett öppet brev larmar han om stora säkerhetsbrister på bolaget. ”Dagens och morgondagens AI-system är betydligt mer kapabla och farligare än de system vi byggde för bara sex månader sedan” , skriver David Robinson.",
-      "link": "https://www.expressen.se/nyheter/varlden/open-ais-sakerhetschef-slutar/",
-      "guid": "https://www.expressen.se/nyheter/varlden/open-ais-sakerhetschef-slutar/",
+      "title": "Mordförsök i Farsta – stor insats",
+      "description": "Polisen utreder ett misstänkt mordförsök i Farsta i södra Stockholm. En stor insats har pågått i området under natten. – Det finns ingen fara för allmänheten, säger polisens vakthavande befäl Jenny Rydberg.",
+      "link": "https://www.expressen.se/nyheter/sverige/mordforsok-i-farsta-stor-insats/",
+      "guid": "https://www.expressen.se/nyheter/sverige/mordforsok-i-farsta-stor-insats/",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791068329000
+      "timestamp": 1791083694000
+    },
+    {
+      "title": "Open AI:s säkerhetschef slutar",
+      "description": "Säkerhetschefen för AI-bolaget Open AI avgår. I ett öppet brev larmar han om stora säkerhetsbrister på bolaget. ”Dagens och morgondagens AI-system är betydligt mer kapabla och farligare än de system vi byggde för bara sex månader sedan” , skriver David Robinson.",
+      "link": "https://www.expressen.se/ekonomi/tech/open-ais-sakerhetschef-slutar/",
+      "guid": "https://www.expressen.se/ekonomi/tech/open-ais-sakerhetschef-slutar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791083523000
+    },
+    {
+      "title": "Henns morbor lockades till Nordkorea och försvann",
+      "description": "Hyangsu Parks morbror lockades ”tillbaka till paradiset” av nordkoreansk propaganda. En dag försvann han och det tog flera år att få svar på vad som hände.",
+      "link": "https://yle.fi/a/7-10105967?origin=rss",
+      "guid": "https://yle.fi/a/7-10105967",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1791082814000
+    },
+    {
+      "title": "Prästen: ”Inte helt enkelt att leva här”",
+      "description": "Han begraver fler personer än vad han döper. Martin Wihlborg, 38, har i tio år varit präst i Tanum, där födelsetalen är bland de lägsta i landet. – Men det finns många fördelar med att vara förälder på landsbygden. Min fru och jag har inte alls samma stress att skjutsa till aktiviteter som kompisar med barn i storstäder har, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/prasten-inte-helt-enkelt-att-leva-har/",
+      "guid": "https://www.expressen.se/nyheter/sverige/prasten-inte-helt-enkelt-att-leva-har/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791082800000
+    },
+    {
+      "title": "Bebiskrisen i idyllen: ”Har inte träffat rätt”",
+      "description": "TANUM. Huspriserna drivs upp av rika norrmän och Stockholmare. Många unga bor hemma länge och pendlar till Norge för att arbeta. Expressen besöker en bygd där barnafödandet har dippat till en ny bottennivå. – Man mer eller mindre väntar på att mor- och farföräldrar ska trilla av pinn, så att man ta kan över deras hus, säger restaurangchefen Jack Lindqvist, 26.",
+      "link": "https://www.expressen.se/nyheter/sverige/bebiskrisen-i-idyllen-har-inte-traffat-ratt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/bebiskrisen-i-idyllen-har-inte-traffat-ratt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791082800000
+    },
+    {
+      "title": "Tre fartyg i kollision utanför Ålesund",
+      "description": "Olycka i Ålesund",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6bdd00ac-d8f7-4ac3-b96f-8b9bd612f1ab",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6bdd00ac-d8f7-4ac3-b96f-8b9bd612f1ab",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791081778000
+    },
+    {
+      "title": "Linda Engström trivs med spökskräckor och kackerlackor: ”Insekter är utmärkta husdjur”",
+      "description": "Kackerlackor, fågelspindlar, gråsuggor och tusenfotingar – allt det och lite till finns i Linda Engströms vardagsrum i Pargas. För henne är insekter inte obehagliga utan fascinerande husdjur.",
+      "link": "https://yle.fi/a/7-10104386?origin=rss",
+      "guid": "https://yle.fi/a/7-10104386",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1791081014000
+    },
+    {
+      "title": "Trump fick råd av Grok innan räden i Venezuela",
+      "description": "Innan Donald Trump gav ordern om att slå till mot Venezuela vände han sig till en okonventionell rådgivare. Grok. Elon Musks chattbot berättade att folket sannolikt skulle fira Maduros fall.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-fick-rad-av-grok-innan-raden-i-venezuela/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-fick-rad-av-grok-innan-raden-i-venezuela/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791078885000
+    },
+    {
+      "title": "Panik hos republikanerna – ger upp flera distrikt",
+      "description": "Det råder panik i det republikanska partiet inför mellanårsvalet om en månad. Representanthuset ser ut att glida dem ur händerna – och kontrollen över senaten är hotad. – Det finns inte tillräckligt med pengar som skulle kunna få mig att rösta på Donald Trump eller någon som understödjer honom, säger väljaren Alexis Price i traditionellt tungt republikanska Kansas.",
+      "link": "https://www.expressen.se/nyheter/varlden/panik-hos-republikanerna-ger-upp-flera-distrikt/",
+      "guid": "https://www.expressen.se/nyheter/varlden/panik-hos-republikanerna-ger-upp-flera-distrikt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791075510000
     },
     {
       "title": "Stor polisinsats",
@@ -21,7 +101,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791066710000
+      "timestamp": 1791070450000
     },
     {
       "title": "Finsk färja stoppad – märkligt föremål i havet",
@@ -104,8 +184,8 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791058854000
     },
     {
-      "title": "Okänt metallföremål stoppar fartygstrafiken i Helsingfors – myndigheterna har stängt av farleden",
-      "description": "Myndigheterna utreder ett främmande föremål som upptäckts i farleden. Kryssningsresenärer kom inte iväg som planerat på lördagskvällen.",
+      "title": "Fynd av metallföremål stoppade fartygstrafiken i Helsingfors",
+      "description": "Handlar sannolikt om en mekanisk del från ett mycket gammalt fartygsvrak.",
       "link": "https://yle.fi/a/7-10106337?origin=rss",
       "guid": "https://yle.fi/a/7-10106337",
       "image": "",
@@ -364,56 +444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791043252000
     },
     {
-      "title": "10 000-tals sprang i öde jättetunneln",
-      "description": "Unik löpfest på E4",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/tiotusentals-pa-e4an",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/tiotusentals-pa-e4an",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791042272000
-    },
-    {
-      "title": "Fängelsechef avgår efter avrättningsfiaskot",
-      "description": "Beskedet efter avrättningsfiaskot",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1f115e6b-34d6-45c5-bfba-53c8ea4d016d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1f115e6b-34d6-45c5-bfba-53c8ea4d016d",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791041852000
-    },
-    {
-      "title": "Ambulansflyg försvunnet i USA",
-      "description": "Flög från Bermuda – sex personer ombord",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bb88b5e4-31cc-465f-ab2b-7c8a63731f39",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bb88b5e4-31cc-465f-ab2b-7c8a63731f39",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791041796000
-    },
-    {
-      "title": "Putins varning: Lämna Ukraina",
-      "description": "President Vladimir Putin uppmanar ”utlänningar” att inte besöka Ukraina eftersom det planeras ”massiva vedergällningsattacker” mot Kiev. Den senaste veckan har en skola, såväl som sjukhus och broar bombats. – Fienden sliter Kiev itu, säger borgmästaren Vitalij Klytjko.",
-      "link": "https://www.expressen.se/nyheter/varlden/putins-varning-lamna-ukraina/",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-varning-lamna-ukraina/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791041614000
-    },
-    {
-      "title": "En död efter olycka i Karlshamn",
-      "description": "Hamnade i vattnet i Karlshamn",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=61096263-4899-4e91-bca4-20ed627ae34e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=61096263-4899-4e91-bca4-20ed627ae34e",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791040019000
-    },
-    {
       "title": "Hovrätten: Okej att knäppa upp en kollegas BH",
       "description": "Det är inte sexuellt ofredande att knäppa upp en kollegas BH när hon hjälper en kund – utan helt okej. Nu är det fastslaget av Svea hovrätt. Svea hovrätt kommer med en dom som en och annan möjligen har invändningar emot. Det handlar om ett åtal för såväl sexuellt ofredande som ofredande och gäller två […]",
       "link": "https://www.dagensps.se/foretag/hovratten-okej-att-knappa-upp-en-kollegas-bh/",
@@ -432,16 +462,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791039617000
-    },
-    {
-      "title": "Här är årets roligaste djurbilder",
-      "description": "Finalisterna i Nikon Comedy Wildlife 2026 klara Nu har finalisterna i Nikon Comedy Wildlife Awards 2026 presenterats, och årets finalister bjuder på allt från kaxiga apor till björnar som ser ut att dela med sig av ett riktigt bra skämt. Tävlingen, som startade 2015, har i år tagit emot över 10 000 bidrag från 112 olika länder och här kan man se några av finalisterna. Trots att motiven kan ge ett litet leende på läpparna så har tävlingen ett lite mer seriöst mål. Grundaren Tom Sullam förklarar att humor är ett kraftfullt verktyg för att skapa empati för vilda djur, och genom att få oss att le hoppas organisationen att vi även ska engagera oss mer i naturskydd samt bevarandet av hotade arter. Vinnarna i de olika kategorierna presenteras den 8 december. Den stora vinnaren belönas med kamerautrustning från Nikon och en exklusiv safariresa. L&auml;s vidare och kommentera: https://feber.se/vetenskap/har-ar-arets-roligaste-djurbilder/496860/ L&auml;s mer om Nikon Comedy Wildlife Awards , Nikon , naturskydd , Tom Sullam , vilda djur , djurfotografi , safariresa",
-      "link": "https://feber.se/vetenskap/har-ar-arets-roligaste-djurbilder/496860/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vetenskap/har-ar-arets-roligaste-djurbilder/496860/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791039600000
     },
     {
       "title": "Bianca prisas för sitt ledarskap i kampsport",
@@ -474,16 +494,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791037551000
     },
     {
-      "title": "Trump lovar amerikanerna 50 000 kronor",
-      "description": "Donald Trump lovar alla vuxna amerikaner motsvarande 50 000 kronor om republikanerna vinner mellanårsvalet. – Det går så bra för vårt land under republikanskt ledarskap att bara jag kan ge er det här löftet, säger Trump. USA statsskuld har tickat upp till drygt 40 biljoner dollar.",
-      "link": "https://www.expressen.se/nyheter/varlden/trump-lovar--amerikanerna-50-000-kronor/",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-lovar--amerikanerna-50-000-kronor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791036627000
-    },
-    {
       "title": "Sällsynt rödfalk bongades i Ingå",
       "description": "Senast för 37 år sedan sågs en rödfalk till i Västnyland, den gången i Sjundeå.",
       "link": "https://yle.fi/a/7-10106326?origin=rss",
@@ -492,16 +502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1791036066000
-    },
-    {
-      "title": "Kalifornien vill stoppa vapen i 3D-skrivare",
-      "description": "Ny lag kan tvinga fram spärrar men oklart om det blir av Den amerikanska delstaten Kalifornien har nu bestämt sig för att man ska ha en ny lag som kräver att tillverkare av 3D-skrivare implementerar teknik som blockerar utskrifter av skjutvapen i sina 3D-skrivare. Denna lag kommer dock enbart att påverka framtida försäljning av nya maskiner, så har man en gammal 3D-skrivare är det bara att panga på. Kravet kommer dock inte att träda i kraft förrän organisationen ASTM International har fastställt en officiell branschstandard för tekniken. Kaliforniens justitiedepartement ska kontrollera om en sådan standard finns mellan åren 2027 och 2029, men om ingen standard har tagits fram senast i juli 2029, kan lagkravet rinna ut i sanden. Kritiker till förslaget ifrågasätter om tekniken överhuvudtaget fungerar. De menar att filter som baseras på databaser är lätta att kringgå genom små filändringar, medan AI-modeller riskerar att blockera helt lagliga reservdelar som råkar likna vapenkomponenter. L&auml;s vidare och kommentera: https://feber.se/pryl/kalifornien-vill-stoppa-vapen-i-3d-skrivare/496859/ L&auml;s mer om Kalifornien , skjutvapen , ASTM International",
-      "link": "https://feber.se/pryl/kalifornien-vill-stoppa-vapen-i-3d-skrivare/496859/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/kalifornien-vill-stoppa-vapen-i-3d-skrivare/496859/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791036000000
     },
     {
       "title": "EIF:s akademilag möter Euran Pallo i kvalet till tvåan: ”Vi ska gå all in”",
@@ -572,16 +572,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1791032700000
-    },
-    {
-      "title": "Spela System Shock 2 Remaster",
-      "description": "Gratis på Epic Games nu Vill man ha lite nostalgi på sin datorburk så ger Epic Games Store just nu bort System Shock 2: 25th Anniversary Remaster fram till den 8 oktober. Så om man vill ge sig på att utmana SHODAN i yttre rymden så är det bara till att ladda ner spelet via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/spela-system-shock-2-remaster/496854/ L&auml;s mer om Epic Games Store , SHODAN , System Shock 2 , gratisspel",
-      "link": "https://feber.se/spel/spela-system-shock-2-remaster/496854/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/spela-system-shock-2-remaster/496854/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791032400000
     },
     {
       "title": "Grannar vid bullervallen vill ha prov på tomten",
@@ -694,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791028807000
     },
     {
-      "title": "Kunglig akademi ifrågasätter Sturups existens",
-      "description": "Ny rapport ifrågasätter flygplatsens lönsamhet Kungliga Ingenjörsvetenskapsakademiens (IVA) rapport Framtidens transporter – mer pang för pengarna analyserar den svenska infrastrukturen och hur den kan utvecklas hållbart. I rapporten är en av slutsatserna att man bör se över Malmö Airports (Sturup) framtid. IVA ifrågasätter nämligen flygplatsens lönsamhet och relevans då allt fler skåningar väljer att resa från Kastrup i Köpenhamn istället. Så den centrala aspekt i förslaget är ekonomin. Av Swedavias tio statliga flygplatser är det i dagsläget endast Arlanda som går med vinst. Att driva Sturup vidare innebär därmed årliga förluster för staten. Dessutom pekar rapporten på att tågförbindelserna till Kastrup är överlägsna de flygbussar som trafikerar Sturup. Svenskt Näringsliv i Skåne och Blekinge ställer sig dock kritiska till förslaget då de menar att flygplatsen spelar en avgörande roll för regionens tillväxt. Utöver affärsnyttan menar man också att nationell säkerhet är en viktig faktor där flygplatsen kan fungera som en nödvändig reservkapacitet i händelse av kris eller krig. Malmö Airport är i dag Sveriges fjärde största flygplats sett till passagerarantal och den tredje största när det kommer till frakt. L&auml;s vidare och kommentera: https://feber.se/fordon/kunglig-akademi-ifragasatter-sturups-existens/496858/ L&auml;s mer om Malmö Airport , Sturup , Svenskt Näringsliv , IVA , infrastruktur , Kungliga Ingenjörsvetenskapsakademien",
-      "link": "https://feber.se/fordon/kunglig-akademi-ifragasatter-sturups-existens/496858/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/kunglig-akademi-ifragasatter-sturups-existens/496858/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791028800000
-    },
-    {
       "title": "Äldst och yngst på utställningen där platserna rök på nolltid",
       "description": "Svenska konstnärernas förening, SKF, har medlemsutställning i Konstnärshuset. Yngst är Anton Kaisan Edberg och äldst är Gunnel Boman.",
       "link": "https://www.mitti.se/nyheter/aldst-och-yngst-pa-utstallningen-dar-platserna-rok-pa-nolltid-6.3.388227.227780e8f1",
@@ -744,36 +724,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791026257000
     },
     {
-      "title": "En titt på Metallica i Sphere i Las Vegas",
-      "description": "Deras konsertresidens startade på den gigantiska arenan i veckan I veckan var det premiär för Metallicas nya residens Life Burns Faster på Sphere i Las Vegas och här kan man se ett litet klipp på hur det såg ut. Residensen i Las Vegas pågår fram till mars 2027 med totalt 24 framträdanden med en konsert på torsdagen och en på lördagen som alla kommer att ha helt unika låtlistor. L&auml;s vidare och kommentera: https://feber.se/video/en-titt-pa-metallica-i-sphere-i-las-vegas/496852/ L&auml;s mer om Metallica , Las Vegas , Life Burns Faster , Sphere , hårdrock , residens",
-      "link": "https://feber.se/video/en-titt-pa-metallica-i-sphere-i-las-vegas/496852/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/video/en-titt-pa-metallica-i-sphere-i-las-vegas/496852/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791025200000
-    },
-    {
-      "title": "Recension: Ted Forsström introducerar LitRPG på finlandssvenska",
-      "description": "Fantasin flödar i den rejäla äventyrsromanen med element från rollspel.",
-      "link": "https://yle.fi/a/7-10106244?origin=rss",
-      "guid": "https://yle.fi/a/7-10106244",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1791024224000
-    },
-    {
-      "title": "Solrutten har utsetts till ”Årets landhöjare” – arbetar för att göra Kvarkens skärgård mer tillgänglig",
-      "description": "Andelslaget Solrutten fungerar som en paraplyorganisation för båtföreningar, fiskargillen och andra som upprätthåller farleder.",
-      "link": "https://yle.fi/a/7-10106128?origin=rss",
-      "guid": "https://yle.fi/a/7-10106128",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1791023475000
-    },
-    {
       "title": "Startelvan i träningsmatchen mot VSK",
       "description": "Så här ställer Bajen upp i träningsmötet med Västerås SK. Avspark sker klockan 13.30 och matchen sänds live i vår app Forza Bajen för dig med Bajen+. 27. Felix Jakobsson32. Essayas Lwampindy-Bofua3. F",
       "link": "https://www.hammarbyfotboll.se/nyheter/startelvan-i-traeningsmatchen-mot-vsk",
@@ -792,16 +742,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1791022810000
-    },
-    {
-      "title": "Spela Halo direkt i webbläsaren",
-      "description": "Har ett flerspelarläge som stödjer 128 spelare UPPDATERING Microsoft var väl inte så glada för detta så nu har utvecklarna infört krav på att man måste ha en ISO-fil lokalt för att det ska funka. ----------------------- Om du känner för att du behöver lite mer Halo: Combat Evolved i webbläsaren så kan du nu återuppleva Master Chiefs första äventyr direkt i din webbläsare. En sann entusiast har nämligen gjort en version av spelet som flyter på bra i Chrome. Versionen innehåller hela kampanjen och har anpassats med kontroller för mus samt tangentbord. Den mest ambitiösa nyheten är dock flerspelarläget, som har skalats upp för att stödja hela 128 spelare samtidigt, vilket ju är en rätt så enorm ökning jämfört med originalets småskaliga matcher. Du hittar spelet via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/spela-halo-direkt-i-webblasaren/496851/ L&auml;s mer om Master Chief , Halo: Combat Evolved , Chrome , flerspelarläge , webbläsare",
-      "link": "https://feber.se/spel/spela-halo-direkt-i-webblasaren/496851/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/spela-halo-direkt-i-webblasaren/496851/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791021600000
     },
     {
       "title": "Elbilen gör passagerare åksjuka – läkare förklarar varför",
@@ -842,16 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Illustrerad Vetenskap",
       "sourceKey": "https://illvet.se/feed/rss",
       "timestamp": 1791018020000
-    },
-    {
-      "title": "Eddie Murphy klar för sin första tv-serie någonsin",
-      "description": "Får huvudrollen i Mad Men-skaparen Matthew Weiners nya drama Eddie Murphy är nu klar för den kommande dramaserien The Chairman, vilket är en ny serie skapad av Matthew Weiner, mannen bakom Mad Men. Detta blir Murphys första huvudroll i en manusbaserad tv-serie någonsin, dock är detaljerna kring handlingen för tillfället fortfarande hemliga. Projektet innebär också Matthew Weiners återkomst till tv sedan The Romanoffs från 2018. Det är för tillfället oklart när The Chairman har premiär. L&auml;s vidare och kommentera: https://feber.se/film/eddie-murphy-klar-for-sin-forsta-tv-serie-nagonsin/496850/ L&auml;s mer om Eddie Murphy , The Chairman , Matthew Weiner , Mad Men , The Romanoffs",
-      "link": "https://feber.se/film/eddie-murphy-klar-for-sin-forsta-tv-serie-nagonsin/496850/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/eddie-murphy-klar-for-sin-forsta-tv-serie-nagonsin/496850/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791018000000
     },
     {
       "title": "Ostpaj med trattkantareller och pumpa",
@@ -914,16 +844,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791014520000
     },
     {
-      "title": "Rakel ersätts av SWEN",
-      "description": "Med hjälp av Telia, Tele2 och Telenor Sverige tar nu ett kliv i moderniseringen av landets kriskommunikation. Myndigheten för civilt försvar (MCF) meddelade denna vecka att de har tecknat avtal med Telia samt Tele2 och Telenors gemensamma bolag Net4Mobility för att bygga SWEN (The Swedish Emergency Network), vilket är efterföljaren till Rakel. SWEN bygger på 4G- och 5G-teknik och det ska innebära att över 700 samhällsviktiga organisationer, såsom polisen, räddningstjänsten och Försvarsmakten, nu får möjlighet att dela livevideo, drönarbilder samt stora mängder data i realtid, något som Rakel inte klarar. Genom att kombinera operatörernas kommersiella mobilnät med myndighetens eget kärnnät ska det bli en robust infrastruktur med extremt hög täckning. Telia har tilldelats uppdraget att leverera radioaccessnätet (masterna), medan Net4Mobility bidrar med sitt nät som ska täcka 99,9 procent av befolkningen. Etableringen av SWEN är en omfattande satsning där regeringen har avsatt 2,3 miljarder kronor för perioden 2025–2027. Målet är att nätet ska vara fullt utbyggt och att samtliga användare ska ha migrerat från Rakel till SWEN senast år 2030. L&auml;s vidare och kommentera: https://feber.se/samhalle/rakel-ersatts-av-swen/496849/ L&auml;s mer om SWEN , Telia , Net4Mobility , Rakel , 5G , MCF , kriskommunikation",
-      "link": "https://feber.se/samhalle/rakel-ersatts-av-swen/496849/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/rakel-ersatts-av-swen/496849/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791014400000
-    },
-    {
       "title": "Hyresgäster kritiska mot renoveringen i Hagalund",
       "description": "Kritik mot hur Signalisten hanterar renoveringen",
       "link": "https://www.mitti.se/nyheter/hyresgaster-kritiska-mot-renoveringen-i-hagalund-6.3.387532.ea95f79fef",
@@ -932,16 +852,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791014400000
-    },
-    {
-      "title": "Första bilderna på Citroën 2CV!",
-      "description": "En klassiker kommer tillbaka Det är snart bilsalong i Paris och då kommer Citroën att visa upp en ny version av sin ikoniska 2CV. Det har ryktats om det ett tag, men nu har märket börjat släppa inte helt hemliga poster på sociala medier. Renault har ju lyckats bra med sina retrobilar, framförallt med Renault 5 som är en liten pärla på alla sätt och vis. Men det är alltid med nervositet som klassiker återupplivas. Förhoppningen väcks på de här första bilderna. Ovan ser vi fälgarna och nedan handtag och blinkers som hämtar mycket från den ursprungliga 2CV. Originalet presenterades 1948 och var fransmännens folkapubbla. Den lilla bilen tillverkades faktiskt ända fram till 1990. Den 11 oktober kommer man att visa den nya versionen och vi kommer att kolla in den i Paris. Det som väntas visas först är ett koncept, den färdiga versionen kommer nog tyvärr senare. L&auml;s vidare och kommentera: https://feber.se/bil/forsta-bilderna-pa-citroen-2cv/496857/ L&auml;s mer om Renault 5 , 2CV , Paris bilsalong , retrobilar , Paris , Renault , Citroën 2CV , elbilar",
-      "link": "https://feber.se/bil/forsta-bilderna-pa-citroen-2cv/496857/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/forsta-bilderna-pa-citroen-2cv/496857/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791012600000
     },
     {
       "title": "Karljohanssoppa med sherry och grädde",
@@ -972,16 +882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1791008580000
-    },
-    {
-      "title": "Ny PlayStation-kontroll från NACON",
-      "description": "Revolution 5 Unlimited har inbyggd skärm och magnetiska sensorer NACON presenterade i går sin nya handkontroll Revolution 5 Unlimited (R5U) vilket är officiellt licensierad för PlayStation 5. Det som är lite speciellt med den är att den har en inbyggd skärm där pekplattan brukar vara, där man då ska kunna göra enkla justeringar direkt utan att behöva jiddra med app eller annat. Du kan till exempel snabbt ändra ljudmix, spakarnas känslighet och knappmappning direkt via skärmen. Under huven hittar man magnetisk sensorik som då ska ge högre precision och bättre hållbarhet jämfört med traditionella kontroller. För FPS-spelare finns dessutom ett Shooter Pro Mode som ser till att eliminera \"döda zoner\" i styrspakarna om man nu är känslig för sådant. Revolution 5 Unlimited fungerar till PlayStation 5, PC och Android TV. Den har stöd för både trådlös och trådbunden anslutning med extremt låg latens (1ms i PC-läget). För första gången inkluderar NACON också en dedikerad laddningsstation och en förvaringsväska i paketet. Kontrollen finns tillgänglig för förhandsbokning nu med ett rekommenderat pris på cirka 199,99 euro. L&auml;s vidare och kommentera: https://feber.se/spel/ny-playstation-kontroll-fran-nacon/496846/ L&auml;s mer om NACON , Revolution 5 Unlimited , PlayStation 5 , handkontroll , PC , magnetisk sensorik , Shooter Pro Mode",
-      "link": "https://feber.se/spel/ny-playstation-kontroll-fran-nacon/496846/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/ny-playstation-kontroll-fran-nacon/496846/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1791007200000
     },
     {
       "title": "Fler studenter väljer bort studielånet i Sigtuna",
@@ -1194,16 +1094,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790969436000
     },
     {
-      "title": "Har du startat företag?",
-      "description": "Dagens arbetslivsfråga Tidigare idag skrev vi om statistik från Bolagsverket som visade att nyföretagandet i Sverige har ökat i år. Jag tänkte därför att vi kunde kolla om ni läsare någonsin har startat ett företag. Svara gärna på vår enkät nedan. Vill ni snacka mer om företagande, kanske om vilken typ av företag ni startat, om företaget fortfarande finns kvar, eller något annat som känns relevant, kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-startat-foretag/496832/ L&auml;s mer om Bolagsverket , företagande , nyföretagande , enkät , Sverige , entreprenörskap , företag",
-      "link": "https://feber.se/har-du-startat-foretag/496832/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/har-du-startat-foretag/496832/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790967600000
-    },
-    {
       "title": "Seiko 5 Sports SSK005 GMT Watch",
       "description": "",
       "link": "https://uncrate.com/seiko-5-sports-ssk005-gmt-watch/",
@@ -1212,16 +1102,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1790967600000
-    },
-    {
-      "title": "Häng en Ferrari på väggen",
-      "description": "Inget konstigt, bara konst Att hänga upp tavlor av olika slag kan ge lite mer liv i ett hem. Det behöver inte vara något fancy utan bara det är något som du gillar så brukar det bli bra. Ferrari tänker att bildelar kan vara något att dekorera hemmet med, och visst passar det alldeles utmärkt om man är bilnörd och har gott om stålar. Nu presenterar tillverkaren samlingen Sketch Book och den innehåller motorhuvar från modeller som 812, 12Cilindri och F80. Varje del har även fått några skisslinjer på sig och notiser från designchefen Flavio Manzoni. Vad de kostar och hur många olika som kommer att tillverkas framgår dock inte för tillfället. Vad har du själv på väggarna hemma? Och på väggarna i garaget? L&auml;s vidare och kommentera: https://tjock.se/hemmet/hang-en-ferrari-pa-vaggen/496837/ L&auml;s mer om Sketch Body , konst , tavlor , motorhuv , design , inredning",
-      "link": "https://tjock.se/hemmet/hang-en-ferrari-pa-vaggen/496837/?utm_source=rss&utm_medium=feed",
-      "guid": "https://tjock.se/hemmet/hang-en-ferrari-pa-vaggen/496837/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790965800000
     },
     {
       "title": "20.45: Hampus debuterar mot Bosnien",
@@ -1234,16 +1114,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790965500000
     },
     {
-      "title": "Upplev Arrakis i ny Dune-utställning",
-      "description": "Dune: The Experience öppnar i november Senare i år är det dags för den tredje och sista delen i Dune-serien, men redan nästa månad går det att besöka en konstgjord version av ökenplaneten Arrakis i en utställning som kallas \"Dune: The Experience\". Bakom utställningen står filmbolaget Warner Bros. och Legendary som skapat utställningen tillsammans med eventbolaget Fever. På Dune: The Experience webbplats beskrivs upplevelsen som en interaktiv liveupplevelse som tar med besökaren på en resa genom Dune-universumet. Man skriver vidare: \"Step into an atmosphere built to be touched, heard, and felt firsthand, with opportunities to test yourself against the Bene Gesserit, discover hidden messages within ancient carvings, claim Paul Atreides' throne, and capture an unforgettable photo moment with a colossal sandworm.\" I anslutning till upplevelsen finns även en restaurang med Dune-tema och möjligheten att köpa Dune-merch i en presentbutik. Dune: The Experience kommer initialt att husera i Los Angeles, men det finns planer på att upplevelsen senare ska turnera runt i andra städer. Filmen Dune: Part Three går upp på svenska biografer den 16 december. L&auml;s vidare och kommentera: https://feber.se/film/upplev-arrakis-i-ny-dune-utstallning/496839/ L&auml;s mer om Warner Bros , Dune , Legendary , Fever , Paul Atreides , Dune: The Experience , Arrakis , Los Angeles",
-      "link": "https://feber.se/film/upplev-arrakis-i-ny-dune-utstallning/496839/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/upplev-arrakis-i-ny-dune-utstallning/496839/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790964000000
-    },
-    {
       "title": "Craighill Batten Card Wallet",
       "description": "",
       "link": "https://uncrate.com/craighill-batten-card-wallet/",
@@ -1252,16 +1122,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1790964000000
-    },
-    {
-      "title": "Det inre skärmskiktet på iPhone Duo går att byta ut",
-      "description": "Men antagligen inte hemma I en intervju bekräftar Apples chef för hårdvaruutveckling, Kate Bergeron, att det yttersta skiktet med nanotextur på den inre skärmen på iPhone Duo kan tas av och bytas ut. Trots att Apple enligt henne lagt stora resurser på att göra det så hållbart som möjligt, ska användare ha någon sorts möjlighet att ersätta skiktet om det slits ut eller om vecket blir tydligare med tiden. I USA kommer ett byte att kosta 19 dollar för kunder som har AppleCare+. Troligtvis kommer själva bytet att behöva utföras av Apple eller en auktoriserad verkstad. Förbokningarna för iPhone Duo drar igång den 16 oktober. L&auml;s vidare och kommentera: https://feber.se/mobil/det-inre-skarmskiktet-pa-iphone-duo-gar-att-byta-ut/496838/ L&auml;s mer om iPhone Duo , Kate Bergeron , nanotextur , AppleCare+",
-      "link": "https://feber.se/mobil/det-inre-skarmskiktet-pa-iphone-duo-gar-att-byta-ut/496838/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/det-inre-skarmskiktet-pa-iphone-duo-gar-att-byta-ut/496838/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790962200000
     },
     {
       "title": "Hatch Baby Light",
@@ -1284,16 +1144,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790961300000
     },
     {
-      "title": "BMW presenterar busiga motorcykeln F 450 R",
-      "description": "Skoj i mellansegmentet Den som inte behöver det allra värsta eller måste köra mellanhoj för att körkortet inte tillåter mer får nu ytterligare ett alternativ från BMW Motorrad. Nu presenteras modellen F 450 R som med sin låga vikt kanske kan vara ett roligt och lite busigt val. Designen ska vara inspirerad av storebror S 1000 R men allt är som väntat i en något mindre och mer nedtonad skala. I ramen sitter en nyutvecklad vattenkyld tvåcylindrig radmotor på 420 kubik som levererar 48 hästar vid 8750 varv/min och ett vrid på 43 newtonmeter vid 6750 varv/min. 0-100 km/h ska gå på 5,7 sekunder och toppfarten ligger på 169 km/h. Till maskinen får man en sexpetad växellåda och kedjedrift. Som standard på alla versioner utom Base finns tekniken Shift Assistant Pro som gör att du kan växla både upp och ner utan att koppla. På tillvalslistan finns bland annat Easy Ride Clutch som automatiskt kopplar åt dig beroende på motorns varvtal. Detta kan vara najs i stadstrafik där det blir många start och stopp. Det finns tre olika körlägen - Rain, Road och Dynamic. ABS Pro, Dynamic Brake Control och Dynamic Traction Control är standard. Tjänstevikten anges till 175 kilo och hjulbasen ligger på 1,40 meter. Sadelhöjden ligger på 79 centimeter men man kan köpa till sadlar som sänker 15 millimeter eller höjer 20 millimeter. Hojen kostar från 79.000 kronor och finns att köpa nu. De första leveranserna ska ske under andra kvartalet nästa år - lagom till våren alltså. L&auml;s vidare och kommentera: https://feber.se/fordon/bmw-presenterar-busiga-motorcykeln-f-450-r/496803/ L&auml;s mer om BMW , F 450 R , hoj , BMW Motorrad , A2 , insteg , mellanhoj",
-      "link": "https://feber.se/fordon/bmw-presenterar-busiga-motorcykeln-f-450-r/496803/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/bmw-presenterar-busiga-motorcykeln-f-450-r/496803/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790960400000
-    },
-    {
       "title": "Porsche Design Chronograph 1 Utility Watch",
       "description": "",
       "link": "https://uncrate.com/porsche-design-chronograph-1-utility-watch/",
@@ -1314,16 +1164,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790960400000
     },
     {
-      "title": "En sista trailer för VisionQuest",
-      "description": "Drar igång på Disney+ senare den här månaden Om lite mindre än två veckor har Marvel-serien VisionQuest premiär på Disney+ och inför det har man nu släppt en ny trailer. Det handlar om en miniserie i två delar som utspelar sig efter händelserna i WandaVision och Agatha All Along där tittarna kommer att få följa vad som hände med den syntetiske androiden Vision efter att han dog i WandaVision . VisionQuest börjar visas på Disney+ den 14 oktober. Ni hittar den senaste trailern för miniserien ovan. L&auml;s vidare och kommentera: https://feber.se/film/en-sista-trailer-for-visionquest-/496807/ L&auml;s mer om Marvel , VisionQuest , WandaVision , Agatha All Along , trailer , Disney+ , Vision , superhjältar",
-      "link": "https://feber.se/film/en-sista-trailer-for-visionquest-/496807/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/en-sista-trailer-for-visionquest-/496807/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790958600000
-    },
-    {
       "title": "Brandmän räddade ko upp ur lerdike",
       "description": "Brandkåren i Sigtuna ryckte ut på natten och räddade ko upp ur dike.",
       "link": "https://www.mitti.se/nyheter/brandman-raddade-ko-upp-ur-lerdike-6.3.389429.a7e4b7a5bd",
@@ -1342,26 +1182,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1790956802000
-    },
-    {
-      "title": "Demo på gång för Moomin: Midsummer Madness",
-      "description": "Upplev magin i Mumindalen den 15 oktober Det kommande äventyrsspelet Moomin: Midsummer Madness kommer få sig en spelbar demo den 15 oktober. Denna demo kommer vara tillgänglig på Steam och ger då folk chansen att prova hur det är att hjälpa Mumintrollet att hitta hem efter en stor översvämning. Som spelare kontrollerar man karaktärer som Mumintrollet och Lilla My som då ska hitta sina försvunna vänner samt slutligen finna vägen hem igen. Längs vägen utlovas små mirakel och hjärtliga möten som enligt utvecklarna ska fånga Tove Janssons unika atmosfär. Själva spelet är på gång för PC via Steam och Switch. L&auml;s vidare och kommentera: https://feber.se/spel/demo-pa-gang-for-moomin-midsummer-madness/496820/ L&auml;s mer om Moomin: Midsummer Madness , Mumintrollet , Steam , Nintendo Switch , äventyrsspel , Lilla My",
-      "link": "https://feber.se/spel/demo-pa-gang-for-moomin-midsummer-madness/496820/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/demo-pa-gang-for-moomin-midsummer-madness/496820/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790956800000
-    },
-    {
-      "title": "Ted blir animerad serie",
-      "description": "Med Seth MacFarlane och Mark Wahlberg Streamingtjänsten Peacock har meddelat att en animerad version baserad på filmerna om den dyssiga nallebjörnen Ted kommer som animerad serie. Precis som i filmerna är det Seth MacFarlane som ger röst till Ted, medan Mark Wahlberg, som spelade den 35-årige John Bennett som haft sällskap av Ted sedan han var barn, kommer att göra rösten till den animerade versionen av John. Serien kommer att utspela sig cirka tolv år efter händelserna i Ted (2012) och Ted 2 (2015). Det har tidigare även gjorts en tv-serie med Ted på Peacock där tittarna fick följa Ted och en 16-årig version av John som spelades av Max Burkholder. Även i serien röstsatte Seth MacFarlane Ted. Tv-serien Ted sändes i två säsonger 2024–2026, men det finns inga planer på några fler säsonger. De första åtta avsnitten av Ted: The Animated Series kommer att ha premiär på Peacock den 17 december. Fler avsnitt är planerade att släppas under 2027. Nedan hittas en kort introduktionsteaser för serien. L&auml;s vidare och kommentera: https://feber.se/film/ted-blir-animerad-serie/496834/ L&auml;s mer om Peacock , Ted , Seth MacFarlane , Mark Wahlberg , animerad serie , amanda seyfried",
-      "link": "https://feber.se/film/ted-blir-animerad-serie/496834/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/ted-blir-animerad-serie/496834/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790955000000
     },
     {
       "title": "Frank Sinatra A OK Framed Print",
@@ -1394,16 +1214,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790953420000
     },
     {
-      "title": "Hyundai berättar mer om nya Tucson",
-      "description": "\"The Boldest SUV\" I augusti fick vi se bilder på nya Tucson, nu berättar Hyundai de smaskiga detaljerna kring modellen. Designmässigt är det raka och yxiga linjer som gäller och man säger att bilen förkroppsligar konceptet \"The Boldest SUV\" genom designspråket \"Art of Steel\". Oavsett vad man tycker om utseendet så passar den ju numera bättre in i Hyundais övriga utbud som alla har något från denna design. På bilmässan i Paris ska ytterligare en version som ska vara ännu mer \"dynamiskt\" designad visas upp. Under skalet kan man välja mellan en bensin, hybrid eller laddhybrid. Den förstnämnda kombinerar en fyrcylindrig motor på 1,6 liter med 150 hästar som paras med en sexpetad manuell låda eller en sjustegad dubbelkopplingslåda. Hybriden ger dig istället 245 hästar medan laddhybriden har 292 hästar. Batteriet i denna är på 17,1 kWh och man ska kunna köra på bara el i upp till åtta mil. På insidan finns den senaste generationens infotainmentsystem Pleos Connect med AI-röstassistenten Gleo och allt bygger på Android Automotive OS. Interiören har både skärmar i storleken 12,9 eller 17 tum och en hel del fysiska knappar vilket säkerligen många uppskattar. Man har utformat insidan som ett \"Furnished Space\" där man vill kombinera visuell elegans, genomtänkt design och möbelinspirerad komfort. Bang & Olufsen står för disco-dunket med tolv högtalare. Måtten på bilen är 4,56 meter på längden, 1,9 på bredden och 1,67 på höjden. Det gör den 35 millimeter längre, 35 mm millimeter och 20 millimeter högre än sin föregångare. I bagagerummet ryms upp till 695 liter och på dragkroken får man hänga upp till 1,9 ton. På färgpaletten hittar vi de nya alternativen Moonlake Blue Metallic, Moonlake Blue Matte, Rich Walnut Metallic, Rich Walnut Matte och Ignite Red. Tillverkningen för den europeiska marknaden sker i Tjeckien. Läs allt om bilen på länken nedan. L&auml;s vidare och kommentera: https://feber.se/bil/hyundai-berattar-mer-om-nya-tucson/496802/ L&auml;s mer om Tucson , SUV , facelift , crossover , design , kantig , större , information , specifikationer",
-      "link": "https://feber.se/bil/hyundai-berattar-mer-om-nya-tucson/496802/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/hyundai-berattar-mer-om-nya-tucson/496802/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790953200000
-    },
-    {
       "title": "Kampen mot Trädgården fortsätter – staden får bakläxa",
       "description": "Trädgården i Stockholm saknar bygglov – staden måste göra tillsyn efter beslut i länsstyrelsen",
       "link": "https://www.mitti.se/nyheter/kampen-mot-tradgarden-fortsatter--staden-far-baklaxa-6.3.389416.d8c5c8d9eb",
@@ -1412,26 +1222,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790952134000
-    },
-    {
-      "title": "Technics stoppar magnetisk vätska i sina nya hörlurar",
-      "description": "Här är flaggskeppet EAH-A1000 Technics har visat upp sina nästa generations adaptiva brusreducerande flaggskeppshörlurar, EAH-A1000, som för första gången i märkets over-ear-utbud använder 40-millimeterselement med magnetisk vätska, vilket tillsammans med en \"SST Edge\"-teknik hämtad från företagets högtalare ska minimera oönskade vibrationer. Brusreduceringen hanteras av totalt åtta mikrofoner som anpassar dämpningen efter både passform och omgivningens ljudnivå. Hörlurarna har också stöd för högupplöst ljud via LDAC, förlustfri lyssning via USB samt en multipoint-funktion som låter upp till tre enheter vara uppkopplade samtidigt. Batteritiden ska ligga på upp till 45 timmar med ANC aktiverat. Priset ligger på 450 dollar och hörlurarna finns i färgerna \"greige\" och svart. L&auml;s vidare och kommentera: https://feber.se/pryl/technics-stoppar-magnetisk-vatska-i-sina-nya-horlurar/496844/ L&auml;s mer om LDAC , Technics , EAH-A1000 , brusreducering , SST-kant , ljudteknik , Technics EAH-A1000",
-      "link": "https://feber.se/pryl/technics-stoppar-magnetisk-vatska-i-sina-nya-horlurar/496844/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/technics-stoppar-magnetisk-vatska-i-sina-nya-horlurar/496844/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790952000000
-    },
-    {
-      "title": "Ny modell av Moonwalkers släppt",
-      "description": "Gå snabbare med smarta skor Shift Robotics släpper nu en ny version av sina Moonwalkers, de \"smarta\" sandalerna man presenterade 2022 vilka får användarna att gå snabbare. Den nya versionen kallas \"Moonwalkers Dust\" och är försedd med LED-belysning som kan lysa upp området runt användarens fötter. Den nya modellen har även fått en flexibel led vid tåspetsarna vilket kanske kan göra dem lite bekvämare. Den inbyggda AI:n SENSA, som beräknar användarens gångstil och anpassar skorna efter den, har även blivit snabbare. Den ska nu kunna lära sig och anpassa sig till användarens steglängd på bara 10 steg. Med Moonwalkers Dust ska det vara möjligt att \"gå\" i hastigheter på lite över 11 km/h. Det uppladdningsbara batteriet räcker i cirka 60–90 minuter och går att ladda upp via USB-C. Moonwalkers Dust går att köpa nu och kostar cirka 12.200 kronor. Här nedanför hittas ett videoklipp där de visas upp lite närmare. L&auml;s vidare och kommentera: https://feber.se/pryl/ny-modell-av-moonwalkers-slappt/496828/ L&auml;s mer om Shift Robotics , Moonwalkers Dust , USB-C , smarta skor , Moonwalkers , AI , LED-belysning , sandaler",
-      "link": "https://feber.se/pryl/ny-modell-av-moonwalkers-slappt/496828/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/ny-modell-av-moonwalkers-slappt/496828/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790951400000
     },
     {
       "title": "Turist gick fel – orsakade larm från Centralbron",
@@ -1454,26 +1244,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790950830000
     },
     {
-      "title": "McDonalds inför dynamisk prissättning med AI",
-      "description": "Räknar ut hur mycket du är beredd att betala för en Big Mac Nyhetsbyrån Reuters har kollat in hur amerikanska McDonalds-restaurangers prissättning fungerar och i inslaget ovan berättar man lite mer om det. McDonalds har tagit fram ett system som man kallar för \"pricing engine\" (prismotor) som räknar ut och rekommenderar det pris som systemet tror en kund är beredd att betala för McDonalds produkter. Systemet använder sig av AI som med hjälp av miljontals transaktioner på McDonalds egna restauranger och jämförelser med vad konkurrenter, till exempel Burger King och Wendys, tar för sina produkter, räknar ut det rekommenderade priset. McDonalds säger i en kommentar att franschisetagarna som driver McDonalds restauranger själva kan välja om de ska följa prissättningen som prismotorn rekommenderar. Franschisetagare som Reuters varit i kontakt med uppger dock att det kan komma påtryckningar från McDonalds om de väljer att avvika från den rekommenderade prissättningen. L&auml;s vidare och kommentera: https://feber.se/samhalle/mcdonalds-infor-dynamisk-prissattning-med-ai/496845/ L&auml;s mer om McDonalds , dynamisk prissättning , prismotor , pricing engine , snabbmat , AI-Prissättning , Burger King",
-      "link": "https://feber.se/samhalle/mcdonalds-infor-dynamisk-prissattning-med-ai/496845/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/samhalle/mcdonalds-infor-dynamisk-prissattning-med-ai/496845/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790950800000
-    },
-    {
-      "title": "Samsung chockhöjer priserna på Galaxy S26-serien",
-      "description": "Upp till 3000 kronor dyrare i Sverige Samsung har genomfört ganska stora prishöjningar på Galaxy S26-serien och andra delar av sitt sortiment i både USA och här i Europa. I Samsungs svenska butik har priserna klättrat med mellan 1000 och 3000 kronor jämfört med lanseringspriserna, rapporterar Swedroid: basmodellen Galaxy S26 (256 GB) kostar nu 12.990 kronor (+1000 kr), medan S26 Ultra med 1 TB lagring landar på hela 25.490 kronor (+3000 kr). Det innebär bland annat att S26 Ultra (256 GB) för 18.490 kronor nu matchar priset på Apples iPhone 18 Pro Max med motsvarande lagring. Även mellanklassaren Galaxy A57 har höjts med 500 kronor, medan A37 istället blivit billigare. Swedroid har en större genomgång av prishöjningarna via länken nedan L&auml;s vidare och kommentera: https://feber.se/mobil/samsung-chockhojer-priserna-pa-galaxy-s26-serien/496843/ L&auml;s mer om Galaxy S26 , iPhone 18 Pro Max , Galaxy S26 Ultra , Galaxy A57 , minnesbrist",
-      "link": "https://feber.se/mobil/samsung-chockhojer-priserna-pa-galaxy-s26-serien/496843/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/samsung-chockhojer-priserna-pa-galaxy-s26-serien/496843/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790950200000
-    },
-    {
       "title": "Kvinna misstänkt för mordet i Skärmarbrink släppt",
       "description": "En man och en kvinna begärs häktade på sannolika skäl misstänkta för mordet på den man som hittades död i tisdags vid Skärmarbrinks tunnelbanestation.",
       "link": "https://www.mitti.se/nyheter/kvinna-misstankt-for-mordet-i-skarmarbrink-slappt-6.3.389422.e9e1e2cbf6",
@@ -1494,16 +1264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790949716000
     },
     {
-      "title": "Toyota släpper husvagn på Hilux",
-      "description": "Återskapar klassiskt Top Gear-klipp I Top Gear från 2003 torterade gänget en stackars Toyota Hilux som vägrade att ge upp. Bland annat släppte de en husvagn på den vilket den bara skakade av sig. För att skoja lite med detta har Toyota UK återskapat det gamla styrketestet fast med den senaste upplagan av Hilux. Originalet hittar ni längst ner i denna artikel. L&auml;s vidare och kommentera: https://feber.se/bil/toyota-slapper-husvagn-pa-hilux-/496806/ L&auml;s mer om Hilux , Top Gear , husvagn , krasch , krock , kran , släppa , tålig",
-      "link": "https://feber.se/bil/toyota-slapper-husvagn-pa-hilux-/496806/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/toyota-slapper-husvagn-pa-hilux-/496806/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790949600000
-    },
-    {
       "title": "Staden väntar med utredning om valfusk",
       "description": "Ingen utredning om valfusk i Järva",
       "link": "https://www.mitti.se/nyheter/staden-vantar-med-utredning-om-valfusk-6.3.389468.f5343656d8",
@@ -1514,36 +1274,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790949469000
     },
     {
-      "title": "Chimera är för gamers som inte gillar hörlurar",
-      "description": "Stolsmonterade högtalare blastar ljud rakt in i öronen Företaget Cololight har tagit fram ett ljudtillbehör som primärt är riktat till gamers som inte vill ha hörlurar på sig när de spelar. Tillbehöret kallas Chimera och består av ett par högtalare och en mikrofon som är tänkta att monteras på stolen där spelaren sitter och spelar. Enligt Cololight ska systemet gå att fästa på alla gamingstolar på marknaden. Systemet kommunicerar sedan med en tillhörande dongel på datorn via en trådlös 2,4Ghz-uppkoppling. Inuti varje högtalarchassi sitter en fyratums bas samt nio diskanthögtalare, något som Cololight säger ska borga för en uppslukande ljudupplevelse. Cololight Chimea går att köpa nu via en crowdfunding-kampanj på Kickstarter. Hoppas men på den kampanjen kostar ljudsystemet cirka 2200 kronor och leveranserna ska dra igång i november 2026. Nedan kan ni kolla in en introduktionsvideo för Chimera. L&auml;s vidare och kommentera: https://feber.se/spel/chimera-ar-for-gamers-som-inte-gillar-horlurar/496842/ L&auml;s mer om Cololight , Chimera , Kickstarter , gamingstol , gamingstolar , högtalare , hörlurar",
-      "link": "https://feber.se/spel/chimera-ar-for-gamers-som-inte-gillar-horlurar/496842/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/chimera-ar-for-gamers-som-inte-gillar-horlurar/496842/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790949000000
-    },
-    {
-      "title": "Googles nya tangentbord låter dig vänta in bokstäver",
-      "description": "Kommer på ett rullband Traditionsenligt visar Google Japan en aprilskämtsliknande produkt den 1 oktober, och årets skapelse är ett fysiskt Gboard-tangentbord där tangenterna är monterade på fyra roterande rullband med 29 tangenter vardera. Istället för att användaren flyttar handen över brädet får man helt enkelt vänta på att rätt bokstav rullar förbi fingret. Eftersom stora och små bokstäver har egna tangenter behövs ingen Shift-knapp, och enligt Google frigörs den andra handen till att exempelvis dricka te eller styra musen. Tangentbordet finns inte att köpa, men man har publicerat ritningar för 3D-utskrift, kretskort och mjukvara öppet på Github för den som känner sig manad att bygga ett eget. L&auml;s vidare och kommentera: https://feber.se/internet/googles-nya-tangentbord-later-dig-vanta-in-bokstaver/496841/ L&auml;s mer om Gboard , Github , tangentbord , 3D-utskrift , Japan , Google Japan",
-      "link": "https://feber.se/internet/googles-nya-tangentbord-later-dig-vanta-in-bokstaver/496841/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/googles-nya-tangentbord-later-dig-vanta-in-bokstaver/496841/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790948400000
-    },
-    {
-      "title": "Androids nya verifieringskrav träder i kraft",
-      "description": "Inför 24 timmars väntetid för overifierade appar Googles nya regler för utvecklarverifiering av Android-appar har nu börjat gälla. För att få distribuera appar i Brasilien, Thailand, Singapore och Indonesien (även utanför Play Store) måste utvecklare nu gå igenom Googles verifieringsprocess. Det kommer fortfarande att vara möjligt att installera overifierade appar via så kallad sideloading, men den nya säkerhetsprocessen innebär att användarna då tvingas till en 24 timmar lång väntetid innan appen faktiskt kan installeras. Reglerna planeras att rullas ut globalt med start nästa år. L&auml;s vidare och kommentera: https://feber.se/mobil/androids-nya-verifieringskrav-trader-i-kraft/496827/ L&auml;s mer om Google , Sidladdning , Google Play , Play-butiken , utvecklarverifiering , apputveckling , Brasilien",
-      "link": "https://feber.se/mobil/androids-nya-verifieringskrav-trader-i-kraft/496827/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/androids-nya-verifieringskrav-trader-i-kraft/496827/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790947800000
-    },
-    {
       "title": "Lunchkaféet i västerort utsatt för kabelstölder",
       "description": "Polisen utreder kabelstöld på lunchkaféet. Tidigare i september upptäckte personalen på Kanaans trädgårdscafé hur kablarna till glassfrysen och trädgårdens belysning ute i hade klippts av. Nu misstänker polisen att det handlar om kabelstölder. September 2026.",
       "link": "https://www.mitti.se/nyheter/lunchkafeet-i-vasterort-utsatt-for-kabelstolder-6.3.388271.f359dec8c3",
@@ -1552,16 +1282,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790947433000
-    },
-    {
-      "title": "Ny funktion låter dig panikköra från en Supercharger",
-      "description": "Släpper sladden om situationen är akut För att kunna släppa parkeringsbromsen och lägga i Drive-läget i en Tesla när den laddar måste du låsa upp laddporten via infotainmentsystemet eller via appen. För några månader sedan sköts en person till döds i sin Tesla medan han stod och laddade utanför en burgarrestaurang i Idaho efter att en galning genomfört en masskjutning . Hade man inte behövt göra detta kanske han hade kunnat fly iväg. Tesla-ägare ville efter händelsen ha något som gör att man snabbt kan dra iväg om det skulle behövas, och nu införs detta. Man kallar det för Emergency Drive Away. Om du lägger i Drive medan sladden fortfarande sitter i kommer det dyka upp en varning på skärmen. Håller du nere bromsen och trycker på Activate kommer du kunna bränna iväg utan att behöva gå ur bilen. Sladden kommer då att paja och potentiellt skada din bil lite, men det kanske spelar mindre roll om det är panik. Funktionen kommer att rullas ut via en mjukvaru-uppdatering men det är bara för de som bor i USA den kommer att fungera. Model S och Model X innan 2021 har heller inte stöd för detta, så se till att du inte behöver panikfly om du har en sådan. L&auml;s vidare och kommentera: https://feber.se/bil/ny-funktion-later-dig-panikkora-fran-en-supercharger/496840/ L&auml;s mer om Emergency Drive Away , Supercharger , sladd , ladda , panik , funktion",
-      "link": "https://feber.se/bil/ny-funktion-later-dig-panikkora-fran-en-supercharger/496840/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/ny-funktion-later-dig-panikkora-fran-en-supercharger/496840/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790946900000
     },
     {
       "title": "Leona, 16, räddade fåret Martin från slakt",
@@ -1624,16 +1344,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1790946076000
     },
     {
-      "title": "Snart kan du testa March of Giants",
-      "description": "Ubisofts kommande MOBA-satsning Om man är under nästa år är sugen på att prova ett nytt MOBA-spel så kanske Ubisofts kommande spel March of Giants kan vara något för dig. Då lanseras nämligen detta 4v4 MOBA i Early Access och det återstår väl att se om det blir någon succé eller ej. Hur som helst så utspelar sig spelet i en mörk värld inspirerad av första världskriget. Som spelare kontrollerar du jättar med unika förmågor men du strider inte ensam. Du har också befäl över hela bataljoner med soldater som kan skickas ut för att anfalla fiender, samla resurser eller säkra strategiska positioner för laget. Det har också RTS-liknande moment i form av Battleworks-systemet som ger en möjlighet att aktivt förändra arenan under pågående strid genom att bygga försvar, stödja anfall eller kalla in förstärkningar. Mellan den 7 och 18 oktober anordnas ett Pioneer Playtest där man då kan prova en tidig version av spelet. För att delta i detta gäller det att man anmäler sig via spelets Steam-sida. L&auml;s vidare och kommentera: https://feber.se/spel/snart-kan-du-testa-march-of-giants-/496819/ L&auml;s mer om Ubisoft , March of Giants , MOBA , Steam , RTS , Early Access , Battleworks",
-      "link": "https://feber.se/spel/snart-kan-du-testa-march-of-giants-/496819/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/snart-kan-du-testa-march-of-giants-/496819/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790946000000
-    },
-    {
       "title": "Låst läge i regionen: \"Vi kommer ingen vart\"",
       "description": "På fredagen blev valresultatet till regionfullmäktige slutligen fastställt. Men dragkampen om vilka som ska styra regionen har inte rört sig en millimeter. – Det händer ingenting, säger en källa till Mitt i.",
       "link": "https://www.mitti.se/nyheter/last-lage-i-regionen-vi-kommer-ingen-vart-6.3.388847.acf12dfb72",
@@ -1652,16 +1362,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790944462000
-    },
-    {
-      "title": "Europa har förlorat slaget mot kinesiska bilar",
-      "description": "Enligt Fords vd Fords vd Jim Farley pratar gärna om elbilsmarknaden. Hans senaste uttalande handlar om att Europa förlorat slaget mot kinesiska bilar. Det är kört helt enkelt, och Kina har tagit överhand. Han varnar därför bland annat Washington och säger att de borde tänka både en och två gånger innan de släpper in de kinesiska bilarna. Enligt honom har USA fortfarande möjligheter att kontrollera marknaden och ta beslut om de ska eller inte ska öppna flodfördämningarna överallt och låta Kina komma in. Under augusti månad nådde kinesiska biltillverkare en marknadsandel på 11,7 procent i Europa vilket är en ökning med 111 procent när man jämför med samma period förra året. I år väntas exporten av fordon från Kina till Europa, Sydamerika och andra regioner nå runt tolv miljarder exemplar vilket är en ökning med hela 400 procent sedan 2022. Ford samarbetar med flera kinesiska tillverkare men Jim är noga med att peka på att de även är konkurrenter. Ford kommer bara ta in kinesisk hjälp när det är ekonomiskt effektivt och när de själva saknar kunskap inom vissa områden. Ford har tillsammans med Geely inlett ett samarbete där de ska utveckla av elbilar för den europeiska marknaden. Man använder även teknik från batteritillverkaren CATL. L&auml;s vidare och kommentera: https://feber.se/bil/europa-har-forlorat-slaget-mot-kinesiska-bilar/496829/ L&auml;s mer om Jim Farley , elbilsmarknad , Kina , USA , Europa , slaget , förlorat , kört",
-      "link": "https://feber.se/bil/europa-har-forlorat-slaget-mot-kinesiska-bilar/496829/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/europa-har-forlorat-slaget-mot-kinesiska-bilar/496829/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1790944200000
     },
     {
       "title": "Milstolpe i Slussen: Bussterminalen lämnas över till SL",
