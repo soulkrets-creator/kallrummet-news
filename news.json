@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-10-04T23:41:57.987Z",
+  "updatedAt": "2026-10-05T02:55:05.122Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "USA tar hem sina bombplan från England",
+      "description": "USA flyttar hem alla sina bombflyg från brittiska flygbasen RAF Fairford. Beslutet fattas efter det misstänkta attackförsöket mot basen för en vecka sedan. – De har återvänt till sina hemmabaser i USA, säger en talesperson för försvarsdepartementet i ett uttalande.",
+      "link": "https://www.expressen.se/nyheter/varlden/usa-tar-hem-sina-bombplan-fran-england/",
+      "guid": "https://www.expressen.se/nyheter/varlden/usa-tar-hem-sina-bombplan-fran-england/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791168767000
+    },
+    {
+      "title": "Ingen vann valet i Brasilien",
+      "description": "Ny valomgång",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1984aa5-0cba-46a5-8844-80fad569928a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1984aa5-0cba-46a5-8844-80fad569928a",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791168139000
+    },
+    {
+      "title": "Studieskulden har fördubblats på 15 år – se hur länge det tar för dig att betala bort ditt studielån",
+      "description": "Studielånet sågs som gratis pengar, men nu kan notan bli dyr. Testa vår studielånsräknare.",
+      "link": "https://yle.fi/a/7-10104629?origin=rss",
+      "guid": "https://yle.fi/a/7-10104629",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1791167414000
+    },
+    {
+      "title": "Easing constipation: A 20-minute walk can get your gut moving almost immediately",
+      "description": "Researchers found that just 20 minutes of comfortable walking can rapidly stimulate the gut. Within one to two minutes after exercise, bowel sounds became stronger, more frequent, and lasted longer, suggesting increased intestinal movement. The boost was brief, fading within a few minutes, but it may help explain why walking can provide relief from constipation.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214117.htm",
+      "guid": "https://www.sciencedaily.com/releases/2026/10/261001214117.htm",
+      "image": "",
+      "source": "ScienceDaily",
+      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
+      "timestamp": 1791165483000
+    },
+    {
+      "title": "”Teflon-Mark” – mannen som ska rädda Nato och hålla ihop EU",
+      "description": "Donald Trump pressar Europa, Ryssland hotar och försvarsnotan rusar. Mitt i turbulensen står Natochefen Mark Rutte, en man som även kallas ”Teflon-Mark” – som ska försöka hålla ihop både Europa och Nato. Natochefen Mark Rutte har haft sitt jobb i två år, och det har varit fullt schema sedan dess. Han har bland annat gjort […]",
+      "link": "https://www.dagensps.se/varlden/teflon-mark-mannen-som-ska-radda-nato-och-halla-ihop-eu/",
+      "guid": "https://www.dagensps.se/?p=1679357",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/sdlno3x9k7ws9w-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1791163245000
+    },
+    {
+      "title": "Krisåtgärder för att stoppa smittspridning",
+      "description": "Darja Sjipilova, 28, avled i misstänkt lungpest. Nu sprids paniken i Ryssland. Hundratals människor – och minst fem sjukhus – har satts i karantän.",
+      "link": "https://www.expressen.se/nyheter/varlden/krisatgarder-for-att-stoppa-smittspridning/",
+      "guid": "https://www.expressen.se/nyheter/varlden/krisatgarder-for-att-stoppa-smittspridning/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791160757000
+    },
+    {
+      "title": "6 miljarder kronor för brasiliansk lera – det är magneten i din elbil det handlar om",
+      "description": "Australiens rikaste person står bakom köpet av en lerfyndighet i Brasilien. Det handlar om några metaller som får varje elbilsmotor att gå runt – och som Kina stängt kranen för. Vi har redan beskrivit Australien som en allt viktigare spelare när det gäller sällsynta jordartsmetaller, som vill tävla med Kina om herraväldet. Aktien hos det […]",
+      "link": "https://www.dagensps.se/motor/6-miljarder-kronor-for-brasiliansk-lera-det-ar-magneten-i-din-elbil-det-handlar-om/",
+      "guid": "https://www.dagensps.se/?p=1679352",
+      "image": "https://images.dagensps.se/app/uploads/2025/08/sdlxwDu1bQ3dfg-nh.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1791158525000
+    },
     {
       "title": "AI-agenterna gick bananas – nu gungar Sam Altmans värdering på 14 000 miljarder",
       "description": "Mitt i arbetet med att ta in gigantiska belopp till astronomiska värderingar tvingas Open AI att skjuta upp börsnoteringen. Datorsäkerhetsincidenter på löpande band, avhopp inom säkerhetsorganisationen och växande press från politiker och myndigheter reser nu frågan investerarna helst slipper: vem bär egentligen det juridiska ansvaret när AI löper amok? Det går som tåget för Open […]",
@@ -12,16 +82,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1791155154000
-    },
-    {
-      "title": "Bolsanaro leder i Brasilien",
-      "description": "Bakslag för Lula da Silva",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1984aa5-0cba-46a5-8844-80fad569928a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1984aa5-0cba-46a5-8844-80fad569928a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791154815000
     },
     {
       "title": "Exprinsen Andrew anmäler polisen",
@@ -144,16 +204,6 @@
       "timestamp": 1791141912000
     },
     {
-      "title": "Stort strömavbrott i Öxelösund",
-      "description": "Kommunen var kolsvart i tre timmar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=40f745d0-a6f7-4560-8ec1-25cafd4653cf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=40f745d0-a6f7-4560-8ec1-25cafd4653cf",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791141789000
-    },
-    {
       "title": "Hunden Bertil låg i frysen i tre år",
       "description": "Hanna Hellquist förvarade sin tax Ines i frysen innan hunden begravdes i trädgården. Lasse Diding hade taxen Bertil i frysen – i tre år. – Jag fattar att det blir lite surrealistiskt, säger han.",
       "link": "https://www.expressen.se/nyheter/hunden-bertil-lag-i-frysen-i-tre-ar/",
@@ -204,16 +254,6 @@
       "timestamp": 1791136772000
     },
     {
-      "title": "Flickor i bråk i Malmö – en till sjukhus",
-      "description": "Skyller på varandra • En till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9c59cd0d-1205-4d6b-83a3-67afaa3bc8b5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9c59cd0d-1205-4d6b-83a3-67afaa3bc8b5",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791136695000
-    },
-    {
       "title": "Oliver Solberg kände att han svikit stallet – Jari-Matti Latvala försökte trösta svensken efter galna avgörandet",
       "description": "Både Oliver Solberg och pappa Petter var i tårar efter att VM-titeln glidit ur händerna i sista stund.",
       "link": "https://yle.fi/a/7-10106353?origin=rss",
@@ -222,16 +262,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1791134317000
-    },
-    {
-      "title": "Alliansen styr i Falkenberg – med stöd av SD",
-      "description": "I Falkenberg har alliansen återuppstått – och släppts igenom med stöd av SD. Enligt kommunens nya ordförande har flera näringslivstoppar hört av sig och tackat. – Det är en blinkning uppåt att ”titta och lär av Falkenberg”, säger Sandra Johansson (M).",
-      "link": "https://www.expressen.se/nyheter/politik/alliansen-styr-i-falkenberg-med-stod-av-sd-/",
-      "guid": "https://www.expressen.se/nyheter/politik/alliansen-styr-i-falkenberg-med-stod-av-sd-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791133806000
     },
     {
       "title": "Då kan stadshusets torn stängas – i två år",
@@ -664,26 +694,6 @@
       "timestamp": 1791104317000
     },
     {
-      "title": "Putin erbjöd oljeaffär i fredssamtal – köparna nära Trump",
-      "description": "Vladimir Putin lade fram en affär om Lukoils utländska oljetillgångar när Trumps sändebud satt i Kreml den 5 september, och köpargruppen har affärsband till sändebuden själva, rapporterar New York Times. Uppgifterna kommer från åtta personer med insyn. Affären gäller Lukoils oljefält i Kamerun och Irak, raffinaderierna i Bulgarien och Rumänien och bensinstationer i Europa och […]",
-      "link": "https://www.dagensps.se/varlden/konflikter/putin-erbjod-oljeaffar-i-fredssamtal-koparna-nara-trump/",
-      "guid": "https://www.dagensps.se/?p=1679266",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/foto-efrem-lukatsky-aptt-1efd97fd.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1791103838000
-    },
-    {
-      "title": "Ledarskapstips: En ursäkt handlar om mer än bara ord",
-      "description": "Det finns konflikter som lämnar spår långt efter att de har utspelats. Managementkonsulten, talaren och författaren Christian Ørsted lyfter fram ett belysande exempel från sitt arbete med ledningen i en stor organisation. En verkställande direktör hade en gång talat mycket hårt mot en anställd. Få personer befann sig i rummet men desto fler hörde talas […]",
-      "link": "https://www.dagensps.se/foretag/ledarskapstips-en-ursakt-handlar-om-mer-an-bara-ord/",
-      "guid": "https://www.dagensps.se/?p=1679262",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/ledarskap-1.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1791102920000
-    },
-    {
       "title": "Skottet på Hägerstensåsen blev pjäs",
       "description": "Mustafa Zatara på scenen i Hägerstensåsens medborgarhus med monologen \"Vev var min pappa?\". Han blev Lasermannens elfte offer den 30 januari 1992 – överlevde men blev svårt skadad för livet.",
       "link": "https://www.mitti.se/nyheter/skottet-pa-hagerstensasen-blev-pjas-6.3.387030.09a033a210",
@@ -832,16 +842,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791093600000
-    },
-    {
-      "title": "Från Lehman Brothers till Åbo Akademi: Nationalekonomen Edvard Johansson har stark tro på Finlands framtid",
-      "description": "Johansson är säker på att vi kommer att hitta sätt att bekosta en åldrande befolkning och han ser ekonomiska fördelar i att vi satsar på försvaret.",
-      "link": "https://yle.fi/a/7-10106205?origin=rss",
-      "guid": "https://yle.fi/a/7-10106205",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1791092644000
     },
     {
       "title": "Kanelkaka – recept på filmjölkskaka",
@@ -4482,16 +4482,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1790599996000
-    },
-    {
-      "title": "Blood tests reveal why astronauts get constipated in space",
-      "description": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-      "guid": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-      "image": "",
-      "source": "ScienceDaily",
-      "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
-      "timestamp": 1790599799000
     },
     {
       "title": "Förseningar efter tidigare stopp på pendeln",
