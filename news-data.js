@@ -1,8 +1,48 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-10T23:57:15.277Z",
+  "updatedAt": "2026-10-11T03:30:58.543Z",
   "feedCount": 12,
-  "sourceCount": 11,
+  "sourceCount": 12,
   "items": [
+    {
+      "title": "Mansgruppen inifrån: ”Jag blev gaslightad”",
+      "description": "I mansgruppen delar de skam, sorg och rädsla. Flera berättar om vårdnadstvister, våld och ekonomisk kontroll. – Jag har suttit i telefon och gråtit med pappor, säger gruppledaren Tomas Walch. Expressen har, med deltagarnas tillåtelse, följt ett av mötena inifrån.",
+      "link": "https://www.expressen.se/nyheter/sverige/mansgruppen-inifran-jag-blev-gaslightad/",
+      "guid": "https://www.expressen.se/nyheter/sverige/mansgruppen-inifran-jag-blev-gaslightad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791687600000
+    },
+    {
+      "title": "Studerande får känna på äldre människors krämpor – Michaela Jalava vann pris för sin metod",
+      "description": "Att själv få känna hur kroppen sviker ger vårdpersonal ökat tålamod. Michaela Jalava vid Novia prisas nu för sin beskrivning av hur hon i undervisningen ökar förståelsen för äldres vardag.",
+      "link": "https://yle.fi/a/7-10106169?origin=rss",
+      "guid": "https://yle.fi/a/7-10106169",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1791685994000
+    },
+    {
+      "title": "Johan Ekroth drack i över tre decennier: ”Fotbollen räddade mitt liv”",
+      "description": "Efter ett långt alkoholmissbruk har Johan Ekroth i Nordsjö återfunnit fotbollen och återfått kontakten till sina barn. Idag hjälper han andra som missbrukar alkohol och droger.",
+      "link": "https://yle.fi/a/7-10104565?origin=rss",
+      "guid": "https://yle.fi/a/7-10104565",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1791685814000
+    },
+    {
+      "title": "Får enorm summa för arbetsgivarens slarv",
+      "description": "Gavin Pugh blev förlamad på grund av arbetsgivarens slarv. – Det vände upp och ner på mitt liv, säger Pugh. Nu får han minst 132 miljoner kronor i ersättning, skriver BBC .",
+      "link": "https://www.expressen.se/nyheter/varlden/far-132-miljoner-for-arbetsgivarens-slarv/",
+      "guid": "https://www.expressen.se/nyheter/varlden/far-132-miljoner-for-arbetsgivarens-slarv/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1791676536000
+    },
     {
       "title": "Minst 12 döda i attack mot flygplats",
       "description": "Över 300 skadade i Saudiarabien",
@@ -125,7 +165,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Man död efter tigerattack på brittisk djurpark",
-      "description": "En man har dödats av en tiger på djurpark i Storbritannien. Enligt polisen ska mannen ha tagit sig in i djurets inhägnad. Attacken fångades på film av chockade besöker.",
+      "description": "En man har dödats av en tiger på djurpark i Storbritannien. Enligt polisen ska mannen ha tagit sig in i djurets inhägnad. Attacken fångades på film av chockade besökare.",
       "link": "https://www.expressen.se/nyheter/varlden/man-dod-efter-tigerattack-pa-brittisk-djurpark/",
       "guid": "https://www.expressen.se/nyheter/varlden/man-dod-efter-tigerattack-pa-brittisk-djurpark/",
       "image": "",
@@ -404,16 +444,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791648014000
     },
     {
-      "title": "Nio döda efter masskjutning",
-      "description": "Stor insats i Pennsylvania",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6221085b-50b3-4269-9cc6-f8c73518d27a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6221085b-50b3-4269-9cc6-f8c73518d27a",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791646343000
-    },
-    {
       "title": "Han betalade 20 000 kronor för en falsk guldtacka",
       "description": "Allt är inte guld som glimmar. Det kan vara dyrt ändå. En Växjö-bo betalade 20 000 kronor för en falsk guldtacka. Växjö-bon köpte vad han trodde var guld på nätet och betalade 20 000 kronor i handpenning. När personen sedan hämtade ut guldtackan visade den sig vara falsk. Han anmälde då bedrägeriet till polisen. Växjö-bon skulle enligt […]",
       "link": "https://www.dagensps.se/privatekonomi/han-betalade-20-000-kronor-for-en-falsk-guldtacka/",
@@ -444,6 +474,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791644414000
     },
     {
+      "title": "Hitler Mussolini tar över som borgmästare i Peru",
+      "description": "Så kan man ju också heta Vid årsskiftet får den peruanska kommunen Queropalca en ny ledare som har ett minst sagt häpnadsväckande diktatoriskt namn. Mannen som vann heter nämligen Hitler Mussolini Simeon Flores efter en jämn kamp. Med 229 röster lyckades den 45-årige vänsterkandidaten besegra högerns kandidat, som landade på 209 röster. Trots den udda namnkombinationen är namnet Hitler inte helt unikt i peruansk politik. Så sent som 2021 valdes en annan man med förnamnet Hitler in i landets parlament. Den nyvalde borgmästaren tillträder sin post den 1 januari. L&auml;s vidare och kommentera: https://feber.se/samhalle/hitler-mussolini-tar-over-som-borgmastare-i-peru/497138/ L&auml;s mer om Queropalca , Hitler Mussolini Simeon Flores , Peru , borgmästare",
+      "link": "https://feber.se/samhalle/hitler-mussolini-tar-over-som-borgmastare-i-peru/497138/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/hitler-mussolini-tar-over-som-borgmastare-i-peru/497138/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791644400000
+    },
+    {
       "title": "Oavgjort för EIF Akademi i första kvalmatchen: ”Det var en tuff match”",
       "description": "Euran Pallo fick trots spelövertag nöja sig med oavgjort i den första delen i kvalet till herrtvåan i fotboll. EIF Akademi fick ett bra läge för returmatchen.",
       "link": "https://yle.fi/a/7-10106758?origin=rss",
@@ -454,14 +494,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791642738000
     },
     {
-      "title": "Skolattack – tredje på en vecka",
-      "description": "Minst tre skadade i Polen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d78b73d-f1e3-483e-a102-dc7d89fe13f0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d78b73d-f1e3-483e-a102-dc7d89fe13f0",
+      "title": "Formel 1 verkar återvända till den afrikanska kontinenten",
+      "description": "Efter mer än 30 års väntan Det verkar som att Rwanda drog det längsta strået i kampen om att få arrangera ett Grand Prix på den afrikanska kontinenten. Varken F1-ledningen eller Rwandas regering har officiellt bekräftat det ännu, men flertalet trovärdiga källor inom sporten har nu rapporterat att Rwanda kommer att få sig ett lopp runt 2030. Den nya racerbanan planeras att byggas utanför huvudstaden Kigali och ska ligga nära den internationella flygplatsen i Bugesera. För designen står den tidigare F1-föraren Alexander Wurzs firma och satsningen ses som en del av landets presidents strategi att sätta Rwanda på världskartan genom stora sportevenemang. Senast det var Formel 1 i Afrika var 1993, och då kördes loppet på Kyalami-banan i Sydafrika. Just Sydafrika har länge varit den hetaste kandidaten för en comeback, men landets sportminister tycks nu ha accepterat att Rwanda hunnit före till 2030-platsen. Sydafrika är dock fortfarande hoppfullt om att få arrangera ett eget lopp i framtiden. Inte helt olikt andra platser runtom i världen så anses denna satsning med dyra sportevenemang vara en skenmanöver för att dölja brister vad gäller mänskliga rättigheter, något som regeringen dock, inte helt oväntat, själva förnekar. L&auml;s vidare och kommentera: https://feber.se/fordon/formel-1-verkar-atervanda-till-den-afrikanska-kontinenten/497137/ L&auml;s mer om Rwanda , Alexander Wurz , Formel 1 , Kigali , Bugesera , Kyalami , Sydafrika",
+      "link": "https://feber.se/fordon/formel-1-verkar-atervanda-till-den-afrikanska-kontinenten/497137/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/formel-1-verkar-atervanda-till-den-afrikanska-kontinenten/497137/?utm_source=rss&utm_medium=feed",
       "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791642569000
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791640800000
     },
     {
       "title": "Unga protesterar mot sina regeringar på flera håll i världen – polisen svarar med hårda tag",
@@ -492,6 +532,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1791637213000
+    },
+    {
+      "title": "Du kommer att kunna tjuvstarta DMZ-läget i Modern Warfare 4",
+      "description": "Jag och DD88 jublar Infinity Ward kommer inte bara att släppa Call of Duty: Modern Warfare 4-kampanjen i förväg, utan i veckan meddelade man att även det omarbetade DMZ-läget kommer att släppas innan det officiella släppdatumet. DMZ-läget som fanns med i Modern Warfare II var ett riktigt höjdarläge, tyckte jag, eftersom det har gett mig några av de mest spännande spelmomenten i mitt liv. Detta så klart mycket tack vare att jag hade ett bra gäng att spela det med, plus att det kom mycket lägligt i samband med en separation. Men det här nya DMZ-läget ser ju ut att vara en rejäl nysatsning där utvecklarna har tagit lärdom av den tidigare versionen av spelläget. Hur det blir och om det kan fånga samma magi som det gjorde 2022 återstår att se. Hur som helst så kommer kampanjläget att släppas för dem som förbokat den 16 oktober, medan tidig tillgång till DMZ kommer att ske den 20 oktober. Själva spelet släpps på riktigt den 23 oktober. L&auml;s vidare och kommentera: https://feber.se/spel/du-kommer-att-kunna-tjuvstarta-dmz-laget-i-modern-warfare-4/497135/ L&auml;s mer om Infinity Ward , DMZ , Call of Duty , FPS , Call of Duty: Modern Warfare 4 , Modern Warfare II",
+      "link": "https://feber.se/spel/du-kommer-att-kunna-tjuvstarta-dmz-laget-i-modern-warfare-4/497135/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/du-kommer-att-kunna-tjuvstarta-dmz-laget-i-modern-warfare-4/497135/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791637200000
     },
     {
       "title": "Lotta tröttnade på apparna och fixar finmiddag för Täbys singlar",
@@ -544,6 +594,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791634222000
     },
     {
+      "title": "Feber-läsare tar en titt på Scanias pansrade hytt",
+      "description": "Ska skydda förare från bomber och granater Feber-läsaren Tomas spenderade förra helgen med att kolla in Scanias splitterskyddade hytt som man kan hitta på Scanias specialversion av sin R500 8x8. Hytten är konstruerad för att skydda de åkande från både beskjutning och minexplosioner. I videon ovan kan man se när Tomas tar sig en närmare titt på den bepansrade lastbilen, där framför allt de enorma dörrarna, som nästan påminner om kassaskåpsdörrar, öppnas och stängs. Även vindrutor, gångjärn och låsanordningar har så klart förstärkts för att klara krigsförhållanden. Men trots den omfattande bepansringen använder fordonet flera vanliga Scania-komponenter, som backspeglar, solskydd och fotsteg. L&auml;s vidare och kommentera: https://feber.se/fordon/feber-lasare-tar-en-titt-pa-scanias-pansrade-hytt/497133/ L&auml;s mer om Scania , R500 8x8 , splitterskyddad hytt , R500 , lastbil , militärfordon , bepansrad lastbil , Feber",
+      "link": "https://feber.se/fordon/feber-lasare-tar-en-titt-pa-scanias-pansrade-hytt/497133/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/feber-lasare-tar-en-titt-pa-scanias-pansrade-hytt/497133/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791633600000
+    },
+    {
       "title": "Här ska ett nytt bostadsområde växa fram",
       "description": "Haninge kommun inleder detaljplan för nytt bostadsområde mellan Vega och Norrby med 60 småhus, 90 vårdlägenheter och satsningar på infrastruktur.",
       "link": "https://www.mitti.se/nyheter/har-ska-ett-nytt-bostadsomrade-vaxa-fram-6.3.389765.b40c2e5a8d",
@@ -594,6 +654,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791630917000
     },
     {
+      "title": "Första trailern för The Exorcist Martyrs är här",
+      "description": "Filmen har biopremiär mars 2027 Nu har den första ordentliga trailern för den nya Exorcisten-filmen, The Exorcist: Martyrs, släppts. Filmen är regisserad av Mike Flanagan, som tidigare gjort The Haunting of Hill House och diverse Stephen King-filmatiseringar. I huvudrollen ser vi Scarlett Johansson som kriminalinspektören Julie Miller som tidigare lyckats sätta dit en satanistisk seriemördare. Nu tvingas hon dock leta rätt på en ny mördare som börjar lämna blodiga och okristna spår efter sig. Vid sin sida har hon bland annat Chiwetel Ejiofor, som spelar en före detta fängelsepräst. The Exorcist: Martyrs har biopremiär den 12 mars 2027. L&auml;s vidare och kommentera: https://feber.se/film/forsta-trailern-for-the-exorcist-martyrs-ar-har/497132/ L&auml;s mer om The Exorcist: Martyrs , Mike Flanagan , Scarlett Johansson , Chiwetel Ejiofor , Julie Miller , skräckfilm",
+      "link": "https://feber.se/film/forsta-trailern-for-the-exorcist-martyrs-ar-har/497132/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/forsta-trailern-for-the-exorcist-martyrs-ar-har/497132/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791630000000
+    },
+    {
       "title": "Bromarv får ny brandstation – men byns FBK får ta den ekonomiska smällen",
       "description": "Efter flera års väntan få Bromarv en ny brandstation, men bygget är inte riskfritt och Bromarv FBK är den som bär ansvaret.",
       "link": "https://yle.fi/a/7-10106613?origin=rss",
@@ -612,16 +682,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1791629090000
-    },
-    {
-      "title": "Se video: En man undkommer i sista stund en rysk drönare i Kyjiv",
-      "description": "Nyhetsbyrån Reuters har publicerat en video från en övervakningskamera från ett parkområde i utkanten av den ukrainska huvudstaden Kyjiv.",
-      "link": "https://yle.fi/a/7-10106762?origin=rss",
-      "guid": "https://yle.fi/a/7-10106762",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1791628097000
     },
     {
       "title": "HTV: Hampus inför Djurgården – \"Vi spelar för alla Hammarbyare\"",
@@ -644,14 +704,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791627335000
     },
     {
-      "title": "Fel isolering eller målarfärg kan orsaka stora skador i gamla trähus",
-      "description": "Renoveringsexperten ger råd om hur man undviker de största missarna.",
-      "link": "https://yle.fi/a/7-10106055?origin=rss",
-      "guid": "https://yle.fi/a/7-10106055",
+      "title": "AI skickade falskt mordtips till polisen",
+      "description": "Mörkade tabben i två månader innan sanningen kom fram En AI-modell, Haiku 4.5, från Anthropic lyckades på egen hand skicka in ett falskt tips om ett olöst mord till polisen i Philadelphia borta i USA. Händelsen, som skedde i somras, inträffade under ett automatiserat test där AI-modellen fick i uppgift att utföra enkla ärenden på olika webbplatser. Instruktionerna var tydligen inte tillräckligt strikta, vilket ledde till att den fyllde i ett tipsformulär på sajten PhillyUnsolvedMurders.com. I meddelandet påstod AI:n att den mindes att den sett en person som stämde överens med signalementet i ett specifikt område, men den lämnade inga kontaktuppgifter. Det tog sedan Anthropic två månader att berätta vad som hänt, vilket inte var direkt jätteuppskattat av polisen, eftersom den hade lagt både tid och resurser på ett tips som visade sig vara helt påhittat av en algoritm. Även om tipset aldrig nådde de faktiska utredarna, eftersom systemet automatiskt flaggade meddelandet som skräppost vilket gjorde att det, som tur var, aldrig kom så långt. Anthropic förklarar i en rapport att det hela rörde sig om ett sorts exempel-innehåll som skapades under testkörningen, snarare än ett medvetet försök att lura polisen. L&auml;s vidare och kommentera: https://feber.se/samhalle/ai-skickade-falskt-mordtips-till-polisen/497131/ L&auml;s mer om Haiku 4.5 , Anthropic , Philadelphia , PhillyUnsolvedMurders.com , artificiell intelligens , AI",
+      "link": "https://feber.se/samhalle/ai-skickade-falskt-mordtips-till-polisen/497131/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/ai-skickade-falskt-mordtips-till-polisen/497131/?utm_source=rss&utm_medium=feed",
       "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1791627114000
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791626400000
     },
     {
       "title": "QUIZ: Vart är vi på väg? Till Vasastan så klart!",
@@ -714,6 +774,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791622830000
     },
     {
+      "title": "Kawasaki bygger robot för skeppsvarv",
+      "description": "För att lösa den akuta bristen på svetsare Det råder tydligen stor brist på erfaren personal inom Japans skeppsbyggarbransch, och medelåldern bland skickliga hantverkare stiger. För att möta utmaningen har den japanska industrijätten Kawasaki Heavy Industries utvecklat en prototyp av en robot som är specialiserad på att svetsa och måla fartyg. Med hjälp av magneter och artificiell intelligens ska den då kunna utföra avancerat arbete på platser som är både svåråtkomliga och farliga för människor. Via ett samarbete med NVIDIA vill Kawasaki ge roboten en form av AI. Tanken är att man ska kunna föra över kunskapen från gamla mästersvetsare till robotens digitala hjärna, så att hantverket lever vidare i digitaliserad form. Om allt går enligt planen kommer de första skarpa testerna på japanska varv att inledas under 2027, med målet att ha robotarna i fullt arbete under 2028. På sikt hoppas Kawasaki att tekniken även ska kunna användas för underhåll och service av fartyg ute till havs. L&auml;s vidare och kommentera: https://feber.se/fordon/kawasaki-bygger-robot-for-skeppsvarv/497130/ L&auml;s mer om Kawasaki Heavy Industries , NVIDIA , skeppsbyggnad , artificiell intelligens , svetsrobot , AI",
+      "link": "https://feber.se/fordon/kawasaki-bygger-robot-for-skeppsvarv/497130/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/fordon/kawasaki-bygger-robot-for-skeppsvarv/497130/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791622800000
+    },
+    {
       "title": "Inga sanktioner: Här slår exporten till Ryssland rekord",
       "description": "Export av läkemedel till Ryssland når rekordnivåer. Undantag från sanktioner gör att tyska och svenska företag säljer mer än någonsin. Trots sanktioner och ett fortsatt krig mot Ukraina blomstrar exporten från väst till Ryssland inom vissa sektorer. Totalt har exporten minskat drastiskt, men när det gäller exempelvis läkemedel når exporten rekordnivåer. Exporten av läkemedel från […]",
       "link": "https://www.dagensps.se/bors-finans/inga-sanktioner-har-slar-exporten-till-ryssland-rekord/",
@@ -732,6 +802,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1791619577000
+    },
+    {
+      "title": "Bugatti Tourbillon plågas i norra Sverige",
+      "description": "Och i södra Spanien Bugatti har nu genomfört några tester under extrema förhållanden med den kommande modellen Tourbillon. Och det blir inte mer extremt än den bitande kylan i norra Sverige, så där har man varit och kört lite vilket vi får se en snutt av här. Gänget har även varit med bilen i södra Spanien där det kan bli över 40 plusgrader. L&auml;s vidare och kommentera: https://feber.se/bil/bugatti-tourbillon-plagas-i-norra-sverige/497076/ L&auml;s mer om Tourbillon , Sverige , tester , klimat , hårt , extrema , förhållanden",
+      "link": "https://feber.se/bil/bugatti-tourbillon-plagas-i-norra-sverige/497076/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/bugatti-tourbillon-plagas-i-norra-sverige/497076/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791619200000
     },
     {
       "title": "Väsbykafé prisat – här är gästernas storfavorit",
@@ -794,6 +874,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791616320000
     },
     {
+      "title": "Första titten på The Talos Principle 3",
+      "description": "Pusseltrilogin ska få ett storslaget slut Croteam släppte i går en ny trailer för sitt kommande spel The Talos Principle 3, vilket är det avslutande kapitlet i pusselserien. I trailern kan man se ett gäng surrealistiska miljöer, som svävande öar och gigantiska svampvärldar, där man ska försöka pussla ihop diverse minnen som är på vift. En ny grej i spelmekaniken är bland annat möjligheten att manipulera gravitationen, vilket ser ut att bli ett klurigt tillskott. Om trean håller samma nivå som sin föregångare så har man ju onekligen något att se fram emot när det väl släpps till PlayStation och PC nästa år. L&auml;s vidare och kommentera: https://feber.se/spel/forsta-titten-pa-the-talos-principle-3/497129/ L&auml;s mer om Croteam , The Talos Principle 3 , PlayStation , PC , pusselspel , Gravitation",
+      "link": "https://feber.se/spel/forsta-titten-pa-the-talos-principle-3/497129/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/forsta-titten-pa-the-talos-principle-3/497129/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791615600000
+    },
+    {
       "title": "Varma persikor med sylt och mandelmassetäcke",
       "description": "Färska persikor med söt hallonsylt och ett frasigt sött täcke av mandelmassa ger den snabbaste efterrätten – och kanske den godaste?",
       "link": "https://alltommat.expressen.se/recept/varma-persikor-med-sylt-och-mandelmassetacke-6mk3d/",
@@ -802,6 +892,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1791615060000
+    },
+    {
+      "title": "Nytt LEGO-bygge samlar Marvel-platser på en platta",
+      "description": "Landar i butik nästa år LEGO och Marvel visade upp det nya LEGO-bygget Marvel silhuett, som samlar 14 ikoniska platser från serietidningsvärlden på en och samma platta. Bland de 1 261 bitarna hittar man platser som Avengers Tower, Daily Bugle, Baxter Building och Sanctum Sanctorum. Bygget innehåller små versioner av diverse farkoster och minifigurer som passar till silhuetten. Marvel silhuett landar i butikerna den 1 januari med en prislapp på 1 299 kronor. L&auml;s vidare och kommentera: https://feber.se/pryl/nytt-lego-bygge-samlar-marvel-platser-pa-en-platta/497124/ L&auml;s mer om LEGO , Marvel , Avengers Tower , Daily Bugle , Marvel silhuett , Sanctum Sanctorum , leksaker",
+      "link": "https://feber.se/pryl/nytt-lego-bygge-samlar-marvel-platser-pa-en-platta/497124/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pryl/nytt-lego-bygge-samlar-marvel-platser-pa-en-platta/497124/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791612000000
     },
     {
       "title": "S redo att styra ny opposition",
@@ -1014,6 +1114,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791574210000
     },
     {
+      "title": "Har du magneter på ditt kylskåp?",
+      "description": "Dagens magnetfråga I brist på annat så tänkte jag att vi idag kunde kolla om ni läsare har några magneter på era kylskåp. Känner ni för det får ni gärna posta bilder på era magneter i kommentarsfältet. Svara gärna på vår enkät nedan. Vill ni snacka mer om magneter, kylskåp eller något annat som känns relaterat kan ni göra det i kommentarsfältet. L&auml;s vidare och kommentera: https://feber.se/har-du-magneter-pa-ditt-kylskap/497120/ L&auml;s mer om Kylskåp , Magneter , Kylskåpsmagneter , Enkät , Samlarobjekt",
+      "link": "https://feber.se/har-du-magneter-pa-ditt-kylskap/497120/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/har-du-magneter-pa-ditt-kylskap/497120/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791572400000
+    },
+    {
       "title": "Anvera 58 Performance Yacht",
       "description": "",
       "link": "https://uncrate.com/anvera-58-performance-yacht/",
@@ -1034,6 +1144,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791570842000
     },
     {
+      "title": "Samsung drar ner på mobiltillverkning",
+      "description": "Uppges kapa produktionen med 30 procent Samsung planerar enligt uppgifter att dra ner på sin smartphoneproduktion med upp till 30 procent under fjärde kvartalet. Det ska man ha bestämt sig för efter alla ökade tillverkningskostnader, där priset på RAM-minnen har ökat med 175 procent jämfört med i fjol. Eftersom många tillverkare inte kan lägga över hela kostnadsökningen på konsumenterna pressas istället vinstmarginalerna hårt, och vissa källor säger att lönsamheten nu är obefintlig. Samsungs ursprungliga prognos på 270 miljoner tillverkade telefoner för 2026 ska nu ha justerats ner till 200 miljoner enheter. L&auml;s vidare och kommentera: https://feber.se/mobil/samsung-drar-ner-pa-mobiltillverkning/497106/ L&auml;s mer om RAM-minnen , AI-datacenter , smartphoneproduktion , tillverkningskostnader , Smartphones",
+      "link": "https://feber.se/mobil/samsung-drar-ner-pa-mobiltillverkning/497106/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/samsung-drar-ner-pa-mobiltillverkning/497106/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791570600000
+    },
+    {
       "title": "Nomadix Original Towel",
       "description": "",
       "link": "https://uncrate.com/nomadix-original-towel/",
@@ -1042,6 +1162,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1791570600000
+    },
+    {
+      "title": "Världens mest kraftfulla Pagani provkörd",
+      "description": "Värd 11 miljoner dollar? Nu har Top Gear fått möjlighet att köra Pagani Huayra Codalunga Speedster. Det är den mest kraftfulla Paganin hittills med sin V12:a på över 850 hästar. Det är även den mest exklusiva eftersom det bara byggs tio exemplar av den. Och då kostar det - 11 miljoner! Dollar. L&auml;s vidare och kommentera: https://feber.se/bil/varldens-mest-kraftfulla-pagani-provkord/497086/ L&auml;s mer om Pagani Huayra Codalunga Speedster , Top Gear , provkörning , kraftfull , exklusiv",
+      "link": "https://feber.se/bil/varldens-mest-kraftfulla-pagani-provkord/497086/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/varldens-mest-kraftfulla-pagani-provkord/497086/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791568800000
     },
     {
       "title": "Bremont Supermarine Full Ceramic Deep Blue Watch",
@@ -1094,6 +1224,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791567007000
     },
     {
+      "title": "Rainbow Six Siege Mobile läggs ned",
+      "description": "Det var väl inte direkt den bästa plattformen för det spelet Trots flera års utveckling och stora interna förväntningar meddelar Ubisoft nu att man kommer att lägga ner Rainbow Six Mobile. Spelet, som lanserades på riktigt så sent som i februari 2026, kommer att stängas ner helt den 15 januari 2027. Det innebär att titeln inte ens hann vara ute i ett år innan Ubisoft valde att ge upp. Anledningen är inte helt oväntat att spelet inte lyckades behålla sin spelarbas trots miljontals nedladdningar. Spelet fick en hel del kritik från spelare som ansåg att mobilversionen kändes allt för begränsad jämfört med originalspelet samt att affärsmodellen upplevdes lite för sniken, med ett evigt nötande för att göra några som helst framsteg. Så för dem som fortfarande spelar Rainbow Six Mobile väntar en sista säsong nästa vecka innan servrarna släcks för gott i början av nästa år. L&auml;s vidare och kommentera: https://feber.se/spel/rainbow-six-siege-mobile-laggs-ned/497094/ L&auml;s mer om Ubisoft , Rainbow Six Mobile , Rainbow Six",
+      "link": "https://feber.se/spel/rainbow-six-siege-mobile-laggs-ned/497094/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/rainbow-six-siege-mobile-laggs-ned/497094/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791567000000
+    },
+    {
       "title": "Djurgården öppnar butik i city",
       "description": "Djurgårdens IF öppnar butik mitt i Stockholms city. DIF, Djurgården Hockey, Djurgården fotboll.",
       "link": "https://www.mitti.se/nyheter/djurgarden-oppnar-butik-i-city-6.3.390665.6d386e9f96",
@@ -1104,6 +1244,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791566100000
     },
     {
+      "title": "Motorn sitter i fel ände på den här 911:an",
+      "description": "Och den har dubbla sniglar En Porsche ska ha motorn bak, eller? Så var det i alla fall förr, tills transaxel-bilarna kom in i bilden. Sen dess är det blandat hos Porsche, och sedan några år tillbaka går de till och med på både diesel och el. Men inget av detta hittar vi här i denna märkliga 911 som har motorn fram. Det är den australienska bildelskedjan Repco som lagt över 2000 timmar på en gammal 996 som fått boxersexan ersatt av en dubbelturbomatad LSX-V8:a som istället placerats framför föraren. Effekten har också skruvats upp en aning - över 1200 hästar säger man. Till maskinen sitter en åttastegad sekventiell växellåda från Bentley som skickar kraften till bakhjulen. Hela paketet har man därefter klätt in med en handbyggd widebody-kaross. Inte för alla men lite ball är det väl, eller? L&auml;s vidare och kommentera: https://feber.se/bil/motorn-sitter-i-fel-ande-pa-den-har-911an/497080/ L&auml;s mer om ShowTime Repco-Mod 933 , V8 , frontmonterad , LSX , dubbelturbo , V8 , Murica , Repco , Porsche 996",
+      "link": "https://feber.se/bil/motorn-sitter-i-fel-ande-pa-den-har-911an/497080/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/motorn-sitter-i-fel-ande-pa-den-har-911an/497080/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791565200000
+    },
+    {
       "title": "Abel x Ball and Buck Special Edition ROVE 4/6 Solid Reel",
       "description": "",
       "link": "https://uncrate.com/abel-x-ball-and-buck-special-edition-rove-46-solid-reel/",
@@ -1112,6 +1262,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1791565200000
+    },
+    {
+      "title": "Nu kommer en miniserie om kryptobörsen FTX",
+      "description": "The Altruists handlar om Sam Bankman-Frieds uppgång och fall Netflix har gjort en miniserie där tittarna kommer att få titta lite närmare på hur det gick till när den stora kryptobörsen FTX gick i konkurs 2022. I The Altruists spelar Anthony Boyle rollen som FTX grundare Sam Bankman-Fried och Julia Garner spelar hans flickvän Caroline Ellison. Serien visar hur de båda, tillsammans med andra på FTX, genomförde ett bedrägeri där FTX kunders tillgångar användes för högriskinvesteringar genom systerbolaget Alameda Research. The Altruists består av åtta avsnitt och börjar visas på Netflix den 19 november. Ni hittar trailern för serien nedan. L&auml;s vidare och kommentera: https://feber.se/film/nu-kommer-en-miniserie-om-kryptoborsen-ftx/497081/ L&auml;s mer om FTX , The Altruists , Sam Bankman-Fried , Caroline Ellison , Alameda Research",
+      "link": "https://feber.se/film/nu-kommer-en-miniserie-om-kryptoborsen-ftx/497081/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/nu-kommer-en-miniserie-om-kryptoborsen-ftx/497081/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791563400000
     },
     {
       "title": "Line of Trade Waxed Ranch Jacket",
@@ -1144,6 +1304,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791561659000
     },
     {
+      "title": "Porsche ökar sitt ägande i Manthey Racing",
+      "description": "Till 67 procent Porsche och Manthey Racing har jobbat ihop sedan 1996. Tillsammans har de byggt flertalet effektstarka bilar som slagit rekord hit och dit. 2013 köpte Porsche 51 procent av bolaget, och nu väljer man att utöka detta till 67 procent istället. Två nya modeller ska också släppas som firar 30-årsjubileet, dessa presenterades tidigare idag. Manthey är inblandade i Porsches racingserier men har även släppt flertalet kit till oss vanliga dödliga som vill ha lite mer fart i bitarna. Det finns mängder av uppgraderingar till allt från 911 GT2 till Cayman GT4 och faktiskt även Taycan. I samma veva meddelar Porsche att de ska samla alla sina specialverksamheter under det nya konceptet Home of Sports Cars. Här ska man ha avdelningarna Performance (med Manthey), Exclusiveness (Sonderwunsch och Exclusive Manufaktur) och Heritage. L&auml;s vidare och kommentera: https://feber.se/bil/porsche-okar-sitt-agande-i-manthey-racing/497085/ L&auml;s mer om Manthey Racing , öka , ägande , procent , racing , Manthey , prestanda , Home of Sports Cars",
+      "link": "https://feber.se/bil/porsche-okar-sitt-agande-i-manthey-racing/497085/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/porsche-okar-sitt-agande-i-manthey-racing/497085/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791561600000
+    },
+    {
       "title": "Leisure Travel Vans Wonder FX Motorhome",
       "description": "",
       "link": "https://uncrate.com/leisure-travel-vans-wonder-fx-motorhome/",
@@ -1162,6 +1332,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791561600000
+    },
+    {
+      "title": "Microsoft bygger om sökfunktionen i Windows 11",
+      "description": "Ska bli snabbare och bättre Microsoft testar just nu en ny moderniserad sökfunktion för Windows 11. Den nya upplevelsen, som bygger på WinUI 3, utlovar stora förbättringar gällande både prestanda och minnesanvändning. Gränssnittet har designats om med snabbare animationer och integrerade förhandsvisningar av resultat och filer, som ska påminna om sökfunktionerna i iOS och Android. Förutom att systemet blivit bättre på att förstå stavfel och synonymer, kan det nu även användas för att utföra direktkommandon. Användare kan till exempel skriva in kommandon för att slå på mörkt läge, arrangera fönster eller skicka sms via Phone Link. Uppdateringen testas för närvarande av Windows Insiders och förväntas släppas skarpt under de kommande månaderna. L&auml;s vidare och kommentera: https://feber.se/pc/microsoft-bygger-om-sokfunktionen-i-windows-11/497100/ L&auml;s mer om Microsoft , Windows 11 , WinUI 3 , Phone Link , Startmenyn , Windows Insiders , Windows Insider",
+      "link": "https://feber.se/pc/microsoft-bygger-om-sokfunktionen-i-windows-11/497100/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/pc/microsoft-bygger-om-sokfunktionen-i-windows-11/497100/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791559800000
     },
     {
       "title": "Polisen larmas till skolmatcher på Skytteholm – stök och bangers",
@@ -1204,6 +1384,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791558273000
     },
     {
+      "title": "LGTM",
+      "description": "Fredagsdansen? Här är en dansdänga som kanske kan passa fint som fredagsdans för alla er som sitter och går igenom kodrader som AI:n på ert företag spottat ur sig under veckan som gått. Titeln \"LGTM\" står för \"Looks Good to Me\" vilket ska vara ett begrepp som kodgranskare börja använda efter att de kanske inte riktigt hunnit med att granska de enorma mängder kod som AI nu för tiden skriver åt olika företag. Både sången och videon är givetvis AI-skapade. Till musiken användes AI-tjänsten Suno och för videon står Anthropics Claude Opus 5.5. Det hela är sammansatt av den eller de som driver YouTube-kanalen \"Degenerative Pixels\". Är ni sugna på lite mer AI-dans hittas lite Pulp Fiction-relaterad sådan nedan. L&auml;s vidare och kommentera: https://feber.se/samhalle/lgtm/497062/ L&auml;s mer om LGTM , Suno , Degenerative Pixels , Claude Opus , YouTube , programmering",
+      "link": "https://feber.se/samhalle/lgtm/497062/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/samhalle/lgtm/497062/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791558000000
+    },
+    {
       "title": "The History of Fly Fishing in Fifty Flies",
       "description": "",
       "link": "https://uncrate.com/the-history-of-fly-fishing-in-fifty-flies/",
@@ -1222,6 +1412,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791556922000
+    },
+    {
+      "title": "Apple uppges dra ner på produktionen av iPhone 18 Pro",
+      "description": "Har de blivit för dyra? Apple har enligt uppgifter från Nikkei Asia uppmanat sina underleverantörer att minska produktionen av komponenter till iPhone 18 Pro och iPhone 18 Pro Max med upp till 15 procent. Det uppges bero på en svagare efterfrågan från konsumenter, vilket ju bland annat kan bero på de högre prislapparna. Apple är dock inte ensamma i motvinden. Enligt analysföretaget IDC förväntas de totala leveranserna på smartphonemarknaden sjunka med 16,7 procent jämfört med föregående år, samtidigt som snittpriserna i branschen har skjutit i höjden med hela 27,6 procent. L&auml;s vidare och kommentera: https://feber.se/mobil/apple-uppges-dra-ner-pa-produktionen-av-iphone-18-pro/497122/ L&auml;s mer om iPhone 18 Pro , Nikkei Asia , IDC , iPhone 18 Pro Max , smartphonemarknaden",
+      "link": "https://feber.se/mobil/apple-uppges-dra-ner-pa-produktionen-av-iphone-18-pro/497122/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/apple-uppges-dra-ner-pa-produktionen-av-iphone-18-pro/497122/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791556800000
+    },
+    {
+      "title": "Forza Horizon 6 kommer inte till PlayStation 5 i år",
+      "description": "Flyttas till början av 2027 Microsofts racingspel Forza Horizon 6 var tänkt att komma till PlayStation 5 i år, men det kommer inte att hända. Utvecklarna meddelar nu att lanseringen flyttas till den 26 januari, vilket är runt samma tid som spelets första stora expansion släpps. Spelet kommer att ha fullt stöd för både cross-play och cross-save, vilket innebär att du kan spela med vänner på Xbox eller Windows. Allt användarskapat innehåll, som banor och lackeringar, kommer också att finnas tillgängligt på alla plattformar från dag ett. För den som väljer att förboka spelet väntar en Ferrari J50 som bonus i garaget efter att prologen är avklarad. L&auml;s vidare och kommentera: https://feber.se/spel/forza-horizon-6-kommer-inte-till-playstation-5-i-ar/497093/ L&auml;s mer om Forza Horizon 6 , Microsoft , PlayStation 5 , Ferrari J50 , Xbox , Windows , racingspel , Cross-play",
+      "link": "https://feber.se/spel/forza-horizon-6-kommer-inte-till-playstation-5-i-ar/497093/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/forza-horizon-6-kommer-inte-till-playstation-5-i-ar/497093/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791556200000
     },
     {
       "title": "Man begärs häktad misstänkt för mordförsök i Farsta",
@@ -1244,6 +1454,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791555111000
     },
     {
+      "title": "Sony lanserar ny mikrofon för mobilen",
+      "description": "Först ut med stöd för rumsliga ljudet Eclipsa Audio Sony har visat upp mikrofonen ECM-AX10, som beskrivs som världens första Eclipsa Audio-certifierade mikrofon för telefoner. Tanken är att den ska användas av vloggare och kreatörer som vill ha bättre ljud från telefonen via USB-C. Med hjälp av fyra inbyggda mikrofoner och Sonys rumsljudsteknik fångas ljud upp i flera riktningar som ska återskapa en verklighetstrogen känsla av rymd och avstånd. Mikrofonen har stöd för tre lägen: ambisonics för avancerat spatialt ljud, binaural inspelning optimerad för hörlurar samt klassisk stereoinspelning. Genom appen Spatial Audio Video Tool kan du också spela in, redigera och exportera video med rumsligt ljud direkt i mobilen. Sony ECM-AX10 släpps under oktober för 2199 kronor. L&auml;s vidare och kommentera: https://feber.se/mobil/sony-lanserar-ny-mikrofon-for-mobilen/497118/ L&auml;s mer om Sony , ECM-AX10 , Eclipsa Audio , Spatial Audio Video Tool , USB-C",
+      "link": "https://feber.se/mobil/sony-lanserar-ny-mikrofon-for-mobilen/497118/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/mobil/sony-lanserar-ny-mikrofon-for-mobilen/497118/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791555000000
+    },
+    {
+      "title": "Andra trailern för andra vändan med Ali G",
+      "description": "Borat vill inte att du ska se den Den 23 oktober har den andra filmen med Ali biopremiär. Den första filmen kom 2002 och sedan dess har Ali bara \"chillin’, tokin’ and bonin\". Men nu har han upptäckt att hans flickvän sedan länge är i åttonde månaden. Han får panik och drar till USA för att försöka få tillbaka lite av sin forna glans, något som verkar enklare sagt än gjort. Inget av det får vi dock se i den senaste trailern, utan bara Borat som uppmanar oss att vi inte ska se filmen. L&auml;s vidare och kommentera: https://feber.se/film/andra-trailern-for-andra-vandan-med-ali-g/497121/ L&auml;s mer om Ali G: Who Iz I? , Ali G , Sasha Baron Cohen , film , humor",
+      "link": "https://feber.se/film/andra-trailern-for-andra-vandan-med-ali-g/497121/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/andra-trailern-for-andra-vandan-med-ali-g/497121/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791554700000
+    },
+    {
       "title": "Så förberedde sig Lidingö på rödgröna mötet",
       "description": "Rödgröna riksdagspartierna möts på Högberga gård på Lidingö.",
       "link": "https://www.mitti.se/nyheter/sa-forberedde-sig-lidingo-pa-rodgrona-motet-6.3.390666.ad6d0d7e8a",
@@ -1264,6 +1494,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791554402000
     },
     {
+      "title": "Tesla FSD byter namn i Europa",
+      "description": "Var missvisande Teslas självkörande funktioner går under namnet FSD som står för Full Self-Driving. Det är ju dock lite missvisande eftersom det måste finnas en person i förarsätet som kan ta över om något skulle vara på väg att gå snett. Tysklands transportminister Steffen Bilger ville därför att Tesla byter ut namnet till något annat, och nu har tillverkaren gjort det i hela Europa. Det nya namnet i Sverige är nu Tesla Assisterad körning. Det är inte tillgängligt för oss än, men kan bli i framtiden. L&auml;s vidare och kommentera: https://feber.se/bil/tesla-fsd-byter-namn-i-europa/497102/ L&auml;s mer om FSD , namnbyte , Supervised , Tesla Assisterad körning , namn , benämning , självkörning , assisterad , TAK",
+      "link": "https://feber.se/bil/tesla-fsd-byter-namn-i-europa/497102/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/tesla-fsd-byter-namn-i-europa/497102/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791554400000
+    },
+    {
       "title": "Bassäng i Bro simhall stängd över helgen",
       "description": "Simhallen i Bro håller stängt",
       "link": "https://www.mitti.se/nyheter/bassang-i-bro-simhall-stangd-over-helgen-6.3.390713.0ea809a4ec",
@@ -1274,6 +1514,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791554321000
     },
     {
+      "title": "Sony verkar redo att säga hejdå till PlayStation VR",
+      "description": "Har börjat sälja av hundratals VR-patent ZDNet Korea rapporterar att Sony har sålt över 400 patent relaterade till XR-teknologi till Meta, något som gör att det har börjat spekuleras om att Sony är på väg att lägga ner sin VR-satsning PlayStation VR. 180 av patenten som Sony ser ut att ha sålt till Meta är registrerade på den amerikanska marknaden och resterande patent är registrerade i bland annat Japan, Kina, Sydkorea och Europa. Än så länge har ett 40-tal av de amerikanska patenten skrivits över från Sony till Meta och de innefattar tekniker relaterade till virtual reality (VR), augmented reality (AR), mixed reality (MR), extended reality (XR) och headsets (HMD). Sony har inte nämnt något officiellt om att man drar sig ur VR-branschen, men man har inte heller satsat särskilt mycket på det sedan PlayStation VR2 släpptes för tre år sedan. Sammanlagt har Sony sålt cirka 5 miljoner exemplar PlayStation VR-enheter sedan den första modellen släpptes 2016. Det kan jämföras med Meta som uppskattas ha sålt 25-30 miljoner VR-headset sedan de köpte Oculus VR 2014. L&auml;s vidare och kommentera: https://feber.se/spel/sony-verkar-redo-att-saga-hejda-till-playstation-vr/497119/ L&auml;s mer om Meta , XR-teknologi , PlayStation VR , PlayStation VR2 , patent , virtual reality , VR-headset , ps vr",
+      "link": "https://feber.se/spel/sony-verkar-redo-att-saga-hejda-till-playstation-vr/497119/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/sony-verkar-redo-att-saga-hejda-till-playstation-vr/497119/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791553800000
+    },
+    {
       "title": "Bakslag för skjutbanan på Östermalm: \"Inte lämplig\"",
       "description": "Stadsbyggnadsnämnden nekar bygglov för en färdigbyggd skjutbana på Grev Turegatan på Östermalm. Motiveringen: Det är inte lämpligt i innerstan.",
       "link": "https://www.mitti.se/nyheter/bakslag-for-skjutbanan-pa-ostermalm-inte-lamplig-6.3.389402.ca5bafd446",
@@ -1282,6 +1532,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791553799000
+    },
+    {
+      "title": "Ännu en titt på Nintendo Switch Sports Resort",
+      "description": "Släpps till Switch 2 senare den här månaden Nintendo har släppt ett lite längre klipp där man visar upp vad spelare av det kommande sportspelet Nintendo Switch Sports Resort kan förvänta sig. Nintendo Switch Sports Resort släpps till Switch 2 och bygger på liknande principer som Nintendo Switch Sports , ett spel som släpptes till den första Switch 2022. Sammanlagt finns det 12 olika sportspel i Nintendo Switch Sports Resort vilka tar plats på den fiktiva ögruppen Wuhu Island. Bland sporterna som det går att delta i spelet finns bland annat bågskytte, boxning, bordtennis, tennis, volleyboll, bowling, basket och golf. Nintendo Switch Sports Resort släpps till Nintendo Switch 2 den 22 oktober. Ni hittar det nya klippet om spelet nedan. L&auml;s vidare och kommentera: https://feber.se/spel/annu-en-titt-pa-nintendo-switch-sports-resort/497109/ L&auml;s mer om Switch 2 , Wuhu Island , sportspel , Nintendo Switch Sports Resort , Switch Sports Resort",
+      "link": "https://feber.se/spel/annu-en-titt-pa-nintendo-switch-sports-resort/497109/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/spel/annu-en-titt-pa-nintendo-switch-sports-resort/497109/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791552600000
     },
     {
       "title": "Vem gav din AI rätten att övervaka mig?",
@@ -1324,6 +1584,36 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1791552491000
     },
     {
+      "title": "Instagram ber om ursäkt för omåttligt mycket Creed",
+      "description": "\"Higher\" passar till allt? CNN rapporterar att Instagram ser ut att ha upptäckt en bugg i sitt system som rekommenderar musik till Instagram Stories-inlägg. Enligt en talesperson rekommenderades den över 25 år gamla låten \"Higher\" med det amerikanska rockbandet Creed i betydligt större utsträckning än vad som var motiverat med låtens popularitet. Instagram-användare har sedan i augusti rapporterat om att Higher rekommenderats till deras Stories-inlägg orimligt ofta. En del har till och med föreslagit att Creed betalat Instagram för att få låten rekommenderad. Det hela verkar dock bero på en bugg och en talesperson för Instagram säger till CNN: \"We looked into this and found that this song is being recommended to more people than intended. We’re continuing to investigate.\" En annan låt som Instagram-användare anser har dykt upp oftare som rekommendation till Stories än vad som är rimligt är Soulja Boys \"Turn My Swag On\" från 2008. Det ska dock inte vara en bugg och talespersonen för Instagram säger: \"The Soulja Boy song being recommended is not a bug, and it is actually popular on IG!\" Ni kan lyssna på Higher av Creed ovan, och nedan hittas Turn My Swag On med Soulja Boy. L&auml;s vidare och kommentera: https://feber.se/internet/instagram-ber-om-ursakt-for-omattligt-mycket-creed/497117/ L&auml;s mer om Creed , Soulja Boy , Turn My Swag On , Higher , Dingfeber , sociala medier , musikrekommendationer",
+      "link": "https://feber.se/internet/instagram-ber-om-ursakt-for-omattligt-mycket-creed/497117/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/instagram-ber-om-ursakt-for-omattligt-mycket-creed/497117/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791552000000
+    },
+    {
+      "title": "Cupertino är en ny tv-serie om advokater i Silicon Valley",
+      "description": "Lagen vs. techjättar Här är en trailer för den nya tv-serien Cupertino där tittarna kommer att få följa hur ett gäng advokater tar sig an fall som oftast är kopplade till techföretagen i Silicon Valley. Serien följer advokaterna Michael Price (spelad av Mike Colter) och Olivia Siffre (Rachel Keller) på deras nystartade advokatbyrå vars mål är att hjälpa anställda eller andra som utnyttjats eller drabbats negativt av Silicon Valleys gigantiska teknikjättar och AI-bolag. Cupertino började visas på den amerikanska tv-kanalen CBS och streamingtjänsten Paramount+ igår. När den dyker upp på någon svensk kanal eller tjänst har vi inte hittat några uppgifter om ännu. Det är väl dock inte omöjligt att den börjar visas på SkyShowtime eller TV4, som har ett samarbetsavtal med CBS, så småningom. L&auml;s vidare och kommentera: https://feber.se/film/cupertino-ar-en-ny-tv-serie-om-advokater-i-silicon-valley/497115/ L&auml;s mer om Cupertino , CBS , Mike Colter , Paramount+ , Silicon Valley , Rachel Keller",
+      "link": "https://feber.se/film/cupertino-ar-en-ny-tv-serie-om-advokater-i-silicon-valley/497115/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/film/cupertino-ar-en-ny-tv-serie-om-advokater-i-silicon-valley/497115/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791551400000
+    },
+    {
+      "title": "Så här mycket kostar Denzas eldrivna flaggskepp Z9GT",
+      "description": "Och suven BAO 5 Nu är de svenska priserna klara för Denzas eldrivna flaggskepp Z9GT och laddhybrid-suven BAO 5. Båda bilarna har Sverigepremiär i dag på eCar Expo på Stockholmsmässan och i samma veva öppnar orderböckerna. Z9GT är en shooting brake grand tourer med hela 1156 hästar och enligt WLTP kommer den 60 mil på en laddning. Den har stöd för BYD Flash Charging som kan ladda batteripacket från 10-97 procent på bara nio minuter. BAO 5 är istället en fyrhjulsdriven Jeep-utmanare 544 hästar och en elräckvidd på upp till nio mil. De första bilarna ska levereras till kund i slutet av året. Så vad får man betala då? Z9GT kostar från 1.469.900 kronor och BAO 5 kostar från 889.900 kronor. L&auml;s vidare och kommentera: https://feber.se/bil/sa-har-mycket-kostar-denzas-eldrivna-flaggskepp-z9gt/497113/ L&auml;s mer om Denza , Bao , pris , Sverige , lansering , beställningsbara , Z9GT , BAO 5 , Kina",
+      "link": "https://feber.se/bil/sa-har-mycket-kostar-denzas-eldrivna-flaggskepp-z9gt/497113/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/bil/sa-har-mycket-kostar-denzas-eldrivna-flaggskepp-z9gt/497113/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791550800000
+    },
+    {
       "title": "Man häktad efter attack mot krog på Folkungagatan",
       "description": "Man häktad efter attack där farligt föremål kastades in på krog på Folkungagatan, Södermalm.",
       "link": "https://www.mitti.se/nyheter/man-haktad-efter-attack-mot-krog-pa-folkungagatan-6.3.390621.1ba717c127",
@@ -1332,6 +1622,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791550351000
+    },
+    {
+      "title": "Meta blockerar Tiktoks annonser",
+      "description": "På Facebook och Instagram Meta trappar upp striden med Bytedance och inför ett förbud mot annonser från Tiktoks kinesiska ägarbolag på sina plattformar. Förbudet gäller i USA samt sex andra länder och ska även gällatredjepartsannonsörer som försöker länka trafik till Tiktoks tjänster. Meta menar att de inte vill ge annonsutrymme åt en konkurrent vars uttalade mål är att dra användare bort från Metas egna appar. L&auml;s vidare och kommentera: https://feber.se/internet/meta-blockerar-tiktoks-annonser/497114/ L&auml;s mer om Tiktok , Bytedance , USA , Reuters , Kanada , sociala medier , annonsförbud",
+      "link": "https://feber.se/internet/meta-blockerar-tiktoks-annonser/497114/?utm_source=rss&utm_medium=feed",
+      "guid": "https://feber.se/internet/meta-blockerar-tiktoks-annonser/497114/?utm_source=rss&utm_medium=feed",
+      "image": "",
+      "source": "Feber",
+      "sourceKey": "https://feber.se/rss/",
+      "timestamp": 1791550200000
     },
     {
       "title": "Hatch Baby Light",
