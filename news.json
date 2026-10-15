@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-10-14T23:31:43.246Z",
+  "updatedAt": "2026-10-15T02:16:11.853Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Kariem föll från berg- och dalbanan",
+      "description": "Hassan Kariem, 42, föll från berg- och dalbanan på nöjesparken Six flags. Bara timmar tidigare hade åkturen stängts för underhåll.",
+      "link": "https://www.expressen.se/nyheter/varlden/kariem-foll-fran-berg--och-dalbanan-/",
+      "guid": "https://www.expressen.se/nyheter/varlden/kariem-foll-fran-berg--och-dalbanan-/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792029907000
+    },
     {
       "title": "Två fartyg attackerade i Hormuz",
       "description": "Har sjunkit i Hormuzsundet",
@@ -21,7 +31,7 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792019539000
+      "timestamp": 1792019538000
     },
     {
       "title": "1998 RUF Project Dragon Sports Car",
@@ -482,16 +492,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1791996615000
-    },
-    {
-      "title": "Alva, 25, om detaljerna i skräck-sms:et: ”Allt stämde”",
-      "description": "Ett plötsligt sms vände upp och ner på Alva Engströms tillvaro. Specifika detaljer i meddelandet gjorde att hon trodde att allt var sant. – Jag tänkte ju att min pappa är död, säger hon.",
-      "link": "https://www.expressen.se/nyheter/sverige/alva-25-om-detaljerna-i-skrack-smset-allt-stamde/",
-      "guid": "https://www.expressen.se/nyheter/sverige/alva-25-om-detaljerna-i-skrack-smset-allt-stamde/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1791996432000
     },
     {
       "title": "Podd: Därför är hyfs i kollektivtrafiken helt ute",
