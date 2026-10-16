@@ -1,8 +1,78 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-15T23:24:07.251Z",
+  "updatedAt": "2026-10-16T02:07:52.754Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Åtalas för att ha kopierat 200 000 filer – startade rivalen en månad efter konkursen",
+      "description": "En tidigare försäljningschef i Finland misstänks ha kopierat över 200 000 filer från sin arbetsgivare innan företaget gick i konkurs. Kort därefter startade han ett konkurrerande bolag. Nu riskerar han fängelse och omfattande ekonomiska krav i en uppmärksammad rättsprocess. En omfattande tvist om företagshemligheter har hamnat i domstol i Finland. I centrum står den finländska […]",
+      "link": "https://www.dagensps.se/varlden/atalas-for-att-ha-kopierat-200-000-filer-startade-rivalen-en-manad-efter-konkursen/",
+      "guid": "https://www.dagensps.se/?p=1683399",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/3ik-w-2tb-qsf7-kyb2srrm6vftl8i3hwbui3awv-1.jpeg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792116241000
+    },
+    {
+      "title": "EU-länder långt ifrån budgetuppgörelse – Orpo: Franska valet pressar tidtabellen",
+      "description": "Statsminister Petteri Orpo (Saml.) varnar för att tiden håller på att rinna ut i förhandlingarna om EU:s nästa långtidsbudget.",
+      "link": "https://yle.fi/a/7-10106563?origin=rss",
+      "guid": "https://yle.fi/a/7-10106563",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792115099000
+    },
+    {
+      "title": "Han arbetade på tomten – hittade ett 160 centimeter högt faraohuvud",
+      "description": "En man i Egyptens Nildelta upptäckte en sten med mystiska inskriptioner utanför sitt hus. När arkeologer började gräva kom ett 160 centimeter högt faraohuvud fram ur jorden. Fyndet har kopplats till Ramses II, en av det forntida Egyptens mäktigaste härskare. Vi återkommer ofta till Egypten – ibland som resmål där många lyxprojekt håller på att […]",
+      "link": "https://www.dagensps.se/varlden/han-arbetade-pa-tomten-hittade-ett-160-centimeter-hogt-faraohuvud/",
+      "guid": "https://www.dagensps.se/?p=1683387",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/u3frgingjyxcj0vswdinejf-cmchcupov3fsbf08.jpeg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792114347000
+    },
+    {
+      "title": "Attacker – Kiev strömlöst",
+      "description": "Explosioner även i andra delar av Ukraina",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d0c9a38f-f8cb-4fd9-86e5-c21a77c7d6e3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d0c9a38f-f8cb-4fd9-86e5-c21a77c7d6e3",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792112884000
+    },
+    {
+      "title": "Skjutning på skola i Oregon",
+      "description": "En skjutning har inträffat på en grundskola i Oregon i USA. Tre barn och en lärare är döda och en 16-årig gärningsman har skjutits ihjäl, uppger polisen enligt CNN.",
+      "link": "https://www.expressen.se/nyheter/varlden/skjutning-pa-grundskola-i-oregon/",
+      "guid": "https://www.expressen.se/nyheter/varlden/skjutning-pa-grundskola-i-oregon/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792112598000
+    },
+    {
+      "title": "Powerbank på flyget: Max två – och du får inte ladda den ombord",
+      "description": "Powerbanken ska i handbagaget, högst två per person, och får inte laddas under flygningen. Så beskrivs de nya flygreglerna för 2026 inför höstlovsresorna. Det har varit mycket skriverier om powerbanks sedan en rad olyckor har skett under flygningar världen över. En batteridjungel har uppstått, och många bolag vet inte riktigt hur de ska hantera säkerhetshotet […]",
+      "link": "https://www.dagensps.se/weekend/resor/powerbank-pa-flyget-max-tva-och-du-far-inte-ladda-den-ombord/",
+      "guid": "https://www.dagensps.se/?p=1683388",
+      "image": "https://images.dagensps.se/app/uploads/2025/07/7-39.png?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792110749000
+    },
+    {
+      "title": "Trotset mot Trump efter dödssveket",
+      "description": "Zelenskyj lovar att fortsätta bomba ryska oljeraffinaderier. Och kommenterar nu öppet Trumps beundran för Putin. I en intervju med Financial Times säger han att Trump har en ”instinktiv dragning till autokrater och superförmögna”. – Han talar öppet om att han älskar sådana människor.",
+      "link": "https://www.expressen.se/nyheter/varlden/trotset-mot-trump--efter-dodssveket/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trotset-mot-trump--efter-dodssveket/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792109017000
+    },
     {
       "title": "Europas bortglömda pärla bland bergen – här slipper du turistmassorna",
       "description": "Om du är sugen på ett annorlunda resmål i Europa bör du vända blicken mot Balkanhalvön. Nordmakedonien är ett underskattat land, fullt med kultur och natur – där reskassan fortfarande räcker en lång väg. Allt fler söker sig utanför de vanligaste turiststråken, vare sig det rör sig om sommarmånaderna kring Medelhavet, eller numera även på […]",
@@ -14,14 +84,14 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792106493000
     },
     {
-      "title": "Skjutning på skola i Oregon",
-      "description": "En skjutning har inträffat på en grundskola i Oregon i USA. Tre barn och en vuxen är döda, uppger källor för CNN. Den misstänkta skytten har skjutits ihjäl.",
-      "link": "https://www.expressen.se/nyheter/varlden/skjutning-pa-grundskola-i-oregon/",
-      "guid": "https://www.expressen.se/nyheter/varlden/skjutning-pa-grundskola-i-oregon/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792105407000
+      "title": "INEOS Grenadier Helmsman SUV",
+      "description": "",
+      "link": "https://uncrate.com/ineos-grenadier-helmsman-suv/",
+      "guid": "https://uncrate.com/ineos-grenadier-helmsman-suv/",
+      "image": "https://uncrate.com/assets_c/2026/10/ineos-grenadier-helmsman-suv-4-thumb-960xauto-193542.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1792105200000
     },
     {
       "title": "Himlen blev blodröd – sen började kaoset",
@@ -414,16 +484,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792086208000
     },
     {
-      "title": "Misstänkt föremål – polis: Sätt på er hörselskydd",
-      "description": "Misstänkt farligt föremål i Uppsala",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=13270da7-54bb-40f5-b36c-dd6f71e87a00",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=13270da7-54bb-40f5-b36c-dd6f71e87a00",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792085767000
-    },
-    {
       "title": "KÜHL Rydr Series",
       "description": "",
       "link": "https://uncrate.com/kuhl-rydr-series/",
@@ -442,16 +502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1792085400000
-    },
-    {
-      "title": "Har larmats om kvinnan i 15 år: ”Hon är ökänd”",
-      "description": "I en Facebook-grupp engagerade sig personer om bortsprungna valpar. De visade sig tillhöra en 54-årig kvinna – som i flera år uppges ha skadat sina hundar. Då genomförde länsstyrelsen kontroller och kvinnan fick djurförbud. Trots det har hon hundar kvar.",
-      "link": "https://www.expressen.se/nyheter/sverige/har-larmats-om-kvinnan--i-15-ar-hon-ar-okand/",
-      "guid": "https://www.expressen.se/nyheter/sverige/har-larmats-om-kvinnan--i-15-ar-hon-ar-okand/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792084857000
     },
     {
       "title": "Sony lanserar nya trådlösa mikrofonen ECM-W5",
@@ -734,16 +784,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792075950000
     },
     {
-      "title": "Två fartyg i brand i Svarta havet – Ryssland pekas ut",
-      "description": "Två fartyg står i brand i Svarta havet nära Rumänien. Sju sjömän saknas sedan fartygen träffats av vad som misstänks vara ryska drönare. Det är två kemikalietankers som brinner utanför Rumäniens kust. Räddningsmanskap har under torsdagen sökt efter sju besättningsmän som saknas från det ena av fartygen. Fartygen fattade eld under natten, strax utanför Rumäniens […]",
-      "link": "https://www.dagensps.se/varlden/tva-fartyg-i-brand-i-svarta-havet-ryssland-pekas-ut/",
-      "guid": "https://www.dagensps.se/?p=1683302",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/i3ld47weovn37j7rpi2z5iv2gm-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792075233000
-    },
-    {
       "title": "Kolla in fantastiska djurbilder",
       "description": "Ett urval från årets Wildlife Photographer of the Year Brittiska Natural History Museum har presenterat vinnarna i årets Wildlife Photographer of the Year varav bilden ovan utsågs till totalvinnaren. Bilden är fotograferad i Namibia av italienaren Federico Vernosei och föreställer en elefant bärande på en död elefantkalv. Sammanlagt utsågs ett 30-tal vinnare i olika kategorier bland de över 65,400 fotografier som skickats in till årets upplaga av Wildlife Photographer of the Year. I bildspelet nedan hittas några av vinnarna samt ett dussintal av de andra fotografierna som tävlingens jury valt att uppmärksamma. Ni hittar ett större galleri med samtliga vinnarbilder samt andra foton som uppmärksammats på länken nedan. L&auml;s vidare och kommentera: https://feber.se/pryl/kolla-in-fantastiska-djurbilder/497362/ L&auml;s mer om Natural History Museum , Wildlife Photographer of the Year , Federico Vernosei , elefant , Djurfeber",
       "link": "https://feber.se/pryl/kolla-in-fantastiska-djurbilder/497362/?utm_source=rss&utm_medium=feed",
@@ -772,16 +812,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792074876000
-    },
-    {
-      "title": "Bluff-sms om paket: Microsoft slår till efter japanskt tips",
-      "description": "Bluff-sms om paket som inte kunnat levereras och om obetalda avgifter kan bli färre. Efter ett tips från japansk polis har Microsoft slagit till mot en kinesiskspråkig marknadsplats och de bedrägeriverktyg som i år har gjort det möjligt att skicka över en miljard bluffmeddelanden. Dagens PS har tidigare rapporterat att nästan varannan svensk någon gång […]",
-      "link": "https://www.dagensps.se/privatekonomi/bluff-sms-om-paket-microsoft-slar-till-efter-japanskt-tips/",
-      "guid": "https://www.dagensps.se/?p=1683289",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/dagens-ps-18.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792074767000
     },
     {
       "title": "Träbalk som blandar gran och björk får pris",
@@ -841,16 +871,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792072800000
-    },
-    {
-      "title": "Pensionsmissen kostar 45 000 – du kan spara för mycket pengar",
-      "description": "PS sammanfattar pensionsveckan där 30-åringar kan ha tjänat in över en halv miljon utan eget sparande och där två jobb kan ge betydligt mindre till tjänstepensionen än ett. Samtidigt försöker forskare förklara varför den som faktiskt har pengar fortsätter att spara i stället för att använda dem. Veckan har också handlat om pensionsprognoser som gör […]",
-      "link": "https://www.dagensps.se/privatekonomi/pensionsmissen-kostar-45-000-du-kan-spara-for-mycket-pengar/",
-      "guid": "https://www.dagensps.se/?p=1683121",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/pexels-yankrukov-4458270-300x300.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792072800000
     },
     {
@@ -958,7 +978,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "S, M och C ska styra Upplands-Bro 2026-2030",
       "link": "https://www.mitti.se/nyheter/nytt-styre-oppnar-for-att-stoppa-fler-friskolor-6.3.391286.ac99b39195",
       "guid": "https://www.mitti.se/nyheter/nytt-styre-oppnar-for-att-stoppa-fler-friskolor-6.3.391286.ac99b39195",
-      "image": "https://www.mitti.se/image-3.385488.312255.20261015161342.eeb34413b0?format=jpeg",
+      "image": "https://www.mitti.se/image-3.385488.312255.20261016015309.68dc95228a?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792070583000
@@ -1112,16 +1132,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792067053000
-    },
-    {
-      "title": "Kärnområdet för afrikansk svinpest utvidgas",
-      "description": "Livsmedelsverket utvidgar kärnområdet för afrikansk svinpest kring Villmanstrand efter ett nytt fynd hos ett vildsvin.",
-      "link": "https://yle.fi/a/7-10107039?origin=rss",
-      "guid": "https://yle.fi/a/7-10107039",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792066901000
     },
     {
       "title": "Äckliga fynd i Stockholms bowlinghallar",
@@ -1692,16 +1702,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1792015406000
-    },
-    {
-      "title": "Roy Lichtenstein Temple Lithograph",
-      "description": "",
-      "link": "https://uncrate.com/roy-lichtenstein-temple-lithograph/",
-      "guid": "https://uncrate.com/roy-lichtenstein-temple-lithograph/",
-      "image": "https://uncrate.com/assets_c/2026/10/roy-lichtenstein-temple-lithograph-1-darkened-thumb-960xauto-193514.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1792015200000
     },
     {
       "title": "Vakt bröt armen på berusad man – åtalas",
