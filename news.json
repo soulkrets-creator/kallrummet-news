@@ -1,17 +1,37 @@
 {
-  "updatedAt": "2026-10-17T17:36:19.231Z",
+  "updatedAt": "2026-10-17T19:48:51.828Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Nya lågvattenmärket för HIFK – släppte in sju mål i säsongens största förlust: ”Blev överkörda”",
-      "description": "HIFK får inte fason på spelet i ishockeyligan. På lördagen kom säsongens riktiga bottennapp: 1-7 mot SaiPa.",
-      "link": "https://yle.fi/a/7-10107131?origin=rss",
-      "guid": "https://yle.fi/a/7-10107131",
+      "title": "Brand i centrala Stockholm",
+      "description": "Rökdykning pågår",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e2ee9f42-93c4-4221-9dad-e1f84e4d50db",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e2ee9f42-93c4-4221-9dad-e1f84e4d50db",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792266042000
+    },
+    {
+      "title": "Uppgifter: Trump överväger att använda ”alla bombers moder”",
+      "description": "Den har kallats för ”alla bombers moder”. Nu kan megabomben komma att användas av USA:s militär i kriget mot Iran, enligt CNN. Det skulle innebära en tydlig eskalering av konflikten – samtidigt som flera källor tvivlar på att vapnet skulle vara effektivt.",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-overvager-att-anvanda-alla-bombers-moder/",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-overvager-att-anvanda-alla-bombers-moder/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792265673000
+    },
+    {
+      "title": "Rädda en sidensvans – låt bli att tvätta fönstren",
+      "description": "150 sidensvansar har dött på Helsingfors universitets kampus i Vik. Men det finns sätt att förebygga masskrockar mot fönster.",
+      "link": "https://yle.fi/a/7-10107132?origin=rss",
+      "guid": "https://yle.fi/a/7-10107132",
       "image": "",
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792258344000
+      "timestamp": 1792263011000
     },
     {
       "title": "Natoland sköt ner två drönare",
@@ -21,7 +41,47 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792257599000
+      "timestamp": 1792262315000
+    },
+    {
+      "title": "ÅIFK samlade på sig 11 röda och gula kort, Honka gjorde mål",
+      "description": "Honka vann det första mötet med 0-1. Returmatchen spelas på fredag. Vinnaren stiger till fotbollsettan.",
+      "link": "https://yle.fi/a/7-10107130?origin=rss",
+      "guid": "https://yle.fi/a/7-10107130",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792261101000
+    },
+    {
+      "title": "Panik i Vita huset – Trump uppges ha ”exploderat”",
+      "description": "Donald Trump överväger att göra sig av med sin stabschef Susie Wiles, enligt Politico. Avslöjandet ska ha fått Trump att ”explodera” och lett till panik i Vita huset. – Susie tittar sig över axeln, säger en person nära presidenten till tidningen.",
+      "link": "https://www.expressen.se/nyheter/varlden/panik-i-vita-huset-trump-uppges-ha-exploderat/",
+      "guid": "https://www.expressen.se/nyheter/varlden/panik-i-vita-huset-trump-uppges-ha-exploderat/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792259983000
+    },
+    {
+      "title": "Motståndarkollen: HBK",
+      "description": "På söndagseftermiddagen ställs Hammarby mot jumbon Halmstad på bortaplan. Här tar vi en titt på hallänningarnas säsong sedan vårmötet, där HBK ju tog en av sina hittills 14 inspelade poäng.Våren fram",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-hbk__",
+      "guid": "7b6f50a3-e7d8-46f6-9305-78bb720e0acc",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/a1decb6e67a5a92213abebe2527f8a80c840ded4-3000x1500.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1792258677000
+    },
+    {
+      "title": "Nya lågvattenmärket för HIFK – släppte in sju mål i säsongens största förlust: ”Blev överkörda”",
+      "description": "HIFK får inte fason på spelet i ishockeyligan. På lördagen kom säsongens riktiga bottennapp: 1-7 mot SaiPa.",
+      "link": "https://yle.fi/a/7-10107131?origin=rss",
+      "guid": "https://yle.fi/a/7-10107131",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792258344000
     },
     {
       "title": "Föreslå namn för valparna i Valplive – förslag med tema Italien, sagofigurer, litteratur eller Aleksis Kivi",
@@ -95,7 +155,7 @@
     },
     {
       "title": "Kvinnor försvinner ur Trumps administration och ersätts av män",
-      "description": "USA:s president Donald Trump har redan ersatt hälften av sina kvinnliga kabinettsmedlemmar med manliga. De män som råkat i blåsväder sitter kvar.",
+      "description": "USA:s president Donald Trump har redan ersatt hälften av sina kvinnliga kabinettsmedlemmar med manliga. Vi listar också de män som råkat i blåsväder men sitter kvar.",
       "link": "https://yle.fi/a/7-10107123?origin=rss",
       "guid": "https://yle.fi/a/7-10107123",
       "image": "",
@@ -325,7 +385,7 @@
     },
     {
       "title": "Tonåringar greps i gryningsräd",
-      "description": "Tidigt på lördagsmorgonen greps två tonåringar misstänkta för att ha skjutit en kvinna i en idrottshall i södra Stockholm. De misstänkta är inte från Stockholmstrakten, och såvitt känt hade de själva inget otalt med kvinnan. – Vi har några olika tankar kring varför det skulle kunna ha skett, som vi håller på att utreda, men i nuläget vet vi inte, säger kammaråklagare Lukas Tigerstrand.",
+      "description": "Tidigt på lördagsmorgonen greps två tonåringar misstänkta för att ha skjutit en kvinna i en idrottshall i södra Stockholm. De är inte från Stockholmstrakten, och såvitt känt hade de själva inget otalt med kvinnan. På lördagskvällen meddelar polisen att kvinnan dött av sina skador.",
       "link": "https://www.expressen.se/nyheter/sverige/tonaringar-greps-i-gryningsrad/",
       "guid": "https://www.expressen.se/nyheter/sverige/tonaringar-greps-i-gryningsrad/",
       "image": "",
@@ -594,16 +654,6 @@
       "timestamp": 1792238210000
     },
     {
-      "title": "Kaos i Moskva",
-      "description": "Stänger ner luftrummet efter larmen: ”Nödvändigt”",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/bilderna-avslojar-kaoset-i-moskva",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/bilderna-avslojar-kaoset-i-moskva",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792238209000
-    },
-    {
       "title": "Olivlund brändes ner av israeler på Västbanken",
       "description": "Israeliska bosättare brände upp olivträd och kastade sten mot palestinier som skulle skörda sina oliver på Västbanken.",
       "link": "https://yle.fi/a/7-10107119?origin=rss",
@@ -654,16 +704,6 @@
       "timestamp": 1792236122000
     },
     {
-      "title": "Så förklarar fastighetsförmedlare de sjunkande hyrorna i Borgå",
-      "description": "Under sensommaren sjönk hyrorna mest i Borgå sett till hela landet. Ett stort utbud och det ekonomiska läget kan vara bidragande orsaker till det här.",
-      "link": "https://yle.fi/a/7-10107068?origin=rss",
-      "guid": "https://yle.fi/a/7-10107068",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792235414000
-    },
-    {
       "title": "Nytt spionprogram smittar via annonser",
       "description": "Enbart visningen av en infekterad annons räcker Några säkerhetsforskare har upptäckt ett nytt, lite halvobehagligt sätt för spionprogram att ta sig in i våra mobiler och datorer. Enligt upptäckten så räcker det numera med att en infekterad annons visas på en webbplats eller i en app för att enheten ska bli smittad. Man behöver alltså inte ens klicka på annonsen eller godkänna någon nedladdning för att illvillig kod ska leta sig in på datorn. Metoden har fått namnet AdFection och bakom tekniken står det israeliska företaget Discover-Tech, vars annonssystem har använts för att skicka ut spionprogramvara till noga utvalda mål. Bland annat ska anställda på nyhetskanalen Al Jazeera ha blivit utsatta för attackerna. Men tekniken verkar inte bara vara begränsad till spiongenren, då forskarna analyserade enorma mängder data från annonsmarknaden och fann att företagets annonser dök upp på hundratusentals sajter världen över. Förutom att infektera enheter kan tekniken användas för att kartlägga personers rörelsemönster och koppla ihop deras digitala identiteter. Efter att säkerhetsbristerna upptäcktes så har Google valt att spärra Discover-Tech från sina plattformar. L&auml;s vidare och kommentera: https://feber.se/internet/nytt-spionprogram-smittar-via-annonser/497421/ L&auml;s mer om AdFection , Discover-Tech , Al Jazeera , Google , spionprogram , cybersäkerhet",
       "link": "https://feber.se/internet/nytt-spionprogram-smittar-via-annonser/497421/?utm_source=rss&utm_medium=feed",
@@ -694,16 +734,6 @@
       "timestamp": 1792234182000
     },
     {
-      "title": "Kreml hyllar Trump: ”Viktigt och historiskt”",
-      "description": "Donald Trump har hävt flera av de sanktionerna som snart skulle träda i kraft mot Ryssland. Beslutet hyllas nu av Putins sändebud.",
-      "link": "https://www.expressen.se/nyheter/varlden/kreml-hyllar-trump-viktigt-och-historiskt/",
-      "guid": "https://www.expressen.se/nyheter/varlden/kreml-hyllar-trump-viktigt-och-historiskt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792234058000
-    },
-    {
       "title": "Ett år och åtta månader i fängelse blev 2 000 kr i böter",
       "description": "Dömd till ett år och åtta månaders fängelse i tingsrätten blev 2 000 kr i böter i hovrätten – tack vare en polis som vittnade. Det hela utspelar sig på parkeringen utanför Tanums shoppingcenter i Tanumshede i februari 2023. En 44-årig bilist följde efter en annan bilist sedan denne kört om 44-åringen på ett sätt han […]",
       "link": "https://www.dagensps.se/motor/ett-ar-och-atta-manader-i-fangelse-blev-2-000-kr-i-boter/",
@@ -712,16 +742,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792233695000
-    },
-    {
-      "title": "Pesten dödade miljoner men i dag biter antibiotikan",
-      "description": "Ett suspekt dödsfall i Sibirien väcker gamla farhågor. Men vad är pesten, hur förändrade den historien, och varför finns den fortfarande kvar?",
-      "link": "https://yle.fi/a/7-10107081?origin=rss",
-      "guid": "https://yle.fi/a/7-10107081",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792233145000
     },
     {
       "title": "Dino Beganovic blir reservförare i F1",
@@ -802,16 +822,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792226513000
-    },
-    {
-      "title": "Tonåringar gripna – kvinna skjuten i idrottshall",
-      "description": "En kvinna i 25-årsåldern är allvarligt skadad efter en skjutning i en idrottshall i södra Stockholm. Två tonårspojkar är anhållna misstänkta för mordförsöket. Kvinnan som sköts jobbar i kommunens ungdomsverksamhet. – Det är fruktansvärt på så många sätt, säger stadsdelsdirektör Lee Orberson.",
-      "link": "https://www.expressen.se/nyheter/sverige/tonaringar-gripna-kvinna-skjuten-i-idrottshall/",
-      "guid": "https://www.expressen.se/nyheter/sverige/tonaringar-gripna-kvinna-skjuten-i-idrottshall/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792224767000
     },
     {
       "title": "Nya delar av E18 får göras om efter kritik",
@@ -4692,16 +4702,6 @@
       "source": "Hammarby Fotboll",
       "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
       "timestamp": 1791731612000
-    },
-    {
-      "title": "Torsk i omstartsderbyt",
-      "description": "Hammarby föll med 0-1 i säsongens sista derby. I en första halvlek med stort grönvitt spelövertag pressades Nahir Besara fram till det som såg ut som enda stora läget, men kaptenen kunde inte förvalta",
-      "link": "https://www.hammarbyfotboll.se/nyheter/0-1-foerlust-i-derbyt",
-      "guid": "6de41f06-1062-428f-8164-2c5271271b13",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/9c50b066ceb0fad65afcaf8ebbe1cc5770499f51-4613x2307.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1791727044000
     },
     {
       "title": "Över 2 000 sundbybergare får tycka till om staden",
