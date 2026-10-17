@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-10-16T23:06:40.765Z",
+  "updatedAt": "2026-10-17T02:01:28.654Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump häver ryss-sanktioner",
+      "description": "Trump skrev under en lag att skärpa sanktionerna mot Ryssland. Nu stoppar han dem dagar innan de skulle träda i kraft, skriver Reuters .",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-haver-ryss-sanktioner/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-haver-ryss-sanktioner/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792202296000
+    },
+    {
+      "title": "Messi köper ny lyxkatamaran – ska bli flytande semesterparadis i Medelhavet",
+      "description": "Fotbollsstjärnan Lionel Messi har beställt en exklusiv lyxkatamaran på nästan 27 meter. Ombord väntar fem sovrum, en privat strandklubb och ett garage för vattenskotrar. Men den argentinske världsmästaren tänker inte behålla lyxen för sig själv – båten ska även kunna hyras ut till välbeställda semesterfirare i Medelhavet. Lionel Messi, som sedan 2023 spelar för Inter […]",
+      "link": "https://www.dagensps.se/motor/bat/messi-koper-ny-lyxkatamaran-ska-bli-flytande-semesterparadis-i-medelhavet/",
+      "guid": "https://www.dagensps.se/?p=1682494",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/2liyorhw-cvmbchaeool2e2xea0r7phyypvu95-f-300x300.jpeg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792201018000
+    },
+    {
+      "title": "Megan Lambert, 25, blev dödad på skolan",
+      "description": "Megan Lambert var ett av dödsoffren i veckans skolskjutning i USA, skriver New York Post . Den 25-åriga läraren ”älskade” skolan hon jobbade på, enligt hennes familj. ”Det här var hennes drömjobb”, skriver familjen.",
+      "link": "https://www.expressen.se/nyheter/varlden/megan-lambert-25-blev-dodad-pa-skolan/",
+      "guid": "https://www.expressen.se/nyheter/varlden/megan-lambert-25-blev-dodad-pa-skolan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792200616000
+    },
+    {
+      "title": "Man död i Skellefteå – två gripna",
+      "description": "Misstänkt mord i Skellefteå",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=76cf310f-31a8-4808-86af-09b4d9013ae1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76cf310f-31a8-4808-86af-09b4d9013ae1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792199354000
+    },
     {
       "title": "Piken mot Katie Zacharia efter Trump-avskedandet",
       "description": "Katie Zacharia fick sparken av Trump efter fem dagar på jobbet. Då kom en pik från Anthony Scaramucci, mannen vars rekord hon slog.",
@@ -11,7 +51,27 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792191227000
+      "timestamp": 1792198280000
+    },
+    {
+      "title": "”Trump beter sig som en rysk allierad”",
+      "description": "Trump ”hyllar Putin så mycket” samtidigt som han uttalar sig allt hårdare om Zelenskyj, säger experter till norska VG . De menar att ”det är något ruttet här”. – Trump beter sig som en rysk allierad, säger USA-experten Eirik Løkke.",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-beter--sig-som-en--rysk-allierad/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-beter--sig-som-en--rysk-allierad/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792193985000
+    },
+    {
+      "title": "Ressence Type 10 DN Dark Night Watch",
+      "description": "",
+      "link": "https://uncrate.com/ressence-type-10-dn-dark-night-watch/",
+      "guid": "https://uncrate.com/ressence-type-10-dn-dark-night-watch/",
+      "image": "https://uncrate.com/assets_c/2026/10/ressence-type-10-dn-watch-1-thumb-960xauto-193584.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1792191600000
     },
     {
       "title": "Dramatiska kampen för att rädda hunden Tissla",
@@ -32,6 +92,26 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1792188857000
+    },
+    {
+      "title": "Ycode Hydrating Face Serum",
+      "description": "",
+      "link": "https://uncrate.com/ycode-hydrating-face-serum/",
+      "guid": "https://uncrate.com/ycode-hydrating-face-serum/",
+      "image": "https://uncrate.com/assets_c/2026/10/ycode-21-darkened-thumb-960xauto-193585.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1792188000000
+    },
+    {
+      "title": "BMW Concept 7 Protection Armored Concept Car",
+      "description": "",
+      "link": "https://uncrate.com/bmw-concept-7-protection-armored-concept-car/",
+      "guid": "https://uncrate.com/bmw-concept-7-protection-armored-concept-car/",
+      "image": "https://uncrate.com/assets_c/2026/10/bmw-concept-7-protection-armored-concept-car-2-thumb-960xauto-193574.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1792187100000
     },
     {
       "title": "Gåtan om Patricia löst – efter 36 år",
@@ -95,7 +175,7 @@
     },
     {
       "title": "Person skjuten i idrottshall i Solberga i södra Stockholm",
-      "description": "En kvinna i 25-årsåldern skadades på fredagskvällen i en skjutning i en idrottshall i Solberga i södra Stockholm. Hon vårdas på sjukhus och beskrivs som ”mycket allvarligt skadad” Skjutningen inträffade samtidigt som flera matcher pågick i anläggningen.",
+      "description": "En kvinna i 25-årsåldern skadades på fredagskvällen i en skjutning i en idrottshall i södra Stockholm. Hon vårdas på sjukhus och beskrivs som ”mycket allvarligt skadad” Skjutningen inträffade samtidigt som flera matcher pågick i anläggningen.",
       "link": "https://www.expressen.se/nyheter/sverige/person-skjuten-i-idrottshall-i-solberga-i-sodra-stockholm/",
       "guid": "https://www.expressen.se/nyheter/sverige/person-skjuten-i-idrottshall-i-solberga-i-sodra-stockholm/",
       "image": "",
@@ -212,16 +292,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1792175400000
-    },
-    {
-      "title": "Zelenskyjs hån – inför EU-topparna",
-      "description": "Zelenskyj pikar – med två ord",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-pik-mot-trump",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-pik-mot-trump",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792174631000
     },
     {
       "title": "Kylan smyger sig på i landet – varnar om osynlig is",
@@ -464,16 +534,6 @@
       "timestamp": 1792163884000
     },
     {
-      "title": "Foodorabud våldtog kvinna – döms",
-      "description": "Matbudet insisterade på att han skulle bära in pizzan till kvinnans lägenhet – sen våldtog han henne. Mannen hävdar att kvinnan spottat på honom och förnekar brott. När han konfronteras med att hans DNA fanns i kvinnans trosor blir han svarslös.",
-      "link": "https://www.expressen.se/nyheter/sverige/foodorabud-valdtog-kvinna-doms/",
-      "guid": "https://www.expressen.se/nyheter/sverige/foodorabud-valdtog-kvinna-doms/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792163385000
-    },
-    {
       "title": "Henrik Thunes (M) sitter kvar som KSO",
       "description": "Henrik Thunes (M) vald till kommunstyrelsens ordförande i Sollentuna.",
       "link": "https://www.mitti.se/nyheter/henrik-thunes-m-sitter-kvar-som-kso-6.3.391940.8a6565ae69",
@@ -644,16 +704,6 @@
       "timestamp": 1792159800000
     },
     {
-      "title": "Beskedet om Mohamed Ali (V): Tillträder ”inom kort”",
-      "description": "V-kryssraketen Mohamed Ali har varit frånvarande sen han valdes in i riksdagen. Först tog han en timeout, sen sjukskrev han sig – men nu ska han tillträda ”inom kort”, meddelar Vänsterpartiet. Han har bland annat fått en ny bild på riksdagens hemsida. – Han är inte delgiven misstanke för något brott så det är naturligt att han tillträder, säger V:s gruppledare Samuel Gonzalez Westling till Dagens ETC .",
-      "link": "https://www.expressen.se/nyheter/politik/beskedet-om-mohamed-ali-v-tilltrader-inom-kort/",
-      "guid": "https://www.expressen.se/nyheter/politik/beskedet-om-mohamed-ali-v-tilltrader-inom-kort/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792159777000
-    },
-    {
       "title": "Ny taxitjänst på väg till Sverige",
       "description": "Använder sig av eldrivna VinFast-bilar Green SM (Green and Smart Mobility JSC, or GSM) är ett vietnamesiskt taxiföretag och mobilitetsplattform som grundades 2023 av Vingroup-ordföranden Pham Nhat Vurong. I Vingroup ingår det egna bilmärket VinFast som vi har skrivit om några gånger tidigare. I dagarna lanserades Green SM i Los Angeles och nu ska de även vara på väg hit. Ska lanseras i Stockholm snart säger man och även här blir det med turkosa eldrivna VinFast-modeller. Mer än så här vet vi tyvärr inte för tillfället. Feber-läsaren Björn fotade ett gäng VinFast VF6 på en trailer utanför Stockholm tidigare i veckan. L&auml;s vidare och kommentera: https://feber.se/bil/ny-taxitjanst-pa-vag-till-sverige/497377/ L&auml;s mer om Green SM , taxitjänst , Sverige , taxi , VinFast , Vingroup , Stockholm , elbilar",
       "link": "https://feber.se/bil/ny-taxitjanst-pa-vag-till-sverige/497377/?utm_source=rss&utm_medium=feed",
@@ -812,16 +862,6 @@
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1792157099000
-    },
-    {
-      "title": "Youtubestjärnan lurad – stoppas från sociala medier",
-      "description": "Youtubestjärnan Jack Doherty blev avskydd när han kraschade en lyxbil i en livesändning. Nu har han tvingats till tystnad – efter att ha blivit lurad. ”Det här blir kanske mitt sista inlägg på ett tag”, skriver han på X.",
-      "link": "https://www.expressen.se/nyheter/varlden/youtubestjarnan-lurad--stoppas-fran-sociala-medier/",
-      "guid": "https://www.expressen.se/nyheter/varlden/youtubestjarnan-lurad--stoppas-fran-sociala-medier/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792156922000
     },
     {
       "title": "Xreal släpper glasögonskärmar med extrem ljusstyrka",
@@ -1032,16 +1072,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792152733000
-    },
-    {
-      "title": "Svenska soldater skjuter skarpt på Kreta",
-      "description": "Kreta är inte det vanligaste målet för svenskar i oktober. Det är det för försvaret. Nu skjuter svenska soldater skarpt på Kreta. Under onsdagen genomförde luftvärnsregementet Lv6 Försvarsmaktens första skarpskjutning med luftvärnssystem 103/Patriot. Skarpskjutningen är en del av en större luftvärnsövning, Spartan Arrow, på Kreta. ”I dag har vi tillsammans med våra allierade prövat och […]",
-      "link": "https://www.dagensps.se/varlden/svenska-soldater-skjuter-skarpt-pa-kreta/",
-      "guid": "https://www.dagensps.se/?p=1683685",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/20260929-zacjoh01-soldater-skog-skarm-30.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792152709000
     },
     {
       "title": "Bränslestödet räcker ingen vart för lantbruken: ”Kraftigare tag behövs från regeringen”",
@@ -1612,36 +1642,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1792111305000
-    },
-    {
-      "title": "INEOS Grenadier Helmsman SUV",
-      "description": "",
-      "link": "https://uncrate.com/ineos-grenadier-helmsman-suv/",
-      "guid": "https://uncrate.com/ineos-grenadier-helmsman-suv/",
-      "image": "https://uncrate.com/assets_c/2026/10/ineos-grenadier-helmsman-suv-4-thumb-960xauto-193542.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1792105200000
-    },
-    {
-      "title": "Timex Marlin Neo Classic Chronograph",
-      "description": "",
-      "link": "https://uncrate.com/timex-marlin-neo-classic-chronograph/",
-      "guid": "https://uncrate.com/timex-marlin-neo-classic-chronograph/",
-      "image": "https://uncrate.com/assets_c/2026/10/timex-marlin-neo-classic-chronograph-watch-1-thumb-960xauto-193541.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1792101600000
-    },
-    {
-      "title": "Garb: Trucker",
-      "description": "",
-      "link": "https://uncrate.com/garb-trucker/",
-      "guid": "https://uncrate.com/garb-trucker/",
-      "image": "https://uncrate.com/assets_c/2026/10/garb-trucker-darkened-thumb-960xauto-193547.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1792098029000
     },
     {
       "title": "Populärt kosttillskott underkänns i ny studie: Hudforskaren skulle aldrig lägga pengar på det – här är de två saker hon undviker",
