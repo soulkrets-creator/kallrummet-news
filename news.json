@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-10-17T22:45:24.850Z",
+  "updatedAt": "2026-10-18T02:01:08.673Z",
   "feedCount": 12,
-  "sourceCount": 12,
+  "sourceCount": 11,
   "items": [
+    {
+      "title": "Tusental gripna i Frankrike",
+      "description": "Beskedet efter våldsamheterna i Frankrike",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e457b736-2e2e-47fe-bca9-59d8bf0e3311",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e457b736-2e2e-47fe-bca9-59d8bf0e3311",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792280158000
+    },
     {
       "title": "Katie Zacharia sparkades mitt under intervju",
       "description": "Katie Zacharia fick sparken av Trump efter fem dagar på jobbet som Vita husets pressekreterare. Nu avslöjar Wall Street Journal att Zacharia sparkades mitt under en intervju med tidningen.",
@@ -22,16 +32,6 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1792276759000
-    },
-    {
-      "title": "Tusental gripna i Frankrike",
-      "description": "Beskedet efter våldsamheterna i Frankrike",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e457b736-2e2e-47fe-bca9-59d8bf0e3311",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e457b736-2e2e-47fe-bca9-59d8bf0e3311",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792275779000
     },
     {
       "title": "Skönhetsinfluencerns mörka dubbelliv avslöjat",
@@ -84,6 +84,26 @@
       "timestamp": 1792269536000
     },
     {
+      "title": "”Du är för ful för att visa dig offentligt!”: 10 av historiens galnaste lagar",
+      "description": "I mer än 4 000 år har människor infört nya lagar i strävan efter att skapa bättre samhällen. Men historien är full av lagar som är så märkliga eller brutala att de kan vara mycket svåra att förstå idag.",
+      "link": "https://varldenshistoria.se/samhalle/du-ar-for-ful-for-att-visa-dig-offentligt-10-av-historiens-galnaste-lagar",
+      "guid": "https://varldenshistoria.se/samhalle/du-ar-for-ful-for-att-visa-dig-offentligt-10-av-historiens-galnaste-lagar",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1792269026000
+    },
+    {
+      "title": "Upptäckt ger astronomer huvudvärk: Urgammal stjärna borde inte ens existera",
+      "description": "Stjärnan är det renaste objektet i universum och forskare är djupt förvånade över dess existens. Dess absurda renhet motsäger alla läroböcker, eftersom stjärnan enligt teorin saknar en extra ingrediens för att ens kunna bildas.",
+      "link": "https://illvet.se/universum/upptackt-vallar-astronomerna-huvudbry-urgammal-stjarna-ar-for-ren-for-att-kunna-existera",
+      "guid": "https://illvet.se/universum/upptackt-vallar-astronomerna-huvudbry-urgammal-stjarna-ar-for-ren-for-att-kunna-existera",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1792269000000
+    },
+    {
       "title": "Aida Hadzialic (S): Förhandlar om styret i Region Stockholm igen",
       "description": "Hur ska Region Stockholm styras? Om ingen lösning finns på tisdag kan lotten avgöra vem som ska ta över rodret tillfälligt. Nya förhandlingar mellan S, MP, C och L pågår. ”Vi går in i förhandlingarna med respekt för varandras ståndpunkter”, skriver Aida Hadzialic (S) på Facebook.",
       "link": "https://www.expressen.se/nyheter/politik/aida-hadzialic-s-forhandlar-om-styret-i-region-stockholm-igen/",
@@ -122,6 +142,26 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1792265673000
+    },
+    {
+      "title": "Cancerforskare: En ändrad vana kan kanske minska din risk för cancer, som drabbar allt fler yngre vuxna personer",
+      "description": "I en stor ny studie har en grupp experter identifierat tre viktiga faktorer bakom den sorgliga ökningen av andelen personer under 50 år som diagnostiseras med cancer. Cancerforskaren Rosiered Brownson-Smith håller med om i synnerhet en av dem och här delar hon med sig av sina bästa råd för att förebygga sjukdomen.",
+      "link": "https://illvet.se/halsa/i-kapplopning-med-tiden-cancer-okar-markant-bland-unga-vuxna-och-forskare-pekar-darfor-pa-nagot-du-kan-gora-for-att-minska-risken",
+      "guid": "https://illvet.se/halsa/i-kapplopning-med-tiden-cancer-okar-markant-bland-unga-vuxna-och-forskare-pekar-darfor-pa-nagot-du-kan-gora-for-att-minska-risken",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1792265418000
+    },
+    {
+      "title": "Känd vikingakung gav sig in i ett vågat företag – så förändrade han Norge för alltid",
+      "description": "Han beskrivs som både stor, stark, stilig, klok och mycket skicklig, men det mest anmärkningsvärda var hans hår, som också har gett honom hans smeknamn.",
+      "link": "https://varldenshistoria.se/civilisationer/vikingar/harald-harfager-vikingen-med-det-vackra-haret-som-erovrade-norge",
+      "guid": "https://varldenshistoria.se/civilisationer/vikingar/harald-harfager-vikingen-med-det-vackra-haret-som-erovrade-norge",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1792263609000
     },
     {
       "title": "Rädda en sidensvans – låt bli att tvätta fönstren",
@@ -325,7 +365,7 @@
     },
     {
       "title": "Våldsamma demonstrationer i Frankrike: ”Män med balaklavor”",
-      "description": "Frankrike står i brand. I Marseille har demonstranter brutit sig in i Stadshuset och i Lyon har flera byggnader brunnit ner. Svenska studenten Ella Aspelin såg hur polis och demonstranter drabbade samman på gatan i Paris där hon bor. – Man vet inte vad som väntar eller vad folk är kapabla till.",
+      "description": "Frankrike står i brand. I Marseille har demonstranter brutit sig in i Stadshuset och i Lyon har flera byggnader brunnit ner. Svenska studenten Ella, 25, såg polis och demonstranter drabba samman på gatan i Paris där hon bor. – Man vet inte vad som väntar eller vad folk är kapabla till.",
       "link": "https://www.expressen.se/nyheter/varlden/turistkontor-i-lagor-i-protesterna-i-frankrike/",
       "guid": "https://www.expressen.se/nyheter/varlden/turistkontor-i-lagor-i-protesterna-i-frankrike/",
       "image": "",
@@ -342,16 +382,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792249597000
-    },
-    {
-      "title": "Vad gör du med dina gamla elprylar?",
-      "description": "Helgens fråga Alla har vi den där. Lådan, garderoben eller den där korgen vid skrivbordet där urgamla mini-USB-kablar, avlagda mobiler samt trasiga hörlurar ligger och inväntar en framtid som aldrig kommer. I en ny undersökning från Elgiganten visar det att hela 60 procent av män mellan 30 och 49 år sparar sin gamla elektronik. Var fjärde man (24 procent) uppger dock att de skulle återvinna gammal elektronik oftare om de fick någon form av ekonomisk ersättning för det. Personligen känner jag ju ofta att den där SCART-kabeln ju kanske kan vara bra att ha 2038 så den får helt enkelt ligga kvar här ett tag till. L&auml;s vidare och kommentera: https://feber.se/vad-gor-du-med-dina-gamla-elprylar/497431/ L&auml;s mer om Elgiganten , SCART , elektronik , återvinning , USB-mini",
-      "link": "https://feber.se/vad-gor-du-med-dina-gamla-elprylar/497431/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/vad-gor-du-med-dina-gamla-elprylar/497431/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792249200000
     },
     {
       "title": "Påven lämnade sjukhuset efter lungcanceroperation",
@@ -444,16 +474,6 @@
       "timestamp": 1792245607000
     },
     {
-      "title": "Marques analyserar Teslas galna Roadster-visning",
-      "description": "Bluff eller framtidens teknik? I veckan fick Tesla återigen en hel del uppmärksamhet runtom i världen när de visade upp sin Roadster. Visningen bjöd på en hel del spektakulära grejer som man inte ser allt för ofta i bilvisningar. Man visade nämligen när bilen utförde nästan overkliga manövrar, som att köra på väggar och göra volter i luften. Generellt känns det ju som att funktionerna främst fungerar som ett sätt att skapa rubriker än att de faktiskt är tänkta för verklig användning. Marques Brownlee (MKBHD) har nu spenderat lite tid och funderat på vad han såg samt analyserat tekniken. I videon ovan delar han sina tankar kring det hela och ställer sig kritisk till hur mycket av detta som faktiskt är praktiskt genomförbart. L&auml;s vidare och kommentera: https://feber.se/bil/marques-analyserar-teslas-galna-roadster-visning/497430/ L&auml;s mer om Tesla , Marques Brownlee , MKBHD , elbilar , Tesla Roadster , Roadster , elbil",
-      "link": "https://feber.se/bil/marques-analyserar-teslas-galna-roadster-visning/497430/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/marques-analyserar-teslas-galna-roadster-visning/497430/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792245600000
-    },
-    {
       "title": "New drug reverses severe fatty liver disease by repairing the gut",
       "description": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardiovascular disease.",
       "link": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
@@ -484,16 +504,6 @@
       "timestamp": 1792243980000
     },
     {
-      "title": "Roger pratar med Esse om elbilar",
-      "description": "I Elbilsveckan I den här veckans avsnitt av Elbilsveckan fick jag äran att gästa lite. Vi pratar om nypresenterade Volkswagen ID. Tiguan som vi båda gillar. Vi har varit på provkörning av Hyundai Ioniq 3, som vi får prata om hur den är att köra, och Polestar 4 SUV, som vi inte får prata om hur den är att köra men kan prata om andra saker kring. Det blir även lite snack om Xpeng L03 som Esse har varit och provkört. Jag tycker den ser anskrämlig ut, men det håller inte Peter med om. Vad vi tycker om nya BMW iX4 får ni lyssna för att få reda på! Ledsen för min förkylda stämma! L&auml;s vidare och kommentera: https://feber.se/bil/roger-pratar-med-esse-om-elbilar/497437/ L&auml;s mer om Elbilsveckan , BMW iX4 , VW ID. Tiguan , Hyundai Ioniq 3 , Polestar 4 , Polestar 4 SUV",
-      "link": "https://feber.se/bil/roger-pratar-med-esse-om-elbilar/497437/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/roger-pratar-med-esse-om-elbilar/497437/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792243800000
-    },
-    {
       "title": "Publikinformation: Bortamötet med HBK",
       "description": "På söndagseftermiddagen ställs herrarna mot Halmstads BK på bortaplan. Matchen sparkas igång 16.30 på Örjans vall och här finns samlad information för dig som ser matchen på plats. Arena- och biljetti",
       "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-bortamotet-med-hbk",
@@ -522,16 +532,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1792242302000
-    },
-    {
-      "title": "Svenska hackinglandslaget tog guld i EM",
-      "description": "Sverige slog 35 nationer i årets cybersäkerhets-EM i Tyskland Det svenska hackinglandslaget (SNHT) har precis kammat hem guldet på EM i Tyskland. Totalt deltog 35 lag från EU-länder och partnernationer, samt sju internationella gästlag. Efter flera dagars tävlande stod det klart att Sverige tagit guld, följt av Finland på silverplats och Österrike som knep bronset. Tävlingen bestod av komplexa utmaningar inom bland annat kryptering, webbsäkerhet och konsten att hitta sårbarheter i mjukvara. Lagen ställdes också i direkta dueller mot varandra där de var tvungna att försvara sina egna system samtidigt som de försökte hacka motståndarnas. Nytt för i år var ett offline-format där lagen tvingades samarbeta och lösa uppgifter utan internetuppkoppling. Bakom Sveriges landslag står föreningen Kodsport, som genom tuffa uttagningstävlingar vaskat fram de bästa för att representera Sverige i cybersäkerhet. När de inte tävlar i hackande och sådant så roddar föreningen även initiativet Knäck koden. Det är en tävling för låg-, mellan- och högstadiet där klasser kan vinna 10 000 kronor till klasskassan genom problemlösning samt kodande. Kvalet till Knäck koden är öppet just nu och pågår fram till den 31 oktober. L&auml;s vidare och kommentera: https://feber.se/internet/svenska-hackinglandslaget-tog-guld-i-em/497424/ L&auml;s mer om Kodsport , Knäck koden , SNHT , cybersäkerhet , Svenska hackinglandslaget , programmering",
-      "link": "https://feber.se/internet/svenska-hackinglandslaget-tog-guld-i-em/497424/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/svenska-hackinglandslaget-tog-guld-i-em/497424/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792242000000
     },
     {
       "title": "IFK Mariehamn åker ur fotbollsligan efter 22 säsonger – känslosamma spelare: ”Det är bara mörker”",
@@ -654,16 +654,6 @@
       "timestamp": 1792238403000
     },
     {
-      "title": "Kolla in de första minuterna från Modern Warfare 4",
-      "description": "Pang-pang Nästa vecka släpps Call of Duty: Modern Warfare 4, men redan nu kan man kolla in hur spelet börjar genom att kolla på klippet ovan. Där visar man nämligen spelets första tolv minuter, så om man vill kolla in det så kan man ju se till att göra det på direkten ovan. L&auml;s vidare och kommentera: https://feber.se/spel/kolla-in-de-forsta-minuterna-fran-modern-warfare-4/497425/ L&auml;s mer om Call of Duty , Modern Warfare 4 , Activision , Gameplay , Spelnyheter",
-      "link": "https://feber.se/spel/kolla-in-de-forsta-minuterna-fran-modern-warfare-4/497425/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/kolla-in-de-forsta-minuterna-fran-modern-warfare-4/497425/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792238400000
-    },
-    {
       "title": "Därför ligger avloppsrören på gatan",
       "description": "Haninge kommun renoverar avloppsledningar och brunnar i Handen och Vega. Tillfälliga rör syns på marken medan arbetet pågår fram till första kvartalet 2027.",
       "link": "https://www.mitti.se/nyheter/darfor-ligger-avloppsroren-pa-gatan-6.3.391308.adc39478ce",
@@ -714,16 +704,6 @@
       "timestamp": 1792236122000
     },
     {
-      "title": "Nytt spionprogram smittar via annonser",
-      "description": "Enbart visningen av en infekterad annons räcker Några säkerhetsforskare har upptäckt ett nytt, lite halvobehagligt sätt för spionprogram att ta sig in i våra mobiler och datorer. Enligt upptäckten så räcker det numera med att en infekterad annons visas på en webbplats eller i en app för att enheten ska bli smittad. Man behöver alltså inte ens klicka på annonsen eller godkänna någon nedladdning för att illvillig kod ska leta sig in på datorn. Metoden har fått namnet AdFection och bakom tekniken står det israeliska företaget Discover-Tech, vars annonssystem har använts för att skicka ut spionprogramvara till noga utvalda mål. Bland annat ska anställda på nyhetskanalen Al Jazeera ha blivit utsatta för attackerna. Men tekniken verkar inte bara vara begränsad till spiongenren, då forskarna analyserade enorma mängder data från annonsmarknaden och fann att företagets annonser dök upp på hundratusentals sajter världen över. Förutom att infektera enheter kan tekniken användas för att kartlägga personers rörelsemönster och koppla ihop deras digitala identiteter. Efter att säkerhetsbristerna upptäcktes så har Google valt att spärra Discover-Tech från sina plattformar. L&auml;s vidare och kommentera: https://feber.se/internet/nytt-spionprogram-smittar-via-annonser/497421/ L&auml;s mer om AdFection , Discover-Tech , Al Jazeera , Google , spionprogram , cybersäkerhet",
-      "link": "https://feber.se/internet/nytt-spionprogram-smittar-via-annonser/497421/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/nytt-spionprogram-smittar-via-annonser/497421/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792234800000
-    },
-    {
       "title": "Byt Stockholm mot Köpenhamn – få 17 300 kronor mer varje månad",
       "description": "Ett par med genomsnittslöner i Köpenhamn har cirka 17 300 kronor mer kvar varje månad än motsvarande par i Stockholm när hyran är betald. Det visar en jämförelse av löner och hyror i Europas stadskärnor. Hur mycket av lönen går egentligen till hyran? Deutsche Bank har jämfört löner och hyror i rapporten Mapping the World’s […]",
       "link": "https://www.dagensps.se/privatekonomi/byt-stockholm-mot-kopenhamn-fa-17-300-kronor-mer-varje-manad/",
@@ -752,16 +732,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792233695000
-    },
-    {
-      "title": "Dino Beganovic blir reservförare i F1",
-      "description": "Svenske talangen tar klivet in i Ferraris F1-stall Den 22-årige svenske racingföraren Dino Beganovic har tillhört Ferraris juniorakademi i flera år, men han har fått hålla sig till Formel 2 ett tag nu. Men under nästa års säsong kommer han att ta klivet upp till Formel 1 då han i går utsågs till reserv- och utvecklingsförare för Ferrari. Rollen innebär att Beganovic ska finnas till hands och hoppa in i de röda bilarna om någon av de ordinarie förarna skulle få förhinder. Han kommer också att arbeta nära teamet med att utveckla bilarna. L&auml;s vidare och kommentera: https://feber.se/fordon/dino-beganovic-blir-reservforare-i-f1/497427/ L&auml;s mer om Dino Beganovic , Ferrari , Formel 1 , Formel 2 , Motorsport , Racing , Juniorakademi",
-      "link": "https://feber.se/fordon/dino-beganovic-blir-reservforare-i-f1/497427/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/dino-beganovic-blir-reservforare-i-f1/497427/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792231200000
     },
     {
       "title": "Begagnad Rolex dyrare än ny – Submariner kostar 35 300 kronor extra",
@@ -794,16 +764,6 @@
       "timestamp": 1792227604000
     },
     {
-      "title": "Svenska GeoGuessr släpper skräckversion",
-      "description": "När Google Street View möter mardrömmen Lagom till Halloween-festligheterna så har det svenskutvecklade spelet GeoGuessr vajbat ihop HorrorGuessr, vilket förvandlar geografijakten till en roguelike-överlevnadsskräckis. Grunden är fortfarande densamma. Det vill säga att du ska titta på en Google Street View-bild och lista ut var du är. Skillnaden den här gången är att du nu har ett monster i hälarna och därför bara en kort stund på dig att gissa rätt innan monstret får tag på dig. Det är också fyllt med en massa andra jobbiga moment som gör platsgissandet avsevärt mycket mer stressigt än det brukar vara. För att hjälpa dig på traven finns det över 100 olika föremål samt förmågor att låsa upp som håller monstret på avstånd och hjälper dig att överleva så länge som möjligt. Lyckas du hålla dig vid liv tillräckligt länge väntar dessutom olika bossar som kan frysa fast dig eller vända hela din skärm upp och ner. HorrorGuessr är helt gratis att spela och du hittar det via länken nedan. L&auml;s vidare och kommentera: https://feber.se/spel/svenska-geoguessr-slapper-skrackversion/497423/ L&auml;s mer om GeoGuessr , HorrorGuessr , Halloween , Google Street View , Spel , skräckspel",
-      "link": "https://feber.se/spel/svenska-geoguessr-slapper-skrackversion/497423/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/svenska-geoguessr-slapper-skrackversion/497423/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792227600000
-    },
-    {
       "title": "Ilska mot nya regler i skateparken: \"Ett svek mot åkarna\"",
       "description": "Nya reglerna på skateparken i Åva kritiseras av skejtare. Nu ska kommunen utreda tiderna.",
       "link": "https://www.mitti.se/nyheter/ilska-mot-nya-regler-i-skateparken-ett-svek-mot-akarna-6.3.389823.eb88bf4809",
@@ -824,16 +784,6 @@
       "timestamp": 1792226513000
     },
     {
-      "title": "Nya delar av E18 får göras om efter kritik",
-      "description": "Tvättbrädan ska bort Det har bara gått drygt ett och ett halvt år sedan den nya sträckan på E18 mellan Köping och Västjädra invigdes. Men nu tvingas Trafikverket redan göra om och göra rätt. Anledningen är att bilister har klagat på kraftiga vibrationer i vägbanan, och vägen har beskrivits som att köra på en tvättbräda. Problemet beror på att man lade ett för tunt lager asfalt när vägen byggdes, vilket då har skapat problemen. Så nu måste cirka 7,5 kilometer av motorvägen fräsas bort och ersättas med ny beläggning i båda riktningarna. Notan för allt detta förväntas landa på mellan fem och tio miljoner kronor, vilket ju är så där kul. Något annat som inte är så kul är ju att bilister som pendlar längs sträckan nu får räkna med nya störningar på sträckan. Under de fem veckor som arbetet förväntas pågå kommer framkomligheten att vara kraftigt begränsad då körfält stängs av. Trafikverket räknar dock med att vara klart i början av november och lovar att vägen då ska vara både jämnare och säkrare. L&auml;s vidare och kommentera: https://feber.se/fordon/nya-delar-av-e18-far-goras-om-efter-kritik/497422/ L&auml;s mer om E18 , Trafikverket , Köping , Västjädra , asfalt",
-      "link": "https://feber.se/fordon/nya-delar-av-e18-far-goras-om-efter-kritik/497422/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/fordon/nya-delar-av-e18-far-goras-om-efter-kritik/497422/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792224000000
-    },
-    {
       "title": "Spelglädje när innebandyn klev ner i seriespelet",
       "description": "Ekerö IK:s handbollsdamer klev från division ett till division tre när säsongen drog igång.",
       "link": "https://www.mitti.se/nyheter/spelgladje-nar-innebandyn-klev-ner-i-seriespelet-6.3.390725.42fe96ffe1",
@@ -852,16 +802,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792220900000
-    },
-    {
-      "title": "Nicolas Cage klar för True Detective",
-      "description": "Tillsammans med Antonio Banderas Efter mängder av rykten har HBO nu hittat sina nya huvudrollsinnehavare för den femte säsongen av True Detective. Det blir inga mindre än Nicolas Cage och Antonio Banderas som tar sig an huvudrollerna i den här nya säsongen. Vad handlingen kommer att kretsa kring är inte klart, men Cage ska i alla fall spela Henry Logan och Banderas tar sig an rollen som Rai Garcia. Bakom kulisserna återvänder Issa López som showrunner, manusförfattare och regissör. Hon låg även bakom den fjärde säsongen, Night Country, som blev en stor succé hos både kritiker och tittare. Inspelningarna av säsong fem förväntas dra igång någon gång under nästa år. L&auml;s vidare och kommentera: https://feber.se/film/nicolas-cage-klar-for-true-detective/497428/ L&auml;s mer om True Detective , Nicolas Cage , Antonio Banderas , Issa López , TV-serier , Night Country",
-      "link": "https://feber.se/film/nicolas-cage-klar-for-true-detective/497428/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/nicolas-cage-klar-for-true-detective/497428/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792220400000
     },
     {
       "title": "Kråkslottet på Brevik är redo för halloween",
@@ -902,16 +842,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792216920000
-    },
-    {
-      "title": "One Piece verkar vara på gång till Fortnite",
-      "description": "I want to live! Take me with you out to sea! Fortnite Chapter 7 Season 4 är på väg mot sitt slut, vilket innebär att man kan förvänta sig en kortare mellansäsong innan nästa stora kapitel drar igång. Det verkar som att denn mellansäsong kommer att bjuda på ett samarbete med den omåttligt populära manga- och anime-serien One Piece. Det är nämligen kodgrävare som hittat flera intressanta detaljer i spelets filer. Bland annat har en mystisk piratkista dykt upp och en laddningsskärm med Jonesy sittandes på en väldigt tunna som man kan anta har Luffy i sig. Om nu allt detta stämmer kan man förvänta sig lite piratfeber i Fortnite från den 1 november. L&auml;s vidare och kommentera: https://feber.se/spel/one-piece-verkar-vara-pa-gang-till-fortnite/497420/ L&auml;s mer om Fortnite , One Piece , anime , Jonesy , manga , Epic Games , piratkista",
-      "link": "https://feber.se/spel/one-piece-verkar-vara-pa-gang-till-fortnite/497420/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/one-piece-verkar-vara-pa-gang-till-fortnite/497420/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792216800000
     },
     {
       "title": "Nacka ska skydda hotade konstnärer",
@@ -1164,26 +1094,6 @@
       "timestamp": 1792179010000
     },
     {
-      "title": "Har du beställt en iPhone Duo?",
-      "description": "Dagens vikbara fråga Idag började Apple ta emot beställningar av sin första vikbara iPhone, och trots priset verkar det finnas en efterfrågan. Därför vill vi fråga er om ni Feber-läsare har köpt någon Duo? Svara gärna på enkäten nedan. Och trevlig helg! L&auml;s vidare och kommentera: https://feber.se/har-du-bestallt-en-iphone-duo/497413/ L&auml;s mer om Apple , iPhone Duo , Vikbar telefon , Feber",
-      "link": "https://feber.se/har-du-bestallt-en-iphone-duo/497413/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/har-du-bestallt-en-iphone-duo/497413/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792177200000
-    },
-    {
-      "title": "Opera släpper ny version av Air",
-      "description": "Den minimalistiska webbläsaren Opera, mjukvaruföretaget med fokus på webbläsare, släpper nu en ny version av webbläsaren Air som man ursprungligen släppte för snart två år sedan. Opera beskriver Air som en minimalistisk webbläsare som är tänkt att reducera distraktioner för användare och förhoppningsvis leda till lite mer lugn och ro för användaren. Användaren kan själv ställa in hur webbläsaren ser ut, bland annat så att den integrerar bättre med datorns skrivbordsbakgrund. Air har heller inga inbyggda appar eller annat som kan distrahera användaren, men det finns möjlighet att lägga till sådant för dem som önskar det. Dessutom finns en inbyggd annonsblockerare och en gratis VPN-tjänst. Bland de nya funktionerna i Air är nu en musikspelare som kan spela upp musik i lägen som \"Focus\", \"Relax\", \"Work\" och \"Ambience\". Det finns även inbyggda andningsövningar och möjlighet att ställa in påminnelser om att sträcka på benen och nacken med jämna mellanrum. Opera Air är gratis och går att ladda ner på länken nedan. L&auml;s vidare och kommentera: https://feber.se/internet/opera-slapper-ny-version-av-air/497409/ L&auml;s mer om VPN , annonsblockerare , Opera , Opera Air , Air , musikspelare , webbläsare , mjukvara",
-      "link": "https://feber.se/internet/opera-slapper-ny-version-av-air/497409/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/internet/opera-slapper-ny-version-av-air/497409/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792175400000
-    },
-    {
       "title": "DMOS Axpedition 23.5 inch Hybrid Axe",
       "description": "",
       "link": "https://uncrate.com/dmos-axpedition-235-inch-hybrid-axe/",
@@ -1192,16 +1102,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1792175400000
-    },
-    {
-      "title": "Fujifilm släpper nya Instax Square",
-      "description": "Direktkameran får inbyggda färgfilter Fujifilms nya analoga direktkamera Instax Square 2 bygger vidare på tidigare Square-modeller men har fått en uppdaterad, avrundad design. Den största nyheten är ett fysiskt reglage som låter dig anpassa bildernas stämning genom att skjuta in ett färgfilter för en mjuk guldton eller en kallare krispigare, blå ton direkt framför linsen. Genom att vrida på linsringen kan du också växla mellan tre fotolägen: närbild, standard och landskap. Kameran, som även har automatisk blixt och en liten selfiespegel, lanseras i slutet av oktober för cirka 120 dollar. Instax passar även på att släppa filmen Soft Haze, som säljs för 19 dollar per 10-pack och är framtagen för att ge bilderna lägre kontrast, dämpad färgmättnad samt mjukare ljus och skuggor. L&auml;s vidare och kommentera: https://feber.se/pryl/fujifilm-slapper-nya-instax-square/497396/ L&auml;s mer om Fujifilm , Instax Square 2 , Soft Haze , färgfilter , direktkamera",
-      "link": "https://feber.se/pryl/fujifilm-slapper-nya-instax-square/497396/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/fujifilm-slapper-nya-instax-square/497396/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792173600000
     },
     {
       "title": "Casio Pro-Trek PRJ-B001EX-1 Field Watch",
@@ -1224,16 +1124,6 @@
       "timestamp": 1792171804000
     },
     {
-      "title": "Windows har blivit snabbare med ny uppdatering",
-      "description": "Kan hålla mer aktiv data i minnet Microsoft fortsätter att skruva på Windows 11 och uppger nu att operativsystemet blivit betydligt snabbare efter den uppdateringen som släpptes i slutet av förra månaden. Microsofts Windows-chef Navjot Virk skriver i ett blogginlägg att uppdateringen gjort att Windows 11 kan reagera upp till 20 procent snabbare och att operativsystemet nu kan hålla upp till 2GB mer aktiv data i datorns RAM-minne. Det kan göra Windows-upplevelsen betydligt skönare för dem som kör datorer med 8GB RAM-minne eller mindre. Virk skriver vidare: \"Windows is also making additional memory-saving improvements that reduce background memory use. For example, on PCs with 8GB of memory or less, Widgets load only when you open them, making more than 200 MB of memory available for your apps and other work.\" Ni kan läsa mer om andra förbättringar som dykt upp i Windows den senaste tiden i blogginlägget som hittas på länken nedan. L&auml;s vidare och kommentera: https://feber.se/pc/windows-har-blivit-snabbare-med-ny-uppdatering/497402/ L&auml;s mer om Microsoft , Windows 11 , Navjot Virk , RAM-minne , Widgets , prestanda , operativsystem",
-      "link": "https://feber.se/pc/windows-har-blivit-snabbare-med-ny-uppdatering/497402/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pc/windows-har-blivit-snabbare-med-ny-uppdatering/497402/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792171800000
-    },
-    {
       "title": "Från landsbygd till stad – Eric plåtade Jakan i förändring",
       "description": "Från landsbygd till stad: Eric Roxfelts bilder från 1960- och 70-talets Järfälla visas för första gången i Jakobsbergs konsthall.",
       "link": "https://www.mitti.se/nyheter/fran-landsbygd-till-stad--eric-platade-jakan-i-forandring-6.3.390041.914a457eb7",
@@ -1242,16 +1132,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792170040000
-    },
-    {
-      "title": "Fredagsdansen",
-      "description": "Digga-musik-i-bilen-dansen I dag är det fredag och då ska man ut och dansa! L&auml;s vidare och kommentera: https://feber.se/video/fredagsdansen/497401/ L&auml;s mer om dans , fredag , helg , nöje , helgnöje , Nattliv , Krogkultur",
-      "link": "https://feber.se/video/fredagsdansen/497401/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/video/fredagsdansen/497401/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792170000000
     },
     {
       "title": "Porsche Mission S Vision Concept Car",
@@ -1314,16 +1194,6 @@
       "timestamp": 1792166441000
     },
     {
-      "title": "Få din Jimny att se ut som en GMC Typhoon",
-      "description": "So much yes GMC Typhoon är en riktigt ball bil från 90-talet. Om man inte får tag i en sådan och har en Suzuki Jimny kan man dock få den att likna en Typhoon. Det är det japanska företaget C.L.Link som erbjuder ett kit för att förvandla din lilla oskyldiga Jimny till något som ser betydligt ballare ut. Dock handlar det bara om utseende och inte massa mer pulver under huven. Originalet som är fyrhjulsdrivet har turbomatad V6:a på 4,3 liter som ger 280 hästar. Det gör att suven kan klippa 0-100 på under fem sekunder vilket verkligen inte var illa pinkat när det begav sig. C.L.Link kommer att visa upp sitt bygge för första gången på Tokyo Auto Salon som anordnas mellan 15 och 17 januari nästa år. I samband med detta kommer man öppna orderböckerna och presentera prislappen. L&auml;s vidare och kommentera: https://feber.se/bil/fa-din-jimny-att-se-ut-som-en-gmc-typhoon/497333/ L&auml;s mer om C.L.Link , Suzuki Jimny , GMC Typhoon , kit , Japan , custom , ballt",
-      "link": "https://feber.se/bil/fa-din-jimny-att-se-ut-som-en-gmc-typhoon/497333/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/fa-din-jimny-att-se-ut-som-en-gmc-typhoon/497333/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792166400000
-    },
-    {
       "title": "Tesla Roadster Electric Sports Car",
       "description": "",
       "link": "https://uncrate.com/tesla-roadster-electric-sports-car/",
@@ -1332,16 +1202,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1792166400000
-    },
-    {
-      "title": "Nya Withings-kunder måste betala för synk med Apple Hälsa",
-      "description": "De med ett äldre konto slipper Withings, som tillverkar ett gäng hälsoprodukter, meddelar att kunder som skapar ett nytt konto från och med den 13 oktober 2026 framöver måste ha en betald Withings+-prenumeration för att automatiskt kunna synkronisera sin hälsodata med tredjepartsappar som Apple Hälsa. I USA kommer prenumerationen att kosta 99,50 dollar per år. Förändringen berör dock alltså konstigt nog bara nyregistrerade konton. Användare som skapade sitt konto senast den 12 oktober 2026 behåller den kostnadsfria automatiska synkroniseringen precis som tidigare, vilket även gäller om de i framtiden köper nya enheter från företaget. L&auml;s vidare och kommentera: https://feber.se/pryl/nya-withings-kunder-maste-betala-for-synk-med-apple-halsa/497386/ L&auml;s mer om Withings , Withings+ , Apple Health , Apple , synkronisering , USA , Apple Hälsa",
-      "link": "https://feber.se/pryl/nya-withings-kunder-maste-betala-for-synk-med-apple-halsa/497386/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/nya-withings-kunder-maste-betala-for-synk-med-apple-halsa/497386/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792164600000
     },
     {
       "title": "Saras väg från rörmokare till författare",
@@ -1362,16 +1222,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792163056000
-    },
-    {
-      "title": "Bjørn har långtestat Volvo EX60",
-      "description": "Körde 100 mil i Sverige och Norge Den norska elbilstestaren Bjørn Nyland har haft en Volvo EX60 P10 Twin Ultra på test ett tag nu. Bland annat körde han 100 mil i Sverige och Norge med den och då får man ju lite känsla för hur bilen är. Den har batteripack på 95 kWh och just denna var utrustad med 22-tumsfälgar. Det var kallt vid långtestet vilket i kombination med de stora hjulen drog upp förbrukningen en hel del som landade på mellan 24,3 och 28,3 kWh per tio mil. Det gick dock snabbt att ladda när det väl började bli tomt i batteriet. Vid första stoppet lyckades han komma upp i över 370 kW och laddkurvan var mycket jämn - jämnare än hos BMW iX3. Han kunde tanka med över 300 kW från start upp till runt 55 procent. Bilen led dock av några buggar och helt plötsligt började den ena strålkastaren att blinka. Sen när man kör på en helt rak väg håller filhållningsassistenten på att störa genom att flytta bilen till höger och vänster hela tiden. Överlag är Bjørn dock mycket positiv och säger att komforten är kanon, att bilen är tyst och den bjuder på bra utrymmen. Fler klipp med EX60 hittas på Bjørns kanal nedan. L&auml;s vidare och kommentera: https://feber.se/bil/bjrn-har-langtestat-volvo-ex60/497392/ L&auml;s mer om Bjørn Nyland , EX60 , elbil , långtest , Norge , Sverige , räckvidd",
-      "link": "https://feber.se/bil/bjrn-har-langtestat-volvo-ex60/497392/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/bjrn-har-langtestat-volvo-ex60/497392/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792162800000
     },
     {
       "title": "Alpha Industries CWU 45/P Heritage Bomber Jacket",
@@ -1404,16 +1254,6 @@
       "timestamp": 1792161702000
     },
     {
-      "title": "Nu finns en MagSafe-pung för mobilen",
-      "description": "Enda rimliga färgen saknas Ninja Labs har tagit fram ett MagSafe-tillbehör för riktiga samlare i form av Flex Pouch, som fästs på baksidan av telefoner med MagSafe. Till skillnad från traditionella magnetplånböcker som endast rymmer några få kort, är Flex Pouch tillverkad i ett elastiskt silikonmaterial som kan expandera en hel del. Det gör att du förutom en hel bunt kort även kan trycka ner större prylar som trådlösa hörlurar, bilnycklar, läppbalsam eller mynt. Den säljs antingen med genomskinlig ficka eller i täckande färger som svart, rosa, blått, lavendel och en glittrig variant. Bara hudfärgad som saknas alltså. L&auml;s vidare och kommentera: https://feber.se/mobil/nu-finns-en-magsafe-pung-for-mobilen/497419/ L&auml;s mer om Ninja Labs , MagSafe Flex Pouch , MagSafe , silikon , Qi , mobiltillbehör",
-      "link": "https://feber.se/mobil/nu-finns-en-magsafe-pung-for-mobilen/497419/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/nu-finns-en-magsafe-pung-for-mobilen/497419/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792161600000
-    },
-    {
       "title": "Bella och barnen vräks – exet stod på kontraktet",
       "description": "Mamma och två barn vräks – dömd ex-man stod som hyresgäst. En mamma och hennes två barn vräks från sitt hem i Spånga efter flera år sedan ex-mannen, som dömts för att ha misshandlat kvinnan, blivit av med hyreskontraktet. Mannen har aldrig själv bott i lägenheten. Oktober 2026.",
       "link": "https://www.mitti.se/nyheter/bella-och-barnen-vraks--exet-stod-pa-kontraktet-6.3.390671.f2b0819a28",
@@ -1434,16 +1274,6 @@
       "timestamp": 1792161042000
     },
     {
-      "title": "Ny serie om Det mörka tornet på väg",
-      "description": "Upprättelse denna gång? Stephen Kings episka bokserie Det mörka tornet ligger många varmt om hjärtat och många av dem var sannolikt inte helt nöjda med filmatiseringen från 2017. Nu ska Det mörka tornet få en ny chans på tv-skärmen då Mike Flanagan (The Haunting of Hill House) har tagit sig an uppdraget. Han lovar att den här gången följa böckernas ordning och säger att tidigare försök har misslyckats för att man försökt pressa in för mycket material eller börjat mitt i historien. Hans plan är att låta tv-serien växa steg för steg, med start med Revolvermannen. Manuset till den första säsongen är redan färdigskrivet och Stephen King själv sägs vara nöjd med inriktningen. Nu väntar projektet bara på ett slutgiltigt grönt ljus innan produktionen kan dra igång. L&auml;s vidare och kommentera: https://feber.se/film/ny-serie-om-det-morka-tornet-pa-vag/497393/ L&auml;s mer om Stephen King , Det mörka tornet , Mike Flanagan , Revolvermannen , The Haunting of Hill House , TV-serie",
-      "link": "https://feber.se/film/ny-serie-om-det-morka-tornet-pa-vag/497393/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/ny-serie-om-det-morka-tornet-pa-vag/497393/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792161000000
-    },
-    {
       "title": "Investing in America: The Rise of the 250-Year Bull Market",
       "description": "",
       "link": "https://uncrate.com/investing-in-america-the-rise-of-the-250-year-bull-market/",
@@ -1452,26 +1282,6 @@
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1792160417000
-    },
-    {
-      "title": "Kolla in lite indisk fantasy i Ramayana: Rise of a Legend",
-      "description": "Bollywood-rulle som har premiär nästa månad Har du tröttnat på amerikanska actionfilmer kommer snart det indiska eposet Ramayana: Rise of a Legend , en film som har hämtat inspiration från berättelsen om den gudomliga prinsen Rama, en inkarnation av guden Vishnu, som nedtecknades för över 2000 år sedan. Ramayana: Rise of a Legend är en av de dyraste filmproduktionerna i Indien någonsin. Filmen har fått specialeffekter av den oscarsbelönade FX-studion DNEG som tidigare gjort specialeffekter till bland annat Dune, The Odyssey och Interstellar . För musiken står bland annat den legendariske kompositören Hans Zimmer. Ramayana: Rise of a Legend har världspremiär den 5 november. När och var filmen kommer att gå att se i Sverige har vi inte hittat några uppgifter om. Ni kan kolla in den actionfyllda trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/kolla-in-lite-indisk-fantasy-i-ramayana-rise-of-a-legend/497418/ L&auml;s mer om Ramayana: Rise of a Legend , DNEG , Hans Zimmer , Vishnu , indisk film , Rama",
-      "link": "https://feber.se/film/kolla-in-lite-indisk-fantasy-i-ramayana-rise-of-a-legend/497418/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/kolla-in-lite-indisk-fantasy-i-ramayana-rise-of-a-legend/497418/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792159800000
-    },
-    {
-      "title": "Ny taxitjänst på väg till Sverige",
-      "description": "Använder sig av eldrivna VinFast-bilar Green SM (Green and Smart Mobility JSC, or GSM) är ett vietnamesiskt taxiföretag och mobilitetsplattform som grundades 2023 av Vingroup-ordföranden Pham Nhat Vurong. I Vingroup ingår det egna bilmärket VinFast som vi har skrivit om några gånger tidigare. I dagarna lanserades Green SM i Los Angeles och nu ska de även vara på väg hit. Ska lanseras i Stockholm snart säger man och även här blir det med turkosa eldrivna VinFast-modeller. Mer än så här vet vi tyvärr inte för tillfället. Feber-läsaren Björn fotade ett gäng VinFast VF6 på en trailer utanför Stockholm tidigare i veckan. L&auml;s vidare och kommentera: https://feber.se/bil/ny-taxitjanst-pa-vag-till-sverige/497377/ L&auml;s mer om Green SM , taxitjänst , Sverige , taxi , VinFast , Vingroup , Stockholm , elbilar",
-      "link": "https://feber.se/bil/ny-taxitjanst-pa-vag-till-sverige/497377/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/ny-taxitjanst-pa-vag-till-sverige/497377/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792159200000
     },
     {
       "title": "Kistaborna i unikt uppdrag – får satsa fem miljoner",
@@ -1484,26 +1294,6 @@
       "timestamp": 1792159014000
     },
     {
-      "title": "Miele fixar sneakertvätten",
-      "description": "Ska vara skonsammare Att tvätta sina sneakers i tvättmaskinen går, om de är av rätt material, alldeles utmärkt. Några av mina sneakers har jag tvättat ett stort antal gånger. Visst blir de över tid slitna, men hellre slitna än smutsiga. Problemet är att de ligger och studsar runt i maskinen. Nu visar Miele upp en speciell tvättpåse som är gjord av tre lager meshmaterial, som ska dämpa stötar och skydda både skorna och tvättmaskinen. Till påsen är det tänkt att man ska använda speciella tvättabletter som ska vara effektiva och skonsamma mot skorna. Miele vill ju sälja tvättmaskiner, så man släpper också en ny tvättmaskin (WWC384) som har ett särskilt SneakerWash-program. Men det känns inte som att det behövs, det är nog bara att tvätta som vanligt i 30 grader. Hur som helst kommer påsen med tre SneakerTabs att kosta 60 euro. När dessa kommer till Sverige återstår att se. L&auml;s vidare och kommentera: https://feber.se/pryl/miele-fixar-sneakertvatten/497417/ L&auml;s mer om Miele , WWC384 , SneakerWash , sneakers , SneakerTabs , tvättmaskin",
-      "link": "https://feber.se/pryl/miele-fixar-sneakertvatten/497417/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/pryl/miele-fixar-sneakertvatten/497417/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792158600000
-    },
-    {
-      "title": "Sprout gör din iPod lite modernare",
-      "description": "Fixa bluetooth, wifi, USB-C och annat med nytt moderkort Om du har en gammal iPod liggande och skulle vilja anpassa den till moderna förhållanden finns nu möjligheten att göra det genom att förse den med ett nytt moderkort. De två moderkorten Sprout Pi och Sprout Pico är försedda med mikrokontrollern Raspberry Pi RP2350 och ger gamla iPod stöd för Bluetooth, wifi, USB-C, microSD-kort och FLAC. Sprout Pico, det större av de båda korten, har även minidatorn Raspberry Pi Compute Module Zero inbyggd vilket ger iPoden möjlighet att streama musik från Spotify och Apple Music via wifi. Sprout Pico går att installera i en tredje eller fjärde generationens iPod eller en iPod Mini, medan Sprout Pi passar i en tredje eller fjärde generationens iPod. Utvecklarna bakom Sprout planerar att lansera sina iPod-moderkort via crowdfundingtjänsten Crowd Supply, men vad de kommer att kosta finns det inga uppgifter om än så länge. L&auml;s vidare och kommentera: https://feber.se/mac/sprout-gor-din-ipod-lite-modernare/497415/ L&auml;s mer om Sprout Pi , Sprout Pico , Raspberry Pi , Bluetooth , Raspberry Pi RP2350 , Crowd Supply , iPod mini",
-      "link": "https://feber.se/mac/sprout-gor-din-ipod-lite-modernare/497415/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mac/sprout-gor-din-ipod-lite-modernare/497415/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792158000000
-    },
-    {
       "title": "Deras privata gård blev parkering för Voi-hojar",
       "description": "Voi använder mark ägd av BRF:er i Sundbyberg som parkering av elsparkcyklar utan lov.",
       "link": "https://www.mitti.se/nyheter/deras-privata-gard-blev-parkering-for-voihojar-6.3.391180.e92bfa4771",
@@ -1512,16 +1302,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792157403000
-    },
-    {
-      "title": "Ta foton med Bluey",
-      "description": "Lite som Pokémon Snap fast med Bluey I går släppte Gameloft sitt nya spel Bluey’s Happy Snaps vilket är ett slags fotoäventyr där man kliver in i familjens Heelers färgstarka värld. Väl där spelar man som Bluey eller Bingo som använder pappas gamla kamera för att fånga speciella ögonblick i världen. Som spelare tar man sig genom välkända miljöer från serien där spelarna får upptäcka australiskt djurliv, hitta gömda överraskningar och samla digitala klistermärken till sin klippbok. Spelet kan upplevas på egen hand eller tillsammans med en vän i co-op-läget. Bluey är ju bra grejer så därför har utvecklarna lagt in en bra funktion som heter Play for Real Life, vilket är ett läge som ska vara designat för att inspirera barn till lek även utanför skärmen. Detta genom att föreslå aktiviteter som att bygga kudd-fort eller pyssla med vardagsföremål. Bluey’s Happy Snaps släpptes till Switch, PlayStation, Xbox och PC. Spelet finns också på Xbox Game Pass. L&auml;s vidare och kommentera: https://feber.se/spel/ta-foton-med-bluey/497384/ L&auml;s mer om Bluey’s Happy Snaps , Gameloft , Bindi Irwin , Bluey , Nintendo Switch",
-      "link": "https://feber.se/spel/ta-foton-med-bluey/497384/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/spel/ta-foton-med-bluey/497384/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792157400000
     },
     {
       "title": "Ukraina slog inte ut några botar – men blottade Rysslands svaghet",
@@ -1564,16 +1344,6 @@
       "timestamp": 1792157099000
     },
     {
-      "title": "Xreal släpper glasögonskärmar med extrem ljusstyrka",
-      "description": "Här är Xreal One Pro+ Xreal har släppt en ny version av AR-glasögonen Xreal One vilka primärt är tänkta för att titta på film, tv eller spela spel via mobil, dator eller annat. Den nya versionen kallas för Xreal One Pro+ och är förhållandevis lika Xreal One Pro som kom tidigare i år. De har ett synfält på 57 grader och möjlighet att spela upp material i hastigheten 120Hz i en skärmstorlek som ska motsvara 171 tum. Ljusstyrkan har dock förbättrats väsentligt och ligger nu på 1200 nits. Det kan jämföras med att ursprungsversionen av Xreal One hade en ljusstyrka på 600 nits och Xreal One Pro har en ljusstyrka på 700 nits. En annan nyhet är att den 3D-konverteringen som finns tillgänglig nu har ökat hastigheten från 30Hz till 60Hz. Man har även designat om nässkyddet vilket enligt Xreal ska göra att glasögonen sitter mer bekvämt på snoken. Xreal One Pro+ går att köpa nu för cirka 600 dollar. Svenskt pris saknas än så länge. L&auml;s vidare och kommentera: https://feber.se/mobil/xreal-slapper-glasogonskarmar-med-extrem-ljusstyrka/497414/ L&auml;s mer om Xreal , Xreal One Pro+ , AR-glasögon , Augmented Reality , hårdvara",
-      "link": "https://feber.se/mobil/xreal-slapper-glasogonskarmar-med-extrem-ljusstyrka/497414/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/xreal-slapper-glasogonskarmar-med-extrem-ljusstyrka/497414/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792156800000
-    },
-    {
       "title": "Hon coachar unga konstnärer: \"Uppmuntrar limpistol\"",
       "description": "Ekerö bibliotekets konstbiennal Ung konst är tillbaka – fem Ekeröbaserade konstnärer i åldrarna 12 till 23 ställer ut i Galleri Utikiken i Ung konst 2026.",
       "link": "https://www.mitti.se/nyheter/hon-coachar-unga-konstnarer-uppmuntrar-limpistol-6.3.391088.d3fd05f058",
@@ -1594,16 +1364,6 @@
       "timestamp": 1792156433000
     },
     {
-      "title": "Xperia 10 VI får inte Android 17",
-      "description": "Sony bryter löfte Sony ställer in den planerade uppdateringen till Android 17 för Xperia 10 VI, vilket innebär att man bryter sitt ursprungliga löfte om tre stora systemuppdateringar från telefonens lansering 2024, rapporterar Swedroid. Företaget säger att det finns \"begränsningar i telefonens lagringskonfiguration\" som helt enkelt påverkar användarupplevelsen för mycket på ett negativt sätt. Enheten stannar därmed på Android 16, men kommer precis som utlovat att fortsätta ta emot säkerhetsuppdateringar fram till 2028. L&auml;s vidare och kommentera: https://feber.se/mobil/xperia-10-vi-far-inte-android-17/497408/ L&auml;s mer om Xperia 10 VI , Android 17 , Swedroid , Android 16",
-      "link": "https://feber.se/mobil/xperia-10-vi-far-inte-android-17/497408/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/mobil/xperia-10-vi-far-inte-android-17/497408/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792156200000
-    },
-    {
       "title": "Blåsippsräddaren Kerstin, 90, återvänder till brottsplatsen",
       "description": "Kerstin Almgren, 90, gick från att rädda fridlysta blåsippor till hedersgäst när bygget av Villa Hasselskogen invigdes i Upplands Väsby.",
       "link": "https://www.mitti.se/nyheter/blasippsraddaren-kerstin-90-atervander-till-brottsplatsen-6.3.391174.e143392024",
@@ -1612,16 +1372,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792156196000
-    },
-    {
-      "title": "Nästa år får Dodge Charger V8:a igen",
-      "description": "Alla jublar? Dodge Charger som elbil floppade. Den erbjuds även med förbränningsmotor men det är \"bara\" en sexa som gäller då, och folk vill ha kompressormatad V8:a i denna typ av bil. Dodge lyssnar och kommer därför nästa år att presentera just en sådan. Interna dokument visar att årgång 2028 kommer erbjudas med Hemi-V8:a på 6,2 liter och på denna ska det då även sitta en ylande kompressor som hjälper till att bumpa upp effekten rejält. Allt detta ska därefter skickas till bakhjulen via en åttastegad automatlåda. Någon effektsiffra vet vi inte om än tyvärr. Tillverkningen ska dra igång i slutet av nästa år sägs det. L&auml;s vidare och kommentera: https://feber.se/bil/nasta-ar-far-dodge-charger-v8a-igen/497334/ L&auml;s mer om Dodge Charger SRT Hellcat , V8 , kompressor , Hemi , 2028 , generation , modell , förbränningsmotor",
-      "link": "https://feber.se/bil/nasta-ar-far-dodge-charger-v8a-igen/497334/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/bil/nasta-ar-far-dodge-charger-v8a-igen/497334/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792155600000
     },
     {
       "title": "Här susar hojarna förbi – trots cykelförbud",
@@ -1652,16 +1402,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1792154810000
-    },
-    {
-      "title": "Ny askungesaga kommer snart till Netflix",
-      "description": "Med fokus på styvsystrarna Netflix har släppt en trailer till sin kommande animerade film Steps , en nytolkning av den klassiska sagan om Askkungen där tittarna kanske även kan få lite sympati för hennes styvsystrar. Filmen handlar om hur en av styvsystrarna råkar förvandla den andra till en groda och sedan måste ta hjälp av Askungen för att bryta förtrollningen. Steps , som här i Sverige fått titeln Styvsystrar , börjar visas på Netflix den 20 november. Ni hittar trailern för filmen nedan. L&auml;s vidare och kommentera: https://feber.se/film/ny-askungesaga-kommer-snart-till-netflix/497412/ L&auml;s mer om Steps , Styvsystrar , Askungen , Animerad film , Sagor",
-      "link": "https://feber.se/film/ny-askungesaga-kommer-snart-till-netflix/497412/?utm_source=rss&utm_medium=feed",
-      "guid": "https://feber.se/film/ny-askungesaga-kommer-snart-till-netflix/497412/?utm_source=rss&utm_medium=feed",
-      "image": "",
-      "source": "Feber",
-      "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792154400000
     },
     {
       "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
@@ -2584,16 +2324,6 @@
       "timestamp": 1792054870000
     },
     {
-      "title": "Den djävulska Dunning-Kruger-effekten får oss att hålla fast vid en åsikt – även om fakta visar att vi har fel",
-      "description": "Två kända psykologiska effekter kan hjälpa till att förklara varför människor kan känna sig säkra på något som är fel.",
-      "link": "https://illvet.se/manniskan/den-djavulska-dunning-kruger-effekten-far-oss-att-halla-fast-vid-en-asikt-som-fakta-visar-ar-felaktig",
-      "guid": "https://illvet.se/manniskan/den-djavulska-dunning-kruger-effekten-far-oss-att-halla-fast-vid-en-asikt-som-fakta-visar-ar-felaktig",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1792054822000
-    },
-    {
       "title": "\"Järfällafyran\" ska styra – här är deras löften",
       "description": "Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet tar över styret i Järfälla. Fokus ligger på skola, välfärd, bostäder, klimat och lokalt näringsliv.",
       "link": "https://www.mitti.se/nyheter/jarfallafyran-ska-styra--har-ar-deras-loften-6.3.391267.b3dae0a192",
@@ -2722,16 +2452,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792040809000
-    },
-    {
-      "title": "Trump och Putin enas om oljan: Så ofta har det svarta guldet förvandlat USA:s fiender till vänner",
-      "description": "Historiskt sett har USA ofta försvarat frihet och mänskliga rättigheter. Men just dessa principer tenderar att åsidosättas om de står i vägen för oljeimport och strategiska intressen.",
-      "link": "https://varldenshistoria.se/samhalle/amerikas-historia/trump-och-putin-enas-om-oljan-sa-ofta-har-det-svarta-guldet-forvandlat-usas-fiender-till-vanner",
-      "guid": "https://varldenshistoria.se/samhalle/amerikas-historia/trump-och-putin-enas-om-oljan-sa-ofta-har-det-svarta-guldet-forvandlat-usas-fiender-till-vanner",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1792040445000
     },
     {
       "title": "FC Stockholm kan nå Superettan på lördag",
@@ -2874,16 +2594,6 @@
       "timestamp": 1792008000000
     },
     {
-      "title": "De besegrade Kuwaits brinnande helvete: Lågornas herrar",
-      "description": "1991 skyndade brandmän från hela världen till Kuwait, där irakiska trupper hade satt eld på ökenstatens oljekällor. I nästan ett år kämpade specialisterna mot eldstormen i temperaturer på över 500 °C.",
-      "link": "https://varldenshistoria.se/samhalle/katastrofer/de-besegrade-kuwaits-brinnande-helvete-lagornas-herrar",
-      "guid": "https://varldenshistoria.se/samhalle/katastrofer/de-besegrade-kuwaits-brinnande-helvete-lagornas-herrar",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1792004439000
-    },
-    {
       "title": "Hissar stoppade i över en månad: ”Som ett fängelse”",
       "description": "Höftledsopererade Maria Svensson, 75, och ryggmärgsskadade Levan Giorgadze, 26, har inte kunnat gå ut på över en månad och tvingats ställa in flera vårdbesök. Alla tre hissar i Wallenstams hyreshus i Älta har haft körförbud. När Mitt i har besökt huset börjar en av hissarna att gå igen.",
       "link": "https://www.mitti.se/nyheter/hissar-stoppade-i-over-en-manad-som-ett-fangelse-6.3.391221.7700d3ec02",
@@ -2952,16 +2662,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791990659000
-    },
-    {
-      "title": "Sjuhundra AI-agenter bröt sig ut, samlades likt en armé och gick till samordnat angrepp: ”Jag är inte övertygad om att vi får en så tydlig varning innan det är för sent.”",
-      "description": "Sommaren 2026 bad företaget bakom ChatGPT hundratals AI-agenter lösa en uppgift i en sluten testmiljö. De lyckades dock hitta varandra, upprätta en hemlig armé och hacka sig in hos ett av världens främsta techbolag. OpenAI kallar det en historisk varningssignal, medan kritiker kallar det cynisk skrämselpropaganda. Detta är historien om händelsen som nu benämns världens första samordnade AI-attack.",
-      "link": "https://illvet.se/teknik/en-arme-av-700-ai-agenter-brot-sig-ut-hittade-varandra-och-genomforde-historiens-forsta-ai-samordnade-attack-nasta-gang-far-vi-inte-en-sa-tydlig-varning",
-      "guid": "https://illvet.se/teknik/en-arme-av-700-ai-agenter-brot-sig-ut-hittade-varandra-och-genomforde-historiens-forsta-ai-samordnade-attack-nasta-gang-far-vi-inte-en-sa-tydlig-varning",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1791990022000
     },
     {
       "title": "Bion i Vällingby fyller 70 år – bjussar på billig bio",
@@ -4828,7 +4528,7 @@
       "description": "Kommunala bolag i Upplands-Bro slås ihop i ny organisation.",
       "link": "https://www.mitti.se/nyheter/nytt-kontor-tar-rodret-over-100-000-kvm-lokaler-6.3.390109.5d4a6c4edb",
       "guid": "https://www.mitti.se/nyheter/nytt-kontor-tar-rodret-over-100-000-kvm-lokaler-6.3.390109.5d4a6c4edb",
-      "image": "https://www.mitti.se/image-3.192619.311323.20261014084811.1.6c261f3824?format=jpeg",
+      "image": "https://www.mitti.se/image-3.192619.311323.20261018002725.1.782a3e8bdb?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1791698400000
