@@ -1,17 +1,47 @@
 {
-  "updatedAt": "2026-10-20T23:31:21.589Z",
+  "updatedAt": "2026-10-21T02:26:00.147Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Super-El Niño slår mot världsekonomin – så drabbas din plånbok",
-      "description": "Världens bolag står inför en växande klimatnota när årets ovanligt kraftiga El Niño orsakar översvämningar, torka och extremvärme. Ekonomer varnar för att det även kan drabba din plånbok i slutändan. Vi har redan beskrivit hur en ovanlig super-El Niño håller på att bildas över Stilla havet och hur den kan bli den ”kraftigaste i mannaminne”. […]",
-      "link": "https://www.dagensps.se/varlden/super-el-nino-slar-mot-varldsekonomin-sa-drabbas-din-planbok/",
-      "guid": "https://www.dagensps.se/?p=1684899",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/sdlrrmbkisw7lo-nh.jpg",
+      "title": "Ny studie: Ultraprocessad mat kan skada hjärnan",
+      "description": "En ny studie med nästan 9 000 deltagare kopplar ett högt intag av ultraprocessad mat till förändringar i hjärnans blodkärl. Studien varnar för att maten kan skada hjärnan i det tysta. Ultraprocessad mat är fortsatt ett hett ämne som påverkar oss på en rad sätt. Frågan är dock vad som går under benämningen ”ultraprocessad” mat? […]",
+      "link": "https://www.dagensps.se/halsa/ny-studie-ultraprocessad-mat-kan-skada-hjarnan/",
+      "guid": "https://www.dagensps.se/?p=1684916",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/sdlhaqunh5fnra-nh.jpg",
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792538923000
+      "timestamp": 1792549362000
+    },
+    {
+      "title": "Kvinna död i trafikolycka i Vännäs kommun",
+      "description": "Frontalkrock i Vännäs kommun",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d92dd1ff-1f75-414e-96d5-e7593664c2cd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d92dd1ff-1f75-414e-96d5-e7593664c2cd",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792548870000
+    },
+    {
+      "title": "”Oskiljaktiga” systrar i svår olycka – en dog",
+      "description": "Systrarna Jordyn och Jada Bigham var ”oskiljaktiga” enligt deras mormor Christina Norris. – De gick ingenstans utan varandra, säger Norris. När systrarna råkade ut för en allvarlig olycka överlevde bara en av dem, skriver People .",
+      "link": "https://www.expressen.se/nyheter/varlden/oskiljaktiga-systrar--i-svar-olycka-en-dog/",
+      "guid": "https://www.expressen.se/nyheter/varlden/oskiljaktiga-systrar--i-svar-olycka-en-dog/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792548847000
+    },
+    {
+      "title": "Solpark splittrar grannarna i Ingå och får markägare att backa",
+      "description": "Solparken som planeras i byarna Flyt och Vassböle i Ingå har skapat oenighet bland invånarna. Nu väljer markägaren Fredrik Karell att dra sig ur projektet.",
+      "link": "https://yle.fi/a/7-10106893?origin=rss",
+      "guid": "https://yle.fi/a/7-10106893",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792548827000
     },
     {
       "title": "Svensk vinner 216 miljoner",
@@ -21,7 +51,7 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792538656000
+      "timestamp": 1792545960000
     },
     {
       "title": "Bildt om Trump och Putin: ”Från dåligt till värre”",
@@ -31,7 +61,37 @@
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792538647000
+      "timestamp": 1792545953000
+    },
+    {
+      "title": "Konkursdrabbade Avionero kan säljas i delar – men det är bråttom",
+      "description": "Från planerad börsnotering till konkurs på bara några veckor. Nu pågår en kamp mot klockan för att rädda det som finns kvar av det svenska flygteknikbolaget Avionero. Malmöbolaget Avionero, vars AI-tjänst hjälper till att hitta resor, ställde in noteringsplanerna när bolaget inte lyckades få in tillräckligt med pengar. Börsnoteringen var planerad på Spotlight Stock Market […]",
+      "link": "https://www.dagensps.se/foretag/konkursdrabbade-avionero-kan-saljas-i-delar-men-det-ar-brattom/",
+      "guid": "https://www.dagensps.se/?p=1684912",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/blog-charity-challenge.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792544619000
+    },
+    {
+      "title": "Toppolitikern förlorade benet – familjevännen pekas ut",
+      "description": "Toppolitikern Helen Haines förlorade benet i en attack. En familjevän har gripits för brottet, skriver Sky News . ”Chockerande och fruktansvärt”, skriver den misstänktes pappa.",
+      "link": "https://www.expressen.se/nyheter/varlden/toppolitikern-forlorade-benet-familjevannen-pekas-ut/",
+      "guid": "https://www.expressen.se/nyheter/varlden/toppolitikern-forlorade-benet-familjevannen-pekas-ut/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792541937000
+    },
+    {
+      "title": "Super-El Niño slår mot världsekonomin – så drabbas din plånbok",
+      "description": "Världens bolag står inför en växande klimatnota när årets ovanligt kraftiga El Niño orsakar översvämningar, torka och extremvärme. Ekonomer varnar för att det även kan drabba din plånbok i slutändan. Vi har redan beskrivit hur en ovanlig super-El Niño håller på att bildas över Stilla havet och hur den kan bli den ”kraftigaste i mannaminne”. […]",
+      "link": "https://www.dagensps.se/varlden/super-el-nino-slar-mot-varldsekonomin-sa-drabbas-din-planbok/",
+      "guid": "https://www.dagensps.se/?p=1684899",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/sdlrrmbkisw7lo-nh.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792538923000
     },
     {
       "title": "Hotet mot Musk: Vi ska ta dig",
@@ -105,7 +165,7 @@
     },
     {
       "title": "Prins Harry bryter tystnaden om flytten",
-      "description": "Prins Harry bryter tystnaden om varför hans familj flyttade tillbaka till Storbritannien. Han sammanfattar skälen som ”möjligheter för familjen”. – Det har betytt mycket för mig, säger Harry till GQ . Angående spänningarna med familjen sägar han att ”vissa personer vill inte att det ska lösa sig”.",
+      "description": "Prins Harry bryter tystnaden om varför hans familj flyttade tillbaka till Storbritannien. Angående spänningarna med familjen säger Harry: – Vissa personer vill inte att det ska lösa sig.",
       "link": "https://www.expressen.se/nyheter/kungligt/prins-harry-bryter-tystnaden-om-flytten/",
       "guid": "https://www.expressen.se/nyheter/kungligt/prins-harry-bryter-tystnaden-om-flytten/",
       "image": "",
@@ -372,36 +432,6 @@
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792516122000
-    },
-    {
-      "title": "Går till val på dödsstraff och svältkost: ”Bra saker”",
-      "description": "Dödsstraff, svältkost i fängelser och vapenlicens till alla. Det är hårda tag när högeryttern i israelisk politik, Itamar Ben-Gvir, håller valmöte i Tel Aviv ­– och åhörarna jublar. – Han har dåligt rykte, men gör många bra saker, säger Estella Schwarz i publiken.",
-      "link": "https://www.expressen.se/nyheter/varlden/gar-till-val-pa-dodsstraff-och-svaltkost-bra-saker/",
-      "guid": "https://www.expressen.se/nyheter/varlden/gar-till-val-pa-dodsstraff-och-svaltkost-bra-saker/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792516099000
-    },
-    {
-      "title": "M-ledaren Ulf Kristerssons ord om maktplanen: ”Har aldrig dolt”",
-      "description": "Elisabeth Thand Ringqvist (C) har haft ett möte med Magdalena Andersson (S) på S-kansliet i riksdagen. Ulf Kristersson (M) ska träffa C-ledaren senare i veckan. Han vill se en ny omröstning om S-ledaren som statsminister och är öppen för att pröva stödet för en icke-socialistisk majoritet framöver. – Det har jag aldrig dolt, jag är beredd att pröva den tanken.",
-      "link": "https://www.expressen.se/nyheter/politik/m-ledaren-ulf-kristerssons-ord-om-maktplanen-har-aldrig-dolt/",
-      "guid": "https://www.expressen.se/nyheter/politik/m-ledaren-ulf-kristerssons-ord-om-maktplanen-har-aldrig-dolt/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792515851000
-    },
-    {
-      "title": "Andersson (S) om ny votering om henne som statsminister: ”Inte på kartan”",
-      "description": "Elisabeth Thand Ringqvist (C) sonderar möjligheten att bilda en mittenregering med Magdalena Andersson (S) som statsminister. De har haft ett möte i riksdagen på tisdagen. S-ledaren vill inte svara på om vi har kommit närmare en ny regering. – Det är bra att man också får pröva det här alternativet. Hur det går får hon svara på.",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-s-om-ny-votering-om-henne-som-statsminister-inte-pa-kartan/",
-      "guid": "https://www.expressen.se/nyheter/politik/andersson-s-om-ny-votering-om-henne-som-statsminister-inte-pa-kartan/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792515617000
     },
     {
       "title": "Apple köper upp schweiziska AI-företaget Samplab",
@@ -904,16 +934,6 @@
       "timestamp": 1792502286000
     },
     {
-      "title": "Undersökning: Dimljus fram blir allt ovanligare på nya bilar",
-      "description": "Separata dimljus i fronten blir allt ovanligare på nya bilar. Modern LED-teknik, nya designideal och jakten på lägre kostnader bidrar till utvecklingen. Under dimmiga dagar, kanske främst under den fuktiga hösten, kan de vara en uppskattad hjälp på vägen. Ändå blir de separata dimljusen allt ovanligare på nya bilar. Det är slutsatsen i en genomgång […]",
-      "link": "https://www.dagensps.se/motor/undersokning-dimljus-fram-blir-allt-ovanligare-pa-nya-bilar/",
-      "guid": "https://www.dagensps.se/?p=1684787",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/bil-i-dimma.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792501964000
-    },
-    {
       "title": "Kokoscurry med chutney",
       "description": "Smakrik köttfärssås med en värmande asiatisk ton som inte alls är kryddstark.",
       "link": "https://alltommat.expressen.se/recept/kokoscurry-med-chutney/",
@@ -922,16 +942,6 @@
       "source": "Allt om Mat",
       "sourceKey": "https://feeds.expressen.se/alltommat/",
       "timestamp": 1792501906000
-    },
-    {
-      "title": "BMW-förarna erkänner: Vi är värst i trafiken",
-      "description": "BMW-förare har länge fått dras med ett rykte om hetsig körning. I en norsk undersökning pekas märket ut som det mest aggressiva – och även skadestatistiken placerar BMW i topp. Trafiken kan ta fram de värsta sidorna hos en. Irritationen växer, svordomarna haglar och kanske slängs till och med ett långfinger upp i rutan under […]",
-      "link": "https://www.dagensps.se/motor/bmw-forarna-erkanner-vi-ar-varst-i-trafiken/",
-      "guid": "https://www.dagensps.se/?p=1684665",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/bmw.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792501883000
     },
     {
       "title": "Finland slår Sverige i OnlyFans-användning",
@@ -1182,16 +1192,6 @@
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1792495800000
-    },
-    {
-      "title": "Ingåpolitiker utreddes för solparkssamtal med granne – kommunen hittade inget fel",
-      "description": "En politiker i Ingå anmäldes för att eventuellt ha blandat ihop sin roll som politiker och markägare. Slutresultat efter utredning: inga åtgärder.",
-      "link": "https://yle.fi/a/7-10107259?origin=rss",
-      "guid": "https://yle.fi/a/7-10107259",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792495506000
     },
     {
       "title": "”Panikartat” – stockholmare flydde undan tårgas i Paris",
