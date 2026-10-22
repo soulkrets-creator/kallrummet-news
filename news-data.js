@@ -1,8 +1,28 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-21T23:47:01.193Z",
+  "updatedAt": "2026-10-22T02:21:43.648Z",
   "feedCount": 12,
   "sourceCount": 10,
   "items": [
+    {
+      "title": "Stort behov av arbetskraft på Sisu i Karis: ”Yrkesutbildningen hänger inte med”",
+      "description": "Sisu Auto i Karis växer snabbt, men hittar inte yrkeskunnig arbetskraft. Yrkesutbildningen måste satsa mer på det branschen behöver, kräver bolaget.",
+      "link": "https://yle.fi/a/7-10106832?origin=rss",
+      "guid": "https://yle.fi/a/7-10106832",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792634845000
+    },
+    {
+      "title": "Enorm knarkfabrik avslöjad i Baltikum – drogerna avsedda för europeiska städer",
+      "description": "Polisen har avslöjat en enorm knarkfabrik i Baltikum, som har tillverkat syntetiska droger i industriell skala. Drogerna var avsedda till konsumenter i många europeiska städer. Vi använder allt mer droger, globalt sett. Australien toppar redan listan när det gäller den högsta kokainanvändningen per capita i världen, och när det gäller andra droger har många länder […]",
+      "link": "https://www.dagensps.se/varlden/enorm-knarkfabrik-avslojad-i-baltikum-drogerna-avsedda-for-europeiska-stader/",
+      "guid": "https://www.dagensps.se/?p=1685306",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/screenshot-2026-10-22-at-112319-am.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792629236000
+    },
     {
       "title": "Polisen stoppar lyckad miljardinsats – bankerna rasar mot beslutet",
       "description": "Ett samarbete mellan polisen och ett 30-tal svenska banker stoppade misstänkta lånebedrägerier för 1,8 miljarder kronor på bara ett år. Nu stoppar dock polisen samarbetet – och bankerna rasar mot beslutet. Vi har följt en rad bankbedrägerier på sistone som bland annat innefattar kapade BankID där bankkunderna ibland står utan ersättning. En annan härva handlar […]",
@@ -588,7 +608,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Oberoende granskning visar att Vaxholms stad bröt mot LOU och egna riktlinjer när Rexidy, drivet av KSO Tina Runhem och en anhörig, fick turistappsuppdraget.",
       "link": "https://www.mitti.se/nyheter/vaxholms-stad-gynnade-mtoppens-foretag-6.3.392405.77cb6d1782",
       "guid": "https://www.mitti.se/nyheter/vaxholms-stad-gynnade-mtoppens-foretag-6.3.392405.77cb6d1782",
-      "image": "https://www.mitti.se/image-3.286623.313114.20261021154958.1.3a49a1708f?format=jpeg",
+      "image": "https://www.mitti.se/image-3.286623.313114.20261022014421.1.cdbbd1c841?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792595994000
@@ -964,16 +984,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792587600000
     },
     {
-      "title": "Nu har vi inte längre råd att göra slut: ”Näst intill nattsvart”",
-      "description": "Det är inte alltid så enkelt att flytta isär, även om man inte längre vill vara tillsammans. En ny europeisk undersökning visar att bostadssituationen får många att stanna längre i relationer än de egentligen tänkt. Att göra slut kan vara nog så besvärligt. Särskilt om ekonomin kräver att man fortsätter dela på både bostad och […]",
-      "link": "https://www.dagensps.se/privatekonomi/nu-har-vi-inte-langre-rad-att-gora-slut-nast-intill-nattsvart/",
-      "guid": "https://www.dagensps.se/?p=1685076",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/pexels-cottonbro-6262544.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792587600000
-    },
-    {
       "title": "Här är Technics SL-1210MKX",
       "description": "Ny premiumskivspelare för DJ:s med utökad pitchkontroll Technics nya direktdrivna flaggskeppsskivspelare SL-1210MKX för DJ:s placerar sig ett snäpp över den befintliga SL-1210MK7. Modellen är framtagen med feedback från professionella DJ:s och ljudtekniker med nyheter som pitchomfång på ±4 procent för extra precis beatmatching, samt ett mer extremt omfång på ±50 procent. Intervallen på ±8 och ±16 procent finns även kvar. Skivspelaren har utrustats med ett tyngre, mer välbalanserat chassi och nyutvecklade isoleringsfötter för att bättre kunna motstå akustisk rundgång i basintensiva miljöer. Den lägger även till en tystare återställningsknapp och en polerad silvertonarm som ska fungera som en hyllning till 1979 års klassiker SL-1200MK2. SL-1210MKX väntas nå butiker i januari nästa år med en prislapp på 1499 euro. Läs vidare och kommentera: https://feber.se/pryl/har-ar-technics-sl-1210mkx/497584/ Läs mer om Technics , SL-1210MKX , skivspelare , SL-1210MK7 , SL-1200MK2 , ljudteknik , DJ-utrustning",
       "link": "https://feber.se/pryl/har-ar-technics-sl-1210mkx/497584/?utm_source=rss&utm_medium=feed",
@@ -1134,16 +1144,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792583100000
     },
     {
-      "title": "Kritiska sårbarheter upptäckta – också flera av Yles webbsidor ligger nere",
-      "description": "Två sårbarheter har upptäckts i PHP-programvaran, som används för att utveckla webbtjänster.",
-      "link": "https://yle.fi/a/7-10107318?origin=rss",
-      "guid": "https://yle.fi/a/7-10107318",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792582734000
-    },
-    {
       "title": "Färre bibliotekslån i Upplands-Bro",
       "description": "Bibliotekslån i Upplands-Bro – så lånar Upplands-Broborna",
       "link": "https://www.mitti.se/nyheter/farre-bibliotekslan-i-upplandsbro-6.3.391886.b96c3c3cc9",
@@ -1298,7 +1298,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Fler unga från Ekerö gjorde lumpen under 2026, jämfört med förra året, enligt siffror från Plikt- och prövningsverket - unga födda år 2007 från Ekerö kommun.",
       "link": "https://www.mitti.se/nyheter/fler-unga-ekerobor-gor-lumpen-6.3.392039.695ee34fbb",
       "guid": "https://www.mitti.se/nyheter/fler-unga-ekerobor-gor-lumpen-6.3.392039.695ee34fbb",
-      "image": "https://www.mitti.se/image-3.240328.312554.20261021132911.65d137b322?format=jpeg",
+      "image": "https://www.mitti.se/image-3.240328.312554.20261022002711.2959370214?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792574518000
