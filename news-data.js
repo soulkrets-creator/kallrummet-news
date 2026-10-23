@@ -1,8 +1,48 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-22T23:45:32.769Z",
+  "updatedAt": "2026-10-23T02:27:05.657Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Företagen i Västnyland vill anställa fler men hittar inte rätt personal",
+      "description": "Företag i Västnyland söker bland annat svetsare, elektriker och ingenjörer. Men det är svårt att matcha de arbetssökandes kompetens med lediga jobb.",
+      "link": "https://yle.fi/a/7-10106985?origin=rss",
+      "guid": "https://yle.fi/a/7-10106985",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792720828000
+    },
+    {
+      "title": "Ny studie: Fetma ger sämre hjärnhälsa",
+      "description": "Fetma kan påverka hjärnans hälsa. En ny studie visar att personer som levt med klinisk fetma under stora delar av vuxenlivet uppvisar mer än dubbelt så stor volym av vissa avvikelser i hjärnan. Det kommer hela tiden nya intressanta studier kring hjärnan. Nyligen publicerades en rapport om hur ett högt intag av ultraprocessad mat leder […]",
+      "link": "https://www.dagensps.se/halsa/ny-studie-fetma-ger-samre-hjarnhalsa/",
+      "guid": "https://www.dagensps.se/?p=1685737",
+      "image": "https://images.dagensps.se/app/uploads/2024/06/sdlbZP-WYNPT70-nh.jpg?height=350",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792719310000
+    },
+    {
+      "title": "Putin slår hårt mot europeiska bolag – men skonar amerikanska",
+      "description": "Det geopolitiska spelet gör att Putin fortsatt tar över europeiska bolags tillgångar. Samtidigt lämnar presidenten amerikanska företag i fred, och behåller därmed den goda kontakten med Vita huset. Vi har berättat om hur bolag som Nestlé kan råka illa ut när Vladimir Putin vill hämnas på västs sanktioner och stödet till Ukraina, sedan bolaget valde […]",
+      "link": "https://www.dagensps.se/varlden/putin-slar-hart-mot-europeiska-bolag-men-skonar-amerikanska/",
+      "guid": "https://www.dagensps.se/?p=1685733",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/putinidag-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792715950000
+    },
+    {
+      "title": "Todd Blanche hotar med att ingripa i valet",
+      "description": "USA:s justitieminister Todd Blanche hotar med att ingripa i mellanårsvalet. Flera delstater kan stämmas – och han utesluter inte att blockera valresultat. – Självklart finns det scenarier som vi skulle kunna föreställa oss det, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/todd-blanche-hotar-med-att-ingripa-i-valet/",
+      "guid": "https://www.expressen.se/nyheter/varlden/todd-blanche-hotar-med-att-ingripa-i-valet/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792713529000
+    },
     {
       "title": "Elbilar sparar miljarder för Europa – Sverige bland vinnarna",
       "description": "Kriget i Mellanöstern har lett till att oljepriset har skjutit i höjden. När många europeiska länder, som Sverige, satsar på elbilar leder det till sparandet av miljarder visar en ny analays. Vi vill ha fler elbilar, oavsett kritiken som har dykt upp på sina håll. Statistiken talar sitt tydliga språk där EU:s elbilsomställning går som […]",
@@ -424,16 +464,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792686236000
     },
     {
-      "title": "Zelenskyj: Ryssland använde klustervapen samma dag som fredssamtalen",
-      "description": "Zelenskyj: Ryssland använde klustervapen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=36f76891-f87d-4969-946f-c75b4c352b7b",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=36f76891-f87d-4969-946f-c75b4c352b7b",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792685848000
-    },
-    {
       "title": "Nu startar division 5-klubben egen fotbollsakademi",
       "description": "Nu startar Hässelby SK fotboll sin akademi. En rad extratränare, videoanalys och kunskap om kost och träning har tagits fram – nu drar Hässelby SK fotboll igång sin omtalade akademi-satsning. – Helt nödvändigt för att vi ska kunna behålla våra mest utvecklade spelare, säger Phillip Krieg i klubben. Oktober 2026.",
       "link": "https://www.mitti.se/nyheter/nu-startar-division-5klubben-egen-fotbollsakademi-6.3.389824.1f4f480792",
@@ -834,16 +864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792677000000
     },
     {
-      "title": "Storbritanniens oljefond för 1000 miljarder pund – som inte blev av",
-      "description": "Storbritannien kunde ha haft en oljefond värd 1 000 miljarder pund. I stället gick intäkterna från Nordsjön till annat. Nu vill landet göra om och göra rätt. När det hittades olja i Nordsjön var det fyra länder som fick var sin del av kakan, Danmark, Nederländerna, Storbritannien och Norge, varav de två sista fick de […]",
-      "link": "https://www.dagensps.se/bors-finans/fonder/storbritanniens-oljefond-for-1000-miljarder-pund-som-inte-blev-av/",
-      "guid": "https://www.dagensps.se/?p=1685622",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/sdlpxc4akoty2g-normalhires-scaled.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792676910000
-    },
-    {
       "title": "Regeringen vill stoppa dömda läkare i Finland",
       "description": "Regeringen har gett ett lagförslag som ska hindra vårdpersonal som begått allvarliga brott i andra länder att jobba inom branschen i Finland.",
       "link": "https://yle.fi/a/7-10107374?origin=rss",
@@ -891,16 +911,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
-      "timestamp": 1792675800000
-    },
-    {
-      "title": "Staden där du kan leva för 6 800 kronor i månaden – ny ranking",
-      "description": "Vad kostar det egentligen att leva i världens storstäder? En ny jämförelse av 75 städer visar att skillnaderna är stora. På ett håll räcker knappt 7 000 kronor till både hyra, mat och hushållsräkningar. Stockholm är mer än tre gånger så dyrt. Hur långt räcker pengarna om du packar väskan och flyttar utomlands? Betydligt längre […]",
-      "link": "https://www.dagensps.se/privatekonomi/staden-dar-du-kan-leva-for-6-800-kronor-i-manaden-ny-ranking/",
-      "guid": "https://www.dagensps.se/?p=1685507",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/kopia-av-kopia-2026-10-22t104610133.png",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792675800000
     },
     {
@@ -1222,16 +1232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1792666800000
-    },
-    {
-      "title": "Analys: Det blir allt svårare för väljarna att se skillnaden mellan Sannfinländarna och Samlingspartiet",
-      "description": "Sannfinländarnas nya sparlista visar att partiet liknar Samlingspartiet mer och mer. Skillnaden till SDP blir allt skarpare.",
-      "link": "https://yle.fi/a/7-10107389?origin=rss",
-      "guid": "https://yle.fi/a/7-10107389",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792666784000
     },
     {
       "title": "Polisen: Här är invånarna tryggast i länet",
