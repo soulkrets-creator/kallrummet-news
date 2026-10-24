@@ -1,8 +1,28 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-24T17:42:32.117Z",
+  "updatedAt": "2026-10-24T19:57:04.205Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Försvunnen man i Vittangi hittad – efter stor sökinsats",
+      "description": "Nedkyld i jaktkoja efter över ett dygn",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f59f88d-60b4-46c1-a766-68de3aab8719",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f59f88d-60b4-46c1-a766-68de3aab8719",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792871698000
+    },
+    {
+      "title": "Attackerar – 250 mil från gränsen",
+      "description": "Enorma rökmoln efter attacken djupt inne i landet",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/ukrainas-attack-250-mil-in-i-ryssland",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukrainas-attack-250-mil-in-i-ryssland",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792870990000
+    },
     {
       "title": "Stor studie avslöjar oväntad fördel: Coronavaccinet bekämpar cancer",
       "description": "Det gör mycket mer än att skydda dig mot virus. En grupp amerikanska forskare har nyligen upptäckt att det kontroversiella coronavaccinet kan hjälpa din kropp att bekämpa cancerceller – dessutom på ett ganska överraskande sätt.",
@@ -14,6 +34,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792870229000
     },
     {
+      "title": "Ukraina har anfallit ryska mål 2 300 kilometer från gränsen",
+      "description": "Under lördagen har ukrainska drönare träffat åtminstone två mål i den ryska Omskregionen norr om Kazakstan.",
+      "link": "https://yle.fi/a/7-10107507?origin=rss",
+      "guid": "https://yle.fi/a/7-10107507",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792869958000
+    },
+    {
       "title": "Revolutionsgardet fruktar endast Gud: Ayatollans slagstyrka",
       "description": "USA kom i konflikt med en obeveklig fiende när president Trump lät bomberna regna ner över Iran från och med den 28 februari 2026. Präststyret har nämligen en fanatisk militär styrka som är beredd att offra allt för segern. Lär känna Irans revolutionsgarde.",
       "link": "https://varldenshistoria.se/krig/trump-har-valt-en-brutal-fiende-ayatollans-fanatiska-garde",
@@ -22,6 +52,86 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Världens Historia",
       "sourceKey": "https://varldenshistoria.se/feed/rss",
       "timestamp": 1792868458000
+    },
+    {
+      "title": "Höststormen Boelo på väg från England",
+      "description": "Höststormen ”Boelo” rör sig snabbt från de brittiska öarna mot Sverige. Tidigt under söndagen är den här med upp till 30 millimeter regn och mycket hårda vindar. Nu ställs tågtrafik in och färjeavgångar flyttas fram med 12 timmar. – Vi räknar med att det ska vara åter normalt på onsdagen, säger Håkan Johansson, vd på Destination Gotland, till SVT.",
+      "link": "https://www.expressen.se/nyheter/vader/hoststormen--boleo-pa-vag-fran-england/",
+      "guid": "https://www.expressen.se/nyheter/vader/hoststormen--boleo-pa-vag-fran-england/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792868377000
+    },
+    {
+      "title": "Stjärnorna i Valplive fick namn och växer så det knakar",
+      "description": "Publiken har fått föreslå teman för namn och slutigen rösta om namnen. På lördagkväll den 24 oktober fick Hilkka-mammans valpar äntligen sina namn.",
+      "link": "https://yle.fi/a/7-10107506?origin=rss",
+      "guid": "https://yle.fi/a/7-10107506",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792868355000
+    },
+    {
+      "title": "Motståndarkollen: Mjällby AIF",
+      "description": "Det har knappast undgått någon att det är ett mästarlag i svårigheter som vi ställs mot, i denna Hammarbys andra raka gräsmatch. Efter varsin vårvinst i matcher på de stora scenerna, premiären inför 3",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-mjaellby-aif__",
+      "guid": "192f2ce1-e8c5-47a8-a9d9-d795680bce78",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/bc9a1f24fd3d81783efdc10b2e77871a2bc77c59-5291x2645.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1792868197000
+    },
+    {
+      "title": "Ovädret stoppar krigsfartyg",
+      "description": "Fast mitt i Stockholm",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/franskt-krigsfartyg-strandat-i-stockholm",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/franskt-krigsfartyg-strandat-i-stockholm",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792867875000
+    },
+    {
+      "title": "Krock med träd – en till sjukhus",
+      "description": "En till sjukhus utanför Alvesta",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8c58305-affb-47fe-a8ca-85e0ab6e59e1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8c58305-affb-47fe-a8ca-85e0ab6e59e1",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792867669000
+    },
+    {
+      "title": "Trumps rådgivare sparkad – kastade drink under match",
+      "description": "I förra månaden började Britt McHenry, 40, jobba som pressrådgivare hos Trumpadministrationen. ”Jag är välsignad att få jobba för några fantastiska människor”, skrev hon på Facebook. Nu har McHenry fått avgå – efter att ha filmats när hon kastade en drink under en NBA-match.",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-radgivare-sparkad-kastade-drink-under-match/",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-radgivare-sparkad-kastade-drink-under-match/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792867030000
+    },
+    {
+      "title": "Saku Koivu hyllades i Åbo inför fullsatt arena – sedan förlorade TPS då svenska stjärnan skämde ut sig",
+      "description": "TPS-legendaren Saku Koivus tröjnummer hissades upp i taket i Åbohallen. TPS åkte ändå på stryk mot Lukko. För Vasa Sport fortsatte lagets tunga hemmaform.",
+      "link": "https://yle.fi/a/7-10107505?origin=rss",
+      "guid": "https://yle.fi/a/7-10107505",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792866429000
+    },
+    {
+      "title": "Polisens varning inför halloween: ”Stort ansvar”",
+      "description": "Bus kan tyckas oskyldiga – men riskerar att gå över styr. Nu varnar polisen inför halloween. ”Vuxna har ett stort ansvar” , skriver polisen på sin hemsida.",
+      "link": "https://www.expressen.se/nyheter/sverige/polisens-varning-infor-halloween-stort-ansvar/",
+      "guid": "https://www.expressen.se/nyheter/sverige/polisens-varning-infor-halloween-stort-ansvar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792865746000
     },
     {
       "title": "Nationella ligan nådde sitt slut: Åland United tog silver och VIFK degraderades",
@@ -41,7 +151,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792862799000
+      "timestamp": 1792862798000
     },
     {
       "title": "Demonstranter tog sig in i Colosseum",
@@ -58,7 +168,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Nacka vatten och avfall kräver den sparkade kinesiska tunnelbanebyggaren CRTG på närmare 1,9 miljoner kronor. Men bolaget vägrar betala. Nu ska tvisten avgöras i domstol.",
       "link": "https://www.mitti.se/nyheter/efter-miljonkravet--nacka-moter-crtg-i-domstol-6.3.392101.1e26c2e3a2",
       "guid": "https://www.mitti.se/nyheter/efter-miljonkravet--nacka-moter-crtg-i-domstol-6.3.392101.1e26c2e3a2",
-      "image": "https://www.mitti.se/image-3.373600.312672.20261024173200.1.e10c99de67?format=jpeg",
+      "image": "https://www.mitti.se/image-3.373600.312672.20261024174505.1.8f85aea0f3?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792862100000
@@ -84,7 +194,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792861380000
     },
     {
-      "title": "Vännerna minns: Författen Bo Carpelan kunde bli galen av Eurovision och hockey-VM",
+      "title": "Rolig och busig, men också skarp och lite elak – släkt och vänner minns Bo Carpelan",
       "description": "Ny minnesskrift lyfter fram en av de centrala gestalterna inom den finlandssvenska litteraturen.",
       "link": "https://yle.fi/a/7-10106823?origin=rss",
       "guid": "https://yle.fi/a/7-10106823",
@@ -102,16 +212,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792861200000
-    },
-    {
-      "title": "Ovädret stoppar krigsfartyg",
-      "description": "Fast mitt i Stockholm",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/franskt-krigsfartyg-strandat-i-stockholm",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/franskt-krigsfartyg-strandat-i-stockholm",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792860430000
     },
     {
       "title": "Tre döms för inbrottsvåg – man utvisas i 10 år",
@@ -132,16 +232,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1792859075000
-    },
-    {
-      "title": "Höststormen Boelo på väg från England",
-      "description": "Höststormen ”Boelo” rör sig snabbt från de brittiska öarna. Tidigt under söndagen är den här med upp till 30 millimeter regn och mycket hårda vindar. – Vi räknar med att det kommer vara träd som faller över vägar, säger Hilda Westberg, meteorolog vid SMHI. Nu uppmanar Trafikverket trafikanter att hålla sig informerade.",
-      "link": "https://www.expressen.se/nyheter/vader/hoststormen--boleo-pa-vag-fran-england/",
-      "guid": "https://www.expressen.se/nyheter/vader/hoststormen--boleo-pa-vag-fran-england/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792858996000
     },
     {
       "title": "Fejknyhetsquizet: Den brinnande brandmannen i Bordeaux, svensk centerledare i slöja och Trumps trollfabrik",
@@ -255,7 +345,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Protesterna i Paris urartade – tårgas och vattenkanoner",
-      "description": "Demonstrationerna i Paris urartade med vattenkanoner och tårgas. Nu försöker polisen ringa in demonstranterna och upplösa protesterna. – Långsamt kommer demonstranterna trängas in, säger Expressens reporter på plats, Maria Rydhagen.",
+      "description": "Demonstrationerna i Paris urartade med vattenkanoner och tårgas. Nu försöker polisen ringa in demonstranterna och upplösa protesterna. Totalt har nästan 1000 personer gripits i dagens franska protester. – Långsamt kommer demonstranterna trängas in, säger Expressens reporter på plats, Maria Rydhagen.",
       "link": "https://www.expressen.se/nyheter/varlden/frankrike-rustar-70-000-poliser-pa-plats/",
       "guid": "https://www.expressen.se/nyheter/varlden/frankrike-rustar-70-000-poliser-pa-plats/",
       "image": "",
@@ -654,26 +744,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792839187000
     },
     {
-      "title": "Varnar – tåg ställs in",
-      "description": "Kraftig blåst väntas i Skåne",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=298dd5eb-39d5-46c1-bccc-621d93f48bea",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=298dd5eb-39d5-46c1-bccc-621d93f48bea",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792838743000
-    },
-    {
-      "title": "70 000 poliser i Paris – efter våldsamma helgen",
-      "description": "70 000 poliser, pansarfordon och vattenkanoner har satts in i Paris. 135 personer har hittills gripits i lördagens demonstrationer. Svenska Alexandra Pascalidou är på plats. – Jag vill se vad som händer. Jag vill förstå, säger hon.",
-      "link": "https://www.expressen.se/nyheter/varlden/70-000-poliser-i-paris-efter-valdsamma-helgen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/70-000-poliser-i-paris-efter-valdsamma-helgen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792838731000
-    },
-    {
       "title": "Experterna ger sina bästa tips för att börja träningscykla",
       "description": "Vill du börja cykla men funderar på vilken typ av cykling som passar dig bäst? Börja med att välja den miljö du trivs i och provcykla innan du köper en cykel.",
       "link": "https://yle.fi/a/7-10107378?origin=rss",
@@ -712,26 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792837209000
-    },
-    {
-      "title": "Emma Engdahl: ”Jag har skrivit det här själv”",
-      "description": "Hon blev avpublicerad i Svenska Dagbladet efter AI-anklagelser. Expressen kan nu visa att även hennes senaste bok till stor del bedöms vara skriven av AI. Men professorn Emma Engdahl förnekar: – Jag vet ju att jag har skrivit det här själv, säger hon.",
-      "link": "https://www.expressen.se/nyheter/sverige/emma-engdahl-jag-har-skrivit-det-har-sjalv/",
-      "guid": "https://www.expressen.se/nyheter/sverige/emma-engdahl-jag-har-skrivit-det-har-sjalv/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792836955000
-    },
-    {
-      "title": "Boende i Fristad efter garagebranden: ”Tragiskt”",
-      "description": "Sju pojkar vårdas, en med livshotande skador, efter en garagebrand i Fristad. Grannar i området är omskakade efter händelsen. – Det var väldigt kaosartat, säger Lisbeth Standar som bor alldeles intill olycksplatsen.",
-      "link": "https://www.expressen.se/nyheter/sverige/boende-i-fristad-efter-garagebranden-tragiskt-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/boende-i-fristad-efter-garagebranden-tragiskt-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792836631000
     },
     {
       "title": "SIM-kort i pumpstyrning fick frispel",
@@ -784,26 +834,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792834217000
     },
     {
-      "title": "Ilona Mononen ohotad etta i terräng-FM – dubbla medaljer till familjen Markén",
-      "description": "Den inhemska friidrottssäsongen avslutades med FM i terränglöpning. Ilona Mononen tog hem mästerskapets första lopp. Både Winnie och Leonard Markén tog medalj på 4 kilometer.",
-      "link": "https://yle.fi/a/7-10107494?origin=rss",
-      "guid": "https://yle.fi/a/7-10107494",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792833020000
-    },
-    {
-      "title": "Ukraina: Starlink verkar fungera normalt igen",
-      "description": "Det amerikanska SpaceX satellitsystem Starlink fungerar åter normalt i Ukraina, uppger landets försvarsministerium.",
-      "link": "https://yle.fi/a/7-10107495?origin=rss",
-      "guid": "https://yle.fi/a/7-10107495",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792832799000
-    },
-    {
       "title": "Dina äggstockar tar en ny, överraskande roll efter klimakteriet, visar studie",
       "description": "I ett unikt experiment har amerikanska forskare noga studerat tusentals proteiner från 28 äggstockar. Proverna visade en tidigare okänd roll för äggstockarna, som driver en viss utveckling i den kvinnliga kroppen årtionden efter klimakteriet.",
       "link": "https://illvet.se/halsa/dina-aggstockar-tar-en-ny-overraskande-roll-efter-klimakteriet-visar-studie",
@@ -844,16 +874,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792832400000
     },
     {
-      "title": "”Dieseln är som en drog för samhället” – här är experternas vägar ut ur beroendet",
-      "description": "Är dieseln ännu en del av vår framtidsvision eller har vi målat in oss i ett hörn med vårt dieselberoende? Vi låter tre experter kommentera läget.",
-      "link": "https://yle.fi/a/7-10106059?origin=rss",
-      "guid": "https://yle.fi/a/7-10106059",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792828844000
-    },
-    {
       "title": "Gamla Popcorn Time-appar stoppas",
       "description": "För att förhindra zombiearmé Fildelningsappen Popcorn Time var under 2010-talet en väldans populär piratapplikation för att strömma film och serier direkt via torrents. Även om utvecklingen lades ned för många år sedan låg en av appens uppdateringstjänster fortfarande kvar och snurrade i bakgrunden på miljontals datorer och mobiler världen över. Säkerhetsforskare på Eye Security upptäckte att uppdateringsprogrammet ständigt försökte koppla upp sig mot övergivna domäner via okrypterad HTTP-trafik. Om hackare hade lagt beslag på domänerna hade de enkelt kunnat skicka ut illvillig kod och ta över enheterna, vilket ju inte är jättebra. För att stoppa detta potentiella hot tog forskarna saken i egna händer genom att registrera en av de övergivna domänerna och skicka ut en egen uppdatering som helt enkelt stängde av samt inaktiverade den sårbara tjänsten på användarnas datorer. Fram till mars i år hade över två miljoner sådana skyddande uppdateringar laddats ned automatiskt innan forskarna lämnade över domänerna till säkerhetsorganisationen Shadowserver Foundation. Läs vidare och kommentera: https://feber.se/internet/gamla-popcorn-time-appar-stoppas/497712/ Läs mer om Popcorn Time , Eye Security , Shadowserver Foundation",
       "link": "https://feber.se/internet/gamla-popcorn-time-appar-stoppas/497712/?utm_source=rss&utm_medium=feed",
@@ -862,16 +882,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1792828800000
-    },
-    {
-      "title": "Kökaos i Mall of Scandinavia – hundratals köar till Kicks",
-      "description": "Det blev kaos i Mall of Scandinavia under lördagen. När Kicks öppnade en ny butik köade hundratals för att få en goodie bag. – Morgonen har varit totalt kaosartad. Urspårad på alla sätt och vis. Värre än konserter och kravaller, säger Lina som köat sedan klockan sju.",
-      "link": "https://www.expressen.se/nyheter/sverige/kokaos-i-mall-of-scandinavia-hundratals-koar-till-kicks/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kokaos-i-mall-of-scandinavia-hundratals-koar-till-kicks/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792827459000
     },
     {
       "title": "Så vill Helpers förändra Tureberg – frågar dig",
@@ -4642,16 +4652,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792332128000
-    },
-    {
-      "title": "Elvan i bortamötet med Halmstad",
-      "description": "Så här ställer Hammarby upp i bortamatchen mot Halmstad. Matchen sparkas igång klockan 16.30 på Örjans vall och visas i TV4 Play för dig som inte är på plats.27. Felix Jakobsson2. Hampus Skoglund6. Ib",
-      "link": "https://www.hammarbyfotboll.se/nyheter/elvan-i-bortamotet-med-halmstad",
-      "guid": "28a94228-c487-4250-9bb1-bfc203ec4335",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/77e36dac6e47184edb261e46b0bd80845f5b90e0-4482x2989.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1792330140000
     },
     {
       "title": "Ny scen planeras vid festplatsen",
