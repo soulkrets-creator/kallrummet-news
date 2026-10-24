@@ -1,8 +1,38 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-23T23:38:29.218Z",
+  "updatedAt": "2026-10-24T02:25:04.112Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Tre påkörda av bil",
+      "description": "Förda till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=8892e84f-b170-4dd8-bf01-9408430d6522",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8892e84f-b170-4dd8-bf01-9408430d6522",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792803723000
+    },
+    {
+      "title": "Glöm Rivieran – upptäck Frankrikes ”Lilla Kalifornien”",
+      "description": "Längs Frankrikes Atlantkust lockar Vendée med milslånga sandstränder och charmiga fiskebyar. Tempot är långsammare än vid Medelhavet och nu har allt fler resenärer fått upp ögonen för ”Lilla Kalifornien”. Frankrike lockar allt fler resenärer, där vi redan konstaterat att landet nu tar emot en bit över 100 miljoner internationella resenärer, om året. Hur de senaste […]",
+      "link": "https://www.dagensps.se/weekend/resor/glom-rivieran-upptack-frankrikes-lilla-kalifornien/",
+      "guid": "https://www.dagensps.se/?p=1685311",
+      "image": "https://images.dagensps.se/app/uploads/2026/10/studio96fr-2f9zdnc7mxg-unsplash-300x300.jpg",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792802889000
+    },
+    {
+      "title": "Donald Trump hyllar ”vidriga” reklamfilmen: Smart kvinna",
+      "description": "Donald Trump rycker ut till ilsket försvar av reklamfilmen med skräckmamman Donna Arthur. I en aggressiv ordväxling slår han undan frågorna om sexuella övergrepp. – Det är en smart kvinna, säger han.",
+      "link": "https://www.expressen.se/nyheter/varlden/donald-trump-hyllar-vidriga-reklamfilmen-smart-kvinna/",
+      "guid": "https://www.expressen.se/nyheter/varlden/donald-trump-hyllar-vidriga-reklamfilmen-smart-kvinna/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792798864000
+    },
     {
       "title": "Union Glashütte Belisar Chronograph Speedster Watch",
       "description": "",
@@ -604,16 +634,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792767600000
     },
     {
-      "title": "Kritiken i V: Krävs en hårdare kontroll",
-      "description": "Vänsterpartiets hantering av inkryssade ledamoten Mohamed Ali väcker kritik – även internt. Med bara 648 kryss tog han sig ända in i riksdagen. I partiet ifrågasätts nu rutinerna runt valberedningsarbetet. – Ali är inte ett isolerat problem, säger en källa.",
-      "link": "https://www.expressen.se/nyheter/sverige/kritiken-i-v-kravs--en-hardare-kontroll/",
-      "guid": "https://www.expressen.se/nyheter/sverige/kritiken-i-v-kravs--en-hardare-kontroll/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792767578000
-    },
-    {
       "title": "Publikinformation: Bortamötet med Mjällby",
       "description": "På söndagen är det dags för ännu ett bortamöte i Allsvenskan när Bajen ställs mot Mjällby på Strandvallen. Matchen sparkas igång 16.30 och här finns samlad information för dig som ser mötet på plats.",
       "link": "https://www.hammarbyfotboll.se/nyheter/publikinformation-bortamotet-med-mjallby",
@@ -632,16 +652,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1792767129000
-    },
-    {
-      "title": "Gustav Gellerbrants sambo stämmer Daniel Suhonen",
-      "description": "SD-toppen Gustav Gellerbrants sambo har stämt Daniel Suhonen, chef för tankesmedjan Katalys, för förtal. Suhonen har bland annat sagt att hon ”förmodligen är rysk agent”. ”De anklagelser som riktades mot mig saknar helt grund”, skriver sambon.",
-      "link": "https://www.expressen.se/nyheter/varlden/gustav-gellerbrants-sambo-stammer-daniel-suhonen/",
-      "guid": "https://www.expressen.se/nyheter/varlden/gustav-gellerbrants-sambo-stammer-daniel-suhonen/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792767111000
     },
     {
       "title": "Arbetspensionerna stiger nästa år",
@@ -852,16 +862,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1792762800000
-    },
-    {
-      "title": "Storbankens bolån kan kosta 108 800 kronor mer om året",
-      "description": "En bolånekund som har storbankernas högsta listränta i stället för Skandias snittränta betalar upp till 108 800 kronor mer om året för ett lån på åtta miljoner kronor. Ändå ligger två av tre bolån kvar hos storbankerna, som tjänade 180 miljarder kronor förra året. De fyra storbankerna sätter räntan individuellt. I september låg deras listräntor […]",
-      "link": "https://www.dagensps.se/privatekonomi/bostad/storbankens-bolan-kan-kosta-108-800-kronor-mer-om-aret/",
-      "guid": "https://www.dagensps.se/?p=1686051",
-      "image": "https://images.dagensps.se/app/uploads/2025/04/pmiS4sTI-sdlkGmPLbDKUoE-nh.jpg?height=350",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792762754000
     },
     {
       "title": "Podd: \"En varg i strupen\"",
