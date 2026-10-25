@@ -1,8 +1,108 @@
 {
-  "updatedAt": "2026-10-25T20:18:25.709Z",
+  "updatedAt": "2026-10-25T22:54:24.339Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
+    {
+      "title": "Trump vill stoppa norrmän",
+      "description": "”De suger – ett skithusland”",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/trump-jag-vill-stoppa-norrman",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-jag-vill-stoppa-norrman",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792967204000
+    },
+    {
+      "title": "Busskrasch i Katalonien – 80 skadade",
+      "description": "Föll 20 meter i Katalonien",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=694bf47b-255b-483e-9dcd-6757d9af0d5c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=694bf47b-255b-483e-9dcd-6757d9af0d5c",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792966523000
+    },
+    {
+      "title": "Regeringspartiet erkänner nederlag i Serbien",
+      "description": "Aleksandar Vucic och hans nationalistiska regeringsparti SNS erkänner nederlag i söndagens extra parlamentsval i Serbien.",
+      "link": "https://www.expressen.se/nyheter/varlden/regeringspartiet-erkanner-nederlag-i-serbien/",
+      "guid": "https://www.expressen.se/nyheter/varlden/regeringspartiet-erkanner-nederlag-i-serbien/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792965527000
+    },
+    {
+      "title": "Stor ilska i Albanien – tänder eld på banker",
+      "description": "Våldsamma bråk med polisen",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/stora-protester-i-albanien",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-protester-i-albanien",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792965492000
+    },
+    {
+      "title": "Valdramatik i Brasilien – röstningstiden förlängs",
+      "description": "I sista stund vände sig de båda presidentkandidaterna i Brasilien till domstol – för att förlänga vallokalernas öppettider. Nu pågår rösträkningen. Och det är än så länge jämnt.",
+      "link": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
+      "guid": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792964693000
+    },
+    {
+      "title": "Vucic erkänner nederlag i Serbien",
+      "description": "14 år av SNS-styre i Serbien är över",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1a29ea5-c3ec-4afd-bb3b-87a92ab9d66b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1a29ea5-c3ec-4afd-bb3b-87a92ab9d66b",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792964679000
+    },
+    {
+      "title": "Miljöns ljusglimtar 2026 – från Amazonas till solenergi",
+      "description": "Allt är inte nattsvart när det gäller det globala miljöarbetet. Det sker många ljusglimtar på området, där Amazonas regnskogar får en andra chans, djurarter som tigern återhämtar sig och solpaneler blir en allt viktigare energikälla. Vi hör ofta om att jordens djurarter snabbt försvinner, och de gör de fortfarande, men trenden har vänt när det […]",
+      "link": "https://www.dagensps.se/teknik/hallbarhet/miljons-ljusglimtar-2026-fran-amazonas-till-solenergi/",
+      "guid": "https://www.dagensps.se/?p=1686457",
+      "image": "https://images.dagensps.se/app/uploads/2026/02/sdltak0yvhkfwi.png",
+      "source": "Dagens PS",
+      "sourceKey": "https://www.dagensps.se/feed",
+      "timestamp": 1792964326000
+    },
+    {
+      "title": "Framgång för Studentlistan i serbiska parlamentsvalet",
+      "description": "Serbiens starke man Aleksandar Vučić blir inte premiärminister.",
+      "link": "https://yle.fi/a/7-10107525?origin=rss",
+      "guid": "https://yle.fi/a/7-10107525",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1792964048000
+    },
+    {
+      "title": "Linnéas förvåning över julkalendern",
+      "description": "Tomten hade sex fingrar och saknade en hand. En bild på en misstänkt AI-chokladkalender har fått stor spridning på Tiktok. Linnéa Söderström är en av de besvikna köparna. – Vissa saker såg nästan demoniska ut, säger hon. Nu pudlar företaget bakom kalendern.",
+      "link": "https://www.expressen.se/nyheter/sverige/linneas-forvaning-over-julkalendern/",
+      "guid": "https://www.expressen.se/nyheter/sverige/linneas-forvaning-over-julkalendern/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792961157000
+    },
+    {
+      "title": "Mikael Damberg: ”Kommer inte hinna få ihop en budget”",
+      "description": "De rödgröna partierna kommer inte presentera en gemensam budget till den 12 november. Det säger Mikael Damberg i SVT:s Agenda . – Det är nästan omöjligt, säger han.",
+      "link": "https://www.expressen.se/nyheter/politik/mikael-damberg-kommer-inte-hinna-fa-ihop-en-budget/",
+      "guid": "https://www.expressen.se/nyheter/politik/mikael-damberg-kommer-inte-hinna-fa-ihop-en-budget/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1792961148000
+    },
     {
       "title": "”Avgå eller leverera”: Finansministern pressas om försvaret",
       "description": "Brittiska regeringen pressas till nya försvarsutgifter. Det tänker finansministern lösa genom att trolla med knäna och låna till försvaret. Det finns en förhistoria i det som nu utspelar sig i det brittiska parlamentet. John Healey avgick som försvarsminister under tidigare premiärministern Keir Starmer. Healey avgick som försvarsminister under den tidigare premiärministern Keir Starmer, med motiveringen […]",
@@ -12,16 +112,6 @@
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1792958704000
-    },
-    {
-      "title": "Valdramatik i Brasilien – röstningstiden förlängs",
-      "description": "Valet i Brasilien ser ut att bli jämnt. I sista stund har båda presidentkandidater vänt sig till domstol – för att förlänga vallokalernas öppettider. Nu förlängs valet med två timmar.",
-      "link": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
-      "guid": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792958085000
     },
     {
       "title": "HTV: Montader efter segern på Strandvallen",
@@ -35,7 +125,7 @@
     },
     {
       "title": "Jägarens hund Ylla sköts ihjäl: ”Helt fruktansvärt”",
-      "description": "Jakthunden Ylla, 3 år, sprang efter en hare under en jakt på Österlen – och sköts ihjäl. Nu berättar hennes husse om chocken, sorgen och mötet med den misstänkta skytten. – Då sa han att han hade skjutit henne. Jag kunde inte förstå någonting, säger jägaren.",
+      "description": "Jakthunden Ylla, 3 år, sprang efter en hare under en jakt på Österlen – och sköts ihjäl av en privatperson. Nu berättar hennes husse om chocken, sorgen och mötet med den misstänkta skytten. – Då sa han att han hade skjutit henne. Jag kunde inte förstå någonting, säger jägaren.",
       "link": "https://www.expressen.se/nyheter/sverige/jagarens-hund-ylla-skots-ihjal-helt-fruktansvart/",
       "guid": "https://www.expressen.se/nyheter/sverige/jagarens-hund-ylla-skots-ihjal-helt-fruktansvart/",
       "image": "",
@@ -224,16 +314,6 @@
       "timestamp": 1792945852000
     },
     {
-      "title": "Rysk fabrik träffad i ukrainsk attack",
-      "description": "Stort rökmoln över staden",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-till-mot-fabrik-i-ryssland",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-till-mot-fabrik-i-ryssland",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792945762000
-    },
-    {
       "title": "Räddningstjänstinsats i Karlsborg avslutas",
       "description": "Kvinna försvunnen i Karlsborgs kommun",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4a1c69d1-85aa-4c22-958f-05583a7a5d31",
@@ -262,6 +342,16 @@
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
       "timestamp": 1792944768000
+    },
+    {
+      "title": "Forskare ligger bakom stor dna-analys: Nu vet vi vilka som var Hawaiis första invånare",
+      "description": "En ny dna-studie har kartlagt kopplingar mellan befolkningar i Stilla havet. Resultaten pekar på ett överraskande ursprung för Hawaiis första invånare.",
+      "link": "https://varldenshistoria.se/teknik/sjofart/stor-dna-analys-ger-antligen-svar-pa-vilka-som-var-hawaiis-forsta-invanare",
+      "guid": "https://varldenshistoria.se/teknik/sjofart/stor-dna-analys-ger-antligen-svar-pa-vilka-som-var-hawaiis-forsta-invanare",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1792944040000
     },
     {
       "title": "Vad gör du helst när en rejäl storm drar in över landet?",
@@ -324,16 +414,6 @@
       "timestamp": 1792940400000
     },
     {
-      "title": "Tonårsflicka häktas efter mordet i Älvsjö",
-      "description": "Misstänks för inblandning i mordet på Saba",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f580109a-898a-4550-b7a7-cc64260dafd6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f580109a-898a-4550-b7a7-cc64260dafd6",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792938632000
-    },
-    {
       "title": "Podd: Därför älskar stockholmare att köa",
       "description": "En varghona har synts till i Tyresö och därför älskar stockholmare att köa när det vankas nyöppnat. Lyssna på senaste avsnittet av Sthlm 4-ever med Orreteg & Hertz.",
       "link": "https://www.mitti.se/nyheter/podd-darfor-alskar-stockholmare-att-koa-6.3.393203.57521018c9",
@@ -342,16 +422,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792938600000
-    },
-    {
-      "title": "Bil ramlade av från bärgare – orsakade bilolycka",
-      "description": "Orsakade olycka på E20 – en till sjukhus",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=02880546-d83d-4e83-a629-5c365b283287",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=02880546-d83d-4e83-a629-5c365b283287",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792938592000
     },
     {
       "title": "Elvan mot Mjällby",
@@ -434,16 +504,6 @@
       "timestamp": 1792935793000
     },
     {
-      "title": "Möbeljätten Mio stoppar kudde – tvist om psalmcitat",
-      "description": "Möbeljätten Mio stoppar försäljningen av en kudde med citatet ”Du vet väl om att du är värdefull”, rapporterar Kyrkans Tidning .",
-      "link": "https://www.expressen.se/nyheter/sverige/mobeljatte-stoppar-kudde-tvist-om-psalmcitat/",
-      "guid": "https://www.expressen.se/nyheter/sverige/mobeljatte-stoppar-kudde-tvist-om-psalmcitat/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792935246000
-    },
-    {
       "title": "Sex kusliga och busiga tips för höstlovet i Tyresö",
       "description": "Upptäck höstlovet i Tyresö kommun. Här finns tips på gratis aktiviteter för alla åldrar – från spökdisco och skräckjakt till träffar för therians och furries.",
       "link": "https://www.mitti.se/nyheter/sex-kusliga-och-busiga-tips-for-hostlovet-i-tyreso-6.3.392224.194efb796d",
@@ -452,26 +512,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792935120000
-    },
-    {
-      "title": "Så viktigt är valdeltagandet: ”Grunden för vår demokrati”",
-      "description": "I Haparanda kommun röstar bara drygt sex av tio personer. Och ett lågt valdeltagande riskerar att få konsekvenser i samhället, enligt statsvetaren Marcus Österman. – Systemets legitimitet kan ifrågasättas, säger han.",
-      "link": "https://www.expressen.se/nyheter/sverige/sa-viktigt-ar-valdeltagandet-grunden-for-var-demokrati/",
-      "guid": "https://www.expressen.se/nyheter/sverige/sa-viktigt-ar-valdeltagandet-grunden-for-var-demokrati/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792934682000
-    },
-    {
-      "title": "Fyra av tio röstar inte – Haparanda har landets sämsta valdeltagande",
-      "description": "Här röstar bara drygt sex av tio personer. I Haparanda kommun är valdeltagandet – sen flera år tillbaka – lägst i hela landet. Och det finns en utbredd teori om varför. – Jag ser inte att det gör någon skillnad, säger Elsa Andersdotter, 25.",
-      "link": "https://www.expressen.se/nyheter/politik/fyra-av-tio-rostar-inte-haparanda--har-landets-samsta-valdeltagande/",
-      "guid": "https://www.expressen.se/nyheter/politik/fyra-av-tio-rostar-inte-haparanda--har-landets-samsta-valdeltagande/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792934679000
     },
     {
       "title": "Battlefield 2 finns nu som öppen källkod",
@@ -502,16 +542,6 @@
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792933200000
-    },
-    {
-      "title": "Amanda Sokolnicki kallar Alice Landerholm för nepobaby – kritiseras",
-      "description": "DN:s politiska redaktör Amanda Sokolnicki lyfter fram Muf-profilen Alice Landerholm som en nepobaby. Nu får hon kritik från flera håll. ”Mobbarpublicistik”, menar Timbros vd PM Nilsson. Enligt Landerholm själv utgår texten från ”ett felaktigt grundantagande”.",
-      "link": "https://www.expressen.se/nyheter/politik/amanda-sokolnicki-kallar-alice-landerholm-for-nepobaby-kritiseras/",
-      "guid": "https://www.expressen.se/nyheter/politik/amanda-sokolnicki-kallar-alice-landerholm-for-nepobaby-kritiseras/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1792932427000
     },
     {
       "title": "Scientists reveal the hidden danger of missing blood pressure medication",
@@ -824,16 +854,6 @@
       "timestamp": 1792915079000
     },
     {
-      "title": "Okände utvecklaren kan ha räddat världens e-handel",
-      "description": "Den globala e-handeln och otaliga webbplatser runt om i världen stod nyligen inför ett akut hot när en okänd men slipad utvecklare klev fram och gjorde en bragd. Bakom kulisserna fanns en man som i mer än 20 år har ägnat sin fritid åt att hålla den digitala infrastrukturen säker. Ondřej Surý arbetar till vardags […]",
-      "link": "https://www.dagensps.se/foretag/okande-utvecklaren-kan-ha-raddat-varldens-e-handel/",
-      "guid": "https://www.dagensps.se/?p=1686362",
-      "image": "https://images.dagensps.se/app/uploads/2026/10/hjalte.jpg",
-      "source": "Dagens PS",
-      "sourceKey": "https://www.dagensps.se/feed",
-      "timestamp": 1792913739000
-    },
-    {
       "title": "Matchdag: Avspark 16.30 på Strandvallen",
       "description": "I eftermiddag väntar ännu ett allsvenskt bortamöte när Hammarby ställs mot Mjällby på Strandvallen. Matchen sparkas igång 16.30 och här hittar du samlad information inför dagen. Allsvenskan: Omgång 2",
       "link": "https://www.hammarbyfotboll.se/nyheter/matchdag-avspark-16-30-pa-strandvallen",
@@ -932,16 +952,6 @@
       "source": "ScienceDaily",
       "sourceKey": "https://www.sciencedaily.com/rss/all.xml",
       "timestamp": 1792910170000
-    },
-    {
-      "title": "”Jag gillar inte mitt tonåriga barns pojkvän, vad göra?”",
-      "description": "Hur mycket kan man lägga sig i sina familjemedlemmars val av kompisar och partner? Det undrar en poddlyssnare, och vi bollar vidare frågan till publiken.",
-      "link": "https://yle.fi/a/7-10106634?origin=rss",
-      "guid": "https://yle.fi/a/7-10106634",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1792910169000
     },
     {
       "title": "Fler tjejer från Huddinge gör lumpen",
@@ -1158,7 +1168,7 @@
       "description": "I år blir det fler än 80 granar på Stockholms stads torg – här är hela listan",
       "link": "https://www.mitti.se/nyheter/lista-har-ar-alla-platser-som-far-julgran-i-stockholm-6.3.392292.0dea5d1562",
       "guid": "https://www.mitti.se/nyheter/lista-har-ar-alla-platser-som-far-julgran-i-stockholm-6.3.392292.0dea5d1562",
-      "image": "https://www.mitti.se/image-3.347455.313060.20261025065003.1.ad6d15cc44?format=jpeg",
+      "image": "https://www.mitti.se/image-3.347455.313060.20261025212612.1.9aa3985108?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792864800000
@@ -3614,16 +3624,6 @@
       "timestamp": 1792585683000
     },
     {
-      "title": "Ubåten användes i krig långt före första världskriget",
-      "description": "Historiens första attack under havsytan gick inte helt enligt planen.",
-      "link": "https://varldenshistoria.se/krig/nar-anvandes-den-forsta-ubaten-i-krig",
-      "guid": "https://varldenshistoria.se/krig/nar-anvandes-den-forsta-ubaten-i-krig",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1792584015000
-    },
-    {
       "title": "Astronauts’ hearts just passed a surprising test for Mars",
       "description": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
@@ -3808,7 +3808,7 @@
       "description": "Kristdemokraterna återvände igår till förhandlingsbordet och ansluter sig till det nya mittenstyre – utan Vänsterpartiet – som ska presenteras senare idag.",
       "link": "https://www.mitti.se/nyheter/klart-i-dag-presenteras-nya-styret-i-regionen-6.3.392394.10823320ad",
       "guid": "https://www.mitti.se/nyheter/klart-i-dag-presenteras-nya-styret-i-regionen-6.3.392394.10823320ad",
-      "image": "https://www.mitti.se/image-3.386112.313102.20261022055244.1.b0da27f0c5?format=jpeg",
+      "image": "https://www.mitti.se/image-3.386112.313102.20261021100951.1.10d88d30ca?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792571601000
