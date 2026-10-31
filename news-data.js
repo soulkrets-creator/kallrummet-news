@@ -1,17 +1,197 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-31T16:29:02.690Z",
+  "updatedAt": "2026-10-31T20:45:58.885Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
+      "title": "USA:s ambassad varnar för dåd i Moskva",
+      "description": "Ett terrordåd kan ske i Moskva under lördagen. Det varnar USA:s ambassad om och uppmanar människor att hålla sig borta. Nu jobbar de båda länderna tillsammans för att säkerställa att det inte sker.",
+      "link": "https://www.expressen.se/nyheter/varlden/usas-ambassad-varnar-for-dad-i-moskva-mzeil/",
+      "guid": "https://www.expressen.se/nyheter/varlden/usas-ambassad-varnar-for-dad-i-moskva-mzeil/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793478096000
+    },
+    {
+      "title": "Damlejonens VM-trupp innehåller fem debutanter – laget nollades i VM-genrepet mot Sverige",
+      "description": "Damlejonens VM-trupp har blivit uttagen. Landslaget värmde upp inför VM med en EHT-turnering i Sverige. I den sista matchen förlorade Finland mot värdnationen.",
+      "link": "https://yle.fi/a/7-10107919?origin=rss",
+      "guid": "https://yle.fi/a/7-10107919",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793477857000
+    },
+    {
+      "title": "Nya jätteprotester i Frankrike – attackerar med fyrverkerier",
+      "description": "Hundratusentals människor demonstrerar runtom i Europa. I Frankrike har demonstranter gått till attack med fyrverkerier och drabbat samman med polis – och i Tyskland och Albanien uppges demonstranter ha kastat gatsten.",
+      "link": "https://www.expressen.se/nyheter/varlden/nya-jatteprotester-i-frankrike-attackerar-med-fyrverkerier/",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-jatteprotester-i-frankrike-attackerar-med-fyrverkerier/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793477071000
+    },
+    {
+      "title": "Europaparlamentariker vill stoppa Ryssland från Ishockey-VM",
+      "description": "Fem finländska europaparlamentariker har undertecknat kravet.",
+      "link": "https://yle.fi/a/7-10107925?origin=rss",
+      "guid": "https://yle.fi/a/7-10107925",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793473920000
+    },
+    {
+      "title": "Svaren på Hedebys gåta: Så försvann vikingarnas viktigaste storstad",
+      "description": "Tidigare har det hävdats att staden gick under på grund av angrepp. Men det är långt ifrån hela historien om stadens undergång, menar forskare idag.",
+      "link": "https://varldenshistoria.se/civilisationer/vikingar/svaren-pa-hedebys-gata-sa-forsvann-vikingarnas-viktigaste-storstad",
+      "guid": "https://varldenshistoria.se/civilisationer/vikingar/svaren-pa-hedebys-gata-sa-forsvann-vikingarnas-viktigaste-storstad",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1793473243000
+    },
+    {
+      "title": "Poängkungen glödhet när HIFK vann igen – Sport i fritt fall efter femte raka förlusten",
+      "description": "Daniel Mäkiaho fortsatte att panga in poäng när HIFK vann igen. Sport åkte än en gång på en förlust på hemmaplan.",
+      "link": "https://yle.fi/a/7-10107918?origin=rss",
+      "guid": "https://yle.fi/a/7-10107918",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793472737000
+    },
+    {
+      "title": "Grannen Niklas stod i publiken: ”Helt osannolikt”",
+      "description": "Niklas Eriksson, 61, var en av åskådarna vid rallytävlingen utanför Nässjö, där en person dog efter att ha blivit påkörd på lördagen. Han uppger att allt nu känns ”tomt”. – Det är helt osannolikt. Ingen kan förutsäga det här, säger han.",
+      "link": "https://www.expressen.se/nyheter/sverige/grannen-niklas-stod-i-publiken-helt-osannolikt/",
+      "guid": "https://www.expressen.se/nyheter/sverige/grannen-niklas-stod-i-publiken-helt-osannolikt/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793472618000
+    },
+    {
+      "title": "En död på Sats i Oslo",
+      "description": "Befarad olycka i Oslo",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f2fbbbd7-b782-49d1-8b9b-313fedac46da",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f2fbbbd7-b782-49d1-8b9b-313fedac46da",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793472049000
+    },
+    {
+      "title": "Sammandrabbningar vid nya protester i Frankrike",
+      "description": "Barrikaderade butiker, 70 000 poliser och gendarmer och ett 40-tal parisiska tunnelbanestationer som stängts. Runt om i Frankrike har det hållits demonstrationer på lördagen och på flera platser har polisen använt tårgas för att skingra demonstranter.",
+      "link": "https://www.expressen.se/nyheter/varlden/sammandrabbningar-vid-nya-protester-i-frankrike/",
+      "guid": "https://www.expressen.se/nyheter/varlden/sammandrabbningar-vid-nya-protester-i-frankrike/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793471416000
+    },
+    {
+      "title": "Kommunens post skickas till Årsta – av säkerhetsskäl",
+      "description": "Brev till Sundbybergs stad går via industriområde i Årsta.",
+      "link": "https://www.mitti.se/nyheter/kommunens-post-skickas-till-arsta--av-sakerhetsskal-6.3.391892.3b2ef9ed70",
+      "guid": "https://www.mitti.se/nyheter/kommunens-post-skickas-till-arsta--av-sakerhetsskal-6.3.391892.3b2ef9ed70",
+      "image": "https://www.mitti.se/image-3.385642.312392.20261031190028.1.b5475b8732?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793471400000
+    },
+    {
+      "title": "Motståndarkollen: MFF",
+      "description": "I en tid av sportslig mellanmjölk och avsaknad av derbyn, så är det årets match som väntar för Malmö FF, då den ganska enkelriktade aversionen mot Bajen väcks till liv ordentligt på söndagen. Här är e",
+      "link": "https://www.hammarbyfotboll.se/nyheter/motstandarkollen-mff--_",
+      "guid": "c04dc329-dd4b-4117-a542-2f2e8355096b",
+      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/b5e2e12a08e70b20f1b9a3214825bb0082fc4c7f-2789x1395.jpg?w=1000&amp;auto=format&amp;q=80",
+      "source": "Hammarby Fotboll",
+      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
+      "timestamp": 1793468851000
+    },
+    {
+      "title": "Vem sjunger bakom masken? Här är skolans stora snackis",
+      "description": "Masked Teacher i Upplands-Bro – På Lillsjöskolan sjunger lärarna bakom masken i Masked Teacher.",
+      "link": "https://www.mitti.se/nyheter/vem-sjunger-bakom-masken-har-ar-skolans-stora-snackis-6.3.393432.20a07fddf9",
+      "guid": "https://www.mitti.se/nyheter/vem-sjunger-bakom-masken-har-ar-skolans-stora-snackis-6.3.393432.20a07fddf9",
+      "image": "https://www.mitti.se/image-3.386839.314009.20261031183047.1.4d7eb2a416?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793468700000
+    },
+    {
+      "title": "De vann VM i okända sporten: \"Dans högt upp i luften\"",
+      "description": "De kom till Sverige för att träna i industrilokalen i Bromma – nu har Fiona Jansen, Miguel Moncada Urquijo och Thomas ”Tomic” Kluzniak tagit VM-guld i wingsuit-akrobatik i Lake Elsinore i USA – 6th FAI World Wingsuit Flying Championships 2026.",
+      "link": "https://www.mitti.se/nyheter/de-vann-vm-i-okanda-sporten-dans-hogt-upp-i-luften-6.3.393343.bbe357830d",
+      "guid": "https://www.mitti.se/nyheter/de-vann-vm-i-okanda-sporten-dans-hogt-upp-i-luften-6.3.393343.bbe357830d",
+      "image": "https://www.mitti.se/image-3.386890.314012.20261031191716.08ccf2fb1f?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793468700000
+    },
+    {
+      "title": "Nya massdemonstrationer i Frankrike förlöpte mestadels lugnt – i Paris använde polisen tårgas",
+      "description": "För tredje veckan i rad ordnades stora demonstrationer runt om i Frankrike. Enligt inrikesministeriet deltog omkring 320 000 människor runt om i landet.",
+      "link": "https://yle.fi/a/7-10107922?origin=rss",
+      "guid": "https://yle.fi/a/7-10107922",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793468274000
+    },
+    {
+      "title": "Krisen djupnar för Carricks Manchester United – City snubblade i titelstriden",
+      "description": "Förlusten mot Chelsea på lördagen innebär att Manchester United har gått nio matcher i rad utan att vinna. Manchester Citys förlust öppnar upp för Arsenal i toppstriden.",
+      "link": "https://yle.fi/a/7-10107923?origin=rss",
+      "guid": "https://yle.fi/a/7-10107923",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793467638000
+    },
+    {
       "title": "Tekniska problem på Vänsterpartiets sajt",
-      "description": "Indonesisk spelsajt tycks ha tagit över",
+      "description": "”Oj, jävlar, det här behöver vi kolla upp”",
       "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=87a79b3d-2f4b-4a64-a52c-078f139fe150",
       "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=87a79b3d-2f4b-4a64-a52c-078f139fe150",
       "image": "",
       "source": "Expressen Nyheter",
       "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793463823000
+      "timestamp": 1793467541000
+    },
+    {
+      "title": "Misstänkt gränsbrott utreds i Norra Karelen",
+      "description": "Två personer misstänks för statsgränsbrott i Ilomants. En förundersökning har inletts.",
+      "link": "https://yle.fi/a/7-10107921?origin=rss",
+      "guid": "https://yle.fi/a/7-10107921",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793467297000
+    },
+    {
+      "title": "Fiilisbilder från U18 Keikkan i Helsingfors – hittar du någon du känner i vimlet?",
+      "description": "Hundratals ungdomar samlades för Svenska Yle Teens Halloween-fest på Tiivistämö på fredag kväll 30.10.2026.",
+      "link": "https://yle.fi/a/7-10106498?origin=rss",
+      "guid": "https://yle.fi/a/7-10106498",
+      "image": "",
+      "source": "Svenska Yle",
+      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
+      "timestamp": 1793466926000
+    },
+    {
+      "title": "Uppgifter: SD kan släppa kravet – C förnekar möten",
+      "description": "Sverigedemokraterna uppgavs kunna släppa ministerkravet och att Centerpartiet och SD haft möten med varandra. ”Det stämmer inte”, replikerade Centerpartiet snabbt. Nu dementerar även Sverigedemokraterna uppgifterna. ”Aftonbladets uppgifter är helt felaktiga”, skriver partiet till Expressen.",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-sd-kan-slappa--kravet-c-fornekar-moten/",
+      "guid": "https://www.expressen.se/nyheter/politik/uppgifter-sd-kan-slappa--kravet-c-fornekar-moten/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793466470000
     },
     {
       "title": "Ljuständning på alla helgons dag: följ direkt och skicka in hälsningar",
@@ -24,8 +204,18 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793462881000
     },
     {
+      "title": "Blodigt och brutalt mordfall kan ha lösts efter 2 000 år – romersk soldat kastades i en brunn",
+      "description": "År 1977 fann nederländska amatörarkeologer resterna av en romersk soldat i en brunn. På den tiden ansågs motivet vara skatteindrivning, men nu tror forskare att det var betydligt mer brutalt.",
+      "link": "https://varldenshistoria.se/civilisationer/romarriket/blodigt-och-brutalt-mordfall-kan-ha-losts-efter-2-000-ar-romersk-soldat-kastades-i-en-brunn",
+      "guid": "https://varldenshistoria.se/civilisationer/romarriket/blodigt-och-brutalt-mordfall-kan-ha-losts-efter-2-000-ar-romersk-soldat-kastades-i-en-brunn",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1793462451000
+    },
+    {
       "title": "Valter Skarsgård dyker upp i serie om World of Warcraft",
-      "description": "Häng med på husbilssemester genom spelets svenska vyer World of Warcraft har gjort en liten reseserien The Forever Journey som ASDASD. I det svenska avsnttet av serien får vi följa skådespelaren och World of Warcraft-fantasten Valter Skarsgård tillsammans med de spelprofilerna AnnieFuchsia och Guzu. Tillsammasn åker de runt i en specialbyggd husbil till Bohus fästning och Åbyfjorden i Bohuslän, vilket är både platser som valts ut för sin slående likhet med spelvärlden Azeroths episka miljöer. Serien handlar dock om mer än bara vackra miljöer. Under resans gång delar deltagarna med sig av personliga minnen och berättar om vad spelet har betytt för dem. The Forever Journey täcker även platser i Norge och Danmark. Norge-avsnittet kan ses nedan och det svenska avsnittet har premiär på YouTube den 3 november. Läs vidare och kommentera: https://feber.se/spel/valter-skarsgard-dyker-upp-i-serie-om-world-of-warcraft/497879/ Läs mer om World of Warcraft , Valter Skarsgård , AnnieFuchsia , Guzu , YouTube , Bohuslän , The Forever Journey",
+      "description": "Häng med på husbilssemester genom spelets svenska vyer Blizzard har gjort reseserien The Forever Journey som då ska promota kommande World of Warcraft Forever. I det svenska avsnittet av serien får vi följa skådespelaren och World of Warcraft-fantasten Valter Skarsgård hänga i Sverige med spelprofilerna AnnieFuchsia och Guzu. Tillsammans åker de runt i en specialbyggd husbil till Bohus fästning och Åbyfjorden i Bohuslän. Båda är platser som valts ut för sin slående likhet med spelvärlden Azeroths episka miljöer. Serien handlar dock om mer än bara vackra miljöer. Under resans gång delar deltagarna med sig av personliga minnen och berättar om vad spelet har betytt för dem. The Forever Journey täcker även platser i Norge och Danmark. Norge-avsnittet kan ses nedan och det svenska avsnittet har premiär på YouTube den 3 november. Läs vidare och kommentera: https://feber.se/spel/valter-skarsgard-dyker-upp-i-serie-om-world-of-warcraft/497879/ Läs mer om World of Warcraft , Valter Skarsgård , AnnieFuchsia , Guzu , YouTube , Bohuslän , The Forever Journey",
       "link": "https://feber.se/spel/valter-skarsgard-dyker-upp-i-serie-om-world-of-warcraft/497879/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/spel/valter-skarsgard-dyker-upp-i-serie-om-world-of-warcraft/497879/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -74,16 +264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793461505000
     },
     {
-      "title": "USA:s ambassad varnar för dåd i Moskva",
-      "description": "Risk för dödligt dåd i Moskva",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6ccd47dc-c5e2-4b31-8f6f-304548686cdb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6ccd47dc-c5e2-4b31-8f6f-304548686cdb",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793460933000
-    },
-    {
       "title": "Nya protester i Frankrike – polisen beslagtar masker",
       "description": "Ännu en lördag av protester väntas i Europa. Frankrikes inrikesminister har varnat för ”mycket hög våldsrisk” när halloweenparader kombineras med demonstranter. I Marseille har polisen beslagtagit masker och knivar, enligt Le Figaro.",
       "link": "https://www.expressen.se/nyheter/varlden/nya-protester-i-frankrike-polisen-beslagtar-masker/",
@@ -114,6 +294,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793459100000
     },
     {
+      "title": "Se det spektakulära mötet på himlen: Månen, Jupiter och Mars ligger på rad",
+      "description": "Vår egen måne ligger just nu på rad med två av de vackraste planeterna i solsystemet: Jupiter och Mars. Vi guidar dig till den unika upplevelsen.",
+      "link": "https://illvet.se/universum/stjarnor/stjarnhimlen/se-det-spektakulara-motet-pa-himlen-manen-jupiter-och-mars-ligger-pa-rad",
+      "guid": "https://illvet.se/universum/stjarnor/stjarnhimlen/se-det-spektakulara-motet-pa-himlen-manen-jupiter-och-mars-ligger-pa-rad",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1793458826000
+    },
+    {
       "title": "Polisutredning mot Google i Finland",
       "description": "Skogsavverkning för jättedatacentret granskas nu av finsk polis Finsk polis har nu inlett en brottsutredning mot Googles dotterbolag, Tuike Finland, efter misstänkta brott mot miljölagstiftningen. Det var tidigare i veckan som bolaget anklagades för att ha skövlat stora skogsområden i norra Finland innan alla papper var färdiga. Skövlingen skedde på ett område på 330 hektar i Muhos, där Google planerar att bygga ett av sina största datacenter i Europa, en investering på cirka 13 miljarder euro. Enligt miljömyndigheterna har Google huggit ner uppskattningsvis 250 000 träd i Muhos och ytterligare 150 000 i närliggande Otanmäki utan giltiga tillstånd. Googles landschef i Finland, Antti Järvinen, har bett om ursäkt för händelsen men hävdar att bolaget agerat utifrån sin dåvarande tolkning av lagen. Polisens förundersökning ska nu granska bristerna i vattenhantering och dränering vid byggarbetsplatserna samt de omständigheter som ledde till att skogen fälldes i förtid. Läs vidare och kommentera: https://feber.se/samhalle/polisutredning-mot-google-i-finland/497955/ Läs mer om Google , Tuike Finland , Muhos , Otanmäki , miljöbrott , datacenter , Antti Järvinen , Skogsavverkning",
       "link": "https://feber.se/samhalle/polisutredning-mot-google-i-finland/497955/?utm_source=rss&utm_medium=feed",
@@ -135,7 +325,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Vad är ditt bästa bus på halloween?",
-      "description": "Idag är det halloween och många går bus eller godis! Vad är ditt bästa bus? Dela med dig här!",
+      "description": "Idag är det halloween och många går bus eller godis! Vad är ditt bästa bus? Gör du något speciellt denna kväll? Dela med dig här!",
       "link": "https://www.expressen.se/nyheter/sverige/vad-ar-ditt-basta--bus-pa-halloween-/",
       "guid": "https://www.expressen.se/nyheter/sverige/vad-ar-ditt-basta--bus-pa-halloween-/",
       "image": "",
@@ -155,7 +345,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Öppen lösning för att kringgå Whitings betalvägg",
-      "description": "Snubbe tröttnade på att behöva prenumerera för dela sin data Det här med att man måste prenumerera på en tjänst för att få ut det mesta av sin köpta produkt kan vara extremt frustrerande ibland. Ett exempel på detta är många av Withings prylar som numera kräver att man betalar för sig om man vill synka sin hälsoinformation med externa appar. Detta fick utvecklaren Tom Anthony att agera då han tröttnade på vad han beskriver som en sunkig app och låsta funktioner. Resultatet är projektet YourOwnWeigh, vilket är en lösning med öppen källkod som gör det möjligt att styra om trafiken från vågen till en egen server istället för att informationen skickas till Withings servrar. Enligt Anthony krävs ingen avancerad utrustning och det räcker med ett kostnadsfritt konto på exempelvis Cloudflare för att driva tjänsten. Rent tekniskt fungerar det genom att vågens systemmjukvara uppdateras trådlöst via blåtand där då den nya mjukvaran instruerar vågen att ladda upp vägningsdata till användarens egen server istället för till Withings. Projektet är fortfarande i ett tidigt skede men du kan följa det via länken nedan. Läs vidare och kommentera: https://feber.se/pryl/oppen-losning-for-att-kringga-whitings-betalvagg/497978/ Läs mer om Withings , Tom Anthony , YourOwnWeigh , CloudFlare , öppen källkod , smarta vågar",
+      "description": "Snubbe tröttnade på att behöva prenumerera Det här med att man måste prenumerera på en tjänst för att få ut det mesta av sin köpta produkt kan vara extremt frustrerande ibland. Ett exempel på detta är många av Withings prylar som numera kräver att man betalar för sig om man vill synka sin hälsoinformation med externa appar. Detta fick utvecklaren Tom Anthony att agera då han tröttnade på vad han beskriver som en sunkig app och låsta funktioner. Resultatet är projektet YourOwnWeigh, vilket är en lösning med öppen källkod som gör det möjligt att styra om trafiken från vågen till en egen server istället för att informationen skickas till Withings servrar. Enligt Anthony krävs ingen avancerad utrustning och det räcker med ett kostnadsfritt konto på exempelvis Cloudflare för att driva tjänsten. Rent tekniskt fungerar det genom att vågens systemmjukvara uppdateras trådlöst via blåtand där då den nya mjukvaran instruerar vågen att ladda upp vägningsdata till användarens egen server istället för till Withings. Projektet är fortfarande i ett tidigt skede men du kan följa det via länken nedan. Läs vidare och kommentera: https://feber.se/pryl/oppen-losning-for-att-kringga-whitings-betalvagg/497978/ Läs mer om Withings , Tom Anthony , YourOwnWeigh , CloudFlare , öppen källkod , smarta vågar",
       "link": "https://feber.se/pryl/oppen-losning-for-att-kringga-whitings-betalvagg/497978/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/pryl/oppen-losning-for-att-kringga-whitings-betalvagg/497978/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -295,7 +485,7 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Ryssland tillåts delta i ishockey-VM igen",
-      "description": "Ishockeyförbundet är kritiska, men ställer sig i led I går blev det klart att Ryssland återigen kommer att få delta i internationella ishockeymästerskap nästa år. Det var i samband med att de invaderade Ukraina i början av 2022 som Ryssland uteslöts från den internationella hockeyarenan. Det internationella ishockeyförbundet (IIHF) har motiverat avstängningen med säkerhetsskäl, men enligt Idrottens skiljedomstol (CAS) har förbundet inte kunnat presentera tillräckliga bevis för dessa risker. Domstolen upphäver därför beslutet, vilket innebär att ryska landslag i teorin kan vara tillbaka i spel redan vid vinterns junior-VM i Kanada. IIHF meddelar att de kommer att rätta sig efter domen, även om de beklagar utgången. Just nu pågår ett arbete med att se över hur och när återgången praktiskt ska genomföras. Från svenskt håll väcker beskedet som vanligt starka känslor men det verkar inte bli mycket mer än det. Anders Larsson, ordförande för Svenska Ishockeyförbundet, är kritisk till CAS beslut och anser fortfarande att Ryssland inte hör hemma i mästerskapen. Han klargör dock att Sverige inte tänker ta till en bojkott. Enligt Larsson är det viktigaste att de svenska spelarna får möjlighet att utföra sitt jobb och delta i turneringarna, oavsett vilka nationer som står för motståndet. Någonstans kan man ju tycka att mördade ukrainska barn bör vara lite högre i prioritet än landslagsmatcher, men vad vet jag liksom? Läs vidare och kommentera: https://feber.se/samhalle/ryssland-tillats-delta-i-ishockey-vm-igen/497988/ Läs mer om Ryssland , IIHF , Cas , Anders Larsson , Svenska Ishockeyförbundet , ishockey",
+      "description": "Ishockeyförbundet är kritiska, men ställer sig i ledet I går blev det klart att Ryssland återigen kommer att få delta i internationella ishockeymästerskap nästa år. Det var i samband med att de invaderade Ukraina i början av 2022 som Ryssland uteslöts från den internationella hockeyarenan. Det internationella ishockeyförbundet (IIHF) har motiverat avstängningen med säkerhetsskäl, men enligt Idrottens skiljedomstol (CAS) har förbundet inte kunnat presentera tillräckliga bevis för dessa risker. Domstolen upphäver därför beslutet, vilket innebär att ryska landslag i teorin kan vara tillbaka i spel redan vid vinterns junior-VM i Kanada. IIHF meddelar att de kommer att rätta sig efter domen, även om de beklagar utgången. Just nu pågår ett arbete med att se över hur och när återgången praktiskt ska genomföras. Från svenskt håll väcker beskedet som vanligt starka känslor men det verkar inte bli mycket mer än det. Anders Larsson, ordförande för Svenska Ishockeyförbundet, är kritisk till CAS beslut och anser fortfarande att Ryssland inte hör hemma i mästerskapen. Han klargör dock att Sverige inte tänker ta till en bojkott. Enligt Larsson är det viktigaste att de svenska spelarna får möjlighet att utföra sitt jobb och delta i turneringarna, oavsett vilka nationer som står för motståndet. Någonstans kan man ju tycka att mördade ukrainska barn bör vara lite högre i prioritet än landslagsmatcher, men vad vet jag liksom? Läs vidare och kommentera: https://feber.se/samhalle/ryssland-tillats-delta-i-ishockey-vm-igen/497988/ Läs mer om Ryssland , IIHF , Cas , Anders Larsson , Svenska Ishockeyförbundet , ishockey",
       "link": "https://feber.se/samhalle/ryssland-tillats-delta-i-ishockey-vm-igen/497988/?utm_source=rss&utm_medium=feed",
       "guid": "https://feber.se/samhalle/ryssland-tillats-delta-i-ishockey-vm-igen/497988/?utm_source=rss&utm_medium=feed",
       "image": "",
@@ -494,16 +684,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793444214000
     },
     {
-      "title": "Spolas ut till havs – i turistparadiset",
-      "description": "Vädervarning utfärdad på Californiahalvön",
-      "link": "https://www.expressen.se/tv/nyheter/varlden/bilarna-spolas-bort-i-populara-turistorten",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/bilarna-spolas-bort-i-populara-turistorten",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793443841000
-    },
-    {
       "title": "Bästa vapnet mot Putin: ”Mer stöd till Ukraina”",
       "description": "Ryssland fortsätter med sabotage och hybridkrig mot väst, som inte vet hur man ska svara. Mer stöd till Ukraina, är ett förslag till svar. Teoretiskt och formellt befinner sig ingen del av Europa väster om Ukraina inte i krig med Ryssland – men freden är inte vad den en gång var, konstaterar The Economist i […]",
       "link": "https://www.dagensps.se/varlden/basta-vapnet-mot-putin-mer-stod-till-ukraina/",
@@ -512,16 +692,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1793443229000
-    },
-    {
-      "title": "Hundratals evakuerade under Melanias vapenvila",
-      "description": "Trump kallar sig själv fredspresidenten. Men i Ukrainakriget är det hans fru som medlat eldupphör. I Olesjky har hundratals evakuerats under Melania Trumps vapenvila.",
-      "link": "https://www.expressen.se/nyheter/varlden/hundratals-evakuerade-under-melanias-vapenvila/",
-      "guid": "https://www.expressen.se/nyheter/varlden/hundratals-evakuerade-under-melanias-vapenvila/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793443219000
     },
     {
       "title": "Scientists discover a bacterial defense so strange they thought it was broken",
@@ -534,16 +704,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793443110000
     },
     {
-      "title": "200 dök upp",
-      "description": "Urspårad fest i Västsverige, enligt ST-tidningen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=29526fc8-c8bd-4554-b899-388cfe172894",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=29526fc8-c8bd-4554-b899-388cfe172894",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793442030000
-    },
-    {
       "title": "Pokémon återvänder till McDonald's i Sverige",
       "description": "Det lär bli hetsigt i december I december är det dags för ett nytt samarbete mellan Pokémon och McDonald's i Sverige. Under årets sista månad kommer man nämligen kunna hitta både samlarkort och figurer i Happy Meals. Varje Happy Meal innehåller två kort och en liten Pokémon-figur. Det kommer finnas totalt 15 kort att samla på, varav sju är holografiska, och själva Happy Meal-lådan kommer ha olika motiv så det kommer folk säkert också vilja samla på. Så om man vill ha alla kort, figurer och Happy Meal-boxar får man nog räkna med ett antal turer till Mackedonkan vid jul. Läs vidare och kommentera: https://tjock.se/strupen/pokemon-atervander-till-mcdonalds-i-sverige/497960/ Läs mer om Pokémon , McDonald's , Happy Meal , samlarkort , Holografiska kort",
       "link": "https://tjock.se/strupen/pokemon-atervander-till-mcdonalds-i-sverige/497960/?utm_source=rss&utm_medium=feed",
@@ -552,36 +712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Feber",
       "sourceKey": "https://feber.se/rss/",
       "timestamp": 1793440800000
-    },
-    {
-      "title": "Svenska oron för Rysslands nya förmågor",
-      "description": "Under Putins anfallskrig mot Ukraina har den ryska militärapparaten utvecklats från byråkratisk och centralstyrd till mer anpassningsbar och flexibel. Det oroar den svenska Försvarsmakten. – Vi har ju tidigare haft ett Ryssland som vi har känt väldigt väl, säger Ewa Skoog Haslum, chef för operationsledningen, i Ekots lördagsintervju .",
-      "link": "https://www.expressen.se/nyheter/sverige/svenska-oron-for-rysslands-nya-formagor/",
-      "guid": "https://www.expressen.se/nyheter/sverige/svenska-oron-for-rysslands-nya-formagor/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793440337000
-    },
-    {
-      "title": "Våra hundar äter allt mer inhemsk mat: råfoder på uppgång",
-      "description": "Upp emot en tredjedel av all hundmat som säljs i Finland är numera inhemsk.",
-      "link": "https://yle.fi/a/7-10107870?origin=rss",
-      "guid": "https://yle.fi/a/7-10107870",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793439132000
-    },
-    {
-      "title": "Hälsar du på din granne?",
-      "description": "I dag är det grannens dag. Vad har du för relation med dina grannar? Dela med dig i chatten här!",
-      "link": "https://www.expressen.se/nyheter/sverige/halsar-du-pa-din-granne-/",
-      "guid": "https://www.expressen.se/nyheter/sverige/halsar-du-pa-din-granne-/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793438779000
     },
     {
       "title": "Uppgivna barkarbybor när tunnelbanan försenas – igen",
@@ -614,16 +744,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793437220000
     },
     {
-      "title": "Största trenden hösten 2026: Sex med monster",
-      "description": "Vackra alver med vingar och en Skarsgård gjord av flätat trä. Vi kan inte få nog av sexiga monster. Genren heter romantasy och den har aldrig varit så här het.",
-      "link": "https://yle.fi/a/7-10107807?origin=rss",
-      "guid": "https://yle.fi/a/7-10107807",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793437214000
-    },
-    {
       "title": "Norge bojkottar tyngdlyftnings-VM i Moskva",
       "description": "Låter vettigt Tidigare i veckan skrev vi om att Sverige inte kommer att bojkotta tyngdlyftnings-VM 2030 i Moskva, trots att man tyckte det var \"väldigt olyckligt\" att mästerskapet skulle hållas i ett land som håller på att kriga. Våra grannar i väst verkar dock ha lite mer stake när det gäller detta och meddelade i går att de inte kommer att skicka några idrottare till mästerskapet. Detta av den enkla anledningen att mästerskapet har tilldelats Ryssland, som håller på med dumheter i Ukraina. Stian Grimseth, ordförande för Norges tyngdlyftningsförbund, säger att det är oacceptabelt att ett land som bedriver ett invasionskrig får arrangera stora internationella mästerskap. – Det är glasklart att vi inte skickar idrottare till ett mästerskap i Ryssland. Att internationella förbundet valde att ge dem VM är helt enkelt otroligt. Glasklart indeed säger jag. Läs vidare och kommentera: https://feber.se/samhalle/norge-bojkottar-tyngdlyftnings-vm-i-moskva/497953/ Läs mer om Ryssland , Stian Grimseth , Moskva , Tyngdlyftnings-VM , Norge",
       "link": "https://feber.se/samhalle/norge-bojkottar-tyngdlyftnings-vm-i-moskva/497953/?utm_source=rss&utm_medium=feed",
@@ -654,16 +774,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793437200000
     },
     {
-      "title": "Viktigt avtal för Ukraina: USA lovar leverera Patriotrobotar",
-      "description": "USA godkänner försäljning av Patriotrobotar till Ukraina för 2,1 miljarder dollar. Ukraina finansierar köpet med bidrag från Kanada, Tyskland, Norge och EU.",
-      "link": "https://yle.fi/a/7-10107907?origin=rss",
-      "guid": "https://yle.fi/a/7-10107907",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793436774000
-    },
-    {
       "title": "Jägare hotade med leksakspistol – fick vapenlicensen indragen",
       "description": "En jägare motade ut en inkräktare ur sitt hem med en leksakspistol. Det fick polisen att vilja dra in hans vapenlicens. I oktober 2025 beslutade polismyndigheten att dra in en mans tillstånd att inneha skjutvapen. Bakgrunden var att mannen blivit angripen av en inkräktare i sitt hem och då motat ut denne genom att hota […]",
       "link": "https://www.dagensps.se/varlden/jagare-hotade-med-leksakspistol-fick-vapenlicensen-indragen/",
@@ -672,26 +782,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1793436069000
-    },
-    {
-      "title": "Nu väntas första räntehöjningen – ”tuffare tider”",
-      "description": "Tre höjningar av Riksbankens styrränta står för dörren om man lyssnar på experter. Eller fyra – om man tittar på vad handlarna på räntemarknaden räknar med. Den första höjningen – från 1,75 till 2,00 procent – väntas redan på onsdag.",
-      "link": "https://www.expressen.se/ekonomi/privatekonomi/nu-vantas-forsta-rantehojningen-tuffare-tider/",
-      "guid": "https://www.expressen.se/ekonomi/privatekonomi/nu-vantas-forsta-rantehojningen-tuffare-tider/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793436059000
-    },
-    {
-      "title": "Stubb: Fel att Ryssland får delta i ishockey-VM",
-      "description": "President Alexander Stubb sa att det är en seger för ishockeyvännen Putin när Ryssland åter får spela i VM. Finlands reaktion hänger på förbundet och spelarna.",
-      "link": "https://yle.fi/a/7-10107853?origin=rss",
-      "guid": "https://yle.fi/a/7-10107853",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793435273000
     },
     {
       "title": "Midsommargården firar sina 80 år",
@@ -734,21 +824,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793433600000
     },
     {
-      "title": "Här ska julgranar lysa i år",
-      "description": "Skärholmen, Sätra och Vårberg får stora julgranar och Bredäng flera små, vintern 2026.",
-      "link": "https://www.mitti.se/nyheter/har-ska-julgranar-lysa-i-ar-6.3.393359.34d53a0776",
-      "guid": "https://www.mitti.se/nyheter/har-ska-julgranar-lysa-i-ar-6.3.393359.34d53a0776",
-      "image": "https://www.mitti.se/image-3.305810.313704.20261031083010.cb44f129cd?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793433600000
-    },
-    {
       "title": "Så mycket höjs hyrorna nästa år",
       "description": "Hyresförhandlingarna för 2027 har påbörjats och för 13 fastigheter i Sigtuna kommun står det nu klart hur stor nästa års hyreshöjning blir.",
       "link": "https://www.mitti.se/nyheter/sa-mycket-hojs-hyrorna-nasta-ar-6.3.391922.369fda1fc0",
       "guid": "https://www.mitti.se/nyheter/sa-mycket-hojs-hyrorna-nasta-ar-6.3.391922.369fda1fc0",
       "image": "https://www.mitti.se/image-3.133328.312421.20261031083010.6e19629d57?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793433600000
+    },
+    {
+      "title": "Här ska julgranar lysa i år",
+      "description": "Skärholmen, Sätra och Vårberg får stora julgranar och Bredäng flera små, vintern 2026.",
+      "link": "https://www.mitti.se/nyheter/har-ska-julgranar-lysa-i-ar-6.3.393359.34d53a0776",
+      "guid": "https://www.mitti.se/nyheter/har-ska-julgranar-lysa-i-ar-6.3.393359.34d53a0776",
+      "image": "https://www.mitti.se/image-3.305810.313704.20261031083010.cb44f129cd?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793433600000
@@ -774,36 +864,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793432760000
     },
     {
-      "title": "Recension: Kan man gilla den dömde våldtäktsmannen Mike Tyson?",
-      "description": "Netflix serie berättar bländande om den smutsige pojkens fascinerande väg mot tungviktsbältet men misslyckas med att ställa de brännande frågorna om våldtäkten.",
-      "link": "https://yle.fi/a/7-10107855?origin=rss",
-      "guid": "https://yle.fi/a/7-10107855",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793432575000
-    },
-    {
-      "title": "Lettland kommer inte spela mot Ryssland i VM: ”Tänker inte bryta mot lagen”",
-      "description": "Lettland har ingen som helst avsikt att spela mot Ryssland i ishockey-VM. En lettisk lag förbjuder landslag att möta ryska och belarusiska lag – och den linjen kommer ishockeylandslaget att följa.",
-      "link": "https://yle.fi/a/7-10107905?origin=rss",
-      "guid": "https://yle.fi/a/7-10107905",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793432234000
-    },
-    {
-      "title": "Kasnäsudden miljonsatsar på gästhamnen: ”Gynnar hela områdets livskraft”",
-      "description": "Kasnäsudden i Kimitoön gör en storsatsning på sin hamnverksamhet. Både säsongsplatserna och gästhamnen ska byggas ut och moderniseras till sommaren.",
-      "link": "https://yle.fi/a/7-10107773?origin=rss",
-      "guid": "https://yle.fi/a/7-10107773",
-      "image": "",
-      "source": "Svenska Yle",
-      "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
-      "timestamp": 1793430617000
-    },
-    {
       "title": "Stihl lanserar nya batteridrivna åkgräsklippare",
       "description": "De är najs Stihl kommer snart att släppa två nya batteridrivna åkgräsklippare. Maskinerna är utrustade med så kallad zero-turn-styrning, vilket gör att de kan vända runt sin egen axel, vilket ju är praktiskt om man ska vända på småytor eller köra runt träd och buskar. Värstingmodellen heter RZA 254 har en klippbredd på 137 centimeter och klarar ytor upp till 17 500 kvadratmeter på en laddning. Den mindre modellen, RZA 142, har en klippbredd på 107 centimeter och en kapacitet på 9 200 kvadratmeter. Båda maskinerna har en toppfart på 13 km/h. Stihl har valt att använda litiumjärnfosfatbatterier som ska klara över 2 400 laddcykler. Som förare har man både justerbart säte med armstöd och en lastyta som tål upp till 100 kg. Vill man lyssna på RZA via mobilen medan man klipper så finns det en inbyggd mobilhållare och USB-uttag så man kan lyssna utan att sänka telefonens batteri. De nya modellerna förväntas nå svenska butiker lagom till klippsäsongen 2027. Några svenska priser är dock ännu inte spikade. Läs vidare och kommentera: https://feber.se/pryl/stihl-lanserar-nya-batteridrivna-akgrasklippare/497954/ Läs mer om Stihl , RZA 254 , RZA 142 , litiumjärnfosfatbatterier , åkgräsklippare , zero-turn",
       "link": "https://feber.se/pryl/stihl-lanserar-nya-batteridrivna-akgrasklippare/497954/?utm_source=rss&utm_medium=feed",
@@ -814,21 +874,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793430000000
     },
     {
-      "title": "26 personer ombord när Vaxholmsbåt krockade med oljetanker",
-      "description": "Oklart vad som hände. Utreds av polis och kustbevakning. \"Mycket allvarligt\". Nacka, Lidingö, Värmdö, Vaxholmsbåt, Waxholmsbolaget, kollision, krock",
-      "link": "https://www.mitti.se/nyheter/26-personer-ombord-nar-vaxholmsbat-krockade-med-oljetanker-6.3.393613.02a5f74313",
-      "guid": "https://www.mitti.se/nyheter/26-personer-ombord-nar-vaxholmsbat-krockade-med-oljetanker-6.3.393613.02a5f74313",
-      "image": "https://www.mitti.se/image-3.386994.314167.20261031080335.1.96f97e1065?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793430000000
-    },
-    {
       "title": "Köpte dinosauriebok på nätet – fick tre usla sidor",
       "description": "Kvinna anmäler nätbutik till ARN efter köp av bok om dinosaurier.",
       "link": "https://www.mitti.se/nyheter/kopte-dinosauriebok-pa-natet--fick-tre-usla-sidor-6.3.390921.bd4dffd0a0",
       "guid": "https://www.mitti.se/nyheter/kopte-dinosauriebok-pa-natet--fick-tre-usla-sidor-6.3.390921.bd4dffd0a0",
       "image": "https://www.mitti.se/image-3.334177.311715.20261031113715.16807f1be5?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793430000000
+    },
+    {
+      "title": "26 personer ombord när Vaxholmsbåt krockade med oljetanker",
+      "description": "Oklart vad som hände. Utreds av polis och kustbevakning. \"Mycket allvarligt\". Nacka, Lidingö, Värmdö, Vaxholmsbåt, Waxholmsbolaget, kollision, krock",
+      "link": "https://www.mitti.se/nyheter/26-personer-ombord-nar-vaxholmsbat-krockade-med-oljetanker-6.3.393613.02a5f74313",
+      "guid": "https://www.mitti.se/nyheter/26-personer-ombord-nar-vaxholmsbat-krockade-med-oljetanker-6.3.393613.02a5f74313",
+      "image": "https://www.mitti.se/image-3.386994.314167.20261031080335.1.96f97e1065?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793430000000
@@ -864,6 +924,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793428200000
     },
     {
+      "title": "Här blir kaninen och ormen tv-stjärnor",
+      "description": "UR:s nya barnprogram ”Veterinär Marie” spelas in i Upplands Väsby. Barn tar med sina djur till veterinären och lär sig om ansvar, omsorg och hur sjuka husdjur får hjälp.",
+      "link": "https://www.mitti.se/nyheter/har-blir-kaninen-och-ormen-tvstjarnor-6.3.391861.9c7f61f21c",
+      "guid": "https://www.mitti.se/nyheter/har-blir-kaninen-och-ormen-tvstjarnor-6.3.391861.9c7f61f21c",
+      "image": "https://www.mitti.se/image-3.385720.312458.20261031095147.5664984717?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793426400000
+    },
+    {
       "title": "Ljust requiem i mörka tider",
       "description": "Konsert med requiem i Kårsta kyrka i Vallentuna på allhelgonadagen",
       "link": "https://www.mitti.se/nyheter/ljust-requiem-i-morka-tider-6.3.393171.b7249c7d6e",
@@ -879,16 +949,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/ameli-trar-pa-sig-skrackkappan---raddar-spokvandringen-6.3.392341.ceedeb2b66",
       "guid": "https://www.mitti.se/nyheter/ameli-trar-pa-sig-skrackkappan---raddar-spokvandringen-6.3.392341.ceedeb2b66",
       "image": "https://www.mitti.se/image-3.386497.313413.20261031113723.6528472d0e?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793426400000
-    },
-    {
-      "title": "Här blir kaninen och ormen tv-stjärnor",
-      "description": "UR:s nya barnprogram ”Veterinär Marie” spelas in i Upplands Väsby. Barn tar med sina djur till veterinären och lär sig om ansvar, omsorg och hur sjuka husdjur får hjälp.",
-      "link": "https://www.mitti.se/nyheter/har-blir-kaninen-och-ormen-tvstjarnor-6.3.391861.9c7f61f21c",
-      "guid": "https://www.mitti.se/nyheter/har-blir-kaninen-och-ormen-tvstjarnor-6.3.391861.9c7f61f21c",
-      "image": "https://www.mitti.se/image-3.385720.312458.20261031095147.5664984717?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793426400000
@@ -924,11 +984,11 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793422829000
     },
     {
-      "title": "Malin, 30, hedrar sin mamma: \"Chitchattar vid graven\"",
-      "description": "Fester och skratt eller stilla förtroliga samtal? Alla helgons dag närmar sig och traditionerna för att hedra och minnas sina döda varierar. Mitt i pratade med några södeortsbor om deras tankar.",
-      "link": "https://www.mitti.se/nyheter/malin-30-hedrar-sin-mamma-chitchattar-vid-graven-6.3.392352.d6d438211a",
-      "guid": "https://www.mitti.se/nyheter/malin-30-hedrar-sin-mamma-chitchattar-vid-graven-6.3.392352.d6d438211a",
-      "image": "https://www.mitti.se/image-3.386177.313197.20261031053004.f3fd15c186?format=jpeg",
+      "title": "Återträff efter 62 år – nu ses de varje år",
+      "description": "Elever i Ålstens folkskola ordnar klassåterträffar",
+      "link": "https://www.mitti.se/nyheter/atertraff-efter-62-ar--nu-ses-de-varje-ar-6.3.393146.645a2244ab",
+      "guid": "https://www.mitti.se/nyheter/atertraff-efter-62-ar--nu-ses-de-varje-ar-6.3.393146.645a2244ab",
+      "image": "https://www.mitti.se/image-3.386402.313421.20261031115837.273bca3d73?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793422800000
@@ -944,21 +1004,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793422800000
     },
     {
-      "title": "Årstafältets modulhus blir turistboende i Dalarna",
-      "description": "Modulhusen på Älvkällevägen vid Årstafältet ska flyttas till en skidanläggning i Mora.",
-      "link": "https://www.mitti.se/nyheter/arstafaltets-modulhus-blir-turistboende-i-dalarna-6.3.393502.0239690b03",
-      "guid": "https://www.mitti.se/nyheter/arstafaltets-modulhus-blir-turistboende-i-dalarna-6.3.393502.0239690b03",
-      "image": "https://www.mitti.se/image-3.386922.314049.20261031053538.1.172f2d2579?format=jpeg",
+      "title": "Malin, 30, hedrar sin mamma: \"Chitchattar vid graven\"",
+      "description": "Fester och skratt eller stilla förtroliga samtal? Alla helgons dag närmar sig och traditionerna för att hedra och minnas sina döda varierar. Mitt i pratade med några södeortsbor om deras tankar.",
+      "link": "https://www.mitti.se/nyheter/malin-30-hedrar-sin-mamma-chitchattar-vid-graven-6.3.392352.d6d438211a",
+      "guid": "https://www.mitti.se/nyheter/malin-30-hedrar-sin-mamma-chitchattar-vid-graven-6.3.392352.d6d438211a",
+      "image": "https://www.mitti.se/image-3.386177.313197.20261031053004.f3fd15c186?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793422800000
     },
     {
-      "title": "Återträff efter 62 år – nu ses de varje år",
-      "description": "Elever i Ålstens folkskola ordnar klassåterträffar",
-      "link": "https://www.mitti.se/nyheter/atertraff-efter-62-ar--nu-ses-de-varje-ar-6.3.393146.645a2244ab",
-      "guid": "https://www.mitti.se/nyheter/atertraff-efter-62-ar--nu-ses-de-varje-ar-6.3.393146.645a2244ab",
-      "image": "https://www.mitti.se/image-3.386402.313421.20261031115837.273bca3d73?format=jpeg",
+      "title": "Årstafältets modulhus blir turistboende i Dalarna",
+      "description": "Modulhusen på Älvkällevägen vid Årstafältet ska flyttas till en skidanläggning i Mora.",
+      "link": "https://www.mitti.se/nyheter/arstafaltets-modulhus-blir-turistboende-i-dalarna-6.3.393502.0239690b03",
+      "guid": "https://www.mitti.se/nyheter/arstafaltets-modulhus-blir-turistboende-i-dalarna-6.3.393502.0239690b03",
+      "image": "https://www.mitti.se/image-3.386922.314049.20261031053538.1.172f2d2579?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793422800000
@@ -1024,6 +1084,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793391978000
     },
     {
+      "title": "Levi's 1953 Type II Jacket",
+      "description": "",
+      "link": "https://uncrate.com/levis-1953-type-ii-jacket/",
+      "guid": "https://uncrate.com/levis-1953-type-ii-jacket/",
+      "image": "https://uncrate.com/assets_c/2026/08/levi-typeli-trucker-jacket-5-darkened-thumb-960xauto-192701.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1793391057000
+    },
+    {
       "title": "Vi har testat Sony WH-CH730N",
       "description": "Sony gör ett nytt försök i mellanklassen Sony har haft det lite tufft att hitta något ordentligt fotfäste i mellanklassen när det gäller hörlurar. Med nya Sony WH-CH730N gör de ett tappert försök att städa upp bland gamla synder för folket som inte vill spendera flera tusenlappar på sina hörlurar men ändå ha lite premiumkänsla på öronen. Det första man lägger märke till är att Sony äntligen har gett denna modell en riktig vikbar konstruktion. Föregångaren saknade detta vilket gjorde dem svårare att ta med sig i packningen. Med dessa nya lurar fäller du enkelt ihop kåporna så att de tar minimalt med plats i ryggsäcken. Det andra man märker är att de inte väger allt för mycket med sina 210 gram. Konstruktionen känns dock ganska plastig vilket påminner en om att man lirar i mellanklassens värld. Även knapparna på kåporna känns en smula billiga när man klickar på dem, likaså känslan när man vill reglera storleken på bygeln. Väl på huvudet sitter de skönt och de nya mer ovala öronkuddarna gör att man ibland glömmer bort att man har dem på sig, samt ger en rätt bra passiv dämpning mot omvärlden. Vid blåsigt väder läcker det dock fortfarande in vind så om man hade hoppats ha dessa på sig på cykeln och slippa vindsus så sker det inte här. Ett annat sätt de har försökt hålla nere priset är att lurarna saknar IP-klassning vilket innebär att man inte ska dansa allt för mycket i regnet om man nu tänkt göra det. Ljudet är dock riktigt bra för klassen, i alla fall efter man pillat runt lite i den tillhörande appen. Ljudet direkt ut lådan känns lite dovt men efter man har pillat runt lite på den tiobandiga equalizern och lite andra inställningar får man en betydligt bättre ljudbild som är mer värd Sony-loggan på sidan av lurarna. Då vi som sagt befinner oss i mellanklassen får man klara sig utan högupplösta codecs som LDAC eller aptX HD. Men om man är ute efter sådant köper man antagligen lurar för väldigt mycket mer pengar än vad dessa kostar. Läs vidare och kommentera: https://feber.se/pryl/vi-har-testat-sony-wh-ch730n/497923/ Läs mer om Sony , Bluetooth , brusreducering , Sony WH-CH730N , hörlurar , V1-chip",
       "link": "https://feber.se/pryl/vi-har-testat-sony-wh-ch730n/497923/?utm_source=rss&utm_medium=feed",
@@ -1042,16 +1112,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1793390400000
-    },
-    {
-      "title": "LELO Black Friday Event",
-      "description": "",
-      "link": "https://uncrate.com/lelo-black-friday-event/",
-      "guid": "https://uncrate.com/lelo-black-friday-event/",
-      "image": "https://uncrate.com/assets_c/2026/10/lelo-1-thumb-960xauto-193700.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1793388640000
     },
     {
       "title": "New age-retreat spårar ur i ny film",
@@ -1395,10 +1455,10 @@ window.KALLRUMMET_NEWS_CACHE = {
     },
     {
       "title": "Vem betalar för välfärden när AI tar jobben?",
-      "description": "Vad är det för framtid som AI ska ta oss till? Frågar du Anthropic som i måndags lämnade in sin ansökan om börsnotering är den närmast himmelsk. AI kan ”böja den geopolitiska historiens båge mot frihet”, främja ekonomisk tillväxt överallt och bota ”sjukdomar som har plågat mänskligheten i årtusenden”. Anthropic går så långt att de ber potentiella investerare att inte satsa sina pengar av enbart ekonomiska skäl, utan för att vara en del av ”något större”. Det finns förvisso risk att avancerade AI-system kan ”utgöra katastrofala eller existentiella risker för mänskligheten”, men det vill Anthropic hjälpa oss att undvika. ”Vårt mål är att hjälpa mänskligheten att staka ut en säker väg genom denna tekniska utveckling, öppna nya gränser för upptäckter och skapa en tid av mirakel”, skriver grundarna. Det är… stora ord. Och även om jag inte tvivlar en sekund på att Anthropics företrädare menar detta, så är det inte riktigt tron på mirakel som gör att företaget väntas få en värdering på uppåt 2 000 miljarder kronor efter noteringen, eller att hela techsektorn gör historiens största investeringar i AI-infrastruktur. Det riktiga skälet, ”marknadens” syn, visas förtjänstfullt i en artikel i Wall Street Journal i veckan. Marknadens husorgan har hittat en passage i prospektet där Anthropic räknat ut att värdet på allt jobb världens kunskapsarbetare gör uppgår till 400 000 miljarder kronor. Företaget menar att AI kan ”expandera” det värdet genom att göra kunskapsarbetarna mer produktiva. Wall Street Journal tolkar det som något annat: det här är den totala potentiella marknaden för Anthropics teknik. Det vill säga hur mycket arbete som skulle kunna göras av AI istället för av människor. För det här är ju en av de mer eller mindre explicita premisserna för hela AI-rallyt. En central del i den ekonomiska logiken ligger i att AI gör jobbet till en betydligt lägre kostnad än människor. Vi må inte ha sett någon ”AI-jobbapokalyps” ännu, och det är långt ifrån säkert att det kommer att ske, men det är likväl en stor bit av kalkylen. AI-bolagens företrädare brukar vara öppna med att en ”omställning av arbetsmarknaden” kan ske men hävdar oftast att AI främst kommer att öka produktiviteten, och skapa fler nya jobb än som försvinner. Vilka de här nya jobben är finns det sällan svar på. När Nvidias vd Jensen Huang nyligen fick svara på frågan sa han att det finns massor av sektorer i dag som inte fanns förr, som hälsocenter och spa-anläggningar. (De gamla grekerna skulle nog ha en åsikt om det). Hur som helst, det går förstås att debattera exakt hur stor marknadens förväntan på AI-jobbslakten är, och hur mycket annan potential som vägs in i rekordinvesteringarna. Men jag tycker det säger något när storbanken Barclays förra veckan hänvisade till AI inte för att skapa nya intäkter eller öka produktiviteten utan för att kapa kostnader. 5 000 personer får sparken . Frågan är: vad händer om förväntningarna uppfylls? Om alla tjänstemän verkligen ersätts med AI? Redan när regeringen gav AI-kommissionen sitt uppdrag för tre år sedan efterlyste jag en diskussion om de stora frågorna i AI-debatten, och jag kan inte säga att jag sett särskilt mycket av det. Allra minst från politiskt håll. Den landar på sin höjd i frågor om vidareutbildning och omställning. Ta en sådan sak som värdet och vem som får vinsterna. Om pengarna som företagen i dag lägger på löner går till AI-tjänster istället kommer det ske en enorm värdeförflyttning till stora teknikleverantörer och kapitalägare. Anthropic varnar till och med för detta i sitt prospekt: ”AI som används i stor skala har också potential att koncentrera makt och välstånd både inom och mellan länder på ett sätt som kan undergräva förtroendet, skada samhället och destabilisera den geopolitiska ordningen.” För förutom att värdet av lönearbetet riskerar att flyttas från den lokala ekonomin till ett fåtal leverantörer i företrädesvis USA och möjligen till företags aktieägare så innebär det ju också att den nuvarande skattebasen urholkas, om det inte plötsligt uppstår mängder av nya jobb som AI inte kan göra. För ett välfärdssamhälle som Sverige skulle effekten förstås bli katastrofal utan en skattereform som saknar motstycke. Vårt skattesystem är inte utformat för den här nya fördelningen av inkomster, särskilt inte när vinsterna dessutom i stor skala kan flyttas till andra länder. Hur ska det enorma intäktsbortfallet för staten annars hanteras? Vilka delar av samhället ska vi sluta finansiera? Och vad ska folk göra istället? Hur ska de leva? För vilka pengar? Ska vi få medborgarlön och vem ska i så fall betala den? Och hur kommer vi att må? Som The Economist konstaterar finns det gott om forskning som visar hur stort värde arbete har, utöver det ekonomiska, för människor. Inte ens de flesta lotterivinnare slutar jobba. Men visst, det kan ju vara så att tekniken inte håller vad den lovar och då kan man ju strunta i de här diskussionerna. Tunga investeraren Apollo Asset Management konstaterade häromdagen att AI än så länge levererat noll (!) ekonomisk avkastning till amerikanska storföretag, techbranschen borträknad. Problemet är bara att om det är så, då har vi en annan kris för dörren. Om inte AI visar sitt värde kommer de historiska investeringarna och de skyhöga värderingarna skrivas ner rejält. Och jag vet inte om folk i allmänhet förstår hur mycket av samhällsekonomin som är knuten till AI-rallyt, direkt eller indirekt. Ett stresstest av den norska oljefonden visar att den riskerar att tappa 8 000 miljarder norska kronor i värde i händelse av en AI-krasch, vilket är nästan 40 procent av den gigantiska fondens värde. Det vore onekligen intressant att se en liknande övning på exempelvis de svenska AP-fonderna som har en betydande direkt exponering mot amerikansk tech och ännu större indirekt. En snabb servettskiss sätter summan för AP-fondernas exponering mot ”Big 10 AI”-bolagen till över 500 miljarder kronor, och allra störst är den hos högriskfonden AP7 där miljoner svenskars premiepension förvaltas. Och det är som sagt de direkta effekterna, sedan tillkommer allt annat elände som en global finanskris för med sig. Nu tror jag varken Anthropics utopi eller en global kris står omedelbart för dörren (det senare ligger dock lite närmare), troligen kommer rallyt att fortsätta ett tag till på ren potential så länge AI- och techbolagen visar tillväxt och lyckas finansiera sina investeringar. Men för att allt detta inte ska sluta i något väldigt, väldigt jobbigt på ett eller annat sätt, ja då krävs det nog mirakel. — Den här krönikan är hämtad ur CS Veckobrev, ett personligt nyhetsbrev med lästips, länktips och analyser skickat direkt från chefredaktör Marcus Jerrängs skrivbord. Vill du också ha nyhetsbrevet på fredagar? Skriv upp dig för en kostnadsfri prenumeration här.",
+      "description": "Vad är det för framtid som AI ska ta oss till? Frågar du Anthropic som i måndags lämnade in sin ansökan om börsnotering är den närmast himmelsk. AI kan ”böja den geopolitiska historiens båge mot frihet”, främja ekonomisk tillväxt överallt och bota ”sjukdomar som har plågat mänskligheten i årtusenden”. Anthropic går så långt att de ber potentiella investerare att inte satsa sina pengar av enbart ekonomiska skäl, utan för att vara en del av ”något större”. Det finns förvisso risk att avancerade AI-system kan ”utgöra katastrofala eller existentiella risker för mänskligheten”, men det vill Anthropic hjälpa oss att undvika. ”Vårt mål är att hjälpa mänskligheten att staka ut en säker väg genom denna tekniska utveckling, öppna nya gränser för upptäckter och skapa en tid av mirakel”, skriver grundarna. Det är… stora ord. Och även om jag inte tvivlar en sekund på att Anthropics företrädare menar detta, så är det inte riktigt tron på mirakel som gör att företaget väntas få en värdering på uppåt 20 000 miljarder kronor efter noteringen, eller att hela techsektorn gör historiens största investeringar i AI-infrastruktur. Det riktiga skälet, ”marknadens” syn, visas förtjänstfullt i en artikel i Wall Street Journal i veckan. Marknadens husorgan har hittat en passage i prospektet där Anthropic räknat ut att värdet på allt jobb världens kunskapsarbetare gör uppgår till 400 000 miljarder kronor. Företaget menar att AI kan ”expandera” det värdet genom att göra kunskapsarbetarna mer produktiva. Wall Street Journal tolkar det som något annat: det här är den totala potentiella marknaden för Anthropics teknik. Det vill säga hur mycket arbete som skulle kunna göras av AI istället för av människor. För det här är ju en av de mer eller mindre explicita premisserna för hela AI-rallyt. En central del i den ekonomiska logiken ligger i att AI gör jobbet till en betydligt lägre kostnad än människor. Vi må inte ha sett någon ”AI-jobbapokalyps” ännu, och det är långt ifrån säkert att det kommer att ske, men det är likväl en stor bit av kalkylen. AI-bolagens företrädare brukar vara öppna med att en ”omställning av arbetsmarknaden” kan ske men hävdar oftast att AI främst kommer att öka produktiviteten, och skapa fler nya jobb än som försvinner. Vilka de här nya jobben är finns det sällan svar på. När Nvidias vd Jensen Huang nyligen fick svara på frågan sa han att det finns massor av sektorer i dag som inte fanns förr, som hälsocenter och spa-anläggningar. (De gamla grekerna skulle nog ha en åsikt om det). Hur som helst, det går förstås att debattera exakt hur stor marknadens förväntan på AI-jobbslakten är, och hur mycket annan potential som vägs in i rekordinvesteringarna. Men jag tycker det säger något när storbanken Barclays förra veckan hänvisade till AI inte för att skapa nya intäkter eller öka produktiviteten utan för att kapa kostnader. 5 000 personer får sparken . Frågan är: vad händer om förväntningarna uppfylls? Om alla tjänstemän verkligen ersätts med AI? Redan när regeringen gav AI-kommissionen sitt uppdrag för tre år sedan efterlyste jag en diskussion om de stora frågorna i AI-debatten, och jag kan inte säga att jag sett särskilt mycket av det. Allra minst från politiskt håll. Den landar på sin höjd i frågor om vidareutbildning och omställning. Ta en sådan sak som värdet och vem som får vinsterna. Om pengarna som företagen i dag lägger på löner går till AI-tjänster istället kommer det ske en enorm värdeförflyttning till stora teknikleverantörer och kapitalägare. Anthropic varnar till och med för detta i sitt prospekt: ”AI som används i stor skala har också potential att koncentrera makt och välstånd både inom och mellan länder på ett sätt som kan undergräva förtroendet, skada samhället och destabilisera den geopolitiska ordningen.” För förutom att värdet av lönearbetet riskerar att flyttas från den lokala ekonomin till ett fåtal leverantörer i företrädesvis USA och möjligen till företags aktieägare så innebär det ju också att den nuvarande skattebasen urholkas, om det inte plötsligt uppstår mängder av nya jobb som AI inte kan göra. För ett välfärdssamhälle som Sverige skulle effekten förstås bli katastrofal utan en skattereform som saknar motstycke. Vårt skattesystem är inte utformat för den här nya fördelningen av inkomster, särskilt inte när vinsterna dessutom i stor skala kan flyttas till andra länder. Hur ska det enorma intäktsbortfallet för staten annars hanteras? Vilka delar av samhället ska vi sluta finansiera? Och vad ska folk göra istället? Hur ska de leva? För vilka pengar? Ska vi få medborgarlön och vem ska i så fall betala den? Och hur kommer vi att må? Som The Economist konstaterar finns det gott om forskning som visar hur stort värde arbete har, utöver det ekonomiska, för människor. Inte ens de flesta lotterivinnare slutar jobba. Men visst, det kan ju vara så att tekniken inte håller vad den lovar och då kan man ju strunta i de här diskussionerna. Tunga investeraren Apollo Asset Management konstaterade häromdagen att AI än så länge levererat noll (!) ekonomisk avkastning till amerikanska storföretag, techbranschen borträknad. Problemet är bara att om det är så, då har vi en annan kris för dörren. Om inte AI visar sitt värde kommer de historiska investeringarna och de skyhöga värderingarna skrivas ner rejält. Och jag vet inte om folk i allmänhet förstår hur mycket av samhällsekonomin som är knuten till AI-rallyt, direkt eller indirekt. Ett stresstest av den norska oljefonden visar att den riskerar att tappa 8 000 miljarder norska kronor i värde i händelse av en AI-krasch, vilket är nästan 40 procent av den gigantiska fondens värde. Det vore onekligen intressant att se en liknande övning på exempelvis de svenska AP-fonderna som har en betydande direkt exponering mot amerikansk tech och ännu större indirekt. En snabb servettskiss sätter summan för AP-fondernas exponering mot ”Big 10 AI”-bolagen till över 500 miljarder kronor, och allra störst är den hos högriskfonden AP7 där miljoner svenskars premiepension förvaltas. Och det är som sagt de direkta effekterna, sedan tillkommer allt annat elände som en global finanskris för med sig. Nu tror jag varken Anthropics utopi eller en global kris står omedelbart för dörren (det senare ligger dock lite närmare), troligen kommer rallyt att fortsätta ett tag till på ren potential så länge AI- och techbolagen visar tillväxt och lyckas finansiera sina investeringar. Men för att allt detta inte ska sluta i något väldigt, väldigt jobbigt på ett eller annat sätt, ja då krävs det nog mirakel. — Den här krönikan är hämtad ur CS Veckobrev, ett personligt nyhetsbrev med lästips, länktips och analyser skickat direkt från chefredaktör Marcus Jerrängs skrivbord. Vill du också ha nyhetsbrevet på fredagar? Skriv upp dig för en kostnadsfri prenumeration här.",
       "link": "https://computersweden.se/article/4242696/vem-betalar-for-valfarden-nar-ai-tar-jobben.html",
       "guid": "https://computersweden.se/article/4242696/vem-betalar-for-valfarden-nar-ai-tar-jobben.html",
-      "image": "https://computersweden.se/wp-content/uploads/2026/10/4242696-0-45669600-1793365078-shutterstock_2320153383.jpg?quality=50&#038;strip=all",
+      "image": "https://computersweden.se/wp-content/uploads/2026/10/4242696-0-28022900-1793467197-shutterstock_2320153383.jpg?quality=50&#038;strip=all",
       "source": "Computer Sweden",
       "sourceKey": "https://computersweden.se/feed/",
       "timestamp": 1793365068000
@@ -1442,16 +1502,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793363830000
-    },
-    {
-      "title": "Levi's 1953 Type II Jacket",
-      "description": "",
-      "link": "https://uncrate.com/levis-1953-type-ii-jacket/",
-      "guid": "https://uncrate.com/levis-1953-type-ii-jacket/",
-      "image": "https://uncrate.com/assets_c/2026/08/levi-typeli-trucker-jacket-5-darkened-thumb-960xauto-192701.jpg",
-      "source": "Uncrate",
-      "sourceKey": "https://feeds.feedburner.com/uncrate",
-      "timestamp": 1793363457000
     },
     {
       "title": "Reddit stänger dörren för oinloggade",
@@ -2022,6 +2072,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Uncrate",
       "sourceKey": "https://feeds.feedburner.com/uncrate",
       "timestamp": 1793300400000
+    },
+    {
+      "title": "The Y Code Advanced Eye Serum",
+      "description": "",
+      "link": "https://uncrate.com/the-y-code-advanced-eye-serum/",
+      "guid": "https://uncrate.com/the-y-code-advanced-eye-serum/",
+      "image": "https://uncrate.com/assets_c/2026/06/the-y-code-advanced-eye-serum-11-darkened-thumb-960xauto-191610.jpg",
+      "source": "Uncrate",
+      "sourceKey": "https://feeds.feedburner.com/uncrate",
+      "timestamp": 1793298600000
     },
     {
       "title": "Hans hjältejycke blev staty: ”Var min själ”",
@@ -2694,36 +2754,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793236385000
     },
     {
-      "title": "Köp - och läs - torsdagens matchprogram!",
-      "description": "Matchen mot Sirius har förutsättningar att bli en av de där klassiska matcherna som medborgarna i Bajenland talar om långt efteråt. – I sådana lägen blir det tryckta matchprogrammet en souvenir värd a",
-      "link": "https://www.hammarbyfotboll.se/nyheter/koep-och-laes-torsdagens-matchprogram",
-      "guid": "2c6a2991-771a-44af-8dfc-beb1df8be747",
-      "image": "https://cdn.sanity.io/images/8k2hu6rb/production/ff8fc3dc2cf7f1f8af5a27eaa0578b30fb342a0b-2574x1190.jpg?w=1000&amp;auto=format&amp;q=80",
-      "source": "Hammarby Fotboll",
-      "sourceKey": "https://www.hammarbyfotboll.se/feed/herrarrss.xml",
-      "timestamp": 1793221859000
-    },
-    {
-      "title": "En enda vana kan avgöra din lycka, säger forskarna bakom ny studie – och de har själva börjat göra det",
-      "description": "En liten forskargrupp har sammanställt 600 års forskning. Nu kan de avslöja de få vanor som de själva har infört i sina liv för att bli lyckligare – en vana i synnerhet överskuggar alla de andra.",
-      "link": "https://illvet.se/manniskan/lyckoforskare-ar-nu-sakra-receptet-till-ett-gott-liv-ligger-i-en-enda-enkel-vana-i-vardagen",
-      "guid": "https://illvet.se/manniskan/lyckoforskare-ar-nu-sakra-receptet-till-ett-gott-liv-ligger-i-en-enda-enkel-vana-i-vardagen",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1793219455000
-    },
-    {
-      "title": "Ole Rasmussen stod på en byggnadsställning när Berlinmuren föll: ”Jag stod bara där och tittade. Det var en syn man aldrig tröttnade på”",
-      "description": "Ole Rasmussen befann sig av en slump i Berlin när östtyskarna började strömma in i Västberlin: ”Jag sprang in på en krog. Det var bara ett fåtal som hängde vid baren, för festen pågick förstås ute på gatan. Jag fick låna telefonen”.",
-      "link": "https://varldenshistoria.se/krig/kalla-kriget/berlinmuren/ole-rasmussen-stod-pa-en-byggnadsstallning-nar-berlinmuren-foll-jag-stod-bara-dar-och-tittade-det-var-en-syn-man-aldrig-trottnade-pa",
-      "guid": "https://varldenshistoria.se/krig/kalla-kriget/berlinmuren/ole-rasmussen-stod-pa-en-byggnadsstallning-nar-berlinmuren-foll-jag-stod-bara-dar-och-tittade-det-var-en-syn-man-aldrig-trottnade-pa",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1793214047000
-    },
-    {
       "title": "Tre nya soptunnor – tusen frågor",
       "description": "De första Nackaborna har fått sina nya sopkärl. En del tror att sopsorteringen blir enklare. Andra har svårt att komma ihåg vilket kärl som skulle ut den här veckan och åt vilket håll hjulen skulle riktas.",
       "link": "https://www.mitti.se/nyheter/tre-nya-soptunnor--tusen-fragor-6.3.390907.d04b416e86",
@@ -2812,16 +2842,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793203936000
-    },
-    {
-      "title": "Svensk arkeolog gjorde spännande gravfynd under vägarbete: ”Det var nästan overkligt”",
-      "description": "När riksväg 86 skulle byggas om fick arkeologerna plötsligt fullt upp, eftersom de nya planerna innebar att vägen skulle gå rakt igenom flera 1 500 år gamla gravhögar. Nu jublar de över sina fynd.",
-      "link": "https://varldenshistoria.se/kultur/arkeologi/svensk-arkeolog-gjorde-spannande-gravfynd-under-vagarbete-det-var-nastan-overkligt",
-      "guid": "https://varldenshistoria.se/kultur/arkeologi/svensk-arkeolog-gjorde-spannande-gravfynd-under-vagarbete-det-var-nastan-overkligt",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1793203200000
     },
     {
       "title": "Mordbrännare döms till 3,5 års fängelse",
@@ -3244,26 +3264,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793166704000
     },
     {
-      "title": "Vallentunas landsbygd tryggast länet",
-      "description": "Vallentunas landsbygd tryggast i länet enligt polisens undersökning",
-      "link": "https://www.mitti.se/nyheter/vallentunas-landsbygd-tryggast-lanet-6.3.392113.a024526e8f",
-      "guid": "https://www.mitti.se/nyheter/vallentunas-landsbygd-tryggast-lanet-6.3.392113.a024526e8f",
-      "image": "https://www.mitti.se/image-3.382295.312774.20261028053057.075bc477fa?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793163600000
-    },
-    {
-      "title": "V lämnade redovisning för sent – blir utan partistöd",
-      "description": "Vänsterpartiet i Haninge lämnade in redovisningen av partistödet 8 dagar för sent. Kommunfullmäktige beslutar nu att partiet blir utan kommunalt partistöd nästa år.",
-      "link": "https://www.mitti.se/nyheter/v-lamnade-redovisning-for-sent--blir-utan-partistod-6.3.393311.782cb2e85a",
-      "guid": "https://www.mitti.se/nyheter/v-lamnade-redovisning-for-sent--blir-utan-partistod-6.3.393311.782cb2e85a",
-      "image": "https://www.mitti.se/image-3.386796.313619.20261030141340.1.79255a0d1c?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793163600000
-    },
-    {
       "title": "Staden lovar bättre snöröjning",
       "description": "Snödrivor, is och halka - och kraftigt försenade bussar. Så ska snöröjningen bli bättre i vinter.",
       "link": "https://www.mitti.se/nyheter/staden-lovar-battre-snorojning-6.3.391948.fb1ee42f22",
@@ -3279,6 +3279,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/stadsodling-i-blackeberg-fick-halv-tumme-upp-6.3.391259.ce441e9ba0",
       "guid": "https://www.mitti.se/nyheter/stadsodling-i-blackeberg-fick-halv-tumme-upp-6.3.391259.ce441e9ba0",
       "image": "https://www.mitti.se/image-3.385459.312223.20261028053057.80e6c5e534?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793163600000
+    },
+    {
+      "title": "V lämnade redovisning för sent – blir utan partistöd",
+      "description": "Vänsterpartiet i Haninge lämnade in redovisningen av partistödet 8 dagar för sent. Kommunfullmäktige beslutar nu att partiet blir utan kommunalt partistöd nästa år.",
+      "link": "https://www.mitti.se/nyheter/v-lamnade-redovisning-for-sent--blir-utan-partistod-6.3.393311.782cb2e85a",
+      "guid": "https://www.mitti.se/nyheter/v-lamnade-redovisning-for-sent--blir-utan-partistod-6.3.393311.782cb2e85a",
+      "image": "https://www.mitti.se/image-3.386796.313619.20261030141340.1.79255a0d1c?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793163600000
+    },
+    {
+      "title": "Vallentunas landsbygd tryggast länet",
+      "description": "Vallentunas landsbygd tryggast i länet enligt polisens undersökning",
+      "link": "https://www.mitti.se/nyheter/vallentunas-landsbygd-tryggast-lanet-6.3.392113.a024526e8f",
+      "guid": "https://www.mitti.se/nyheter/vallentunas-landsbygd-tryggast-lanet-6.3.392113.a024526e8f",
+      "image": "https://www.mitti.se/image-3.382295.312774.20261028053057.075bc477fa?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793163600000
@@ -3364,16 +3384,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793124900000
     },
     {
-      "title": "Fem Väsbykonstnärer på poppis Akvarellsalong",
-      "description": "Väsby Konsthall öppnar Akvarellsalong Sigma Nu med 85 antagna konstnärer från hela Sverige. Fem Väsbykonstnärer medverkar och årets akvarellstipendium går till Tina Thagesson.",
-      "link": "https://www.mitti.se/nyheter/fem-vasbykonstnarer-pa-poppis-akvarellsalong-6.3.391855.b7a9e880d1",
-      "guid": "https://www.mitti.se/nyheter/fem-vasbykonstnarer-pa-poppis-akvarellsalong-6.3.391855.b7a9e880d1",
-      "image": "https://www.mitti.se/image-3.385853.312467.20261027183129.f1480e08b8?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793124000000
-    },
-    {
       "title": "Nygamla dängor om gamla Väsby i ny revy",
       "description": "SPF-seniorernas revygrupp Kulpås(c)en bjuder på sång, sketcher och lokal humor i Messingen i Upplands Väsby den 7 november. Elfte revyn med nio på scen och tre musiker.",
       "link": "https://www.mitti.se/nyheter/nygamla-dangor-om-gamla-vasby-i-ny-revy-6.3.387116.8105d1b91a",
@@ -3389,6 +3399,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/nattrazzian-pa-e4an-avslojade-mer-an-rattfylla-6.3.393094.f973ee8d30",
       "guid": "https://www.mitti.se/nyheter/nattrazzian-pa-e4an-avslojade-mer-an-rattfylla-6.3.393094.f973ee8d30",
       "image": "https://www.mitti.se/image-3.386575.313560.20261027183129.ce937fe266?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793124000000
+    },
+    {
+      "title": "Fem Väsbykonstnärer på poppis Akvarellsalong",
+      "description": "Väsby Konsthall öppnar Akvarellsalong Sigma Nu med 85 antagna konstnärer från hela Sverige. Fem Väsbykonstnärer medverkar och årets akvarellstipendium går till Tina Thagesson.",
+      "link": "https://www.mitti.se/nyheter/fem-vasbykonstnarer-pa-poppis-akvarellsalong-6.3.391855.b7a9e880d1",
+      "guid": "https://www.mitti.se/nyheter/fem-vasbykonstnarer-pa-poppis-akvarellsalong-6.3.391855.b7a9e880d1",
+      "image": "https://www.mitti.se/image-3.385853.312467.20261027183129.f1480e08b8?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793124000000
@@ -3814,21 +3834,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793079000000
     },
     {
-      "title": "Dna kan avslöja bakteriebov på Brommas bad",
-      "description": "Flera åtgärder för att rena Johannelundsbadet från bakterier",
-      "link": "https://www.mitti.se/nyheter/dna-kan-avsloja-bakteriebov-pa-brommas-bad-6.3.391290.93f7fbc076",
-      "guid": "https://www.mitti.se/nyheter/dna-kan-avsloja-bakteriebov-pa-brommas-bad-6.3.391290.93f7fbc076",
-      "image": "https://www.mitti.se/image-3.188157.312261.20261027120442.10d51673c9?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1793077200000
-    },
-    {
       "title": "Så mycket är knarket i jätteåtalet värt",
       "description": "Sju män åtalas för att ha hanterat knark som på gatan är värt över 140 miljoner kronor.",
       "link": "https://www.mitti.se/nyheter/sa-mycket-ar-knarket-i-jatteatalet-vart-6.3.391318.b1642579a0",
       "guid": "https://www.mitti.se/nyheter/sa-mycket-ar-knarket-i-jatteatalet-vart-6.3.391318.b1642579a0",
       "image": "https://www.mitti.se/image-3.379402.312299.20261027065726.82682ce614?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1793077200000
+    },
+    {
+      "title": "Dna kan avslöja bakteriebov på Brommas bad",
+      "description": "Flera åtgärder för att rena Johannelundsbadet från bakterier",
+      "link": "https://www.mitti.se/nyheter/dna-kan-avsloja-bakteriebov-pa-brommas-bad-6.3.391290.93f7fbc076",
+      "guid": "https://www.mitti.se/nyheter/dna-kan-avsloja-bakteriebov-pa-brommas-bad-6.3.391290.93f7fbc076",
+      "image": "https://www.mitti.se/image-3.188157.312261.20261027120442.10d51673c9?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793077200000
@@ -4294,21 +4314,21 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792993140000
     },
     {
-      "title": "Man drog handen över halsen – frias för hot mot politiker",
-      "description": "En man frias från åtal om olaga hot mot en politiker i Haninge efter en gest över halsen under kommunfullmäktige. Tingsrätten bedömer att rörelsen kan ha varit en uppmaning att vara tyst.",
-      "link": "https://www.mitti.se/nyheter/man-drog-handen-over-halsen--frias-for-hot-mot-politiker-6.3.392030.34518d1461",
-      "guid": "https://www.mitti.se/nyheter/man-drog-handen-over-halsen--frias-for-hot-mot-politiker-6.3.392030.34518d1461",
-      "image": "https://www.mitti.se/image-3.359952.312558.20261028182053.1.493c2ce8d3?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1792991700000
-    },
-    {
       "title": "13 000 läxhjälpstillfällen blev inte av",
       "description": "Läxhjälp i Stockholms stad – så många tillfällen blev inte av – nu måste staden betala tillbaka till Skolverket",
       "link": "https://www.mitti.se/nyheter/13-000-laxhjalpstillfallen-blev-inte-av-6.3.390637.c263de2161",
       "guid": "https://www.mitti.se/nyheter/13-000-laxhjalpstillfallen-blev-inte-av-6.3.390637.c263de2161",
       "image": "https://www.mitti.se/image-3.194383.311402.20261026120123.1.798985b250?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1792991700000
+    },
+    {
+      "title": "Man drog handen över halsen – frias för hot mot politiker",
+      "description": "En man frias från åtal om olaga hot mot en politiker i Haninge efter en gest över halsen under kommunfullmäktige. Tingsrätten bedömer att rörelsen kan ha varit en uppmaning att vara tyst.",
+      "link": "https://www.mitti.se/nyheter/man-drog-handen-over-halsen--frias-for-hot-mot-politiker-6.3.392030.34518d1461",
+      "guid": "https://www.mitti.se/nyheter/man-drog-handen-over-halsen--frias-for-hot-mot-politiker-6.3.392030.34518d1461",
+      "image": "https://www.mitti.se/image-3.359952.312558.20261028182053.1.493c2ce8d3?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792991700000
@@ -4624,16 +4644,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1792904640000
     },
     {
-      "title": "Efter två år – Henriks bastudröm kan bli verklighet",
-      "description": "Bastu planeras på Ängbybadet",
-      "link": "https://www.mitti.se/nyheter/efter-tva-ar--henriks-bastudrom-kan-bli-verklighet-6.3.392229.9e38087b99",
-      "guid": "https://www.mitti.se/nyheter/efter-tva-ar--henriks-bastudrom-kan-bli-verklighet-6.3.392229.9e38087b99",
-      "image": "https://www.mitti.se/image-3.386047.312876.20261025053059.2e968e21e0?format=jpeg",
-      "source": "Mitti",
-      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
-      "timestamp": 1792904400000
-    },
-    {
       "title": "Stadion får nya LED-lampor – uppfyller inte Fifas krav",
       "description": "Den nuvarande belysningen på Stockholms stadion är föråldrad. Det menar fastighetskontoret i Stockholms stad, och pekar på att dagens lampor av typen metallhalogen inte uppfyller kraven från Internationella friidrottsförbundet och Fifa.",
       "link": "https://www.mitti.se/nyheter/stadion-far-nya-ledlampor--uppfyller-inte-fifas-krav-6.3.392102.3fc1687ff9",
@@ -4649,6 +4659,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "link": "https://www.mitti.se/nyheter/har-vill-joakim-att-varbergsborna-ska-fa-byta-bocker-6.3.392448.939bd3b21d",
       "guid": "https://www.mitti.se/nyheter/har-vill-joakim-att-varbergsborna-ska-fa-byta-bocker-6.3.392448.939bd3b21d",
       "image": "https://www.mitti.se/image-3.386167.313188.20261025120704.8cfcfd0153?format=jpeg",
+      "source": "Mitti",
+      "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+      "timestamp": 1792904400000
+    },
+    {
+      "title": "Efter två år – Henriks bastudröm kan bli verklighet",
+      "description": "Bastu planeras på Ängbybadet",
+      "link": "https://www.mitti.se/nyheter/efter-tva-ar--henriks-bastudrom-kan-bli-verklighet-6.3.392229.9e38087b99",
+      "guid": "https://www.mitti.se/nyheter/efter-tva-ar--henriks-bastudrom-kan-bli-verklighet-6.3.392229.9e38087b99",
+      "image": "https://www.mitti.se/image-3.386047.312876.20261025053059.2e968e21e0?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1792904400000
