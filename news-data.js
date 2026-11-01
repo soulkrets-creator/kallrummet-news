@@ -1,11 +1,41 @@
 window.KALLRUMMET_NEWS_CACHE = {
-  "updatedAt": "2026-10-31T23:50:40.352Z",
+  "updatedAt": "2026-11-01T03:05:24.525Z",
   "feedCount": 12,
   "sourceCount": 12,
   "items": [
     {
-      "title": "Nya jätteprotester i Frankrike – attackerar med fyrverkerier",
-      "description": "Demonstrationerna har spårat ur i Tyskland. Enligt RTL är det ”kaos” i Köln – samtidigt som maskerade personer har plundrat butiker i Frankfurt. Bland annat har det stulits skor och vapen, enligt nyhetsbyråer.",
+      "title": "Iran hotar med ”maximalt” svar",
+      "description": "Donald Trump planerar att återuppta attackerna mot Iran – dagen efter mellanårsvalet, uppger MS Now . Enligt källor i Mellanöstern har presidenten sagt åt sina allierade att förbereda sig. En attack kommer att bemötas med ”maximal avskräckning”, svarar Irans högsta ledare Mojtaba Khamenei.",
+      "link": "https://www.expressen.se/nyheter/varlden/iran-hotar-med-maximalt-svar/",
+      "guid": "https://www.expressen.se/nyheter/varlden/iran-hotar-med-maximalt-svar/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793500436000
+    },
+    {
+      "title": "Strid mellan demokrater på upploppet – El-Sayed drar tillbaka inbjudan",
+      "description": "Med bara dagar kvar till mellanårsvalet har en infekterad strid blossat upp hos demokraterna. Och det i den kanske enskilt viktigaste delstaten Michigan. – Håll dig borta, ska ha varit senatskandidaten Abdul El-Sayeds budskap till sin primärvalsmotståndare Haley Stevens.",
+      "link": "https://www.expressen.se/nyheter/varlden/strid-mellan-demokrater-pa-upploppet-drar-tillbaka-inbjudan/",
+      "guid": "https://www.expressen.se/nyheter/varlden/strid-mellan-demokrater-pa-upploppet-drar-tillbaka-inbjudan/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793496973000
+    },
+    {
+      "title": "Meghan stoppades från att avslöja pappa",
+      "description": "Meghan ville berätta för allmänheten om misstankarna mot pappan Thomas Markle redan 2019. Hon avråddes av polis. – Låt oss ta hand om det, sa en av hennes livvakter.",
+      "link": "https://www.expressen.se/nyheter/kungligt/meghan-stoppades-fran-att-avsloja-pappa/",
+      "guid": "https://www.expressen.se/nyheter/kungligt/meghan-stoppades-fran-att-avsloja-pappa/",
+      "image": "",
+      "source": "Expressen Nyheter",
+      "sourceKey": "https://feeds.expressen.se/nyheter/",
+      "timestamp": 1793492758000
+    },
+    {
+      "title": "Jätteprotester växer – sprider sig till Tyskland",
+      "description": "Demonstrationerna har spårat ur i Tyskland. Enligt RTL är det ”kaos” i Köln – samtidigt som maskerade personer har plundrat butiker i Frankfurt. Bland annat har det stulits skor och vapen.",
       "link": "https://www.expressen.se/nyheter/varlden/nya-jatteprotester-i-frankrike-attackerar-med-fyrverkerier/",
       "guid": "https://www.expressen.se/nyheter/varlden/nya-jatteprotester-i-frankrike-attackerar-med-fyrverkerier/",
       "image": "",
@@ -54,6 +84,26 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793480610000
     },
     {
+      "title": "Ledande expert inom vikingamusik: ”Vikingarna varken trummade eller spelade musik på det sätt som vi tror”",
+      "description": "”Musik” var inte ens ett ord som man använde på vikingatiden. Ändå kunde sånger och rytmiska ljud ofta höras i de små vikingabyarna. Tillsammans med en expert får vi en närmare inblick i denna bortglömda del av vikingarnas vardag.",
+      "link": "https://varldenshistoria.se/civilisationer/vikingar/ledande-expert-inom-vikingamusik-vikingarna-varken-trummade-eller-spelade-musik-pa-det-satt-som-vi-tror",
+      "guid": "https://varldenshistoria.se/civilisationer/vikingar/ledande-expert-inom-vikingamusik-vikingarna-varken-trummade-eller-spelade-musik-pa-det-satt-som-vi-tror",
+      "image": "",
+      "source": "Världens Historia",
+      "sourceKey": "https://varldenshistoria.se/feed/rss",
+      "timestamp": 1793478632000
+    },
+    {
+      "title": "En dold sak avgör din hälsa och din hemort, visar en studie av en miljon människor",
+      "description": "Du tror kanske att du agerar utifrån din egen fria vilja, men din hälsa, dina vanor och till och med platsen där du väljer att bo styrs eventuellt av en liten förbisedd sak som forskarna först nu har fått upp ögonen för.",
+      "link": "https://illvet.se/manniskan/stor-studie-av-en-miljon-manniskor-en-dold-faktor-kan-avgora-din-personlighet-och-var-du-valjer-att-bo",
+      "guid": "https://illvet.se/manniskan/stor-studie-av-en-miljon-manniskor-en-dold-faktor-kan-avgora-din-personlighet-och-var-du-valjer-att-bo",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1793478628000
+    },
+    {
       "title": "USA:s ambassad varnar för dåd i Moskva",
       "description": "Ett terrordåd kan ske i Moskva under lördagen. Det varnar USA:s ambassad om och uppmanar människor att hålla sig borta. Nu jobbar de båda länderna tillsammans för att säkerställa att det inte sker.",
       "link": "https://www.expressen.se/nyheter/varlden/usas-ambassad-varnar-for-dad-i-moskva-mzeil/",
@@ -72,6 +122,16 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Svenska Yle",
       "sourceKey": "https://svenska.yle.fi/rss/senaste-nytt",
       "timestamp": 1793477857000
+    },
+    {
+      "title": "Den förstår mycket mer än du tror: Hunden lyssnar aktivt på dina samtal",
+      "description": "Du har säkert undrat hur mycket din hund faktiskt förstår av vad du säger. Beteendebiologen Claudia Fugazza har forskat i hundars intelligens i mer än tio år och nu har hon genomfört ett experiment som ger ett närmast chockerande svar.",
+      "link": "https://illvet.se/naturen/den-forstar-mycket-mer-an-du-tror-hunden-lyssnar-aktivt-pa-dina-samtal",
+      "guid": "https://illvet.se/naturen/den-forstar-mycket-mer-an-du-tror-hunden-lyssnar-aktivt-pa-dina-samtal",
+      "image": "",
+      "source": "Illustrerad Vetenskap",
+      "sourceKey": "https://illvet.se/feed/rss",
+      "timestamp": 1793475024000
     },
     {
       "title": "Europaparlamentariker vill stoppa Ryssland från Ishockey-VM",
@@ -328,7 +388,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Vallentuna kulturhus nyinvigt efter stor renovering",
       "link": "https://www.mitti.se/nyheter/efter-14-ar-nu-har-vallentunas-samlingspunkt-byggts-om-6.3.393622.5033c8b6da",
       "guid": "https://www.mitti.se/nyheter/efter-14-ar-nu-har-vallentunas-samlingspunkt-byggts-om-6.3.393622.5033c8b6da",
-      "image": "https://www.mitti.se/image-3.387218.314298.20261031153620.1.fcbf5f4b8a?format=jpeg",
+      "image": "https://www.mitti.se/image-3.387218.314298.20261101004954.1.e72afe4cf4?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793459100000
@@ -474,16 +534,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793453185000
     },
     {
-      "title": "Försvunnen flicka död – ingen misstanke om brott",
-      "description": "Ingen misstanke om brott • Stor insats i Göteborg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5ce1c445-7f95-4135-80d6-2af38750efc2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5ce1c445-7f95-4135-80d6-2af38750efc2",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793453007000
-    },
-    {
       "title": "Kanazawa, 90, är professionell bodybuilder",
       "description": "Japanen Toshisuke Kanazawa har blivit ett globalt fenomen. Vid 90 års ålder tävlar han fortfarande i bodybuilding. Hans hemlighet? Råris, natto, misosoppa och två timmar om dagen på gymmet – sex dagar i veckan.",
       "link": "https://www.expressen.se/nyheter/varlden/kanazawa-90-ar-professionell-bodybuilder-/",
@@ -584,16 +634,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793449800000
     },
     {
-      "title": "Tågstopp",
-      "description": "Påverkar Stockholm–Göteborg",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=b57293c5-e52d-4636-a384-052164d77fb9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b57293c5-e52d-4636-a384-052164d77fb9",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793449366000
-    },
-    {
       "title": "Inhemska skidsäsongen inleddes med sprint – Tiia Olkkonen och Juuso Varis vann när landslagsåkarna saknades",
       "description": "Tiia Olkkonen krönte en dominant premiär med att vinna damernas sprint i finska cupen. På herrsidan blev Juuso Varis en överraskande segrare.",
       "link": "https://yle.fi/a/7-10107911?origin=rss",
@@ -652,16 +692,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Dagens PS",
       "sourceKey": "https://www.dagensps.se/feed",
       "timestamp": 1793446977000
-    },
-    {
-      "title": "Partitoppen varnar för ”blodbad” i mellanårsvalet",
-      "description": "Den republikanska senatorn Ted Cruz varnar för ett blodbad. En statistisk modell tror att fästet Kansas förloras – för första gången på 94 år. ”Det är pinsamt”, skriver en republikansk kongressledamot om kampen i South Carolina.",
-      "link": "https://www.expressen.se/nyheter/varlden/partitoppen-varnar-for-blodbad-i-mellanarsvalet/",
-      "guid": "https://www.expressen.se/nyheter/varlden/partitoppen-varnar-for-blodbad-i-mellanarsvalet/",
-      "image": "",
-      "source": "Expressen Nyheter",
-      "sourceKey": "https://feeds.expressen.se/nyheter/",
-      "timestamp": 1793446333000
     },
     {
       "title": "Liisa Akimof får höra att hon är galen som gjort en ”för snäll” dokumentär om Riikka Purra",
@@ -848,7 +878,7 @@ window.KALLRUMMET_NEWS_CACHE = {
       "description": "Hyresförhandlingarna för 2027 har påbörjats och för 13 fastigheter i Sigtuna kommun står det nu klart hur stor nästa års hyreshöjning blir.",
       "link": "https://www.mitti.se/nyheter/sa-mycket-hojs-hyrorna-nasta-ar-6.3.391922.369fda1fc0",
       "guid": "https://www.mitti.se/nyheter/sa-mycket-hojs-hyrorna-nasta-ar-6.3.391922.369fda1fc0",
-      "image": "https://www.mitti.se/image-3.133328.312421.20261031083010.6e19629d57?format=jpeg",
+      "image": "https://www.mitti.se/image-3.133328.312421.20261101024130.c36b2215c9?format=jpeg",
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793433600000
@@ -2344,16 +2374,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793277533000
     },
     {
-      "title": "Mystisk upptäckt 1 370 meter under havsytan kan rymma häpnadsväckande spår från livets begynnelse",
-      "description": "Några av de allra första kapitlen i vår historia kan finnas dolda djupt under havsytan.",
-      "link": "https://illvet.se/naturen/mystisk-upptackt-1-370-meter-under-havsytan-kan-rymma-hapnadsvackande-spar-fran-livets-begynnelse",
-      "guid": "https://illvet.se/naturen/mystisk-upptackt-1-370-meter-under-havsytan-kan-rymma-hapnadsvackande-spar-fran-livets-begynnelse",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1793277354000
-    },
-    {
       "title": "Hyreshus på Östermalm kan bli Årets fasad 2026",
       "description": "Efter 16 månader av varsam renovering har det påkostade hyreshuset Björken 18 på Valhallavägen på Östermalm återfått sin forna glans. Nu tävlar Familjebostäder i Stockholm om utmärkelsen Årets fasad 2026.",
       "link": "https://www.mitti.se/nyheter/hyreshus-pa-ostermalm-kan-bli-arets-fasad-2026-6.3.392424.160a8b11ad",
@@ -2554,16 +2574,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "timestamp": 1793266550000
     },
     {
-      "title": "Så många människor skulle en vampyr behöva tömma på blod för att överleva",
-      "description": "En vampyr som Dracula skulle ha fullt upp för att tillgodose sitt näringsbehov enbart genom att dricka blod. Dessutom skulle han – utöver den etiska baksmällan – dras med allvarliga hälsoproblem.",
-      "link": "https://illvet.se/manniskan/sa-manga-manniskor-skulle-en-vampyr-behova-tomma-pa-blod-for-att-overleva",
-      "guid": "https://illvet.se/manniskan/sa-manga-manniskor-skulle-en-vampyr-behova-tomma-pa-blod-for-att-overleva",
-      "image": "",
-      "source": "Illustrerad Vetenskap",
-      "sourceKey": "https://illvet.se/feed/rss",
-      "timestamp": 1793264437000
-    },
-    {
       "title": "Dags för kultursnack i Ekerö centrum",
       "description": "Ekerö kommun ordnar temakvällar i Kulturhusets foajé vid Ekerö bibliotek – representanter från Drottningholms slott, Statens Fastighetsverk och Strömma/Birka kommer 3 november 2026.",
       "link": "https://www.mitti.se/nyheter/dags-for-kultursnack-i-ekero-centrum-6.3.392554.e408c0e541",
@@ -2702,16 +2712,6 @@ window.KALLRUMMET_NEWS_CACHE = {
       "source": "Mitti",
       "sourceKey": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
       "timestamp": 1793250060000
-    },
-    {
-      "title": "Nazistiska hjärnforskare gjorde barnamord till en vetenskap: ”De ville ta reda på om intellektuella funktionsnedsättningar var ärftliga”",
-      "description": "En tysk historiker har avslöjat hur hundratals barn tvingades dö eftersom nazistiska forskare var intresserade av deras hjärnor. Det var dock framför allt berättelsen om en 15-årig flicka som gjorde stort intryck på honom.",
-      "link": "https://varldenshistoria.se/krig/andra-varldskriget/nazism/nazistiska-hjarnforskare-gjorde-barnamord-till-en-vetenskap-de-ville-ta-reda-pa-om-intellektuella-funktionsnedsattningar-var-arftliga",
-      "guid": "https://varldenshistoria.se/krig/andra-varldskriget/nazism/nazistiska-hjarnforskare-gjorde-barnamord-till-en-vetenskap-de-ville-ta-reda-pa-om-intellektuella-funktionsnedsattningar-var-arftliga",
-      "image": "",
-      "source": "Världens Historia",
-      "sourceKey": "https://varldenshistoria.se/feed/rss",
-      "timestamp": 1793250015000
     },
     {
       "title": "Rätt modell vid rätt tillfälle – leverantörernas vision för agentiska AI-pc",
